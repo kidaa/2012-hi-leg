@@ -1,0 +1,118 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1805
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE HAWAII EMPLOYER-UNION HEALTH BENEFITS TRUST FUND.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The purpose of this Act is to address the unfunded actuarial accrued liability of the Hawaii employer-union health benefits trust fund.
+     More specifically, for an employee who is hired by the State or a county after June 30, 2012, and who subsequently retires with at least ten years of credited service, this Act provides that:
+     (1)  If the employee retires before reaching the medicare-eligible age, the employee shall be allowed to enroll in a non-medicare self plan, and the State or county shall contribute to the cost of the plan.  Upon reaching the medicare-eligible age, the employee shall no longer be eligible for the non-medicare self plan and shall enroll in the medicare part B medical insurance plan and be eligible for premium reimbursements from the State or county; or
+     (2)  If the employee retires upon or after reaching the medicare-eligible age, the employee shall enroll in the medicare part B medical insurance plan, be entitled to premium reimbursements from the State or county, and shall not be eligible to enroll in any health benefits plan of the trust fund.
+     This Act also provides that the spouse of a retired employee who was first hired after June 30, 2012, shall not be eligible for any state or county contribution for the medicare part B premium.
+     SECTION 2.  Chapter 87A, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§87A-     State and county contributions; employees hired after June 30, 2012, and retired.  (a)  For the purpose of this section:
+     "Credited service" means the same as defined under section 88-21.
+     "Medicare-eligible age" means the minimum age at which a person may enroll in the medicare part B medical insurance plan.
+     (b)  This section shall apply to state and county contributions to the fund for employees hired after June 30, 2012, who subsequently retire with at least ten years of credited service.  Years of credited service for an employee hired after June 30, 2012, shall be computed in the same manner as under chapter 88.
+     (c)  If an employee to whom this section applies retires before reaching the medicare-eligible age, the retired employee shall be allowed to enroll only in a non-medicare self plan of the fund until reaching the medicare-eligible age.
+     While the retired employee is enrolled in the non-medicare self plan, the State or county, as applicable, shall pay to the fund for the retired employee's self plan a monthly contribution equal to the least costly of the following:
+     (1)  One-half of the base non-medicare monthly contribution for the self plan calculated in accordance with section 87A-33;
+     (2)  One-half of the actual monthly cost of the self plan; or
+     (3)  The amount equaling the medicare part B premium contribution or reimbursement under section 87A-23(2).
+     Upon reaching the medicare-eligible age, the retired employee shall no longer be eligible to enroll in any health benefits plan of the fund and shall enroll in the medicare part B medical insurance plan as required under section 87A-23(4).
+     (d)  If an employee to whom this section applies retires upon or after reaching the medicare-eligible age, the retired employee upon retirement shall enroll in the medicare part B medical insurance plan as required under section 87A-23(4).
+     The retired employee shall not be eligible to enroll in any health benefits plan of the fund.
+     (e)  When a retired employee subject to subsection (c) or (d) enrolls in the medicare part B medical insurance plan, the State or county, as applicable, shall make the medicare part B premium contribution for or provide any necessary reimbursement to the retired employee as required under section 87A-23(2).
+     (f)  Neither the State nor a county shall make a contribution to the fund for a retired employee to whom this section applies who:
+     (1)  Has less than ten years of credited service; or
+     (2)  Has at least ten years of credited service, but does not enroll in a non-medicare self plan or the medicare part B medical insurance plan, as required under this section."
+     SECTION 3.  Section 87A-21, Hawaii Revised Statutes, is amended by amending subsections (b) and (c) to read as follows:
+     "(b)  A retired member of the employees' retirement system; a county pension system; or a police, firefighters, and bandsmen pension system of the State or county, shall be eligible to qualify as an employee-beneficiary:
+     (1)  Regardless of whether the retired member was actively employed by the State or county at the time of the retired employee's retirement; and
+     (2)  Without regard to the date of the retired member's retirement[.], except as otherwise provided under this chapter.
+     (c)  A dependent of a retired member shall be eligible to qualify as an employee-beneficiary or dependent-beneficiary:
+     (1)  Regardless of whether the retired member was actively employed by the State or county at the time of the retired employee's retirement; and
+     (2)  Without regard to the date of the retired member's retirement[.], except as otherwise provided under this chapter."
+     SECTION 4.  Section 87A-23, Hawaii Revised Statutes, is amended to read as follows:
+     "§87A-23  Health benefits plan supplemental to medicare.  The board shall establish a health benefits plan, which takes into account benefits available to an employee-beneficiary and spouse under medicare, subject to the following conditions:
+     (1)  There shall be no duplication of benefits payable under medicare.  The plan under this section, which shall be secondary to medicare, when combined with medicare and any other plan to which the health benefits plan is subordinate under the National Association of Insurance Commissioners' coordination of benefit rules, shall provide benefits that approximate those provided to a similarly situated beneficiary not eligible for medicare;
+     (2)  The State, through the department of budget and finance, and the counties, through their respective departments of finance, shall pay to the fund a contribution equal to an amount not less than the medicare part B premium, for each of the following who are enrolled in the medicare part B medical insurance plan:
+         (A)  [an] An employee-beneficiary who is a retired employee[,];
+         (B)  [an] An employee-beneficiary's spouse while the employee-beneficiary is living[,]; and
+         (C)  [an] An employee-beneficiary's spouse, after the death of the employee-beneficiary, if the spouse qualifies as an employee-beneficiary[.];
+          except that, notwithstanding subparagraphs (B) and (C), no contribution to the fund by the State or a county shall be paid for the spouse of an employee who first enters service after June 30, 2012.
+          For purposes of this section, a "retired employee" means retired members of the employees' retirement system; county pension system; or a police, firefighters, or bandsmen pension system of the State or a county as set forth in chapter 88.  If the amount reimbursed by the fund under this section is less than the actual cost of the medicare part B medical insurance plan due to an increase in the medicare part B medical insurance plan rate, the fund shall reimburse each employee-beneficiary and employee-beneficiary's spouse for the cost increase within thirty days of the rate change.  Each employee-beneficiary and employee-beneficiary's spouse who becomes entitled to reimbursement from the fund for medicare part B premiums after July 1, 2006, shall designate a financial institution account into which the fund shall be authorized to deposit reimbursements.  This method of payment may be waived by the fund if another method is determined to be more appropriate;
+     (3)  The benefits available under this plan, when combined with benefits available under medicare or any other coverage or plan to which this plan is subordinate under the National Association of Insurance Commissioners' coordination of benefit rules, shall approximate the benefits that would be provided to a similarly situated employee-beneficiary not eligible for medicare;
+     (4)  All employee-beneficiaries or dependent-beneficiaries who are eligible to enroll in the medicare part B medical insurance plan shall enroll in that plan as a condition of receiving contributions and participating in benefits plans under this chapter.  This paragraph shall apply to retired employees, their spouses, and the surviving spouses of deceased retirees and employees killed in the performance of duty; and
+     (5)  The board shall determine which of the employee-beneficiaries and dependent-beneficiaries, who are not enrolled in the medicare part B medical insurance plan, may participate in the plans offered by the fund."
+     SECTION 5.  Section 87A-33, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  Notwithstanding any law to the contrary, this section shall apply to state and county contributions to the fund for:
+     (1)  The dependent-beneficiary of an employee who is killed in the performance of duty;
+     (2)  A dependent-beneficiary, upon the death of the employee-beneficiary, except as provided in section 87A-36;
+     (3)  An employee-beneficiary who retired after June 30, 1984, due to a disability falling within sections 88-79 and 88-285;
+     (4)  An employee-beneficiary who retired before July 1, 1984;
+     (5)  An employee-beneficiary who:
+         (A)  Was hired before July 1, 1996;
+         (B)  Retired after June 30, 1984; and
+         (C)  Who has ten years or more of credited service, excluding sick leave;
+     (6)  An employee-beneficiary who:
+         (A)  Was hired after June 30, 1996[;], and before July 1, 2012; and
+         (B)  Retired with twenty-five or more years of credited service, excluding sick leave, except as provided in section 87A-36; and
+     (7)  Employees who retired prior to 1961 and their dependent-beneficiaries."
+     SECTION 6.  Section 87A-33.5, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§87A-33.5[]]  State and county contribution; reimbursement for retired employees.  (a)  Effective July 1, 2007, an employee-beneficiary who retires and relocates outside of the State shall be reimbursed for the premiums paid by the employee-beneficiary for a personal health insurance policy; provided that the board shall determine which employee-beneficiaries and what types of personal health insurance policies shall be eligible for reimbursement and may set other conditions consistent with this section that shall be met for the employee-beneficiary to receive the reimbursements provided under this section.
+     (b)  For an employee first hired after June 30, 2012, who retires before reaching the medicare-eligible age, only a personal health insurance policy equivalent to a non-medicare self plan shall be eligible for reimbursement under this section.  Upon and after reaching the medicare-eligible age, the retired employee shall not be eligible for reimbursement for any personal health insurance policy.
+     For an employee first hired after June 30, 2012, who retires upon or after reaching the medicare-eligible age, no personal health insurance policy shall be eligible for reimbursement under this section.
+     (c)  The reimbursement under this section shall be the lesser of:
+     (1)  The actual cost of the personal health insurance policy; or
+     (2)  The amount of the state or county contribution for the most comparable health benefits plan.
+     Reimbursements shall be paid by the fund on a quarterly basis upon the presentation of documentation that the premiums for the personal health insurance policy have been paid by the employee-beneficiary.
+     (d)  This section shall apply to all employee-beneficiaries who retire and relocate outside of the State, regardless of their date of retirement."
+     SECTION 7.  Section 87A-36, Hawaii Revised Statutes, is amended to read as follows:
+     "§87A-36  State and county contributions; employees hired after June 30, 2001, and before July 1, 2012, and retired.  (a)  This section shall apply to state and county contributions to the fund for employees hired after June 30, 2001, and before July 1, 2012, and who retired, except that this section shall not apply to the following employees, for whom state and county contributions shall be made as provided by section 87A-35:
+     (1)  An employee hired after June 30, 1996, and prior to July 1, 2001, who transfers employment after June 30, 2001, and who cumulatively accrues at least ten years of credited service; and
+     (2)  An employee hired after June 30, 1996, and prior to July 1, 2001, who has at least ten years of credited service prior to a break in service.
+     For purposes of this section:
+     "Break in service" means to leave state or county employment for more than ninety calendar days before returning to state or county employment.
+     "Transfer" means to leave state or county employment and return to state or county employment within ninety calendar days.
+     (b)  For purposes of this section, if an employee leaves state or county employment and returns to state or county employment after July 1, 2001, and before July 1, 2012, upon retirement, the employee's years of service shall be computed in the same manner as set forth in chapter 88.
+     (c)  The State, through the department of budget and finance, and the counties, through their respective departments of finance, shall pay to the fund:
+     (1)  For retired employees based on the self plan with ten or more years but fewer than fifteen years of service, a monthly contribution equal to one-half of the base medicare or non-medicare monthly contribution set forth under section 87A-33(b);
+     (2)  For retired employees based on the self plan with at least fifteen but fewer than twenty-five years of service, a monthly contribution equal to seventy-five per cent of the base medicare or non-medicare monthly contribution set forth under section 87A-33(b);
+     (3)  For retired employees based on the self plan with twenty-five or more years of service, a monthly contribution equal to one-hundred per cent of the base medicare or non-medicare monthly contribution set forth under section 87A-33(b); and
+     (4)  One-half of the monthly contributions for the employee-beneficiary or employee-beneficiary with dependent-beneficiaries upon the death of the employee, as defined in paragraph (1)(E) of the definition of "employee" in section 87A-1.
+     If both husband and wife are employee-beneficiaries, the total contribution by the State or county shall not exceed the monthly contribution for two supplemental medicare self or non-medicare self plans, as appropriate."
+     SECTION 8.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 9.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Hawaii Employer-Union Health Benefits Trust Fund; New Employees
+ 
+Description:
+Limits the health insurance benefits for an employee who is first hired after 06/30/12 and who retires with at least 10 years of credited service.  Provides that, if the employee retires before reaching the medicare-eligible age, the retired employee shall be allowed to enroll only in a non-medicare self plan.  Requires the State or county to make a contribution towards the non-medicare self plan cost.  Requires the retired employee to enroll in the medicare part B medical insurance plan if the employee retires upon or after reaching the medicare-eligible age.  Requires contributions to or reimbursements for the medicare part B premium.  Prohibits the retired employee from enrolling in any health benefits plan of the fund.  Provides also that the spouse of a retired employee who is first hired after 06/30/12 shall not be eligible for medicare part B premium reimbursements.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

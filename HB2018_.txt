@@ -1,0 +1,59 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2018
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO FORECLOSURES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 667-60, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§667-60[]]  Unfair or deceptive act or practice[.]; transfer of title.  (a)  [Any foreclosing mortgagee who violates] Nothing in this chapter shall be construed as preventing a mortgagor from asserting that a violation of this chapter [shall have committed] is an unfair or deceptive act or practice under section 480-2[.]; provided that in a dispute resolution conducted under part V, a mortgagee's failure to provide the documentation under section 667-80(c)(1)(A) and (B) necessary to demonstrate that the mortgagee has the rights of a holder in due course under section 490:3-203(b) and articles 3 and 9 of the Uniform Commercial Code shall be prima facie evidence of an unfair or deceptive act or practice under section 480-2.
+     (b)  Any action to void the transfer of title to the purchaser of property under this chapter shall be filed in the circuit court of the circuit within which the foreclosed property is situated no later than            days following the recording of the affidavit required by section 667-5 or 667-32, as applicable.  If no such action is filed within the            day period, title to the property shall be deemed conclusively vested in the purchaser free and clear of any claim by the mortgagor or any person claiming by, through, or under the mortgagor.  Nothing in this section shall be construed as precluding an action seeking the recovery of monetary damages for an illegal transfer of title."
+     SECTION 2.  Section 667-60, Hawaii Revised Statutes, is amended to read as follows:
+     "§667-60  Unfair or deceptive act or practice; transfer of title.  (a)  [Nothing in this chapter shall be construed as preventing a mortgagor from asserting that a violation of this chapter is an unfair or deceptive act or practice under section 480-2; provided that in a dispute resolution conducted under part V, a mortgagee's failure to provide the required documentation under sections 667-80(c)(1)(A) and 667-80(c)(1)(B) that adequately demonstrates that the mortgagee has the rights of a holder in due course under section 490:3-203(b) and articles 3 and 9 of the Uniform Commercial Code shall be prima facie evidence of an unfair or deceptive act or practice under section 480-2.] Any foreclosing mortgagee who engages in any of the following violations of this chapter shall have committed an unfair or deceptive act or practice under section 480-2:
+     (1)  Failing to provide a borrower or mortgagor with, or failing to serve as required, the information required by section 667-5, 667-22, or 667-55;
+     (2)  Failing to publish, or to post, information on the mortgaged property, as required by section 667-5, 667-27, or 667-28;
+     (3)  Failing to take any action required by section 667-24 if the default is cured or an agreement is reached;
+     (4)  Engaging in conduct prohibited under section 667-56;
+     (5)  Holding a public sale in violation of section 667-25 or 667-26;
+     (6)  Failing to include in a public notice of public sale the information required by section 667-27 or 667-28;
+     (7)  Failing to provide the public information required by section 667-41;
+     (8)  Completing a nonjudicial foreclosure while a stay is in effect under section 667-83;
+     (9)  Failing to distribute sale proceeds as required by section 667-31;
+    (10)  Making any false statement in the affidavit of public sale required by section 667-32; and
+    (11)  Attempting to collect a deficiency in violation of section 667-38;
+provided that a mortgagee's failure to demonstrate that the mortgagee has the rights of a holder in due course under section 490:3-203(b) and articles 3 and 9 of the Uniform Commercial Code shall be prima facie evidence of an unfair or deceptive act or practice under section 480-2; and provided further that nothing in this chapter shall be construed as precluding a mortgagor from asserting that a violation of this chapter by a mortgagee is an unfair or deceptive act or practice under section 480-2.
+     (b)  Notwithstanding subsection (a), the transfer of title to the purchaser of the property as a result of a foreclosure under this chapter shall only be subject to avoidance under section 480-12 for violations described in subsection (a)(1) to (8) if the violations are shown to be substantial and material; provided that a foreclosure sale shall not be subject to avoidance under section 480-12 for a violation of section 667-56(5).
+     [(b)] (c)  Any action to void the transfer of title to the purchaser of property under this chapter shall be filed in the circuit court of the circuit within which the foreclosed property is situated no later than            days following the recording of the affidavit required by section 667-5 or 667-32, as applicable.  If no such action is filed within the           -day period, then title to the property shall be deemed conclusively vested in the purchaser free and clear of any claim by the mortgagor or any person claiming by, through, or under the mortgagor.  Nothing in this section shall be construed as preventing an action seeking the recovery of monetary damages for an illegal transfer of title."
+     SECTION 3.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval; provided that section 2 of this Act shall take effect on October 1, 2014.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+ 
+
+ 
+Report Title:
+Foreclosures; Unfair or Deceptive Act or Practice; Title Transfers
+ 
+Description:
+Repeals the provision automatically making all violations of the mortgage foreclosure law an unfair or deceptive act or practice, in favor of determinations made on a case-by-case basis.  Establishes a time limit for filing actions to void title transfers of foreclosed property.  Specifies a mortgagor's right to claim that a violation of the mortgage foreclosure law constitutes an unfair or deceptive act or practice.  Provides that a mortgagee's failure to demonstrate rights of a holder in due course is prima facie evidence of an unfair or deceptive act or practice.  Following the expiration of the mortgage foreclosure dispute resolution program in 2014, specifies certain foreclosure violations as unfair or deceptive acts or practices, and limits the types of violations that may void a title transfer of foreclosed property.
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

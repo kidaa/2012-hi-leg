@@ -1,0 +1,111 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2767
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PROCUREMENT.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 103D, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows:
+"PART   .
+STATE CONSTRUCTION PROJECTS
+     §103D-A  Definitions.  As used in this part:
+     "Bidding time" means the period of time between the date of publication of the invitation for bids and the time and date set for the opening of bids.
+     "Competitive sealed bidding" means a procurement method by which vendors submit sealed bids or offers in response to an advertised solicitation.
+     "Invitation for bids" means all documents, whether attached or incorporated by reference, used for soliciting bids.
+     "Low tie bids" means the low responsible and responsive bids that are identical in price and that meet all the requirements and criteria set forth in the invitation for bids.
+     "Procurement" means buying, purchasing, renting, leasing, or otherwise acquiring any good, service, or construction.  The term also includes all functions that pertain to the obtaining of any good, service, or construction, including a description of requirements, the selection and solicitation of sources, the preparation and award of contracts, and all phases of contract administration.
+     "State agency" means any executive department and any commission, board, authority, bureau, office, and any other entity that is attached to the executive department that enters or seeks to enter into a contract for procurement.  "State agency" shall not include the office of Hawaiian affairs.
+     "State construction project" means any building construction project or program initiated by a state agency or requiring the use of state funds.
+     §103D-B  Application of this part.  Notwithstanding any provision of this chapter to the contrary, this part shall apply to contracts for state construction projects solicited or entered into by a state agency from the effective date of this Act until December 31, 2015.  Any provisions of chapter 103D not inconsistent with this part shall apply to the procurement of state construction projects pursuant to this part.
+     §103D-C  Competitive sealed bidding; procedures; requirements.  (a)  All procurements for state construction projects shall be awarded by competitive sealed bidding.
+     (b)  No vendor or potential vendor shall parcel a purchase to avoid the requirements of competitive sealed bidding.
+     (c)  Lease and lease-purchase contracts for equipment, maintenance contracts, or any other multi-year contracts are subject to the requirements of competitive sealed bidding if:
+     (1)  The total expenditure for one year equals or exceeds the bidding threshold set forth herein;
+     (2)  The lease agreement includes an option to purchase and the total expenditure under this option equals or exceeds the bidding threshold, including lease payments;
+     (3)  The total expenditure for a multi-year contract exceeds the bidding threshold even though the total annual expenditure falls below the bidding threshold;
+     (4)  Foreseeable purchases of the same item processed by the state agency within one year would equal or exceed the bidding threshold; or
+     (5)  The purchase of a number of related items equals or exceeds the bidding threshold.
+     (d)  The state agency shall publicly solicit an invitation for bids.  Upon receipt and review of the invitation for bids and a determination of the lowest responsible and responsive bidder, the state agency shall issue and execute a contract; obtain a performance bond, if applicable; and issue a notice to proceed.
+     §103D-D  Invitation for bids.  The invitation for bids shall contain the terms, general provisions, special provisions, and technical specifications to be used by bidders in preparing their bids.  Such terms, general provisions, special provisions, and technical specifications shall later be incorporated into the contract between the state agency and the vendor to whom the contract is awarded.
+     §103D-E  Bids; technical specifications.  The technical specifications shall serve as a basis for obtaining goods, services, or construction that are adequate and suitable for the state agency's needs in a cost-effective manner, taking into account, to the extent practicable, the costs of ownership and operation as well as initial acquisition costs.
+     Technical specifications shall permit maximum practicable competition consistent with this purpose and shall clearly describe the state agency's requirements.  Any specification that restricts competition shall be justified in writing by the state agency.
+     To provide a common basis for bidding, technical specifications shall set out the minimum essential characteristics of what is being purchased.
+     §103D-F  Bidding time.  Bidding time shall be set to provide bidders a reasonable time to prepare their bids.
+     §103D-G  Solicitation of bids.  Notice of the availability of the solicitation shall be made public in the following manner:
+     (1)  Placed on the internet site of the state agency soliciting the bids; and
+     (2)  Published as a legal advertisement either in a daily or weekly publication of general circulation within the State or in a daily or weekly publication of local circulation in a county of the State, if available, pertinent to the procurement.
+     Invitations for bids may be mailed to bidders.
+     §103D-H  Pre-bid conferences.  (a)  Pre-bid conferences may be conducted by the state agency to explain the procurement requirements.  All potential bidders shall be notified of the pre-bid conference in the invitation for bids.  The pre-bid conference shall be held sufficiently after the invitation for bids has been issued to allow bidders to become familiar with it but sufficiently before the opening of bids to allow bidders to prepare their bids based on the results of the pre-bid conference.  Nothing stated at the pre-bid conference shall change the invitation for bids unless a change is made by written amendment as set forth in section 103D-J.
+     (b)  At least fifteen days prior to the submission of bids similar to those described in section 103D-302 for a construction or design-build project with a total estimated contract value of $500,000 or more, the state agency shall hold a pre-bid conference and shall invite all potential interested bidders, offerors, subcontractors, and union representatives to attend.  The state agency shall comply with the rules adopted pursuant to section 103D-303.5 by the procurement policy board.
+     §103D-I  Right to audit records.  (a)  The state agency, at reasonable times and places, may audit the books and records of any person who has submitted cost or pricing data similar to those described in section 103D-312 to the extent that such books and records relate to such cost or pricing data.  Any person who receives a contract, change order, or contract modification for which cost or pricing data is required, shall maintain such books and records that relate to such cost or pricing data for three years from the date of final payment under the contract, unless another period is otherwise authorized in writing.
+     (b)  The state agency shall be entitled to audit the books and records of a contractor or any subcontractor under any negotiated contract or subcontract other than a fixed-price contract to the extent that such books and records relate to the performance of such contract or subcontract.  The books and records shall be maintained by the contractor for a period of three years from the date of final payment under the prime contract and by the subcontractor for a period of three years from the date of final payment under the subcontract, unless another period is otherwise authorized in writing.
+     §103D-J  Invitation for bids; amendment.  If, after the issuance of an invitation for bids but before the time for the opening of bids, it becomes necessary for the state agency to:
+     (1)  Make changes in quantity, specifications, delivery schedules, or opening dates; or
+     (2)  Correct a defective or ambiguous invitation,
+such changes shall be accomplished by the issuance by the state agency of a written amendment to the invitation for bids that may include amendments to the bidding time.
+     §103D-K  Bids; listing of subcontractors.  In the solicitation for bids for state construction projects with a total estimated contract value of $1,000,000 or higher, the state agency shall require each bidder to submit a listing of the bidder's subcontractors who are to perform work with a value that exceeds five per cent of the total bid amount submitted by the bidder.
+     §103D-L  Modification or withdrawal of bids.  Prior to the time and date set for the opening of bids, any bidder may modify or withdraw, in writing, a bid already submitted by the bidder.
+     §103D-M  Late bids.  Any bid received by the state agency after the time set for the opening of bids is a late bid and shall not be considered for award.
+     §103D-N  Cancellation of invitation for bids.  Cancellations of an invitation for bids may be made when in the best interest of the state agency.
+     §103D-O  Submission of bids; opening of bids.  Bids submitted in response to an invitation for bids shall be submitted to the state agency and shall remain sealed until the time designated for the opening of bids.  At such time, bids shall be opened, publicly read, and recorded.
+     §103D-P  Bid evaluation and award.  (a)  Following the opening of bids, bids shall be evaluated by the state agency for legal sufficiency and technical compliance.  Bids that fail to meet statutory requirements or that take exception to or do not meet specifications shall be rejected.  Minor mistakes in bids that do not affect price, quantity, quality, delivery, or contractual conditions may be waived by the state agency when it is determined to be in the best interest of the state agency.
+     (b)  When the state agency knows or has reason to conclude that a mistake has been made, it shall request the bidder to confirm the bid.  If the bidder alleges mistake, the bid may be corrected or withdrawn upon submission of data to substantiate the mistake, if correction or withdrawal is not contrary to the best interest of the state agency or to the fair treatment of other bidders.
+     (c)  If the mistake and intended correct bid are clearly evident on the face of the bid document, the bid shall be corrected to reflect the intended correct bid.  Examples of mistakes that may be clearly evident on the face of the bid document include typographical errors, errors in extending unit prices, transposition errors, and arithmetical errors.
+     (d)  Withdrawal of bids after the opening of bids but prior to award may be made if the mistake is attributable to an obvious error that will affect price, quantity, quality, delivery, or contractual conditions.  The bidder shall request permission to withdraw a bid and shall provide clear and convincing evidence establishing the existence of the mistake.  The bidder may be permitted to withdraw the bid upon written determination by the state agency.
+     §103D-Q  Low tie bids.  In the event of low tie bids, the state agency shall award the bid in the following manner:
+     (1)  Award the contract to the bidder providing goods produced or manufactured in Hawaii or to a bidder that otherwise maintains a place of business in Hawaii;
+     (2)  Award the contract to the identical bidder who received the previous award and continue to succeeding contracts to the same bidder; provided that all low bids are identical; or
+     (3)  Award the bid by the drawing of cards; provided that:
+         (A)  The bidder who draws the highest card shall be awarded the contract; and
+         (B)  The drawing shall be witnessed by at least one person and the file shall be documented with the name of the witness and the person supervising the drawing.
+     §103D-R  Receipt of a lone bid.  If only one bid is received in response to an invitation for bids, the state agency shall make a determination of cost or price reasonableness.
+     §103D-S  Rejection of bids.  A state agency shall retain at all times the option of rejecting all bids and calling for new bids.
+     Late or non-conforming bids may also be rejected, and an award may be made to the next lowest bidder.
+     §103D-T  No bids received.  If no bids or no responsive bids are received for an invitation for bids, the state agency may determine that it is neither practicable nor advantageous to the state agency to solicit sealed bids again.  If this determination is made, the state agency shall select and proceed with a more cost-effective alternative procurement method.
+     §103D-U  Bid preferences; small businesses; set-asides; use as subcontractors; Hawaii products.  (a)  The state agency shall comply with the rules adopted pursuant to section 103D-906 by the procurement policy board.
+     (b) In the state agency's evaluation of bids, consideration shall be given to the preference for Hawaii products as provided under section 103D-1002.
+     §103D-V  Bid; awards.  The state agency shall award the contract to the lowest responsible and responsive bidder whose bid meets the requirements and criteria set forth in the invitation for bids.  The award shall be posted for five working days.
+     The state agency shall authorize the contractor to commence work by issuing a notice to proceed.
+     §103D-W  Release of information before and after bid.  (a)  Information concerning proposed procurements shall not be released outside the state agency, unless otherwise provided by law.
+     (b)  Disclosure of records identifying vendors who obtained a copy of the invitation for bids, attended a pre-bid conference, or submitted a bid shall not be made until the deadline for receipt and opening of bids.  Such information shall be released to all vendors at the same time, as nearly as possible, to prevent potential vendors from gaining unfair advantage over others.
+     (c)  After the solicitation has been issued, discussions with bidders regarding a procurement and the transmission of technical or other information shall be conducted only by the staff of the state agency or by other specifically authorized personnel.  Such staff or personnel shall not furnish any information to a potential bidder which, alone or together with other information, may afford the bidder an advantage over others.  General information that would not be prejudicial to other bidders may be furnished upon request.
+     (d)  Requests for information, such as an explanation of a particular contract clause, general or special provision, or a particular condition in the invitation for bids shall be provided to bidders only by the staff of the state agency.
+     (e)  When necessary to clarify ambiguities, or correct mistakes or omissions, an amendment to the solicitation shall be issued by the state agency and provided to all bidders to whom the solicitation has been provided.
+     (f)  After the opening of bids, the results shall become public information and may be examined by other bidders and the general public.  The recorded results shall be publicly displayed on the internet site of the state agency for at least thirty days.
+     (g)  If a bidder claims that portions of the bidder's bid contain trade secrets or other proprietary data that are to remain confidential, the state agency shall examine the bid to determine the validity of the request for nondisclosure of trade secrets and other proprietary data.
+     (h)  If the state agency and a bidder disagree regarding the disclosure of data, the state agency shall inform the bidders present at the opening of bids that the material designated for nondisclosure shall be subject to written determination by the department of the attorney general with respect to confidentiality.  If the department of the attorney general determines in writing that the material requested to remain confidential is subject to disclosure, the bidder who submitted the material under review and other bidders who were present at the opening of bids shall be so notified in writing, and the material shall be open to public inspection.
+     §103D-X  Rules.  Any state agency may adopt rules without regard to chapter 91 to effectuate the purposes of this part."
+     SECTION 2.  In codifying the new sections added by section 1 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 3.  The revisor of statutes shall insert the effective date of this Act in the appropriate location in section 1 of this Act.
+     SECTION 4.  This Act shall take effect upon its approval and shall be repealed on January 1, 2016; provided that the terms and conditions of any contract executed under this part from the effective date of this Act to December 31, 2015, shall remain in effect, notwithstanding any provision to the contrary in this chapter.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Procurement Code; State Construction Projects
+ 
+Description:
+Temporarily modifies the Procurement Code for state construction projects.  Sunsets December 31, 2015.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

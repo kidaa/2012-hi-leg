@@ -1,0 +1,105 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2325
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO BROADBAND.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 27, Hawaii Revised Statutes, is amended by adding a new section to part VII to be appropriately designated and to read as follows:
+     "§27-     Broadband related permits; automatic approval.  (a)  The State shall approve, approve with modification, or disapprove all applications for broadband related permits within forty-five days of submission of a complete permit application and full payment of any applicable fee.  If on the forty-sixth day an application is not approved, approved with modification, or disapproved, it shall be deemed approved by the State.
+     (b)  Permits issued pursuant to this section shall contain the following language:  "This is a broadband related permit issued pursuant to section 27-   , Hawaii Revised Statutes".
+     (c)  No action shall be prosecuted or maintained against the State, its officials, or employees on account of actions taken by them in reviewing, approving, modifying, or disapproving the permit application.
+     (d)  The forty-five day time period established by this section shall be extended in the event of a natural disaster, state emergency, or union strike, which would prevent the applicant, agency, or a department from fulfilling application review requirements.
+     (e)  For purposes of this section, "broadband related permits" means all state permits required to commence actions relating to the installation, improvement, construction, or development of infrastructure relating to broadband service or broadband technology, including the interconnection of telecommunications cables, cable installation, tower construction, and undersea boring.  The term does not include any state permit for which the approval of a federal agency is explicitly required pursuant to federal law, rule, or regulation, prior to granting final permit approval by the State."
+     SECTION 2.  Chapter 46, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§46-     Broadband related permits; automatic approval.  (a)  A county shall approve, approve with modification, or disapprove all applications for broadband related permits within forty-five days of submission of a complete permit application and full payment of any applicable fee.  If on the forty-sixth day an application is not approved, approved with modification, or disapproved, it shall be deemed approved by the county.
+     (b)  Permits issued pursuant to this section shall contain the following language:  "This is a broadband related permit issued pursuant to section 46-   , Hawaii Revised Statutes".
+     (c)  No action shall be prosecuted or maintained against any county, its officials, or employees on account of actions taken by them in reviewing, approving, modifying, or disapproving the permit application.
+     (d)  The forty-five day time period established by this section shall be extended in the event of a natural disaster, state emergency, or union strike, which would prevent the applicant, agency, or a department from fulfilling application review requirements.
+     (e)  For purposes of this section, "broadband related permits" means all county permits required to commence actions relating to the installation, improvement, construction, or development of infrastructure relating to broadband service or broadband technology, including the interconnection of telecommunications cables, cable installation, tower construction, and undersea boring.  The term does not include any county permit for which the approval of a federal agency is explicitly required pursuant to federal law, rule, or regulation, prior to granting final permit approval by a county."
+     SECTION 3.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval; provided that this Act applies to permit applications filed with the State or a county after December 31, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Broadband Permits; Automatic Approval; Construction
+ 
+Description:
+Requires the State and counties to approve, approve with modification, or disapprove all broadband related permits within 45 days.  If no action is taken, the application will be deemed approved on the 46th day.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+g, li.ExtraSig, div.ExtraSig {mso-style-name:"Extra Sig"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:243.0pt; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.ResolutionBody, li.ResolutionBody, div.ResolutionBody {mso-style-name:"Resolution Body"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} span.BillSectionNumber {mso-style-name:"Bill Section Number"; font-family:Courier;} p.XNotesHeading, li.XNotesHeading, div.XNotesHeading {mso-style-name:XNotesHeading; margin:0in; margin-bottom:.0001pt; text-align:center; font-size:12.0pt; font-family:"Courier New"; font-weight:bold;} p.XNotes, li.XNotes, div.XNotes {mso-style-name:XNotes; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Amend, li.Amend, div.Amend {mso-style-name:Amend; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.PCa, li.PCa, div.PCa {mso-style-name:"PC\(a\)"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Misc, li.Misc, div.Misc {mso-style-name:"Misc\."; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Effective, li.Effective, div.Effective {mso-style-name:Effective; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.BalloonTextChar {mso-style-name:"Balloon Text Char"; mso-style-link:"Balloon Text"; font-family:"Tahoma","sans-serif";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2325
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO BROADBAND.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 27, Hawaii Revised Statutes, is amended by adding a new section to part VII to be appropriately designated and to read as follows:
+     "§27-     Broadband related permits; automatic approval.  (a)  The State shall approve, approve with modification, or disapprove all applications for broadband related permits within forty-five days of submission of a complete permit application and full payment of any applicable fee.  If on the forty-sixth day an application is not approved, approved with modification, or disapproved, it shall be deemed approved by the State.
+     (b)  Permits issued pursuant to this section shall contain the following language:  "This is a broadband related permit issued pursuant to section 27-   , Hawaii Revised Statutes".
+     (c)  No action shall be prosecuted or maintained against the State, its officials, or employees on account of actions taken by them in reviewing, approving, modifying, or disapproving the permit application.
+     (d)  The forty-five day time period established by this section shall be extended in the event of a natural disaster, state emergency, or union strike, which would prevent the applicant, agency, or a department from fulfilling application review requirements.
+     (e)  For purposes of this section, "broadband related permits" means all state permits required to commence actions relating to the installation, improvement, construction, or development of infrastructure relating to broadband service or broadband technology, including the interconnection of telecommunications cables, cable installation, tower construction, and undersea boring.  The term does not include any state permit for which the approval of a federal agency is explicitly required pursuant to federal law, rule, or regulation, prior to granting final permit approval by the State."
+     SECTION 2.  Chapter 46, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§46-     Broadband related permits; automatic approval.  (a)  A county shall approve, approve with modification, or disapprove all applications for broadband related permits within forty-five days of submission of a complete permit application and full payment of any applicable fee.  If on the forty-sixth day an application is not approved, approved with modification, or disapproved, it shall be deemed approved by the county.
+     (b)  Permits issued pursuant to this section shall contain the following language:  "This is a broadband related permit issued pursuant to section 46-   , Hawaii Revised Statutes".
+     (c)  No action shall be prosecuted or maintained against any county, its officials, or employees on account of actions taken by them in reviewing, approving, modifying, or disapproving the permit application.
+     (d)  The forty-five day time period established by this section shall be extended in the event of a natural disaster, state emergency, or union strike, which would prevent the applicant, agency, or a department from fulfilling application review requirements.
+     (e)  For purposes of this section, "broadband related permits" means all county permits required to commence actions relating to the installation, improvement, construction, or development of infrastructure relating to broadband service or broadband technology, including the interconnection of telecommunications cables, cable installation, tower construction, and undersea boring.  The term does not include any county permit for which the approval of a federal agency is explicitly required pursuant to federal law, rule, or regulation, prior to granting final permit approval by a county."
+     SECTION 3.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval; provided that this Act applies to permit applications filed with the State or a county after December 31, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Broadband Permits; Automatic Approval; Construction
+ 
+Description:
+Requires the State and counties to approve, approve with modification, or disapprove all broadband related permits within 45 days.  If no action is taken, the application will be deemed approved on the 46th day.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

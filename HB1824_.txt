@@ -1,0 +1,99 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1824
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO SUBSTANCE ABUSE TESTING.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 353, Hawaii Revised Statutes, is amended by adding a new section to part II to be appropriately designated and to read as follows:
+     "§353-     Fees for periodic substance abuse testing of parolees.  (a)  Except as provided in subsection (b), the Hawaii paroling authority may impose reasonable fees upon a parolee to offset the actual and administrative costs of any periodic substance abuse testing performed on that person as a condition of parole.  The fees may be deducted from any income the parolee has received as a result of labor performed in a correctional facility or as part of any work release program.
+     (b)  Upon a finding of indigence, the Hawaii paroling authority shall require the parolee to pay as much of the fees imposed under this section as is consistent with the parolee's ability to pay.
+     (c)  As used in this section, "substance abuse testing" means a test to determine the presence or amount of alcohol or controlled substance metabolites, or to determine the recent or historical use of alcohol or a controlled substance by the subject of the test, and includes any periodic urinalysis or similar test performed for these purposes as a condition of parole pursuant to sections 706-624(2)(l) and 706-670(2)."
+     SECTION 2.  Chapter 706, Hawaii Revised Statutes, is amended by adding a new section to part III to be appropriately designated and to read as follows:
+     "§706-     Fees for periodic substance abuse testing of probationers.  (a)  Except as provided in subsection (b), a court may impose reasonable fees upon a probationer to offset the actual and administrative costs of any periodic substance abuse testing performed on that person as a condition of probation.  The fees may be deducted from any income the probationer has received as a result of labor performed in a correctional facility or as part of any work release program.
+     (b)  Upon a finding of indigence, the court shall require the probationer to pay as much of the fees imposed under this section as is consistent with the probationer's ability to pay.
+     (c)  As used in this section, "substance abuse testing" means a test to determine the presence or amount of alcohol or controlled substance metabolites, or to determine the recent or historical use of alcohol or a controlled substance by the subject of the test, and includes any periodic urinalysis or similar test performed for these purposes as a condition of probation pursuant to section 706-624(2)(l)."
+     SECTION 3.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 4.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Substance Abuse Testing Costs; Probationers; Parolees
+ 
+Description:
+Authorizes imposition of fees on probationers and parolees to offset the costs of periodic substance abuse testing.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+g, li.ExtraSig, div.ExtraSig {mso-style-name:"Extra Sig"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:243.0pt; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.ResolutionBody, li.ResolutionBody, div.ResolutionBody {mso-style-name:"Resolution Body"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} span.BillSectionNumber {mso-style-name:"Bill Section Number"; font-family:Courier;} p.XNotesHeading, li.XNotesHeading, div.XNotesHeading {mso-style-name:XNotesHeading; margin:0in; margin-bottom:.0001pt; text-align:center; font-size:12.0pt; font-family:"Courier New"; font-weight:bold;} p.XNotes, li.XNotes, div.XNotes {mso-style-name:XNotes; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Amend, li.Amend, div.Amend {mso-style-name:Amend; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.1Paragraphunderscored, li.1Paragraphunderscored, div.1Paragraphunderscored {mso-style-name:"\(1\)Paragraph underscored"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New"; text-decoration:underline;} p.Effective, li.Effective, div.Effective {mso-style-name:Effective; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Misc, li.Misc, div.Misc {mso-style-name:"Misc\."; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.BalloonTextChar {mso-style-name:"Balloon Text Char"; mso-style-link:"Balloon Text"; font-family:"Tahoma","sans-serif";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1824
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO SUBSTANCE ABUSE TESTING.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 353, Hawaii Revised Statutes, is amended by adding a new section to part II to be appropriately designated and to read as follows:
+     "§353-     Fees for periodic substance abuse testing of parolees.  (a)  Except as provided in subsection (b), the Hawaii paroling authority may impose reasonable fees upon a parolee to offset the actual and administrative costs of any periodic substance abuse testing performed on that person as a condition of parole.  The fees may be deducted from any income the parolee has received as a result of labor performed in a correctional facility or as part of any work release program.
+     (b)  Upon a finding of indigence, the Hawaii paroling authority shall require the parolee to pay as much of the fees imposed under this section as is consistent with the parolee's ability to pay.
+     (c)  As used in this section, "substance abuse testing" means a test to determine the presence or amount of alcohol or controlled substance metabolites, or to determine the recent or historical use of alcohol or a controlled substance by the subject of the test, and includes any periodic urinalysis or similar test performed for these purposes as a condition of parole pursuant to sections 706-624(2)(l) and 706-670(2)."
+     SECTION 2.  Chapter 706, Hawaii Revised Statutes, is amended by adding a new section to part III to be appropriately designated and to read as follows:
+     "§706-     Fees for periodic substance abuse testing of probationers.  (a)  Except as provided in subsection (b), a court may impose reasonable fees upon a probationer to offset the actual and administrative costs of any periodic substance abuse testing performed on that person as a condition of probation.  The fees may be deducted from any income the probationer has received as a result of labor performed in a correctional facility or as part of any work release program.
+     (b)  Upon a finding of indigence, the court shall require the probationer to pay as much of the fees imposed under this section as is consistent with the probationer's ability to pay.
+     (c)  As used in this section, "substance abuse testing" means a test to determine the presence or amount of alcohol or controlled substance metabolites, or to determine the recent or historical use of alcohol or a controlled substance by the subject of the test, and includes any periodic urinalysis or similar test performed for these purposes as a condition of probation pursuant to section 706-624(2)(l)."
+     SECTION 3.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 4.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Substance Abuse Testing Costs; Probationers; Parolees
+ 
+Description:
+Authorizes imposition of fees on probationers and parolees to offset the costs of periodic substance abuse testing.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

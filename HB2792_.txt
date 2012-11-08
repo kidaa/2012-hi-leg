@@ -1,0 +1,97 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2792
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MEDICAID.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 346, Hawaii Revised Statutes, is amended by adding a new section to part II to be appropriately designated and to read as follows:
+     "§346-    Medical assistance.  (a)  The department may provide beneficiaries who are United States citizens with medical assistance for the following services:
+     (1)  Dialysis, chemotherapy, and other cancer treatments that are medically necessary, as that term is defined in section 432E-1.4;
+     (2)  At least twenty physician inpatient and twenty-four physician outpatient visits for each benefit year; provided that physician visits under this paragraph shall not include visits for dialysis or chemotherapy treatments covered under paragraph (1); and
+     (3)  At least eight drug prescriptions per month;
+provided that medical assistance shall not be provided to an individual who receives the benefits mandated under this section through a medical assistance program as provided under federal law."
+     SECTION 2.  There is appropriated out of the general revenues of the State of Hawaii the sum of $          or so much thereof as may be necessary for fiscal year 2012-2013 to provide medical assistance to beneficiaries who are United States citizens.
+     The sum appropriated shall be expended by the department of human services for the purposes of this Act.
+      SECTION 3.  New statutory material is underscored.
+      SECTION 4.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Medical Assistance
+ 
+Description:
+Authorizes the Department of Human Services to provide medical assistance for dialysis, chemotherapy, and other cancer treatments, inpatient and outpatient physician visits, and drug prescriptions.  Effective July 1, 2012.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+ragraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; mso-style-link:"\#Regular Paragraphs Char"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.ResolutionBody, li.ResolutionBody, div.ResolutionBody {mso-style-name:"Resolution Body"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} span.BillSectionNumber {mso-style-name:"Bill Section Number"; font-family:Courier;} p.XNotesHeading, li.XNotesHeading, div.XNotesHeading {mso-style-name:XNotesHeading; margin:0in; margin-bottom:.0001pt; text-align:center; font-size:12.0pt; font-family:"Courier New"; font-weight:bold;} p.XNotes, li.XNotes, div.XNotes {mso-style-name:XNotes; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Amend, li.Amend, div.Amend {mso-style-name:Amend; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.PCa, li.PCa, div.PCa {mso-style-name:"PC\(a\)"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Misc, li.Misc, div.Misc {mso-style-name:"Misc\."; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Appropriation, li.Appropriation, div.Appropriation {mso-style-name:Appropriation; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Effective, li.Effective, div.Effective {mso-style-name:Effective; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.New, li.New, div.New {mso-style-name:New; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Ramseyer, li.Ramseyer, div.Ramseyer {mso-style-name:Ramseyer; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.RegularParagraphsChar {mso-style-name:"\#Regular Paragraphs Char"; mso-style-link:"\#Regular Paragraphs"; font-family:"Courier New";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2792
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MEDICAID.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 346, Hawaii Revised Statutes, is amended by adding a new section to part II to be appropriately designated and to read as follows:
+     "§346-    Medical assistance.  (a)  The department may provide beneficiaries who are United States citizens with medical assistance for the following services:
+     (1)  Dialysis, chemotherapy, and other cancer treatments that are medically necessary, as that term is defined in section 432E-1.4;
+     (2)  At least twenty physician inpatient and twenty-four physician outpatient visits for each benefit year; provided that physician visits under this paragraph shall not include visits for dialysis or chemotherapy treatments covered under paragraph (1); and
+     (3)  At least eight drug prescriptions per month;
+provided that medical assistance shall not be provided to an individual who receives the benefits mandated under this section through a medical assistance program as provided under federal law."
+     SECTION 2.  There is appropriated out of the general revenues of the State of Hawaii the sum of $          or so much thereof as may be necessary for fiscal year 2012-2013 to provide medical assistance to beneficiaries who are United States citizens.
+     The sum appropriated shall be expended by the department of human services for the purposes of this Act.
+      SECTION 3.  New statutory material is underscored.
+      SECTION 4.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Medical Assistance
+ 
+Description:
+Authorizes the Department of Human Services to provide medical assistance for dialysis, chemotherapy, and other cancer treatments, inpatient and outpatient physician visits, and drug prescriptions.  Effective July 1, 2012.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

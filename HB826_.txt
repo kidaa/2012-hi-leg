@@ -1,0 +1,253 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+826
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE HAWAII EMPLOYER-UNION HEALTH BENEFITS TRUST FUND.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The purpose of this Act is to control the State's and the counties' health benefits costs for retired employees and their dependents by making amendments to the Hawaii employer-union health benefits trust fund law.
+     During the current state budget crisis, the legislature finds it appropriate and necessary to reduce the expenditure of public funds for the health benefits plans of retired employees.  At the state level, active employees have suffered and sacrificed due to layoffs and furloughs in order to balance the state budget.  The legislature finds that retired employees also should share in the burden.
+     This Act does the following:
+     (1)  Establishes a tiered system of employer contributions for the medicare part B premiums of new employees who first enter service after June 30, 2011, and subsequently retire, based on their years of service before retirement;
+     (2)  When a retired employee is married to an active employee, renders the retired employee ineligible to enroll in a two-party or family plan that covers the active employee or any dependent.  Instead, the retired employee may enroll in a self plan and the active employee may enroll in a self or family plan to cover the active employee and, if applicable, any dependent;
+     (3)  When a retired employee's spouse is privately employed and eligible for prepaid health care coverage, renders the spouse ineligible for coverage under the retired employee's health benefits plan unless the spouse also is covered by the prepaid health care plan offered by the private employer;
+     (4)  Requires the office of the auditor to annually evaluate the health benefits plan for retired employees to determine compliance with the requirements that the plan does not duplicate medicare benefits, and must be secondary to medicare;
+     (5)  Provides that the employers' contribution for the medicare part B premium shall be based on the least costly medicare part B premium rate;
+     (6)  Provides medicare part B contributions for a retired employee's spouse only if the employee first entered service before July 1, 2011;
+     (7)  Requires a retired employee to enroll in both medicare part B and a medical benefits plan of the fund as a condition for receiving reimbursements for medicare part B premiums;
+     (8)  Requires a retired employee's spouse who is eligible to enroll in the medicare part B medical insurance plan to enroll in that plan as a condition for participating in a health benefits plan of the fund; and
+     (9)  Requires the annual adjustment of the base monthly contribution for retired employees to be based on the changes to the least costly medicare part B premium rate.
+     SECTION 2.  Chapter 87A, Hawaii Revised Statutes, is amended by adding a new section to part IV to be appropriately designated and to read as follows:
+     "§87A-A_  State and county contributions for medicare part B premiums; employees hired after June 30, 2011, and subsequently retired.  (a)  This section shall apply to state and county contributions to the fund for the medicare part B premiums of employees who first enter state or county service after June 30, 2011, and subsequently retire.
+     (b)  For the purpose of this section, an employee's years of service shall be computed in the same manner as set forth in chapter 88.
+     (c)  The State, through the department of budget and finance, and the counties, through their respective departments of finance, shall pay to the fund for the medicare part B medical insurance plan:
+     (1)  For each retired employee with ten or more years but fewer than fifteen years of service, a monthly contribution equal to one-half of the least costly medicare premium rate;
+     (2)  For each retired employee with at least fifteen years but fewer than twenty-five years of service, a monthly contribution equal to seventy-five per cent of the least costly medicare premium rate; and
+     (3)  For each retired employee with twenty-five or more years of service, a monthly contribution equal to one-hundred per cent of the medicare part B premium rate."
+     SECTION 3.  Section 87A-1, Hawaii Revised Statutes, is amended by adding a new definition of "medical benefits plan" to be appropriately inserted and to read as follows:
+     ""Medical benefits plan" means a group insurance contract or service agreement offered by a carrier providing medical, hospital, surgical, and other health care benefits or a similar schedule of benefits that are provided through the fund on a self-insured basis.  The term does not include a health benefits plan that provides only prescription drug, vision, or dental benefits."
+     SECTION 4.  Section 87A-21, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§87A-21[]]  Eligibility.  (a)  The board shall establish eligibility criteria to determine who can qualify as an employee-beneficiary, dependent-beneficiary, or qualified-beneficiary, consistent with the provisions of this chapter.
+     (b)  [A] Subject to subsections (d) and (e), a retired member of the employees' retirement system; a county pension system; or a police, firefighters, and bandsmen pension system of the State or county, shall be eligible to qualify as an employee-beneficiary:
+     (1)  Regardless of whether the retired member was actively employed by the State or county at the time of the retired employee's retirement; and
+     (2)  Without regard to the date of the retired member's retirement.
+     (c)  A dependent of a retired member shall be eligible to qualify as an employee-beneficiary or dependent-beneficiary:
+     (1)  Regardless of whether the retired member was actively employed by the State or county at the time of the retired employee's retirement; and
+     (2)  Without regard to the date of the retired member's retirement.
+     (d)  When a retired employee is married to and not legally separated from an active employee, the retired employee shall not be eligible to enroll in a two-party or family plan that covers the active employee or any other dependent-beneficiary.  Instead, the retired employee may enroll in a self plan, and the active employee may enroll in a self or family plan to provide coverage for the active employee and, if applicable, any dependent-beneficiary other than the retired employee.
+     This subsection shall apply only while the retired employee and active employee are married to and not legally separated from each other.
+     (e)  When a retired employee's spouse is privately employed and eligible for coverage under a prepaid health care plan offered by the private employer, the retired employee shall not be eligible to enroll in a health benefits plan covering the spouse unless the spouse also is covered under the prepaid health care plan.  If the spouse chooses to forego coverage under the prepaid health care plan, the retired employee may enroll in a self plan, but not a two-party or family plan.  For the purpose of this section, "prepaid health care plan" means the same as defined under section 393-3.
+     This subsection shall apply only while:
+     (1)  The retired employee is married to and not legally separated from the privately employed spouse; and
+     (2)  The spouse is privately employed and eligible for coverage under a prepaid health care plan offered by the private employer."
+     SECTION 5.  Section 87A-23, Hawaii Revised Statutes, is amended to read as follows:
+     "§87A-23  Health benefits plan supplemental to medicare.  The board shall establish a health benefits plan, which takes into account benefits available to an employee-beneficiary and spouse under medicare, subject to the following conditions:
+     (1)  There shall be no duplication of benefits payable under medicare.  The plan under this section, which shall be secondary to medicare, when combined with medicare and any other plan to which the health benefits plan is subordinate under the National Association of Insurance Commissioners' coordination of benefit rules, shall provide benefits that approximate those provided to a similarly situated beneficiary not eligible for medicare[;].
+              The auditor, at least annually, shall evaluate the health benefits plan to determine if it complies with this section and submit a report to the legislature on the auditor's findings;
+     (2)  The State, through the department of budget and finance, and the counties, through their respective departments of finance, shall pay to the fund a contribution equal to [an amount not less than] the least costly medicare part B premium[,] rate for each of the following who are enrolled in the medicare part B medical insurance plan: 
+         (A)  [an] An employee-beneficiary who is a retired employee, regardless of the date of retirement;
+          (B)  [an] An employee-beneficiary's spouse [while] if the employee-beneficiary [is living,] first entered service before July 1, 2011; and
+         (C)  [an] An employee-beneficiary's spouse, after the death of the employee-beneficiary, if [the]:
+              (i)  The spouse qualifies as an employee-beneficiary[.]; and
+             (ii)  The employee-beneficiary first entered service before July 1, 2011.
+          For purposes of this section, a "retired employee" means retired members of the employees' retirement system; county pension system; or a police, firefighters, or bandsmen pension system of the State or a county as set forth in chapter 88.  If the amount reimbursed by the fund under this section is less than the [actual cost of the] least costly medicare part B [medical insurance plan] premium rate due to an increase in the [medicare part B medical insurance plan] premium rate, the fund shall reimburse each [employee-beneficiary and employee-beneficiary's spouse] retired employee for the cost increase within thirty days of the premium rate change.  Each [employee-beneficiary and employee-beneficiary's spouse] retired employee who becomes entitled to reimbursement from the fund for medicare part B premiums after July 1, 2006, shall designate a financial institution account into which the fund shall be authorized to deposit reimbursements.  This method of payment may be waived by the fund if another method is determined to be more appropriate;
+    [(3)  The benefits available under this plan, when combined with benefits available under medicare or any other coverage or plan to which this plan is subordinate under the National Association of Insurance Commissioners' coordination of benefit rules, shall approximate the benefits that would be provided to a similarly situated employee-beneficiary not eligible for medicare;
+     (4)] (3)  All [employee-beneficiaries or dependent-beneficiaries] retired employees who are eligible to enroll in the medicare part B medical insurance plan shall [enroll] be enrolled simultaneously in that plan and a medical benefits plan under this chapter as a condition of receiving contributions and participating in benefits plans under this chapter.  [This paragraph shall apply to retired employees, their spouses, and the surviving spouses of deceased retirees and employees killed in the performance of duty; and] If the retired employee is enrolled only in the medicare part B medical insurance plan, and not a medical benefits plan under this chapter, the retired employee shall not receive any reimbursement of part B premiums from the fund;
+     (4)  A dependent-beneficiary or survivor who becomes an employee-beneficiary eligible to enroll in the medicare part B medical insurance plan shall be enrolled in that plan as a condition for participating in a health benefits plan under this chapter; and
+     (5)  The board shall determine which of the [employee-beneficiaries and dependent-beneficiaries,] retired employees, who are [not enrolled in] ineligible for the medicare part B medical insurance plan, may participate in the plans offered by the fund."
+     SECTION 6.  Section 87A-33, Hawaii Revised Statutes, is amended by amending subsection (d) to read as follows:
+     "(d)  The base composite monthly contribution shall be adjusted annually, beginning July 1, 2005. 
+     The adjusted base composite monthly contribution for each new plan year (July 1 until June 30) shall be calculated by increasing or decreasing the base composite monthly contribution in effect through the end of the previous plan year by the percentage increase or decrease in the least costly medicare part B premium rate for those years[, which].  The percentage shall be calculated by dividing the least costly medicare part B premium rate in effect at the beginning of the new plan year by the least costly medicare part B premium rate in effect at the beginning of the previous plan year.
+     [For the plan year beginning July 1, 2005, the adjusted base monthly contribution shall be computed using the actual contracted premium rate as of July 1, 2004, for medicare and non-medicare, self and family health benefits plans with the highest actual contracted premium rate as of July 1, 2004.]
+     As used in this subsection, "medicare part B premium rate" means the rate published in the Federal Register each year on November 1 or on the business day closest to November 1 of each year after the medicare part B premium rate has been established by the Secretary of Health and Human Services and approved by the United States Congress."
+     SECTION 7.  Section 87A-34, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  The State, through the department of budget and finance, and the counties, through their respective departments of finance, shall pay to the fund for each retired employee enrolled in a medicare or non-medicare health benefits plan a monthly contribution equal to one-half of the lesser of the following:
+     (1)  [the] The base monthly contribution as set forth and adjusted under section 87A-33(b) and (d) for [retired employees enrolled in medicare or non-medicare health benefits plans.] the plan in which the retired employee is enrolled; or
+     (2)  The actual monthly premium cost for that plan.
+If both husband and wife are employee-beneficiaries, the total contribution by the State or county shall not exceed the monthly contribution for supplemental medicare family or non-medicare family plan, as appropriate."
+     SECTION 8.  Section 87A-35, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  The State, through the department of budget and finance, and the counties, through their respective departments of finance, shall pay to the fund:
+     (1)  For each retired [employees] employee enrolled in a  medicare or non-medicare health benefit [plans] plan with ten or more years but fewer than fifteen years of service, a monthly contribution equal to one-half of the lesser of the following:
+         (A)  [the] The base monthly contribution as set forth and adjusted under section 87A-33(b) and (d) for the plan in which the retired employee is enrolled; or
+         (B)  The actual monthly premium cost for that plan; and
+     (2)  For each retired [employees] employee enrolled in a  medicare or non-medicare health benefit [plans] plan with at least fifteen years but fewer than twenty-five years of service, a monthly contribution of seventy-five per cent of the lesser of the following:
+         (A)  [the] The base monthly contribution as set forth and adjusted under section 87A-33(b)[.] and (d) for the plan in which the retired employee is enrolled; or
+         (B)  The actual monthly premium cost for that plan.
+If both husband and wife are employee-beneficiaries, the total contribution by the State or county shall not exceed the monthly contribution for a supplemental medicare family or non-medicare family plan, as appropriate."
+     SECTION 9.  Section 87A-36, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  The State, through the department of budget and finance, and the counties, through their respective departments of finance, shall pay to the fund:
+     (1)  For each retired [employees] employee based on the self plan with ten or more years but fewer than fifteen years of service, a monthly contribution equal to one-half of the lesser of the following:
+         (A)  [the] The base [medicare or non-medicare] monthly contribution as set forth and adjusted under section 87A-33(b)[;] and (d) for the self plan in which the retired employee is enrolled; or
+         (B)  The actual monthly cost for that self plan;
+     (2)  For each retired [employees] employee based on the self plan with at least fifteen years but fewer than twenty-five years of service, a monthly contribution equal to seventy-five per cent of the lesser of the following:
+         (A)  [the] The base [medicare or non-medicare] monthly contribution as set forth and adjusted under section 87A-33(b)[;] and (d) for the self plan in which the retired employee is enrolled; or
+         (B)  The actual monthly cost for that self plan;
+     (3)  For each retired [employees] employee based on the self plan with twenty-five or more years of service, a monthly contribution equal to one-hundred per cent of the lesser of the following:
+         (A)  [the] The base medicare or non-medicare monthly contribution as set forth and adjusted under section 87A-33(b) and (d) for the self plan in which the retired employee is enrolled; or
+         (B)  The actual monthly cost for that self plan; and
+     (4)  One-half of the monthly contributions for the employee-beneficiary or employee-beneficiary with dependent-beneficiaries upon the death of the employee, as defined in paragraph (1)(E) of the definition of "employee" in section 87A-1.
+     If both husband and wife are employee-beneficiaries, the total contribution by the State or county shall not exceed the monthly contribution for two supplemental medicare self or non-medicare self plans, as appropriate."
+     SECTION 10.  Section 87A-37, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  Effective July 1, 2003, there is established a base monthly contribution of $4.16 for each retired employee enrolled in a group life insurance plan; provided that the monthly contribution shall not exceed the actual cost of the group life insurance benefits plan.  The base composite monthly contribution shall be adjusted annually beginning July 1, 2004.  The adjusted base composite monthly contribution for each new plan year shall be calculated by increasing or decreasing the base composite monthly contribution in effect through the end of the previous plan year by the percentage increase or decrease in the least costly medicare part B premium rate for those years.  The percentage shall be calculated by dividing the least costly medicare part B premium rate in effect at the beginning of the new plan year by the least costly medicare part B premium rate in effect through the end of the previous plan year.
+     As used in this subsection, "medicare part B premium rate" means the rate published in the Federal Register each year on November 1 or on the business day closest to November 1 of each year after the medicare part B premium rate has been established by the Secretary of Health and Human Services and approved by the United States Congress."
+     SECTION 11.  In codifying the new section added by section 2 of this Act, the revisor of statutes shall substitute appropriate section number for the letter used in designating the new section in this Act.
+     SECTION 12.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 13.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Hawaii Employer-Union Health Benefits Trust Fund; Comprehensive Amendments
+ 
+Description:
+Makes various amendments to the Hawaii employer-union health benefits trust fund law:  (1) establishes a tiered system of employer contributions for the medicare part B premiums of new employees who first enter service after 06/30/2011 and subsequently retire, based on their years of service before retirement; (2) when a retired employee is married to an active employee, renders the retired employee ineligible to enroll in a health benefits plan that provides coverage for the active employee; (3) when a retired employee is privately employed and eligible for prepaid health care coverage, renders the retired employee ineligible to enroll in a two-party or family plan that covers the spouse unless the spouse also is enrolled in the prepaid health care plan; (4) requires the auditor to periodically evaluate the health benefits plan for retired employees to determine compliance with the requirements that the plan not duplicate medicare benefits and be secondary to medicare; (5) provides that the employers' contribution for the medicare part B premium shall be based on the least costly medicare part B premium rate and made only for a retired employee; (6) provides medicare part B contributions to a retired employee's spouse only if the employee first entered service before 07/01/2011; (7) requires a retired employee to enroll in both medicare part B and a medical benefits plan of the fund as a condition for receiving reimbursements for medicare part B premiums; (8) requires a retired employee's spouse who is eligible to enroll in the medicare part B medical insurance plan to enroll in that plan as a condition for participating in a health benefits plan of the fund; and (9) requires the annual adjustment of the base monthly contribution for retired employees to be based on the least costly medicare part B premium rate.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+, li.ExtraSig, div.ExtraSig {mso-style-name:"Extra Sig"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:243.0pt; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.ResolutionBody, li.ResolutionBody, div.ResolutionBody {mso-style-name:"Resolution Body"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} span.BillSectionNumber {mso-style-name:"Bill Section Number"; font-family:Courier;} p.XNotesHeading, li.XNotesHeading, div.XNotesHeading {mso-style-name:XNotesHeading; margin:0in; margin-bottom:.0001pt; text-align:center; font-size:12.0pt; font-family:"Courier New"; font-weight:bold;} p.XNotes, li.XNotes, div.XNotes {mso-style-name:XNotes; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Amend, li.Amend, div.Amend {mso-style-name:Amend; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Misc, li.Misc, div.Misc {mso-style-name:"Misc\."; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Ramseyer, li.Ramseyer, div.Ramseyer {mso-style-name:Ramseyer; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Repeal, li.Repeal, div.Repeal {mso-style-name:Repeal; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.BalloonTextChar {mso-style-name:"Balloon Text Char"; mso-style-link:"Balloon Text"; font-family:"Tahoma","sans-serif";} p.Effective, li.Effective, div.Effective {mso-style-name:Effective; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+826
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE HAWAII EMPLOYER-UNION HEALTH BENEFITS TRUST FUND.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The purpose of this Act is to control the State's and the counties' health benefits costs for retired employees and their dependents by making amendments to the Hawaii employer-union health benefits trust fund law.
+     During the current state budget crisis, the legislature finds it appropriate and necessary to reduce the expenditure of public funds for the health benefits plans of retired employees.  At the state level, active employees have suffered and sacrificed due to layoffs and furloughs in order to balance the state budget.  The legislature finds that retired employees also should share in the burden.
+     This Act does the following:
+     (1)  Establishes a tiered system of employer contributions for the medicare part B premiums of new employees who first enter service after June 30, 2011, and subsequently retire, based on their years of service before retirement;
+     (2)  When a retired employee is married to an active employee, renders the retired employee ineligible to enroll in a two-party or family plan that covers the active employee or any dependent.  Instead, the retired employee may enroll in a self plan and the active employee may enroll in a self or family plan to cover the active employee and, if applicable, any dependent;
+     (3)  When a retired employee's spouse is privately employed and eligible for prepaid health care coverage, renders the spouse ineligible for coverage under the retired employee's health benefits plan unless the spouse also is covered by the prepaid health care plan offered by the private employer;
+     (4)  Requires the office of the auditor to annually evaluate the health benefits plan for retired employees to determine compliance with the requirements that the plan does not duplicate medicare benefits, and must be secondary to medicare;
+     (5)  Provides that the employers' contribution for the medicare part B premium shall be based on the least costly medicare part B premium rate;
+     (6)  Provides medicare part B contributions for a retired employee's spouse only if the employee first entered service before July 1, 2011;
+     (7)  Requires a retired employee to enroll in both medicare part B and a medical benefits plan of the fund as a condition for receiving reimbursements for medicare part B premiums;
+     (8)  Requires a retired employee's spouse who is eligible to enroll in the medicare part B medical insurance plan to enroll in that plan as a condition for participating in a health benefits plan of the fund; and
+     (9)  Requires the annual adjustment of the base monthly contribution for retired employees to be based on the changes to the least costly medicare part B premium rate.
+     SECTION 2.  Chapter 87A, Hawaii Revised Statutes, is amended by adding a new section to part IV to be appropriately designated and to read as follows:
+     "§87A-A_  State and county contributions for medicare part B premiums; employees hired after June 30, 2011, and subsequently retired.  (a)  This section shall apply to state and county contributions to the fund for the medicare part B premiums of employees who first enter state or county service after June 30, 2011, and subsequently retire.
+     (b)  For the purpose of this section, an employee's years of service shall be computed in the same manner as set forth in chapter 88.
+     (c)  The State, through the department of budget and finance, and the counties, through their respective departments of finance, shall pay to the fund for the medicare part B medical insurance plan:
+     (1)  For each retired employee with ten or more years but fewer than fifteen years of service, a monthly contribution equal to one-half of the least costly medicare premium rate;
+     (2)  For each retired employee with at least fifteen years but fewer than twenty-five years of service, a monthly contribution equal to seventy-five per cent of the least costly medicare premium rate; and
+     (3)  For each retired employee with twenty-five or more years of service, a monthly contribution equal to one-hundred per cent of the medicare part B premium rate."
+     SECTION 3.  Section 87A-1, Hawaii Revised Statutes, is amended by adding a new definition of "medical benefits plan" to be appropriately inserted and to read as follows:
+     ""Medical benefits plan" means a group insurance contract or service agreement offered by a carrier providing medical, hospital, surgical, and other health care benefits or a similar schedule of benefits that are provided through the fund on a self-insured basis.  The term does not include a health benefits plan that provides only prescription drug, vision, or dental benefits."
+     SECTION 4.  Section 87A-21, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§87A-21[]]  Eligibility.  (a)  The board shall establish eligibility criteria to determine who can qualify as an employee-beneficiary, dependent-beneficiary, or qualified-beneficiary, consistent with the provisions of this chapter.
+     (b)  [A] Subject to subsections (d) and (e), a retired member of the employees' retirement system; a county pension system; or a police, firefighters, and bandsmen pension system of the State or county, shall be eligible to qualify as an employee-beneficiary:
+     (1)  Regardless of whether the retired member was actively employed by the State or county at the time of the retired employee's retirement; and
+     (2)  Without regard to the date of the retired member's retirement.
+     (c)  A dependent of a retired member shall be eligible to qualify as an employee-beneficiary or dependent-beneficiary:
+     (1)  Regardless of whether the retired member was actively employed by the State or county at the time of the retired employee's retirement; and
+     (2)  Without regard to the date of the retired member's retirement.
+     (d)  When a retired employee is married to and not legally separated from an active employee, the retired employee shall not be eligible to enroll in a two-party or family plan that covers the active employee or any other dependent-beneficiary.  Instead, the retired employee may enroll in a self plan, and the active employee may enroll in a self or family plan to provide coverage for the active employee and, if applicable, any dependent-beneficiary other than the retired employee.
+     This subsection shall apply only while the retired employee and active employee are married to and not legally separated from each other.
+     (e)  When a retired employee's spouse is privately employed and eligible for coverage under a prepaid health care plan offered by the private employer, the retired employee shall not be eligible to enroll in a health benefits plan covering the spouse unless the spouse also is covered under the prepaid health care plan.  If the spouse chooses to forego coverage under the prepaid health care plan, the retired employee may enroll in a self plan, but not a two-party or family plan.  For the purpose of this section, "prepaid health care plan" means the same as defined under section 393-3.
+     This subsection shall apply only while:
+     (1)  The retired employee is married to and not legally separated from the privately employed spouse; and
+     (2)  The spouse is privately employed and eligible for coverage under a prepaid health care plan offered by the private employer."
+     SECTION 5.  Section 87A-23, Hawaii Revised Statutes, is amended to read as follows:
+     "§87A-23  Health benefits plan supplemental to medicare.  The board shall establish a health benefits plan, which takes into account benefits available to an employee-beneficiary and spouse under medicare, subject to the following conditions:
+     (1)  There shall be no duplication of benefits payable under medicare.  The plan under this section, which shall be secondary to medicare, when combined with medicare and any other plan to which the health benefits plan is subordinate under the National Association of Insurance Commissioners' coordination of benefit rules, shall provide benefits that approximate those provided to a similarly situated beneficiary not eligible for medicare[;].
+              The auditor, at least annually, shall evaluate the health benefits plan to determine if it complies with this section and submit a report to the legislature on the auditor's findings;
+     (2)  The State, through the department of budget and finance, and the counties, through their respective departments of finance, shall pay to the fund a contribution equal to [an amount not less than] the least costly medicare part B premium[,] rate for each of the following who are enrolled in the medicare part B medical insurance plan: 
+         (A)  [an] An employee-beneficiary who is a retired employee, regardless of the date of retirement;
+          (B)  [an] An employee-beneficiary's spouse [while] if the employee-beneficiary [is living,] first entered service before July 1, 2011; and
+         (C)  [an] An employee-beneficiary's spouse, after the death of the employee-beneficiary, if [the]:
+              (i)  The spouse qualifies as an employee-beneficiary[.]; and
+             (ii)  The employee-beneficiary first entered service before July 1, 2011.
+          For purposes of this section, a "retired employee" means retired members of the employees' retirement system; county pension system; or a police, firefighters, or bandsmen pension system of the State or a county as set forth in chapter 88.  If the amount reimbursed by the fund under this section is less than the [actual cost of the] least costly medicare part B [medical insurance plan] premium rate due to an increase in the [medicare part B medical insurance plan] premium rate, the fund shall reimburse each [employee-beneficiary and employee-beneficiary's spouse] retired employee for the cost increase within thirty days of the premium rate change.  Each [employee-beneficiary and employee-beneficiary's spouse] retired employee who becomes entitled to reimbursement from the fund for medicare part B premiums after July 1, 2006, shall designate a financial institution account into which the fund shall be authorized to deposit reimbursements.  This method of payment may be waived by the fund if another method is determined to be more appropriate;
+    [(3)  The benefits available under this plan, when combined with benefits available under medicare or any other coverage or plan to which this plan is subordinate under the National Association of Insurance Commissioners' coordination of benefit rules, shall approximate the benefits that would be provided to a similarly situated employee-beneficiary not eligible for medicare;
+     (4)] (3)  All [employee-beneficiaries or dependent-beneficiaries] retired employees who are eligible to enroll in the medicare part B medical insurance plan shall [enroll] be enrolled simultaneously in that plan and a medical benefits plan under this chapter as a condition of receiving contributions and participating in benefits plans under this chapter.  [This paragraph shall apply to retired employees, their spouses, and the surviving spouses of deceased retirees and employees killed in the performance of duty; and] If the retired employee is enrolled only in the medicare part B medical insurance plan, and not a medical benefits plan under this chapter, the retired employee shall not receive any reimbursement of part B premiums from the fund;
+     (4)  A dependent-beneficiary or survivor who becomes an employee-beneficiary eligible to enroll in the medicare part B medical insurance plan shall be enrolled in that plan as a condition for participating in a health benefits plan under this chapter; and
+     (5)  The board shall determine which of the [employee-beneficiaries and dependent-beneficiaries,] retired employees, who are [not enrolled in] ineligible for the medicare part B medical insurance plan, may participate in the plans offered by the fund."
+     SECTION 6.  Section 87A-33, Hawaii Revised Statutes, is amended by amending subsection (d) to read as follows:
+     "(d)  The base composite monthly contribution shall be adjusted annually, beginning July 1, 2005. 
+     The adjusted base composite monthly contribution for each new plan year (July 1 until June 30) shall be calculated by increasing or decreasing the base composite monthly contribution in effect through the end of the previous plan year by the percentage increase or decrease in the least costly medicare part B premium rate for those years[, which].  The percentage shall be calculated by dividing the least costly medicare part B premium rate in effect at the beginning of the new plan year by the least costly medicare part B premium rate in effect at the beginning of the previous plan year.
+     [For the plan year beginning July 1, 2005, the adjusted base monthly contribution shall be computed using the actual contracted premium rate as of July 1, 2004, for medicare and non-medicare, self and family health benefits plans with the highest actual contracted premium rate as of July 1, 2004.]
+     As used in this subsection, "medicare part B premium rate" means the rate published in the Federal Register each year on November 1 or on the business day closest to November 1 of each year after the medicare part B premium rate has been established by the Secretary of Health and Human Services and approved by the United States Congress."
+     SECTION 7.  Section 87A-34, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  The State, through the department of budget and finance, and the counties, through their respective departments of finance, shall pay to the fund for each retired employee enrolled in a medicare or non-medicare health benefits plan a monthly contribution equal to one-half of the lesser of the following:
+     (1)  [the] The base monthly contribution as set forth and adjusted under section 87A-33(b) and (d) for [retired employees enrolled in medicare or non-medicare health benefits plans.] the plan in which the retired employee is enrolled; or
+     (2)  The actual monthly premium cost for that plan.
+If both husband and wife are employee-beneficiaries, the total contribution by the State or county shall not exceed the monthly contribution for supplemental medicare family or non-medicare family plan, as appropriate."
+     SECTION 8.  Section 87A-35, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  The State, through the department of budget and finance, and the counties, through their respective departments of finance, shall pay to the fund:
+     (1)  For each retired [employees] employee enrolled in a  medicare or non-medicare health benefit [plans] plan with ten or more years but fewer than fifteen years of service, a monthly contribution equal to one-half of the lesser of the following:
+         (A)  [the] The base monthly contribution as set forth and adjusted under section 87A-33(b) and (d) for the plan in which the retired employee is enrolled; or
+         (B)  The actual monthly premium cost for that plan; and
+     (2)  For each retired [employees] employee enrolled in a  medicare or non-medicare health benefit [plans] plan with at least fifteen years but fewer than twenty-five years of service, a monthly contribution of seventy-five per cent of the lesser of the following:
+         (A)  [the] The base monthly contribution as set forth and adjusted under section 87A-33(b)[.] and (d) for the plan in which the retired employee is enrolled; or
+         (B)  The actual monthly premium cost for that plan.
+If both husband and wife are employee-beneficiaries, the total contribution by the State or county shall not exceed the monthly contribution for a supplemental medicare family or non-medicare family plan, as appropriate."
+     SECTION 9.  Section 87A-36, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  The State, through the department of budget and finance, and the counties, through their respective departments of finance, shall pay to the fund:
+     (1)  For each retired [employees] employee based on the self plan with ten or more years but fewer than fifteen years of service, a monthly contribution equal to one-half of the lesser of the following:
+         (A)  [the] The base [medicare or non-medicare] monthly contribution as set forth and adjusted under section 87A-33(b)[;] and (d) for the self plan in which the retired employee is enrolled; or
+         (B)  The actual monthly cost for that self plan;
+     (2)  For each retired [employees] employee based on the self plan with at least fifteen years but fewer than twenty-five years of service, a monthly contribution equal to seventy-five per cent of the lesser of the following:
+         (A)  [the] The base [medicare or non-medicare] monthly contribution as set forth and adjusted under section 87A-33(b)[;] and (d) for the self plan in which the retired employee is enrolled; or
+         (B)  The actual monthly cost for that self plan;
+     (3)  For each retired [employees] employee based on the self plan with twenty-five or more years of service, a monthly contribution equal to one-hundred per cent of the lesser of the following:
+         (A)  [the] The base medicare or non-medicare monthly contribution as set forth and adjusted under section 87A-33(b) and (d) for the self plan in which the retired employee is enrolled; or
+         (B)  The actual monthly cost for that self plan; and
+     (4)  One-half of the monthly contributions for the employee-beneficiary or employee-beneficiary with dependent-beneficiaries upon the death of the employee, as defined in paragraph (1)(E) of the definition of "employee" in section 87A-1.
+     If both husband and wife are employee-beneficiaries, the total contribution by the State or county shall not exceed the monthly contribution for two supplemental medicare self or non-medicare self plans, as appropriate."
+     SECTION 10.  Section 87A-37, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  Effective July 1, 2003, there is established a base monthly contribution of $4.16 for each retired employee enrolled in a group life insurance plan; provided that the monthly contribution shall not exceed the actual cost of the group life insurance benefits plan.  The base composite monthly contribution shall be adjusted annually beginning July 1, 2004.  The adjusted base composite monthly contribution for each new plan year shall be calculated by increasing or decreasing the base composite monthly contribution in effect through the end of the previous plan year by the percentage increase or decrease in the least costly medicare part B premium rate for those years.  The percentage shall be calculated by dividing the least costly medicare part B premium rate in effect at the beginning of the new plan year by the least costly medicare part B premium rate in effect through the end of the previous plan year.
+     As used in this subsection, "medicare part B premium rate" means the rate published in the Federal Register each year on November 1 or on the business day closest to November 1 of each year after the medicare part B premium rate has been established by the Secretary of Health and Human Services and approved by the United States Congress."
+     SECTION 11.  In codifying the new section added by section 2 of this Act, the revisor of statutes shall substitute appropriate section number for the letter used in designating the new section in this Act.
+     SECTION 12.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 13.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Hawaii Employer-Union Health Benefits Trust Fund; Comprehensive Amendments
+ 
+Description:
+Makes various amendments to the Hawaii employer-union health benefits trust fund law:  (1) establishes a tiered system of employer contributions for the medicare part B premiums of new employees who first enter service after 06/30/2011 and subsequently retire, based on their years of service before retirement; (2) when a retired employee is married to an active employee, renders the retired employee ineligible to enroll in a health benefits plan that provides coverage for the active employee; (3) when a retired employee is privately employed and eligible for prepaid health care coverage, renders the retired employee ineligible to enroll in a two-party or family plan that covers the spouse unless the spouse also is enrolled in the prepaid health care plan; (4) requires the auditor to periodically evaluate the health benefits plan for retired employees to determine compliance with the requirements that the plan not duplicate medicare benefits and be secondary to medicare; (5) provides that the employers' contribution for the medicare part B premium shall be based on the least costly medicare part B premium rate and made only for a retired employee; (6) provides medicare part B contributions to a retired employee's spouse only if the employee first entered service before 07/01/2011; (7) requires a retired employee to enroll in both medicare part B and a medical benefits plan of the fund as a condition for receiving reimbursements for medicare part B premiums; (8) requires a retired employee's spouse who is eligible to enroll in the medicare part B medical insurance plan to enroll in that plan as a condition for participating in a health benefits plan of the fund; and (9) requires the annual adjustment of the base monthly contribution for retired employees to be based on the least costly medicare part B premium rate.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

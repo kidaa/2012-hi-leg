@@ -1,0 +1,52 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2289
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE HAWAII PENAL CODE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 708-893, Hawaii Revised Statutes, is amended by amending subsection (1) to read as follows:
+     "(1)  A person commits the offense of use of a computer in the commission of a separate crime if the person:
+    (a)   Intentionally uses a computer to obtain control over the property of the victim to commit theft in the first [or], second, third, or fourth degree; or
+    (b)   Knowingly uses a computer to identify, select, solicit, persuade, coerce, entice, induce, or procure the victim or intended victim of the following offenses:
+         (i)  Section 707-726, relating to custodial interference in the first degree;
+        (ii)  Section 707-727, relating to custodial interference in the second degree;
+       (iii)  Section 707-731, relating to sexual assault in the second degree;
+        (iv)  Section 707-732, relating to sexual assault in the third degree;
+         (v)  Section 707-733, relating to sexual assault in the fourth degree;
+        (vi)  Section 707-751, relating to promoting child abuse in the second degree; or
+       (vii)  Section 712-1215, relating to promoting pornography for minors."
+     SECTION 2.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 3.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Use of a Computer in the Commission of a Separate Crime; Theft in the Third and Fourth Degree
+ 
+Description:
+Amends the use of a computer in the commission of a separate crime statute to include the offenses of theft in the third or fourth degree.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

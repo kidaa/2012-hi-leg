@@ -1,0 +1,99 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+956
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PUBLIC LANDS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 171, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§171-    Hotel and resort leases; extension of term.  (a)  Notwithstanding section 171-36, where a lease of public lands for hotel or resort use has not more than ten years to run, the board may extend the fixed rental period of the lease upon approval by the board of a development agreement proposed by the lessee or the lessee and developer to make substantial improvements to the demised premises.  The board shall not approve a lease extension until the board and the lessee or the lessee and developer mutually agree on the terms and conditions of the development agreement.
+     (b)  Prior to entering into a development agreement, the lessee and the developer shall submit the plans and specifications for the total proposed development project to the board.  The board shall review the plans and specifications for a determination of:
+     (1)  Whether the improvements proposed in the development agreement are of sufficient worth and value to justify the extension of the lease;
+     (2)  The estimated time required to complete the improvements proposed in the development agreement and the expected date of completion of the proposed improvements; and
+     (3)  The minimum revised annual rent based on the fair market value of the land to be developed, as determined by an appraiser for the board, and the percentage rent where gross receipts exceed a certain level.
+     (c)  No construction pursuant to a development agreement shall commence until the lessee or the lessee and developer have filed with the board a good and sufficient bond conditioned upon the full and faithful performance of all of the terms and conditions of the development agreement.
+     (d)  An extension of the lease pursuant to this section shall be conditioned upon the substantial improvements made and shall be for a period of not longer than sixty-five years.
+     (e)  As used in this section, "substantial improvement" means any renovation, rehabilitation, reconstruction, or construction of demised premises, including, at minimum, off-site and on-site improvements with a total cost that equals or exceeds fifty per cent of the market value of the demised premises, that the lessee or the lessee and developer shall install, construct, and complete by the date of completion of the development agreement."
+     SECTION 2.  New statutory material is underscored.
+     SECTION 3.  This Act shall take effect upon its approval; provided that this Act shall be repealed on December 31, 2015.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Public Lands; Hotel and Resort Development Agreements
+ 
+Description:
+Authorizes lease extensions of up to sixty-five years for demised hotel and resort premises where the board of land and natural resources approves a development agreement that meets certain criteria; sunsets on December 31, 2015.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+agraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.New, li.New, div.New {mso-style-name:New; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Constitution, li.Constitution, div.Constitution {mso-style-name:Constitution; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Amend, li.Amend, div.Amend {mso-style-name:Amend; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Ramseyer, li.Ramseyer, div.Ramseyer {mso-style-name:Ramseyer; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Effective, li.Effective, div.Effective {mso-style-name:Effective; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+956
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PUBLIC LANDS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 171, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§171-    Hotel and resort leases; extension of term.  (a)  Notwithstanding section 171-36, where a lease of public lands for hotel or resort use has not more than ten years to run, the board may extend the fixed rental period of the lease upon approval by the board of a development agreement proposed by the lessee or the lessee and developer to make substantial improvements to the demised premises.  The board shall not approve a lease extension until the board and the lessee or the lessee and developer mutually agree on the terms and conditions of the development agreement.
+     (b)  Prior to entering into a development agreement, the lessee and the developer shall submit the plans and specifications for the total proposed development project to the board.  The board shall review the plans and specifications for a determination of:
+     (1)  Whether the improvements proposed in the development agreement are of sufficient worth and value to justify the extension of the lease;
+     (2)  The estimated time required to complete the improvements proposed in the development agreement and the expected date of completion of the proposed improvements; and
+     (3)  The minimum revised annual rent based on the fair market value of the land to be developed, as determined by an appraiser for the board, and the percentage rent where gross receipts exceed a certain level.
+     (c)  No construction pursuant to a development agreement shall commence until the lessee or the lessee and developer have filed with the board a good and sufficient bond conditioned upon the full and faithful performance of all of the terms and conditions of the development agreement.
+     (d)  An extension of the lease pursuant to this section shall be conditioned upon the substantial improvements made and shall be for a period of not longer than sixty-five years.
+     (e)  As used in this section, "substantial improvement" means any renovation, rehabilitation, reconstruction, or construction of demised premises, including, at minimum, off-site and on-site improvements with a total cost that equals or exceeds fifty per cent of the market value of the demised premises, that the lessee or the lessee and developer shall install, construct, and complete by the date of completion of the development agreement."
+     SECTION 2.  New statutory material is underscored.
+     SECTION 3.  This Act shall take effect upon its approval; provided that this Act shall be repealed on December 31, 2015.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Public Lands; Hotel and Resort Development Agreements
+ 
+Description:
+Authorizes lease extensions of up to sixty-five years for demised hotel and resort premises where the board of land and natural resources approves a development agreement that meets certain criteria; sunsets on December 31, 2015.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

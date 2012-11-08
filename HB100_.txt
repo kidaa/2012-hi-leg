@@ -1,0 +1,158 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+100
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO VOTING.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  It is important to increase the number of people who vote in Hawaii's primary election because the primary election sets the stage for the general election.  In Hawaii, voter turnout for primary elections has hovered around forty per cent for the last decade.  The low turnout is due, in part, to the primary being held on a Saturday, a day that often provides time for important family recreation, as well as time to accomplish various household, family, and personal responsibilities.
+     For the past eighteen years, Hawaii voters are increasingly voting prior to primary election Saturday by mail-in or walk-in absentee ballots.  In 1992, nine per cent of the votes cast were absentee ballots.  That number has increased with every subsequent primary election, and recently reached forty-four per cent in the 2010 primary election.
+     The purpose of this Act is to establish an election by mail program to be utilized as the principal means of casting a ballot for a federal, state, and county primary or special primary election.
+     SECTION 2.  The Hawaii Revised Statutes is amended by adding a new chapter to be appropriately designated and to read as follows:
+"CHAPTER
+ELECTION BY MAIL
+     §   -1  Definitions.  As used in this chapter, unless the context clearly requires otherwise:
+     "Ballot" shall have the same meaning as defined in section 11-1.
+     "Chief election officer" means the individual defined in section 11-1.
+     "Clerk" shall have the same meaning as defined in section 11-1.
+     "County" shall have the same meaning as defined in section 11-1.
+     "Election" shall have the same meaning as defined in section 11-1.
+     "Election by mail" means an election conducted principally by mail.
+     "Voter" shall have the same meaning as defined in section 11-1.
+     §   -2  Elections eligible to be conducted by mail.  (a)  All federal, state, and county primary and special primary elections shall be conducted by mail.
+     (b)  Notwithstanding subsection (a), the chief election officer shall select not less than one precinct on each island to be open on primary election day to provide walk-in voting and to receive ballots.
+     §   -3  Procedures for conducting election by mail.  (a)  Ballot packages shall include:
+     (1)  An official ballot;
+     (2)  A pre-paid postage return identification envelope;
+     (3)  A secrecy envelope; and
+     (4)  Instructions
+     (b)  Except as provided in subsections (c), (d), and (e) the county clerk shall mail by nonforwardable mail a ballot package to each registered voter between eighteen days and fourteen days before the date of the election.
+     (c)  If the county clerk determines that a voter does not receive daily mail service from the United States Postal Service, the county clerk shall mail by nonforwardable mail a ballot package to the voter between twenty days and eighteen days before the date of the election.
+     (d)  If the voter requests that a ballot package be mailed outside of the State, the county clerk shall mail by nonforwardable mail a ballot package to the voter not later than the twenty-ninth day before the election.
+     (e)  Notwithstanding subsections (b), (c), and (d), ballot packages may be delivered or made available to voters who are unable to receive ballot packages by mail and who request a ballot package be delivered or made available for pick-up by the voter.  The availability shall be made in a manner and using a method as will ensure confidentiality as provided in section 11-14.5.  The receipt of the ballot package by pick-up shall be available to the voter until three days before the primary election to enable the voter to vote on or before the date of the primary election. 
+     (f)  Upon receipt of a ballot package by mail or pick-up, the voter may:
+     (1)  Mark the ballot;
+     (2)  Sign the return identification envelope supplied with the ballot; and
+     (3)  Comply with the instructions provided with the ballot.
+The voter may return the marked ballot to the county clerk by the United States Postal Service or by depositing the ballot at any precinct designated by the chief election officer or county clerk no later than the time stated in section 11-131 on the date of the election.
+     §   -4  Instructions.  (a)  The instructions shall include directions on marking the ballot, inserting the marked ballot in the secrecy envelope, inserting the secrecy envelope with the ballot in the return identification envelope, and signing of the return identification envelope before mailing or delivering the return identification envelope containing the secrecy envelope with the marked ballot.
+     (b)  The instructions shall include information on election fraud and voter fraud as provided in sections 19-3(5) and 19-3.5, and state that violation of either section may subject the voter, upon conviction, to imprisonment, fine, or both.
+     §   -5  Public notice of mailing.  Public notice of the date or dates that ballot packages are mailed, delivered, and made available shall be given by the chief election officer and all county election offices when all ballot packages have been mailed, delivered, and made available to voters.
+     §   -6  Replacement ballots.  (a)  In an election by mail, a voter may obtain a replacement ballot if the ballot is destroyed, spoiled, lost, or not received by the clerk.  To vote a replacement ballot, the voter shall complete and sign a replacement ballot request form.  The request for a replacement ballot may be made by mail, in person, or by other means designated by the chief election officer according to the rules adopted by the chief election officer pursuant to chapter 91.
+     (b)  Upon receipt of a request for a replacement ballot, the county clerk or a designee appointed by the clerk shall:
+     (1)  Verify the registration of the voter and ensure that another ballot has not been returned to the voter;
+     (2)  Note on the list of registered voters that the voter has requested a replacement ballot;
+     (3)  Mark the return identification envelope so that it may be identified as a replacement ballot; and
+     (4)  Issue a replacement ballot.
+     §   -7  Counting of ballots.  (a)  In an election by mail, the method of preparing ballots for counting may begin no sooner than the seventh day before the election.  In the presence of official observers, counting center employees may start to count the ballots on the day of the election.  All handling and counting of the mailed-in ballots shall be according to the procedures provided by the rules adopted by the chief election officer pursuant to chapter 91.
+     (b)  A mailed ballot shall be counted if:
+     (1)  It is received by the county clerk not later than the end of the period determined by the chief election officer;
+     (2)  It is received in the return identification envelope;
+     (3)  The envelope is signed by the voter to whom the ballot is issued; and
+     (4)  The signature of the voter is verified pursuant to subsection (c).
+     (c)  The county clerk, or a designee appointed by the county clerk, shall verify the signature on the return identification envelope according to the procedures provided by the rules adopted by the chief election officer pursuant to chapter 91.
+     (d)  Upon receipt of a voted replacement ballot, the county clerk or a designated appointee shall verify that a completed and signed replacement ballot request form has been received by the county clerk or is included with the voted replacement ballot.  If a request form has been completed and signed by the voter and received by the county clerk, the county clerk or a designated appointee shall process the ballot.  If the replacement ballot request form is not completed or signed by the voter or not received by the county clerk, the county clerk or a designated appointee shall not process the ballot."
+     SECTION 3.  Section 11-1, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending the definition of "ballot" to read:
+     ""Ballot", a ballot, including an absentee ballot, is a written or printed, or partly written and partly printed paper or papers containing the names of persons to be voted for, the office to be filled, and the questions or issues to be voted on.  "Ballot" includes a ballot used in an election conducted by mail.  A ballot may consist of one or more cards or pieces of paper, or one face of a card or piece of paper, or a portion of the face of a card or piece of paper, depending on the number of offices, candidates to be elected thereto, questions or issues to be voted on, and the voting system in use.  It shall also include the face of the mechanical voting machine when arranged with cardboard or other material within the ballot frames, containing the names of the candidates and questions to be voted on."
+     2.  By amending the definition of "voting system" to read:
+     ""Voting system", the use of paper ballots, electronic ballot cards, voting machines, voting by mail, or any system by which votes are cast and counted."
+     SECTION 4.  Section 11-4, Hawaii Revised Statutes, is amended to read as follows:
+     "§11‑4  Rules [and regulations].  The chief election officer may make, amend, and repeal [such] rules [and regulations] governing elections held under this title, election procedures, and the selection, establishment, use, and operation of all voting systems now in use or to be adopted in the State, and all other similar matters relating thereto as in the chief election officer's judgment shall be necessary to carry out this title.
+     In making, amending, and repealing rules [and regulations] for voters who cannot vote at the polls in person or receive or return ballots by mail, and all other voters, the chief election officer shall provide for voting by [such] these persons in [such] a manner [as] to insure secrecy of the ballot and to preclude tampering with the ballots of these voters and other election frauds.  [Such] These rules [and regulations], when adopted in conformity with chapter 91 and upon approval by the governor, shall have the force and effect of law."
+     SECTION 5.  Section 11-17, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  The clerk, not later than 4:30 p.m. on the sixtieth day after every general election, shall remove the name of any registered voter who did not vote in that general election, and also did not vote in the primary election preceding that general election, and also did not vote in the previous general election, and also did not vote in the primary election preceding that general election, and also did not vote in the regularly scheduled special elections held in conjunction with those primary and general elections, if any, with the exception of:
+     (1)  Those who submitted written requests for absentee ballots as provided in section 15-4; or
+     (2)  Anyone who preregistered pursuant to section 11-12(b).
+If a person voted, at least once, in any of the above-mentioned elections, the person's name shall remain on the list of registered voters.  For this purpose, "vote" means the depositing of the ballot in the ballot box whether the ballot is blank or later rejected for any reason.  In the case of voting machines, "vote" means the voter has activated the proper mechanism and fed the vote into the machine.  In the case of an election by mail pursuant to chapter     , "vote" means the voter has returned the ballot to the chief election officer or county clerk by the United States Postal Service or by depositing the ballot at a precinct designated for ballot deposit by the chief election officer or county clerk."
+     SECTION 6.  Section 11-91.5, Hawaii Revised Statutes, is amended by amending subsections (a), (b), and (c) to read as follows:
+     "(a)  Any federal, state, or county election held other than on the date of a regularly scheduled [primary or] general election may be conducted by mail[.]; provided that all federal, state, and county primary and special primary elections shall be conducted by mail, as provided in chapter    .
+     (b)  The chief election officer shall determine whether a federal or state election, other than a regularly scheduled primary [or general] election, may be conducted by mail or at polling places.
+     (c)  The county clerk shall determine whether a county election, held other than on the date of a regularly scheduled primary [or general] election, may be conducted by mail or at polling places.  An election by mail in the county shall be under the supervision of the county clerk."
+     SECTION 7.  Section 11-92.1, Hawaii Revised Statutes, is amended by amending the title and subsection (a) to read as follows:
+     "§11-92.1  Election proclamation; [establishment of a new precinct.] precincts.  (a)  The chief election officer shall issue a proclamation whenever a new precinct is established in any representative district.  The chief election officer, or the county clerk in a county election, shall provide a suitable polling place for each precinct[.] in a general election, and for not less one precinct on each island in a primary election.  Schools, recreational halls, park facilities, and other publicly owned or controlled buildings, whenever possible and convenient, shall be used as polling places.  The chief election officer, or the county clerk in a county election, shall make arrangements for the rental or erection of suitable shelter for this purpose whenever public buildings are not available and shall cause these polling places to be equipped with the necessary facilities for lighting, ventilation, and equipment needed for elections on any island.  This proclamation may be issued jointly with the proclamation required in section 11-91."
+     SECTION 8.  Section 11-92.3, Hawaii Revised Statutes, is amended by amending the title and subsection (a) to read as follows:
+     "§11-92.3  Consolidated or alternate precincts; natural disasters; postponement; [absentee voting required;] special elections.  (a)  In the event of a flood, tsunami, earthquake, volcanic eruption, high wind, or other natural disaster, occurring prior to an election, that makes a precinct inaccessible, the chief election officer or county clerk in the case of county elections may consolidate precincts or provide an alternate precinct within a representative district.  If the extent of damage caused by any natural disaster is such that the ability of voters, in any precinct, district, or county, to exercise their right to vote is substantially impaired, the chief election officer or county clerk in the case of county elections may [require the]:
+     (1)  Require:
+         (A)  The registered voters of the affected precinct, district, or county to vote by absentee ballot pursuant to section 15-2 [and may postpone]; or
+         (B)  The registered voters of the affected precinct, district, or county to vote by mail pursuant to chapter    ; and
+     (2)  Postpone the conducting of an election in the affected precinct, district, or county for no more than twenty-one days; provided that any [such] postponement shall not affect the conduct of the election, tabulation, or distribution of results for those precincts, districts, or counties not designated for postponement.
+The chief election officer or county clerk in the case of county elections shall give notice of the consolidation, postponement, or requirement to vote by absentee ballot[,] or by mail, in the affected [county or] precinct, county, or district prior to the opening of [the precinct] each polling place by whatever possible news or broadcast media are available.  Precinct officials and workers affected by any consolidation shall not forfeit their pay."
+     SECTION 9.  Section 11-184, Hawaii Revised Statutes, is amended to read as follows:
+     "§11-184  Election expenses and responsibilities in combined state and county elections.  Election expenses in elections involving both state and county offices shall be shared as set forth below:
+     (1)  The State shall pay and be responsible for:
+         (A)  Precinct officials;
+         (B)  Instruction of precinct officials when initiated or approved by the chief election officer;
+         (C)  Boards of registration;
+         (D)  Polling place costs other than supplies: installation rentals, ballot boxes, voting booths, custodians, telephones, and maintenance;
+         (E)  Other equipment such as ballot transport containers;
+         (F)  Temporary election employees hired to do strictly state work; and
+         (G)  Extraordinary voter registration and voter education costs when approved by the chief election officer.
+     (2)  The county shall pay and be responsible for:
+         (A)  Normal voter registration, voters list maintenance, and all printing connected with voter registration, including printing of the voters list;
+         (B)  Temporary election employees hired to do strictly county work;
+         (C)  Maintenance of existing voting machines, including parts, freight, storage, programming, and personnel;
+         (D)  Maintenance and storage of voting devices and other equipment; and
+         (E)  Employees assigned to conduct absentee or voting by mail polling place functions.
+     (3)  The remaining election expenses shall be divided in half between the State and the counties.  Each county will pay a proration of expenses as a proportion of the registered voters at the time of the general election.  These expenses shall include but not be limited to:
+         (A)  Polling place supplies;
+         (B)  All printing, including ballots, but excluding printing connected with voter registration;
+         (C)  Temporary election employees not including voting machine programmers doing work for both the State and county;
+         (D)  Ballot preparation and packing; and
+         (E)  All other costs for which the State or county are not specifically responsible relating to the operation of voting machines, electronic voting systems, and other voting systems except paper ballots to include but not be limited to real property rentals, equipment rentals, personnel, mileage, telephones, supplies, publicity, computer programming, and freight.
+              The responsibility for the above functions shall be determined by the chief election officer where the responsibility for such functions has not been assigned by the legislature.
+     Any future expenses not presently incurred under any voting system now in use or to be used shall be assigned to [paragraphs] paragraph (1), (2), or (3) [above] by the chief election officer upon agreement with the clerks or by the legislature."
+     SECTION 10.  Section 19-6, Hawaii Revised Statutes, is amended to read as follows:
+     "§19-6  Misdemeanors.  The following persons shall be guilty of a misdemeanor:
+     (1)  Any person who offers any bribe or makes any promise of gain, or with knowledge of the same permits any person to offer any bribe or make any promise of gain for the person's benefit to any voter to induce the voter to sign a nomination paper, and any person who accepts any bribe or promise of gain of any kind as consideration for signing the same, whether the bribe or promise of gain be offered or accepted before or after the signing;
+     (2)  Any person who wilfully tears down or destroys or defaces any election proclamation or any poster or notice or list of voters or visual aids or facsimile ballot, issued or posted by authority of law;
+     (3)  Any person printing or duplicating or causing to be printed or duplicated any ballot, conforming as to the size, weight, shape, thickness, or color to the official ballot so that it could be cast or counted as an official ballot in an election;
+     (4)  Every person who is disorderly or creates a disturbance whereby any meeting of the precinct officials or the board of registration of voters during an election is disturbed or interfered with; or whereby any person who intends to be lawfully present at any meeting or election is prevented from attending; or who causes any disturbance at any election; and every person assisting or aiding or abetting any disturbance;
+     (5)  Every person who, either in person or through another, in any manner breaks up or prevents, or endeavors to break up or prevent, the holding of any meeting of the board of registration of voters, or in any manner breaks up or prevents, or endeavors to break up or prevent, the holding of any election;
+     (6)  Any person, other than those designated by section 11‑132, who remains or loiters within the area set aside for voting as set forth in section 11-132 during the time appointed for voting;
+     (7)  Any person, including candidates carrying on any campaign activities within the area described in section 11-132 during the period of time starting one hour before the polling place opens and ending when the polling place closes for the purpose of influencing votes.  Campaign activities shall include the following:
+         (A)  Any distribution, circulation, carrying, holding, posting, or staking of campaign cards, pamphlets, posters and other literature;
+         (B)  The use of public address systems and other public communication media;
+         (C)  The use of motor caravans or parades; and
+         (D)  The use of entertainment troupes or the free distribution of goods and services;
+     (8)  Any person who opens a return envelope containing [an absentee]:
+         (A)  An absentee ballot voted under chapter 15 other than those authorized to do so under chapter 15; or
+         (B)  A ballot voted under chapter     other than those authorized to do so under chapter    ;
+     (9)  Any unauthorized person found in possession of any voting machine or keys thereof; and
+    (10)  Every person who wilfully violates or fails to obey any of the provisions of law, punishment for which is not otherwise in this chapter specially provided for."
+     SECTION 11.  There is appropriated out of the general revenues of the State of Hawaii the sum of $        , or so much thereof as may be necessary for fiscal year 2011-2012, and the same sum, or so much thereof as may be necessary for fiscal year 2012-2013, for the purpose of implementing and administering the election by mail program.
+     The sums appropriated shall be expended by the office of elections for the purposes of this Act.
+     SECTION 12.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 13.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Elections; Voting by Mail
+ 
+Description:
+Establishes an election by mail voting system for federal, state, and county primary or special primary elections; creates procedure and process for this method of voting.  Makes appropriations.
+ 
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

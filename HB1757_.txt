@@ -1,0 +1,57 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1757
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO ENERGY RESOURCES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Purpose and findings.  The legislature finds that independence from fossil fuels is critical for the security and well-being of Hawaii's residents and for the sustainability and vitality of Hawaii's economy.  Rising oil costs and increased dependence on foreign oil continue to place Hawaii's families and businesses in a vulnerable position.  Continued consumption of fossil fuel will also worsen global warming, which in turn could mean increasing frequency and intensity of storms and rising sea levels in Hawaii.  This will cause significant and costly impacts to our island communities as well as to the larger world.
+     The legislature finds that the installation of solar water heaters on new single-family and duplex homes is one of the most cost-effective and efficient ways of moving Hawaii's families off of fossil fuels.  A conventional electric water tank accounts for 30 to 35 percent of a household's electric bill.  It is estimated that by relying on the sun for 90% of its hot water demand, a family could save enough money to pay for the solar system in five to seven years.  After the system is paid off, the heating of water is essentially free.  In addition to federal tax credits, when the cost of a solar water heater is included in the cost of a mortgage there could also be the added value of tax deductions.
+     For the reasons above, the legislature in 2008 passed Act 204 requiring solar water heaters on new single-family homes.  However the legislature finds that Act 204 allows variances from this requirement under vague and unjustified circumstances such that the purpose of Act 204 is being thwarted in many instances by the variance that allows tankless gas.  Therefore, the legislature finds it is necessary to modify the wording of the law and clarify that the variance allowing tankless gas shall require application by an ultimate occupant of the dwelling unit and only such occupant.  If the occupant is not available, then the variance application shall not be accepted for processing and said variance shall not be available.
+     SECTION 2.  Section 196-6.5, Hawaii Revised Statutes, is amended to read as follows:
+     "§196-6.5  Solar water heater system required for new single-family residential construction.  (a)  On or after January 1, 2010, no building permit shall be issued for a new single-family or duplex dwelling that does not include a solar water heater system that meets the standards established pursuant to section 269-44, unless the coordinator approves a variance.
+     (b)  A variance application shall only be accepted if submitted by an architect or mechanical engineer licensed under chapter 464, who attests that:
+     (1)  Installation is impracticable due to poor solar resource;
+     (2)  Installation is cost-prohibitive based upon a life cycle cost-benefit analysis that incorporates the average residential utility bill and the cost of the new solar water heater system with a life cycle that does not exceed fifteen years; or
+     (3)  A renewable energy technology system, as defined in section 235-12.5, is substituted for use as the primary energy source for heating water[; or].
+     (c)  A variance application shall be accepted on the following basis only if the variance applicant is the party who will ultimately pay for the energy consumption cost and, as part of the application, the applicant signs an affidavit that the applicant will be the occupant of the new house and that the applicant has read a flyer issued by the department of business, economic development and tourism showing the lifecycle cost comparisons of a solar water heater and tankless gas water heater of equivalent capacities:
+     [(4)  A] a demand water heater device approved by Underwriters Laboratories, Inc., is installed; provided that at least one other gas appliance is installed in the dwelling.  For the purposes of this [paragraph,] subsection, "demand water heater" means a gas-tankless instantaneous water heater that provides hot water only as it is needed.
+     [(b)] (d)  A request for a variance shall be submitted to the coordinator on an application prescribed by the coordinator and shall include a description of the location of the property and justification for the approval of a variance using the criteria established in subsection (a).  A variance shall be deemed approved if not denied within thirty working days after receipt of the variance application.  The coordinator shall publicize:
+     (1)  All applications for a variance within seven days after receipt of the variance application; and
+     (2)  The disposition of all applications for a variance within seven days of the determination of the variance application.
+     [(c)] (e)  The director of business, economic development, and tourism may adopt rules pursuant to chapter 91 to impose and collect fees to cover the costs of administering variances under this section.  The fees, if any, shall be deposited into the energy security special fund established under section 201-12.8.
+     [(d)] (f)  Nothing in this section shall preclude any county from establishing procedures and standards required to implement this section.
+     [(e)] (g)  Nothing in this section shall preclude participation in any utility demand-side management program or public benefits fee program under part VII of chapter 269."
+     SECTION 3.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+By Request
+ 
+
+ 
+Report Title:
+Energy; Solar Water Heater; Conservation; Kauai County Package
+ 
+Description:
+Requires solar water heaters on new duplex buildings and allows for a variance by an occupant.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

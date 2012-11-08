@@ -1,0 +1,46 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2490
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO ELECTRIC UTILITIES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that electricity generation projects in Hawaii requiring external financing must typically enter into one or more long-term power purchase agreements with an electric utility before investors will provide such financing.  For financial rating agencies that observe and evaluate the effect of these power purchase agreements, including Standard & Poor's, such contracts represent the transfer of business viability risk assumption from the project developer to the electric utility.  To properly calculate a contracting utility's new level of debt-related risk, this transfer of risk assumption further causes the financial rating agencies to represent, or impute, the impact of a power purchase agreement to the contracting electric utility's balance sheet in the form of a new debt obligation.  This new obligation is typically referred to as imputed debt or debt equivalence.
+     Rating agencies may impute to a utility's debt level an amount up to fifty per cent or more of the existing payments on a power purchase agreement, resulting in significant amounts of imputed debt hampering a contracting utility's debt rating and impeding that utility's debt financing.  Compensating factors, including legislative provisions for the mitigation of imputed debt on utility companies' balance sheets, are noted as being important variables in either raising or lowering debt equivalence levels.  Without an available offsetting mechanism, imputed debt obligations on electric utilities for electricity generation projects can ultimately have a major chilling effect on energy development, especially in states pursuing ambitious renewable energy goals.
+     Reducing the imputed debt obligations of electric utilities can benefit electric utility customers by maximizing the utilities' ability to negotiate low cost, fixed price renewable energy contracts.  In addition, the elimination of power purchase agreement-created imputed debt obligations of a utility can lower capital costs for that utility, which helps to mitigate energy costs for consumers through lower rates.
+     The purpose of this Act is to authorize the public utilities commission to allow electric utilities operating within the State to recover all non-energy power purchase costs.
+     SECTION 2.  Chapter 269, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§269-     Power purchase agreements; cost recovery for electric utilities.  All power purchase costs, including costs related to capacity, operations and maintenance, and other non-energy costs, arising out of power purchase agreements between an electric utility company and non-utility generators of electricity that have been approved by the commission shall be distributed among the entire customer base of such electric utility company through an adjustable surcharge, which shall be established by the public utilities commission.  Such costs shall be recovered if incurred as a result of such agreements unless, after review by the public utilities commission, any such costs are determined by the commission to have been incurred in bad faith, out of waste, out of an abuse of discretion, or in violation of law.  An "electric utility company" under this section means a public utility as defined under section 269-1, for the production, conveyance, transmission, delivery, or furnishing of electric power."
+     SECTION 3.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Debt Equivalence; Imputed Debt; Utility Companies; Cost Recovery
+ 
+Description:
+Authorizes the Public Utilities Commission to allow electric utility companies to recover all non-energy power purchase costs from long-term power purchase agreements, thus mitigating associated imputed debt or debt equivalence.  Effective July 1, 2012.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,72 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+473
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO TORTS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+SECTION 1.  The increasing cost of malpractice insurance and escalating monetary awards in medical malpractice lawsuits are major factors in the current physician shortage experienced by the State of Hawaii and the neighbor islands in particular.  Malpractice insurance premiums have skyrocketed for Hawaii physicians, with physicians in high-risk specialties such as surgery and obstetrics, experiencing the highest increase.  Monetary awards in malpractice lawsuits are escalating, especially with respect to awards for non-economic damages.
+     As a result of the malpractice situation, many physicians are choosing to retire early, limit their practice, or refrain from practicing in Hawaii.  Medical students are avoiding medical specialties that have a high risk of medical malpractice exposure.  Defensive medicine may also be practiced, where a physician orders tests and procedures to protect themselves from malpractice liability.  Diminishing access to health care is of particular concern in rural areas, such as the neighbor islands, where relatively few doctors and fewer specialists and sub-specialists continue to practice.
+     The legislature finds that to address this critical situation, a patient's right to recover non-economic damages for injuries suffered as a result of health care negligence must be balanced against the State's interest in ensuring access to health care services.
+     The purpose of this Act is to place a cap on the amount of non-economic damages that may be recovered in medical malpractice actions in Hawaii, which is contingent on the compliance of all insurers providing professional liability insurance in Hawaii with the premium rate limitations set by this Act.
+SECTION 2.  Chapter 671, Hawaii Revised Statutes, is amended by adding four new sections to be appropriately designated and to read as follows:
+     "§671-A  Limitation on noneconomic damages.  Notwithstanding section 663-8.7, noneconomic damages as defined in section 663-8.5 shall be limited in medical tort actions to a maximum award of $500,000.
+     §671-B  Assessing percentage of negligence.  Upon request of any nonsettling healthcare provider against whom a plaintiff alleges a medical tort causing injury, the trier of fact shall consider, in assessing any percentage of negligence or other fault, the negligence or other fault of all alleged parties, including the negligence or other fault of any person or entity who has entered into a settlement with the plaintiff for the claimed damages, even when the settlement has been determined to have been made in good faith, pursuant to section 663-15.5.
+     §671-C  Proportionate allocation of economic damages.  The amount of economic damages allocated to a healthcare provider in a medical tort action shall be based upon the healthcare provider's proportionate percentage of negligence or other fault.
+     §671-D  Noneconomic damages.  (a) If the trier of fact renders a verdict for the plaintiff in a medical tort action, the court shall enter judgment of liability against each defendant healthcare provider in accordance with the percentage of negligence or other fault for compensatory damages that is attributed to the healthcare provider by the trier of fact.
+     (b)  Where a healthcare provider's degree of negligence is less than twenty-five per cent, then the amount recoverable against that healthcare provider for noneconomic damages shall be in direct proportion to the degree of the negligence assigned.
+     (c)  Judgment shall not be entered against any healthcare provider who has not been named a party or has been released, dismissed, or otherwise discharged as a party pursuant to section 663-15.5."
+     SECTION 3.  Section 663-11, Hawaii Revised Statutes, is amended to read as follows:
+     §663-11  Joint tortfeasors defined.  For the purpose of this part, the term "joint tortfeasors" means two or more persons jointly or severally liable in tort for the same injury to person or property, whether or not judgment has been recovered against all or some of them[.], except as provided for healthcare providers in chapter 671."
+     SECTION 4.  Section 671-1, Hawaii Revised Statutes, is amended by amending the definitions of "health care provider" and "medical tort" to read as follows:
+     "§671-1  Definitions.  As used in this chapter:
+     [(1)]  "Health care provider" or "healthcare provider" means a physician or surgeon licensed under chapter 453, a physician and surgeon licensed under chapter 460, a podiatrist licensed under chapter 463E, a health care facility as defined in section 323D-2, a chiropractor licensed under chapter 442, a dentist licensed under chapter 448, a dental hygienist licensed under chapter 447, an acupuncture practitioner licensed under chapter 436E, a massage therapist licensed under chapter 452, a nurse licensed under chapter 457, an occupational therapist licensed under chapter 457G, an optometrist licensed under chapter 459, a pharmacist licensed under chapter 461, a physical therapist licensed under chapter 461J, a psychologist licensed under chapter 465, a marriage and family therapist licensed under chapter 451J, a dietitian licensed under chapter 448B, a radiologic technologist licensed under chapter 466J, a speech pathologist or audiologist licensed under chapter 468E, a veterinarian licensed under chapter 471, and the employees and legal representatives of any of them.  Health care provider shall not mean any nursing institution or nursing service conducted by and for those who rely upon treatment by spiritual means through prayer alone, or employees of such institution or service.
+     [(2)]  "Medical tort" means [professional negligence, the rendering of professional service without informed consent, or an error or omission in professional practice, by a health care provider, which proximately causes death, injury, or other damage to a patient.] a negligent act or omission to act by a healthcare provider in the rendering of professional services, or the rendering of professional service by a healthcare provider without informed consent, which act or omission or rendering of service without informed consent is the proximate cause of a personal injury or wrongful death; provided that such services are within the scope of services for which the provider is licensed and which are not within any restriction imposed by the licensing agency or licensed hospital."
+     SECTION 5.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date, nor does it affect the rights of the State of Hawaii under section 663-10.5, Hawaii Revised Statutes.
+     SECTION 6.  In codifying the new sections added by section 2 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 7.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+SECTION 8.  This Act shall take effect upon its approval; provided that this Act shall be repealed on the earlier of January 1, 2017, or upon the failure of any insurer providing professional liability insurance for a health care provider in the state to meet the following requirements:
+     (1)  Between July 1, 2011, and December 31, 2011, no insurer providing professional liability insurance for a health care provider in the state may increase the professional liability insurance rates unless a rate increase is required to avoid imminent insolvency or provide a fair rate of return;
+     (2)  Beginning January 1, 2012, all insurers providing professional liability insurance for health care providers in the state shall implement a premium rate that is the lower of the following:
+          (A)  Not greater than the rate in effect on January 1, 2007, unless to do so would cause imminent insolvency or fail to provide a fair rate of return; or
+          (B)  Seventy-five per cent of the lowest rate in effect between January 1, 2007, and December 31, 2009, unless to do so would cause imminent insolvency or fail to provide a fair rate of return;
+          and
+(3)  Beginning January 1, 2013, no insurer providing professional liability insurance for a health care provider may implement any rate increase greater than two and one half per cent in any twelve month period, unless a rate increase greater than two and one half per cent is required to avoid imminent insolvency or provide a fair rate of return.
+     Any person may seek a declaratory judgment as to whether an insurer has failed to comply with paragraph 1, 2, or 3 by bringing an action against the insurer in the circuit court of the county in which the petitioner resides or has its principal place of business; provided that upon the repeal of this Act, sections 663-11 and 671-1, Hawaii Revised Statutes, shall be reenacted in the same form they were in one day prior to this Act taking effect.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+ 
+Report Title:
+Medical Malpractice; Insurance; Non-economic Damages
+ 
+Description:
+Limits non-economic damages in medical tort actions contingent on compliance with premium rate caps by insurers providing professional liability insurance in Hawaii.  Sunsets on the earlier of the date on which an insurer does not comply with the premium rate caps, or July 1, 2017.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

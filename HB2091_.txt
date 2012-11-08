@@ -1,0 +1,105 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2091
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO EDUCATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that student success both in high school and beyond is largely predicated upon adequate preparation.  This preparation, however, is difficult if the student is unaware of his or her strengths and weaknesses and schools and complex areas are unsure of how to make the most effective use of instructional resources.  It is for this reason that a comprehensive assessment program should be implemented to ensure that each student can gauge his or her academic development and each school and complex area can determine the most effective use of instructional resources to better prepare students for future success.
+     The purpose of this Act, therefore, is to require the department of education to establish a three-year pilot project that implements a comprehensive, empirically-based assessment program for certain students in grades seven, eight, and nine.
+     SECTION 2.  (a)  The department of education shall establish a three-year pilot project to provide a comprehensive assessment program for public and public charter school students in grades seven, eight, and nine in complex areas on islands with a population of at least one hundred eighty thousand but less than nine hundred thousand, based on the 2010 United States Census.
+     (b)  The pilot project established under subsection (a) shall include the implementation of an assessment program that:
+     (1)  Is empirically grounded;
+     (2)  Is based on a curriculum that is aligned with common core state standards;
+     (3)  Assesses educational attainment, development, and readiness in English, mathematics, reading, and science;
+     (4)  Includes a multi-layered reporting process;
+     (5)  Indicates student performance based upon achievement exams; and
+     (6)  Includes consulting services for implementation and staff, school, and complex-area support.
+     (c)  The department of education shall submit a progress report on the implementation of the pilot project established under subsection (a) and its impact on student achievement and high school readiness to the legislature no later than twenty days prior to the convening of the regular session of 2013, and a final report, including any recommendations for legislation, no later than twenty days prior to the convening of the regular session of 2015.
+     SECTION 3.  There is appropriated out of the general revenues of the State of Hawaii the sum of $53,117 or so much thereof as may be necessary for fiscal year 2012-2013 to implement the pilot project established in section 2 of this Act.
+     The sum appropriated shall be expended by the department of education for the purposes of this Act.
+     SECTION 4.  This Act shall take effect on July 1, 2012, and shall be repealed on June 30, 2015.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Department of Education; Assessment Program; Appropriation
+ 
+Description:
+Directs the Department of Education to establish a three-year pilot project that implements a comprehensive assessment program for certain students in grades seven, eight, and nine.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+g, li.ExtraSig, div.ExtraSig {mso-style-name:"Extra Sig"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:243.0pt; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.ResolutionBody, li.ResolutionBody, div.ResolutionBody {mso-style-name:"Resolution Body"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} span.BillSectionNumber {mso-style-name:"Bill Section Number"; font-family:Courier;} p.XNotesHeading, li.XNotesHeading, div.XNotesHeading {mso-style-name:XNotesHeading; margin:0in; margin-bottom:.0001pt; text-align:center; font-size:12.0pt; font-family:"Courier New"; font-weight:bold;} p.XNotes, li.XNotes, div.XNotes {mso-style-name:XNotes; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Amend, li.Amend, div.Amend {mso-style-name:Amend; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.PCa, li.PCa, div.PCa {mso-style-name:"PC\(a\)"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Misc, li.Misc, div.Misc {mso-style-name:"Misc\."; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.BalloonTextChar {mso-style-name:"Balloon Text Char"; mso-style-link:"Balloon Text"; font-family:"Tahoma","sans-serif";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2091
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO EDUCATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that student success both in high school and beyond is largely predicated upon adequate preparation.  This preparation, however, is difficult if the student is unaware of his or her strengths and weaknesses and schools and complex areas are unsure of how to make the most effective use of instructional resources.  It is for this reason that a comprehensive assessment program should be implemented to ensure that each student can gauge his or her academic development and each school and complex area can determine the most effective use of instructional resources to better prepare students for future success.
+     The purpose of this Act, therefore, is to require the department of education to establish a three-year pilot project that implements a comprehensive, empirically-based assessment program for certain students in grades seven, eight, and nine.
+     SECTION 2.  (a)  The department of education shall establish a three-year pilot project to provide a comprehensive assessment program for public and public charter school students in grades seven, eight, and nine in complex areas on islands with a population of at least one hundred eighty thousand but less than nine hundred thousand, based on the 2010 United States Census.
+     (b)  The pilot project established under subsection (a) shall include the implementation of an assessment program that:
+     (1)  Is empirically grounded;
+     (2)  Is based on a curriculum that is aligned with common core state standards;
+     (3)  Assesses educational attainment, development, and readiness in English, mathematics, reading, and science;
+     (4)  Includes a multi-layered reporting process;
+     (5)  Indicates student performance based upon achievement exams; and
+     (6)  Includes consulting services for implementation and staff, school, and complex-area support.
+     (c)  The department of education shall submit a progress report on the implementation of the pilot project established under subsection (a) and its impact on student achievement and high school readiness to the legislature no later than twenty days prior to the convening of the regular session of 2013, and a final report, including any recommendations for legislation, no later than twenty days prior to the convening of the regular session of 2015.
+     SECTION 3.  There is appropriated out of the general revenues of the State of Hawaii the sum of $53,117 or so much thereof as may be necessary for fiscal year 2012-2013 to implement the pilot project established in section 2 of this Act.
+     The sum appropriated shall be expended by the department of education for the purposes of this Act.
+     SECTION 4.  This Act shall take effect on July 1, 2012, and shall be repealed on June 30, 2015.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Department of Education; Assessment Program; Appropriation
+ 
+Description:
+Directs the Department of Education to establish a three-year pilot project that implements a comprehensive assessment program for certain students in grades seven, eight, and nine.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

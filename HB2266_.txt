@@ -1,0 +1,49 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2266
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO INFORMATION TECHNOLOGY.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 27-43, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  There is established an information technology steering committee to assist the chief information officer in developing the State's information technology standards and policies, including but not limited to:
+     (1)  Assisting the chief information officer in developing and implementing the state information technology strategic plans;
+     (2)  Assessing executive branch departments' progress in meeting the objectives defined in the state information technology strategic plans and identifying best practices for shared or consolidated services;
+     (3)  Ensuring technology projects are selected based on their potential impact and risk to the State, as well as their strategic value;
+     (4)  Ensuring that executive branch departments maintain sufficient tools to assess the value and benefits of technology initiatives;
+     (5)  Assisting the chief information officer in developing state information technology standards and policies; and
+     (6)  Clarifying the roles, responsibilities, and authority of the information and communication services division, specifically as it relates to its statewide duties.
+     The [members of the] information technology steering committee shall consist of thirteen members, with four members to be [appointed in equal number] selected by the senate president [and], four members to be selected by the speaker of the house of representatives, [respectively,] and four members to be selected by the chief information officer, and shall include representatives from executive branch departments, including large user agencies such as the department of education and the University of Hawaii; the judiciary; the legislature; and private individuals.  The chief information officer shall serve as the chair of the committee and shall ensure that the committee is evaluated periodically."
+     SECTION 2.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 3.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Information Technology Steering Committee; Members
+ 
+Description:
+Clarifies that the information technology steering committee shall consist of thirteen members:  four members to be selected by the senate president, four members to be selected by the speaker of the house of representatives, and four members to be selected by the chief information officer, with the chief information officer to serve as the chair.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

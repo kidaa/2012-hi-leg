@@ -1,0 +1,58 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2055
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO TAXATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 235, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§235-     Income tax credit for maintenance of solar water heating systems.  (a)  A taxpayer that claims a tax credit for a solar energy system under section 235-12.5, may claim an additional tax credit under this section for the maintenance of the solar energy system; provided that the primary purpose of the solar energy system is to heat water for household use.
+     The tax credit shall be equal to thirty-five per cent of the maintenance costs of the solar energy system for the taxable year or the cap amount determined in subsection (b), whichever is less; provided that multiple owners of a single system shall be entitled to a single tax credit; and provided further that the tax credit shall be apportioned between the owners in proportion to their contribution to the cost of the system.
+     In the case of a partnership, S corporation, estate, or trust, the tax credit allowable is for every eligible solar energy system that is operated in the State by the entity during the taxable year.  The cost upon which the tax credit is computed shall be determined at the entity level.  Distribution and share of credit shall be determined pursuant to section 235-110.7(a).
+     (b)  The amount of credit allowed for each eligible solar energy system shall not exceed the applicable cap amount, that is determined as follows:
+     (1)  $350 per system for single-family residential property;
+     (2)  $          per unit per system for multi-family residential property; and
+     (3)  $          per system for commercial property;
+     (c)  The director of taxation shall prepare any forms that may be necessary to claim a tax credit under this section.  The director may also require the taxpayer to furnish reasonable information to ascertain the validity of the claim for credit made under this section and may adopt rules necessary to effectuate the purposes of this section pursuant to chapter 91.
+     (d)  If the tax credit under this section exceeds the taxpayer's income tax liability, the excess of the credit over liability may be used as a credit against the taxpayer's income tax liability in subsequent years until exhausted, unless otherwise elected by the taxpayer pursuant to subsection (e) or (f).  All claims for the tax credit under this section, including amended claims, shall be filed on or before the end of the twelfth month following the close of the taxable year for which the credit may be claimed.  Failure to comply with this subsection shall constitute a waiver of the right to claim the credit.
+     (e)  A taxpayer may elect to reduce the eligible credit amount by thirty per cent and if this reduced amount exceeds the amount of income tax payment due from the taxpayer, the excess of the credit amount over payments due shall be refunded to the taxpayer; provided that tax credit amounts properly claimed by a taxpayer who has no income tax liability shall be paid to the taxpayer; and provided further that no refund on account of the tax credit allowed by this section shall be made for amounts less than $1.
+     An election made pursuant to this subsection shall be made in a manner prescribed by the director on the taxpayer's return for the taxable year in which the credit under this section is claimed.  A separate election may be made for each separate system that generates a credit.  An election once made is irrevocable.
+     (f)  Notwithstanding subsection (e), for any eligible solar energy system, an individual taxpayer may elect to have any excess of the credit over payments due refunded to the taxpayer, if:
+     (1)  All of the taxpayer's income is exempt from taxation under section 235-7(a)(2) or (3); or
+     (2)  The taxpayer's adjusted gross income is $20,000 or less (or $40,000 or less if filing a tax return as married filing jointly);
+provided that tax credits properly claimed by a taxpayer who has no income tax liability shall be paid to the taxpayer; and provided further that no refund on account of the tax credit allowed by this section shall be made for amounts less than $1.
+     A husband and wife or parties to a civil union who do not file a joint tax return shall only be entitled to make this election to the extent that they would have been entitled to make the election had they filed a joint tax return.
+     An election pursuant to this subsection shall be made in a manner prescribed by the director on the taxpayer's return for the taxable year in which the credit under this section is claimed.  A separate election may be made for each separate system that generates a credit.  An election once made is irrevocable."
+     SECTION 2.  New statutory material is underscored.
+     SECTION 3.  This Act, upon its approval, shall apply to taxable years beginning after December 31, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Maintenance Costs of Solar Water Heaters; Tax Credit
+ 
+Description:
+Establishes an income tax credit for the maintenance of solar water heaters.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

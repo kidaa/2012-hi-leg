@@ -1,0 +1,69 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1694
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO TAXATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 238-6, Hawaii Revised Statutes, is amended to read as follows:
+     "§238-6  Collection of tax by seller; penalty.  (a)  For purposes of the taxes due under sections 238-2 and 238-2.3, every seller [having]:
+     (1)  Having in the State, regularly or intermittently, any property, tangible or intangible, any place of business, or any representation as hereinabove defined, (and irrespective of the seller's having or not having qualified to do business in the State); or
+     (2)  Who is otherwise engaged in business in the State as defined in subsection (h);
+shall, if the seller under paragraph (1) makes sales of property, services, or contracting for use in the State (whether or not the sales are made in the State), or if the seller under paragraph (2) makes sales of tangible personal property for use in the State as described in section 238-2, collect from the purchaser the taxes imposed by sections 238-2 and 238-2.3, on the use of the property, services, or contracting, as applicable, so sold by the seller, if the seller is not subject to the use tax under this chapter on the importation of the property into the State.  The collection shall be made within twenty days after the accrual of the tax or within [such other] a period [as shall be] fixed by the director of taxation upon the application of the seller, and the seller shall give to the purchaser a receipt therefor in the manner and form prescribed by the director; provided that this subsection shall not apply to vehicles registered under section 286-50.
+     (b)  The director, in the director's discretion, upon application therefor and under terms and conditions prescribed by the director, may relieve any seller of the duty of collecting and paying over the tax imposed by subsection (a) above, if the director is satisfied that the tax can be effectively collected by other means.  Exemption from the duty of collecting the tax may be canceled at any time when the director finds that the tax cannot be effectively collected by other means.  The director likewise may terminate the duty and authority of any seller to collect and pay over the tax imposed by subsection (a) above if the director finds, [as to such seller,] on a case-by-case basis, that the tax cannot be effectively collected by [such] other means.
+     (c)  The director, in the director's discretion, upon application therefor and under terms and conditions prescribed by the director, may authorize the collection of the tax imposed by this chapter by a seller not otherwise required to collect the tax.  The seller, when so authorized, shall have the duty of collecting and paying over the tax in the same manner and subject to the same requirements as set out in subsection (a).  The authority may be canceled at any time when, in the judgment of the director, the tax can more effectively be collected by other means.
+     (d)  In case any seller required or authorized to collect the tax under this chapter fails to collect the same, or having collected the tax fails to pay over the same as provided by this chapter, the seller shall nevertheless be personally liable to the State for the amount of the tax, but it shall be a defense to [such] this tax liability that the indebtedness for the price is a worthless account actually charged off for income tax purposes, if and to the extent that the collections of the price do not equal the tax.
+     (e)  Every seller required or authorized to collect the tax shall make returns and payments of the tax at the same time and in the same manner as is provided with respect to taxpayer by section 238-5.  All provisions of this chapter with respect to returns, reports, records, payments, penalties, and interest, appeals, investigations, and audits, assessments, tax collections procedure, criminal offenses, and the general administrative powers and duties of the director, shall apply to [such] these sellers the same as to taxpayers.
+     (f)  The tax collected pursuant to this section shall be held in trust for the State and for payment to the proper collecting officer in the manner and at the time required by this chapter.  Any person collecting [such] the tax who appropriates or converts the same to the person's own use or to any use other than the payment of the tax as herein provided, and who fails to pay over the amount of tax so collected at the time required by this chapter, shall be deemed guilty of an embezzlement of property of the State and shall be fined more than five times the amount of money so embezzled or imprisoned at hard labor not more than ten years, and any failure by the person so collecting the tax to pay the same over within the time provided by this chapter, after demand therefor, shall be taken and held to be prima facie evidence of the embezzlement.
+     (g)  This section shall not apply to a seller engaged in business in the State as defined in paragraph (2) of that definition if the seller can demonstrate that the person in the State with whom the seller has an agreement did not engage in referrals in the State on behalf of the seller that would satisfy the requirements of the commerce clause of the United States Constitution.
+     (h)  For the purposes of this section:
+     "Commonly controlled group" means:
+     (1)  A parent corporation and any one or more corporations or chains of corporations, connected through stock ownership or constructive ownership with the parent, if:
+         (A)  The parent owns stock possessing more than fifty per cent of the voting power of at least one corporation; and
+         (B)  If applicable, stock cumulatively representing more than fifty per cent of the voting power of each of the corporations, except the parent, is owned by the parent, one or more corporations described in subparagraph (A), or one or more other corporations that satisfy the conditions of this subparagraph;
+     (2)  Any two or more corporations, if stock representing more than fifty per cent of the voting power of the corporations is owned, or constructively owned, by the same person;
+     (3)  Any two or more corporations that constitute stapled entities, meaning:
+         (A)  Any group of two or more corporations if more than fifty per cent of the ownership or beneficial ownership of the stock possessing voting power in each corporation consists of stapled interests; or
+         (B)  Two or more interests if, by reason of form of ownership restrictions on transfer or other terms or conditions, in connection with the transfer of one of the interests the other interest or interests are also transferred or required to be transferred; or
+     (4)  Any two or more corporations, all of whose stock representing more than fifty per cent of the voting power of the corporations is cumulatively owned by, or for the benefit of, members of the same family. Members of the same family are limited to an individual; the individual's spouse, parents, brothers or sisters, grandparents, children, and grandchildren; and their respective spouses.
+     "Engaged in business in the State" means a seller, including an entity affiliated with a seller within the meaning of Section 1504 of the Internal Revenue Code, that has substantial nexus with the State for purposes of the commerce clause of the United States Constitution and upon whom federal law permits the State to impose the taxes under this chapter, and includes:
+     (1)  Any seller that is a member of a commonly controlled group that includes another member that, pursuant to an agreement with or in cooperation with the seller, performs services in the State in connection with tangible personal property to be sold by the seller, including the design and development of tangible personal property sold by the seller, or the solicitation of sales of tangible personal property on behalf of the seller; and
+     (2)  Any seller entering into an agreement or agreements under which a person or persons in the State, for a commission or other consideration, directly or indirectly refer potential purchasers of tangible personal property to the seller, whether by an internet-based link or an internet web site, or otherwise, provided that:
+         (A)  The total cumulative sales price from all of the seller's sales, within the preceding twelve months, of tangible personal property to purchasers in the State that are referred pursuant to all of those agreements with a person or persons in the State, is in excess of $10,000; and
+         (B)  The seller, within the preceding twelve months, has total cumulative sales of tangible personal property to purchasers in the State in excess of $1,000,000;
+          provided further that an agreement under which a seller purchases advertisements from a person or persons in the State, to be delivered on television, radio, in print, on the internet, or by any other medium, is not an agreement for the purposes of this paragraph unless the advertisement revenue paid to the person or persons in the State consists of commissions or other consideration that is based upon sales of tangible personal property; and provided further that an agreement under which a seller engages a person in the State to place an advertisement on an internet web site operated by that person, or operated by another person in the State, is not an agreement for the purposes of this paragraph unless the person entering the agreement with the seller also directly or indirectly solicits potential customers in the State through use of flyers, newsletters, telephone calls, electronic mail, blogs, microblogs, social networking sites, or other means of direct or indirect solicitation specifically targeted at potential customers in the State."
+SECTION 2.  Prior to the convening of the regular session of 2013, the director of taxation shall certify in writing to the governor and the legislature whether federal law has been enacted by December 31, 2012, authorizing the states to require a seller to collect taxes on sales of goods to in-state purchasers without regard to the location of the seller.
+     SECTION 3.  If any provision of this Act, or the application thereof to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of the Act, which can be given effect without the invalid provision or application, and to this end the provisions of this Act are severable.
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect upon its approval; provided that section 1 of this Act shall take effect on July 1, 2013, if the State does not, by June 30, 2013, enact a law in accordance with any federal law authorizing the states to require a seller to collect taxes on sales of goods to in-state purchasers without regard to the location of the seller.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Use Tax; Tangible Personal Property; Internet Sales; Out-of-State Sellers; Affiliates
+ 
+Description:
+Unless preempted by federal law, requires the collection of use taxes by sellers of tangible personal property who enter into agreements under which a person in the State refers potential purchasers to the seller, including by an internet link or web site, or performs related services in the State on behalf of the seller.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

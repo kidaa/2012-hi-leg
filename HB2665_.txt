@@ -1,0 +1,141 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2665
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO STROKE TREATMENT.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that the rapid identification, diagnosis, and treatment of stroke can save the lives of stroke patients and in some cases can reverse neurological damage such as paralysis, and speech and language impairments, leaving stroke patients with few or no neurological deficits.
+     Despite significant advances in diagnosis, treatment, and prevention, stroke is the third leading cause of death and a leading cause of disability in the United States.  An estimated seven hundred eighty thousand new and recurrent strokes occur each year in this country.  With the aging of the population, the number of persons who have strokes is projected to increase.
+     Although new treatments are available to improve the clinical outcomes of stroke, many acute care hospitals lack the necessary staff and equipment to optimally triage and treat stroke patients including the provision of optimal, safe, and effective emergency care for these patients.
+     The legislature finds that Hawaii's communities need an effective system to support stroke survival, to treat stroke patients in a timely manner, and to improve the overall treatment of stroke patients to increase survival and decrease the disabilities associated with stroke.  There is a public health need for acute care hospitals in this State to establish primary stroke centers to ensure the rapid triage, diagnostic evaluation, and treatment of patients suffering a stroke.
+     Primary stroke centers should be established for the treatment of acute stroke, and these centers should be established in as many acute care hospitals as possible.  These centers would evaluate, stabilize, and provide emergency and inpatient care to patients with acute stroke.
+     Because access to stroke care is limited in the rural areas of the State due to the limited availability of professional specialists, high-tech imaging equipment, and transportation services, stroke centers in rural areas should be established to evaluate, stabilize, and provide treatment to patients diagnosed with acute stroke in rural parts of the State.
+     Coordination between stroke centers and centers that are in rural areas should be encouraged through the establishment of coordinated stroke care agreements between primary stroke centers and those centers in rural areas.
+     Therefore, the legislature finds it is in the best interest of the residents of this State to establish a program to facilitate development of stroke treatment capabilities throughout the State.  This program will establish specific patient care and support services criteria that stroke centers must meet to ensure that stroke patients receive safe and effective care.  
+     Further, it is in the best interest of the people of this State to modify the State's emergency medical response system to ensure that stroke patients may be quickly identified, transported, and treated in facilities that have specialized programs for providing timely and effective treatment for stroke patients.
+     The purpose of this Act is to:
+     (1)  Establish a statewide stroke system of care by designating primary stroke centers and acute stroke capable centers;
+     (2)  Define emergency services training and transport protocols;
+     (3)  Establish a stroke registry working group;
+     (4)  Require health insurance coverage for telemedicine services; and
+     (5)  Establish a stroke system of care task force.
+     SECTION 2.  Chapter 323, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows:
+"PART   .  TREATMENT OF STROKE
+     §323-    Interpretation.  This part is not a medical practice guideline and shall not be used to restrict the authority of a hospital to provide services for which it has received a license under state law.  This part shall be construed to effectuate patient care based on each individual patient's needs and circumstances.
+     §323-    Definitions.  As used in this part:
+     "Emergency services provider" means any public employer that employs persons to provide firefighting, water safety, and emergency medical services.
+     "Hospital" means an institution with an organized medical staff, regulated under section 321-11(10) which admits patients for inpatient care, diagnosis, observation, and treatment.
+     §323-    Designation of primary stroke centers and acute stroke capable centers.  (a)  The department of health shall designate hospitals that meet the criteria set forth in this part as primary stroke centers or acute stroke capable centers.
+     (b)  A hospital shall apply to the department of health for such designation and shall demonstrate to the satisfaction of the department that the hospital meets the applicable criteria set forth in this part.
+     (c)  The department of health shall designate accredited hospitals as primary stroke centers that are certified as a primary stroke center by the Joint Commission on Accreditation of Healthcare Organizations, or any nationally-recognized organization approved by the United State Department of Health and Human Services that provides disease specific certification for stroke care.
+     (d)  The department of health may suspend or revoke a hospital's designation as a stroke center, after notice and hearing, if the department of health determines that the hospital is not in compliance with the requirements of this part.
+     (e)  Acute stroke capable centers shall be certified and identified by the department of health through an application process to be determined by the department.  The process shall contain, at minimum, the following requirements:
+     (1)  Acute stroke capable center certifications and identifications by the department to those hospitals that use current and acceptable telemedicine protocols relative to acute stroke treatment as defined by the department of health;
+     (2)  Upon receipt of complete and proper application for certification as an acute stroke capable center, the department shall schedule and conduct an inspection of the applicant's facility no later than ninety days after receipt of the application and every two years thereafter to verify continued adherence to criteria; and
+     (3)  Any hospital, upon certification by the department as an acute stroke capable center, shall automatically be identified as an acute stroke capable center and shall be added to the list of such hospitals as defined in this part.
+     (f)  Primary stroke centers are encouraged to coordinate, through agreement, with acute stroke capable centers throughout the State to provide appropriate access to care for acute stroke patients.  The coordinating stroke care agreements shall be in writing and include, at a minimum:
+     (1)  Transfer agreements for the transport and acceptance of stroke patients seen by the acute stroke capable center for stroke treatment therapies which are not capable of being provided in rural areas; and
+     (2)  Communication criteria and protocols with the acute stroke capable centers.
+     (g)  A person shall not advertise to the public, by way of any medium whatsoever, that a hospital is a primary stroke center or acute stroke capable center unless the hospital has been designated as such by the department of health as required by this part.
+     §323-    Hospitals; assessment and transportation of stroke patients to a primary stroke center.  (a)  By June 1 of each year, the department of health shall:
+     (1)  Send the list of primary stroke centers and acute stroke capable centers to the medical director of each licensed hospital in the State;
+     (2)  Maintain a copy of the list in the office designated with the emergency medical services and injury prevention system branch of the department of health; and
+     (3)  Post a list of primary stroke centers and acute stroke capable centers to the department of health's website.
+     (b)  The department of health shall adopt and distribute a nationally recognized standardized stroke-triage assessment tool.  The department of health and emergency medical services and injury prevention system branch shall post the stroke assessment tool on their respective websites and provide a copy of the assessment tool to each licensed hospital no later than January 1, 2013.  Each licensed hospital shall use a stroke-triage assessment tool adopted by the department of health.
+     (c)  The department of health shall establish pre-hospital care protocols related to the assessment, treatment, and transport of stroke patients by emergency services providers in this State.  Such protocols shall include plans for the triage and transport of acute stroke patients to the closest primary stroke center or acute stroke capable center, as appropriate and within a specified timeframe of onset of symptoms.
+     (d)  The department of health shall establish, as part of current training requirements, protocols to assure that emergency services providers and 911 dispatch personnel receive regular training on the assessment and treatment of stroke patients.
+     §323-    Continuous improvement of quality of care for individuals with stroke.  (a)  The department of health shall establish and implement a plan for achieving continuous quality improvement in the quality of care provided under the statewide system for stroke response and treatment.  In implementing this plan, the department of health shall:
+     (1)  Maintain a statewide stroke database that compiles information and statistics on stroke care that align with the stroke consensus metrics developed and approved by the American Heart Association/American Stroke Association, Centers for Disease Control and Prevention and the Joint Commission on Accreditation of Healthcare Organizations.  The department of health shall use, "Get With The Guidelines – Stroke," or another nationally recognized data set platform with confidentiality standards no less secure, as the stroke registry data platform.  To every extent possible, the department of health shall coordinate with national voluntary health organizations involved in stroke quality improvement to avoid duplication and redundancy;
+     (2)  Require primary stroke centers, acute stroke capable centers, and emergency services providers to report data consistent with nationally recognized guidelines on the treatment of individuals with confirmed stroke within the State;
+     (3)  Encourage sharing of information and data among health care providers on ways to improve the quality of care of stroke patients in this State;
+     (4)  Facilitate the communication and analysis of health information and data among the health care professionals providing care for individuals with stroke;
+     (5)  Require the application of evidenced-based treatment guidelines regarding the transitioning of patients to community-based follow-up care in hospital outpatient, physician office, and ambulatory clinic settings for ongoing care after hospital discharge following acute treatment for stroke; and
+     (6)  Establish a stroke registry working group to provide recommendations for a plan that achieves continuous quality improvement in the quality of care provided under the statewide system for stroke response and treatment.  The working group shall:
+         (A)  Analyze data generated by the stroke registry on response and treatment;
+         (B)  Identify potential interventions to improve stroke care in geographic areas or regions of the State; and
+         (C)  Provide recommendations to the department of health and the legislature by a specific deadline for the improvement of stroke care and delivery in the State.
+     (b)  The director of health shall be the chairperson of and convene the stroke registry working group.  The working group shall include the following members or their designees:
+     (1)  Chief of the emergency medical services and injury prevention system branch;
+     (2)  Director of the city and county of Honolulu emergency services department;
+     (3)  Director of the Hawaii state office of rural health and primary care;
+     (3)  A representative of the American Stroke Association;
+     (4)  Two representatives each from primary stroke centers and acute stroke capable centers;
+     (5)  Two representatives from rural hospitals;
+     (6)  Two physicians; and
+     (7)  Two emergency medical service providers.
+     The members of the working group shall serve without compensation, and shall not be reimbursed for their expenses.  No member shall be made subject to chapter 84, solely because of that member's participation as a member of the working group.
+     (c)  All data reported under this section shall be made available to the department of health and to any and all other government agencies or contractors of government agencies that have responsibility for the management and administration of emergency services throughout the State.
+     (d)  On June 1 and annually thereafter, the department of health shall provide a summary report of the data collected pursuant to subsection (a)(1).  All data shall be reported in the aggregate form and shall be posted on the department of health's website and presented to the governor, the president of the senate, and the speaker of the house of representatives to show statewide progress toward improving quality of care and patient outcomes.
+     (e)  This part shall not be construed to require disclosure of any confidential information or other data in violation of the federal Health Insurance Portability and Accountability Act of 1996, P.L. 104-191.
+     §323-    Rules.  The department of health is authorized to adopt rules, pursuant to chapter 91, for purposes of this part."
+     SECTION 3.  Chapter 431, article 10A, Hawaii Revised Statutes, is amended by adding a new section to part I to be appropriately designated and to read as follows:
+     "§431:10A-     Coverage for telemedicine services.  (a)  Commencing on January 1, 2013, each insurer that offers a health care plan for health care services shall provide coverage for the cost of health care services that are provided through telemedicine services.
+     (b)  Each insurer that meets the criterion of subsection (a) shall reimburse the treating provider or the consulting provider for the diagnosis, consultation, or treatment of the insured that is delivered through telemedicine services on the same basis that the insurer reimburses the service when provided through face-to-face consultation or contact.
+     (c)  As used in this section, "telemedicine services", in the context of the delivery of health care services, means the use of interactive audio, video, or other electronic media used for the purpose of diagnosis, consultation, or treatment of acute stroke."
+     SECTION 4.  Chapter 431, article 10A, Hawaii Revised Statutes, is amended by adding a new section to part II to be appropriately designated and to read as follows:
+     "§431:10A-     Coverage for telemedicine services.  (a)  Commencing on January 1, 2013, each insurer that offers a group health care plan for health care services shall provide coverage for the cost of health care services that are provided through telemedicine services.
+     (b)  Each insurer that meets the criterion of subsection (a) shall reimburse the treating provider or the consulting provider for the diagnosis, consultation, or treatment of the insured that is delivered through telemedicine services on the same basis that the insurer reimburses the service when provided through face-to-face consultation or contact.
+     (c)  As used in this section, "telemedicine services", in the context of the delivery of health care services, means the use of interactive audio, video, or other electronic media used for the purpose of diagnosis, consultation, or treatment of acute stroke."
+     SECTION 5.  Chapter 432, article I, Hawaii Revised Statutes, is amended by adding a new section to part VI to be appropriately designated and to read as follows:
+     "§432:1-     Coverage for telemedicine services.  (a)  Commencing on January 1, 2013, each mutual benefit society that offers a health care plan for health care services shall provide coverage for the cost of health care services that are provided through telemedicine services.
+     (b)  Each mutual benefit society that meets the criterion of subsection (a) shall reimburse the treating provider or the consulting provider for the diagnosis, consultation, or treatment of the insured that is delivered through telemedicine services on the same basis that the insurer reimburses the service when provided through face-to-face consultation or contact.
+     (c)  As used in this section, "telemedicine services", in the context of the delivery of health care services, means the use of interactive audio, video, or other electronic media used for the purpose of diagnosis, consultation, or treatment of acute stroke."
+     SECTION 6.  Section 432D-23, Hawaii Revised Statutes, is amended to read as follows:
+     "§432D-23  Required provisions and benefits.  Notwithstanding any provision of law to the contrary, each policy, contract, plan, or agreement issued in the State after January 1, 1995, by health maintenance organizations pursuant to this chapter, shall include benefits provided in sections 431:10-212, 431:10A-115, 431:10A-115.5, 431:10A-116, 431:10A-116.5, 431:10A-116.6, 431:10A-119, 431:10A-120, 431:10A-121, 431:10A-125, 431:10A-126, 431:10A-   , and 431:10A-122, and chapter 431M."
+     SECTION 7.  Stroke system of care task force.  (a)  There is established within the department of health a stroke system of care task force. 
+     (b)  To ensure the implementation of a strong statewide stroke system of care, the task force shall address:
+     (1)  Triage;
+     (2)  Treatment; and
+     (3)  Transport of possible acute stroke patients.
+     (c)  The task force shall also provide recommendations to establish an effective stroke system of care in the State, particularly in rural areas.  The recommendations shall include:
+     (1)  Protocols for the assessment, stabilization, and appropriate routing of stroke patients by emergency service providers, particularly in rural areas; and
+     (2)  Coordination and communication between hospitals and primary stroke centers and acute stroke capable centers and other support services necessary to assure that all residents have access to effective and efficient stroke care.
+     (d)  The director of health shall be the chairperson of and convene the stroke system of care task force.  The task force shall include the following members or their designees:
+     (1)  Chief of the emergency medical services and injury prevention system branch;
+     (2)  Director of the city and county of Honolulu emergency services department;
+     (3)  Director of the Hawaii state office of rural health and primary care;
+     (3)  A representative from the American Stroke Association;
+     (4)  Two representatives each from primary stroke centers and acute stroke capable centers;
+     (5)  Two representatives from rural hospitals;
+     (6)  Two physicians; and
+     (7)  Two emergency service providers.
+     A simple majority of the members of the task force shall constitute a quorum for the transaction of business, and all actions of the task force shall require the affirmative vote of a majority of the members present.
+     The members of the task force shall serve without compensation, and shall not be reimbursed for their expenses.  No member shall be made subject to chapter 84, Hawaii Revised Statutes, solely because of that member's participation as a member of the task force.
+     (e)  The task force shall submit a report that recommends measures and strategies to the legislature no later than twenty days prior to the convening of the regular session of 2013. 
+     The task force shall cease to exist on June 30, 2013.
+     SECTION 8.  New statutory material is underscored.
+     SECTION 9.  This Act shall take effect upon its approval; provided that section 6 shall take effect on January 1, 2013.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report Title:
+Statewide Stroke System of Care; Primary Stroke Center; Acute Stroke Capable Center; Training and Transport Protocol
+ 
+Description:
+Establishes a statewide stroke system of care by designating primary stroke centers and acute stroke capable centers; defines emergency services training and transport protocols; establishes a stroke registry working group; requires health insurance coverage for telemedicine services; and establishes a stroke system of care task force.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

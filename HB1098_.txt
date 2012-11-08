@@ -1,0 +1,45 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1098
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MOTOR VEHICLE REGISTRATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 286-2, Hawaii Revised Statutes, is amended by adding a new definition to be appropriately inserted and to read as follows:
+     ""After market motorcycle frame" means a frame that is manufactured to replace the frame of a motorcycle that was certified by its manufacturer to be in compliance with all applicable Federal Motor Vehicle Safety Standards as of the date of manufacture, or the frame of a homemade motorcycle that was manufactured not for profit by a person who built the motorcycle as a hobby."
+     SECTION 2.  Section 286-42, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  The county director of finance shall examine and to the best of the director's ability determine the genuineness and regularity of every registration and transfer of registration of a vehicle as in this part provided, in order that every certificate issued for a vehicle shall contain true statements of the ownership thereof, and to prevent the registration of a vehicle by any person not entitled thereto, and the director of finance may require any applicant to furnish such information, in addition to that contained in the application, as may be necessary to satisfy the director of finance of the truth and regularity of the application.  The director of finance may accept any county certificate of title issued for a vehicle as prima facie evidence of ownership for registration and transfer of registration.  The director may issue vehicle identification numbers for reconstructed vehicles, special interest vehicles, or motorcycles, which do not have vehicle identification numbers if the director determines that the requirements of this section have been met.
+     The county director of finance may register a motorcycle with an after market motorcycle frame, using the [vehicle identification] number of the frame as issued by the [incomplete vehicle] manufacturer of the frame[.], the vehicle identification number on the certification label, or a vehicle identification number assigned by the director of finance.  A bill of sale and Manufacturers Statement of Origin for the frame, engine, and transmission must be presented and retained as a part of the permanent county registration records.  If a Manufacturers Statement of Origin is not available for the engine and transmission due to the use of a used or reconstructed engine, transmission, or both, then a bill of sale or other proof of ownership, satisfactory to the director of finance must be presented.  Except for motorcycles that are built on an after market motorcycle frame, special interest vehicles and reconstructed vehicles, any motor vehicle or device that is not certified by the manufacturer to be in compliance with all applicable Federal Motor Vehicle Safety Standards as of the date of manufacturer shall not be registered."
+     SECTION 3.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Motor Vehicle Registration
+ 
+Description:
+Defines "after market motorcycle frame" and allows the County director of finance to assign a vehicle identification number to a motorcycle with an aftermarket frame.  Except for special interest vehicles, reconstructed vehicles and motorcycles with an after market frame, the bill disallows the registration of uncertified motor vehicles and devices.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

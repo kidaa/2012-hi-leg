@@ -1,0 +1,53 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2080
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MOTOR VEHICLE INSURANCE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 431:10C-107, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  Every insurer shall issue to its insureds a motor vehicle insurance identification card for each motor vehicle for which the basic motor vehicle insurance coverage is written.  The identification card shall contain the following:
+     (1)  Name of make and factory or serial number of the motor vehicle; provided that insurers of five or more motor vehicles which are under common registered ownership and used in the regular course of business shall not be required to indicate the name of make and the factory or serial number of each motor vehicle;
+     (2)  Policy number;
+     (3)  Names of the insured and the insurer; [and]
+     (4)  Effective dates of coverage including the expiration date[.]; and
+     (5)  A magnetic strip or microchip on the card that will allow retail service stations to determine whether the motor vehicle insurance coverage is in force before the retail service station dispenses gasoline into the motor vehicle."
+     SECTION 2.  (a)  The insurance commissioner shall adopt rules pursuant to chapter 91, Hawaii Revised Statutes, to implement this Act which shall include, but not be limited to the following:
+     (1)  Motor vehicle insurance companies shall be required to issue motor vehicle insurance identification cards to its insureds in this State containing a magnetic strip or microchip that will permit retail service stations to determine whether the motor vehicle insurance coverage is in force before the retail service station dispenses gasoline into the motor vehicle;
+     (2)  Motor vehicle insurance companies shall be required to create and keep current a database of motor vehicle insurance policies that will be accessible by retail service stations through the magnetic strip or microchip on a motor vehicle insurance identification card only for the purpose of determining whether the motor vehicle insurance coverage is in force at the time the determination is to be made;
+     (3)  No gasoline shall be dispensed into a motor vehicle unless there is motor vehicle insurance in force at the time the gasoline is to be dispensed, as determined through the person's motor vehicle insurance identification card; and
+     (4)  The motor vehicle insurance verification requirement shall not apply when the gasoline is to be dispensed into an approved gasoline container or into a vehicle not covered by the motor vehicle insurance requirement.
+     (b)  The insurance commissioner shall make the proposed rules available for public hearing no later than January 1, 2013.  The rules implementing this Act shall take effect on July 1, 2013.
+     SECTION 3.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval; provided that section 1 shall take effect on July 1, 2013.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Motor Vehicle Insurance Cards; Verification Of Insurance At Service Stations
+ 
+Description:
+Requires motor vehicle insurance companies to issue insurance cards with a magnetic strip or microchip to allow retail service stations to determine whether a gasoline purchaser's motor vehicle insurance is current.  Requires the insurance commissioner to adopt rules to implement the requirement, including exemptions.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

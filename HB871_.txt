@@ -1,0 +1,511 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+871
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE UNIFORM INTERSTATE FAMILY SUPPORT ACT.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 576B, Hawaii Revised Statutes, is amended to read as follows:
+[[]CHAPTER 576B[]]
+UNIFORM INTERSTATE FAMILY SUPPORT ACT
+ARTICLE 1.  GENERAL PROVISIONS
+     §576B-101  Short title.  This chapter may be cited as the Uniform Interstate Family Support Act.
+     [§576B-101] §576B-102  Definitions.  In this chapter:
+     ""Child" means an individual, whether over or under the age of majority, who is or is alleged to be owed a duty of support by the individual's parent or who is or is alleged to be the beneficiary of a support order directed to the parent.
+     "Child support order" means a support order for a child, including a child who has attained the age of majority under the law of the issuing state[.] or foreign country.
+     "Convention" means the Convention on the International Recovery of Child Support and Other Forms of Family Maintenance, concluded at The Hague on November 23, 2007.
+     "Duty of support" means an obligation imposed or imposable by law to provide support for a child, spouse, or former spouse, including an unsatisfied obligation to provide support.
+     "Foreign country" means a country, including a political subdivision thereof, other than the United States, that authorizes the issuance of support orders and:
+     (1)  Which has been declared under the law of the United States to be a foreign reciprocating country;
+     (2)  Which has established a reciprocal arrangement for child support with this State as provided in section 576B-308;
+     (3)  Which has enacted a law or established procedures for the issuance and enforcement of support orders which are substantially similar to the procedures under this chapter; or
+     (4)  In which the Convention is in force with respect to the United States.
+     "Foreign support order" means a support order of a foreign tribunal.
+     "Foreign tribunal" means a court, administrative agency, or quasi-judicial entity of a foreign country which is authorized to establish, enforce, or modify support orders or to determine parentage of a child.  The term includes a competent authority under the Convention.
+     "Home state" means the state or foreign country in which a child lived with a parent or a person acting as parent for at least six consecutive months immediately preceding the time of filing of a petition or comparable pleading for support and, if a child is less than six months old, the state or foreign country in which the child lived from birth with any of them.  A period of temporary absence of any of them is counted as part of the six-month or other period.
+     "Income" includes earnings or other periodic entitlements to money from any source and any other property subject to withholding for support under the law of this State.
+     "Income­ withholding order" means an order or other legal process directed to an obligor's employer as defined by sections 571-52, 571-52.2, 571-52.3, and 576D-14, to withhold support from the income of the obligor.
+     ["Initiating state" means a state from which a proceeding is forwarded or in which a proceeding is filed for forwarding to a responding state under this chapter or a law or procedure substantially similar to this chapter, the Uniform Reciprocal Enforcement of Support Act, or the Revised Uniform Reciprocal Enforcement of Support Act.]
+     "Initiating tribunal" means the [authorized] tribunal [in an initiating state.] of a state or foreign country from which a petition or comparable pleading is forwarded or in which a petition or comparable pleading is filed for forwarding to another state or foreign country.
+     "Issuing foreign country" means the foreign country in which a tribunal issues a support order or a judgment determining parentage of a child.
+     "Issuing state" means the state in which a tribunal issues a support order or [renders] a judgment determining parentage[.] of a child.
+     "Issuing tribunal" means the tribunal of a state or foreign country that issues a support order or [renders] a judgment determining parentage[.] of a child.
+     "Law" includes decisional and statutory law and rules and regulations having the force of law.
+     "Obligee" means:
+     (1)  An individual to whom a duty of support is or is alleged to be owed or in whose favor a support order [has been issued] or a judgment determining parentage of a child has been [rendered;] issued;
+     (2)  A foreign country, state, or political subdivision of a state to which the rights under a duty of support or support order have been assigned or which has independent claims based on financial assistance provided to an individual obligee[; or] in place of child support;
+     (3)  An individual seeking a judgment determining parentage of the individual's child[.]; or
+     (4)  A person that is a creditor in a proceeding under Article 7.
+     "Obligor" means an individual, or the estate of a decedent[:] that:
+     (1)  [Who owes] Owes or is alleged to owe a duty of support;
+     (2)  [Who is] Is alleged but has not been adjudicated to be a parent of a child; [or]
+     (3)  [Who is] Is liable under a support order[.]; or
+     (4)  Is a debtor in a proceeding under Article 7.
+     "Outside this State" means a location in another state or a country other than the United States, whether or not the country is a foreign country.
+     "Person" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, public corporation, government, or governmental subdivision, agency, or instrumentality, or any other legal or commercial entity.
+     "Record" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.
+     "Register" means to file in a tribunal of this State a support order or judgment determining parentage [in the family court of this State.] of a child issued in another state or a foreign country.
+     "Registering tribunal" means a tribunal of the state in which a support order or judgment determining parentage of a child is registered.  [The child support enforcement agency of this State shall be deemed the registering tribunal for the receipt and processing of all registration requested by another child support enforcement agency or an individual who has applied for child support enforcement agency services, and the child support enforcement agency of this State shall register the request in the appropriate tribunal.  The family court shall be the registering tribunal for all other requests for registration.]
+     "Responding state" means a state in which a [proceeding] petition or comparable pleading for support or to determine parentage of a child is filed or to which a [proceeding] petition or comparable pleading is forwarded for filing from [an initiating state under this chapter or a law or procedure substantially similar to this chapter, the Uniform Reciprocal Enforcement of Support Act, or the Revised Uniform Reciprocal Enforcement of Support Act.] another state or foreign country.
+     "Responding tribunal" means the authorized tribunal in a responding state[.] or foreign country.
+     "Spousal support order" means a support order for a spouse or former spouse of the obligor.
+     "State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, or any territory or insular possession [subject to] under the jurisdiction of the United States.  The term includes[:
+     (1)  An] an Indian nation or tribe[; and
+     (2)  A foreign jurisdiction that has enacted a law or established procedures for issuance and enforcement of support orders which are substantially similar to the procedures under this chapter, the Uniform Reciprocal Enforcement of Support Act or the Revised Uniform Reciprocal Enforcement of Support Act].
+     "Support enforcement agency" means a public official [or], governmental entity, or private agency authorized to [seek]:
+     (1)  [Enforcement] Seek enforcement of support orders or laws relating to the duty of support [pursuant to chapters 576D and 576E];
+     (2)  [Establishment] Seek establishment or modification of child support [pursuant to chapters 346, 576D, 576E, 580, and 584];
+     (3)  [Determination] Request determination of parentage of a child [pursuant to chapter 584]; [or]
+     (4)  [Location of] Attempt to locate obligors or their assets[.]; or
+     (5)  Request determination of the controlling child support order.
+     "Support order" means a judgment, decree, [or] order, decision, or directive, whether temporary, final, or subject to modification, issued in a state or foreign country for the benefit of a child, a spouse, or a former spouse, which provides for monetary support, health care, arrearages, retroactive support, or reimbursement[, and] for financial assistance provided to an individual obligee in place of child support.  The term may include related costs and fees, interest, income withholding, automatic adjustment, reasonable attorney's fees, and other relief."
+     "Tribunal" means a court, administrative agency, or quasi-judicial entity authorized to establish, enforce, or modify support orders or to determine parentage[.] of a child.
+     "[[§576B-102]  Tribunals of State.]  §576B-103  State tribunal and support enforcement agency.  (a)  The family court, the child support enforcement agency as defined by the registering tribunal in section [576B-101,] 576B-102, and the office of child support hearings are the tribunals of this State.
+     (b)  The child support enforcement agency established by section 576D-2 is the support enforcement agency of this State.
+     "[[§576B-103]] §576B-104  Remedies cumulative.  (a)  Remedies provided by this chapter are cumulative and do not affect the availability of remedies under other law[.], or the recognition of a foreign support order on the basis of comity.
+     (b)  This chapter does not:
+     (1)  Provide the exclusive method of establishing or enforcing a support order under the law of this State; or
+     (2)  Grant a tribunal of this State jurisdiction to render judgment or issue an order relating to child custody or visitation in a proceeding under this chapter.
+     §576B-105  Application of chapter to resident of foreign country and foreign support proceeding.  (a)  A tribunal of this State shall apply Articles 1 through 6 and, as applicable, Article 7, to a support proceeding involving:
+     (1)  A foreign support order;
+     (2)  A foreign tribunal; or
+     (3)  An obligee, obligor, or child residing in a foreign country.
+     (b)  A tribunal of this State that is requested to recognize and enforce a support order on the basis of comity may apply the procedural and substantive provisions of Articles 1 through 6.
+     (c)  Article 7 applies only to a support proceeding under the Convention.  In such a proceeding, if a provision of Article 7 is inconsistent with Articles 1 through 6, Article 7 controls.
+ARTICLE 2.  JURISDICTION
+[PART I.  EXTENDED PERSONAL JURISDICTION]
+     [[]§576B-201[]]  Bases for jurisdiction over nonresident.  (a)  In a proceeding to establish[,] or enforce[, or modify] a support order or to determine parentage[,] of a child, a tribunal of this State may exercise personal jurisdiction over a nonresident individual or the individual's guardian or conservator if:
+     (1)  The individual is personally served with summons or notice within this State;
+     (2)  The individual submits to the jurisdiction of this State by consent[,] in a record, by entering a general appearance, or by filing a responsive document having the effect of waiving any contest to personal jurisdiction;
+     (3)  The individual resided with the child in this State;
+     (4)  The individual resided in this State and provided prenatal expenses or support for the child;
+     (5)  The child resides in this State as a result of the acts or directives of the individual;
+     (6)  The individual engaged in sexual intercourse in this State and the child may have been conceived by that act of intercourse;
+     (7)  The individual asserted parentage of a child in the office of health status monitoring maintained in this State by the department of health; or
+     (8)  There is any other basis consistent with the constitutions of this State and the United States for the exercise of personal jurisdiction.
+     (b)  The bases of personal jurisdiction set forth in subsection (a) or in any other law of this State may not be used to acquire personal jurisdiction for a tribunal of this State to modify a child support order of another state unless the requirements of section 576B-611 are met, or in the case of a foreign support order, unless the requirements of section 576B-615 are met.
+     [[]§576B-202[]  Procedure when exercising jurisdiction over nonresident.  A tribunal of this State exercising personal jurisdiction over a nonresident under section 576B-201 may apply section 576B-316 to receive evidence from another state, and section 576B-318 to obtain discovery through a tribunal of another state.  In all other respects, Articles 3 through 7 shall not apply and the tribunal shall apply the procedural and substantive law of this State, including the rules on choice of law other than those established by this chapter.]  Duration of personal jurisdiction.  Personal jurisdiction acquired by a tribunal of this State in a proceeding under this chapter or other law of this State relating to a support order continues as long as a tribunal of this State has continuing, exclusive jurisdiction to modify its order or continuing jurisdiction to enforce its order as provided by sections 576B-205, 576B-206, and 576B-211.
+[PART II.  PROCEEDINGS INVOLVING TWO OR MORE STATES
+     []§576B-203[]]  Initiating and responding tribunal of State.  Under this chapter, a tribunal of this State may serve as an initiating tribunal to forward proceedings to a tribunal of another state, and as a responding tribunal for proceedings initiated in another state[.] or a foreign country.
+     [[]§576B-204[]]  Simultaneous proceedings [in another state].  (a)  A tribunal of this State may exercise jurisdiction to establish a support order if the petition or comparable pleading is filed in this State after a pleading is filed in another state or a foreign country only if:
+     (1)  The petition or comparable pleading in this State is filed before the expiration of the time allowed in the other state or the foreign country for filing a responsive pleading challenging the exercise of jurisdiction by the other state[;] or the foreign country;
+     (2)  The contesting party timely challenges the exercise of jurisdiction in the other state[;] or the foreign country; and
+     (3)  If relevant, this State is the home state of the child.
+     (b)  A tribunal of this State may not exercise jurisdiction to establish a support order if the petition or comparable pleading is filed in this State before a petition or comparable pleading is filed in another state or a foreign country if:
+     (1)  The petition or comparable pleading in the other state or foreign country is filed before the expiration of the time allowed in this State for filing a responsive pleading challenging the exercise of jurisdiction by this State;
+     (2)  The contesting party timely challenges the exercise of jurisdiction in this State; and
+     (3)  If relevant, the other state or foreign country is the home state of the child.
+     [[]§576B-205[]]  Continuing, exclusive jurisdiction[.] to modify child support order.  (a)  A tribunal of this State [issuing] that has issued a child support order consistent with the law of this State has and shall exercise continuing, exclusive jurisdiction [over a] to modify its child support order[:] if the order is the controlling order and:
+     (1)  [As long as] At the time of the filing of a request for modification this State [remains] is the residence of the obligor, the individual obligee, or the child for whose benefit the support order is issued; or
+     (2)  [Until all of the parties who are individuals have filed written consents with the tribunal of this State for a tribunal of another state to modify the order and assume continuing, exclusive jurisdiction.]  Even if this State is not the residence of the obligor, the individual obligee, or the child for whose benefit the support order is issued, the parties consent in a record or in open court that the tribunal of this State may continue to exercise jurisdiction to modify its order.
+     (b)  A tribunal of this State [issuing] that has issued a child support order consistent with the law of this State may not exercise [its] continuing, exclusive jurisdiction to modify the order if [the order has been modified by a tribunal of another state pursuant to this chapter or a law substantially similar to this chapter.]:
+     (1)  All of the parties who are individuals file consent in a record with the tribunal of this State that a tribunal of another state that has jurisdiction over at least one of the parties who is an individual or that is located in the state of residence of the child may modify the order and assume continuing, exclusive jurisdiction; or
+     (2)  Its order is not the controlling order.
+     [(c)  If a child support order of this State is modified by a tribunal of another state pursuant to this chapter or a law substantially similar to this chapter, a tribunal of this State loses its continuing, exclusive jurisdiction with regard to prospective enforcement of the order issued in this State, and may only:
+     (1)  Enforce the order that was modified as to amounts accruing before the modification;
+     (2)  Enforce nonmodifiable aspects of that order; and
+     (3)  Provide other appropriate relief for violations of that order which occurred before the effective date of the modification.
+     (d)  A tribunal of this State shall recognize the continuing, exclusive jurisdiction of]
+     (c)  If a tribunal of another state [which] has issued a child support order pursuant to [this chapter] the Uniform Interstate Family Support Act or a law substantially similar to [this chapter.] that Act which modifies a child support order of a tribunal of this State, tribunals of  this State shall recognize the continuing, exclusive jurisdiction of the tribunal of the other state.
+     (d)  A tribunal of this State that lacks continuing, exclusive jurisdiction to modify a child support order may serve as an initiating tribunal to request a tribunal of another state to modify a support order issued in that state.
+     (e)  A temporary support order issued ex parte or pending resolution of a jurisdictional conflict does not create continuing, exclusive jurisdiction in the issuing tribunal.
+     [(f)  A tribunal of this State issuing a support order consistent with the law of this State has continuing, exclusive jurisdiction over a spousal support order throughout the existence of the support obligation.  A tribunal of this State may not modify a spousal support order issued by a tribunal of another state having continuing, exclusive jurisdiction over that order under the law of that state.
+     []§576B-206[]  Enforcement and modification of support order by tribunal having continuing jurisdiction.]  Continuing jurisdiction to enforce child support order.  (a)  A tribunal of this State that has issued a child support order consistent with the law of this State may serve as an initiating tribunal to request a tribunal of another state to enforce [or modify a support order issued in that state.]:
+     (1)  The order if the order is the controlling order and has not been modified by a tribunal of another state that assumed jurisdiction pursuant to the Uniform Interstate Family Support Act; or
+     (2)  A money judgment for arrears of support and interest on the order accrued before a determination that an order of a tribunal of another state is the controlling order.
+     (b)  A tribunal of this State that has continuing[, exclusive] jurisdiction over a support order may act as a responding tribunal to enforce [or modify] the order.  [If a party subject to the continuing, exclusive jurisdiction of the tribunal no longer resides in the issuing state, in subsequent proceedings the tribunal may apply section 576B-316 to receive evidence from another state and section 576B-318 to obtain discovery through a tribunal of another state.
+     (c)  A tribunal of this State which lacks continuing, exclusive jurisdiction over a spousal support order may not serve as a responding tribunal to modify a spousal support order of another state.]
+[PART III.  RECONCILIATION OF MULTIPLE ORDERS]
+     §576B-207  [Recognition] Determination of controlling child support [orders.] order.  (a)  If a proceeding is brought under this chapter and only one tribunal has issued a child support order, the order of that tribunal controls and must be [so] recognized.
+     (b)  If a proceeding is brought under this chapter, and two or more child support orders have been issued by tribunals of  this State [or], another state, or a foreign country with regard to the same obligor and child, a tribunal of this State having personal jurisdiction over both the obligor and individual obligee shall apply the following rules [in determining] and by order shall determine which order [to recognize for purposes of continuing, exclusive jurisdiction:] controls and must be recognized:
+     (1)  If only one of the tribunals would have continuing, exclusive jurisdiction under this chapter, the order of that tribunal controls [and must be so recognized].
+     (2)  If more than one of the tribunals would have continuing, exclusive jurisdiction under this chapter[, an]:
+         (A)  An order issued by a tribunal in the current home state of the child controls [and must be so recognized, but if]; or
+         (B)  If an order has not been issued in the current home state of the child, the order most recently issued controls [and must be so recognized].
+     (3)  If none of the tribunals would have continuing, exclusive jurisdiction under this chapter, the tribunal of this State [having jurisdiction over the parties] shall issue a child support order, which controls [and must be so recognized].
+    (c)  If two or more child support orders have been issued for the same obligor and same child [and if the obligor or the individual obligee resides in this State], upon request of a party [may request] who is an individual or that is a support enforcement agency, a tribunal of this State [to] having personal jurisdiction over both the obligor and the obligee who is an individual shall determine which order controls [and must be so recognized] under subsection (b).  [The request must be accompanied by a certified copy of every support order in effect.  The requesting party shall give notice of the request to each party whose rights may be affected by the determination.]  The request may be filed with a registration for enforcement or registration for modification pursuant to Article 6, or may be filed as a separate proceeding.
+     (d)  A request to determine which is the controlling order must be accompanied by a copy of every child support order in effect and the applicable record of payments.  The requesting party shall give notice of the request to each party whose rights may be affected by the determination.
+     For the purposes of this subsection, service of the notice shall be by personal service or certified mail, return receipt requested.  After initial service is effected, additional service upon a party shall be satisfied by regular mail to the party's last known address.  In any child support enforcement proceedings subsequent to an order, upon a showing that diligent effort has been made to ascertain the location of a party, notice of service of process shall be presumed to be satisfied upon delivery of written notice to the most recent residential or employer address on file with the state case registry.
+     [(d)] (e)  The tribunal that issued the controlling order under subsection (a), (b), or (c) [is the tribunal that] has continuing[, exclusive] jurisdiction [under section 576B-205.] to the extent provided in section 576B-205 or 576B-206.
+     [(e)] (f)  A tribunal of this State [which] that determines by order [the identity of] which is the controlling order under subsection (b)(1) or (2) or [which] (c), or that issues a new controlling order under subsection (b)(3), shall state in that order [the]:
+     (1)  The basis upon which the tribunal made its determination[.];
+     (2)  The amount of prospective support, if any; and
+     (3)  The total amount of consolidated arrears and accrued interest, if any, under all of the orders after all payments made are credited as provided by section 576B‑209.
+     [(f)] (g)  Within thirty days after issuance of an order determining [the identity of] which is the controlling order, the party obtaining the order shall file a certified copy of it [with] in each tribunal that issued or registered an earlier order of child support.  A party [who obtains] or support enforcement agency obtaining the order [and] that fails to file a certified copy is subject to appropriate sanctions by a tribunal in which the issue of failure to file arises.  The failure to file does not affect the validity or enforceability of the controlling order.
+     (h)  An order that has been determined to be the controlling order, or a judgment for consolidated arrears of support and interest, if any, made pursuant to this section must be recognized in proceedings under this chapter.
+     [[]§576B-208[]]  [Multiple child] Child support orders for two or more obligees.  In responding to [multiple] registrations or petitions for enforcement of two or more child support orders in effect at the same time with regard to the same obligor and different individual obligees, at least one of which was issued by a tribunal of another state[,] or a foreign country, a tribunal of this State shall enforce those orders in the same manner as if the [multiple] orders had been issued by a tribunal of this State.
+     [[]§576B-209[]]  Credit for payments.  [Amounts] A tribunal of this State shall credit amounts collected [and credited] for a particular period pursuant to [a support order] any child support order against the amounts owed for the same period under any other child support order for support of the same child  issued by a tribunal of this State, another state [must be credited against the amounts accruing or accrued for the same period under a support order issued by the tribunal of this State.], or a foreign country.
+     §576B-210  Application of chapter to nonresident subject to personal jurisdiction.  A tribunal of this State exercising personal jurisdiction over a nonresident in a proceeding under this chapter, under other law of this State relating to a support order, or recognizing a foreign support order may receive evidence from outside this State pursuant to section 576B-316, communicate with a tribunal outside this State pursuant to section 576B-317, and obtain discovery through a tribunal outside this State pursuant to section 576B-318.  In all other respects, Articles 3 through 6 do not apply, and the tribunal shall apply the procedural and substantive law of this State.
+     §576B-211  Continuing, exclusive jurisdiction to modify spousal support order.  (a)  A tribunal of this State issuing a spousal support order consistent with the law of this State has continuing, exclusive jurisdiction to modify the spousal support order throughout the existence of the support obligation.
+     (b)  A tribunal of this State may not modify a spousal support order issued by a tribunal of another state or a foreign country having continuing, exclusive jurisdiction over that order under the law of that state or foreign country.
+     (c)  A tribunal of this State that has continuing, exclusive jurisdiction over a spousal support order may serve as:
+     (1)  An initiating tribunal to request a tribunal of another state to enforce the spousal support order issued in this State; or
+     (2)  A responding tribunal to enforce or modify its own spousal support order.
+ARTICLE 3.  CIVIL PROVISIONS OF GENERAL APPLICATION
+     [[]§576B-301[]]  Proceedings under this chapter.  (a)  Except as otherwise provided in this chapter, this article applies to all proceedings under this chapter.
+     [(b)  This chapter provides for the following proceedings:
+     (1)  Establishment of an order for spousal support or child support pursuant to Article 4;
+     (2)  Enforcement of a support order and income withholding order of another state without registration pursuant to Article 5;
+     (3)  Registration of an order for spousal support or child support of another state for enforcement pursuant to Article 6;
+     (4)  Modification of an order for child support or spousal support issued by a tribunal of this State pursuant to Article 2, part II;
+     (5)  Registration of an order for child support of another state for modification pursuant to Article 6;
+     (6)  Determination of parentage pursuant to Article 7; and
+     (7)  Assertion of jurisdiction over nonresidents pursuant to Article 2, part I.
+     (c)] (b)  An individual petitioner or a support enforcement agency may [commence] initiate a proceeding authorized under this chapter by filing a petition in an initiating tribunal for forwarding to a responding tribunal or by filing a petition or a comparable pleading directly in a tribunal of another state or foreign country which has or can obtain personal jurisdiction over the respondent.
+     [[]§576B-302[]  Action] Proceeding by minor parent.  A minor parent, or a guardian or other legal representative of a minor parent, may maintain a proceeding on behalf of or for the benefit of the minor's child.
+     [[]§576B-303[]]  Application of law of State.  Except as otherwise provided [by] in this chapter, a responding tribunal of this State[:] shall:
+     (1)  [Shall apply] Apply the procedural and substantive law[, including the rules on choice of law,] generally applicable to similar proceedings originating in this State and may exercise all powers and provide all remedies available in those proceedings; and
+     (2)  [Shall determine] Determine the duty of support and the amount payable in accordance with the law and support guidelines of this State.
+     [[]§576B-304[]]  Duties of initiating tribunal.  (a)  Upon the filing of a petition authorized by this chapter, an initiating tribunal of this State shall forward [three copies of] the petition and its accompanying documents:
+     (1)  To the responding tribunal or appropriate support enforcement agency in the responding state; or
+     (2)  If the identity of the responding tribunal is unknown, to the state information agency of the responding state with a request that they be forwarded to the appropriate tribunal and that receipt be acknowledged.
+     (b)  If [a responding state has not enacted this chapter or a law or procedure substantially similar to this chapter,] requested by the responding tribunal, a tribunal of this State [may] shall issue a certificate or other document and make findings required by the law of the responding state.  If the responding [state] tribunal is in a foreign [jurisdiction,] country, upon request the tribunal [may] of this State shall specify the amount of support sought, convert that amount into the equivalent amount in the foreign currency under applicable official or market exchange rate as publicly reported, and provide any other documents necessary to satisfy the requirements of the responding [state.] foreign tribunal.
+     [[]§576B-305[]]  Duties and powers of responding tribunal.  (a)  When a responding tribunal of this State receives a petition or comparable pleading from an initiating tribunal or directly pursuant to section [576B-301(c),] 576B-301(b), it shall cause the petition or pleading to be filed and notify the petitioner where and when it was filed.
+     (b)  A responding tribunal of this State, to the extent [otherwise authorized] not prohibited by other law, may do one or more of the following:
+     (1)  [Issue] Establish or enforce a support order, modify a child support order, determine the controlling child-support order, or [render a judgment to] determine parentage[;] of a child;
+     (2)  Order an obligor to comply with a child support order, specifying the amount and the manner of compliance;
+     (3)  Order income withholding;
+     (4)  Determine the amount of any arrearages, and specify a method of payment;
+     (5)  Enforce orders by civil or criminal contempt, or both;
+     (6)  Set aside property for satisfaction of the support order;
+(7)  Place liens and order execution on the obligor's property;
+     (8)  Order an obligor to keep the tribunal informed of the obligor's current residential address, electronic-mail address, telephone number, employer, address of employment, and telephone number at the place of employment;
+     (9)  Issue a bench warrant for an obligor who has failed after proper notice to appear at a hearing ordered by the tribunal and enter the bench warrant in any local and state computer systems for criminal warrants;
+    (10)  Order the obligor to seek appropriate employment by specified methods;
+    (11)  Award reasonable attorney's fees and other fees and costs; and
+    (12)  Grant any other available remedy.
+     (c)  A responding tribunal of this State shall include in a support order issued under this chapter, or in the documents accompanying the order, the calculations on which the child support order is based.
+     (d)  A responding tribunal of this State may not condition the payment of a support order issued under this chapter upon compliance by a party with provisions for visitation.
+     (e)  If a responding tribunal of this State issues an order under this chapter, the tribunal shall send a copy of the order to the petitioner and the respondent and to the initiating tribunal, if any.
+     (f)  If requested to enforce a support order, arrears, or judgment or modify a support order stated in a foreign currency, a responding tribunal of this State shall convert the amount stated in the foreign currency to the equivalent amount in dollars under the applicable official or market exchange rate as publicly reported.
+     [[]§576B-306[]]  Inappropriate tribunal.  If a petition or comparable pleading is received by an inappropriate tribunal of this State, that tribunal shall forward the pleading and accompanying documents to an appropriate tribunal [in] of this State or another state and notify the petitioner where and when the pleading was sent.
+     [[]§576B-307[]]  Duties of support enforcement agency.  (a)  The child support enforcement agency of this State, upon request, shall provide services to a petitioner in a proceeding under this chapter.
+     (b)  A support enforcement agency of this State that is providing services to the petitioner [as appropriate] shall:
+     (1)  Take all steps necessary to enable an appropriate tribunal [in this State or another state] of this State, another state, or a foreign country to obtain jurisdiction over the respondent [and to process all registration requests received from an individual who has applied for child support enforcement agency services or support enforcement agencies in other jurisdictions];
+     (2)  Request an appropriate tribunal to set a date, time, and place for a hearing;
+     (3)  Make a reasonable effort to obtain all relevant information, including information as to income and property of the parties;
+     (4)  Within two days, exclusive of Saturdays, Sundays, and legal holidays, after receipt of [a written] notice in a record from an initiating, responding, or registering tribunal, send a copy of the notice to the petitioner;
+     (5)  Within two days, exclusive of Saturdays, Sundays, and legal holidays, after receipt of [a written] communication in a record from the respondent or the respondent's attorney, send a copy of the communication to the petitioner; and
+     (6)  Notify the petitioner if jurisdiction over the respondent cannot be obtained.
+     (c)  A support enforcement agency of this State that requests registration of a child support order in this State for enforcement or for modification shall make reasonable efforts:
+     (1)  To ensure that the order to be registered is the controlling order; or
+     (2)  If two or more child support orders exist and the identity of the controlling order has not been determined, to ensure that a request for such a determination is made in a tribunal having jurisdiction to do so.
+     (d)  A support enforcement agency of this State that requests registration and enforcement of a support order, arrears, or judgment stated in a foreign currency shall convert the amounts stated in the foreign currency into the equivalent amounts in dollars under the applicable official or market exchange rate as publicly reported.
+     (e)  A support enforcement agency of this State shall issue or request a tribunal of this State to issue a child support order and an income withholding order that redirect payment of current support, arrears, and interest if requested to do so by a support enforcement agency of another state pursuant to section 576B‑319.
+     [(c)] (f)  This chapter does not create or negate a relationship of attorney and client or other fiduciary relationship between a support enforcement agency or the attorney for the agency and the individual being assisted by the agency.
+     [[]§576B-308[]]  Duty of attorney general.  (a)  If the attorney general determines that the support enforcement agency is neglecting or refusing to provide services to an individual, the attorney general may order the agency to perform its duties under this chapter or may provide those services directly to the individual.
+     (b)  The attorney general may determine that a foreign country has established a reciprocal arrangement for child support with this State and take appropriate action for notification of the determination.
+     [[]§576B-309[]]  Private counsel.  An individual may employ private counsel to represent the individual in proceedings authorized by this chapter.
+     [[]§576B-310[]]  Duties of child support enforcement agency as state information agency.  (a)  The child support enforcement agency is the state information agency under this chapter.
+     (b)  The state information agency shall:
+     (1)  Compile and maintain a current list, including addresses, of the tribunals in this State which have jurisdiction under this chapter and any support enforcement agencies in this State and transmit a copy to the state information agency of every other state;
+     (2)  Maintain a register of names and addresses of tribunals and support enforcement agencies received from other states;
+     (3)  Forward to the appropriate tribunal in the [place] county in this State in which the [individual] obligee who is an individual or the obligor resides, or in which the obligor's property is believed to be located, all documents concerning a proceeding under this chapter received from [an initiating tribunal, an individual, or the state information agency of the initiating state;] another state or a foreign country; and
+     (4)  Obtain information concerning the location of the obligor and the obligor's property within this State not exempt from execution, by such means as postal verification and federal or state locator services, examination of telephone directories, requests for the obligor's address from employers, and examination of governmental records, including, to the extent not prohibited by other law, those relating to real property, vital statistics, law enforcement, taxation, motor vehicles, driver's licenses, and social security.
+     [[]§576B-311[]]  Pleadings and accompanying documents.  (a)  [A] In a proceeding under this chapter, a  petitioner seeking to establish [or modify] a support order, [or] to determine parentage [in a proceeding under this chapter] of a child, or to register and modify a support order of a tribunal of another state or a foreign country must [verify the] file a petition.  Unless otherwise ordered under section 576B-312, the petition or accompanying documents must provide, so far as [is] known, the name, residential address, and social security numbers of the obligor and the obligee[,] or the parent and alleged parent, and the name, sex, residential address, social security number, and date of birth of each child for [whom] whose benefit support is sought[.  The] or whose parentage is to be determined.  Unless filed at the time of registration, the petition must be accompanied by a [certified] copy of any support order [in effect.] known to have been issued by another tribunal.  The petition may include any other information that may assist in locating or identifying the respondent.
+     (b)  The petition must specify the relief sought.  The petition and accompanying documents must conform substantially with the requirements imposed by the forms mandated by federal law for use in cases filed by a support enforcement agency.
+     [[]§576B-312[]]  Nondisclosure of information in exceptional circumstances.  [Upon a finding, which may be made ex parte, that the health, safety, or liberty of a party or child would be unreasonably put at risk by the disclosure of identifying information, or if an existing order so provides, a tribunal shall order that the address of the child or party or other identifying information not be disclosed in a pleading or other document filed in a proceeding under this chapter.]  If a party alleges in an affidavit or a pleading under oath that the health, safety, or liberty of a party or child would be jeopardized by disclosure of specific identifying information, that information must be sealed and may not be disclosed to the other party or the public.  After a hearing in which a tribunal takes into consideration the health, safety, or liberty of the party or child, the tribunal may order disclosure of information that the tribunal determines to be in the interest of justice.
+     [[]§576B-313[]]  Costs and fees.  (a)  The petitioner may not be required to pay a filing fee or other costs.
+     (b)  If an obligee prevails, a responding tribunal of this State may assess against an obligor filing fees, reasonable attorney's fees, other costs, and necessary travel and other reasonable expenses incurred by the obligee and the obligee's witnesses.  The tribunal may not assess fees, costs, or expenses against the obligee or the support enforcement agency of either the initiating or the responding state[,] or foreign country,  except as provided by other law.  Attorney's fees may be taxed as costs, and may be ordered paid directly to the attorney, who may enforce the order in the attorney's own name.  Payment of support owed to the obligee has priority over fees, costs, and expenses.
+     (c)  The tribunal shall order the payment of costs and reasonable attorney's fees if it determines that a hearing was requested primarily for delay.  In a proceeding under Article 6,  a hearing is presumed to have been requested primarily for delay if a registered support order is confirmed or enforced without change.
+     [[]§576B-314[]]  Limited immunity of petitioner.  (a)  Participation by a petitioner in a proceeding under this chapter  before a responding tribunal, whether in person, by private attorney, or through services provided by the support enforcement agency, does not confer personal jurisdiction over the petitioner in another proceeding.
+     (b)  A petitioner is not amenable to service of civil process while physically present in this State to participate in a proceeding under this chapter.
+     (c)  The immunity granted by this section does not extend to civil litigation based on acts unrelated to a proceeding under this chapter committed by a party while present in this State to participate in the proceeding.
+     [[]§576B-315[]]  Nonparentage as defense.  A party whose parentage of a child has been previously determined by or pursuant to law may not plead nonparentage as a defense to a proceeding under this chapter.
+     [[]§576B-316[]]  Special rules of evidence and procedure.  (a)  The physical presence of [the petitioner] a nonresident party who is an individual in a [responding] tribunal of this State is not required for the establishment, enforcement, or modification of a support order or the rendition of a judgment determining parentage.
+     (b)  [A verified petition, an] An affidavit, a document substantially complying with federally mandated forms, [and] or a document incorporated by reference in any of them, which would not be excluded under the hearsay rule if given in person, is admissible in evidence if given under [oath] penalty of perjury by a party or witness residing [in another state.] outside this State.
+     (c)  A copy of the record of child support payments certified as a true copy of the original by the custodian of the record may be forwarded to a responding tribunal.  The copy is evidence of facts asserted in it, and is admissible to show whether payments were made.
+     (d)  Copies of bills for testing for parentage[,] of a child, and for prenatal and postnatal health care of the mother and child, furnished to the adverse party at least ten days before trial, are admissible in evidence to prove the amount of the charges billed and that the charges were reasonable, necessary, and customary.
+     (e)  Documentary evidence transmitted from [another state] outside this State to a tribunal of this State by telephone, telecopier, or other electronic means that do not provide an original [writing] record may not be excluded from evidence on an objection based on the means of transmission.
+     (f)  In a proceeding under this chapter, a tribunal of this State [may] shall permit a party or witness residing [in another state] outside this State to be deposed or to testify by telephone, audiovisual means, or other electronic means at a designated tribunal or other location [in that state].  A tribunal of this State shall cooperate with other tribunals [of other states] in designating an appropriate location for the deposition or testimony.
+     (g)  If a party called to testify at a civil hearing refuses to answer on the ground that the testimony may be self-incriminating, the trier of fact may draw an adverse inference from the refusal.
+     (h)  A privilege against disclosure of communications between spouses does not apply in a proceeding under this chapter.
+     (i)  The defense of immunity based on the relationship of husband and wife or parent and child does not apply in a proceeding under this chapter.
+     (j)  A voluntary acknowledgment of paternity, certified as a true copy, is admissible to establish parentage of the child.
+     [[]§576B-317[]]  Communications between tribunals.  A tribunal of this State may communicate with a tribunal [of another state] outside this State in [writing,] a record or by telephone, electronic mail, or other means, to obtain information concerning the laws [of that state], the legal effect of a judgment, decree, or order of that tribunal, and the status of a proceeding [in the other state].  A tribunal of this State may furnish similar information by similar means to a tribunal [of another state.] outside this State.
+     [[]§576B-318[]]  Assistance with discovery.  A tribunal of this State may:
+     (1)  Request a tribunal [of another state] outside this State to assist in obtaining discovery; and
+     (2)  Upon request, compel a person over [whom] which it has jurisdiction to respond to a discovery order issued by a tribunal [of another state.] outside this State.
+     [[]§576B-319[]]  Receipt and disbursement of payments.  (a)   A support enforcement agency or tribunal of this State shall disburse promptly any amounts received pursuant to a support order, as directed by the order.  The agency or tribunal shall furnish to a requesting party or tribunal of another state or a foreign country a certified statement by the custodian of the record of the amounts and dates of all payments received.
+     (b)  If neither the obligor, nor the obligee who is an individual, nor the child resides in this State, upon request from the support enforcement agency of this State or another state, the support enforcement agency of this State or a tribunal of this State shall:
+     (1)  Direct that the support payment be made to the support enforcement agency in the state in which the obligee is receiving services; and
+     (2)  Issue and send to the obligor's employer a conforming income withholding order or an administrative notice of change of payee, reflecting the redirected payments.
+     (c)  The support enforcement agency of this State  receiving redirected payments from another state pursuant to a law similar to subsection (b) shall furnish to a requesting party or tribunal of the other state a certified statement by the custodian of the record of the amount and dates of all payments received.
+ARTICLE 4.  ESTABLISHMENT OF SUPPORT ORDER
+OR DETERMINATION OF PARENTAGE
+     [[]§576B-401[]  Petition to establish]  Establishment of support order.  (a)  If a support order entitled to recognition under this chapter has not been issued, a responding tribunal of this State with personal jurisdiction over the parties may issue a support order if:
+     (1)  The individual seeking the order resides [in another state;] outside this State; or
+     (2)  The support enforcement agency seeking the order is located [in another state.] outside this State.
+     (b)  The tribunal may issue a temporary child support order if[:
+     (1)  The respondent has signed a verified statement acknowledging parentage;
+     (2)  The respondent has been determined by or pursuant to law to be the parent; or
+     (3)  There is other clear and convincing evidence that the respondent is the child's parent.]
+the tribunal determines that such an order is appropriate and the individual ordered to pay is:
+     (1)  A presumed father of the child;
+     (2)  Petitioning to have his paternity adjudicated;
+     (3)  Identified as the father of the child through genetic testing;
+     (4)  An alleged father who has declined to submit to genetic testing;
+     (5)  Shown by clear and convincing evidence to be the father of the child;
+     (6)  An acknowledged father as provided by section 584-3.5;
+     (7)  The mother of the child; or
+     (8)  An individual who has been ordered to pay child support in a previous proceeding and the order has not been reversed or vacated.
+     (c)  Upon finding, after notice and opportunity to be heard, that an obligor owes a duty of support, the tribunal shall issue a support order directed to the obligor and may issue other orders pursuant to section 576B-305.
+     §576B-402  Proceeding to determine parentage.  (a)  A tribunal of this State authorized to determine parentage of a child may serve as a responding tribunal in a proceeding to determine parentage of a child brought under this chapter or a law or procedure substantially similar to this chapter.
+     (b)  In a proceeding to determine parentage, a responding tribunal of this State shall apply chapter 584 and the rules of this State on choice of law.
+ARTICLE 5.  ENFORCEMENT OF SUPPORT ORDER [OF ANOTHER
+STATE] WITHOUT REGISTRATION
+     §576B-501  Employer's receipt of income withholding order of another state.  An income withholding order issued in another state may be sent by or on behalf of the obligee, or by the support enforcement agency, to the person [or entity] defined as the obligor's employer under sections 571-52, 571-52.2, 571-52.3, and 576E-16, without first filing a petition or comparable pleading or registering the order with a tribunal of this State.
+     [[]§576B-502[]]  Employer's compliance with income withholding order of another state.  (a)  Upon receipt of an income withholding order, the obligor's employer shall immediately provide a copy of the order to the obligor.
+     (b)  The employer shall treat an income withholding order issued in another state which appears regular on its face as if it had been issued by a tribunal of this State.
+     (c)  Except as otherwise provided in subsection (d) and section 576B-503, the employer shall withhold and distribute the funds as directed in the withholding order by complying with the terms of the order which specify:
+     (1)  The duration and the amount of periodic payments of current child support, stated as a sum certain;
+     (2)  The person [or agency] designated to receive payments and the address to which the payments are to be forwarded;
+     (3)  Medical support, whether in the form of periodic cash payment, stated as a sum certain, or ordering the obligor to provide health insurance coverage for the child under a policy available through the obligor's employment;
+     (4)  The amount of periodic payments of fees and costs for a support enforcement agency, the issuing tribunal, and the obligee's attorney, stated as sums certain; and
+     (5)  The amount of periodic payments of arrearages and interest on arrearages, stated as sums certain.
+     (d)  An employer shall comply with the law of the state of the obligor's principal place of employment for withholding from income with respect to:
+     (1)  The employer's fee for processing an income withholding order;
+     (2)  The maximum amount permitted to be withheld from the obligor's income; and
+     (3)  The times within which the employer must implement the withholding order and forward the child support payment.
+     [[]§576B-503[]  Compliance] Employer's compliance with [multiple] two or more income withholding orders.  If an obligor's employer receives [multiple] two or more income withholding orders with respect to the earnings of the same obligor, the employer satisfies the terms of the [multiple] orders if the employer complies with the law of the state of the obligor's principal place of employment to establish the priorities for withholding and allocating income withheld for [multiple] two or more child support obligees.
+     [[]§576B-504[]]  Immunity from civil liability.  An employer [who] that complies with an income withholding order issued in another state in accordance with this article is not subject to civil liability to an individual or agency with regard to the employer's withholding of child support from the obligor's income as to that income withholding order.
+     [[]§576B-505[]]  Penalties for noncompliance.  An employer [who] that wilfully fails to comply with an income withholding order issued [by] in another state and received for enforcement is subject to the same penalties that may be imposed for noncompliance with an order issued by a tribunal of this State.
+     [[]§576B-506[]]  Contest by obligor.  (a)  An obligor may contest the validity or enforcement of an income withholding order issued in another state and received directly by an employer in this State by registering the order in a tribunal of this State and filing a contest to that order as provided in Article 6, or otherwise contesting the order in the same manner as if the order had been issued by a tribunal of this State.  [Section 576B-604 applies to the contest.]
+     (b)  The obligor shall give notice of the contest to:
+     (1)  A support enforcement agency providing services to the obligee;
+     (2)  Each employer that has directly received an income withholding order[;] relating to the obligor; and
+     (3)  The person [or agency] designated to receive payments in the income withholding order[;] or, if no person [or agency] is designated, to the obligee.
+     [[]§576B-507[]]  Administrative enforcement of orders.  (a)  A party or support enforcement agency seeking to enforce a support order or an income withholding order, or both, issued [by a tribunal of] in another state or a foreign support order  may send the documents required for registering the order to a support enforcement agency of this State.
+     (b)  Upon receipt of the documents, the support enforcement agency, without initially seeking to register the order, shall consider and, if appropriate, use any administrative procedure authorized by the law of this State to enforce a support order or an income withholding order, or both.  If the obligor does not contest administrative enforcement, the order need not be registered.  If the obligor contests the validity or administrative enforcement of the order, the support enforcement agency shall register the order pursuant to this chapter.
+ARTICLE 6.  REGISTRATION, ENFORCEMENT, AND
+MODIFICATION OF SUPPORT ORDER [AFTER REGISTRATION]
+PART I.  REGISTRATION AND ENFORCEMENT OF SUPPORT ORDER
+     [[]§576B-601[]]  Registration of order for enforcement.  A support order or [an] income withholding order issued [by a tribunal of] in another state or a foreign support order may be registered in this State for enforcement.
+     [[]§576B-602[]]  Procedure to register order for enforcement.  (a)  [A] Except as otherwise provided in section 576B‑706, a support order or income withholding order of another state or a foreign support order may be registered in this State by sending the following [documents and information] records to the registering tribunal[:] in this State:
+     (1)  A letter of transmittal to the registering tribunal requesting registration and enforcement;
+     (2)  Two copies, including one certified copy, of [all orders] the order to be registered, including any modification of [an] the order;
+     (3)  A sworn statement by the [party seeking] person requesting registration or a certified statement by the custodian of the records showing the amount of any arrearage;
+     (4)  The name of the obligor and, if known:
+         (A)  The obligor's address and social security number;
+         (B)  The name and address of the obligor's employer and any other source of income of the obligor; and
+         (C)  A description and the location of property of the obligor in this State not exempt from execution; and
+     (5)  [The] Except as otherwise provided in section 576B‑312, the name and address of the obligee and, if applicable, the [agency or] person to whom support payments are to be remitted.
+     (b)  On receipt of a request for registration, the registering tribunal shall cause the order to be filed as [a foreign judgment,] an order of a tribunal of another state or a foreign support order, together with one copy of the documents and information, regardless of their form.
+     (c)  A petition or comparable pleading seeking a remedy that must be affirmatively sought under other law of this State may be filed at the same time as the request for registration or later.  The pleading must specify the grounds for the remedy sought.
+     (d)  If two or more orders are in effect, the person requesting registration shall:
+     (1)  Furnish to the tribunal a copy of every support order asserted to be in effect in addition to the documents specified in this section;
+     (2)  Specify the order alleged to be the controlling order, if any; and
+     (3)  Specify the amount of consolidated arrears, if any.
+     (e)  A request for a determination of which is the controlling order may be filed separately or with a request for registration and enforcement or for registration and modification.  The person requesting registration shall give notice of the request to each party whose rights may be affected by the determination.
+     [[]§576B-603[]]  Effect of registration for enforcement.  (a)  A support order or income withholding order issued in another state or a foreign support order is registered when the order is filed in a tribunal of this State.
+     (b)  A registered support order issued in another state or a foreign country is enforceable in the same manner and is subject to the same procedures as an order issued by a tribunal of this State.
+     (c)  Except as otherwise provided in this [article,] chapter, a tribunal of this State shall recognize and enforce, but may not modify, a registered support order if the issuing tribunal had jurisdiction.
+     [[]§576B-604[]]  Choice of law.  (a)  [The] Except as otherwise provided in subsection (d), the law of the issuing state or foreign country governs [the]:
+     (1)  The nature, extent, amount, and duration of current payments [and other obligations of support and the] under a registered support order;
+     (2)  The computation and payment of arrearages and accrual of interest on the arrearages under the support order[.]; and
+     (3)  The existence and satisfaction of other obligations under the support order.
+     (b)  In a proceeding for [arrearages,] arrears under a registered support order, the statute of limitation [under the laws] of this State, or of the issuing state[,] or foreign country, whichever is longer, applies.
+     (c)  A responding tribunal of this State shall apply the procedures and remedies of this State to enforce current support and collect arrears and interest due on a support order of another state or foreign country registered in this State.
+     (d)  After a tribunal of this State or another state determines which is the controlling order and issues an order consolidating arrears, if any, a tribunal of this State shall prospectively apply the law of the state or foreign country  issuing the controlling order, including its law on interest on arrears, on current and future support, and on consolidated arrears.
+PART II.  CONTEST OF VALIDITY OR ENFORCEMENT
+     §576B-605  Notice of registration of order.  (a)  When a support order or income withholding order issued in another state or a foreign support order is registered, the registering tribunal shall notify the nonregistering party.  The notice must be accompanied by a copy of the registered order and the documents and relevant information accompanying the order.
+     (b)  [The] A notice must inform the nonregistering party:
+     (1)  That a registered order is enforceable as of the date of registration in the same manner as an order issued by a tribunal of this State;
+     (2)  That a hearing to contest the validity or enforcement of the registered order must be requested within twenty days after notice[;] unless the registered order is under section 576B‑707;
+     (3)  That failure to contest the validity or enforcement of the registered order in a timely manner will result in confirmation of the order and enforcement of the order and the alleged arrearages [and precludes further contest of that order with respect to any matter that could have been asserted]; and
+     (4)  Of the amount of any alleged arrearages.
+     (c)  If the registering party asserts that two or more orders are in effect, a notice must also:
+     (1)  Identify the two or more orders and the order alleged by the registering party to be the controlling order and the consolidated arrears, if any;
+     (2)  Notify the nonregistering party of the right to a determination of which is the controlling order;
+     (3)  State that the procedures provided in subsection (b) apply to the determination of which is the controlling order; and
+     (4)  State that failure to contest the validity or enforcement of the order alleged to be the controlling order in a timely manner may result in confirmation that the order is the controlling order.
+     [(c)] (d)  Upon registration of an income withholding order for enforcement, the support enforcement agency or the registering tribunal shall notify the obligor's employer pursuant to sections 571-52, 571-52.2, 571-52.3, and 576E-16.
+[(d)] (e)  For the purposes of this section, service of the notice shall be by personal service or certified mail, return receipt requested.  After initial service is effected, additional service upon a party shall be satisfied by regular mail to the party's last known address.  In any child support enforcement proceedings subsequent to an order, upon a showing that diligent effort has been made to ascertain the location of a party, notice of service of process shall be presumed to be satisfied upon delivery of written notice to the most recent residential or employer address on file with the state case registry.
+     §576B-606  Procedure to contest validity or enforcement of registered support order.  (a)  A nonregistering party seeking to contest the validity or enforcement of a registered order in this State shall request a hearing within [twenty days after notice of the registration.] the time required by section 576B‑605.  The nonregistering party may seek to vacate the registration, to assert any defense to an allegation of noncompliance with the registered order, or to contest the remedies being sought or the amount of any alleged arrearages pursuant to section 576B-607.
+     (b)  If the nonregistering party fails to contest the validity or enforcement of the registered support order in a timely manner, the order is confirmed by operation of law.
+     (c)  If a nonregistering party requests a hearing to contest the validity or enforcement of the registered order, the registering tribunal shall schedule the matter for hearing and give notice to the parties of the date, time, and place of the hearing.
+     (d)  For the purposes of this section, service of the notice of a hearing regarding the validity or enforcement of the registered order, shall be satisfied by regular mail to the party's last known address.  In any child support enforcement proceedings subsequent to an order, upon a showing that diligent effort has been made to ascertain the location of a party, notice of service of process shall be presumed to be satisfied upon delivery of written notice to the most recent residential or employer address on file with the state case registry.
+     [[]§576B-607[]]  Contest of registration or enforcement.  (a)  A party contesting the validity or enforcement of a registered support order or seeking to vacate the registration has the burden of proving one or more of the following defenses:
+     (1)  The issuing tribunal lacked personal jurisdiction over the contesting party;
+     (2)  The order was obtained by fraud;
+     (3)  The order has been vacated, suspended, or modified by a later order;
+     (4)  The issuing tribunal has stayed the order pending appeal;
+     (5)  There is a defense under the law of this State to the remedy sought;
+     (6)  Full or partial payment has been made[; or]
+     (7)  The statute of limitation under section 576B-604 precludes enforcement of some or all of the alleged arrearages[.]; or
+     (8)  The alleged controlling order is not the controlling order.
+     (b)  If a party presents evidence establishing a full or partial defense under subsection (a), a tribunal may stay enforcement of [the] a registered support order, continue the proceeding to permit production of additional relevant evidence, and issue other appropriate orders.  An uncontested portion of the registered order may be enforced by all remedies available under the law of this State.
+     (c)  If the contesting party does not establish a defense under subsection (a) to the validity or enforcement of [the] a registered support order, a tribunal of this State shall issue an order confirming the order.
+     [[]§576B-608[]]  Confirmed order.  Confirmation of a registered support order, whether by operation of law or after notice and hearing, precludes further contest of the order with respect to any matter that could have been asserted at the time of registration.
+PART III.  REGISTRATION AND MODIFICATION
+OF CHILD SUPPORT ORDER OF ANOTHER STATE
+     [[]§576B-609[]]  Procedure to register child support order of another state for modification.  A party or support enforcement agency seeking to modify, or to modify and enforce, a child support order issued in another state shall register that order in this State in the same manner provided in [part I] sections 576B-601 through 576B‑608 if the order has not been registered.  A petition for modification may be filed at the same time as a request for registration, or later.  The pleading must specify the grounds for modification.
+     [[]§576B-610[]]  Effect of registration for modification.  A tribunal of this State may enforce a child support order of another state registered for purposes of modification, in the same manner as if the order had been issued by a tribunal of this State, but the registered order may be modified only if the requirements of section 576B-611 or 576B-613 have been met.
+     [[]§576B-611[]]  Modification of child support order of another state.  (a)  [After] If section 576B‑613 does not apply, upon petition a tribunal of this State may modify a child support order issued in another state [has been] which is registered in this State[, the responding tribunal of this State may modify that order only if section 576B-613 does not apply and] if, after notice and hearing [it], the tribunal finds that:
+     (1)  The following requirements are met:
+         (A)  [The] Neither the child, nor the [individual] obligee[, and] who is an individual, nor the obligor [do not reside] resides in the issuing state;
+         (B)  A petitioner who is a nonresident of this State seeks modification; and
+         (C)  The respondent is subject to the personal jurisdiction of the tribunal of this State; or
+     (2)  [The] This State is the state of residence of the child, or a party who is an individual[,] is subject to the personal jurisdiction of the tribunal of this State, and all of the parties who are individuals have filed [written] consents in a record in the issuing tribunal for a tribunal of this State to modify the support order and assume continuing, exclusive jurisdiction [over the order.  However, if the issuing state is a foreign jurisdiction that has not enacted a law or established procedures substantially similar to the procedures under this chapter, the consent otherwise required of an individual residing in this State is not required for the tribunal to assume jurisdiction to modify the child support order].
+     (b)  Modification of a registered child support order is subject to the same requirements, procedures, and defenses that apply to the modification of an order issued by a tribunal of this State and the order may be enforced and satisfied in the same manner.
+     (c)  A tribunal of this State may not modify any aspect of a child support order that may not be modified under the law of the issuing state[.], including the duration of the obligation of support.  If two or more tribunals have issued child support orders for the same obligor and same child, the order that controls and must be so recognized under section 576B-207 establishes the aspects of the support order which are nonmodifiable.
+     (d)  In a proceeding to modify a child support order, the law of the state that is determined to have issued the initial controlling order governs the duration of the obligation of support.  The obligor's fulfillment of the duty of support established by that order precludes imposition of a further obligation of support by a tribunal of this State.
+     [(d)] (e)  On issuance of an order by a tribunal of this State modifying a child support order issued in another state, [a] the tribunal of this State becomes the tribunal having continuing, exclusive jurisdiction.
+     (f)  Notwithstanding subsections (a) through (e) and section 576B‑201(b), a tribunal of this State retains jurisdiction to modify an order issued by a tribunal of this State if:
+     (1)  One party resides in another state; and
+     (2)  The other party resides outside the United States.
+     [[]§576B-612[]]  Recognition of order modified in another state.  [A] If a child support order issued by a tribunal of this State [shall recognize a modification of its earlier child support order] is modified by a tribunal of another state which assumed jurisdiction pursuant to [this chapter or a law substantially similar to this chapter and, upon request, except as otherwise provided in this chapter, shall:] the Uniform Interstate Family Support Act, a tribunal of this State:
+     (1)  [Enforce the] May enforce its order that was modified only as to [amounts] arrears and interest accruing before the modification;
+    [(2)  Enforce only nonmodifiable aspects of that order;
+     (3)  Provide other] (2) May provide appropriate relief [only] for violations of [that] its order which occurred before the effective date of the modification; and
+[(4) Recognize] (3) Shall recognize the modifying order of the other state, upon registration, for the purpose of enforcement.
+     [[]§576B-613[]]  Jurisdiction to modify child support order of another state when individual parties reside in this State.  (a)  If all of the parties who are individuals reside in this State and the child does not reside in the issuing state, a tribunal of this State has jurisdiction to enforce and to modify the issuing state's child support order in a proceeding to register that order.
+     (b)  A tribunal of this State exercising jurisdiction under this section shall apply the provisions of Articles 1 and 2, this article, and the procedural and substantive law of this State to the proceeding for enforcement or modification.  Articles 3, 4, 5, 7, and 8 shall not apply.
+     [[]§576B-614[]]  Notice to issuing tribunal of modification.  Within thirty days after issuance of a modified child support order, the party obtaining the modification shall file a certified copy of the order with the issuing tribunal that had continuing, exclusive jurisdiction over the earlier order, and in each tribunal in which the party knows the earlier order has been registered.  A party who obtains the order and fails to file a certified copy is subject to appropriate sanctions by a tribunal in which the issue of failure to file arises.  The failure does not affect the validity or enforceability of the modified order of the new tribunal having continuing, exclusive jurisdiction.
+PART IV.  REGISTRATION AND MODIFICATION
+OF FOREIGN CHILD SUPPORT ORDER
+     §576B-615  Jurisdiction to modify child support order of foreign country.  (a)  Except as otherwise provided in section 576B‑711, if a foreign country lacks or refuses to exercise jurisdiction to modify its child support order pursuant to its laws, a tribunal of this State may assume jurisdiction to modify the child-support order and bind all individuals subject to the personal jurisdiction of the tribunal whether the consent to modification of a child support order otherwise required of the individual pursuant to section 576B‑611 has been given or whether the individual seeking modification is a resident of this State or of the foreign country.
+     (b)  An order issued by a tribunal of this State modifying a foreign child support order pursuant to this section is the controlling order.
+     §576B-616  Procedure to register child support order of foreign country for modification.  A party or support enforcement agency seeking to modify, or to modify and enforce, a foreign child support order not under the Convention may register that order in this State under sections 576B‑601 through 576B-608 if the order has not been registered.  A petition for modification may be filed at the same time as a request for registration, or at another time.  The petition must specify the grounds for modification.
+ARTICLE 7.  [DETERMINATION OF PARENTAGE]
+SUPPORT PROCEEDING UNDER CONVENTION
+     [[]§576B-701[]  Proceeding to determine parentage.  (a)  A tribunal of this State may serve as an initiating or responding tribunal in a proceeding brought under this chapter or a law or procedure substantially similar to this chapter, the Uniform Reciprocal Enforcement of Support Act, or the Revised Uniform Reciprocal Enforcement of Support Act to determine that the petitioner is a parent of a particular child or to determine that a respondent is a parent of that child.
+(b)  In a proceeding to determine parentage, a responding tribunal of this State shall apply chapter 584 and the rules of this State on choice of law.]  Definitions.  In this article:
+     "Application" means a request under the Convention by an obligee or obligor, or on behalf of a child, made through a central authority for assistance from another central authority.
+     "Central authority" means the entity designated by the United States or a foreign country described in paragraph (4) of the definition of "foreign country" in section 576B-102 to perform the functions specified in the Convention.
+     "Convention support order" means a support order of a tribunal of a foreign country described in paragraph (4) of the definition of "foreign country" in section 576B-102.
+     "Direct request" means a petition filed by an individual in a tribunal of this State in a proceeding involving an obligee, obligor, or child residing outside the United States.
+     "Foreign central authority" means the entity designated by a foreign country described in paragraph (4) of the definition of "foreign country" in section 576B-102 to perform the functions specified in the Convention.
+     "Foreign support agreement":
+     (1)  Means an agreement for support in a record that:
+         (A)  Is enforceable as a support order in the country of origin;
+         (B)  Has been:
+              (i)  Formally drawn up or registered as an authentic instrument by a foreign tribunal; or
+             (ii)  Authenticated by, or concluded, registered, or filed with a foreign tribunal; and
+         (C)  May be reviewed and modified by a foreign tribunal; and
+     (2)  Includes a maintenance arrangement or authentic instrument under the Convention.
+     "United States central authority" means the Secretary of the United States Department of Health and Human Services.
+     §576B-702  Applicability.  This article applies only to a support proceeding under the Convention.  In such a proceeding, if a provision of this article is inconsistent with Articles 1 through 6, this article controls.
+     §576B-703  Relationship of child support enforcement agency to United States central authority.  The child support enforcement agency established by section 576D-2 is recognized as the agency designated by the United States central authority to perform specific functions under the Convention.
+     §576B-704  Initiation by child support enforcement agency of support proceeding under Convention.  (a)  In a support proceeding under this article, the child support enforcement agency shall:
+     (1)  Transmit and receive applications; and
+     (2)  Initiate or facilitate the institution of a proceeding regarding an application in a tribunal of this State.
+     (b)  The following support proceedings are available to an obligee under the Convention:
+     (1)  Recognition or recognition and enforcement of a foreign support order;
+     (2)  Enforcement of a support order issued or recognized in this State;
+     (3)  Establishment of a support order if there is no existing order, including, if necessary, determination of parentage of a child;
+     (4)  Establishment of a support order if recognition of a foreign support order is refused under section 576B‑708(b)(2), (4), or (9);
+     (5)  Modification of a support order of a tribunal of this State; and
+     (6)  Modification of a support order of a tribunal of another state or a foreign country.
+     (c)  The following support proceedings are available under the Convention to an obligor against which there is an existing support order:
+     (1)  Recognition of an order suspending or limiting enforcement of an existing support order of a tribunal of this State;
+     (2)  Modification of a support order of a tribunal of this State; and
+     (3)  Modification of a support order of a tribunal of another state or a foreign country.
+     (d)  A tribunal of this State may not require security, bond, or deposit, however described, to guarantee the payment of costs and expenses in proceedings under the Convention.
+     §576B-705  Direct request.  (a)  A petitioner may file a direct request seeking establishment or modification of a support order or determination of parentage of a child.  In the proceeding, the law of this State applies.
+     (b)  A petitioner may file a direct request seeking recognition and enforcement of a support order or support agreement.  In the proceeding, sections 576B-706 through 576B-713 apply.
+     (c)  In a direct request for recognition and enforcement of a Convention support order or foreign support agreement:
+     (1)  A security, bond, or deposit is not required to guarantee the payment of costs and expenses; and
+     (2)  An obligee or obligor that in the issuing country has benefited from free legal assistance is entitled to benefit, at least to the same extent, from any free legal assistance provided for by the law of this State under the same circumstances.
+     (d)  A petitioner filing a direct request is not entitled to assistance from the child support enforcement agency.
+     (e)  This article does not prevent the application of laws of this State that provide simplified, more expeditious rules regarding a direct request for recognition and enforcement of a foreign support order or foreign support agreement.
+     §576B-706  Registration of convention support order.  (a)  Except as otherwise provided in this article, a party who is an individual or a support enforcement agency seeking recognition of a Convention support order shall register the order in this State as provided in Article 6.
+     (b)  Notwithstanding sections 576B-311 and 576B-602(a), a request for registration of a Convention support order must be accompanied by:
+     (1)  A complete text of the support order or an abstract or extract of the support order drawn up by the issuing foreign tribunal, which may be in the form recommended by the Hague Conference on Private International Law;
+     (2)  A record stating that the support order is enforceable in the issuing country;
+     (3)  If the respondent did not appear and was not represented in the proceedings in the issuing country, a record attesting, as appropriate, either that the respondent had proper notice of the proceedings and an opportunity to be heard or that the respondent had proper notice of the support order and an opportunity to be heard in a challenge or appeal on fact or law before a tribunal;
+     (4)  A record showing the amount of arrears, if any, and the date the amount was calculated;
+     (5)  A record showing a requirement for automatic adjustment of the amount of support, if any, and the information necessary to make the appropriate calculations; and
+     (6)  If necessary, a record showing the extent to which the applicant received free legal assistance in the issuing country.
+     (c)  A request for registration of a Convention support order may seek recognition and partial enforcement of the order.
+     (d)  A tribunal of this State may vacate the registration of a Convention support order without the filing of a contest under section 576B-707 only if, acting on its own motion, the tribunal finds that recognition and enforcement of the order would be manifestly incompatible with public policy.
+     (e)  The tribunal shall promptly notify the parties of the registration or the order vacating the registration of a Convention support order.
+     §576B-707  Contest of registered convention support order.  (a)  Except as otherwise provided in this article, sections 576B-605 through 576B-608 apply to a contest of a registered Convention support order.
+     (b)  A party contesting a registered Convention support order shall file a contest not later than thirty days after notice of the registration, but if the contesting party does not reside in the United States, the contest must be filed not later than sixty days after notice of the registration.
+     (c)  If the nonregistering party fails to contest the registered Convention support order by the time specified in subsection (b), the order is enforceable.
+     (d)  A contest of a registered Convention support order may be based only on grounds set forth in section 576B‑708.  The contesting party bears the burden of proof.
+     (e)  In a contest of a registered Convention support order, a tribunal of this State:
+     (1)  Is bound by the findings of fact on which the foreign tribunal based its jurisdiction; and
+     (2)  May not review the merits of the order.
+     (f)  A tribunal of this State deciding a contest of a registered Convention support order shall promptly notify the parties of its decision.
+     (g)  A challenge or appeal, if any, does not stay the enforcement of a Convention support order unless there are exceptional circumstances.
+     §576B-708  Recognition and enforcement of registered convention support order.  (a)  Except as otherwise provided in subsection (b), a tribunal of this State shall recognize and enforce a registered Convention support order.
+     (b)  The following grounds are the only grounds on which a tribunal of this State may refuse recognition and enforcement of a registered Convention support order:
+     (1)  Recognition and enforcement of the order is manifestly incompatible with public policy, including the failure of the issuing tribunal to observe minimum standards of due process, which include notice and an opportunity to be heard;
+     (2)  The issuing tribunal lacked personal jurisdiction consistent with section 576B‑201;
+     (3)  The order is not enforceable in the issuing country;
+     (4)  The order was obtained by fraud in connection with a matter of procedure;
+     (5)  A record transmitted in accordance with section 576B‑706 lacks authenticity or integrity;
+     (6)  A proceeding between the same parties and having the same purpose is pending before a tribunal of this State and that proceeding was the first to be filed;
+     (7)  The order is incompatible with a more recent support order involving the same parties and having the same purpose if the more recent support order is entitled to recognition and enforcement under this chapter in this State;
+     (8)  Payment, to the extent alleged arrears have been paid in whole or in part;
+     (9)  In a case in which the respondent neither appeared nor was represented in the proceeding in the issuing foreign country:
+         (A)  If the law of that country provides for prior notice of proceedings, the respondent did not have proper notice of the proceedings and an opportunity to be heard; or
+         (B)  If the law of that country does not provide for prior notice of the proceedings, the respondent did not have proper notice of the order and an opportunity to be heard in a challenge or appeal on fact or law before a tribunal; or
+    (10)  The order was made in violation of section 576B‑711.
+     (c)  If a tribunal of this State does not recognize a Convention support order under subsection (b)(2), (4), or (9):
+     (1)  The tribunal may not dismiss the proceeding without allowing a reasonable time for a party to request the establishment of a new Convention support order; and
+     (2)  The child support enforcement agency shall take all appropriate measures to request a child support order for the obligee if the application for recognition and enforcement was received under section 576B‑704.
+     §576B-709  Partial enforcement.  If a tribunal of this State does not recognize and enforce a Convention support order in its entirety, it shall enforce any severable part of the order.  An application or direct request may seek recognition and partial enforcement of a Convention support order.
+     §576B-710  Foreign support agreement.  (a)  Except as otherwise provided in subsections (c) and (d), a tribunal of this State shall recognize and enforce a foreign support agreement registered in this State.
+     (b)  An application or direct request for recognition and enforcement of a foreign support agreement must be accompanied by:
+     (1)  A complete text of the foreign support agreement; and
+     (2)  A record stating that the foreign support agreement is enforceable as an order of support in the issuing country.
+     (c)  A tribunal of this State may vacate the registration of a foreign support agreement only if, acting on its own motion, the tribunal finds that recognition and enforcement would be manifestly incompatible with public policy.
+     (d)  In a contest of a foreign support agreement, a tribunal of this State may refuse recognition and enforcement of the agreement if it finds:
+     (1)  Recognition and enforcement of the agreement is manifestly incompatible with public policy;
+     (2)  The agreement was obtained by fraud or falsification;
+     (3)  The agreement is incompatible with a support order involving the same parties and having the same purpose in this State, another state, or a foreign country if the support order is entitled to recognition and enforcement under this chapter in this State; or
+     (4)  The record submitted under subsection (b) lacks authenticity or integrity.
+     (e)  A proceeding for recognition and enforcement of a foreign support agreement must be suspended during the pendency of a challenge to or appeal of the agreement before a tribunal of another state or a foreign country.
+     §576B-711  Modification of convention child support order.  (a)  A tribunal of this State may not modify a Convention child support order if the obligee remains a resident of the foreign country where the support order was issued unless:
+     (1)  The obligee submits to the jurisdiction of a tribunal of this State, either expressly or by defending on the merits of the case without objecting to the jurisdiction at the first available opportunity; or
+     (2)  The foreign tribunal lacks or refuses to exercise jurisdiction to modify its support order or issue a new support order.
+     (b)  If a tribunal of this State does not modify a Convention child support order because the order is not recognized in this State, section 576B‑708(c) applies.
+     §576B-712  Personal information; limit on use.  Personal information gathered or transmitted under this article may be used only for the purposes for which it was gathered or transmitted.
+     §576B-713  Record in original language; English translation.  A record filed with a tribunal of this State under this article must be in the original language and, if not in English, must be accompanied by an English translation.
+ARTICLE 8.  INTERSTATE RENDITION
+     [[]§576B-801[]]  Grounds for rendition.  (a)  For purposes of this article, "governor" includes an individual performing the functions of governor or the executive authority of a state covered by this chapter.
+     (b)  The governor of this State may:
+     (1)  Demand that the governor of another state surrender an individual found in the other state who is charged criminally in this State with having failed to provide for the support of an obligee; or
+     (2)  On the demand [by] of the governor of another state, surrender an individual found in this State who is charged criminally in the other state with having failed to provide for the support of an obligee.
+     (c)  A provision for extradition of individuals not inconsistent with this chapter applies to the demand even if the individual whose surrender is demanded was not in the demanding state when the crime was allegedly committed and has not fled therefrom.
+     [[]§576B-802[]]  Conditions of rendition.  (a)  Before making a demand that the governor of another state surrender an individual charged criminally in this State with having failed to provide for the support of an obligee, the governor of this State may require a prosecutor of this State to demonstrate that at least sixty days previously the obligee had initiated proceedings for support pursuant to this chapter or that the proceeding would be of no avail.
+     (b)  If, under this chapter or a law substantially similar to this chapter, [the Uniform Reciprocal Enforcement of Support Act, or the Revised Uniform Reciprocal Enforcement of Support Act,] the governor of another state makes a demand that the governor of this State surrender an individual charged criminally in that state with having failed to provide for the support of a child or other individual to whom a duty of support is owed, the governor may require a prosecutor to investigate the demand and report whether a proceeding for support has been initiated or would be effective.  If it appears that a proceeding would be effective but has not been initiated, the governor may delay honoring the demand for a reasonable time to permit the initiation of a proceeding.
+     (c)  If a proceeding for support has been initiated and the individual whose rendition is demanded prevails, the governor may decline to honor the demand.  If the petitioner prevails and the individual whose rendition is demanded is subject to a support order, the governor may decline to honor the demand if the individual is complying with the support order.
+ARTICLE 9.  MISCELLANEOUS PROVISIONS
+     [[]§576B-901[]]  Uniformity of application and construction.  [This chapter shall be applied and construed to effectuate its general purpose to make uniform] In applying and construing this uniform act, consideration must be given to the need to promote uniformity of the law with respect to [the] its subject [of this chapter] matter among states [enacting] that enact it.
+     [[§576B-902]  Short title.  This chapter may be cited as the Uniform Interstate Family Support Act.]
+     §576B-902  Transitional provision.  This chapter applies to proceedings begun on or after the effective date of this Act to establish a support order or determine parentage of a child or to register, recognize, enforce, or modify a prior support order, determination, or agreement, whenever issued or entered."
+     SECTION 3.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Uniform Interstate Family Support Act
+ 
+Description:
+Updates Uniform Interstate Family Support Act to reflect requirements of Hague Convention of the International Recovery of Child Support and Other Forms of Family Maintenance.  Provides procedures for registration, recognition, enforcement, and modifications of support orders from countries that are parties to the convention.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

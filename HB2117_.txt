@@ -1,0 +1,54 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2117
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO HEALTH.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that a December 2010 study by Environmental Working Group documented the presence of hexavalent chromium in drinking water from thirty-one of thirty-five cities tested across the nation.  The highest levels were found in Norman, Oklahoma; Honolulu, Hawaii; and Riverside, California.
+     The United States Department of Health and Human Services' National Toxicology Program concluded that hexavalent chromium (also known as "chromium-6") in drinking water shows "clear evidence of carcinogenic activity" in laboratory animals and increases the risk of gastrointestinal tumors.  In September 2010, a draft toxicology review by the United States Environmental Protection Agency similarly found that hexavalent chromium in tap water is "likely to be carcinogenic to humans."
+     Currently, the United States Environmental Protection Agency regulates hexavalent chromium as part of the total chromium drinking water standard that is set at a maximum contaminant level of 0.1 milligrams per liter or 100 parts per billion.  The agency is reviewing the new health effects information that has become available since the total chromium standard was set in 1991, which was based on the best available science at that time.  However, the agency has not yet set a specific maximum contaminant level for hexavalent chromium and does not require water utilities to test for the inorganic chemical.
+     The purpose of this Act is to require the director of health to set a maximum contaminant level for hexavalent chromium at 0.06 parts per billion to ensure safe drinking water in the State and protect public health.
+     SECTION 2.  Section 340E-2, Hawaii Revised Statutes, is amended by amending the title and subsection (a) to read as follows:
+     "[[]§340E-2[]]  Drinking water standards.  (a)  The director shall [promulgate] adopt and enforce State Primary Drinking Water Regulations and may [promulgate] adopt and enforce State Secondary Drinking Water Regulations.  State Primary Drinking Water Regulations shall protect health to the extent feasible, using technology, treatment techniques, and other means which are generally available, taking cost into consideration.  Maximum contaminant levels covered by revised National Primary Drinking Water Regulations shall be set at a level at which no known or anticipated adverse effects on the health of persons occur and which allows an adequate margin of safety.  These levels shall include:
+     (1)  Maximum contaminant levels for inorganic chemicals; provided that under the total maximum contaminant level for chromium, the level for hexavalent chromium shall not exceed 0.06 parts per billion;
+     (2)  Maximum contaminant levels for organic chemicals;
+     (3)  Maximum contaminant levels for disinfection byproducts;
+     (4)  Maximum contaminant levels for turbidity;
+     (5)  Maximum microbiological contaminant levels;
+     (6)  Maximum contaminant levels for radionuclides; and
+     (7)  Maximum residual disinfectant levels.
+Treatment techniques covered by revised National Primary Drinking Water Regulations shall require treatment necessary to prevent known or anticipated adverse effects on the health of persons.  The State Primary Drinking Water Regulations shall be [not] no less stringent than the National Primary Drinking Water Regulations in effect at that time[.]; provided that the director shall not be precluded from adopting state regulations that are more stringent than the national regulations, if the director deems more stringent regulations are necessary to protect public health."
+     SECTION 3.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Hexavalent Chromium; Drinking Water; Director of Health
+ 
+Description:
+Requires the director of health to set a maximum contaminant level for hexavalent chromium at 0.06 parts per billion and clarifies that state primary drinking water regulations may be more stringent than the national regulations, if the director deems more stringent regulations are necessary to protect public health.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

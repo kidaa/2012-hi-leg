@@ -1,0 +1,93 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2021
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+                                                 
+ 
+RELATING TO SOLAR ENERGY DEVICES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 196-7, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  Every private entity shall adopt rules by December 31, 2006, that provide for the placement of solar energy devices, and revise those rules as necessary by July 1, 2011.  The rules shall facilitate the placement of solar energy devices and shall not impose conditions or restrictions that render the device more than twenty-five per cent less efficient or increase the cost of installation, maintenance, and removal of the device by more than fifteen per cent.  Notwithstanding these conditions or restrictions, the rules shall consider the impact of the device's reflectivity on the surrounding area within    feet of the device.  No private entity shall assess or charge any homeowner any fees or require an encumbrance on title for the placement of any solar energy device."
+     SECTION 2.  Section 196-7, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  Every private entity shall adopt rules by December 31, 2006, that provide for the placement of solar energy devices, and revise those rules as necessary by July 1, 2011.  The rules shall facilitate the placement of solar energy devices and shall not impose conditions or restrictions that render the device more than twenty-five per cent less efficient or increase the cost of installation, maintenance, and removal of the device by more than fifteen per cent.  Notwithstanding these conditions or restrictions, the rules shall consider the impact of the device's reflectivity on the surrounding area within    feet of the device.  No private entity shall assess or charge any homeowner any fees [or require an encumbrance on title] for the placement of any solar energy device."
+     SECTION 3.  Act 201, Session Laws of Hawaii 2010, is repealed.
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 5.  This Act, except section 2, shall take effect on July 1, 2012; provided that on June 30, 2015:      (1)  Section 1 of this Act shall be repealed; and
+     (2)  Section 2 of this Act shall take effect.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Solar Energy Devices; Homeowners Associations
+ 
+Description:
+Requires that the rules of a private homeowners association or entity consider solar energy devices' reflectivity on the surrounding area when adopting rules that facilitate the placement of solar energy devices.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+ragraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.ResolutionBody, li.ResolutionBody, div.ResolutionBody {mso-style-name:"Resolution Body"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} span.BillSectionNumber {mso-style-name:"Bill Section Number"; font-family:Courier;} p.XNotesHeading, li.XNotesHeading, div.XNotesHeading {mso-style-name:XNotesHeading; margin:0in; margin-bottom:.0001pt; text-align:center; font-size:12.0pt; font-family:"Courier New"; font-weight:bold;} p.XNotes, li.XNotes, div.XNotes {mso-style-name:XNotes; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Amend, li.Amend, div.Amend {mso-style-name:Amend; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.PCa, li.PCa, div.PCa {mso-style-name:"PC\(a\)"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Misc, li.Misc, div.Misc {mso-style-name:"Misc\."; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Effective, li.Effective, div.Effective {mso-style-name:Effective; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2021
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+                                                 
+ 
+RELATING TO SOLAR ENERGY DEVICES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 196-7, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  Every private entity shall adopt rules by December 31, 2006, that provide for the placement of solar energy devices, and revise those rules as necessary by July 1, 2011.  The rules shall facilitate the placement of solar energy devices and shall not impose conditions or restrictions that render the device more than twenty-five per cent less efficient or increase the cost of installation, maintenance, and removal of the device by more than fifteen per cent.  Notwithstanding these conditions or restrictions, the rules shall consider the impact of the device's reflectivity on the surrounding area within    feet of the device.  No private entity shall assess or charge any homeowner any fees or require an encumbrance on title for the placement of any solar energy device."
+     SECTION 2.  Section 196-7, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  Every private entity shall adopt rules by December 31, 2006, that provide for the placement of solar energy devices, and revise those rules as necessary by July 1, 2011.  The rules shall facilitate the placement of solar energy devices and shall not impose conditions or restrictions that render the device more than twenty-five per cent less efficient or increase the cost of installation, maintenance, and removal of the device by more than fifteen per cent.  Notwithstanding these conditions or restrictions, the rules shall consider the impact of the device's reflectivity on the surrounding area within    feet of the device.  No private entity shall assess or charge any homeowner any fees [or require an encumbrance on title] for the placement of any solar energy device."
+     SECTION 3.  Act 201, Session Laws of Hawaii 2010, is repealed.
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 5.  This Act, except section 2, shall take effect on July 1, 2012; provided that on June 30, 2015:      (1)  Section 1 of this Act shall be repealed; and
+     (2)  Section 2 of this Act shall take effect.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Solar Energy Devices; Homeowners Associations
+ 
+Description:
+Requires that the rules of a private homeowners association or entity consider solar energy devices' reflectivity on the surrounding area when adopting rules that facilitate the placement of solar energy devices.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,54 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2454
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE RAP BACK PROGRAM OF THE HAWAII CRIMINAL JUSTICE DATA CENTER.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The purpose of this Act is to allow programs statutorily authorized to conduct criminal history record checks to participate in a statewide rap back program.  A "rap back" program will inform an employer or other designated entity when an individual who has undergone a fingerprint-based background check, and whose fingerprints are retained by a criminal history repository after the check, is subsequently arrested.  His or her fingerprints, obtained after the arrest, are matched against a database that contains the fingerprints that were initially submitted.  Employers are then notified of the individual's arrest.
+     The Federal Bureau of Investigation is targeting 2013-2014 for its national rap back program to go into effect.  The State's ability to take advantage of the information and capabilities that other states and the FBI are using will help Hawaii develop its own program and will allow the State to be proactive in decision-making for our vulnerable populations (children, the elderly, and the disabled).
+     The rap back program would allow a user department like the department of education or the department of human services to be notified proactively if an employee's or licensee's fingerprints, previously authorized for retention, is matched if that employee or licensee is subsequently arrested.
+     The public will be better protected because employers and licensing agencies will get up-to-date criminal history information.  In addition, employees and licensees may not need to be fingerprinted again as part of a re-application or renewal process because up-to-date information will be automatically forwarded to their employers or licensing agencies as part of the Rap Back program.
+     SECTION 2.  Section 846-2.7, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  The agencies and other entities named in subsection (b) may conduct state and national criminal history record checks on the personnel identified in subsection (b), and participate in the rap back program, for the purpose of determining suitability or fitness for a permit, license, or employment; provided that the Hawaii criminal justice data center may charge a reasonable fee for the criminal history record checks performed.  The agencies and other entities named in subsection (b) shall notify applicants and employees subject to a criminal history record check pursuant to this section that their fingerprints shall be retained by the Hawaii criminal justice data center.  Notification shall also be given to the applicants and employees subject to the rap back program.  The criminal history record check shall include the submission of fingerprints to:
+     (1)  The Federal Bureau of Investigation for a national criminal history record check; and
+     (2)  The Hawaii criminal justice data center for a state criminal history record check that shall include nonconviction data.
+Except as otherwise provided in this section, criminal history record information shall be used exclusively for the stated purpose for which it was obtained."
+     SECTION 3.  Section 846-2.7, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  The applicant or employee subject to a criminal history record check shall provide to the requesting agency:
+     (1)  Consent to obtain the applicant's or employee's fingerprints [and], conduct the criminal history record check[;], and participate in the rap back program;
+     (2)  Identifying information required by the Federal Bureau of Investigation which shall include but not be limited to name, date of birth, height, weight, eye color, hair color, gender, race, and place of birth; and
+     (3)  A statement indicating whether the applicant or employee has ever been convicted of a crime."
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Hawaii Criminal Justice Data Center; Rap Back Program
+ 
+Description:
+Allows programs statutorily authorized to obtain criminal history record checks on employment and licensing applicants to participate in the rap back program.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

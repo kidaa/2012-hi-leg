@@ -1,0 +1,60 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1549
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO SECURITY BREACHES OF PERSONAL INFORMATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that a recent University of Hawaii security breach may have exposed personal information, including approximately 40,870 social security numbers and two hundred credit card numbers.  The system was immediately isolated, and an investigation was launched to determine the scope of the breach and identify individuals who may have been affected.  Letters were mailed to affected individuals on July 3, 2010, and an email notice sent to affected individuals at their most recent email address on record.  To protect personal information from further unauthorized access, social security numbers are no longer used for parking transactions, and are being purged from all current and historic parking office databases.  Additional security measures that are being taken include strengthening internal automated network monitoring practices, and performing extensive evaluations of systems to identify other potential security risks.
+     The legislature further finds that while the University of Hawaii acted swiftly and appropriately after discovery of the security breach, additional safeguards are necessary to ensure that the University of Hawaii and other government agencies have the resources to avoid a reoccurrence of these security breaches of personal information.
+     The purpose of this Act is to strengthen the safeguards for security breaches of personal information held by government agencies.
+     SECTION 2.  Chapter 487N, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "487N‑    Personal information security; government agencies; requirements.  (a)  Any government agency that maintains one or more personal information systems shall include, as part of the agency's guidelines developed pursuant to section 487N-5(c), mandatory training programs for any agency personnel to whom disclosures of personal information are made or to whom access to the personal information may be granted.  A government agency may request assistance from the information and communication services division for training purposes, pursuant to section 487N-5(e).
+     (b)  In the event of a security breach by a government agency, the government agency shall be responsible for the costs of credit report or credit monitoring services for individuals affected by the breach for two years following the discovery of the security breach."
+     SECTION 3.  Section 487N-4, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§487N-4[]]  Reporting requirements.  A government agency shall submit a written report to the legislature and the information privacy and security council within twenty days after discovery of a security breach at the government agency that details information relating to the nature of the breach, the number of individuals affected by the breach, a copy of the notice of security breach that was issued, the number of individuals to whom the notice was sent, whether the notice was delayed due to law enforcement considerations, and any procedures that have been implemented to prevent the breach from reoccurring.  In the event that a law enforcement agency informs the government agency that notification may impede a criminal investigation or jeopardize national security, the report to the legislature and the information privacy and security council may be delayed until twenty days after the law enforcement agency has determined that notice will no longer impede the investigation or jeopardize national security."
+     SECTION 4.  Section 487N-5, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending subsection (a) to read:
+     "(a)  There is established an information privacy and security council within the department of accounting and general services for administrative purposes only.  The council shall be responsible for coordinating the implementation of guidelines by government agencies, as established under subsection (c).  Members of the council shall be appointed no later than September 1, 2008, by the governor without regard to section 26‑34 and shall be composed of the following representatives:
+     (1)  Executive agencies that maintain extensive personal information in the conduct of their duties, including the department of education, the department of health, the department of human resources development, the department of human services, and the University of Hawaii, to be selected by the governor;
+     (2)  The legislature, to be selected by the president of the senate and the speaker of the house of representatives;
+     (3)  The judiciary, to be selected by the administrator of the courts; and
+     (4)  The four counties, to be selected by the mayor of each county; provided that the mayor of each county shall determine the extent to which the county may or may not participate.
+     The comptroller or the state chief information officer, once appointed, shall serve as chair of the council."
+     2.  By amending subsection (e) to read:
+     "(e)  The comptroller may establish support positions for the information and communication services division, including but not limited to, legal support, information technology, human resources and personnel, records management, training, and administrative support."
+     SECTION 5.  There is appropriated out of the general revenues of the State of Hawaii the sum of $           or so much thereof as may be necessary for fiscal year 2011-2012 and the same sum or so much thereof as may be necessary for fiscal year 2012-2013 for       positions and funding in support of the information privacy and security council and enhanced data security requirements.
+     The sums appropriated shall be expended by the department of accounting and general services for the purposes of this Act.
+     SECTION 6.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 7.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+ 
+Report Title:
+Information Privacy and Security Council; Appropriation
+ 
+Description:
+Requires government agencies to develop mandatory training programs for agency personnel to whom disclosures of personal information are made or to whom access to the personal information may be granted; in the event of a government security breach, requires the government agency to be responsible for the cost of credit report or credit monitoring services any individual affected by the breach for two years following the discovery of the security breach; requires reports of security breaches to be submitted to the information privacy and security council; requires the council to be responsible for coordination of the implementation of guidelines by government agencies; makes the comptroller or state chief information office chair of the council; authorizes the information and communication services division to provide training; appropriates funds for the council.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

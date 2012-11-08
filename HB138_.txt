@@ -1,0 +1,66 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+138
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO AN AUTOMATED VICTIM NOTIFICATION SYSTEM.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 353, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows:
+"PART    .  AUTOMATED VICTIM NOTIFICATION SYSTEM
+     §353-A  Definitions.  For purposes of this part:
+     "System" means the statewide automated victim information and notification system.
+     "Victim" means the same as defined in section 801D-2 and includes, in homicide cases, surviving immediate family members, as defined in section 801D-2.
+     §353-B  System; requirements.  (a)  The department shall establish a statewide automated victim information and notification system to:
+     (1)  Automatically notify a registered victim via the victim's choice of telephone or electronic mail transmission when the offender is in the custody of the department:
+         (A)  Is transferred or assigned to another facility;
+         (B)  Is transferred to the custody of another agency outside the State;
+         (C)  Is released on temporary leave or for other reasons;
+         (D)  Is discharged; or
+         (E)  Has escaped;
+     (2)  Automatically notify a registered victim via the victim's choice of telephone or electronic mail transmission when the offender has:
+         (A)  An upcoming parole hearing; or
+         (B)  A change in the offender's parole status, including a change in the offender's supervision status;
+     (3)  Permit a victim to receive the most recent status report for the offender in the custody of the department by calling the system on a toll-free telephone number, as well as by accessing the system via a public web site;
+     (4)  Provide all victims calling the system with the option to receive live operator assistance with the system on a twenty-four-hour per day, three-hundred-sixty-five-day per year basis; and
+     (5)  Permit a victim to register or update the victim's registration information for the system by calling a toll-free telephone number or accessing a public web site.
+     (b)  The prosecuting agency shall notify the victim of the victim's right to register in the system.  It shall be the responsibility of the victim to register with the system.
+     §353-C  Rights of victims in criminal proceedings.  Participation in the system and making offender data available on a timely basis to the system shall be deemed compliance with the obligations set forth in chapter 801D-4 of:
+     (1)  The department to notify the victim of changes in the offender's custodial status; and
+     (2)  The police and prosecuting attorney to notify the victim of the offender's release from custody.
+     §353-D  Compliance by department; no cause of action.  The department shall ensure the offender information contained within the system is updated frequently enough to timely notify a victim of the offender's release, discharge, or escape.  However, failure of the system to provide notice to the victim shall not establish a separate cause of action by the victim against the State, any county, or any state or county agency, officer, or employee.
+     §353-E  Law enforcement cooperation.  The attorney general, chiefs of police, and county prosecuting attorneys shall cooperate with the department in establishing and maintaining the system."
+     SECTION 2.  There is appropriated out of the general revenues of the State of Hawaii the sum of $400,000, or so much thereof as may be necessary for fiscal year 2011-2012, and $289,000, or so much thereof as may be necessary for fiscal year 2012-2013, to establish and maintain the Hawaii statewide automated victim information and notification system.
+     The sums appropriated shall be expended by the department of public safety for the purposes of this Act.
+     SECTION 3.  In codifying the new sections added by section 1 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 4.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+ 
+Report Title:
+Crime Victims; Notification
+ 
+Description:
+Requires department of public safety to establish a statewide automated victim notification system to provide crime victims with current information regarding the offender's custodial status.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

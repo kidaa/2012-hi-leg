@@ -1,0 +1,60 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1546
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PRIOR AUTHORIZATIONS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Over the years there has been an argument that prescription drug formularies, also known as preferred drug lists or PDLs, as well as the dispenser and therapeutic committees that develop them are responsible for delays in a patient's ability to receive prescription drugs in a timely manner, thus compromising patient care.
+     However, it is the numerous and cumbersome processes that doctors and pharmacists must follow to process prior authorizations, rather than the prescription drug formularies, that are creating these obstacles to patient care.
+     The legislature finds that a statewide standardization of the prior authorization process would help to alleviate much of the administrative burden and confusion that results in delays to patients' timely access to prescription drugs.
+     The legislature acknowledges that in 2009 the state of Minnesota amended its state statute to create requirements for the Minnesota department of health to produce an "outline on how best to standardize drug prior authorization request transactions between providers and group purchasers with the goal of maximizing administrative simplification and efficiency in preparation for electronic transmissions".  The result was a single, combined prescription drug prior authorization and formulary exception request form.
+     The National Council of Prescription Drug Plans is also currently in the beginning stages of a national pilot project monitored by the federal Centers for Medicare and Medicaid Services to create a streamlined, uniform drug formulary and prior authorization process to ease the administratively cumbersome process that often delay patients' ability to timely access prescriptions.
+     SECTION 2.  Article 2 of chapter 431, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows:
+"PART      .  PRESCRIPTION DRUG PRIOR AUTHORIZATION STANDARDIZATION
+     §431:2-    Definitions.  Whenever used in this part, unless the context otherwise requires:
+     "Commissioner" means the insurance commissioner of the State of Hawaii.
+ 
+     "Department" means the department of commerce and consumer affairs.
+     "Director" means the director of commerce and consumer affairs.
+     "Dispenser" means any person authorized to dispense drugs in the State in accordance with section 328-91.
+     "Health care insurance provider" means any insurance company, fraternal benefit society, health care service plans, health maintenance organization, or any other entity delivering or issuing accident and health or sickness insurance, as defined in section 431:1-205, and shall also include licensed nursing homes, licensed care homes, licensed foster homes, and licensed home care providers.
+     "Prescriber" means any physician, dentist, dispenser, hospital, or other person or institution licensed and registered in this State to issue a prescription.
+     §431:2‑    Prescription drug prior authorization standardization.  (a)  The commissioner shall establish a single statewide universal prescription coverage request form which shall be utilized by any health care insurance provider in the State of Hawaii, when applicable.  This standardized form shall supersede any prior authorization processes and coverage requests forms utilized by any health care insurance provider, prescriber, or dispenser within the State.
+     (b)  The commissioner shall consult with the health care insurance providers, prescribers, and the pharmacy association in the development of the single, uniform form and in adopting administrative rules and whenever applicable shall refer to and utilize any national standards, including those used in the medicare program.
+     (c)  No health care insurance provider, prescriber, or dispenser may add to or modify the universal prescription coverage request form as established in subsection (a) or administrative rules adopted by the department.
+     (d)  Health care insurance providers shall be responsible for reviewing and processing all universal prescription coverage request forms within seventy-two hours of receipt or within twenty-four hours in urgent situations.
+     (e)  A health care insurance provider shall authorize a minimum seventy-two hour emergency supply for any prescription issued for behavioral health or life-threatening conditions that requires a prior authorization.
+     §431:2-    Administrative rules.  The department shall adopt rules pursuant to chapter 91 necessary for purposes of this part."
+     SECTION 3.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Statewide Standardization of Prior Authorizations Process; Prescription Drugs
+ 
+Description:
+Establishes a statewide standardization of the prescription drug prior authorization process.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

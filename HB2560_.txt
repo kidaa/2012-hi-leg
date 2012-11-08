@@ -1,0 +1,113 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2560
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO RECYCLING.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  With technological advancement, many of our consumer electric products become obsolete within a very short period of time, creating large amounts of waste.  Limited landfill space is a concern, and disposal of waste electric products into our landfills has the potential to cause human and environmental impacts.  Proper waste handling, and recycling of valuable materials, are important aspects of protecting Hawaii's health and building a green economy.
+     SECTION 2.  The Hawaii Revised Statutes is amended by adding a new chapter to be appropriately designated and to read as follows:
+"CHAPTER
+ELECTRIC DEVICE RECYCLING ACT
+     §  -1  Definitions.  As used in this chapter:
+     "Certified electric device recycling center" means an operation which accepts electric devices from consumers for proper recycling.
+     "Consumer" means a person who buys a electric device for use or consumption.
+     "Electric device"
+     (1)  means any electrically powered device more than 4 ounces and weighing up to and including 100 pounds including packaging; and
+     (2)  Shall not include:
+          (A)  An electrically powered device that is a part of a motor vehicle or any component part of a motor vehicle assembled by or for a motor vehicle manufacturer or franchised dealer, including replacement parts for use in a motor vehicle;
+          (B)  An electrically powered device that is defined as a white good in Hawaii Administrative Rules, Chapter 58.1.
+     "Department" means the department of health.
+     "Director" means the director of health.
+     "Person" means any individual, business, partnership, limited liability company, corporation, not-for-profit organization, association, government entity, public benefit corporation, or public authority.
+     "Recycling" means processing (including disassembling, dismantling, or shredding) electric devices or their components to recover a material or product; provided that "recycling" does not include any process defined as incineration under applicable laws and rules.
+     "Retailer" means any person who offers electric devices for sale.
+     "Sell" or "sale" means any transfer with or without consideration of electrically powered devices, including transactions conducted through sales outlets, catalogs, or the Internet, but excluding resale or leases.
+     §  -2  Retailer; registration, recordkeeping requirements.  (a)  By January 1, 2014, all retailers operating within the State shall register with the department, using forms prescribed by the department, and shall notify the department within 30 days of any change in address or other information previously submitted.  After January 1, 2014, any person who intends to conduct business in the State as a retailer shall register with the department no later than one month prior to the commencement of the business.
+     (b)  All retailers shall maintain records reflecting the importation, exportation, transfer, donation and sale of electric devices.  The records shall be made available, upon request, for inspection by the department.
+     §  -3  Electric device advance recycling fee.  (a)  Beginning on August 15, 2014, every retailer shall pay to the department an advance recycling fee on each electric device transferred, donated, or sold in the State beginning on July 1, 2014.  The advance recycling fee shall not apply to electric devices exported for sale outside of the State.  The fee shall be imposed only once on each and every electric device.
+     (b)  No county shall impose or collect any assessment or fee on electric devices for the same or similar purpose that is the subject of this chapter.
+     (c)  Beginning April 30, 2014, and every April 1 thereafter, the department shall notify retailers in writing of the amount of the electric device advance recycling fees.  The effective date of changes to the fee amounts shall be July 1.  The fees shall be determined by the department using data collected pursuant to this part.
+     §  -4  Sales of electric devices; retailer report; fee payment.  (a)  Beginning July 1, 2014, every retailer shall charge the consumer a fee equal to the amount to be paid to the department for each electric device sold.  The fee charge may appear as a separate line item on the invoice.
+     (b)  Each retailer shall generate and submit to the department a monthly report, using forms prescribed by the department, on the net number of electric devices sold, donated, or transferred.
+     (c)  Payment of the electric device advance recycling fee amounts as described in section  -3 shall be made monthly based on reports of the retailers under subsection (b).
+     (d)  Retailers who annually transfer, donate or sell one thousand or fewer electric devices shall submit reports and payments required under subsections (b) and (c) on a quarterly basis at a minimum; provided that the quarterly report and payment periods shall end on March 31, June 30, September 30, and December 31 of each year.
+     (e)  Retailers shall pay an amount to the department calculated as the net number of electric devices transferred, donated and sold multiplied by the sum of the applicable electric device advance recycling fee.  Payment shall be made by check or money order payable to the "Department of Health, State of Hawaii".  All reports and payments shall be made no later than the fifteenth day of the month following the end of the previous payment period.
+     §  -5  Electric device recycling fund.  (a)  There is established in the state treasury the electric device recycling fund into which shall be deposited all fees, payments, and penalties collected by the department pursuant to this chapter.
+     (b)  The electric device recycling fund shall be administered by the department of health.
+     (c)  All revenues generated from the advance recycling fees as described under sections   -3 and   -4, shall be deposited into the electric device recycling fund as defined in section   -5.  (a) All accrued interest earned by the fund shall remain in the fund.
+     (d)  Moneys in the electric device recycling fund shall be used to pay recycling fees to certified electric device recycling centers.  The department may also use the money to:
+     (1)  Implement and enforce this chapter, conduct audits and fund other compliance activities associated with the electric device recycling program.
+     (2)  Conduct recycling education and demonstration projects;
+     (3)  Promote recyclable market development activities;
+     (4)  Support the handling and transportation of electric devices to end-markets;
+     (5)  Hire personnel to oversee the implementation of the electric device recycling program, including permitting and enforcement activities; and
+     (6)  Fund associated office expenses.
+     §  -6  Retailer responsibility.  Beginning January 1, 2014, retailers shall make available to their customers information on collection services in the State, including the department's website and telephone number.  Retailers with a website shall include this information in a visible location on their website.
+     §  -7  Electric device recycling centers.  (a)  Prior to operation, electric device recycling centers shall be certified by the department.
+     (b)  Applications for certification as an electric device recycling center shall be filed with the department on forms prescribed by the department.
+     (c)  The department, at any time, may review the certification of an electric device recycling center.  After written notice to the person responsible for the establishment and operation of the electric device recycling center, the department, after it has afforded the electric device recycling center operator a hearing in accordance with chapter 91, may withdraw the certification of the center if it finds that there has not been compliance with applicable laws, rules, permit conditions, or certification requirements.
+     (d)  Electric device recycling centers shall:
+     (1)  Accept all electric devices;
+     (2)  Ensure electric devices collected are properly recycled through a contractual agreement with an out-of-state recycler or an in-state recycling facility permitted by the department;
+     (3)  Forward the documentation necessary to support claims for payment as stated in section   -9.
+     (e)  Electric device recycling centers' collection areas shall be maintained in full compliance with applicable laws and with the orders and rules of the department, including permitting requirements under chapter 342H.
+     §  -8  Handling fees for certified electric device recycling centers.  (a)  The department shall pay to each electric device recycling center a handling fee for each electric device collected from a consumer that is:
+     (1)  Transported out-of-state for recycling;
+     (2)  Received by an approved in-state company for an approved end use for recycling; or
+     (3)  Received by a department-permitted recycling facility.
+     (b)  The department shall set the handling fee by October 1, 2014 and evaluate the handling fee at least once per year.  If the department changes the amount of the handling fee, the department shall publish notice of the change within thirty days of its determination.
+     (c)  Payments of handling fees, pursuant to this section, shall be based on electric device recycling center reports submitted to the department; provided that there is no discrepancy in the reports.  The department shall pay the handling fee on the basis of either the weight or number of electric devices recycled, or a combination of the two.
+     §  -9  Certified electric device recycling center reporting.  The department shall pay certified electric device recycling center handling fees as described in section   -8, based on collection reports submitted by the electric device recycling centers.  All electric device recycling centers shall submit to the department the following information on forms prescribed by the department, which shall include at a minimum:
+     (1)  The number or weight of electric devices accepted at the electric device recycling center for the reporting period;
+     (2)  The number or weight of electric devices transported out-of-state for recycling or to a in-state permitted recycling facility; and
+     (3)  Copies of out-of-state transport and weight receipts or acceptance receipts from permitted recycling facilities.  If the certified electric device recycling center and the permitted recycling facility are the same entity, copies of out-of-state transport and weight receipts, or documentation of end use accepted by the department, shall also be included.
+     §  -10  Disposal ban.  Disposal of electric devices in permitted or unpermitted solid waste facilities is prohibited beginning July 1, 2015.
+     §  -11  Contract for administrative services.  The department may contract the services of a third party to administer the electric device recycling program under this part.
+     §  -13  Rules.  The department may adopt rules pursuant to chapter 91 as may be necessary for the purposes of this part.
+     §  -14  Enforcement; administrative penalties.  (a)  The department may conduct audits and inspections to determine compliance under this chapter.  The department and the attorney general shall be empowered to enforce this chapter and take necessary action against any electric device retailer for failure to comply with this chapter or rules adopted thereunder.
+     (b)  The attorney general may file a civil action in the name of the State to enjoin any activity in violation of this chapter and to collect any penalties authorized by or imposed pursuant to this chapter.
+     (c)  Any person who violates any requirement of this chapter may be assessed a penalty of up to $25,000 for each separate offense.  Each day of a violation shall be a separate offense.
+     (d)  In addition to any other administrative or judicial remedy provided by this chapter or by rules adopted under this chapter for a violation thereof, the department is authorized to impose by order administrative penalties and is further authorized to set, charge, and collect administrative fines and to recover administrative fees and costs, including attorney's fees and costs, or to bring legal action to recover administrative fines and fees and costs, including attorney's fees and costs."
+     SECTION 3.  Until superseded by fees established in rules, pursuant to section   -3, the interim fees shall be as follows:
+     (1)  $1.00 for electric devices weighing (including packaging) up to 1 pound;
+     (2)  $2.50 for electric devices weighing (including packaging) 1.1 to 5 pounds;
+     (3)  $5.00 for electric devices weighing (including packaging) 5.1 to 25 pounds;
+     (4)  $10.00 for electric devices weighing (including packaging) 25.1 to 50 pounds;
+     (5)  $15.00 for electric devices weighing (including packaging) 50.1 to 75 pounds;
+     (6)  $20.00 for electric devices weighing (including packaging) 75.1 to 100 pounds;
+     SECTION 4.  All moneys in the Electronic Device Recycling Fund created by section 339D-10 shall be be transferred to the Electric Device Recycling Fund, as defined in section    -5.
+     SECTION 5.  Section 339D, Hawaii Revised Statutes, is repealed in its entirety on December 31, 2014.
+     SECTION 6.  The department may establish positions and hire necessary personnel for the purposes of this part.
+     SECTION 7.  This Act shall take effect on approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Recycling; Consumer Electronics
+ 
+Description:
+Creates a recycling program for all electrically powered consumer devices, creates the Electric Device Recycling Special Fund, and abolishes the Electronic Device Recycling Fund.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

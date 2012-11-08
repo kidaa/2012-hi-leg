@@ -1,0 +1,78 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1058
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CAPITAL INVESTMENTS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The State of Hawaii needs to upgrade, improve, or replace its technology and computer systems infrastructure to become more efficient and productive.  The department of accounting and general services) usesthe financial accounting management and information system (FAMIS), and the department of education uses the financial management system (FMS); both financial management systems are approximately twenty years old and based on antiquated technologies.  These are just two examples of agency-wide technology or computer systems that, if replaced,could result in improved efficiencies, greater accountability and transparency in the use of public funds, and improved reporting for decision makers and stakeholders at all levels.However, the replacement of existing, aging, or obsolete technology or computer systems is impeded when the projects are funded within a biennium operating budget over a phased implementation.  A large-scale project designed to have a useful life of greater than seven years should be funded and depreciated as a capital investment over a longer period of time.
+     The purpose of this Act is to include agency-wide technology and computer systems with an estimated useful life of greater than seven years as capital investments to allow all agency and contracted labor costs, hardware, software, and licenses for the installation, monitoring, and replacement of these technologies and computer systems to be financed with bond funds and depreciated as capital investments.
+     SECTION 2.  Section 37-62, Hawaii Revised Statutes, is amended by amending the definitions of "capital investment costs", "cost elements", and "phases of capital improvement project" to read:
+     ""Capital investment costs" means costs, beyond the research and development phase, associated with capital improvements, including all agency or contracted labor costs, hardware, software, and licenses allocated to the development, installation,monitoring, and  replacement of agency-wide technology or computer systems with an estimated useful life of greater than seven years,the acquisition and development of land, the design and construction of new facilities, and the making of renovations or additions to existing facilities.  Capital investment costs for a program are the sum of the program's capital improvement project costs."
+     "Cost elements" means the major subdivisions of a cost category.  The category "capital investment" includes plan, land acquisition, design, construction, and equipment and furnishing[.],as well as agency-wide technology or computer systems with an estimated useful life of greater than seven years.  The categories "research and development" and "operating" include personal services, current lease payments, other current expenses, equipment, and motor vehicles.
+     ""Phases of capital improvement project" means land acquisition, design, construction, and occupancy.For technology or computer systems with an estimated useful life greater than seven years, "phases of capital improvement project" means planning, acquisition, testing, implementation, and monitoring."
+     SECTION 3.  Section 37-69, Hawaii Revised Statutes, is amended by amending subsection (d) to read as follows:
+     "(d)  The program plans for the ensuing six fiscal years shall more specifically include:
+     (1)  At the lowest level on the state program structure, for each program:
+         (A)  A statement of its objectives;
+         (B)  Measures by which the effectiveness in attaining the objectives is to be assessed;
+         (C)  The level of effectiveness planned for each of the ensuing six fiscal years;
+         (D)  A brief description of the activities encompassed;
+         (E)  The program size indicators;
+         (F)  The program size planned for each of the next six fiscal years;
+         (G)  A narrative explanation of the plans for the program.  It shall contain, and in general be limited to, the following:
+              (i)  A description of the kinds of activities carried out or unusual technologies employed;
+             (ii)  A statement of key policies pursued;
+            (iii)  Identification of important program or organizational relationships involved;
+             (iv)  A description of major external trends affecting the program;
+              (v)  A discussion of significant discrepancies between previously planned cost, effectiveness, and program size levels and those actually achieved;
+             (vi)  Comments on, and an interpretation of, cost, effectiveness, and program size data over the upcoming budget period, with special attention devoted to changes from the current budget period;
+            (vii)  Comments on, and an interpretation of, cost, effectiveness, and program size data over the four years of the planning period and how they relate to the corresponding data for the budget period; and
+           (viii)  A summary of the special analytic study, program evaluation, or other analytic report supporting a substantial change in the program where such a major program change recommendation has been made;
+         (H)  The full cost implications of the recommended programs, by cost categories and cost elements, actually experienced in the last completed fiscal year, estimated for the fiscal year in progress, and estimated for each of the next six fiscal years.  The means of financing shall be identified for each cost category.  The personal services cost element and the lease payments cost element shall be shown separately; the cost elements of other current expenses, equipment, and motor vehicles may be combined.  The number of positions included in the program shall be appropriately identified by means of financing;
+         (I)  A recapitulation of subparagraph (H) for the last completed fiscal year, the fiscal year in progress and each of the next six fiscal years, by means of financing grouped under each cost category.  The number of positions included in any program shall be appropriately identified;
+         (J)  An identification of the revenues generated in the last completed fiscal year and estimated to be generated in the fiscal year in progress and in each of the next six fiscal years, and the fund into which such revenues are deposited;
+         (K)  Details of implementation of each capital improvement project included in the total program cost, including:
+              (i)  A description of the project, location, and scope;
+             (ii)  The initially estimated, currently estimated, and final cost of the project, by investment cost elements and by means of financing;
+            (iii)  The amounts previously appropriated by the legislature for the project, by cost elements and by means of financing specified in the acts appropriating the sums, and an identification of the acts so appropriating;
+             (iv)  The costs incurred in the last completed fiscal year and the estimated costs to be incurred in the fiscal year in progress and in each of the next six fiscal years, by cost elements and by means of financing; and
+              (v)  A commencement and completion schedule, by month and year, of the various phases of the capital improvement project (i.e., land acquisition, design, construction, and occupancy[)], or planning, acquisition, testing, implementation, and monitoring) as originally intended, as currently estimated, and as actually experienced; and
+         (L)  A crosswalk of the program expenditures, by cost categories and cost elements between the program and expending agencies for the next two fiscal years.  The means of financing and the number of positions included in the program costs to be expended by each agency shall be specified; and
+     (2)  Appropriate displays at every level of the state program structure above the lowest level.  The displays shall include:
+         (A)  A listing of all major groupings of programs included within the level, together with the objectives, measures of effectiveness, and planned levels of effectiveness for each of the ensuing six fiscal years for each such major groupings of programs; and
+         (B)  A summary of the total cost of each cost category by the major groupings of programs encompassed within the level, actual for the last completed fiscal year and estimated for the fiscal year in progress and for each of the next six fiscal years."
+     SECTION 4.Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Relating to Capital Investments
+ 
+Description:
+Amends chapter 37, Hawaii Revised Statutes, to include agency-wide technology and computer systems with an estimated useful life of greater than seven years as capital investments to allow all costs to be financed with bond funds and depreciated as capital investments.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,63 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+159
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CHARTER SCHOOLS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 302B, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§302B-     Charter school facilities; funding formula.  (a)  The department shall use the annual facilities funding support formula under this section to allocate funding for charter school facilities costs.  The formula shall be applied independently of any formula used to allocate operating funds for charter schools.
+     (b)  The following formula shall be used to determine the amount of annual facilities funding support for each charter school:
+          Average monthly cost per square foot of leased facilities space under subsection (c);
+multiplied by (x)
+          Twelve months;
+multiplied by (x)
+          Total net authorized square feet of facilities space calculated under subsection (d);
+equals (=)
+          Annual facilities funding support amount.
+     (c)  The average monthly cost per square foot of leased facilities space for a charter school shall be determined annually by the department of accounting and general services.
+     (d)  The total net authorized square feet of facilities space for a charter school shall be calculated as follows:
+          The number of primary students enrolled at the charter school multiplied by (x) the amount of square feet of facilities space needed for each primary student;
+plus (+)
+          The number of secondary students enrolled at the charter school multiplied by (x) the amount of square feet of facilities space needed for each secondary student;
+minus (-)
+          The amount of square feet of facilities space provided to the charter school by the State;
+provided that:
+     (1)  The amount of square feet of facilities space needed for each primary student and secondary student, as determined by the department, shall be comparable to the actual square footage of facilities space provided to each student enrolled in public schools subject to chapter 302A; and
+     (2)  If the charter school is a distance-learning school or has students enrolled in distance-learning courses, the number of enrolled primary and secondary students for the calculations under this subsection shall be adjusted accordingly by the department to make a reasonable approximation of the amount of facilities space needed by the school for its operations.
+     (e)  For purposes of this section:
+     "Distance learning" means a formalized teaching and learning system designed to be carried out remotely by using electronic communication.
+     "Facilities space" means classrooms and school common areas including cafeterias, administration buildings, libraries, and all other indoor space at a charter school."
+     SECTION 2.  New statutory material is underscored.
+     SECTION 3.  This Act shall take effect upon its approval and shall apply to the 2012-2013 school year and thereafter.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Charter School Facilities; Funding Formula
+ 
+Description:
+Establishes a funding formula for charter school facilities.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

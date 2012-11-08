@@ -1,0 +1,342 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1435
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO HIGHWAY SAFETY.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The purpose of this Act is to make amendments to the State’s ignition interlock law recommended by the Hawaii ignition interlock implementation task force pursuant to Act 171, Session Laws of Hawaii 2008, as amended by Act 88, Session Laws of Hawaii 2009, as amended by Act 166, Session Laws of Hawaii 2010.
+     SECTION 2.  Chapter 291E, Hawaii Revised Statutes, is amended by adding a new section to part III to be appropriately designated and to read as follows:
+     "§291E-    Repeat intoxicated driver after December 31, 2010; return of motor vehicle registration and number plates.  Any repeat intoxicated driver arrested for a violation of section 291E-61 or 291E-61.5 after December 31, 2010, may request the return of any motor vehicle registration and number plates surrendered to the director as a result of the arrest in order to comply with this part.  The director shall return the motor vehicle registration and number plates unless a new registration and number plates have been issued as a result of the approval of an application for a special motor vehicle registration or application for consent to transfer title.  Upon return of the motor vehicle registration and number plates, the repeat intoxicated driver may apply for an ignition interlock permit as provided in section 291E-44.5."
+     SECTION 3.  Section 291E-1, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending the definitions of "administrative revocation", "alcohol enforcement contact", and "repeat intoxicated driver" to read:
+     ""Administrative revocation" means termination of the respondent's[:
+     (1)  License] license and the privilege to operate a vessel underway on or in the waters of the State pursuant to part III[; and
+     (2)  Registration of any motor vehicle registered to a respondent found to be a repeat intoxicated driver],
+but does not include any revocation imposed under section 291E-61 or 291E-61.5."
+     "Alcohol enforcement contact" means:
+     (1)  Any administrative revocation ordered pursuant to part III;
+     (2)  Any administrative revocation ordered pursuant to part XIV of chapter 286, as that part was in effect on or before December 31, 2001;
+     (3)  Any suspension or revocation of any license [or motor vehicle registration, or both,] or any suspension or revocation of a privilege to operate a vessel underway imposed by this or any other state or federal jurisdiction for refusing to submit to a test for alcohol concentration;
+     (4)  Any conviction in this State for operating or being in physical control of a vehicle while having an unlawful alcohol concentration or while under the influence of alcohol; or
+     (5)  Any conviction in any other state or federal jurisdiction for an offense that is comparable to operating or being in physical control of a vehicle while having an unlawful alcohol concentration or while under the influence of alcohol."
+     "Repeat intoxicated driver" means a person who previously:
+     (1)  Has been convicted, during the five years preceding the date of arrest, of one or more violations under:
+         (A)  Section 291E-61 or 291E-61.5, as a result of having consumed alcohol; or
+         (B)  Section 291-4 or 291-4.4, as those sections were in effect on or before December 31, 2001;
+     (2)  Has been convicted, during the ten years preceding the date of arrest, of three or more violations under:
+         (A)  Section 291E-61 or 291E-61.5, as a result of having consumed alcohol; or
+         (B)  Section 291-4 or 291-4.4, as those sections were in effect on or before December 31, 2001; or
+     (3)  Has had one prior alcohol enforcement contact or drug enforcement contact during the five years preceding the date of arrest, two prior alcohol enforcement contacts or drug enforcement contact during the [seven] five years preceding the date of arrest, or three or more prior alcohol enforcement contacts or drug enforcement contact during the ten years preceding the date of arrest."
+     2.  By repealing the definitions of "qualified household member", "temporary number plates", "temporary vehicle registration".
+     [""Qualified household member" means a household member of the respondent who has a license that has not expired or been suspended or revoked.
+     "Temporary number plates" refers to the temporary number plates given, along with the temporary vehicle registration, to a respondent pursuant to section 291E-33, but does not include a temporary number plate attached to a new vehicle pursuant to sections 249-7.5 and 286-53.
+     "Temporary vehicle registration" means the portion of the notice of administrative revocation that, when completed by the arresting law enforcement officer, permits the respondent to drive a vehicle registered in the name of the respondent for thirty days or until the time established by the director under part III."]
+     SECTION 4.  Section 291E-6, Hawaii Revised Statutes, is amended by amending subsection (d) to read as follows:
+     "(d)  The vendor selected for installation and maintenance of ignition interlock devices pursuant to chapter 291E shall be audited annually by the director of transportation pursuant to this section and the rules adopted thereunder.  The director of transportation may require the vendor to pay for all or part of the costs incurred in conducting the audit."
+     SECTION 5.  Section 291E-31, Hawaii Revised Statutes, is amended to read as follows:
+     "§291E-31  Notice of administrative revocation; effect.  As used in this part, the notice of administrative revocation:
+     (1)  Establishes that the respondent's license and privilege to operate a vehicle in the State or on or in the waters of the State shall be terminated:
+         (A)  Thirty days after the date the notice of administrative revocation is issued in the case of an alcohol related offense;
+         (B)  Forty-four days after the date the notice of administrative revocation is issued in the case of a drug related offense; or
+         (C)  Such later date as is established by the director under section 291E-38,
+          if the director administratively revokes the respondent's license and privilege;
+    [(2)  Establishes that the registration of any motor vehicle registered to a respondent who is a repeat intoxicated driver shall be terminated thirty days after the date of an arrest pursuant to section 291E-33(c);
+     (3)] (2)  Establishes the date on which administrative revocation proceedings against the respondent were initiated;
+    [(4)] (3)  Serves as a temporary permit, if applicable, to operate a vehicle as provided in section 291E-33; and
+    [(5)] (4)  Notifies the respondent that the respondent shall keep an ignition interlock device installed and operating in any vehicle the respondent operates during the revocation period if the respondent had a valid license at the time of the arrest."
+     SECTION 6.  Section 291E-33, Hawaii Revised Statutes, is amended to read as follows:
+     "§291E-33  Probable cause determination; issuance of notice of administrative revocation; procedures.  (a)  Whenever a person is arrested for a violation of section 291E-61 or 291E-61.5 on a determination by the arresting law enforcement officer that:
+     (1)  There was reasonable suspicion to stop the vehicle or the vehicle was stopped at an intoxicant control roadblock established and operated in compliance with sections 291E-19 and 291E-20; and
+     (2)  There was probable cause to believe that the person was operating the vehicle while under the influence of an intoxicant;
+the law enforcement officer [immediately] shall take possession of any license held by the person and request the person to take a test for alcohol concentration, in the case of an alcohol related offense, or a test for drug content in the blood or urine, in the case of a drug related offense.  The law enforcement officer shall inform the person that, in the case of an alcohol related offense, the person shall elect to take a breath test, a blood test, or both, pursuant to section 291E‑11, but that the person may refuse to submit to testing under this chapter.  In the case of a drug related offense, the person shall elect to take a blood test, a urine test, or both, pursuant to section 291E-11, after being informed that the person may refuse to submit to testing under this chapter.
+     (b)  When applicable under section 291E-15, the law enforcement officer also shall:
+     (1)  Inform the person of the sanctions under section 291E‑41, including the sanction for refusing to take a breath, blood, or urine test, if applicable; and
+     (2)  Ask the person if the person still refuses to submit to a breath, blood, or urine test, upon the law enforcement officer's determination that, after the person has been informed by a law enforcement officer that the person may refuse to submit to testing, the person under arrest has refused to submit to a breath, blood, or urine test.
+[Thereafter,] (c)  After taking action pursuant to subsections (a) and (b), as applicable, the law enforcement officer shall complete and issue to the person a notice of administrative revocation and shall indicate thereon whether the notice shall serve as a temporary permit.  The notice shall serve as a temporary permit, unless, at the time of arrest:  the person was unlicensed; the person's license or privilege to operate a vehicle was revoked or suspended; or the person had no license in the person's possession.
+     [(b)] (d)  Whenever a law enforcement officer determines that, as the result of a blood or urine test performed pursuant to section 291E-21, there is probable cause to believe that a person being treated in a hospital or medical facility has violated section 291E-61 or 291E-61.5, the law enforcement officer immediately shall take possession of any license held by the person and shall complete and issue to the person a notice of administrative revocation and indicate thereon whether the notice shall serve as a temporary permit.  The notice shall serve as a temporary permit unless, at the time the notice was issued:  the person was unlicensed; the person's license or privilege to operate a vehicle was revoked or suspended; or the person had no license in the person's possession.
+     [(c)  Whenever a respondent under this section is a repeat intoxicated driver, the arresting law enforcement officer shall take possession of the motor vehicle registration and, if the motor vehicle being driven by the respondent is registered to the respondent, remove the number plates and issue a temporary motor vehicle registration and temporary number plates for the motor vehicle.  No temporary motor vehicle registration or temporary number plates shall be issued if the respondent's registration has expired or been revoked.  The applicable police department, upon determining that the respondent is a repeat intoxicated driver, shall notify the director of the appropriate county agency to enter a stopper on the motor vehicle registration files to prevent the respondent from conducting any motor vehicle transactions, except as permitted under this part.]"
+     SECTION 7.  Section 291E-34, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending subsections (b) to (e) to read:
+     "(b)  The notice, when completed by the law enforcement officer and issued to the respondent, shall contain at a minimum the following information relating to the incident that gives rise to the issuance of the notice of administrative revocation:
+     (1)  Information identifying the respondent;
+     (2)  The specific violation for which the respondent was arrested;
+     (3)  The date issued and the date the administrative revocation is scheduled to go into effect;
+     (4)  The expiration date of the temporary permit[, and the temporary motor vehicle registration and temporary number plates if applicable]; and
+     (5)  That the issuance of the notice of administrative revocation will be administratively reviewed.
+     (c)  The notice shall provide, at a minimum, the following information relating to the administrative review:
+     (1)  That the review is automatic;
+     (2)  That the respondent, within three days of the issuance of the notice of administrative revocation in the case of an alcohol related offense and within seventeen days of the issuance of the notice of administrative revocation in the case of a drug related offense, may submit written information demonstrating why the respondent's license and privilege to operate a vehicle[, and motor vehicle registration if applicable,] should not be administratively revoked;
+     (3)  The address or location where the respondent may submit the information;
+     (4)  That the respondent is not entitled to be present or represented at the administrative review; and
+     (5)  That the administrative review decision shall be mailed to the respondent:
+         (A)  No later than eight days after the date of the issuance of the notice of administrative revocation in the case of an alcohol related offense; and
+         (B)  No later than twenty-two days after the date of the issuance of the notice of administrative revocation in the case of a drug related offense.
+     (d)  The notice shall state that, if the respondent's license and privilege to operate a vehicle[, and motor vehicle registration if applicable, are] is not administratively revoked after the review, the respondent's license[, and if applicable, motor vehicle registration and any number plates taken into custody,] shall be returned, unless a subsequent alcohol or drug enforcement contact has occurred, along with a certified statement that the administrative revocation proceedings have been terminated.
+     (e)  The notice shall state that, if the respondent's license and privilege to operate a vehicle[, and motor vehicle registration if applicable, are] is administratively revoked after the review, a decision shall be mailed to the respondent, or to the parent or guardian of the respondent if the respondent is under the age of eighteen, that shall contain, at a minimum, the following information:
+     (1)  The reasons why the respondent's license and privilege to operate a vehicle[, and motor vehicle registration if applicable, were] is administratively revoked;
+     (2)  That the respondent may request the director, within six days of the date the decision is mailed, to schedule an administrative hearing to review the administrative revocation;
+     (3)  That, if the respondent's request for an administrative hearing is received by the director within six days of the date the decision was mailed, the hearing shall be scheduled to commence:
+          (A)  No later than twenty-five days after the date of the issuance of the notice of administrative revocation in the case of an alcohol related offense; and
+         (B)  No later than thirty-nine days after the date of the issuance of the notice of administrative revocation in the case of a drug related offense;
+     (4)  The procedure to request an administrative hearing;
+     (5)  That failure to request an administrative hearing within the time provided shall cause the administrative revocation to take effect for the period and under the conditions established by the director in the decision;
+     (6)  That the respondent may regain the right to a hearing by requesting the director, within sixty days after the issuance of the notice of administrative revocation, to schedule a hearing;
+     (7)  That the director shall schedule the hearing to commence no later than thirty days after a request under paragraph (6) is received, but that, except as provided in section [291E-38(k),] 291E-38(j), the temporary permit[, and temporary motor vehicle registration and temporary number plates if applicable,] shall not be extended if the respondent fails to request an administrative hearing within the initial six-day period provided for that purpose;
+     (8)  That failure to attend the hearing shall cause the administrative revocation to take effect for the period and under the conditions indicated;
+     (9)  The duration of the administrative revocation and other conditions that may be imposed, including: referral to the driver's education program for an assessment of the respondent's substance abuse or dependence and the need for treatment;
+   [(10)  That, pursuant to section 291E-48, the director may grant a special motor vehicle registration to a qualified household member or to a co-owner of any motor vehicle owned by the respondent, upon a determination that the person is completely dependent on the motor vehicle for the necessities of life; provided that the special motor vehicle registration shall not be valid for use by the respondent;] and
+   [(11)] (10)  That the respondent shall obtain an ignition interlock permit in order to operate a vehicle during the revocation period if the respondent had a valid license at the time of the arrest."
+     2.  By amending subsections (g) and (h) to read:
+     "(g)  The notice shall state that, if the administrative revocation is reversed after the hearing, the respondent's license[, and if applicable, motor vehicle registration and any number plates taken into custody,] shall be returned, along with a certified statement that the administrative revocation proceedings have been terminated.
+     (h)  The notice shall state that, if the administrative revocation is sustained at the hearing, a written decision shall be mailed to the respondent, or to the parent or guardian of the respondent if the respondent is under the age of eighteen, that shall contain, at a minimum, the following information:
+     (1)  The effective date of the administrative revocation;
+     (2)  The duration of the administrative revocation;
+    [(3)  If applicable, the date by which any outstanding motor vehicle number plates issued to the respondent must be surrendered to the director;
+     (4)  If applicable, that failure to surrender any motor vehicle number plates as required is a misdemeanor;
+     (5)] (3)  Other conditions that may be imposed by law, including the use of an ignition interlock device; and
+    [(6)] (4)  The right to obtain judicial review."
+     SECTION 8.  Section 291E-35, Hawaii Revised Statutes, is amended to read as follows:
+     "§291E-35  Immediate restoration of license [and motor vehicle registration].  (a)  In cases involving an alcohol related offense, if a test conducted in accordance with part II and section 321‑161 and the rules adopted thereunder shows that a respondent had an alcohol concentration less than .08, the director or the arresting law enforcement agency immediately shall return the respondent's license[, and if applicable, motor vehicle registration and any number plates taken into custody,] along with a certified statement that administrative revocation proceedings have been terminated with prejudice.
+     (b)  In cases involving a drug related offense, if a test conducted in accordance with part II and section 321‑161 and the rules adopted thereunder fails to show the presence, in the respondent's blood or urine, of any drug that is capable of impairing the respondent's ability to operate a vehicle in a careful and prudent manner, the director or the arresting law enforcement agency immediately shall return the respondent's license[, and if applicable, motor vehicle registration and any number plates taken into custody,] along with a certified statement that administrative revocation proceedings have been terminated with prejudice."
+     SECTION 9.  Section 291E-36, Hawaii Revised Statutes, is amended to read as follows:
+     "§291E-36  Documents required to be submitted for administrative review; sworn statements.  (a)  Whenever a respondent has been arrested for a violation of section 291E-61 or 291E-61.5 and submits to a test that establishes:  the respondent's alcohol concentration was .08 or more; the presence, in the respondent's blood or urine, of any drug that is capable of impairing the respondent's ability to operate a vehicle in a careful and prudent manner; or whenever a respondent has been involved in a collision resulting in injury or death and a blood or urine test performed pursuant to section 291E-21 establishes that the respondent's alcohol concentration was .08 or more or establishes the presence in the respondent's blood or urine of any drug that is capable of impairing the respondent's ability to operate a vehicle in a careful and prudent manner, the following shall be forwarded immediately to the director:
+     (1)  A copy of the arrest report or the report of the law enforcement officer who issued the notice of administrative revocation to the person involved in a collision resulting in injury or death and the sworn statement of the arresting law enforcement officer or the officer who issued the notice of administrative revocation, stating facts that establish that:
+         (A)  There was reasonable suspicion to stop the vehicle, the vehicle was stopped at an intoxicant control roadblock established and operated in compliance with sections 291E-19 and 291E-20, or the respondent was tested pursuant to section 291E-21;
+         (B)  There was probable cause to believe that the respondent had been operating the vehicle while under the influence of an intoxicant; and
+         (C)  The respondent agreed to be tested or the person was tested pursuant to section 291E-21;
+     (2)  In a case involving an alcohol related offense, the sworn statement of the person responsible for maintenance of the testing equipment, stating facts that establish that, pursuant to section 321-161 and rules adopted thereunder:
+         (A)  The equipment used to conduct the test was approved for use as an alcohol testing device in this State;
+         (B)  The person had been trained and at the time the test was conducted was certified and capable of maintaining the testing equipment; and
+         (C)  The testing equipment used had been properly maintained and was in good working condition when the test was conducted;
+     (3)  In a case involving an alcohol related offense, the sworn statement of the person who conducted the test, stating facts that establish that, pursuant to section 321-161 and rules adopted thereunder:
+         (A)  The person was trained and at the time the test was conducted was certified and capable of operating the testing equipment;
+         (B)  The person followed the procedures established for conducting the test;
+         (C)  The equipment used to conduct the test functioned in accordance with operating procedures and indicated that the respondent's alcohol concentration was at, or above, the prohibited level; and
+         (D)  The person whose breath or blood was tested is the respondent;
+     (4)  In a case involving a drug related offense, the sworn statement of the person responsible for maintenance of the testing equipment, stating facts that establish that, pursuant to section 321-161 and rules adopted thereunder:
+         (A)  The equipment used to conduct the test was approved for use in drug testing;
+         (B)  The person conducting the test had been trained and, at the time of the test, was certified and capable of maintaining the testing equipment; and
+         (C)  The testing equipment used had been properly maintained and was in good working condition when the test was conducted;
+     (5)  In a case involving a drug related offense, the sworn statement of the person who conducted the test, stating facts that establish that, pursuant to section 321-161 and rules adopted thereunder:
+         (A)  At the time the test was conducted, the person was trained and capable of operating the testing equipment;
+         (B)  The person followed the procedures established for conducting the test;
+         (C)  The equipment used to conduct the test functioned in accordance with operating procedures and indicated the presence of one or more drugs or their metabolites in the respondent's blood or urine; and
+         (D)  The person whose blood or urine was tested is the respondent;
+     (6)  A copy of the notice of administrative revocation issued by the law enforcement officer to the respondent;
+     (7)  Any license[, and motor vehicle registration and number plates, if applicable,] taken into possession by the law enforcement officer; and
+     (8)  A listing of any prior alcohol or drug enforcement contacts involving the respondent.
+     (b)  Whenever a respondent has been arrested for a violation of section 291E-61 or 291E-61.5 and refuses to submit to a test to determine alcohol concentration or drug content in the blood or urine, the following shall be forwarded immediately to the director:
+     (1)  A copy of the arrest report and the sworn statement of the arresting law enforcement officer, stating facts that establish that:
+         (A)  There was reasonable suspicion to stop the vehicle or the vehicle was stopped at an intoxicant control roadblock established and operated in compliance with sections 291E-19 and 291E-20;
+         (B)  There was probable cause to believe that the respondent had been operating the vehicle while under the influence of an intoxicant;
+         (C)  The respondent was informed of:
+              (i)  The sanctions of section 291E-41;
+             (ii)  The possibility that criminal charges may be filed; and
+            (iii)  The probable consequences of refusing to be tested for alcohol concentration or drug content in the blood or urine; and
+         (D)  The respondent refused to be tested;
+     (2)  A copy of the notice of administrative revocation issued to the respondent;
+     (3)  Any [driver's] license[, and motor vehicle registration and number plates if applicable,] taken into possession; and
+     (4)  A listing of all alcohol and drug enforcement contacts involving the respondent."
+     SECTION 10.  Section 291E-37, Hawaii Revised Statutes, is amended to read as follows:
+     "§291E-37  Administrative review; procedures; decision.  (a)  The director automatically shall review the issuance of a notice of administrative revocation and shall issue a written decision administratively revoking the license and privilege to operate a vehicle[, and motor vehicle registration if applicable,] or rescinding the notice of administrative revocation.  The written review decision shall be mailed to the respondent, or to the parent or guardian of the respondent if the respondent is under the age of eighteen, no later than:
+     (1)  Eight days after the date the notice was issued in a case involving an alcohol related offense; or
+     (2)  Twenty-two days after the date the notice was issued in a case involving a drug related offense.
+     (b)  The respondent shall have the opportunity to demonstrate in writing why the respondent's license and privilege to operate a vehicle[, and motor vehicle registration if applicable,] should not be administratively revoked and, within three days of receiving the notice of administrative revocation, as provided in section 291E-33, shall submit any written information, either by mail or in person, to the director's office or to any office or address designated by the director for that purpose.
+     (c)  In conducting the administrative review, the director shall consider:
+     (1)  Any sworn or unsworn written statement or other written evidence provided by the respondent;
+     (2)  The breath, blood, or urine test results, if any; and
+     (3)  The sworn statement of any law enforcement officer or other person or other evidence or information required by section 291E‑36.
+     (d)  The director shall administratively revoke the respondent's license and privilege to operate a vehicle if the director determines that:
+     (1)  There existed reasonable suspicion to stop the vehicle, the vehicle was stopped at an intoxicant control roadblock established and operated in compliance with sections 291E‑19 and 291E‑20, or the person was tested pursuant to section 291E‑21;
+     (2)  There existed probable cause to believe that the respondent operated the vehicle while under the influence of an intoxicant; and
+     (3)  The evidence proves by a preponderance that:
+         (A)  The respondent operated the vehicle while under the influence of an intoxicant; or
+         (B)  The respondent operated the vehicle and refused to submit to a breath, blood, or urine test after being informed:
+              (i)  That the person may refuse to submit to testing in compliance with section 291E-11; and
+             (ii)  Of the sanctions of this part and then asked if the person still refuses to submit to a breath, blood, or urine test, in compliance with the requirements of section 291E-15.
+     [(e)  The director shall administratively revoke the registration of any vehicle owned or registered to the respondent and take custody of any number plates issued to the respondent if the director determines that the respondent is a repeat intoxicated driver and that:
+     (1)  There existed reasonable suspicion to stop the vehicle, the vehicle was stopped at an intoxicant control roadblock established and operated in compliance with sections 291E‑19 and 291E‑20, or the person was tested pursuant to section 291E‑21;
+     (2)  There existed probable cause to believe that the respondent operated the vehicle while under the influence of an intoxicant; and
+     (3)  The evidence proves by a preponderance that:
+         (A)  The respondent operated the vehicle while under the influence of an intoxicant; or
+         (B)  The respondent operated the vehicle and refused to submit to a breath, blood, or urine test after being informed:
+              (i)  That the person may refuse to submit to testing in compliance with section 291E-11; and
+             (ii)  Of the sanctions of this part and then asked if the person still refuses to submit to a breath, blood, or urine test, in compliance with the requirements of section 291E-15.
+     (f)] (e)  If the evidence does not support administrative revocation, the director shall rescind the notice of administrative revocation and return the respondent's license[, and if applicable, motor vehicle registration and any number plates taken into custody,] along with a certified statement that administrative revocation proceedings have been terminated.
+     [(g)] (f)  If the director administratively revokes the respondent's license and privilege to operate a vehicle, [and motor vehicle registration if applicable,] the director shall mail a written review decision to the respondent, or to the parent or guardian of the respondent if the respondent is under the age of eighteen.  The written review decision shall:
+     (1)  State the reasons for the administrative revocation;
+     (2)  Indicate that the respondent has six days from the date the decision is mailed to request an administrative hearing to review the director's decision;
+     (3)  Explain the procedure by which to request an administrative hearing;
+     (4)  Be accompanied by a form, postage prepaid, that the respondent may fill out and mail in order to request an administrative hearing;
+     (5)  Inform the respondent of the right to review and copy all documents considered at the review, including the arrest report and the sworn statements of law enforcement officers or other persons, prior to the hearing; and
+     (6)  State that the respondent may be represented by counsel at the hearing, submit evidence, give testimony, and present and cross-examine witnesses, including the arresting law enforcement officer.
+     [(h)] (g)  Failure of the respondent to request a hearing within the time provided in section 291E‑38(a) shall cause the administrative revocation to take effect for the period and under the conditions provided in the administrative review decision issued by the director under this section.  The respondent may regain the right to an administrative hearing by requesting the director, within sixty days of the issuance of the notice of administrative revocation as provided in section 291E‑33, to schedule an administrative hearing.  The administrative hearing shall be scheduled to commence no later than thirty days after the request is received by the director.  The administrative review decision issued by the director under this section shall explain clearly the consequences of failure to request an administrative hearing and the procedure by which the respondent may regain the right to a hearing."
+     SECTION 11.  Section 291E-38, Hawaii Revised Statutes, is amended to read as follows:
+     "§291E-38  Administrative hearing; procedure; decision.  (a)  If the director administratively revokes the respondent's license and privilege to operate a vehicle[, and motor vehicle registration if applicable,] after the administrative review, the respondent may request an administrative hearing to review the decision within six days of the date the administrative review decision is mailed.  If the request for hearing is received by the director within six days of the date the decision is mailed, the hearing shall be scheduled to commence no later than:
+     (1)  Twenty-five days from the date the notice of administrative revocation was issued in a case involving an alcohol related offense; or
+     (2)  Thirty-nine days from the date the notice of administrative revocation was issued in a case involving a drug related offense.
+The director may continue the hearing only as provided in subsection [(k).] (j).
+     (b)  The hearing shall be held at a place designated by the director, as close to the location where the notice of administrative revocation was issued as practical.
+     (c)  The respondent may be represented by counsel and, if the respondent is under the age of eighteen, must be accompanied by a parent or guardian.
+     (d)  The director shall conduct the hearing and have authority to:
+     (1)  Administer oaths and affirmations;
+     (2)  Examine witnesses and take testimony;
+     (3)  Receive and determine the relevance of evidence;
+     (4)  Issue subpoenas;
+     (5)  Regulate the course and conduct of the hearing;
+     (6)  Impose up to the maximum license revocation period as specified under section [291E‑41(b);] 291E‑41(b)(4); and
+     (7)  Make a final ruling.
+     (e)  The director shall affirm the administrative revocation only if the director determines that:
+     (1)  There existed reasonable suspicion to stop the vehicle, the vehicle was stopped at an intoxicant control roadblock established and operated in compliance with sections 291E‑19 and 291E‑20, or the person was tested pursuant to section 291E‑21;
+     (2)  There existed probable cause to believe that the respondent operated the vehicle while under the influence of an intoxicant; and
+     (3)  The evidence proves by a preponderance that:
+         (A)  The respondent operated the vehicle while under the influence of an intoxicant; or
+         (B)  The respondent operated the vehicle and refused to submit to a breath, blood, or urine test after being informed:
+              (i)  That the person may refuse to submit to testing in compliance with section 291E-11; and
+             (ii)  Of the sanctions of this part and then asked if the person still refuses to submit to a breath, blood, or urine test in compliance with the requirements of section 291E-15.
+     [(f)  In addition to subsection (e), the director shall affirm the administrative revocation of the registration of any motor vehicle owned by or registered to the respondent only if the director determines that the respondent is a repeat intoxicated driver.  If the director affirms the administrative revocation pursuant to this subsection, the director shall order the respondent to surrender the number plates and motor vehicle registration of any motor vehicle owned by or registered to the respondent.  The director may destroy any number plates taken into custody.
+     (g)] (f)  The respondent's prior alcohol and drug enforcement contacts shall be entered into evidence.
+     [(h)] (g)  The sworn statements provided in section 291E-36 shall be admitted into evidence.  The director shall consider the sworn statements in the absence of the law enforcement officer or other person.  Upon written notice to the director, no later than five days prior to the hearing, that the respondent wishes to examine a law enforcement officer or other person who made a sworn statement, the director shall issue a subpoena for the officer or other person to appear at the hearing.  Personal service upon the law enforcement officer or other person who made a sworn statement shall be made no later than forty-eight hours prior to the hearing time.  If the officer or other person cannot appear, the officer or other person at the discretion of the director, may testify by telephone.
+     [(i)] (h)  The hearing shall be recorded in a manner to be determined by the director.
+     [(j)] (i)  The director's decision shall be rendered in writing and mailed to the respondent, or to the parent or guardian of the respondent if the respondent is under the age of eighteen, no later than five days after the hearing is concluded.  If the decision is to reverse the administrative revocation, the director shall return the respondent's license, [and if applicable, motor vehicle registration and any number plates taken into custody,] along with a certified statement that administrative revocation proceedings have been terminated.  If the decision sustains the administrative revocation, the director shall mail to the respondent a written decision indicating the duration of the administrative revocation and any other conditions or restrictions as may be imposed pursuant to section 291E‑41.
+     [(k)] (j)  For good cause shown, the director may grant a continuance either of the commencement of the hearing or of a hearing that has already commenced.  If a continuance is granted at the request of the director, the director shall extend the validity of the temporary permit, [and temporary motor vehicle registration and temporary number plates if applicable,] unless otherwise prohibited, for a period not to exceed the period of the continuance.  If a continuance is granted at the request of the respondent, the director shall not extend the validity of the temporary permit[, or temporary motor vehicle registration and temporary number plates, if applicable].  For purposes of this section, a continuance means a delay in the commencement of the hearing or an interruption of a hearing that has commenced, other than for recesses during the day or at the end of the day or week.  The absence from the hearing of a law enforcement officer or other person, upon whom personal service of a subpoena has been made as set forth in subsection [(h),] (g), constitutes good cause for a continuance.
+     [(l)  The director may grant a special motor vehicle registration, pursuant to section 291E-48, to a qualified household member or a co-owner of any motor vehicle upon determination that:
+     (1)  The person is completely dependent on the motor vehicle for the necessities of life; and
+     (2)  At the time of the application for a special motor vehicle registration, the respondent does not have a valid ignition interlock permit.
+The special motor vehicle registration shall not be valid for use by the respondent.
+     (m)] (k)  If the respondent fails to appear at the hearing, or if a respondent under the age of eighteen fails to appear with a parent or guardian, administrative revocation shall take effect for the period and under the conditions established by the director in the administrative review decision issued by the director under section 291E‑37."
+     SECTION 12.  Section 291E-39, Hawaii Revised Statutes, is amended to read as follows:
+     "§291E-39  Fees and costs.  The director may assess and collect a $30 fee from the respondent to cover the costs of processing the respondent's request for an administrative hearing[.  These costs include but shall not be limited to: the cost of photocopying documents; conditional license permits, temporary permits, temporary motor vehicle registrations, temporary number plates, and relicensing forms; interpreter services; and other similar costs]; provided that the costs of issuing subpoenas for witnesses, including mileage fees, shall be borne by the party requesting the subpoena.  The director may waive the fee in the case of an indigent respondent, upon an appropriate inquiry into the financial circumstances of the respondent seeking the waiver and an affidavit or a certificate signed by the respondent demonstrating the respondent's financial inability to pay the fee."
+     SECTION 13.  Section 291E-41, Hawaii Revised Statutes, is amended to read as follows:
+     "§291E-41  Effective date, conditions, and period of administrative revocation; criteria.  (a)  Unless an administrative revocation is reversed or the temporary permit[, and temporary motor vehicle registration and temporary number plates, if applicable, are] is extended by the director, administrative revocation shall become effective on the day specified in the notice of administrative revocation.  Except as provided in section 291E-44.5, no license and privilege to operate a vehicle shall be restored under any circumstances during the administrative revocation period.  Upon completion of the administrative revocation period, the respondent may reapply and be reissued a license pursuant to section 291E-45.
+     (b)  Except as provided in paragraph (5) and in section 291E-44.5, the respondent shall keep an ignition interlock device installed and operating in any vehicle the respondent operates during the revocation period.  Except as provided in section 291E-5, installation and maintenance of the ignition interlock device shall be at the respondent's [own] expense.  The periods of administrative revocation, with respect to a license and privilege to operate a vehicle, [and motor vehicle registration if applicable,] that shall be imposed under this part are as follows:
+     (1)  A one year revocation of license and privilege to operate a vehicle, if the respondent's record shows no prior alcohol enforcement contact or drug enforcement contact during the five years preceding the date the notice of administrative revocation was issued;
+     (2)  An eighteen month revocation of license and privilege to operate a vehicle [and of the registration of any motor vehicle registered to the respondent], if the respondent's record shows one prior alcohol enforcement contact or drug enforcement contact during the five years preceding the date the notice of administrative revocation was issued;
+     (3)  A two-year revocation of license and privilege to operate a vehicle [and of the registration of any motor vehicle registered to the respondent], if the respondent's record shows two prior alcohol enforcement contacts or drug enforcement contacts during the five years preceding the date the notice of administrative revocation was issued;
+     (4)  A minimum of five years up to a maximum of ten years revocation of license and privilege to operate a vehicle [and of the registration of any motor vehicle registered to the respondent], if the respondent's record shows three or more prior alcohol enforcement contacts or drug enforcement contacts during the ten years preceding the date the notice of administrative revocation was issued;
+     (5)  For respondents under the age of eighteen years who were arrested for a violation of section 291E-61 or 291E-61.5, revocation of license and privilege to operate a vehicle for the appropriate revocation period provided in paragraphs (1) to (4) or in subsection [(d);] (c); provided that the respondent shall be prohibited from driving during the period preceding the respondent's eighteenth birthday and shall thereafter be subject to the ignition interlock requirement of this subsection for the balance of the revocation period; or
+     (6)  For respondents, other than those excepted pursuant to section [[]291E-44.5(b)[]], who do not install an ignition interlock device in any vehicle the respondent operates during the revocation period, revocation of license and privilege to operate a vehicle for the period of revocation provided in paragraphs (1) to (5) or in subsection [[(d)];] (c); provided that:
+         (A)  The respondent shall be absolutely prohibited from driving during the revocation period and subject to the penalties provided by section 291E-62 if the respondent drives during the revocation period; and
+         (B)  The director shall not issue an ignition interlock permit to the respondent pursuant to section 291E-44.5;
+provided that when more than one administrative revocation, suspension, or conviction arises out of the same arrest, it shall be counted as only one prior alcohol enforcement contact or drug enforcement contact, whichever revocation, suspension, or conviction occurs later.
+     [(c)  Whenever a motor vehicle registration is revoked under this part, the director shall cause the revocation to be entered electronically into the motor vehicle registration file of the respondent.
+     (d)] (c)  If a respondent has refused to be tested after being informed:
+     (1)  That the person may refuse to submit to testing in compliance with section 291E-11; and
+     (2)  Of the sanctions of this part and then asked if the person still refuses to submit to a breath, blood, or urine test, in compliance with the requirements of section 291E-15,
+the revocation imposed under subsection (b)(1), (2), (3), or (4) shall be for a period of two years, three years, four years, [and] or ten years, respectively.
+     [(e)] (d)  Whenever a license and privilege to operate a vehicle is administratively revoked under this part, the respondent shall be referred to the driver's education program for an assessment, by a certified substance abuse counselor, of the respondent's substance abuse or dependence and the need for treatment.  The counselor shall submit a report with recommendations to the director.  If the counselor's assessment establishes that the extent of the respondent's substance abuse or dependence warrants treatment, the director shall so order.  All costs for assessment and treatment shall be paid by the respondent.
+     [(f)] (e)  Alcohol and drug enforcement contacts that occurred prior to January 1, 2002, shall be counted in determining the administrative revocation period.
+     [(g)] (f)  The requirement to provide proof of financial responsibility pursuant to section 287-20 shall not be based upon a revocation under subsection (b)(1)."
+     SECTION 14.  Section 291E-42, Hawaii Revised Statutes, is amended to read as follows:
+     "§291E-42  Notice to other states.  When a nonresident's driving and boating privileges[, and motor vehicle registration if applicable,] are administratively revoked under this part, the director shall:
+     (1)  Notify, in writing, the officials in charge of traffic control, boating control, or public safety in the nonresident's home state, and in any other state in which the nonresident has driving and boating privileges[,] or licenses, [or any motor vehicles registered if applicable,] of the action taken in this State; and
+     (2)  Return to the appropriate issuing authority in the other states any license[, and any motor vehicle registration and number plates if applicable,] seized under section 291E‑33."
+     SECTION 15.  Section 291E-44.5, Hawaii Revised Statutes, is amended to read as follows:
+     "§291E-44.5  Ignition interlock permits; driving for employment.  (a)  [(1)] Except as provided in [paragraph (2),] subsection (b), upon proof that the respondent has installed an ignition interlock device in [the respondent's vehicle,] any vehicle the respondent operates, the director shall issue an ignition interlock permit that will allow the respondent to drive a vehicle equipped with an ignition interlock device during the revocation period[; or].
+     [(2)] (b)  Notwithstanding any other law to the contrary, the director shall not issue an ignition interlock permit to:
+  [(A)]   (1)  A respondent whose license is expired, suspended, or revoked as a result of action other than the instant revocation;
+  [(B)]   (2)  A respondent who does not hold a valid license at the time of arrest for the violation of section 291E-61; [or]
+     (3)  A respondent who holds a license that is a learner's permit or instruction permit; or
+  [(C)]   (4)  A respondent who holds either a category 4 license under section 286-102(b) or a commercial driver's license under section 286-239(b) unless the ignition interlock permit is restricted to a category 1, 2, or 3 license under section 286-102(b).
+     [(b)(1)] (c)  Except as provided in subsection [(a)(2),] (b) the director may issue a separate permit authorizing a respondent to operate a vehicle owned by the respondent's employer during the period of revocation without installation of an ignition interlock device if the respondent is gainfully employed in a position that requires driving and the respondent will be discharged if prohibited from driving a vehicle not equipped with an ignition interlock device.
+     [(2)] (d)  A request made pursuant to [paragraph (1)] subsection (c) shall be accompanied by:
+  [(A)]   (1)  A sworn statement from the respondent containing facts establishing that the respondent currently is employed in a position that requires driving and that the respondent will be discharged if prohibited from driving a vehicle not equipped with an ignition interlock device; and
+  [(B)]   (2)  A sworn statement from the respondent's employer establishing that the employer will, in fact, discharge the respondent if the respondent is prohibited from driving a vehicle not equipped with an ignition interlock device and identifying the specific vehicle and hours of the day the respondent will drive, not to exceed twelve hours per day, for purposes of employment.
+     [(c)] (e)  A permit issued pursuant to subsection [(b)] (c) shall include restrictions allowing the respondent to drive:
+     (1)  Only during specified hours of employment, not to exceed twelve hours per day, and only for activities solely within the scope of the employment;
+     (2)  Only the vehicle specified; and
+     (3)  Only if the permit is kept in the respondent's possession while operating the employer's vehicle.
+In addition, the director may impose other appropriate restrictions."
+     SECTION 16.  Section 291E-45, Hawaii Revised Statutes, is amended to read as follows:
+     "§291E-45  Eligibility for relicensing [and reregistration of motor vehicle].  [(a)] To be eligible for relicensing or renewing the privilege to operate a vessel after a period of administrative revocation has expired, the person shall:
+     (1)  [Submit proof to the director of compliance] Comply with all conditions imposed by the director;
+    [(2)  Obtain a certified statement from the director indicating eligibility for relicensing and for renewing the privilege to operate a vessel;
+     (3)  Present the certified statement to the appropriate licensing official or to the department of land and natural resources, as applicable;] and
+    [(4)  Successfully complete] (2)  Complete each requirement, including payment of all applicable fees, for:
+         (A)  Obtaining a new license in this State, pursuant to chapter 286; or
+         (B)  Renewing the privilege to operate a vessel, as may be provided in chapter 200 or rules adopted by the department of land and natural resources pursuant to section 200‑24.
+     [(b)  To be eligible for reregistration of a motor vehicle, if applicable, after a period of administrative revocation has expired, the person shall:
+     (1)  Submit proof to the director of compliance with all conditions imposed by the director;
+     (2)  Obtain a certified statement from the director indicating eligibility for registration of a motor vehicle;
+     (3)  Present the certified statement to the director of the appropriate county agency; and
+     (4)  Successfully complete each requirement, as provided in chapter 286, for obtaining a new certificate of registration for a motor vehicle in this State, including payment of all applicable fees.]"
+     SECTION 17.  Section 291E-46, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§291E-46[]]  Computation of time.  The time in which any act provided in this part is to be done is computed by excluding the first day and including the last, unless the last day is a Saturday, Sunday, or state holiday, and then it also is excluded[.]; provided that if the last day for the mailing of decisions under sections 291E-37(a) and 291E-38(i) is a federal holiday, it also is excluded."
+     SECTION 18.  Section 291E-61, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  Notwithstanding any other law to the contrary, the court shall not issue an ignition interlock permit to:
+     (1)  A defendant whose license is expired, suspended, or revoked as a result of action other than the instant offense;
+     (2)  A defendant who does not hold a valid license at the time of the instant offense; [or]
+     (3)  A defendant who holds either a category 4 license under section 286-102(b) or a commercial driver's license under section 286-239(b), unless the ignition interlock permit is restricted to a category 1, 2, or 3 license under section 286-102(b)[.]; or
+     (4)  A defendant who holds a license that is a learner's permit or instruction permit."
+     SECTION 19.  Section 291E-68, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§291E-68[]]  Refusal to submit to a breath, blood, or urine test; penalty.  [Refusal] Except as provided in section 291E-65, refusal to submit to a breath, blood, or urine test as required by part II is a petty misdemeanor."
+     SECTION 20.  Section 249-9.4, Hawaii Revised Statutes, is repealed.
+     ["§249-9.4  Special series number plates.  A qualified household member, as defined in section 291E-1, or a co-owner of a motor vehicle owned by a respondent under part III of chapter 291E, who has been granted a special motor vehicle registration under section 291E-48, shall apply to the appropriate county director of finance for special number plates that shall bear a special series of numbers or letter so as to be readily identifiable by law enforcement officers and readily distinguishable from number plates or special number plates issued under sections 249-9.1, 249-9.2, and 249-9.3.  The director of finance may issue the special series number plates only if:
+     (1)  The director of finance receives written approval for the issuance of special series number plates from the administrative director of the courts, or the administrative director's appointee pursuant to section 291E-1;
+     (2)  The qualified household member or a co-owner of the motor vehicle has a license that has not expired or been suspended or revoked; and
+     (3)  The applicant pays a fee for the special series number plates that is equal to the costs of the plates and tag or emblem, plus the administrative costs of furnishing the plates and tag or emblem and effecting the registration for each motor vehicle for which special series number plates are issued."]
+     SECTION 21.  Section 291E-47, Hawaii Revised Statutes, is repealed.
+     ["[§291E-47]  Failure to surrender number plates.  Any person who has had the person's motor vehicle registration revoked pursuant to this part and subsequently fails to comply with an order to surrender all motor vehicle number plates issued to the person, pursuant to chapter 249, shall be guilty of a misdemeanor."]
+     SECTION 22.  Section 291E-48, Hawaii Revised Statutes, is repealed.
+     ["§291E-48  Special motor vehicle registration.  (a)  Anytime after the effective date of revocation or after the administrative hearing decision is mailed pursuant to section 291E-38(j), a qualified household member or co-owner of a motor vehicle with a respondent who has had a motor vehicle registration revoked under this part may submit a sworn statement to the director requesting a special motor vehicle registration.  The director may grant the request upon determining that the following conditions have been met:
+     (1)  The applicant is a household member of the respondent's or a co-owner of the vehicle;
+     (2)  The applicant has a license that has not expired or been suspended or revoked;
+     (3)  The applicant is completely dependent on the motor vehicle for the necessities of life;
+     (4)  The director finds that the applicant will take reasonable precautions to ensure that the respondent will not drive the vehicle; and
+     (5)  The respondent does not have a valid ignition interlock permit.
+A person to whom a special motor vehicle registration has been granted shall apply to the director of the appropriate county agency for special series number plates, as provided in section 249-9.4.
+     (b)  The director shall revoke the special motor vehicle registration if any one of the conditions set forth in the application no longer exist.
+     (c)  The applicant shall be under an affirmative duty to report to the director any changes in the conditions to the special motor vehicle registration.
+     (d)  The director shall adopt rules, pursuant to chapter 91, necessary to carry out the purposes of this section."]
+     SECTION 23.  Section 291E-49, Hawaii Revised Statutes, is repealed.
+     ["[§291E-49]  Transferring title to, or ownership interest in, vehicle prohibited; exceptions.  (a)  A registered owner shall not sell or transfer title to, or ownership interest in, a motor vehicle during the time period the motor vehicle's registration has been ordered revoked and number plates surrendered or during the time the motor vehicle bears the special series number plates pursuant to section 249‑9.4, unless the registered owner applies to the administrative director of the courts, or the administrative director's appointee pursuant to section 291E‑1, for consent to transfer title to the motor vehicle.  If the director is satisfied that:
+     (1)  The proposed sale is in good faith and for valid consideration;
+     (2)  The registered owner will be deprived of the custody and control of the motor vehicle; and
+     (3)  The sale is not for the purpose of circumventing this part,
+the director may consent to the sale or transfer.  If the director consents, the director shall issue a certified copy of the written consent to the registered owner and forward a copy to the appropriate county director of finance.
+     (b)  The county director of finance, upon proper application and the presentation to the director of finance of a certified copy of the director's written consent to the sale or transfer of a motor vehicle, shall transfer the certificate of title and ownership to the new owner pursuant to chapter 286 and shall issue new number plates to the new registered owner pursuant to chapter 249.
+     (c)  Notwithstanding subsections (a) and (b), if the title to the motor vehicle is transferred by foreclosure of a chattel mortgage, cancellation of a conditional sales contract, a sale upon execution, or decree or order of a court of competent jurisdiction, after the motor vehicle registration has been revoked under this part, the county director of finance shall transfer the certificate of title and ownership to the new owner pursuant to chapter 286 and shall issue new number plates to the new registered owner pursuant to chapter 249."]
+     SECTION 24.  Act 171, Session Laws of Hawaii 2008, section 12(g), as amended by Act 88, Session Laws of Hawaii 2009, section 12, is amended to read as follows:
+     "(g)  The Hawaii ignition interlock implementation task force shall cease to exist after June 30, [2011.] 2012."
+     SECTION 25.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 26.  If any provision of this Act, or the application thereof to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of the Act, which can be given effect without the invalid provision or application, and to this end the provisions of this Act are severable.
+     SECTION 27.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 28.  This Act shall take effect on July 1, 2011; provided that section 24 shall take effect on June 29, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Report Title:
+Ignition Interlock; Repeat Intoxicated Drivers
+ 
+Description:
+Clarifies recommendations of the ignition interlock implementation task force.  Allows repeat intoxicated drivers to install ignition interlock devices in any vehicle they operate by eliminating the requirement to surrender motor vehicle registrations and license plates.  Makes housekeeping amendments to chapter 291E.  Extends the expiration date of the ignition interlock implementation task force to 6/30/12.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

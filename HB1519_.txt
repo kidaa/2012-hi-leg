@@ -1,0 +1,55 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1519
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO ENERGY.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+SECTION 1.  The legislature finds that Hawaii's wide-scale transition to clean energy will require a broad spectrum of resources, programs, and innovations, some of which will be provided by non public utility providers.  In order to provide fair markets for new entrants and access to existing electrical utility systems, it will be necessary to make changes to electric public utility rate structures and funding mechanisms.
+The legislature notes that the provision of reliable electrical service requires several types of component services to maintain system stability, voltage regulation, and frequency control.  These ancillary services include provision of adequate spinning reserves, operating reserves, capacity margins, voltage support, and other necessary component services.  Ancillary services are currently provided by public utility companies using primarily fossil fuel resources.  Existing regulatory practices bundle theses services without differentiation and without providing a market or tariffs for non-utility providers who wish to generate and provide electricity.  The legislature finds that Hawaii's electricity delivery systems could be modernized by unbundling ancillary services from energy generation, transmission, and distribution services and requiring ancillary services to be delivered by innovative, non-fossil fuel.
+Existing laws give the utility little economic incentive to pursue clean energy projects.  Long-term utility profits are tied mostly to capital investments that an electrical utility makes, encouraging utilities to purchase expensive new generation plants or undertake major upgrades to existing ones.  Because third-party renewable energy projects displace the need for utility investments, and energy efficiency reduces electricity use, a utility would not profit directly from many clean energy initiatives.  Further, adding substantial amounts of renewable energy and energy efficiency will reduce the need for existing fossil generation facilities, leaving the utility with stranded investments on their books.  The legislature believes that these institutional barriers impede Hawaii's clean energy future.
+The legislature further finds that the public utilities commission should be authorized to implement a performance incentive mechanism to reward electric utilities for achieving clean energy goals.  This will provide investors with reasons to invest in a utility and help fund Hawaii's clean energy transition.  The legislature also finds that the public utilities commission should be given guidance to adopt a policy that allows a utility to recover the value of its diminished assets, preventing these facilities from becoming anchors that restrain clean energy progress.
+     SECTION 2.  Chapter 269, Hawaii Revised Statutes, is amended by adding three new sections to be appropriately designated and to read as follows:
+     "§269‑A  Unbundling electricity supply and delivery tariffs.  (a)  The commission shall direct electric public utilities to file unbundled tariffs that identify, classify, and functionalize the costs of the individual component services and ancillary services necessary to provide reliable electrical service.  Costs and tariffs shall be supported by appropriate cost-of-service studies that reflect the full and actual costs of ancillary services.  The unbundled tariffs shall be suitable to support the implementation of any wheeling tariff considered by the commission and shall be consistent with any wheeling tariffs adopted by the commission.
+(b)  The commission shall require electric public utilities to purchase ancillary services derived from sources other than fossil fuel, including but not limited to energy storage and demand response measures, if feasible and reasonably economical.  The commission shall establish technical and operational requirements for the provision of ancillary services consistent with applicable reliability standards.
+§269-B  Stranded costs.  (a)  The public utilities commission shall consider measures to allow electric public utilities to recover stranded costs due to increased clean energy use; provided that the measures:
+     (1)  Shall not result in the inequitable reallocation of cost between and among electric public utility customer classes; and
+     (2)  May include a stranded cost recovery surcharge in conjunction with the transmission and distribution charge in the large customer direct renewable energy procurement program.
+(b)  For purposes of this section, "stranded costs" means fixed costs associated with undepreciated electricity generation, transmission, and distribution facilities and equipment that are replaced by clean energy, exclusive of mitigation measures that may reasonably be undertaken by an electric public utility, including the reduction or elimination of fuel, operation, and maintenance costs.
+§269-C  Utility incentive mechanism.  The public utilities commission shall consider regulatory incentives to encourage clean energy use."
+     SECTION 3.  No later than January 1, 2012, the public utilities commission shall initiate an investigation into the development and implementation of financial incentive mechanisms that may result in an increased authorized rate of return for electric public utilities based upon implementation and utilization of clean energy in quantities that significantly exceed the quantities prescribed by state energy objectives.
+     The public utilities commission shall report its findings and recommendations, including any proposed legislation, to the legislature no later than twenty days prior to the convening of the regular session of 2013.
+     SECTION 4.  In codifying the new sections added by section 2 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 5.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Public Utilities Commission; Electric Utilities; Ancillary Services; Cost Recovery; Performance Incentives
+ 
+Description:
+Directs the PUC to unbundle electric utility grid ancillary services, consider cost recovery for electric utility stranded assets, and consider electric public utility performance incentive mechanisms for achieving clean energy goals.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

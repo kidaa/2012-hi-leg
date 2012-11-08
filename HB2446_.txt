@@ -1,0 +1,50 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2446
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE PROBATE CODE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that, under existing law, the state agencies do not receive actual notice of probate cases.  As a result, the State in many cases misses the filing deadline for submitting a creditor's claim to the personal representative of a decedent's estate.  In addition, not knowing about the commencement of a probate case has deprived state agencies of the opportunity to file a claim in the probate of the decedent's estate, resulting in the loss of potential revenues to the State.
+     The purpose of this Act is to clarify that the statute of limitations in probate proceedings applies to a state agency claim against a decedent's estate only if the agency receives actual notice of the commencement of the decedent's probate case.
+     SECTION 2.  Section 560:3-801, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  Unless notice has already been given under this section, a person applying or petitioning for appointment of a personal representative or probate of a will or declaration of an intestacy may publish a notice to creditors once a week for three successive weeks in a newspaper of general circulation in the judicial circuit in which the application or petition is filed announcing the person's application or petition and the name and address of the person nominated as personal representative, if any, and notifying creditors of the estate to present their claims no later than four months after the date of the first publication of the notice or be forever barred.  The notice may be combined with any published notice of the pendency of the probate proceedings.  If a creditor is a state agency, actual written notice must be given to the state agency."
+     SECTION 3.  Section 560:3-803, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  All claims against either a decedent or a decedent's estate which arose before the death of the decedent, including claims of the State and any subdivision thereof, if the state agency has received actual written notice, whether due or to become due, absolute or contingent, liquidated or unliquidated, founded on contract, tort, or other legal basis, if not barred earlier by another statute of limitations or non-claim statute, are barred against the estate, the personal representative, the decedent's trustee and the heirs and devisees of the decedent, unless presented within the earlier of the following:
+     (1)  No later than:
+         (A)  Four months after the date of the first publication of notice to creditors if notice is given in compliance with section 560:3-801(a)[;] or after the date of receipt of actual written notice if the creditor is a state agency; or
+         (B)  Sixty days after the mailing or other delivery of written notice, as provided in section 560:3-801(b); whichever period (A) or (B) expires later; or
+     (2)  Within eighteen months after the decedent's death, if notice to creditors has not been published as provided in section 560:3-801(a) or delivered as provided in section 560:3-801(b)."
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________BY REQUEST
+ 
+ 
+ 
+
+ 
+Report Title:
+Probate Code; State Agency Claims Against Estates
+ 
+Description:
+Prevents the statute of limitations from precluding a state agency's claim against a decedent's estate unless the agency receives actual notice of the commencement of the decedent's probate case.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

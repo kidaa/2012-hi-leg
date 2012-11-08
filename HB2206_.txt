@@ -1,0 +1,75 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2206
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO COMPUTER FRAUD.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 708-891, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§708-891[]]  Computer fraud in the first degree.  (1)  A person commits the offense of computer fraud in the first degree if the person knowingly, and with intent to defraud, accesses a computer [without authorization and, by means of such conduct, obtains or exerts control over the property of another.], computer system, or computer network with the intent to:
+   (a) Facilitate the commission of a murder in any degree, a class A felony, kidnapping, unlawful imprisonment in any degree, extortion in any degree, any offense under chapter 134, criminal property damage in the first or second degree, escape in any degree, any offense under part VI of chapter 710, any offense under section 711-1103, or any offense under chapter 842; or
+   (b) Commit the offense of theft in the first degree.
+     [(2)  In a prosecution for computer fraud in the first degree, it is a defense that the object of the fraud and the property obtained consists only of the use of the computer and the value of such use is not more than $300 in any one-year period.]
+     [(3)] (2)  Computer fraud in the first degree is a class [B] A felony."
+     SECTION 2.  Section 708-891.5, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§708-891.5[]]  Computer fraud in the second degree.  (1)  A person commits the offense of computer fraud in the second degree if the person knowingly, and with the intent to defraud[,]:
+     (a) Accesses a computer, computer system, or computer network with the intent to commit the offense of theft in the second degree; or
+     (b) T[t]ransfers, or otherwise disposes of, to another, or obtains control of, with the intent to transfer or dispose of, any password or similar information through which a computer, computer system, or computer network may be accessed.
+     (2) Computer fraud in the second degree is a class [C] B felony."
+     SECTION 3.  Chapter 708, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§708-     Computer fraud in the third degree.  (1) A person commits the offense of computer fraud in the third degree if the person knowingly, and with the intent to defraud, accesses a computer, computer system, or computer network with the intent to commit the offense of theft in the third or fourth degree.
+     (2) Computer fraud in the third degree is a class C felony."
+     SECTION 4.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+
+ 
+Report Title:
+Computer Fraud; Penalties
+ 
+Description:
+Amends sections 708-891 and 708-891.5 to include computer fraud that occurs when accessing a computer system or computer network; increases the penalties for computer fraud in the first and second degrees to class A and B felonies, respectively; creates new offense of computer fraud in the third degree.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

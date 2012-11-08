@@ -1,0 +1,92 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+815
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PUBLIC EMPLOYEES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The purpose of this Act is to address issues relating to employer contributions to the employer-union health benefits trust fund.  More specifically, this Act:
+     (1)  Makes employer contributions to the employer-union health benefit trust fund non-negotiable;
+     (2)  Establishes the percentage of the health benefits plan cost that employers shall contribute to the employer-union health benefits trust fund for active employees; and
+     (3)  Limits the trust fund to offering a medical benefits plan that provides not more than the minimum health care benefits required under the Hawaii prepaid health care act.  The trust fund also is required to offer a prescription drug supplemental plan, dental plan, and vision plan.
+     This Act takes effect on July 1, 2011, and is repealed on June 30, 2015.
+     This Act expressly does not affect contracts that were entered into before the effective date.  The legislature intends that this provision apply to a collective bargaining contract, the cost items of which are approved before the effective date.
+     SECTION 2.  87A-1, Hawaii Revised Statutes, is amended by adding two new definitions to be appropriately inserted and to read as follows:
+     ""Active employee" means an "employee", as defined in this section, but excluding a retired member of the employees' retirement system, county pension system, or police, firefighters, or bandsmen pension system of the State or county.
+     "Medical benefits plan" means a group insurance contract or service agreement offered by a carrier providing medical, hospital, surgical, or other health care benefits or a similar schedule of benefits that are provided through the fund on a self-insured basis.  The term does not include a health benefits plan that provides only prescription drug, vision, or dental benefits."
+     SECTION 3.  Section 87A-16, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§87A-16[]]  Health benefits plan; carriers.  (a)  The board shall establish the health benefits plan or plans, which shall conform with subsection (c), but be exempt from the minimum group requirements of chapter 431.
+     (b)  The board may contract for health benefits plans or provide health benefits through a noninsured schedule of benefits.
+     (c)  From July 1, 20ll, until June 30, 2015, the board shall offer to active employees and their dependent-beneficiaries only the following health benefits plans:
+     (1)  A medical benefits plan providing not more than the minimum health care benefits required under section 393-7;
+     (2)  A prescription drug plan supplementing the prescription drug coverage under the medical benefits plan of paragraph (1);
+     (3)  A dental plan; and
+     (4)  A vision plan.
+     This subsection shall not apply to retired employees or their dependent-beneficiaries.  The health benefits plan of retired employees and their dependent-beneficiaries shall be subject to other applicable provisions of this chapter."
+     SECTION 4.  Section 87A-32, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  The State, through the department of budget and finance, and the counties, through their respective departments of finance, shall pay to the fund a monthly contribution equal to [the amount established under chapter 89C or specified in the applicable public sector collective bargaining agreements, whichever is appropriate,] fifty per cent of the cost of the health benefits plan for each of their respective employee-beneficiaries and employee-beneficiaries with dependent-beneficiaries[, which shall be used toward the payment of costs of a health benefits plan]; provided that:
+    [(1)  The monthly contribution shall be a specified dollar amount;
+     (2)  The monthly contribution shall not exceed the actual cost of a health benefits plan;
+     (3)] (1)  If both husband and wife are employee-beneficiaries, the total contribution by the State or the county shall not exceed fifty per cent of the monthly contribution for a family plan; and
+    [(4)] (2)  If the State or any of the counties establish cafeteria plans in accordance with Title 26, United States Code section 125, the Internal Revenue Code of 1986, as amended, and part II of chapter 78, the monthly contribution for those employee-beneficiaries who participate in a cafeteria plan shall be made through the cafeteria plan, and the payments made by the State or counties shall include their respective contributions to the fund and their employee-beneficiary's share of the cost of the employee-beneficiary's health benefits plan."
+     SECTION 5.  Section 89-2, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending the definition of "collective bargaining" to read:
+     ""Collective bargaining" means the performance of the mutual obligations of the public employer and an exclusive representative to meet at reasonable times, to confer and negotiate in good faith, and to execute a written agreement with respect to wages, hours, [amounts of contributions by the State and counties to the Hawaii public employees health fund,] and other terms and conditions of employment, except that by any such obligation neither party shall be compelled to agree to a proposal, or be required to make a concession.  For the purposes of this definition, "wages" includes the number of incremental and longevity steps, the number of pay ranges, and the movement between steps within the pay range and between the pay ranges on a pay schedule under a collective bargaining agreement."
+     2.  By amending the definition of "employee organization" to read:
+     ""Employee organization" means any organization of any kind in which public employees participate and which exists for the primary purpose of dealing with public employers concerning grievances, labor disputes, wages, hours, [amounts of contributions by the State and counties to the Hawaii public employees health fund,] and other terms and conditions of employment of public employees."
+     SECTION 6.  Section 89-9, Hawaii Revised Statutes, is amended to read as follows:
+     "§89-9  Scope of negotiations; consultation.  (a)  The employer and the exclusive representative shall meet at reasonable times, including meetings sufficiently in advance of the February 1 impasse date under section 89-11, and shall negotiate in good faith with respect to wages, hours, [the amounts of contributions by the State and respective counties to the Hawaii employer-union health benefits trust fund to the extent allowed in subsection (e),] and other terms and conditions of employment which are subject to collective bargaining and which are to be embodied in a written agreement as specified in section 89-10, but [such] the obligation does not compel either party to agree to a proposal or make a concession[; provided that the parties may not negotiate with respect to cost items as defined by section 89-2 for the biennium 1999 to 2001, and the cost items of employees in bargaining units under section 89-6 in effect on June 30, 1999, shall remain in effect until July 1, 2001].
+     (b)  The employer or the exclusive representative desiring to initiate negotiations shall notify the other party in writing, setting forth the time and place of the meeting desired and the nature of the business to be discussed, sufficiently in advance of the meeting.
+     (c)  Except as otherwise provided in this chapter, all matters affecting employee relations, including those that are, or may be, the subject of a rule adopted by the employer or any director, shall be subject to consultation with the exclusive representatives of the employees concerned.  The employer shall make every reasonable effort to consult with exclusive representatives and consider their input, along with the input of other affected parties, prior to effecting changes in any major policy affecting employee relations.
+     (d)  Excluded from the subjects of negotiations are matters of classification, reclassification, benefits of [but not] and contributions to the Hawaii employer-union health benefits trust fund, recruitment, examination, initial pricing, and retirement benefits except as provided in section 88-8(h).  The employer and the exclusive representative shall not agree to any proposal which would be inconsistent with the merit principle or the principle of equal pay for equal work pursuant to section 76-1 or [which] that would interfere with the rights and obligations of a public employer to:
+     (1)  Direct employees;
+     (2)  Determine qualifications, standards for work, and the nature and contents of examinations;
+     (3)  Hire, promote, transfer, assign, and retain employees in positions;
+     (4)  Suspend, demote, discharge, or take other disciplinary action against employees for proper cause;
+     (5)  Relieve an employee from duties because of lack of work or other legitimate reason;
+     (6)  Maintain efficiency and productivity, including maximizing the use of advanced technology, in government operations;
+     (7)  Determine methods, means, and personnel by which the employer's operations are to be conducted; and
+     (8)  Take such actions as may be necessary to carry out the missions of the employer in cases of emergencies.
+     This subsection shall not be used to invalidate provisions of collective bargaining agreements in effect on and after June 30, 2007, and shall not preclude negotiations over the procedures and criteria on promotions, transfers, assignments, demotions, layoffs, suspensions, terminations, discharges, or other disciplinary actions as a permissive subject of bargaining during collective bargaining negotiations or negotiations over a memorandum of agreement, memorandum of understanding, or other supplemental agreement.
+     Violations of the procedures and criteria so negotiated may be subject to the grievance procedure in the collective bargaining agreement.
+     [(e)  Negotiations relating to contributions to the Hawaii employer-union health benefits trust fund shall be for the purpose of agreeing upon the amounts which the State and counties shall contribute under section 87-4, toward the payment of the costs for a health benefits plan, as defined in section 87-1(8), and group life insurance benefits, and the parties shall not be bound by the amounts contributed under prior agreements; provided that section 89-11 for the resolution of disputes by way of arbitration shall not be available to resolve impasses or disputes relating to the amounts the State and counties shall contribute to the Hawaii employer-union health benefits trust fund.
+     (f)] (e)  The repricing of classes within an appropriate bargaining unit may be negotiated as follows:
+     (1)  At the request of the exclusive representative and at times allowed under the collective bargaining agreement, the employer shall negotiate the repricing of classes within the bargaining unit.  The negotiated repricing actions that constitute cost items shall be subject to the requirements in section 89-10; and
+     (2)  If repricing has not been negotiated under paragraph (1), the employer of each jurisdiction shall ensure establishment of procedures to periodically review, at least once in five years, unless otherwise agreed to by the parties, the repricing of classes within the bargaining unit.  The repricing of classes based on the results of the periodic review shall be at the discretion of the employer.  Any appropriations required to implement the repricing actions that are made at the employer's discretion shall not be construed as cost items."
+     SECTION 7.  Section 89-11, Hawaii Revised Statutes, is amended by amending subsection (g) to read as follows:
+     "(g)  The decision of the arbitration panel shall be final and binding upon the parties on all provisions submitted to the arbitration panel.  [If the parties have reached agreement with respect to the amounts of contributions by the State and counties to the Hawaii employer-union health benefits trust fund by the tenth working day after the arbitration panel issues its decision, the final and binding agreement of the parties on all provisions shall consist of the panel's decision and the amounts of contributions agreed to by the parties.  If the parties have not reached agreement with respect to the amounts of contributions by the State and counties to the Hawaii employer-union health benefits trust fund by the close of business on the tenth working day after the arbitration panel issues its decision, the parties shall have five days to submit their respective recommendations for such contributions to the legislature, if it is in session, and if the legislature is not in session, the parties shall submit their respective recommendations for such contributions to the legislature during the next session of the legislature.  In such event, the final and binding agreement of the parties on all provisions shall consist of the panel's decision and the amounts of contributions established by the legislature by enactment, after the legislature has considered the recommendations for such contributions by the parties.  It is strictly understood that no member of a bargaining unit subject to this subsection shall be allowed to participate in a strike on the issue of the amounts of contributions by the State and counties to the Hawaii employer-union health benefits trust fund.] The parties shall take whatever action is necessary to carry out and effectuate the final and binding agreement.  The parties may, at any time and by mutual agreement, amend or modify the panel's decision.
+     Agreements reached pursuant to the decision of an arbitration panel [and the amounts of contributions by the State and counties to the Hawaii employer-union health benefits trust fund, as provided herein,] shall not be subject to ratification by the employees concerned.  All items requiring any moneys for implementation shall be subject to appropriations by the appropriate legislative bodies and the employer shall submit all such items within ten days after the date on which the agreement is entered into as provided herein, to the appropriate legislative bodies."
+     SECTION 8.  This Act does not affect collective bargaining contracts, the cost items of which were approved before its effective date.
+     SECTION 9.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 10.  This Act shall take effect on July 1, 2011, and shall be repealed on June 30, 2015; provided that, on July 1, 2015, sections 87A-1, 87A-16, 87A-32, 89-2, 89-9, and 89-11, Hawaii Revised Statutes, shall be reenacted in the form in which they read on the day before the effective date of this Act.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Employer-Union Health Benefit Trust Fund; Employer Contributions
+ 
+Description:
+Makes employer contributions to the employer-union health benefits trust fund non-negotiable under collective bargaining.  Establishes employer contributions for active public employees at 50% of monthly cost of the health benefits plan.  Limits the trust fund to offering to active employees a medical benefits plan that provides not more than the minimum benefits required under the Hawaii prepaid health care act.  Requires the trust fund to offer separate prescription drug, dental, and vision plans.  Takes effect on 7/1/2011, and is repealed on 6/30/2015, but does not affect collective bargaining contracts, the cost items of which were approved before the effective date.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

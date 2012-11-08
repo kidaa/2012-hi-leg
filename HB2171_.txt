@@ -1,0 +1,105 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2171
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PHYSICIANS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that fewer physicians have been providing on-call services in hospital emergency departments in recent years due to liability issues and inadequate reimbursements.  As a result, emergency departments are experiencing increased overcrowding and longer waiting times.  Nationally, for example, seventy-three per cent of emergency departments report inadequate on-call coverage by specialist physicians.  Specialists who are particularly difficult to secure for on-call coverage include orthopedic surgeons, neurosurgeons, plastic surgeons, trauma surgeons, hand surgeons, obstetrician-gynecologists, neurologists, ophthalmologists, and dermatologists.
+     The purpose of this Act is to establish a tax credit to create a financial incentive for physicians who provide on-call services to emergency departments.
+     SECTION 2.  Chapter 235, Hawaii Revised Statutes, is amended by adding a new section to part III to be appropriately designated and to read as follows:
+     "§235-     Emergency room physician tax credit.  (a)  There  shall be allowed to each qualified taxpayer subject to the taxes imposed by this chapter, an emergency room physician tax credit  that shall be applied to the qualified taxpayer's net income tax liability, if any, imposed by this chapter for the taxable year  in which the credit is properly claimed.
+     (b)  As used in this section, "qualified taxpayer" means a physician licensed under chapter 453 who:
+     (1)  Provides medical care in a state-approved hospital emergency room on an on-call basis;
+     (2)  Has worked a minimum of five hundred and seventy-six on-call hours in the taxable year for which the tax credit is claimed; and
+     (3)  Does not owe the State delinquent taxes, penalties, or interest.
+     (c)  The tax credit shall be in an amount equal to five per cent of the total amount of medical malpractice insurance premiums paid by the qualified taxpayer for the taxable year in which the credit is claimed.
+     (d)  If the tax credit claimed by the qualified taxpayer  under this section exceeds the qualified taxpayer's income tax  liability, the excess of credit over liability shall be refunded to the qualified taxpayer; provided that the tax credit properly claimed by a qualified taxpayer who has no income tax liability shall be paid to the qualified taxpayer; and provided further that no refunds or payments on account of the tax credit allowed by this section shall be made for amounts less than $1.
+     (e)  The director of taxation shall prepare forms that may be necessary to claim a credit under this section.  The director may also require the taxpayer to furnish information to ascertain the validity of the claim for credit made under this section and may adopt rules necessary to effectuate the purposes of this section pursuant to chapter 91.
+     (f)  All claims for tax credits under this section, including any amended claims, shall be filed on or before the end of the twelfth month following the close of the taxable year for which the credits may be claimed.  Failure to comply with the foregoing provision shall constitute a waiver of the right to claim the credit."
+     SECTION 3.  New statutory material is underscored.
+     SECTION 4.  This Act shall apply to taxable years beginning after December 31, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Tax Credit; Emergency On-Call Physicians
+ 
+Description:
+Establishes a tax credit for physicians who provide on-call services to hospital emergency rooms.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+g, li.ExtraSig, div.ExtraSig {mso-style-name:"Extra Sig"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:243.0pt; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.ResolutionBody, li.ResolutionBody, div.ResolutionBody {mso-style-name:"Resolution Body"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} span.BillSectionNumber {mso-style-name:"Bill Section Number"; font-family:Courier;} p.XNotesHeading, li.XNotesHeading, div.XNotesHeading {mso-style-name:XNotesHeading; margin:0in; margin-bottom:.0001pt; text-align:center; font-size:12.0pt; font-family:"Courier New"; font-weight:bold;} p.XNotes, li.XNotes, div.XNotes {mso-style-name:XNotes; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Amend, li.Amend, div.Amend {mso-style-name:Amend; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.PCa, li.PCa, div.PCa {mso-style-name:"PC\(a\)"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Misc, li.Misc, div.Misc {mso-style-name:"Misc\."; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Style1, li.Style1, div.Style1 {mso-style-name:"Style 1"; margin:0in; margin-bottom:.0001pt; text-autospace:none; font-size:10.0pt; font-family:"Times New Roman","serif";} p.Ramseyer, li.Ramseyer, div.Ramseyer {mso-style-name:Ramseyer; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Effective, li.Effective, div.Effective {mso-style-name:Effective; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.CharacterStyle2 {mso-style-name:"Character Style 2"; font-family:"Courier New"; text-decoration:underline;} span.CharacterStyle1 {mso-style-name:"Character Style 1"; font-family:"Courier New";} span.BalloonTextChar {mso-style-name:"Balloon Text Char"; mso-style-link:"Balloon Text"; font-family:"Tahoma","sans-serif";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2171
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PHYSICIANS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that fewer physicians have been providing on-call services in hospital emergency departments in recent years due to liability issues and inadequate reimbursements.  As a result, emergency departments are experiencing increased overcrowding and longer waiting times.  Nationally, for example, seventy-three per cent of emergency departments report inadequate on-call coverage by specialist physicians.  Specialists who are particularly difficult to secure for on-call coverage include orthopedic surgeons, neurosurgeons, plastic surgeons, trauma surgeons, hand surgeons, obstetrician-gynecologists, neurologists, ophthalmologists, and dermatologists.
+     The purpose of this Act is to establish a tax credit to create a financial incentive for physicians who provide on-call services to emergency departments.
+     SECTION 2.  Chapter 235, Hawaii Revised Statutes, is amended by adding a new section to part III to be appropriately designated and to read as follows:
+     "§235-     Emergency room physician tax credit.  (a)  There  shall be allowed to each qualified taxpayer subject to the taxes imposed by this chapter, an emergency room physician tax credit  that shall be applied to the qualified taxpayer's net income tax liability, if any, imposed by this chapter for the taxable year  in which the credit is properly claimed.
+     (b)  As used in this section, "qualified taxpayer" means a physician licensed under chapter 453 who:
+     (1)  Provides medical care in a state-approved hospital emergency room on an on-call basis;
+     (2)  Has worked a minimum of five hundred and seventy-six on-call hours in the taxable year for which the tax credit is claimed; and
+     (3)  Does not owe the State delinquent taxes, penalties, or interest.
+     (c)  The tax credit shall be in an amount equal to five per cent of the total amount of medical malpractice insurance premiums paid by the qualified taxpayer for the taxable year in which the credit is claimed.
+     (d)  If the tax credit claimed by the qualified taxpayer  under this section exceeds the qualified taxpayer's income tax  liability, the excess of credit over liability shall be refunded to the qualified taxpayer; provided that the tax credit properly claimed by a qualified taxpayer who has no income tax liability shall be paid to the qualified taxpayer; and provided further that no refunds or payments on account of the tax credit allowed by this section shall be made for amounts less than $1.
+     (e)  The director of taxation shall prepare forms that may be necessary to claim a credit under this section.  The director may also require the taxpayer to furnish information to ascertain the validity of the claim for credit made under this section and may adopt rules necessary to effectuate the purposes of this section pursuant to chapter 91.
+     (f)  All claims for tax credits under this section, including any amended claims, shall be filed on or before the end of the twelfth month following the close of the taxable year for which the credits may be claimed.  Failure to comply with the foregoing provision shall constitute a waiver of the right to claim the credit."
+     SECTION 3.  New statutory material is underscored.
+     SECTION 4.  This Act shall apply to taxable years beginning after December 31, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Tax Credit; Emergency On-Call Physicians
+ 
+Description:
+Establishes a tax credit for physicians who provide on-call services to hospital emergency rooms.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

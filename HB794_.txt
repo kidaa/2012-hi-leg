@@ -1,0 +1,60 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+794
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO TAXATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+PART I
+     SECTION 1.  The purpose of this Act is to:
+     (1)  Limit the amount of itemized deductions that may be claimed by a taxpayer; and
+     (2)  Remove the refunding feature of the capital goods excise tax credit.
+PART II
+     SECTION 2.  Chapter 235, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§235-     Itemized deductions; limitation.  Notwithstanding any other law to the contrary, itemized tax deductions claimed pursuant to this chapter shall not exceed:
+     (1)  $50,000 in the case of:
+         (A)  A joint return (as provided by section 235-93) of taxpayers with adjusted gross income of over $300,000; or
+         (B)  A surviving spouse (as defined in Section 2(a) of the Internal Revenue Code) with adjusted gross income of over $300,000;
+     (2)  $37,500 in the case of a head of household (as defined in Section 2(b) of the Internal Revenue Code) with adjusted gross income of over $225,000;
+     (3)  $25,000 in the case of an individual with adjusted gross income of over $150,000 who is not married and who is not a surviving spouse or head of household; or
+     (4)  $25,000 in the case of a married individual with adjusted gross income of over $150,000 filing a separate return."
+PART III
+     SECTION 3.  Section 235-110.7, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  If the capital goods excise tax credit allowed under subsection (a) exceeds the taxpayer's net income tax liability, the excess of credit over liability shall be refunded to the taxpayer; provided that for any excess credit for eligible depreciable tangible personal property placed in service after December 31, 2010, but before January 1, 2015, no refund shall be paid prior to January 1, 2015; provided further that the excess credit may be used between January 1, 2012, and December 31, 2015 as a deduction from the taxpayer's net income tax liability; and provided further that no refunds or payment on account of the tax credit allowed by this section shall be made for amounts less than $1.
+     All claims for tax credits under this section, including any amended claims, must be filed on or before the end of the twelfth month following the close of the taxable year for which the credits may be claimed.  Failure to comply with the foregoing provision shall constitute a waiver of the right to claim the credit."
+PART IV
+     SECTION 4.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect on July 1, 2011, and shall apply to taxable years beginning after December 31, 2010; provided that:
+     (1)  This Act shall apply retroactive to January 1, 2011; and
+     (2)  Part II shall be repealed on January 1, 2016.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Itemized Deductions - Limits; Capital Goods Excise Tax Credit
+ 
+Description:
+Temporarily places a cap on itemized deductions claimed on state income tax returns until 01/01/16.  Suspends the refunding feature of the capital goods excise tax credit for eligible depreciable tangible personal property placed in service after 12/31/10, but before 01/01/15.  Applies to taxable years beginning after 12/31/10.  Effective retroactive to 01/01/11.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

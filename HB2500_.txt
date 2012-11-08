@@ -1,0 +1,131 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2500
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MONEY TRANSMITTERS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 489D, Hawaii Revised Statutes, is amended by adding two new sections to be appropriately designated and to read as follows:
+     "§489D-     Registration with Nationwide Mortgage Licensing System.  The commissioner may require all money transmitters to register with the Nationwide Mortgage Licensing System.
+     §489D-     Voluntary surrender of license.  (a)  A money transmitter may voluntarily cease business and surrender its license by giving written notice to the commissioner of its intent to surrender its money transmitter license.  Prior to the surrender date of a money transmitter's license, the money transmitter shall have either completed all money transmissions or assigned each to another licensed money transmitter.
+     (b)  Notice pursuant to this subsection shall be provided at least thirty days before the surrender of the license and shall include:
+     (1)  The date of surrender;
+     (2)  The name, address, telephone number, facsimile number, and electronic address of a contact individual with knowledge and authority sufficient to communicate with the commissioner regarding all matters relating to the licensee during the period that it was licensed pursuant to this chapter;
+     (3)  The reason or reasons for surrender;
+     (4)  Total dollar amount of the outstanding money transmitter's payment instruments sold in Hawaii and the individual amounts of each outstanding instrument, and the name, address, and contact phone number of the licensed money transmitter to which each outstanding instrument was assigned;
+     (5)  A list of the money transmitter's Hawaii authorized delegates, if any, as of the date of surrender; and
+     (6)  Confirmation that the money transmitter has notified each of its Hawaii authorized delegates, if any, that they may no longer conduct money transmission activities on the money transmitter's behalf.
+     Voluntary surrender of a license shall be effective upon the date of surrender specified on the written notice to the commissioner as required by this subsection, provided that the licensee has met all the requirements of voluntary surrender and has returned the original license issued."
+     SECTION 2.  Section 489D-9, Hawaii Revised Statutes, is amended to read as follows:
+     "§489D-9  [Application for license.] License and registration; application.  (a)  To fulfill the purposes of this chapter, the commissioner may establish relationships or contracts with the Nationwide Mortgage Licensing System or other entities designated by the Nationwide Mortgage Licensing System to collect and maintain records and process transaction fees or other fees related to licensees or other persons subject to this chapter.
+     (b)  For the purpose and the extent necessary to participate in the Nationwide Mortgage Licensing System, the commissioner may waive or modify, in whole or in part, by rule or order, any or all of the requirements of this chapter and establish new requirements as reasonably necessary to participate in the Nationwide Mortgage Licensing System.
+     (c)  The commissioner may use the Nationwide Mortgage Licensing System as an agent for:
+     (1)  Requesting information from and distributing information to the United States Department of Justice or any governmental agency; and
+     (2)  Requesting and distributing information to and from any source directed by the commissioner.
+     [(a)] (d)  An application for a license under this chapter shall be made in writing, and in a form prescribed by the Nationwide Mortgage Licensing System or by the commissioner. Each application shall contain the following:
+     (1)  For all applicants:
+         (A)  The exact name of the applicant, any fictitious or trade name used by the applicant in the conduct of its business, the applicant's principal address, and the location of the applicant's business records;
+         (B)  The history of the applicant's material litigation and criminal convictions for the five-year period prior to the date of the application;
+         (C)  A description of the business activities conducted by the applicant and a history of operations;
+         (D)  A description of the business activities in which the applicant seeks to engage within the State;
+         (E)  A list identifying the applicant's proposed authorized delegates in the State, if any, at the time of the filing of the license application;
+         (F)  A sample authorized delegate contract, if applicable;
+         (G)  A sample form of payment instrument, if applicable;
+         (H)  The locations where the applicant and its authorized delegates, if any, propose to conduct their licensed activities in the State;
+         (I)  The name and address of the clearing bank or banks on which the applicant's payment instruments will be drawn or through which payment instruments will be payable;
+         (J)  Disclosure of any pending or final suspension, revocation, or other enforcement action by any state or governmental authority for the five-year period prior to the date of the application; and
+         (K)  Any other information the commissioner may require;
+     (2)  If the applicant is a corporation, the applicant shall also provide:
+         (A)  The date of the applicant's incorporation and state of incorporation;
+         (B)  A certificate of good standing from the state in which the applicant was incorporated;
+         (C)  A description of the corporate structure of the applicant, including the identity of any parent or subsidiary company of the applicant, and the disclosure of whether any parent or subsidiary company is publicly traded on any stock exchange;
+         (D)  The name, business and residence address, and employment history, for the past five years, of the applicant's executive officers and the officers or managers who will be in charge of the applicant's activities to be licensed under this chapter;
+         (E)  The name, business and residence address, and employment history of any key shareholder of the applicant, for the period of five years before the date of the application;
+         (F)  For the five-year period prior to the date of the application, the history of material litigation involving, and criminal convictions of, every executive officer or key shareholder of the applicant;
+         (G)  A copy of the applicant's most recent audited financial statement, including balance sheets, statements of income or loss, statements of changes in shareholder equity and statement of changes in financial position, and, if available, the applicant's audited financial statements for the preceding two-year period or, if the applicant is a wholly owned subsidiary of another corporation, either the parent corporation's consolidated audited financial statements for the current year and for the preceding two-year period, or the parent corporation's Form 10-K reports filed with the United States Securities and Exchange Commission for the prior three years in lieu of the applicant's financial statements, or if the applicant is a wholly owned subsidiary of a corporation having its principal place of business outside the United States, similar documentation filed with the parent corporation's non-United States regulator;
+         (H)  Copies of all filings, if any, made by the applicant with the United States Securities and Exchange Commission, or with a similar regulator in a country other than the United States, within the year preceding the date of filing of the application; and
+         (I)  Information necessary to conduct a criminal history record check in accordance with section 846-2.7 of each of the executive officers, key shareholders, and managers who will be in charge of the applicant's activities, accompanied by the appropriate payment of the applicable fee for each record check; and
+     (3)  If the applicant is not a corporation, the applicant shall also provide:
+         (A)  The name, business and residence address, personal financial statement, and employment history, for the past five years, of each principal of the applicant;
+         (B)  The name, business and residence address, and employment history, for the past five years, of any other persons who will be in charge of the applicant's activities to be licensed under this chapter;
+         (C)  The place and date of the applicant's registration or qualification to do business in this State;
+         (D)  The history of material litigation and criminal convictions for the five-year period before the date of the application for each individual having any ownership interest in the applicant and each individual who exercises supervisory responsibility over the applicant's activities;
+         (E)  Copies of the applicant's audited financial statements, including balance sheets, statements of income or loss, and statements of changes in financial position for the current year and, if available, for the preceding two-year period; and
+         (F)  Information necessary to conduct a criminal history record check in accordance with section 846-2.7 of each principal of the applicant, accompanied by the appropriate payment of the applicable fee for each record check.
+     [(b)] (e)  The commissioner, for good cause may:
+     (1)  Waive any requirement of this section relating to any license application; or
+     (2)  Permit an applicant to submit substituted information in its license application in lieu of the information required by this section."
+     SECTION 3.  Section 489D-9.5, Hawaii Revised Statutes, is amended to read as follows: 
+     "[[]§489D-9.5[]]  Limited exemption for financial institutions; financial institutions as authorized delegates.  (a)  Banks, bank holding companies, credit unions, building and loan associations, savings and loan associations, savings banks, financial services loan companies, and mutual banks organized under the laws of the United States or any state shall be exempt from the licensing and examination provisions of this chapter.
+     (b)  An applicant or licensee may appoint an entity described in subsection (a) as an authorized delegate.
+     (c)  When submitting an application for a license pursuant to section 489D-9, or when submitting an annual report pursuant to section 489D-12, an applicant or licensee that appoints an entity described in subsection (a) as an authorized delegate shall include that entity's name and the locations in this State where that entity will conduct its authorized delegate activities.
+     [(d)  When computing the application and license fees required to be paid pursuant to sections 489D-10 and 489D-12, an applicant or licensee that appoints an entity described in subsection (a) as an authorized delegate shall exclude all of the locations in this State where that entity will conduct its authorized delegate activities.]"
+     SECTION 4.  Section 489D-10, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows: 
+     "(a)  Each application shall be accompanied by:
+     (1)  A nonrefundable application fee in the amount of [$2,000 plus $300 for each additional location in the State,] $5,000; provided that the applicant shall be charged $60 per employee hour in excess of eighty employee hours for the review of the application and attendant investigations not to exceed an aggregate fee of [$15,000;] $25,000.  The hourly fee will be billed and shall be paid prior to preliminary approval of the license; and
+     (2)  An initial annual license fee of [$2,000 plus $300 for each additional location in the State, not to exceed an aggregate fee of $15,000.] $5,000."
+     SECTION 5.  Section 489D-12, Hawaii Revised Statutes, is amended to read as follows:
+     "§489D-12  Renewal of license and annual report.  (a)  On or before December 31 of each year, [each licensee shall pay to the commissioner an annual license fee of $2,000, plus $300 for each additional location in the State, not to exceed an aggregate fee of $15,000.] each money transmitter shall pay the following renewal fees based on the number of annualized money transmissions as follows:
+     (1)  $5,000 for money transmitters with fewer than 5,000 money transmissions;
+     (2)  $6,000 for money transmitters with 5,000 or more but fewer than 50,000 money transmissions;
+     (3)  $8,000 for money transmitters with 50,000 or more but fewer than 100,000 money transmissions;
+     (4)  $12,500 for money transmitters with 100,000 or more but fewer than 200,000 money transmissions; and
+     (5)  $15,000 for money transmitters with 200,000 or more money transmissions.
+For purposes of this subsection, "annualized money transmissions" is the number of money transmissions reported for the quarter on the report required by subsection (b)(2) multiplied by four.
+     (b)  The annual license fee shall be accompanied by a report, in a form prescribed by the commissioner, which shall include:
+     (1)  A copy of the licensee's most recent audited annual financial statement, including balance sheets, statement of income or loss, statement of changes in shareholder's equity, and statement of changes in financial position or, if a licensee is a wholly owned subsidiary of another corporation, the consolidated audited annual financial statement of the parent corporation in lieu of the licensee's audited annual financial statement;
+     (2)  For the most recent quarter for which data is available prior to the date of filing the annual report, but in no event more than one hundred twenty days prior to the renewal date, the licensee shall provide the number of [payment instruments] money transmissions sold, issued, or received for transmission by the licensee in the State, the dollar amount of those [instruments,] transmissions, and the dollar amounts of [those] payment instruments currently outstanding;
+     (3)  Any material changes to any of the information submitted by the licensee on its original application that have not previously been reported to the commissioner on any other report required to be filed under this chapter;
+     (4)  For the most recent quarter for which data is available prior to the date of filing the annual report, but in no event more than one hundred twenty days prior to the renewal date, a list of the licensee's permissible investments, including the total market value of each type of permissible investment, and the total dollar amount of all outstanding payment instruments issued or sold by the licensee in the United States;
+     (5)  A list of the locations, if any, within this State where business regulated by this chapter is being conducted by either the licensee or the licensee's authorized delegates;
+     (6)  Disclosure of any pending or final suspension, revocation, or other enforcement action by any state or governmental authority; and
+     (7)  Any other information the commissioner may require.
+     (c)  A licensee that has not filed an annual report that has been deemed complete by the commissioner or paid its annual license fee by the renewal filing deadline, and has not been granted an extension of time to do so by the commissioner, shall have its license suspended on the renewal date.  The licensee has thirty days after its license is suspended to file an annual report and pay the annual license fee, plus a late filing fee of [$100] $250 for each business day after suspension that the commissioner does not receive the annual report and the annual license fee.  The commissioner, for good cause, may grant an extension of the renewal date or reduce or suspend the [$100] $250 per day late filing fee."
+     SECTION 6.  Section 489D-12.5, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§489D-12.5[]]  Fees.  Unless otherwise provided by statute, all fees, administrative penalties, and other charges assessed under this chapter shall be deposited into the compliance resolution fund established pursuant to section 26-9(o)."
+     SECTION 7.  Section 489D-14.5, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§489D-14.5[]]  Name change.  To change its name, its fictitious name, or its trade name, a money transmitter shall file an application with the commissioner and pay a nonrefundable fee of [$250] $1,000 or such greater amount as the commissioner shall establish by rule pursuant to chapter 91.  The application shall be approved if the commissioner is satisfied that the new name complies with all applicable laws.  Any change of name shall not affect a money transmitter's rights, liabilities, or obligations existing prior to the effective date thereof, and no documents of transfer shall be necessary to preserve such rights, liabilities, or obligations; provided that the commissioner may require notice to be given to the public and other governmental agencies."
+     SECTION 8.  Section 489D-15, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  A licensee shall submit to the commissioner an application requesting approval of a proposed change of control of the licensee, accompanied by a nonrefundable application fee of [$2,000.] $2,500; provided that the applicant shall be charged $60 per employee hour expended in excess of forty employee hours for the review of the proposed change in control and attendant investigations not to exceed an aggregate fee of $10,000.  The hourly fee will be billed and shall be paid prior to approval of the change in control."
+     SECTION 9.  Section 489D-17, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  The commissioner shall charge an examination fee to each licensed money transmitter and authorized delegate examined or investigated by the commissioner or the commissioner's staff, based upon the cost per hour per examiner.  [Effective July 1, 2008, the] The hourly fee [shall be] is $60."
+     SECTION 10.  Section 489D-28, Hawaii Revised Statutes, is amended to read as follows:
+     "§489D-28  Civil penalties.  [(a)]  The commissioner may assess a fine against a person who violates this chapter or a rule adopted or an order issued under this chapter in an amount not to exceed [$500] $1,000 per day for each day the violation is outstanding, plus the State's costs and expenses for the investigation and prosecution of the matter, including reasonable attorneys' fees.
+     [(b)  All administrative fines collected under authority of this chapter shall be deposited into the compliance resolution fund established pursuant to section 26-9(o).]"
+     SECTION 11.  Section 489D-34, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§489D-34[]]  Rules.  (a)  The commissioner may adopt such rules pursuant to chapter 91 [to implement this chapter .] as the commissioner deems necessary for the administration and enforcement of this chapter.
+     (b)  Notwithstanding the fees provided in this chapter, the commissioner may raise or lower any fee by rule, and may establish new fees by rule."
+     SECTION 12.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 13.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Money Transmitters; Fees
+ 
+Description:
+Amends the fee structure for services provided by the Division of Financial Institutions for the regulation of money transmitters; amends the fine for violations of money transmitter regulations.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

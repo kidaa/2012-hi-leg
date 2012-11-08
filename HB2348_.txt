@@ -1,0 +1,51 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2348
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO REAL ESTATE APPRAISERS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that inequities exist in the valuation of Hawaii's lands under long-term ground leases, and that these inequities accrue to the detriment of Hawaii's business and economic development and harm Hawaii's working and retired taxpayers.  The legislature also finds that the basis of this problem is the concentration of industrial and commercial land ownership in large landholdings by trusts, a few individuals, and the State in a manner that limits the economic use of that property to long-term ground leases.  On Oahu, this amounts to more than fifty per cent of all zoned and developed lands.  With the vast majority of commercial and industrial zoned land being held by lessors and owner-users only, a small percentage of property is available at any one time.  When property values spike, as they did in the 1980s and the last decade, these few available properties enter into what amounts to an auction, with well-moneyed buyers bidding beyond the underlying economic value of the property.  This has resulted in ground rents that exceed the value of the space rent of the fully improved properties.  The legislature finds that this is economically unsound and unfair.
+     The legislature further finds that these inequities are fostered by the fact that most ground leases contain provisions that require resetting ground rent on a periodic basis.  Many leases also contain provisions that require dispute resolution through binding arbitration if a lessor and lessee cannot agree to a new ground rent, and allow only qualified appraisers, licensed or certified by the State, to be appointed to serve on the arbitration panels.  This results in members of the same profession gathering and selecting market data, presenting that data to arbitration panels as expert witnesses, and then deciding the matter as appointed arbitrators.  The legislature finds that Hawaii has relatively few appraisers who specialize in these matters and, consequently, those individuals or firms are the exclusive determiners of the market value of leasehold property in Hawaii.  Billions of dollars of property and hundreds of millions of dollars in lease rents are controlled by lease contracts and are not analogous to what is generally understood to be a market value, defined as an "arms length, open market transaction."
+     The legislature finds that this problem is compounded by the extensive authority to provided to arbitrators.  Hawaii's courts, in order to encourage efficient dispute resolution, protect the arbitration process through statutory restrictions on modifying or vacating arbitrators' decisions and provide arbitrators with broad powers to make legal determinations for which they have no required training, such as interpreting contract terms.  This has led to appraisers in Hawaii acting as an appraiser, lawyer, and judge while also functioning as an arbitrator, whose decisions have limited or no grounds for appeal based on errors of either judgment or fact.
+     The legislature finds that when establishing a true "market value" of property, the most important components are identifying an interested buyer and an interested seller, and determining the underlying economic value of the property itself.  In a residential property market for single family homes or condominiums, this information is widely available.  However, in valuing commercial leasehold lands, this information is closely held by the owners of the property and the appraisers who value the property.  Arbitration to determine the rent for leasehold property is expensive and time-consuming, and the process is made even more inefficient by the secretive nature of the rent reset process.  Arbitrations historically have been reported as the final determination by the panel, with no other information made available as to how the matter was determined.
+     Act 227, Session Laws of Hawaii 2011, addressed this problem by requiring appraisers acting as arbitrators to fully report the basis for an award and to comply with nationally accepted Uniform Standards of Professional Appraisal Practice standards when valuing properties and determining market value or market rent.  Since the passage of Act 227, confidentiality clauses have been incorporated into many of the agreements that govern individual arbitration panels.  Inclusion of these confidentiality clauses frustrates the legislature's intent in enacting Act 227 and works to the exclusive advantage of lessors and appraisers, particularly businesses that operate on leasehold land.  The legislature finds that all information necessary to accurately determine a market value should be available to all interested participants in the market.
+     The purpose of this Act is to:
+     (1)  Improve and protect the process by which real estate appraisers, when acting as arbitrators, determine fair market value, fair market rent, or fair and reasonable rent of leasehold property; and
+     (2)  Improve the economy and protect the interests of the people of Hawaii by correcting inequities in the way that Hawaii's long-term lease lands are valued.
+     SECTION 2.  Chapter 466K, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§466K-    Arbitration; non-confidentiality; judicial relief.  (a)  A real estate appraiser licensed under this chapter acting as an arbitrator shall ensure that the record of the arbitration award, the arbitration award itself, if separately issued, and any supplementary, dissenting, or explanatory opinions shall not be considered confidential or proprietary in nature and shall be made available in a timely manner upon reasonable request by any person, regardless of whether or not that person is a party to the arbitration.
+     (b)  In an arbitration proceeding to determine the fair market value, fair market rental, or fair and reasonable rent of real property where the arbitrator is a real estate appraiser licensed under this chapter, if the parties to the arbitration fail to reach agreement on any legal issue necessary to the determination of the fair market value, fair market rental, or fair and reasonable rent of real property that is the subject of the arbitration, that issue shall not be determined by the arbitrator but shall be submitted by the parties for judicial relief pursuant to section 658A-5."
+     SECTION 3.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Real Estate Appraisers; Arbitration
+ 
+Description:
+Requires real estate appraisers acting as arbitrators to provide information about the arbitration proceedings to any person upon request.  Requires unresolved questions of law to be submitted for judicial relief.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

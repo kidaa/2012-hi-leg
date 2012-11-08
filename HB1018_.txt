@@ -1,0 +1,80 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1018
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO RENEWABLE FUELS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that bio-derived renewable fuels such as renewable diesel, biodiesel, and renewable jet fuel, in addition to ethanol, are examples of potential fuels that could be produced in Hawaii from locally grown feedstocks.  The local production of these biofuels could contribute to Hawaii's renewable fuel objectives; reduce negative impacts on Hawaii of oil price volatility; provide a measure of energy security; provide economic diversification; and keep energy dollars circulating within Hawaii's economy.
+     The purpose of this Act is to modify the existing ethanol facility tax incentive to include other biofuels and to enable larger facilities to be eligible for the tax incentive, without changing the level of incentive or cap per facility.
+     SECTION 2.  Section 235-110.3, Hawaii Revised Statutes, is amended to read as follows:
+     "§235-110.3  [Ethanol] Biofuel facility tax credit.  (a)  Each year during the credit period, there shall be allowed to each taxpayer subject to the taxes imposed by this chapter, [an ethanol] a biofuel facility tax credit that shall be applied to the taxpayer's net income tax liability, if any, imposed by this chapter for the taxable year in which the credit is properly claimed.
+     For each [qualified ethanol] qualifying biofuel production facility, the annual dollar amount of the [ethanol] biofuel facility tax credit during the eight-year period shall be equal to thirty [per cent] cents per gallon of its nameplate capacity if the nameplate capacity is greater than five hundred thousand [but less than fifteen million] gallons.  A taxpayer may claim this credit for the first fifteen million gallons of capacity of each qualifying [ethanol] biofuel production facility; provided that:
+     (1)  The claim for this credit by any taxpayer of a qualifying [ethanol] biofuel production facility shall not exceed one hundred per cent of the total of all investments made by the taxpayer in the qualifying [ethanol] biofuel production facility prior to and during the credit period;
+     (2)  The qualifying [ethanol] biofuel production facility operated at a level of production of at least seventy-five per cent of its nameplate capacity on an annualized basis;
+     (3)  The qualifying biofuel production facility is located within the State and uses locally grown agricultural feedstock for at least seventy-five per cent of its production output;
+    [(3)] (4)  The qualifying [ethanol] biofuel production facility is in production on or before January 1, 2017; and
+    [(4)] (5)  No taxpayer that claims the credit under this section shall claim any other tax credit under this chapter for the same taxable year.
+     (b)  As used in this section:
+     "Agricultural feedstock" means bio-derived feedstock oil, fiber, or other biomass materials not previously used.  Unused byproducts of food, feed, fiber, or other products, or electricity production, may be considered agricultural feedstock.  Used cooking oils, industrial waste, or municipal wastes shall not be considered agricultural feedstock.
+     "Biofuel" means liquid or gaseous fuels as defined in section 269-91 that meet applicable fuel specifications of the American Society for Testing and Materials International or specifications for electrical generation and produced from agricultural feedstock.
+     "Credit period" means a maximum period of eight years beginning from the first taxable year in which the qualifying [ethanol] biofuel production facility begins production even if actual production is not at seventy-five per cent of nameplate capacity.
+     "Investment" means a nonrefundable capital expenditure related to the development and construction of any qualifying [ethanol] biofuel production facility, including processing equipment, waste treatment systems, pipelines, and liquid storage tanks at the facility or remote locations, including expansions or modifications.  Capital expenditures shall be those direct and certain indirect costs determined in accordance with section 263A (with respect to capitalization and inclusion in inventory costs of certain expenses) of the Internal Revenue Code, relating to uniform capitalization costs, but shall not include expenses for compensation paid to officers of the taxpayer, pension and other related costs, rent for land, the costs of repairing and maintaining the equipment or facilities, training of operating personnel, utility costs during construction, property taxes, costs relating to negotiation of commercial agreements not related to development or construction, or service costs that can be identified specifically with a service department or function or that directly benefit or are incurred by reason of a service department or function.  For the purposes of determining a capital expenditure under this section, the provisions of section 263A of the Internal Revenue Code shall apply as it read on March 1, 2004.  For purposes of this section, investment excludes land costs and includes any investment for which the taxpayer is at risk, as that term is used in section 465 (with respect to deductions limited to amount at risk) of the Internal Revenue Code [(with respect to deductions limited to amount at risk)].
+     "Nameplate capacity" means the qualifying [ethanol] biofuel production facility's production design capacity, in gallons of [motor fuel grade ethanol] biofuel per year.
+     "Net income tax liability" means net income tax liability reduced by all other credits allowed under this chapter.
+     "Qualifying [ethanol] biofuel production" means [ethanol] biofuel produced from [renewable, organic feedstocks, or waste materials, including municipal solid waste.] locally grown agricultural feedstock.  All qualifying production shall be fermented, distilled, transesterified, gasified, pyrolized, or produced by other physical, chemical, biochemical, or thermochemical conversion methods [such as reformation and catalytic conversion and dehydrated at the facility].
+     "Qualifying [ethanol] biofuel production facility" or "facility" means a facility located in Hawaii [which] that produces [motor] fuel grade [ethanol meeting the minimum specifications by the American Society of Testing and Materials standard D-4806, as amended.] biofuel.
+     (c)  In the case of a taxable year in which the cumulative claims for the credit by the taxpayer of a qualifying [ethanol] biofuel production facility [exceeds] exceed the cumulative investment made in the qualifying [ethanol] biofuel production facility by the taxpayer, only that portion that does not exceed the cumulative investment shall be claimed and allowed.
+     (d)  The department of business, economic development, and tourism shall:
+     (1)  Maintain records of the total amount of investment made by each taxpayer in a facility;
+     (2)  Verify the amount of the qualifying investment;
+     (3)  Total all qualifying and cumulative investments that the department of business, economic development, and tourism certifies; and
+     (4)  Certify the total amount of the tax credit for each taxable year and the cumulative amount of the tax credit during the credit period.
+     Upon each determination, the department of business, economic development, and tourism shall issue a certificate to the taxpayer verifying the qualifying investment amounts, the credit amount certified for each taxable year, and the cumulative amount of the tax credit during the credit period.  The taxpayer shall file the certificate with the taxpayer's tax return with the department of taxation.  Notwithstanding the department of business, economic development, and tourism's certification authority under this section, the director of taxation may audit and adjust certification to conform to the facts.
+     If in any year, the annual amount of certified credits reaches $12,000,000 in the aggregate, the department of business, economic development, and tourism shall immediately discontinue certifying credits and notify the department of taxation.  In no instance shall the total amount of certified credits exceed $12,000,000 per year.  Notwithstanding any other law to the contrary, this information shall be available for public inspection and dissemination under chapter 92F.
+     (e)  If the credit under this section exceeds the taxpayer's income tax liability, the excess of credit over liability shall be refunded to the taxpayer; provided that no refunds or payments on account of the tax credit allowed by this section shall be made for amounts less than $1.  All claims for a credit under this section [must] shall be properly filed on or before the end of the twelfth month following the close of the taxable year for which the credit may be claimed.  Failure to comply with the foregoing provision shall constitute a waiver of the right to claim the credit.
+     (f)  If a qualifying [ethanol] biofuel production facility or an interest therein is acquired by a taxpayer prior to the expiration of the credit period, the credit allowable under subsection (a) for any period after such acquisition shall be equal to the credit that would have been allowable under subsection (a) to the prior taxpayer had the taxpayer not disposed of the interest.  If an interest is disposed of during any year for which the credit is allowable under subsection (a), the credit shall be allowable between the parties on the basis of the number of days during the year the interest was held by each taxpayer.  In no case shall the credit allowed under subsection (a) be allowed after the expiration of the credit period.
+     [(g)  Once the total nameplate capacities of qualifying ethanol production facilities built within the State reaches or exceeds a level of forty million gallons per year, credits under this section shall not be allowed for new ethanol production facilities.  If a new facility's production capacity would cause the statewide ethanol production capacity to exceed forty million gallons per year, only the ethanol production capacity that does not exceed the statewide forty million gallon per year level shall be eligible for the credit.
+      (h)] (g)  Prior to construction of any new qualifying [ethanol] biofuel production facility, the taxpayer shall provide written notice of the taxpayer's intention to begin construction of a qualifying [ethanol] biofuel production facility.  The information shall be provided to the department of taxation and the department of business, economic development, and tourism on forms provided by the department of business, economic development, and tourism, and shall include information on the taxpayer, facility location, facility production capacity, anticipated production start date, and the taxpayer's contact information.  Notwithstanding any other law to the contrary, this information shall be available for public inspection and dissemination under chapter 92F.
+     [(i)] (h)  The taxpayer shall provide written notice to the director of taxation and the director of business, economic development, and tourism within thirty days following the start of production.  The notice shall include the production start date and expected [ethanol] biofuel fuel production for the next twenty-four months.  Notwithstanding any other law to the contrary, this information shall be available for public inspection and dissemination under chapter 92F.
+     [(j)] (i)  If a qualifying [ethanol] biofuel production facility fails to achieve an average annual production of at least seventy-five per cent of its nameplate capacity for two consecutive years, the stated capacity of that facility may be revised by the director of business, economic development, and tourism to reflect actual production for the purposes of determining [statewide production capacity under subsection (g) and] allowable credits for that facility under subsection (a).  Notwithstanding any other law to the contrary, this information shall be available for public inspection and dissemination under chapter 92F.
+     [(k)] (j)  Each calendar year during the credit period, the taxpayer shall provide information to the director of business, economic development, and tourism on the [number of] gallons [of ethanol] and type of biofuel produced and sold during the previous calendar year, how much was sold in Hawaii versus overseas, percentage of Hawaii-grown feedstocks and other feedstocks used for [ethanol] biofuel production, the number of employees of the facility, and the projected [number of] gallons [of ethanol] and type of biofuel production for the succeeding year.
+     [(l)] (k)  In the case of a partnership, S corporation, estate, or trust, the tax credit allowable is for every qualifying [ethanol] biofuel production facility.  The cost upon which the tax credit is computed shall be determined at the entity level.  Distribution and share of credit shall be determined pursuant to section 235-110.7(a).
+     [(m)] (l)  Following each year in which a credit under this section has been claimed, the director of business, economic development, and tourism shall [submit a written] include in its annual report to the governor and legislature [regarding the production and sale of ethanol.  The report shall include:] the following:
+     (1)  The number, location, and nameplate capacities of qualifying [ethanol] biofuel production facilities in the State;
+     (2)  The total number of gallons of [ethanol] biofuel produced and sold by those facilities during the previous year; and
+     (3)  The projected number of gallons of [ethanol production for] biofuel expected to be produced in the succeeding year.
+     [(n)] (m)  The director of taxation shall prepare forms that may be necessary to claim a credit under this section.  Notwithstanding the department of business, economic development, and tourism's certification authority under this section, the director may audit and adjust certification to conform to the facts.  The director may also require the taxpayer to furnish information to ascertain the validity of the claim for credit made under this section and may adopt rules necessary to effectuate the purposes of this section pursuant to chapter 91."
+     SECTION 3.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________BY REQUEST
+ 
+ 
+ 
+
+ 
+Report Title:
+Biofuel Facility Incentive
+ 
+Description:
+Modifies the existing tax incentive for ethanol production facilities to be available to other biofuel production facilities using locally grown agricultural feedstocks and removes the statewide production cap while retaining the per-facility incentive limit.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

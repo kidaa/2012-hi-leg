@@ -1,0 +1,63 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2677
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO TAXATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 237, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§237-    Sales of specified digital goods.  (a)  For the purposes of this section:
+     "Additional digital good" means greeting cards or finished artwork, if transmitted electronically.
+     "Digital audio work":
+     (1)  Means a work that results from the fixation of a series of musical, spoken, or other sounds that are transferred electronically;
+     (2)  Includes prerecorded or live music, prerecorded or live readings of books or other written materials, and prerecorded or live speeches, ringtones, or other sound recordings; and
+     (3)  Does not include audio greeting cards sent by electronic mail.
+     "Digital audiovisual work":
+     (1)  Means a series of related images that, when shown in succession, impart an impression of motion, along with accompanying sounds, if any, and that are transferred electronically;
+     (2)  Includes motion pictures, musical videos, news and entertainment programs, and live events; and
+     (3)  Does not include video greeting cards or video or electronic games.
+     "Digital book":
+     (1)  Means a work that is generally recognized in the ordinary and usual sense as a book and is transferred electronically;
+     (2)  Includes any literary work, other than a digital audio work or digital audiovisual work, that is expressed in words, numbers, or other verbal or numerical symbols or indicia, if the literary work is generally recognized in the ordinary and usual sense as a book, work of fiction or nonfiction, or a short story; and
+     (3)  Does not include a newspaper or other news or information product, periodical, chat room discussion, or blog.
+     "Digital code":
+     (1)  Means a code that provides the person who holds the code a right to obtain an additional digital good, a digital audiovisual work, digital audio work, or digital book and that may be obtained by any means, including tangible forms and electronic mail, regardless of whether the code is designated as song code, video code, or book code;
+     (2)  Includes codes used to access or obtain any specified digital goods, including any additional digital goods that have been previously purchased, and promotion cards or codes that are purchased by a retailer or other business entity for use by the retailer's or entity's customers; and
+     (3)  Does not include a code that represents any redeemable card, gift card, or gift certificate that entitles the holder of the card or certificate to select any specified digital goods or at the cash value indicated by the card or certificate, or digital cash that represents a monetary value that a customer may use to pay for a future purchase.
+     "Specified digital good" means a digital audio work, digital audiovisual work, digital book, additional digital good, or specified prewritten computer software; provided that the sale of, or the storage, use, or other consumption of, a digital code shall be treated in the same manner as the sale of, or the storage, use, or other consumption of, a specified digital good for which the digital code relates.
+     "Specified prewritten computer software" means prewritten computer software, including prewritten upgrades, that are transferred electronically.
+     (b)  If the sale of a specified digital good does not take place at the vendor's place of business, it shall be conclusively determined to take place at the customer's shipping address; or if there is no item shipped, then it shall be determined to take place at the customer's billing address.
+     (c)  When a person licensed under this chapter sells specified digital goods to a licensed retail merchant, jobber, or other licensed seller for purposes of resale, the person shall be taxed as a wholesaler selling tangible personal property.  All other sales of specified digital goods shall be taxed as retail sales of tangible personal property."
+     SECTION 2.  New statutory material is underscored.
+     SECTION 3.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+General Excise Tax; Specified Digital Goods
+ 
+Description:
+Requires the sale of specified digital goods to be subject to the general excise tax; defines terms included as specified digital goods.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,102 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1677
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO WORK-SHARING.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 383, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows:
+"PART   .  UNEMPLOYMENT INSURANCE WORK-SHARING PROGRAM
+     §383-A  Definitions.  As used in this part:
+     "Affected unit" means a specified plant, department, shift or other definable unit consisting of two or more eligible employees to which a work-sharing plan applies.
+     "Director" means the director of labor and industrial relations.
+     "Eligible employee" means an individual who usually works for an eligible employer who submits a work-sharing plan.
+     "Eligible employer" means a private employer:
+     (1)  Who has had contributions credited to the private employer's account;
+     (2)  To whose account benefits have been chargeable; and
+     (3)  Who is not delinquent in the payment of contributions or reimbursements or in the reporting of wages.
+     "Fringe benefits" includes, but is not limited to, health insurance, retirement benefits, paid vacation and holidays, sick leave, and similar advantages that are incidents of employment.
+     "Intermittent employment" means employment that is not continuous but may consist of intervals of weekly work and intervals of no weekly work.
+     "Seasonal employment" means employment in seasonal industries within the determined seasonal period or periods.
+     "Seasonal industry" means an industry in which it is customary to operate only during a regularly recurring period or periods of less than twenty-six weeks in a calendar year.
+     "Temporary layoff" means the layoff of workers in an affected unit for an indefinite period expected to last for at least two months but less than six months.
+     "Usual weekly hours of work" means the normal hours of work each week for an eligible employee in an affected unit when that unit is operating on a full-time basis, not to exceed forty hours a week and not including overtime.
+     "Work-sharing benefits" means benefits payable to eligible employees in an affected unit under an approved work-sharing plan.
+     "Work-sharing employer" means an eligible employer with an approved work-sharing plan in effect.
+     "Work-sharing plan" means a plan submitted to the director by an eligible employer under which there is a reduction in the number of hours worked by the eligible employees in the affected unit in lieu of temporary layoffs of some of the employees.
+     §383-B  Criteria for approval of a work-sharing plan.  An eligible employer wishing to participate in a work-sharing program under this section shall submit a signed work-sharing plan to the director for approval.  The director shall approve a work-sharing plan if the following requirements are met:
+     (1)  The work-sharing plan identifies the affected unit or units and specifies the effective date of the plan;
+     (2)  The work-sharing plan identifies the eligible employees in the affected unit or units by name, last four digits of the employee's social security number, usual weekly hours of work, proposed wage and hour reduction, and any other information that the director requires;
+     (3)  The work-sharing plan certifies that the reduction in the usual weekly hours of work is in lieu of temporary layoffs that would affect not less than ten per cent of the eligible employees in the affected unit and that would result in an equivalent reduction in work hours;
+     (4)  Under the work-sharing plan, the usual weekly hours of work for eligible employees in the affected unit are reduced by not less than ten per cent and not more than fifty per cent and the reduction in hours in each affected unit is spread equally among eligible employees in the affected unit;
+     (5)  The work-sharing plan specifies the manner in which the fringe benefits of the eligible employees will be affected;
+     (6)  If eligible employees are represented by a collective bargaining unit, the work-sharing plan shall be approved in writing by the collective bargaining unit that covers the affected eligible employees.  In the absence of a collective bargaining unit, the work-sharing plan shall contain a certification by the eligible employer that the proposed plan, or a summary of the plan, has been made available to each eligible employee in the affected unit;
+     (7)  A statement that the work-sharing plan shall not serve as a subsidy of seasonal employment during the off-season or of intermittent employment is included; and
+     (8)  The eligible employer shall agree to furnish reports relating to the proper conduct of the work-sharing plan and agrees to allow the director, the director's designee, or authorized representatives of the department access to all records necessary to verify the plan prior to approval and to monitor and evaluate application of the plan after approval.
+     §383-C  Approval or rejection of the work-sharing plan.  The director shall approve or reject a work-sharing plan in writing.  The director's decision shall be final and not subject to appeal.  The eligible employer may submit another work-sharing plan for approval, and the director shall make a determination based upon information contained in the new work-sharing plan submitted by the eligible employer.
+     §383-D  Effective date and duration of the work-sharing plan.  A work-sharing plan shall take effect on the date specified in the plan or on the first Sunday following the date on which the plan is approved by the director, whichever is later.  The work-sharing plan shall expire at the end of the twelfth full calendar month after its effective date or on the date specified in the plan if that date is earlier, unless the plan is revoked by the director.  If a plan is revoked by the director, it shall terminate on the date specified in the written order of revocation.
+     §383-E  Review; revocation of approval.  (a)  The director shall review the operation of each approved work-sharing plan at least once during the period that the plan is in effect to ensure that it complies with the work-sharing plan requirements under section 383-B.  The director may revoke approval of a work-sharing plan for good cause.
+     For the purposes of this section, "good cause" includes:
+     (1)  Failure to comply with assurances given in the work-sharing plan;
+     (2)  Unreasonable revision of productivity standards for the affected unit;
+     (3)  Conduct or occurrences tending to defeat the intent and effective operation of the plan; and
+     (4)  Violation of any criteria on which approval of the plan was based.
+     (b)  A revocation order shall be in writing, state the reason for revocation, and specify the date that the revocation shall take effect.  A revocation order shall be final and shall not be subject to appeal.
+     (c)  Action to revoke the work-sharing plan may be taken at any time by the director on the director's own motion, on the motion of any of the affected unit's eligible employees, or on the motion of a collective bargaining unit that covers the affected employees.
+     §383-F  Modification of the work-sharing plan.  (a)  An operational approved work-sharing plan may be modified by the eligible employer with the consent of the collective bargaining unit that covers the affected employees, if any, if the modification:
+     (1)  Is not substantial;
+     (2)  Conforms with the plan approved by the director; and
+     (3)  Is reported promptly to the director by the eligible employer.
+     (b)  If the hours of work are increased or decreased substantially beyond the level in the original work-sharing plan or any other conditions are changed substantially, the director shall approve or disapprove the modifications without changing the expiration date of the original plan.  If the substantial modifications do not meet the requirements for approval under section 383-B, the director shall disallow those modifications in writing.
+     (c)  A decision of the director under this section shall be final and not subject to appeal.
+     §383-G  Eligibility for work-sharing benefits.  (a)  After serving a waiting period as prescribed by the director, an eligible employee shall be eligible to receive work-sharing benefits with respect to any week only if the director finds that, in addition to meeting other conditions of eligibility for regular benefits under this part that are not inconsistent with this section:
+     (1)  During the week, the eligible employee shall be employed as a member of an affected unit under an approved work-sharing plan that was approved prior to that week and that is in effect with respect to the week for which work-sharing benefits are claimed; and
+     (2)  The eligible employee is available and able to work the normal workweek with the work-sharing employer.
+     (b)  Notwithstanding any other provisions of this part, an eligible employee shall be deemed unemployed in any week for which remuneration is payable to that eligible employee as an eligible employee in an affected unit for less than that eligible employee's normal weekly hours of work as specified under the approved work-sharing plan in effect for the week.
+     (c)  Notwithstanding any other provisions of this chapter, an eligible employee shall not be denied work-sharing benefits for any week by reason of the application of laws and rules relating to the availability for work and active search for work with an employer other than the work-sharing employer.
+     §383-H  Work-sharing benefits.  (a)  The weekly work-sharing benefit amount shall be the product of the regular weekly benefit amount, including any dependents' allowances, multiplied by the percentage reduction in the eligible employee's usual weekly hours of work as specified in the approved work-sharing plan.  If the weekly work-sharing benefit amount is not an exact multiple of $1, the weekly work-sharing benefit amount shall be rounded down to the next lower multiple of $1.
+     (b)  An eligible employee shall not receive a total of work-sharing benefits and regular unemployment compensation in any benefit year that exceeds the maximum entitlement established for unemployment compensation, nor shall an eligible employee be paid work-sharing benefits for more than fifty-two weeks in any benefit year pursuant to an approved work-sharing plan.
+     (c)  The work-sharing benefits paid shall be deducted from the maximum entitlement amount established for an eligible employee's benefit year.
+     (d)  If an eligible employer approves time off and the eligible employee has performed any amount of work during the week, the eligible employee shall be eligible for work-sharing benefits based on the combined work and paid leave hours for that week. If the eligible employer does not grant time off, the question of availability shall be investigated by the director.
+     (e)  If an eligible employee did not work all the hours offered by the work-sharing employer in a given week because the employee was sick, the employee shall be denied work-sharing benefits for that week.
+     (f)  Claims for work-sharing benefits shall be filed in the same manner as claims for unemployment compensation or as prescribed in rules adopted by the director pursuant to chapter 91.
+     (g)  Laws and rules applicable to unemployment compensation claimants shall apply to work-sharing claimants to the extent that they are not inconsistent with the established work-sharing provisions.  An eligible employee who files an initial claim for work-sharing benefits, if eligible for work-sharing benefits, shall be provided a monetary determination of entitlement to work-sharing benefits and shall serve a waiting period of one week.
+     (h)  If an eligible employee works in the same week for a work-sharing employer and an employer other than the work-sharing employer, the eligible employee's work-sharing benefits shall be computed in the same manner as if the eligible employee worked solely with the work-sharing employer, except that if the eligible employee is not able to work or is not available for the normal workweek with the work-sharing employer, work-sharing benefits shall not be paid to that eligible employee for that week.
+     (i)  An eligible employee who does not work during a week for the work-sharing employer and is otherwise eligible shall be paid the full weekly unemployment compensation amount.  That week shall not be counted as a week for which work-sharing benefits were received.
+     (j)  An eligible employee who does not work for the work-sharing employer during a week, but works for another employer and is otherwise eligible, shall be paid benefits for that week under the partial unemployment compensation provisions of this chapter.  That week shall not be counted as a week for which work-sharing benefits were received.
+     (k)  Nothing in this section shall preclude an otherwise eligible employee from receiving total or partial unemployment benefits when the eligible employee's work-sharing benefits have been exhausted.
+     §383-I  Benefit charges.  Notwithstanding any other provisions of this part, work-sharing benefits shall be charged to the account of the work-sharing employer.  Employers liable for payments in lieu of contributions shall reimburse the state unemployment compensation fund for the full amount of work-sharing benefits paid to their employees under an approved work-sharing plan.
+     §383-J  Extended benefits.  An individual who has received all of the unemployment compensation or combined unemployment compensation and work-sharing benefits available in a benefit year shall be considered an exhaustee for purposes of extended benefits, as provided in section 383-168(10), and, if otherwise eligible under that paragraph, shall be eligible to receive extended benefits."
+     SECTION 2.  In codifying the new sections added by section 1 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 3.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Work-Sharing; Unemployment; Employment Security
+ 
+Description:
+Creates a work-sharing program that provides an alternative to layoffs during a temporary slowdown in business.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

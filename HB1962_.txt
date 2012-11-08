@@ -1,0 +1,70 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1962
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PSEUDOEPHEDRINE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 329-75, Hawaii Revised Statutes, is amended to read as follows:
+     "§329-75  Sales of products, mixtures, or preparations containing pseudoephedrine; reporting requirement for wholesalers.  (a)  Notwithstanding any other law to the contrary, a pharmacy or retailer may sell or distribute to a person without a prescription products containing not more than 3.6 grams per day[,] or not more than nine grams per thirty‑day period of pseudoephedrine base, without regard to the number of transactions[, of any product, mixture, or preparation containing any detectable quantity of pseudoephedrine, its salts, optical isomers, or salts of optical isomers as the only active ingredient or in combination with other active ingredients]; provided that the pharmacy or retailer shall comply with the following conditions:
+(1)  The product, mixture, or preparation shall be sold or distributed from an area not accessible by customers or the general public, such as behind the counter or in a locked display case and where the seller delivers the product directly into the custody of the purchaser;
+(2)  Any person purchasing or otherwise acquiring any product, mixture, or preparation shall produce [proper] valid, government-issued identification containing the photograph, date of birth, printed name, signature, and address of the individual obtaining the substance;
+(3)  The pharmacy or retailer shall [record, in an electronic log on software provided by the narcotics enforcement division of the department and approved by the administrator:] maintain a record of required information for each sale of a nonprescription product containing pseudoephedrine, including:
+(A)  The date and time of any transaction under paragraph (2);
+(B)  The name, address, and date of birth of the person;
+(C)  The type of identification provided by the individual obtaining the substance[;] and identification number;
+(D)  The agency issuing the identification used; and
+(E)  The name of the compound, mixture, or preparation, and the amount; and
+(4)  The pharmacy or retailer shall[:
+(A)  Record the information required under paragraph (3) on an electronic worksheet on software provided by the narcotics enforcement division of the department; and
+(B)  Electronically mail the worksheet record to the narcotics enforcement division once a month.] require every purchaser to sign a written or electronic log attesting to the validity of the information.
+The information shall be retained by the pharmacy or retailer for a period of two years.  The electronic log shall be capable of being checked for compliance against all state and federal laws, including interfacing with other states to ensure comprehensive compliance, and shall be subject to random and warrantless inspection by county or state law enforcement officers.
+     (b)  Beginning January 1, 2013, before completing a sale of an over-the-counter product containing pseudoephedrine, a pharmacy or retailer shall electronically submit the information required pursuant to subsection (a) to the National Precursor Log Exchange administered by the National Association of Drug Diversion Investigators; provided that the National Precursor Log Exchange is available to retailers in the State without a charge for accessing the system.  The seller shall not complete the sale if the system generates a stop sale alert.  Absent negligence, wantonness, recklessness, or deliberate misconduct, any retailer using the electronic sales tracking system in accordance with this subsection shall not be civilly liable as a result of any act or omission in carrying out the duties required by this subsection and shall be immune from liability to any third party, unless the retailer has violated this subsection, in relation to a claim brought for such violation.
+     (c)  If a pharmacy or retailer selling an over-the-counter product containing pseudoephedrine experiences mechanical or electronic failure of the electronic sales tracking system and is unable to comply with the electronic sales tracking requirement under this section, the pharmacy or retail establishment shall maintain a written log or an alternative electronic recordkeeping mechanism until such time as the pharmacy or retail establishment is able to comply with the electronic sales tracking requirement.
+     (d)  A pharmacy or retailer selling an over-the-counter product containing pseudoephedrine may seek an exemption from submitting transactions to the electronic sales tracking system, in writing to the board of pharmacy stating the reasons therefore.  The board of pharmacy may grant an exemption for good cause shown, but in no event shall the exemption exceed one hundred eighty days.  Any pharmacy or retailer that receives an exemption shall maintain a hard copy log and shall require the purchaser to provide the information required under this section before completion of any sale.  The log shall be maintained as a record of each sale for inspection by any law enforcement officer or inspector of the board of pharmacy during normal business hours.
+     (e)  The National Association of Drug Diversion Investigators shall forward Hawaii transaction records in National Precursor Log Exchange to the narcotics enforcement division of the department of public safety weekly and provide real-time access to National Precursor Log Exchange information through the National Precursor Log Exchange online portal to law enforcement in the State as authorized by the narcotics enforcement division; provided that the narcotics enforcement division executes a memorandum of understanding with National Association of Drug Diversion Investigators governing access to the information.
+     (f)  This system shall be capable of generating a stop sale alert, which shall be a notification that completion of the sale would result in the seller or purchaser violating the quantity limits set forth in this section.  The system shall contain an override function that may be used by a seller of pseudoephedrine who has a reasonable fear that imminent bodily harm will result if the sale is not completed.  Each instance where the override function is used shall be logged by the system.
+     [(b)] (g)  No person shall knowingly purchase, [possess,] receive, or otherwise acquire products containing 3.6 grams or more [than] per day or nine or more grams [of any product, mixture, or preparation containing any detectable quantity of pseudoephedrine or its salts, isomers, or salts of optical isomers within a thirty-day period,] per thirty-day period of pseudoephedrine base, except that this limit shall not apply to any quantity of such product, mixture, or preparation dispensed pursuant to a valid prescription.
+     [(c)] (h)  Any person who violates [subsection] subsections (b) through (g) is guilty of a class C felony.
+     [(d)] (i)  The department, by rule, may exempt other products from this section, if the administrator finds that the products are not used in the illegal manufacture of methamphetamine or other controlled substances.  A manufacturer of a drug product may apply for removal of the product from this section if the product is determined by the administrator to have been formulated in such a way as to effectively prevent the conversion of the active ingredient into methamphetamine.
+     [(e)] (j)  Notwithstanding any other provision of this chapter to the contrary, every wholesaler shall report to the administrator all sales made to any retailer, of any product, mixture, or preparation containing any detectable quantity of pseudoephedrine, its salts, optical isomers, or salts of optical isomers, as the only active ingredient or in combination with other active ingredients.  The department shall provide a common reporting form that contains at least the following information about the product, mixture, or preparation:
+     (1)  Generic or other name;
+     (2)  Quantity sold;
+     (3)  Date of sale;
+     (4)  Name and address of the wholesaler; and
+     (5)  Name and address of the retailer.
+     [(f)] (k)  Intentional or knowing failure of a retailer or pharmacy to transmit any information as required by this section shall be a misdemeanor and shall result in the immediate suspension of that retailer's ability to sell any product, mixture, or preparation containing any detectable quantity of pseudoephedrine, its salts, optical isomers, or salts of optical isomers as the only active ingredient or in combination with other active ingredients until authorized by the administrator."
+     SECTION 2.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 3.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Pseudoephedrine; Tracking
+ 
+Description:
+Establishes a tracking system for the sale of products containing pseudoephedrine base.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,71 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+646
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO TRAFFIC VIOLATIONS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 291, Hawaii Revised Statutes, is amended by adding a new section to part II to be appropriately designated and to read as follows:
+     "§291-     Noisy mufflers; correctable violations.  (a)  If, after an arrest, accident investigation, or other law enforcement action, it appears that a violation of section 291-24 has occurred, and none of the disqualifying conditions set forth in subsection (b) exist and the investigating officer decides to take enforcement action, the officer shall prepare, and the violator shall sign, a written notice containing the violator's promise to promptly correct the alleged violation and to deliver proof of correction of the violation to the district court of the circuit where the violation occurred.
+     (b)  Notwithstanding subsection (a), a notice to correct violation shall not be issued if the police officer finds any of the following:
+     (1)  Evidence of fraud or persistent neglect;
+     (2)  The violation presents an immediate safety hazard; or
+     (3)  The violator does not agree to, or cannot, promptly correct the violation.
+     (c)  If any of the conditions set forth in subsection (b) exist, the procedure specified in subsection (a) is inapplicable, and the officer may take other appropriate enforcement action.
+     (d)  Except as otherwise provided in subsection (a), the notice to correct violation shall be on a form approved by the judiciary and, in addition to the owner's or operator's address and identifying information, shall contain an estimate of the reasonable time required for correction and proof of correction of the particular defect, not to exceed thirty days.
+     (e)  The district court of the circuit where the violation occurred may dismiss any action in which a person is prosecuted for operating a vehicle in violation of section 291-24 if a certificate of compliance has been issued by a station permitted under section 286-27.
+     (f)  Any person willfully violating a written promise to correct or willfully failing to deliver proof of correction of the violation shall be guilty of a misdemeanor."
+     SECTION 2.  Section 286-138, Hawaii Revised Statutes, is amended to read as follows:
+     "§286-138  Prohibiting "fixing" of tickets and providing penalties therefor; nolle prosequi by prosecuting attorney only by motion and approval of court.  (a)  It shall be unlawful for any person, including any government official or employee of the State or county, to "fix", "void", change, modify, adjust, tamper with, or otherwise dispose of any traffic citation, notice, or summons.  Nothing in this subsection shall be construed to affect the powers of the judges of the several courts in the exercise of  their judicial functions.  Any person who intentionally or knowingly violates this subsection shall be guilty of a class C felony; except that the person shall be fined not less than $1,000 and not more than $10,000.  Any government official or employee of this State or any county who violates this subsection shall be summarily discharged from the official's or employee's office or employment.
+     (b)  No nolle prosequi shall be entered in any case involving a violation of the traffic laws or ordinances of the State or of the several counties and no case or any charge arising therefrom shall be stricken, amended, or reduced, except by consent of the court upon motion of the prosecuting attorney stating the reasons therefor.  The court may deny the motion if it deems the reasons insufficient.
+     (c) This section shall not apply to the disposition of a traffic citation issued for a correctable violation under section 291-   ; provided that a certificate of compliance has been issued by an inspection station permitted under section 286-27 ensuring that the motor vehicle is in compliance with the section under which the traffic citation was issued."
+     SECTION 3.  Section 291-24, Hawaii Revised Statutes, is amended to read as follows:
+     "§291-24  [Motorcycles and mopeds, noisy] Noisy mufflers; penalty.  (a)  Every [motorcycle and moped] motor vehicle moving under its own power on a public highway shall at all times be equipped with a muffler in constant operation to prevent any excessive or unusual noise and no such muffler or exhaust system shall be equipped with a cutout, bypass, or similar device.  No person shall modify the exhaust system of a [motorcycle or a moped] motor vehicle in a manner which will amplify or increase the noise emitted by the motor of [such motorcycle or moped] the motor vehicle above that emitted by the muffler originally installed on the [motorcycle or moped except a motorcycle or moped that:] motor vehicle.
+     (b)  Subsection (a) notwithstanding, a motor vehicle that:
+     (1)  Has three wheels;
+     (2)  Is powered by an electric motor;
+     (3)  Has a full body enclosed cab; and
+     (4)  Has a seat belt assembly or a child restraint system for the driver and passenger;
+shall not be required to be equipped with a muffler.
+     (c)  No motor vehicle shall be equipped with a muffler or exhaust system that emits a noise level of greater than ninety-five decibels unless the muffler or exhaust system is the muffler or exhaust system originally installed on the motor vehicle.
+     [(b)] (d)  As used in this section, "muffler" means a device consisting of a series of chambers or baffle plates, or other mechanical design, for the purpose of receiving exhaust gas from the engine of the [motorcycle or moped,] motor vehicle, and being effective in reducing noise.
+     [(c)] (e)  [Whoever] A person who violates this section shall be [fined not more than $100.]:
+     (1)  Required to equip the motor vehicle with a muffler or exhaust system that does not emit a noise level above the decibel level established under subsection (c); and
+     (2)  Required to obtain a certificate of compliance from an inspection station, permitted under section 286-27, to ensure compliance with this section.
+     (f)  An inspection station shall issue a certificate of compliance if the vehicle emits no more than ninety-five decibels when tested in accordance with Society of Automotive Engineers Standard J1169 May 1998.  The certificate of compliance shall identify, to the extent possible, the make, model, year, license number, and vehicle identification number of the vehicle tested, and the make and model or description of the muffler exhaust system installed on the vehicle.
+     (g)  For purposes of this section, "motor vehicle" has the same meaning as defined in section 291C-1 but includes a moped, as defined in that section.
+     (h)  A person who violates this section and fails to comply with the requirements of subsection (e) shall be fined not more than $100."
+     SECTION 4.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Motor Vehicles; Noise Emission; Mufflers
+ 
+Description:
+Prohibits motor vehicle mufflers from emitting a noise level above 95 decibels.  Authorizes law enforcement officers to issue traffic citations for violations that are correctable.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

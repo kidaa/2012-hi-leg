@@ -1,0 +1,137 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1808
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE HAWAII EMPLOYER-UNION HEALTH BENEFITS TRUST FUND.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The purpose of this Act is to address the unfunded actuarial accrued liability of the Hawaii employer-union health benefits trust fund.
+     More specifically, this Act requires that the board of trustees of the trust fund evaluate and implement a medical benefits plan or plans that are not based on the fee-for-service model by July 1, 2014.
+     The legislature finds that the expenses of the trust fund are exorbitant and increasing annually.  The rate of increase of the annual premium cost is greater than that of the cost-of-living index.  Furthermore, the unfunded actuarial accrued liability of the trust fund will require substantial annual payments if it is to be amortized over thirty years.  The expenses of the trust fund are borne by both public employees and taxpayers.
+     The fee-for-service health care model rewards volume of medical services, rather than patient outcome and efficiency in service delivery.  To control costs of the trust fund, the fee-for-service model of paying for medical benefits should be eliminated.
+     The legislature believes that the board of trustees, after an evaluation, should implement a medical benefits plan or plans that pay for services under a payment model other than a fee-for-service model.  The change should encourage the efficient delivery of high-quality health care service at an economical cost and also reduce expenses of the Hawaii employer-union health benefits trust fund.
+     The legislature realizes that the replacement of the fee-for-service model with an alternative payment model will be complex.  Thus, under this Act, the board of trustees is required to commence its evaluation on July 1, 2012, and complete the evaluation by January 1, 2014.  Implementation of the medical benefits plan or plans based on the alternative payment model shall occur no later than July 1, 2014.
+     SECTION 2.  Definitions.  (a)  For the purpose of this Act, the definitions under section 87A-1, Hawaii Revised Statutes, shall apply.
+     (b)  In addition:
+     "Alternative payment model" means a model for the payment of medical services that is not a fee-for-service model.  The term includes the model under which a health maintenance organization is prepaid for medical services on a capitated basis.
+     "Episode-based payment model" means the alternative payment model under which a medical service provider or organization of medical service providers is paid or reimbursed based on discrete clinically defined episodes of care.
+     "Fee-for-service model" means the model under which a fee is paid for each medical service provided.
+     "Global budget payment model" means the alternative payment model under which a medical service provider or organization of medical service providers is prospectively compensated for all or most of the medical services that a patient may require over a specified contract period, with or without the insuring of risks from unanticipated illness or accident not covered by the prospective compensation.
+     "Health maintenance organization" means the same as defined under section 432D-1, Hawaii Revised Statutes.
+     "Medical benefits plan" means a plan or contract under which medical, hospital, surgical, prescription drug, and other health care benefits are provided by a medical services provider, group of medical services providers, health maintenance organization, or insurer.  The term does not include a vision only, dental only, or prescription drug only benefits plan.
+     SECTION 3.  Alternative payment model, fee-for-service model; requirements.  (a)  Except as otherwise provided under subsection (c), commencing July 1, 2014, the board shall offer only medical benefits plans that pay or reimburse medical services providers under an alternative payment model.
+     (b)  Except as otherwise provided under subsection (c), commencing July 1, 2014, the board shall not offer any medical benefits plans that pay or reimburse medical services providers under a fee-for-service model.
+     (c)  If the board determines that a supplemental medicare plan for retired employees that pays or reimburses medical services providers under an alternative payment model is unavailable, impractical, or excessively costly, the board may offer to the retired employees a supplemental medicare plan that pays or reimburses medical services providers under a fee-for-service model.
+     SECTION 4.  Evaluation and implementation of alternative payment model.  (a)  To comply with section 3, commencing July 1, 2012, the board shall evaluate the episode-based payment model, global budget payment model, health maintenance organization model, and any other alternative payment model of medical benefit plans that are deemed worthy of consideration.
+     (b)  The board shall conduct the evaluation to offer medical benefits plans under an alternative payment model that:
+     (1)  Establishes a transparent payment methodology;
+     (2)  Promotes coordination of care and chronic disease management;
+     (3)  Rewards primary care physicians for improving health outcomes;
+     (4)  Reduces waste and duplication in clinical care; and
+     (5)  Decreases unnecessary hospitalization and ancillary services.
+     (c)  The board shall complete the evaluation by January 1, 2014, and submit a report of its findings and recommendations, including any proposed legislation deemed necessary by the board, to the governor and legislature no later than twenty days prior to the convening of the regular session of 2014.
+     SECTION 5.  Intent regarding medical benefits plan of health maintenance organization.  This Act is not intended to affect the authority of the board to offer any medical benefits plan provided by a health maintenance organization.
+     SECTION 6.  Intent regarding deductibles, co-payments.  This Act is not intended to prohibit the charging of deductibles, co-payments, or both, under any medical benefits plan that pays or reimburses medical services providers under an alternative payment model.
+     SECTION 7.  There is appropriated out of the general revenues of the State of Hawaii the sum of $           or so much thereof as may be necessary for fiscal year 2012-2013 for the evaluation of alternative payment models required by this Act.
+     The sum appropriated shall be expended by the board of trustees of the Hawaii employer-union health benefits trust fund for the purposes of this Act.
+     SECTION 8.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Hawaii Employer-Union Health Benefits Trust Fund; Alternative Payment Models; Appropriation
+ 
+Description:
+Beginning 07/01/14, prohibits the Hawaii employer-union health benefits trust fund from offering medical benefits plans that pay or reimburse providers under a fee-for-service model.  Requires the board of trustees to evaluate alternative payment models to replace the fee-for-service model and submit a report to the governor and legislature before the regular session of 2014.  Appropriates funds for the evaluation.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+mso-style-name:"Extra Sig"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:243.0pt; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.ResolutionBody, li.ResolutionBody, div.ResolutionBody {mso-style-name:"Resolution Body"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} span.BillSectionNumber {mso-style-name:"Bill Section Number"; font-family:Courier;} p.XNotesHeading, li.XNotesHeading, div.XNotesHeading {mso-style-name:XNotesHeading; margin:0in; margin-bottom:.0001pt; text-align:center; font-size:12.0pt; font-family:"Courier New"; font-weight:bold;} p.XNotes, li.XNotes, div.XNotes {mso-style-name:XNotes; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Amend, li.Amend, div.Amend {mso-style-name:Amend; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.PCa, li.PCa, div.PCa {mso-style-name:"PC\(a\)"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Appropriation, li.Appropriation, div.Appropriation {mso-style-name:Appropriation; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Effective, li.Effective, div.Effective {mso-style-name:Effective; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.BalloonTextChar {mso-style-name:"Balloon Text Char"; mso-style-link:"Balloon Text"; font-family:"Tahoma","sans-serif";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1808
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE HAWAII EMPLOYER-UNION HEALTH BENEFITS TRUST FUND.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The purpose of this Act is to address the unfunded actuarial accrued liability of the Hawaii employer-union health benefits trust fund.
+     More specifically, this Act requires that the board of trustees of the trust fund evaluate and implement a medical benefits plan or plans that are not based on the fee-for-service model by July 1, 2014.
+     The legislature finds that the expenses of the trust fund are exorbitant and increasing annually.  The rate of increase of the annual premium cost is greater than that of the cost-of-living index.  Furthermore, the unfunded actuarial accrued liability of the trust fund will require substantial annual payments if it is to be amortized over thirty years.  The expenses of the trust fund are borne by both public employees and taxpayers.
+     The fee-for-service health care model rewards volume of medical services, rather than patient outcome and efficiency in service delivery.  To control costs of the trust fund, the fee-for-service model of paying for medical benefits should be eliminated.
+     The legislature believes that the board of trustees, after an evaluation, should implement a medical benefits plan or plans that pay for services under a payment model other than a fee-for-service model.  The change should encourage the efficient delivery of high-quality health care service at an economical cost and also reduce expenses of the Hawaii employer-union health benefits trust fund.
+     The legislature realizes that the replacement of the fee-for-service model with an alternative payment model will be complex.  Thus, under this Act, the board of trustees is required to commence its evaluation on July 1, 2012, and complete the evaluation by January 1, 2014.  Implementation of the medical benefits plan or plans based on the alternative payment model shall occur no later than July 1, 2014.
+     SECTION 2.  Definitions.  (a)  For the purpose of this Act, the definitions under section 87A-1, Hawaii Revised Statutes, shall apply.
+     (b)  In addition:
+     "Alternative payment model" means a model for the payment of medical services that is not a fee-for-service model.  The term includes the model under which a health maintenance organization is prepaid for medical services on a capitated basis.
+     "Episode-based payment model" means the alternative payment model under which a medical service provider or organization of medical service providers is paid or reimbursed based on discrete clinically defined episodes of care.
+     "Fee-for-service model" means the model under which a fee is paid for each medical service provided.
+     "Global budget payment model" means the alternative payment model under which a medical service provider or organization of medical service providers is prospectively compensated for all or most of the medical services that a patient may require over a specified contract period, with or without the insuring of risks from unanticipated illness or accident not covered by the prospective compensation.
+     "Health maintenance organization" means the same as defined under section 432D-1, Hawaii Revised Statutes.
+     "Medical benefits plan" means a plan or contract under which medical, hospital, surgical, prescription drug, and other health care benefits are provided by a medical services provider, group of medical services providers, health maintenance organization, or insurer.  The term does not include a vision only, dental only, or prescription drug only benefits plan.
+     SECTION 3.  Alternative payment model, fee-for-service model; requirements.  (a)  Except as otherwise provided under subsection (c), commencing July 1, 2014, the board shall offer only medical benefits plans that pay or reimburse medical services providers under an alternative payment model.
+     (b)  Except as otherwise provided under subsection (c), commencing July 1, 2014, the board shall not offer any medical benefits plans that pay or reimburse medical services providers under a fee-for-service model.
+     (c)  If the board determines that a supplemental medicare plan for retired employees that pays or reimburses medical services providers under an alternative payment model is unavailable, impractical, or excessively costly, the board may offer to the retired employees a supplemental medicare plan that pays or reimburses medical services providers under a fee-for-service model.
+     SECTION 4.  Evaluation and implementation of alternative payment model.  (a)  To comply with section 3, commencing July 1, 2012, the board shall evaluate the episode-based payment model, global budget payment model, health maintenance organization model, and any other alternative payment model of medical benefit plans that are deemed worthy of consideration.
+     (b)  The board shall conduct the evaluation to offer medical benefits plans under an alternative payment model that:
+     (1)  Establishes a transparent payment methodology;
+     (2)  Promotes coordination of care and chronic disease management;
+     (3)  Rewards primary care physicians for improving health outcomes;
+     (4)  Reduces waste and duplication in clinical care; and
+     (5)  Decreases unnecessary hospitalization and ancillary services.
+     (c)  The board shall complete the evaluation by January 1, 2014, and submit a report of its findings and recommendations, including any proposed legislation deemed necessary by the board, to the governor and legislature no later than twenty days prior to the convening of the regular session of 2014.
+     SECTION 5.  Intent regarding medical benefits plan of health maintenance organization.  This Act is not intended to affect the authority of the board to offer any medical benefits plan provided by a health maintenance organization.
+     SECTION 6.  Intent regarding deductibles, co-payments.  This Act is not intended to prohibit the charging of deductibles, co-payments, or both, under any medical benefits plan that pays or reimburses medical services providers under an alternative payment model.
+     SECTION 7.  There is appropriated out of the general revenues of the State of Hawaii the sum of $           or so much thereof as may be necessary for fiscal year 2012-2013 for the evaluation of alternative payment models required by this Act.
+     The sum appropriated shall be expended by the board of trustees of the Hawaii employer-union health benefits trust fund for the purposes of this Act.
+     SECTION 8.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Hawaii Employer-Union Health Benefits Trust Fund; Alternative Payment Models; Appropriation
+ 
+Description:
+Beginning 07/01/14, prohibits the Hawaii employer-union health benefits trust fund from offering medical benefits plans that pay or reimburse providers under a fee-for-service model.  Requires the board of trustees to evaluate alternative payment models to replace the fee-for-service model and submit a report to the governor and legislature before the regular session of 2014.  Appropriates funds for the evaluation.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

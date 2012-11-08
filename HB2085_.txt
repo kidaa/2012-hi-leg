@@ -1,0 +1,165 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2085
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CABLE SERVICE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 269, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§269-    Cable operators; regulation.  A cable operator, as defined in section 440G-3, shall be subject to the jurisdiction of the public utilities commission."
+     SECTION 2.  Section 269-1, Hawaii Revised Statutes, is amended by amending the definition of "telecommunications service" to read as follows:
+     ""Telecommunications service" or "telecommunications" means the offering of transmission between or among points specified by a user, of information of the user's choosing, including voice, data, image, graphics, and video without change in the form or content of the information, as sent and received, by means of electromagnetic transmission, or other similarly capable means of transmission, with or without benefit of any closed transmission medium, and [does not include] includes cable service as defined in section 440G-3."
+     SECTION 3.  Section 269-6, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  The public utilities commission shall have the general supervision hereinafter set forth over all public utilities, including cable service, and shall perform the duties and exercise the powers imposed or conferred upon it by this chapter.  Included among the general powers of the commission is the authority to adopt rules pursuant to chapter 91 necessary for the purposes of this chapter."
+     SECTION 4.  Section 269-33, Hawaii Revised Statutes, is amended by amending subsections (a) and (b) as follows:
+     "(a)  There is established in the state treasury a public utilities commission special fund to be administered by the public utilities commission.  The proceeds of the fund shall be used by the public utilities commission and the division of consumer advocacy of the department of commerce and consumer affairs for all expenses incurred in the administration of chapters 269, 271, 271G, 269E, 440G, and 486J; provided that the expenditures of the public utilities commission shall be in accordance with legislative appropriations.  On a quarterly basis, an amount not exceeding thirty per cent of the proceeds remaining in the fund after the deduction for central service expenses, pursuant to section 36-27, shall be allocated by the public utilities commission to the division of consumer advocacy and deposited in the compliance resolution fund established pursuant to section 26-9(o); provided that all moneys allocated by the public utilities commission from the fund to the division of consumer advocacy shall be in accordance with legislative appropriations.
+     (b)  All moneys appropriated to, received, and collected by the public utilities commission that are not otherwise pledged, obligated, or required by law to be placed in any other special fund or expended for any other purpose shall be deposited into the public utilities commission special fund including[,] but not limited to[,] all moneys received and collected by the public utilities commission pursuant to chapter 440G and sections 92-21, 269-28, 269-30, 271-27, 271-36, 271G-19, 269E-6, 269E-14, and 607-5."
+     SECTION 5.  Section 440G-3, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending the definition of "access organization" to read:
+     ""Access organization" means any nonprofit organization designated by the [director] public utilities commission to oversee the development, operation, supervision, management, production, or broadcasting of programs for any channels obtained under section 440G-8, and any officers, agents, and employees of such an organization with respect to matters within the course and scope of their employment by the access organization."
+     2.  By amending the definition of "proposal" to read:
+     ""Proposal" means a filing solicited by the [director.] public utilities commission."
+     3.  By deleting the definitions of "department" and "director".
+     [""Department" means the department of commerce and consumer affairs.
+     "Director" means the director of commerce and consumer affairs."]
+     SECTION 6.  Section 440G-4, Hawaii Revised Statutes, is amended to read as follows:
+     "§440G-4  Issuance of cable franchises and regulation of cable operators by [director of commerce and consumer affairs.] the public utilities commission.  The [director] public utilities commission shall be empowered to issue cable franchises and otherwise administer and enforce this chapter."
+     SECTION 7.  Section 440G-6, Hawaii Revised Statutes, is amended to read as follows:
+     "§440G-6  Application or proposal for cable franchise; fee; certain requirements.  (a)  No cable franchise shall be issued except upon written application or proposal therefor to the [director,] public utilities commission, accompanied by a fee of $1,000.
+     (b)  An application for issuance of a cable franchise shall be made in a form prescribed by the [director.] public utilities commission.  The application shall set forth the facts as required by the [director] public utilities commission to determine in accordance with section 440G-8(b) whether a cable franchise should be issued, including facts as to:
+     (1)  The citizenship and character of the applicant;
+     (2)  The financial, technical, and other qualifications of the applicant;
+     (3)  The principals and ultimate beneficial owners of the applicant;
+     (4)  The public interest to be served by the requested issuance of a cable franchise; and
+     (5)  Any other matters deemed appropriate and necessary by the [director] public utilities commission including the proposed plans and schedule of expenditures for or in support of the use of public, educational, and governmental access facilities.
+     (c)  A proposal for issuance of a cable franchise shall be accepted for filing in accordance with section 440G-7 only when made in response to the written request of the [director] public utilities commission for the submission of proposals."
+     SECTION 8.  Section 440G-7, Hawaii Revised Statutes, is amended to read as follows:
+     "§440G-7  Cable franchise application or proposal procedure; public hearing; notice.  An application or proposal for a cable franchise shall be [[]processed[]] as follows:
+     (1)  After the application or proposal and required fee are received by the [director] public utilities commission and within a time frame established by rule, the [director] public utilities commission shall notify an applicant in writing of the acceptance or nonacceptance for filing of an application or proposal for issuance of a cable franchise required by this chapter;
+     (2)  After the issuance of a notice of acceptance for filing and within a time frame established by rule, the [director] public utilities commission shall hold a public hearing on the application or proposal to afford interested persons the opportunity to submit data, views, or arguments, orally or in writing.  Notice thereof shall be given to the governing council and mayor of the county and to any telephone or other utility and cable company in the county in which the proposed service area is located.  The [director] public utilities commission shall also give public notice of the application and hearing at least once in each of two successive weeks in the county in which the proposed service area is located.  The last notice shall be given at least fifteen days prior to the date of the hearing;
+     (3)  After holding a public hearing, the [director] public utilities commission shall approve the application or proposal in whole or in part, with or without conditions or modifications, or shall deny the application or proposal, with reasons for denial sent in writing to the applicant.  If the [director] public utilities commission does not take final action after the issuance of a notice of acceptance for filing and within a time frame established by rule, the application or proposal shall be deemed denied; and
+     (4)  The time limit for final action may be extended, on the [director's] public utilities commission's approval of the applicant's request and justification in writing for an extension of time to the [director] public utilities commission at least two weeks in advance of the requested effective date of the extension, or by mutual agreement."
+     SECTION 9.  Section 440G-8, Hawaii Revised Statutes, is amended to read as follows:
+     "§440G-8  Issuance of cable franchise authority; criteria; content.  (a)  The [director] public utilities commission is empowered to issue a cable franchise to construct or operate facilities for a cable system upon the terms and conditions provided in this chapter.
+     (b)  The [director,] public utilities commission, after a public hearing as provided in this chapter, shall issue a cable franchise to the applicant when the [director] public utilities commission is convinced that it is in the public interest to do so.  In determining whether a cable franchise shall be issued, the [director] public utilities commission shall take into consideration, among other things, the content of the application or proposal, the public need for the proposed service, the ability of the applicant to offer safe, adequate, and reliable service at a reasonable cost to the subscribers, the suitability of the applicant, the financial responsibility of the applicant, the technical and operational ability of the applicant to perform efficiently the service for which authority is requested, any objections arising from the public hearing, the cable advisory committee established by this chapter, or elsewhere, and any other matters as the [director] public utilities commission deems appropriate in the circumstances.
+     (c)  In determining the area which is to be serviced by the applicant, the [director] public utilities commission shall take into account the geography and topography of the proposed service area, and the present, planned, and potential expansion in facilities or cable services of the applicant's proposed cable system and existing cable systems.
+     (d)  In issuing a cable franchise under this chapter, the [director] public utilities commission is not restricted to approving or disapproving the application or proposal but may issue it for only partial exercise of the privilege sought or may attach to the exercise of the right granted by the cable franchise terms, limitations, and conditions which the [director] public utilities commission deems the public interest may require.  The cable franchise shall be nonexclusive, shall include a description of the service area in which the cable system is to be constructed, extended, or operated and the approximate date on which the service is to commence and shall authorize the cable operator to provide service for a term of fifteen years."
+     SECTION 10.  Section 440G-8.1, Hawaii Revised Statutes, is amended by amending subsections (b) and (c) to read as follows:
+     "(b)  The [director] public utilities commission shall require each cable operator to submit a schedule of all terms and conditions of service in the form and with the notice that the [director] public utilities commission may prescribe.
+     (c)  The [director] public utilities commission shall ensure that the terms and conditions upon which cable service is provided are fair both to the public and to the cable operator, taking into account the geographic, topographic, and economic characteristics of the service area and the economics of providing cable service to subscribers in the service area."
+     SECTION 11.  Section 440G-8.2, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending subsections (b) and (c) to read:
+     "(b)  The technical specifications, general routes of the distribution system, and the schedule for construction of the cable system shall be subject to the [director's] public utilities commission's approval.
+     (c)  In installing, operating, and maintaining facilities, the cable operator shall avoid all unnecessary damage and injury to any trees, structures, and improvements in and along the routes authorized by the [director.] public utilities commission."
+     2.  By amending subsection (g) to read:
+     "(g)  Upon termination of the period of the cable permit or of any renewal thereof, by passage of time or otherwise, the cable operator shall remove its facilities from the highways and other public places in, on, over, under, or along which they are installed if so ordered by the [director] public utilities commission and shall restore the areas to their original or other acceptable condition, or otherwise dispose of same.  If removal is not completed within six months of the termination, any property not removed shall be deemed to have been abandoned and the cable operator shall be liable for the cost of its removal."
+     SECTION 12.  Section 440G-8.3, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending subsections (a) through (d) to read:
+     "(a)  The [director] public utilities commission may designate an access organization to oversee the development, operation, supervision, management, production, and broadcasting of programs of public, educational, or governmental access facilities obtained under section 440G-8; provided that the designation shall be exempt from chapter 103D.
+     (b)  No access organization shall be designated except upon written application or proposal to the [director,] public utilities commission and following a public hearing on each island within the local franchise area that provides opportunity for public input and allows interested parties to intervene.
+     (c)  In determining whether to make a designation, the [director] public utilities commission shall consider:
+     (1)  The content of the application or proposal;
+     (2)  The public need for the proposed service;
+     (3)  The ability and experience of the applicant to offer public, educational, or government programming broadcast services;
+     (4)  The suitability of the applicant;
+     (5)  The financial responsibility of the applicant;
+     (6)  The technical and operational ability of the applicant to perform efficiently the services for which the designation is requested;
+     (7)  Any objections arising from the public hearing, the cable advisory committee, or elsewhere; and
+     (8)  Any other matters that the director deems appropriate under the circumstances.
+     (d)  The [director] public utilities commission may require an applicant to provide information on its process for selecting members of its board of directors; provided that the [director] public utilities commission shall have no authority to require that an applicant amend its selection process as a condition of designation."
+     2.  By amending subsection (f) to read:
+     "(f)  The [director] public utilities commission shall ensure that the terms and conditions required of the operation of an access organization designated under subsection (a) are fair to the public, taking into account the geographic, topographic, and economic characteristics of the service area and the economics of providing cable access in the service area."
+     3.  By amending subsection (h) to read:
+     "(h) The [department] public utilities commission shall conduct an annual management and financial audit of the access organization designated under this section."
+     SECTION 13.  Section 440G-9, Hawaii Revised Statutes, is amended to read as follows:
+     "§440G-9  Complaints; violations; revocation, alteration, or suspension of cable franchise; penalties.  (a)  Subscriber complaints regarding the operation of a cable system may be made orally or in writing to the [director.] public utilities commission.  The [director] public utilities commission shall resolve complaints informally when possible.
+     (b)  Any cable franchise issued hereunder after hearing in accordance with chapter 91 may be revoked, altered, or suspended by the [director] public utilities commission as the [director] public utilities commission deems necessary on any of the following grounds:
+     (1)  For making material false or misleading statements in, or for material omissions from, any application or proposal or other filing made with [department;] the public utilities commission;
+     (2)  For failure to maintain signal quality under the standards prescribed by the [director;] public utilities commission;
+     (3)  For any sale, lease, assignment, or other transfer of its cable franchise without consent of the [director;] public utilities commission;
+     (4)  Except when commercially impracticable, for unreasonable delay in construction or operation or for unreasonable withholding of the extension of cable service to any person in a service area;
+     (5)  For violation of the terms of its cable franchise;
+     (6)  For failure to comply with this chapter or any rules or orders prescribed by the [director;] public utilities commission;
+     (7)  For violation of its filed schedule of terms and conditions of service; and
+     (8)  For engaging in any unfair or deceptive act or practice as prohibited by section 480-2.
+     (c)  In lieu of or in addition to the relief provided by subsection (b), the [director] public utilities commission may fine a cable operator, for each violation of subsection (b)(1) through (8), an amount not less than $50 nor more than $25,000 for each violation.  Each day's continuance of a violation may be treated as a separate violation pursuant to rules adopted by the [director.] public utilities commission.  Any penalty assessed under this section shall be in addition to any other costs, expenses, or payments for which the cable operator is responsible under other provisions of this chapter."
+     SECTION 14.  Section 440G-10, Hawaii Revised Statutes, is amended to read as follows:
+     "§440G-10  Renewal of cable franchise.  Any cable franchise issued pursuant to this chapter may be renewed by the [director] public utilities commission upon approval of a cable operator's application or proposal therefor.  The form of the application or proposal shall be prescribed by the [director.] public utilities commission.  The periods of renewal shall be not less than five nor more than twenty years each.  The [director] public utilities commission shall require of the applicant full disclosure, including the proposed plans and schedule of expenditures for or in support of the use of public, educational, or governmental access facilities."
+     SECTION 15.  Section 440G-10.1, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  No cable franchise, including the rights, privileges, and obligations thereof, may be assigned, sold, leased, encumbered, or otherwise transferred, voluntarily or involuntarily, directly or indirectly, including by transfer of control of any cable system, whether by change in ownership or otherwise, except upon written application to and approval by the [director.] public utilities commission.  The form of the application shall be prescribed by the [director.] public utilities commission."
+     SECTION 16.  Section 440G-11, Hawaii Revised Statutes, is amended to read as follows:
+     "§440G-11  Rate, filed with [director;] public utilities commission; approval.  (a)  The [director] public utilities commission shall require each cable operator to file a schedule of its rates of service on a form and with the notice that the [director] public utilities commission may prescribe.
+     (b)  To the extent permitted by federal law, the [director] public utilities commission shall regulate rates to ensure that they are fair both to the public and to the cable operator."
+     SECTION 17.  Section 440G-11.5, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§440G-11.5[]]  Other duties of the [director;] public utilities commission; broadband services.  [[](a)[]]  In conjunction with broadband services, the [director] public utilities commission shall:
+     (1)  Promote and encourage use of telework alternatives for public and private employees, including appropriate policy and legislative initiatives;
+     (2)  Advise and assist state agencies, and upon request of the counties, advise and assist the counties, in planning, developing, and administering programs, projects, plans, policies, and other activities to promote telecommuting by employees of state and county agencies;
+     (3)  Support the efforts of both public and private entities in Hawaii to enhance or facilitate the deployment of, and access to, competitively priced, advanced electronic communications services, including broadband and its products and services and internet access services of general application throughout Hawaii;
+     (4)  Make recommendations to establish affordable, accessible broadband services to unserved and underserved areas of Hawaii and monitor advancements in communications that will facilitate this goal;
+     (5)  Advocate for, and facilitate the development and deployment of, expanded broadband applications, programs, and services, including telework, telemedicine, and e-learning, that will bolster the usage of and demand for broadband level telecommunications;
+     (6)  Serve as a broadband information and applications clearinghouse for the state and a coordination point for federal American Recovery and Reinvestment Act of 2009 broadband-related services and programs; and
+     (7)  Promote, advocate, and facilitate the implementation of the findings and recommendations of the Hawaii broadband task force established by Act 2, First Special Session Laws of Hawaii 2007.
+     [[](b)[]]  The [director] public utilities commission shall submit an annual report to the legislature, no later than twenty days prior to the convening of each regular session, on the [department's] public utilities commission's efforts to use broadband and its products and services to develop and expand telework initiatives, including telework participation levels and trends of both private and public sector employees in Hawaii.
+     [[](c)[]]  The [department of commerce and consumer affairs] public utilities commission shall report annually to the legislature, no later than twenty days prior to the convening of each regular session, on the receipt and expenditure of federal moneys from the American Recovery and Reinvestment Act of 2009, and moneys from other federal appropriation measures or applicable federal acts, for the purposes of purchasing broadband facilities, services, or equipment or for entering into contracts for broadband-related projects by all state agencies for all state agencies approval.
+     [[](d)[]]  Pursuant to chapter 440G-12(d), the [director] public utilities commission may appoint and employ engineers, accountants, attorneys, and professional, clerical, stenographic, or other assistants, as required, with or without regard to chapter 76."
+     SECTION 18.  Section 440G-12, Hawaii Revised Statutes, is amended to read as follows:
+     "§440G-12  Other duties of [director;] public utilities commission; suit to enforce chapter.  (a)  The [director] public utilities commission has the power and jurisdiction to supervise and regulate every cable operator within this State so far as may be necessary to carry out the purposes of this chapter, and to do all things which are necessary or convenient in the exercise of this power and jurisdiction.
+     (b)  The [director] public utilities commission may adopt, pursuant to chapter 91, rules necessary to carry out this chapter.
+     (c)  The [director or the director's designated representatives] public utilities commission may from time to time visit the places of business and other premises and examine the records and facilities of all cable operators to ascertain if all laws, rules, cable franchise provisions, and orders of the [director] public utilities commission have been complied with, and shall have the power to examine all officers, agents, and employees of cable operators, and all other persons, under oath, and to compel the production of papers and the attendance of witnesses to obtain the information necessary for administering this chapter.
+     (d)  The [director] public utilities commission may appoint, without regard to chapter 76, an administrator and one or more attorneys for purposes of enforcing this chapter.  The [director] public utilities commission shall define their powers and duties and fix their compensation.  The [director] public utilities commission may also appoint professional, clerical, stenographic, and other staff as may be necessary for the proper administration and enforcement of this chapter subject to chapter 76.
+     (e)  The [director] public utilities commission shall have the power and authority to institute all proceedings and investigations, hear all complaints, issue all process and orders, and render all decisions necessary to enforce this chapter or the rules and orders adopted thereunder, or to otherwise accomplish the purposes of this chapter.
+     (f)  The [director] public utilities commission or other aggrieved party shall have the right to institute, or to intervene as a party in, any action in any court of law seeking a mandamus, or injunctive or other relief to compel compliance with this chapter, or any rule or order adopted thereunder, or to restrain or otherwise prevent or prohibit any illegal or unauthorized conduct in connection therewith."
+     SECTION 19.  Section 440G-13, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  There is established the cable advisory committee.  The committee shall consist of five members appointed by the governor as provided in section 26-34.
+     The committee shall advise:
+     (1)  The [director,] public utilities commission, cable operators, and access organizations on matters within the jurisdiction of this chapter at the request of the [director,] public utilities commission, any cable operator, or any access organization; and
+     (2)  The [director] public utilities commission on any decision designating, modifying, or rescinding a designation of an access organization or the requirements therefor, as provided in section 440G-8.3."
+     SECTION 20.  Section 440G-14, Hawaii Revised Statutes, is amended to read as follows:
+     "§440G-14  Reports.  Each cable operator shall file with the [director] public utilities commission reports of its financial, technical, and operational condition and its ownership.  The reports shall be made in a form and on the time schedule prescribed by the [director] public utilities commission and shall be kept on file open to the public."
+     SECTION 21.  Section 440G-15, Hawaii Revised Statutes, is amended to read as follows:
+     "§440G-15  Annual fees.  (a)  Each cable operator shall pay an annual fee to be determined by the [director.] public utilities commission.  The fees so collected under this section shall be deposited into the [compliance resolution fund established under section 26-9(o).] public utilities commission special fund.
+     (b)  The [director] public utilities commission shall adjust the fees assessed under this section, as necessary from time to time, pursuant to rules adopted in accordance with chapter 91."
+     SECTION 22.  Section 440G-16, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§440G-16  Rules.[]]  The [director] public utilities commission shall adopt rules pursuant to chapter 91 necessary for the purposes of this chapter."
+     SECTION 23.  Act 19, Session Laws of Hawaii 2011, is amended by amending section 4 to read as follows:
+"SECTION 4.  This Act shall take effect on July 1, 2011; provided that this Act shall be repealed on June 30, 2014, and section 440G-13, Hawaii Revised Statutes, shall be reenacted in the form in which it read on the day prior to the effective date of this Act[.]; provided further that the amendments made to section 440G-13, Hawaii Revised Statutes, by section 19 of this Act shall not be repealed on June 30, 2014, upon the reenactment of section 440G-13, Hawaii Revised Statutes, pursuant to section 4 of Act 19, Session Laws of Hawaii 2011."
+     SECTION 24.  All applicable rights, powers, functions, and duties of the department of commerce and consumer affairs relating to cable television systems are transferred to the public utilities commission.
+     All officers and employees whose functions are transferred by this Act shall be transferred with their functions and shall continue to perform their regular duties upon their transfer, subject to the state personnel laws and this Act.
+     No officer or employee of the State having tenure shall suffer any loss of salary, seniority, prior service credit, vacation, sick leave, or other employee benefit or privilege as a consequence of this Act, and such officer or employee may be transferred or appointed to a civil service position without the necessity of examination; provided that the officer or employee possesses the minimum qualifications for the position to which transferred or appointed; and provided that subsequent changes in status may be made pursuant to applicable civil service and compensation laws.
+     An officer or employee of the State who does not have tenure and who may be transferred or appointed to a civil service position as a consequence of this Act shall become a civil service employee without the loss of salary, seniority, prior service credit, vacation, sick leave, or other employee benefits or privileges and without the necessity of examination; provided that such officer or employee possesses the minimum qualifications for the position to which transferred or appointed.
+     If an office or position held by an officer or employee having tenure is abolished, the officer or employee shall not thereby be separated from public employment, but shall remain in the employment of the State with the same pay and classification and shall be transferred to some other office or position for which the officer or employee is eligible under the personnel laws of the State as determined by the head of the department or the governor.
+     SECTION 25.  All appropriations, records, equipment, machines, files, supplies, contracts, books, papers, documents, maps, and other personal property heretofore made, used, acquired, or held by the department of commerce and consumer affairs relating to the functions transferred to the public utilities commission shall be transferred with the functions to which they relate.
+     SECTION 26.  All funds remaining in the compliance resolution fund as of June 30, 2011, shall be transferred and are hereby appropriated into the public utilities commission special fund as those funds relate to chapter 440G, Hawaii Revised Statutes. 
+     SECTION 27.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 28.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Cable Operators; Cable Service; PUC Regulations
+ 
+Description:
+Transfers regulation of cable service from the department of commerce and consumer affairs to the public utilities commission.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

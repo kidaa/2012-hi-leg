@@ -1,0 +1,68 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1387
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PESTICIDES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The purpose of this Act is to reduce the negative impacts of pesticides on public health and the environment through an accurate and detailed collection of pesticide use data that will allow for adequate and scientific assessments of potential health problems related to pesticide exposure.
+     SECTION 2.  Chapter 149A, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows:
+"PART   .  PESTICIDE USE REPORTING
+     §149A-   Pesticide use reporting.  (a)  The department shall establish and implement a pesticide use reporting system.  The data collected by the department shall be published in an annual report, no later than July 1 of the year immediately following the year for which the data was collected, summarizing pesticide use in the State including:
+     (1)  A list of all pesticides used in each county and zip code in the State by type and volume, excluding pesticides defined in the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA), 40 Code of Federal Regulations Section 152.25(f), as minimum risk pesticides;
+     (2)  A summary of health complaints related to pesticide use reported to the department;
+     (3)  Results of investigations by the department of health regarding reported health complaints related to pesticide use;
+     (4)  An analysis of trends in pesticide use;
+     (5)  An assessment of the accuracy of the reported pesticide use data; and
+     (6)  An accounting of the amount and type of pesticides imported into the State and the amount and type of pesticides reported as being used in the State.
+     (b)  The department, in coordination with the department of health, shall categorize all reported pesticide use using the following categories:
+     (1)  Agriculture;
+     (2)  Forestry;
+     (3)  Industrial;
+     (4)  Urban commercial; and
+     (5)  Publicly funded use.  Publicly funded use shall include schools, roadsides, public parks, landscaping, and pest control for all public buildings.
+     (c)  The department shall permit an independent review of the pesticide use collection procedures implemented in accordance with this part, as deemed necessary to ensure accuracy, reliability, and validity of the data collected.
+     (d)  Any health complaints related to pesticide use reported to the department shall be investigated by the department of health.  The department shall notify the department of health within one business day of the received health complaint and shall provide to the department of health all pesticide use data requested by that department within twelve hours of the request.  The department of health shall be the lead agency for health complaint investigations related to pesticides.
+     §149A-   Required information.  Any private or commercial pesticide applicator, including private or commercial pesticide applicators employed by the State, shall report to the department information regarding the use of pesticides, including:
+     (1)  The name of the applicator and pesticide application license number;
+     (2)  The location of the pesticide use, including the address, zip code, description of area, or the geographic information systems coordinates, if necessary;
+     (3)  The brand name, common name, chemical name, and the United States Environmental Protection Agency registration number for the pesticide product;
+     (4)  The quantity of pesticide applied including any mixture amounts of pesticides applied;
+     (5)  The target species and threshold that required treatment, purpose of pesticide application, and type of site for the application;
+     (6)  The weather conditions, including wind speed, at the time and date of application; and
+     (7)  Any other data required by the department for the department of health investigations and for purposes of this part.
+     §149A-   Retail sales.  (a)  All retail establishments licensed to sell pesticides shall report to the department the annual volume sold of each pesticide type.  The department shall adopt a minimum monthly sales quantity that the retail establishment is exempt from reporting.
+     (b)  Any importer of pesticides shall report to the department the amount and type of pesticide imported, excluding pesticides defined in the Federal Insecticide, Fungicide and Rodenticide Act (FIFRA), 40 Code of Federal Regulations Section 152.25(f), as minimum risk pesticides.  For the purposes of this subsection:
+     "Importer" means the person responsible for paying the freight charges to the transportation company for commercial shipments.
+     "Type of pesticide" means the brand name, common name, chemical name, and the United States Environmental Protection Agency registration number for the pesticide product.
+     §149A-   Fees.  The department may implement a pesticide use reporting fee for cost recovery for this part."
+     SECTION 3.  By January 1, 2012, the department of agriculture shall adopt rules pursuant to chapter 91, Hawaii Revised Statutes, to implement this Act.      SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+Report Title:
+Pesticide Use Reporting; Fee
+ 
+Description:
+Requires the Department of Agriculture (DOA) to publish an annual report on pesticide use in the State including investigations of health complaints by the Department of Health.  Requires users of pesticides to report usage to DOA.  Permits DOA to impose a fee to recover costs.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

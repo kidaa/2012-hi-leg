@@ -1,0 +1,72 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1755
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO VOTER REGISTRATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 11, Hawaii Revised Statutes, is amended by adding a new section to part II to be appropriately designated and to read as follows:
+     "§11-     Application to register electronically.  (a)  Notwithstanding any other provision of law, the county clerk may permit a person who has valid government issued identification that is capable of electronic confirmation to submit an application to register to vote electronically, in lieu of a traditional signed application by mail or in person.
+     (b)  The electronic application to register to vote shall be substantially similar in content to the application to register found in section 11-15, and require the applicant to provide substantially similar information.
+     (c)  The applicant’s utilization of the electronic application to register shall constitute assent to obtain confirmatory information regarding the applicant from the government database, associated with the government issued identification, including the applicant’s signature.
+     (d)  The applicant’s signature obtained from the government database may be utilized by election officials to validate and confirm a voter’s identity in any election related matter in which a signature is necessary.
+     (e)  The online registration system may capture additional information from registrants, such as security questions to authenticate any future voter registration transactions by the registrant."
+     SECTION 2.  Section 11-14, Hawaii Revised Statutes, is amended to read as follows:
+     "§11-14  General county register; restrictions in use.  (a)  The clerk of each county shall register all the voters in the clerk's county in the general county register.  The register shall contain the name and address of each voter unless the voter's address is deemed confidential pursuant to section 11-14.5.  Additional information required by section 11-15 may be included in the register at the discretion of the clerk.  [The voter's name shall be maintained alphabetically in the register and be capable of segregation by precinct and representative district.  The clerk shall keep the original or photographic copy of the affidavit of registration required by section 11-15.] The general county register shall be available for election or government purposes only in accordance with section 11-97.
+     (b)  The affidavits filed under section 11-15 and the general county register may be copied, and the clerk may release voter lists [and tabulating cards] or [computer tapes containing] data [furnished in the affidavit]; provided that information furnished in the affidavits[, register, voter lists, cards, or tapes,] shall be copied or released for election or government purposes only in accordance with section 11-97.
+     (c)  Voter registration information that is collected and maintained by the clerk of each county may be transmitted to a central file for the purpose of correlating registration data to prevent or detect duplicate voter registrations and for the compilation of election reports.
+     [(d)  The clerk of each county shall maintain records by computer tape or otherwise of office of Hawaiian affairs registered voters to facilitate their identification as a separate category of voters.]
+     [(e)] (d)  Unless authorized under section 11-97, it shall be unlawful for any person to use, print, publish, or distribute any voter registration information acquired directly or indirectly from the voter registration affidavits or any list prepared therefrom.  Any person who is designated by the clerk to register voters and collect voter registration affidavits shall be advised of the provisions of this subsection.  Any person who violates this subsection shall be guilty of a misdemeanor."
+     SECTION 3.  Section 11-15, Hawaii Revised Statutes, is amended to read as follows:
+     "§11-15  Application to register.  (a)  Any person qualified to and desiring to register as a voter in any county shall make and subscribe to an application in the form of an affidavit.
+     The affidavit shall contain the following information:
+     (1)  Name;
+     (2)  Social security number;
+     (3)  Date of birth;
+     (4)  Residence, including mailing address;
+     (5)  That the residence stated in the affidavit is not simply because of the person's presence in the State, but that the residence was acquired with the intent to make Hawaii the person's legal residence with all the accompanying obligations therein; and
+     (6)  That the person is a citizen.
+     An application to register to vote shall include a space to request a permanent absentee ballot.
+     [(b)  Any person qualified to and desiring to register as a voter for the election of members of the board of trustees of the office of Hawaiian affairs shall make and subscribe to an application in the form of an affidavit which shall state that the person is Hawaiian and which shall contain the information required under subsection (a).  The affidavit shall also apply to all elections, primary, special primary, general, special general, special, or county, held in the State, under all voting systems used within the State, so far as applicable and not inconsistent with this title.]
+     [(c)] (b)  The applicant shall swear to the truth of the allegations by self-subscribing [oath] affirmation in the affidavit on application for voter registration or other form prescribed by the chief election officer.  Unless contested by a qualified voter, the clerk may accept, as prima facie evidence, the allegation of the applicant in information required in the affidavit in subsection (a)(5)[, and the allegation of the applicant that the applicant is Hawaiian required in subsection (b)].  In any other case where the clerk shall so desire or believe the same to be expedient, the clerk may demand that the applicant furnish substantiating evidence to the allegations of the applicant's application.
+     [[d)] (c)  The applicant shall then affix the applicant's signature to the affidavit.  In the case where an applicant is unable to write for the reason of illiteracy, blindness, or other physical disability the applicant's mark shall be witnessed by another person who shall sign the affidavit in the space provided.  A voter having once been registered shall not be required to register again for any succeeding election, except as provided in this chapter.  Affidavits approved by the clerk shall thereupon be numbered appropriately, filed by the clerk and kept available for election or government purposes in accordance with procedures established by section 11-97. Approved voter registration transactions captured by the online voter registration system shall be assigned a transaction number that is substantially similar to the numbering of affidavits.
+     [(e)] (d)  The clerk may designate a subordinate or subordinates to act in the clerk's place and stead in all matters covered by this section, except that no candidate shall be eligible to serve as a subordinate."
+     SECTION 4.  Section 11-24, Hawaii Revised Statutes, is amended to read as follows:
+     "§11-24  Closing register[; list of voters].  (a)  At 4:30 p.m. on the thirtieth day prior to each primary, special primary, or special election (but if the day is a Saturday, Sunday, or holiday then at 4:30 p.m. on the first working day immediately thereafter), the general county register shall be closed to registration for persons seeking to vote at the primary, special primary or special election and remain closed to registration until after the election, subject to change only as provided in sections 11-21(c), 11-22, 11-25, 11-26, and this section.
+     (b)  Notwithstanding the closing of the register for registration to vote at the primary or special primary election, the register shall remain open for the registration of persons seeking to vote at the general or special general election, until 4:30 p.m. on the thirtieth day prior to the general or special general election (but if the day is a Saturday, Sunday, or holiday then at 4:30 p.m. on the first working day immediately thereafter), at the end of which period the general county register shall be closed to registration and remain closed until after the general or special general election next following, subject to change only as provided in sections 11-21(c), 11-22, 11-25, and 11-26.
+     [(c)  Immediately upon the closing of the general county register, the clerk shall proceed to prepare a list of all registered voters in each precinct, separately.  The list shall contain, in alphabetical order, without designation of the race or age of voters, the names of all voters so registered in each precinct, and the residence of each unless such residence is deemed confidential pursuant to section 11-14.5.  The list shall be available for inspection at the office of the county clerk prior to election day.  On election day the precinct officials shall post the list at the precinct polling place.]"
+     SECTION 5.  There is appropriated out of the general revenues of the State of Hawaii the sum of $500,000 or so much thereof as may be necessary for fiscal year 2012-2013 for the purpose of planning and designing an online voter registration system.  Additionally, any remaining funds may be used toward the implementation of the online voter registration system.
+     The sum appropriated shall be expended by the office of elections for the purposes of this Act.
+     SECTION 6.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 7.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Voter Registration; Appropriation; Office of Elections Package
+ 
+Description:
+Updates voter registration laws, including authorizing the acceptance of electronic applications to register to vote and the development of an online voter registration system that will cross-check the contents of the application with data associated with previously issued government identification.  Makes an appropriation.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

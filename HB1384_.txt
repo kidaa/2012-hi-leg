@@ -1,0 +1,49 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1384
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PRESCRIPTION MEDICATIONS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that prior authorization for prescription medications requires that physicians obtain approval from a health insurance carrier to prescribe a specific medication for their patients.  Without this prior authorization, a health insurance carrier may not provide coverage, or pay for, patient medication.  Despite its growing visibility and importance, the prior authorization process is often manual and non-standard, creating administrative burdens and costs to health care providers and health insurance carriers.  It also may result in patients experiencing delays in getting prescriptions filled, leading to potentially adverse health impacts.
+     While prescription drugs requiring prior authorization consists of only a small fraction of all prescribed medications, the number of drugs requiring prior authorization and the number of prior authorizations have grown rapidly in recent years.  Hence, prior authorization has become a widely adopted method of drug utilization management.
+     In February 2010, the Minnesota department of health, in its report entitled "Electronic Drug Prior Authorization Standardization and Transmission", suggested the following best approaches to standardize prior authorization requests, including:
+     (1)  Extensive use of direct, computer-to-computer, automated electronic data interchange, based on well-established, widely-used national standards that are well suited to the drug prior authorization transaction;
+     (2)  A single, standard list of drugs requiring prior authorizations, and a standard set of questions used by payers to gather supplemental information needed to process prior authorization requests, that are the same across all payers; and
+     (3)  Full and effective integration with other health care electronic data exchange, especially electronic prescribing and electronic health records.
+     The purpose of this Act is to require the insurance commissioner to develop a standardized prior authorization form and process to minimize the cost and maximize the efficiency of processing prior authorizations.
+     SECTION 2.  Not later than December 31, 2011, in accordance with the general powers afforded by section 431:2-201, Hawaii Revised Statutes, the insurance commissioner shall develop a standardized prior authorization request form and process for prescription medications that can be used between health care providers and insurance carriers with the goal of minimizing costs and maximizing administrative simplification and efficiency.  The prior authorization form and process shall be accessible and available for submission electronically through secure electronic transmissions.  For the purposes of this Act, the term "electronic transmission" shall not be deemed to include facsimile.
+     SECTION 3.  The insurance commissioner shall convene a working group comprised of health care providers, pharmacists, insurance carriers, health maintenance organizations, governmental agencies, and other key stakeholders to assist in the development of a standardized prior authorization form and process.
+     SECTION 4.  The insurance commissioner shall provide a report of its proceedings, recommendations, and results on implementing this Act not later than thirty days prior to the convening of the regular session of 2012.
+     SECTION 5.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Insurance; Prior Authorization
+ 
+Description:
+Requires the insurance commissioner to develop a standardized prior authorization request form and process for prescription medications for use by health care providers and insurance carriers.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

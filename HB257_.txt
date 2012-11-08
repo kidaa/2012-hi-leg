@@ -1,0 +1,239 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+257
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CAMPAIGN SPENDING.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 11-302, Hawaii Revised Statutes, is amended by adding three new definitions to be appropriately inserted and to read as follows:
+     ""Address" means a street address, post office box address or mail box address, and the zip code; but does not include a website address.
+     "Automated phone call" means any outbound telephone call or electronic voice message that plays a recorded message that advocates, supports, or opposes:
+     (1)  The nomination or election of a candidate; or
+     (2)  A question or issue certified to be on the ballot in the next election.
+     "Matching payment period" means:
+     (1)  For a primary election, from January 1 of the year of a general election through the day of the primary election, or nine months prior to a special election through the day of a special election; and
+     (2)  For a general election, from January 1 of the year of the general election through the day of the general election."
+     SECTION 2.  Section 11-314, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§11-314[]]  Duties of the commission.  The duties of the commission under this part are to:
+     (1)  Develop and adopt forms required by this part;
+     (2)  Adopt and publish a manual for all candidates, candidate committees, and noncandidate committees, describing the requirements of this part, including uniform and simple methods of recordkeeping;
+     (3)  Preserve all reports required by this part for at least ten years from the date of receipt by the commission;
+     (4)  Permit the inspection, copying, or duplicating of any report required by this part pursuant to rules adopted by the commission under chapter 91; provided that this paragraph shall not apply to the sale or use of information under section 11-344;
+     (5)  Ascertain whether any candidate, candidate committee, noncandidate committee, or party has failed to file a report required by this part or has filed a substantially defective or deficient report.  The commission shall notify these persons by first class mail that a fine may be assessed for the failure to file or the filing of a substantially defective or deficient report, and the defective or deficient report shall be corrected and explained.  All fines collected under this section as authorized by section [11-410] 11-340 shall be deposited in the general fund of the State;
+     (6)  Hold public hearings;
+     (7)  Investigate and hold hearings for receiving evidence of any violations pursuant to subpart I of this part;
+     (8)  Adopt rules pursuant to chapter 91;
+     (9)  Request the initiation of prosecution for the violation of this part pursuant to section 11-411;
+    (10)  Administer and monitor the distribution of public funds under this part;
+    (11)  Suggest accounting methods for candidates, candidate committees, or noncandidate committees in connection with reports and records required by this part;
+    (12)  Employ or contract [with,] without regard to chapters 76, 78, and 89, persons it finds necessary for the performance of its functions, including a full-time executive director, and to fix their compensation; provided that the commission shall have the authority, at its discretion, to dismiss persons employed by or contracted with the commission;
+    (13)  Conduct random audits and field investigations, as necessary; and
+    (14)  File for injunctive relief when indicated."
+     SECTION 3.  Section 11-321, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§11-321[]]  Registration of candidate committee or noncandidate committee.  (a)  Each candidate committee or noncandidate committee shall register with the commission by filing an organizational report as set forth in section 11-322 or 11-323, as applicable.
+     (b)  Before filing the organizational report, each candidate committee or noncandidate committee shall mail or deliver an electronic filing form to the commission.
+     (c)  The electronic filing form shall include a written acceptance of appointment and certification of each report, as follows:
+     (1)  A candidate committee shall file a written acceptance of appointment by the chairperson and treasurer and a certification by the candidate and treasurer of each filed report; or
+     (2)  A noncandidate committee shall file a written acceptance of appointment by the chairperson and treasurer and a certification by the chairperson and treasurer of each filed report.
+     (d)  The organizational report for a candidate committee shall be filed within ten days of the earlier of:
+     (1)  The date the candidate files nomination papers for office; or
+     (2)  The date the candidate or candidate committee receives contributions or makes or incurs expenditures of more than $100 in the aggregate during the applicable election period.
+     (e)  An organizational report need not be filed under this section by an elected official who is a candidate for reelection to the same office in successive elections and has not sought election to any other office during the period between elections, unless the candidate is required to report a change in information pursuant to section [11-323.] 11-322.
+     (f)  A candidate shall have only one candidate committee.
+     (g)  The organizational report for a noncandidate committee shall be filed within ten days of receiving contributions or making or incurring expenditures of more than $1,000, in the aggregate, in a two-year election period; provided that within the thirty-day period prior to an election, a noncandidate committee shall register by filing an organizational report within two days of receiving contributions or making or incurring expenditures of more than $1,000, in the aggregate, in a two-year election period.
+     (h)  The fine for not filing an organizational report by the due date is $100."
+     SECTION 4.  Section 11-331, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§11-331[]]  Filing of reports, generally.  (a)  Every report required to be filed by a candidate or candidate committee shall be certified by the candidate and treasurer.
+     (b)  Every report required to be filed by a noncandidate committee shall be certified by the chairperson and treasurer.
+     (c)  Every person signing the application for electronic filing shall certify that the electronically filed reports are true and correct.
+     [(c)] (d)  All reports required to be filed under this part shall be filed on the commission's electronic filing system.
+     [(d)] (e)  For purposes of this part, whenever a report is required to be filed with the commission, "filed" means that a report shall be filed with the commission's electronic filing system by the date and time specified for the filing of the report by:
+     (1)  The candidate or candidate committee of a candidate who is seeking election to the:
+         (A)  Office of governor;
+         (B)  Office of lieutenant governor;
+         (C)  Office of mayor;
+         (D)  Office of prosecuting attorney;
+         (E)  County council;
+         (F)  Senate;
+         (G)  House of representatives;
+         (H)  Office of Hawaiian affairs; or
+         (I)  Board of education; or
+     (2)  A noncandidate committee required to be registered with the commission pursuant to section [11-323.] 11-321.
+     [(e)] (f)  To be timely filed, a committee's reports shall be filed with the commission's electronic filing system on or before 11:59 p.m. Hawaiian standard time on the filing date specified.
+     [(f)] (g)  All reports filed under this part are public records."
+     SECTION 5.  Section 11-334, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§11-334[]]  Time for candidate committee to file preliminary, final, and supplemental reports.  (a)  The candidate and treasurer of the candidate committee of each candidate whose name will appear on the ballot in the immediately succeeding election shall file preliminary, final, and supplemental reports.
+     (1)  The filing dates for preliminary reports are:
+         (A)  July [31] 5 of the election year;
+         (B)  Ten calendar days prior to a primary, each special, or each nonpartisan election; and
+         (C)  Ten calendar days prior to a general election; provided that this preliminary report does not need to be filed by a candidate who is unsuccessful in a primary, special, or nonpartisan election or a candidate who is elected to office in the primary, initial special, or initial nonpartisan election.
+          Each preliminary report shall be current through June 30 for the report filed on July [31] 5 and current through the fifth calendar day before the filing deadline of other preliminary reports.
+     (2)  The filing date for the final primary report is twenty calendar days after a primary, initial special, or initial nonpartisan election.  The report shall be current through the day of the applicable election.
+     (3)  The filing date for the final election period report is thirty calendar days after a general, subsequent, subsequent special, or subsequent nonpartisan election.  The report shall be current through the day of the applicable election.  The final election period report shall be filed by a candidate who is unsuccessful in a primary, initial special, or initial nonpartisan election or a candidate who is elected to office in the primary, initial special, or initial nonpartisan election.
+     (4)  The filing dates for supplemental reports are:
+         (A)  January 31 after an election year; and
+         (B)  July 31 after an election year.
+          The report shall be current through December 31 for the report filed on January 31 and current through June 30 for the report filed on July 31.
+     (b)  A candidate and treasurer of the candidate committee of each candidate with a deficit or surplus whose name will not appear on the ballot in the immediately succeeding election shall file a supplemental report every six months on January 31 and July 31 until:
+     (1)  The candidate's name appears on the ballot and then is subject to the reporting requirements in subsection (a); or
+     (2)  The committee's registration is terminated as provided in section 11-326.
+     The report shall be current through December 31 for the report filed on January 31 and current through June 30 for the report filed on July 31.
+     (c)  Prior to an election year, a candidate and treasurer of the candidate committee of a candidate who registers pursuant to section 11-321 shall file a supplemental report as required by subsection (b) until the election year.  During the election year, reports required by subsection (a) shall be filed.
+     [(c)] (d)  A candidate and treasurer of the candidate committee of each candidate shall continue to file all required reports until the committee's registration is terminated as provided in section 11-326."
+     SECTION 6.  Section 11-335, Hawaii Revised Statutes, is amended by amending subsections (a) and (b) to read as follows:
+     "(a)  The authorized person in the case of a party, or treasurer in the case of a noncandidate committee that is not a party, shall file preliminary, final, and supplemental reports that disclose the following information:
+     (1)  The noncandidate committee's name and address;
+     (2)  The cash on hand at the beginning of the reporting period and election period;
+     (3)  The reporting period and election period aggregate totals for each of the following categories:
+         (A)  Contributions[;] received;
+         (B)  Contributions made;
+       [(B)]  (C)  Expenditures; and
+       [(C)]  (D)  Other receipts;
+     (4)  The cash on hand at the end of the reporting period; and
+     (5)  The surplus or deficit at the end of the reporting period.
+     (b)  Schedules filed with the reports shall include the following additional information:
+     (1)  The amount and date of deposit of each contribution received and the name, address, occupation, and employer of each contributor making a contribution aggregating more than $100 during an election period, which was not previously reported; provided that if all the information is not on file, the contribution shall be returned to the contributor within thirty days of deposit;
+     (2)  The amount and date of each contribution made, and the name and address of the candidate committee or noncandidate committee to which the contribution was made;
+    [(2)] (3)  All expenditures, including the name and address of each payee and the amount, date, and purpose of each expenditure.
+         (A)  Expenditures for consultants, advertising agencies and similar firms, credit card payments, salaries, and candidate reimbursements shall be itemized to permit a reasonable person to determine the ultimate intended recipient of the expenditure and its purpose;
+         (B)  The purpose of an independent expenditure shall include the name of the candidate who is supported or opposed by the expenditure, and whether the expenditure supports or opposes the candidate;
+    [(3)] (4)  The amount, date of deposit, and description of other receipts and the name and address of the source of each of the other receipts;
+    [(4)] (5)  A description of each durable asset, the date of acquisition, value at the time of acquisition, and the name and address of the vendor or contributor of the asset; and
+    [(5)] (6)  The date of disposition of a durable asset, value at the time of disposition, method of disposition, and name and address of the person receiving the asset.
+     SECTION 7.  Section 11-336, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  The filing dates for preliminary reports are:
+     (1)  Ten calendar days prior to a primary, each special, or each nonpartisan election; and
+     (2)  Ten calendar days prior to a general election.
+     Each preliminary report shall be current through the fifth calendar day prior to the filing of the report."
+     SECTION 8.  Section 11-341, Hawaii Revised Statutes, is amended as follows:
+     "[[]§11-341[]]  Electioneering communications; statement of information.  (a)  Each person who makes [a disbursement] an expenditure for electioneering communications in an aggregate amount of more than $2,000 during any calendar year shall file with the commission a statement of information within twenty-four hours of each disclosure date provided in this section.
+     (b)  Each statement of information shall contain the following:
+     (1)  The name and address of the person making the [disbursement,] expenditure, name of any person or entity sharing or exercising discretion or control over such person, and the custodian of the books and accounts of the person making the [disbursement;] expenditure;
+     (2)  The state of incorporation and principal place of business or, for an individual, the address of the person making the [disbursement;] expenditure;
+     (3)  The amount of each [disbursement] expenditure during the period covered by the statement and the date and purpose of each expenditure, and the [identification of the person to whom the disbursement was made;] name and address of each payee;
+     (4)  The elections to which the electioneering communications pertain and the names, if known, of the candidates identified or to be identified;
+    [(5)  If the disbursements were made by a candidate committee or noncandidate committee, the names and addresses of all persons who contributed to the candidate committee or noncandidate committee for the purpose of publishing or broadcasting the electioneering communications;
+     (6)] (5)  If the [disbursements] expenditures were made by an organization other than a [candidate committee or] noncandidate committee, the names and addresses of all persons who contributed to the organization for the purpose of publishing or broadcasting the electioneering communications; and
+    [(7)] (6)  Whether or not any electioneering communication is made in coordination, cooperation, or concert with or at the request or suggestion of any candidate, candidate committee, [or noncandidate committee,] or agent of any candidate if any, and if so, the identification of the candidate, a candidate committee [or a noncandidate committee], or agent involved.
+     (c)  For purposes of this section:
+     "Disclosure date" means, for every calendar year, the first date by which a person has made [disbursements] expenditures during that same year of more than $2,000 in the aggregate for electioneering communications, and the date of any subsequent [disbursements] expenditures exceeding $1,000 in the aggregate by that person for electioneering communications.
+     "Electioneering communication" means any advertisement that is broadcast from a cable, satellite, television, or radio broadcast station; published in any periodical or newspaper; or sent by mail at a bulk rate, and that:
+     (1)  Refers to a clearly identifiable candidate;
+     (2)  Is made, or scheduled to be made, either within thirty days prior to a primary or initial special election or within sixty days prior to a general or special election; and
+     (3)  Is not susceptible to any reasonable interpretation other than as an appeal to vote for or against a specific candidate.
+     "Electioneering communication" shall not include communications:
+     (1)  In a news story or editorial disseminated by any broadcast station or publisher of periodicals or newspapers, unless the facilities are owned or controlled by a candidate, candidate committee, or noncandidate committee;
+     (2)  That constitute expenditures by [the disbursing organization;] a registered candidate committee or noncandidate committee;
+     (3)  In house bulletins; or
+     (4)  That constitute a candidate debate or forum, or solely promote a debate or forum and are made by or on behalf of the person sponsoring the debate or forum.
+     (d)  For purposes of this section, a person shall be treated as having made [a disbursement] an expenditure if the person has executed a contract to make the [disbursement.] expenditure.
+     (e)  The fine for not filing an electioneering communications statement by the due date is $100."
+     SECTION 9.  Section 11-342, Hawaii Revised Statutes, is amended to read as follows:"
+     "[[]§11-342[]]  Fundraiser; notice of intent.  (a)  No fundraiser shall be held unless a notice of intent to hold the fundraiser is filed with the commission setting forth the name and address of the person in charge, the price per person, the date, hour, and place of the fundraiser, and the method thereof.
+     (b)  The person in charge of the fundraiser shall file the notice with the commission prior to the fundraiser.
+     (c)  As used in this section, "fundraiser" means any function held for the benefit of a candidate, candidate committee, or noncandidate committee that is intended or designed, directly or indirectly, to raise contributions for which the price or suggested contribution for attending the function is more than $25 per person.
+     (d)  The fine for not filing a notice of intent to hold a fundraiser prior to the fundraiser is $100."
+     SECTION 10.  Section 11-355, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:"         "(b)  [Except as provided in subsection (a), this] This section does not prohibit or make unlawful [the]:
+     (1)  The establishment or administration of, or the solicitation of contributions to, any noncandidate committee by any person other than the state or county contractor for the purpose of influencing the nomination for election, or the election of any person to office[.]; or
+     (2)  Contributions to a ballot issue noncandidate committee."
+     SECTION 11.  Section 11-359, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  A contribution by the candidate's immediate family shall be exempt from section [11-355,] 11-357, but shall be limited in the aggregate to $50,000 in any election period; provided that the aggregate amount of loans and contributions received from the candidate's immediate family does not exceed $50,000 during an election period."
+     SECTION 12.  Section 11-381, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  Campaign funds may be used by a candidate, treasurer, or candidate committee:
+     (1)  For any purpose directly related:
+         (A)  In the case of the candidate, to the candidate's own campaign; or
+         (B)  In the case of a candidate committee or treasurer of a candidate committee, to the campaign of the candidate, question, or issue with which they are directly associated;
+     (2)  To purchase or lease consumer goods, vehicles, equipment, and services that provide a mixed benefit to the candidate.  The candidate, however, shall reimburse the candidate's candidate committee for the candidate's personal use unless the personal use is de minimis;
+     (3)  To make donations to any community service, educational, youth, recreational, charitable, scientific, or literary organization; provided that in any election period, the total amount of all donations shall be no more than twice the maximum amount that one person may contribute to that candidate pursuant to section 11-357; provided further that no contributions shall be made from the date the candidate files nomination papers to the date of the general election;
+     (4)  To make donations to any public school or public library; provided that in any election period, the total amount of all contributions shall be no more than twice the maximum amount that one person may contribute to that candidate pursuant to section 11-357; provided further that any donation under this paragraph shall not be aggregated with or imputed toward any limitation on donations pursuant to paragraph (3);
+     (5)  To purchase not more than two tickets with a maximum price of $100 per ticket for each event held by another candidate [or] committee[,] or noncandidate committee, whether or not the event constitutes a fundraiser as defined in section 11-342;
+     (6)  To make contributions to the candidate's party so long as the contributions are not earmarked for another candidate; or
+     (7)  To pay for ordinary and necessary expenses incurred in connection with the candidate's duties as a holder of an office."
+     SECTION 13.  Section 11-391, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§11-391[]]  Advertisements.  (a)  Any advertisement shall contain:
+     (1)  The name and address of the candidate, candidate committee, noncandidate committee, or other person paying for or placing the advertisement; and
+     (2)  A notice in a prominent location stating either that:
+         (A)  The advertisement is published, broadcast, televised, or circulated with the approval and authority of the candidate; provided that an advertisement paid for by a candidate, candidate committee, or ballot issue committee does not need to include the notice; or
+         (B)  The advertisement is published, broadcast, televised, or circulated without the approval and authority of the candidate.
+     (b)  The fine for violation of this section, if assessed by the commission, shall not exceed $25 for each advertisement that lacks the information required by this section, and shall not exceed an aggregate amount of $5,000.
+     (c)  The information required in subsection (a) shall be stated at the beginning of an automated phone call."
+     SECTION 14.  Section 11-422, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  For the purpose of the partial funding program, if the Hawaii election campaign fund is close to depletion as determined by the commission, the commission shall determine the amounts available to eligible candidates based on their order of eligibility in qualifying for partial public funds, as determined by the date of filing of an application for public funds with the commission pursuant to section [11-428;] 11-430; provided that the application has been accepted by the commission."
+     SECTION 15.  Section 11-423, Hawaii Revised Statutes, is as follows:
+     1.  By amending subsection (b) to read:
+     "(b)  The affidavit shall state that the candidate knows the voluntary campaign expenditure limitations as set out in this part and that the candidate is voluntarily agreeing to limit the candidate's expenditures and those made on the candidate's behalf by the amount set by law.  The affidavit shall be subscribed to by the candidate and notarized[.] and filed no later than the time of filing nomination papers with the chief election officer or county clerk."
+     2.  By amending subsection (d) to read:
+     "(d)  From January 1 of the year of any primary, special, or general election, the aggregate expenditures for each election by a candidate who voluntarily agrees to limit campaign expenditures, inclusive of all expenditures made or authorized by the candidate alone, all treasurers, the candidate committee, and noncandidate committees on the candidate's behalf, shall not exceed the following amounts expressed, respectively multiplied by the number of voters in the last preceding general election registered to vote in each respective voting district:
+     (1)  For the office of governor — $2.50;
+     (2)  For the office of lieutenant governor — $1.40;
+     (3)  For the office of mayor — $2.00;
+     (4)  For the offices of state senator, state representative, [and] county council member, and prosecuting attorney — $1.40; and
+     (5)  For the board of education and all other offices — 20 cents."
+     SECTION 16.  Section 11-426, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§11-426[]]  Candidate exceeds voluntary expenditure limit.  A candidate who files the affidavit agreeing to limit expenditures and who exceeds the expenditure limit for that election shall:
+     (1)  Notify all opponents, the chief election officer, and the commission by telephone and writing on the day the expenditure limit is exceeded; and
+     (2)  Pay the balance of the full filing fee[; and
+     (3)  Provide reasonable notice to all contributors within thirty days of exceeding the limit that the expenditure limit was exceeded and contributions to the candidate no longer qualify for a state income tax deduction]."
+     SECTION 17.  Section 11-429, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  As a condition of receiving public funds for a primary or general election, a candidate shall not be unopposed in any election for which public funds are sought, shall have filed an affidavit with the commission pursuant to section 11-423 to voluntarily limit the candidate's campaign expenditures, and shall be in receipt of the following sum of qualifying contributions in amounts of $100 or less during each matching payment period from individual residents of Hawaii:
+     (1)  For the office of governor — qualifying contributions that in the aggregate exceed $100,000;
+     (2)  For the office of lieutenant governor — qualifying contributions that in the aggregate exceed $50,000;
+     (3)  For the office of mayor for each respective county:
+         (A)  County of Honolulu — qualifying contributions that in the aggregate exceed $50,000;
+         (B)  County of Hawaii — qualifying contributions that in the aggregate exceed $15,000;
+         (C)  County of Maui — qualifying contributions that in the aggregate exceed $10,000; and
+         (D)  County of Kauai — qualifying contributions that in the aggregate exceed $5,000;
+     (4)  For the office of prosecuting attorney for each respective county:
+         (A)  County of Honolulu — qualifying contributions that in the aggregate exceed $30,000;
+         (B)  County of Hawaii — qualifying contributions that in the aggregate exceed $10,000; and
+         (C)  County of Kauai — qualifying contributions that in the aggregate exceed $5,000;
+     (5)  For the office of county council — for each respective county:
+         (A)  County of Honolulu — qualifying contributions that in the aggregate exceed $5,000;
+         (B)  County of Hawaii — qualifying contributions that in the aggregate exceed $1,500;
+         (C)  County of Maui — qualifying contributions that in the aggregate exceed $5,000; and
+         (D)  County of Kauai — qualifying contributions that in the aggregate exceed $3,000;
+     (6)  For the office of state senator — qualifying contributions that, in the aggregate exceed $2,500;
+     (7)  For the office of state representative — qualifying contributions that, in the aggregate, exceed $1,500;
+     (8)  For the office of Hawaiian affairs — qualifying contributions that, in the aggregate, exceed $1,500; and
+     (9)  For all other offices, qualifying contributions that, in the aggregate, exceed $500."
+     SECTION 18.  Section 11-433, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§11-433[]]  Post-election report required.  (a)  The treasurer shall electronically submit an expenditure of public funds report to the commission no later than twenty days after a primary election and no later than thirty days after a general election certifying that all public funds paid to the candidate have been used as required by this part.
+     Should the commission determine that any portion of the public funds have been used for noncampaign or other improper expenses, it shall report such finding to the attorney general and shall order the candidate to return all or part of the funds paid to that candidate for a primary or general election.  When public funds are returned, the funds shall be deposited into the Hawaii election campaign fund.
+     (b)  The fine for not filing an expenditure of public funds report by the due date is $100."
+     SECTION 19.  Section 11-424, Hawaii Revised Statutes, is repealed.
+     "[[§11-424]  Tax deduction for qualifying contributions.  (a)  An individual resident of Hawaii may claim a state income tax deduction pursuant to section 235-7(g)(2), for contributions to a candidate who files an affidavit pursuant to section 11-423 and does not exceed the expenditure limit.  Canceled checks or copies of the same shall be considered adequate receipt forms to attach to the tax form to claim the credit.
+     (b)  The commission shall forward a certified copy of the affidavit to the director of taxation.
+     (c)  If a candidate has not filed the affidavit pursuant to section 11-423, the candidate shall inform all contributors in writing immediately upon receipt of the contribution that they are not entitled to a tax deduction for their contributions to the candidate.  The director of taxation shall not allow any contributor to take a deduction, pursuant to section 235-7(g)(2), for any contribution to a candidate for a statewide or county office who has not filed the affidavit pursuant to section 11-423.]"
+     SECTION 20.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 21.  This Act shall take effect on approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+By Request
+ 
+
+ 
+Report Title:
+Campaign Finance
+ 
+Description:
+Provides regulation of automated phone calls, changes report filing deadlines, provides a cap of $100 on the price of fundraiser tickets that may be purchased with campaign funds, and applies notice and disclaimer requirements to an advertisement that is not paid for by an independent party.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,81 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1180
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO TAXATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that the transfer of ownership of a business entity is comparable to the sale of an interest in real property held by the entity.  The legislature believes that all transfers of possession or use of real property should be subject to the same conveyance tax obligations.
+     The purpose of this Act is to apply the conveyance tax to transfers of entity ownership when the transfer of entity ownership is essentially equivalent to the sale of an interest in real property.
+     SECTION 2.  Chapter 247, Hawaii Revised Statutes, is amended by adding two new sections to be appropriately designated and to read as follows:
+     "§247-A  Transfer of a controlling interest; applicability.  (a)  Notwithstanding any provision to the contrary, the tax imposed by section 247-1 shall apply to the transfer or acquisition, or a series of transfers or acquisitions, including those combined with otherwise exempt transfers, by any person or entity, either acting alone or in concert, within any twelve-month period, that result in the transfer of a controlling interest in an entity with an interest in real property located in this State for valuable consideration and which also results in the transfer of control or ownership of the real property located in this State.
+     (b)  For the purpose of determining whether, pursuant to the exercise of an option, a controlling interest was transferred or acquired within a twelve-month period, the date that the option agreement was executed shall be the date on which the transfer or acquisition of the controlling interest is deemed to occur.  For all other purposes under this chapter, the date upon which the option is exercised is the date of the transfer or acquisition of the controlling interest.
+     (c)  For the purposes of this section with regard to persons acting in concert:
+     (1)  All acquisitions of persons acting in concert shall be aggregated for the purpose of determining whether a transfer or acquisition of a controlling interest has taken place;
+     (2)  Persons shall be considered as acting in concert when they have a relationship with each other such that one person influences or controls the actions of another through common ownership;
+     (3)  Persons shall be considered to be acting in concert only when the unity with which the purchasers negotiate and consummate the transfer of ownership interests supports a finding that the persons are acting as a single entity; and
+     (4)  If acquisitions are completely independent and each purchaser purchases without regard to the identity of the other purchasers, then the acquisitions shall be considered separate acquisitions.
+     (d)  As used in this section, "controlling interest" means:
+     (1)  In the case of a corporation, either fifty per cent or more of the total combined voting power of all classes of stock of the corporation entitled to vote, or fifty per cent or more of the capital, profits, or beneficial interest in the voting stock of the corporation; and
+     (2)  In the case of a partnership, association, trust, or other entity, fifty per cent or more of the capital, profits, or beneficial interest in the partnership, trust, or other entity.
+     (e)  The director shall adopt rules pursuant to chapter 91 to implement this section, including rules for determining whether persons are acting in concert for the purpose of transferring or acquiring a controlling interest.
+     §247-B  Taxation at the lowest rate.  The tax imposed by section 247-1 shall apply to the following at the lowest rate provided in section 247-2(1), regardless of the value of the real property:
+     (1)  Any document or instrument conveying real property, or any interest therein, from an entity that is a party to a merger or consolidation under chapter 414, 414D, 415A, 421, 421C, 425, 425E, or 428 to the surviving or new entity;
+     (2)  Any document or instrument conveying real property, or any interest therein, from a dissolving limited partnership to its corporate general partner that owns, directly or indirectly, at least a ninety per cent interest in the partnership, determined by applying section 318 (with respect to constructive ownership of stock) of the federal Internal Revenue Code of 1986, as amended, to the constructive ownership of interests in the partnership;
+     (3)  Any document or instrument conveying real property to any nonprofit or for-profit organization that has been certified by the Hawaii housing finance and development corporation for low-income housing development; and
+     (4)  Any document or instrument conveying real property, or any interest therein, to or from a wholly-owned corporation or limited liability company."
+     SECTION 3.  Section 247-1, Hawaii Revised Statutes, is amended to read as follows:
+     "§247-1  Imposition of tax.  There is hereby imposed and shall be levied, collected, and paid, a tax as hereinafter provided, on all transfers or conveyances of realty located in the State or any interest therein, by way of deeds, leases, subleases, assignments of lease, agreements of sale, assignments of agreement of sale, instruments, writings, and any other document, whereby any lands, interests in land, tenements, or other realty sold shall be granted, assigned, transferred, or otherwise conveyed to, or vested in, the purchaser or purchasers, lessee or lessees, sublessee or sublessees, assignee or assignees, or any other person or persons, by the person's or their direction[.], including a transfer of a controlling interest as that term is defined in section 247-A."
+     SECTION 4.  Section 247-3, Hawaii Revised Statutes, is amended to read as follows:
+     "§247-3  Exemptions.  The tax imposed by section 247-1 shall not apply to:
+     (1)  Any document or instrument that is executed prior to January 1, 1967;
+     (2)  Any document or instrument that is given to secure a debt or obligation;
+     (3)  Any document or instrument that only confirms or corrects a deed, lease, sublease, assignment, transfer, or conveyance previously recorded or filed;
+     (4)  Any document or instrument between husband and wife, reciprocal beneficiaries, or parent and child, in which only a nominal consideration is paid;
+     (5)  Any document or instrument in which there is a consideration of $100 or less paid or to be paid;
+     (6)  Any document or instrument conveying real property that is executed pursuant to an agreement of sale, and where applicable, any assignment of the agreement of sale, or assignments thereof; provided that the taxes under this chapter have been fully paid upon the agreement of sale, and where applicable, upon such assignment or assignments of agreements of sale;
+     (7)  Any deed, lease, sublease, assignment of lease, agreement of sale, assignment of agreement of sale, instrument or writing in which the United States or any agency or instrumentality thereof or the State or any agency, instrumentality, or governmental or political subdivision thereof are the only parties thereto;
+     (8)  Any document or instrument executed pursuant to a tax sale conducted by the United States or any agency or instrumentality thereof or the State or any agency, instrumentality, or governmental or political subdivision thereof for delinquent taxes or assessments;
+     (9)  Any document or instrument conveying real property to the United States or any agency or instrumentality thereof or the State or any agency, instrumentality, or governmental or political subdivision thereof pursuant to the threat of the exercise or the exercise of the power of eminent domain;
+    (10)  Any document or instrument that solely conveys or grants an easement or easements;
+    (11)  Any document or instrument whereby owners partition their property, whether by mutual agreement or judicial action; provided that the value of each owner's interest in the property after partition is equal in value to that owner's interest before partition;
+    (12)  Any document or instrument between marital partners or reciprocal beneficiaries who are parties to a divorce action or termination of reciprocal beneficiary relationship that is executed pursuant to an order of the court in the divorce action or termination of reciprocal beneficiary relationship;
+    (13)  Any document or instrument conveying real property from a testamentary trust to a beneficiary under the trust; and
+    (14)  Any document or instrument conveying real property from a grantor to the grantor's revocable living trust, or from a grantor's revocable living trust to the grantor as beneficiary of the trust[;
+    (15)  Any document or instrument conveying real property, or any interest therein, from an entity that is a party to a merger or consolidation under chapter 414, 414D, 415A, 421, 421C, 425, 425E, or 428 to the surviving or new entity;
+    (16)  Any document or instrument conveying real property, or any interest therein, from a dissolving limited partnership to its corporate general partner that owns, directly or indirectly, at least a ninety per cent interest in the partnership, determined by applying section 318 (with respect to constructive ownership of stock) of the federal Internal Revenue Code of 1986, as amended, to the constructive ownership of interests in the partnership; and
+    (17)  Any document or instrument conveying real property to any nonprofit or for-profit organization that has been certified by the Hawaii housing finance and development corporation for low-income housing development]."
+     SECTION 5.  In codifying the new sections added by section 2 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 6.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 7.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Conveyance Tax; Controlling Interest Transfer
+ 
+Description:
+Imposes conveyance tax on the transfer of a controlling interest of an entity with an interest in real property.  Imposes the conveyance tax on certain transfers of real property at the lowest tax rate.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,48 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2705
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO NEGOTIABLE INSTRUMENTS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 490:3-308, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  If the validity of signatures is admitted or proved and there is compliance with subsection (a), a plaintiff producing the instrument is entitled to payment if the plaintiff proves entitlement to enforce the instrument [under section 490:3-301], unless the defendant proves a defense or claim in recoupment.  If a defense or claim in recoupment is proved, the right to payment of the plaintiff is subject to the defense or claim, except to the extent the plaintiff proves that the plaintiff has rights of a holder in due course which are not subject to the defense or claim."
+     SECTION 2.  Section 490:3-103, Hawaii Revised Statutes, is amended by deleting the definition of "Person entitled to enforce".
+     "["Person entitled to enforce".  Section 490:3-301.]"     SECTION 3.  Section 490:3-301, Hawaii Revised Statutes, is repealed.
+     "[§490:3-301  Person entitled to enforce instrument.  "Person entitled to enforce" an instrument means (i) the holder of the instrument, (ii) a nonholder in possession of the instrument who has the rights of a holder, or (iii) a person not in possession of the instrument who is entitled to enforce the instrument pursuant to section 490:3-309 or 490:3-418(d).  A person may be a person entitled to enforce the instrument even though the person is not the owner of the instrument or is in wrongful possession of the instrument.]"
+     SECTION 4.  Section 490:4-104, Hawaii Revised Statutes, is amended by deleting the definition of "person entitled to enforce".
+     "["Person entitled to enforce".  Section 490:3-301.]"
+     SECTION 5.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 6.  Statutory material to be repealed is bracketed and stricken.
+     SECTION 7.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Negotiable Instruments; Enforcement; Bank Deposits and Collections; Uniform Commercial Code
+ 
+Description:
+Repeals UCC definition of "person entitled to enforce".
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

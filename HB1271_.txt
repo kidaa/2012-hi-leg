@@ -1,0 +1,58 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1271
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE PUBLIC SERVICE COMPANY TAX.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that the global recession and its impact on Hawaii's economy make it necessary to review all possible sources of revenue to maintain the core services that are provided by the State. 
+     The purpose of this Act is to temporarily transfer fifty per cent of the public utility tax revenues allocable to the counties to the general fund.
+     SECTION 2.  Section 239-5, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  There shall be levied and assessed upon each public utility, except airlines, motor carriers, common carriers by water, and contract carriers taxed by section 239-6, a tax of such rate per cent of its gross income each year from its public utility business as shall be determined in the manner hereinafter provided.  The tax imposed by this section is in lieu of all taxes other than those below set out, and is a means of taxing the personal property of the public utility, tangible and intangible, including going concern value.  In addition to the tax imposed by this chapter there also are imposed income taxes, the specific taxes imposed by chapter 249, the fees prescribed by chapter 269, any tax specifically imposed by the terms of the public utility's franchise or under chapter 240, the use or consumption tax imposed by chapter 238, and employment taxes.
+     The rate of the tax upon the gross income of the public utility shall be four per cent; provided that if:
+     (1)  A county provides by ordinance for a real property tax exemption for real property used by a public utility in its public utility business and owned by the public utility (or leased to it by a lease under which the public utility is required to pay the taxes upon the property), and
+     (2)  The county has not denied the exemption to the public utility, but excluding a denial based upon a dispute as to the ownership, lease, or use of a specific parcel of real property,
+then there shall be levied and assessed a tax in excess of the four per cent rate determined in the manner hereinafter provided upon the gross income allocable to [such] the respective county[.] and the State.  The revenues generated from the tax in excess of the four per cent rate hereinbefore established shall be paid by the public utility [directly to such county] based upon the proportion of gross income from its public utility business attributable to such county, based upon the allocation made in the public utility's filings with the State of Hawaii; provided that if the gross income from the public utility business attributable to [such] a respective county is not so allocated in the public utility's State filings, then the gross income from the public utility business shall be equitably allocated to [each] the respective county[.  The relative number of access lines in each county shall be deemed an acceptable basis of equitable allocation for telecommunication companies.] and the State.
+     The rate of the tax in excess of the four per cent rate hereinbefore established upon the gross income from the public utility business shall be determined as follows:
+     If the ratio of the net income of the company to its gross income is fifteen per cent or less, the rate of tax in excess of the four per cent rate on gross income shall be 1.885 per cent; for all companies having net income in excess of fifteen per cent of the gross, the rate of the tax on gross income shall increase continuously in proportion to the increase in ratio of net income to gross, at such rate that for each increase of one per cent in the ratio of net income to gross, there shall be an increase of .2675 per cent in the rate of the tax.
+     The following formula may be used to determine the rate, in which formula the term "R" is the ratio of net income to gross income, and "X" is the required rate of the tax on gross income for the utility in question:
+X = (26.75R-2.1275)%;
+provided that in no case governed by the formula shall "X" be less than 1.885 per cent or more than 4.2 per cent.
+     However, if the gross income is apportioned under section 239-8(b) or (c), there shall be no adjustment of the rate of tax on the amount of gross income so apportioned to the State on account of the ratio of the net income to the gross income being in excess of fifteen per cent, and it shall be assumed in [such] that case that the ratio is fifteen per cent or less."
+     SECTION 3.  Section 239-10, Hawaii Revised Statutes, is amended to read as follows:
+     "§239-10  Disposition of revenues.  All taxes collected under this chapter shall be state realizations; provided that where a tax in excess of the four per cent rate upon gross income is levied and assessed under section 239-5(a), [such] those tax revenues [to] shall be paid [to the county shall be realizations of such county.] as follows:
+     (1)  Fifty per cent of tax revenues shall be state realizations; and
+     (2)  Fifty per cent of tax revenues shall be a realization of the respective county in which the tax revenue was generated."
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect on July 1, 2011, and be repealed on July 1, 2016; provided that sections 269-5(a) and 269-10, Hawaii Revised Statutes, shall be reenacted on July 1, 2016, in the form in which those sections read on June 30, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Public Service Company Tax; General Fund
+ 
+Description:
+Requires 50 per cent of public utility taxes collected to be deposited into the general fund.  Repealed on 7/1/16.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

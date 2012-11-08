@@ -1,0 +1,65 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1881
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE PUBLIC UTILITIES COMMISSION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that the public utilities commission plays a central role in ensuring the viability and reliability of Hawaii's utility infrastructure, ranging from water carriers to electric utilities.  Recognizing the importance of establishing and maintaining effective, efficient, and accessible utility systems statewide, the legislature empowers the public utilities commission to regulate utilities pursuant to chapter 269, Hawaii Revised Statutes.  It is the responsibility of the public utilities commission to balance the public's need for reliable services and reasonable rates with the need for utilities to earn a reasonable return on investment.
+     The legislature also finds that recent decisions relating to water carriers and electric utilities have created uncertainty in the utilities market in regards to how decisions are made and how each project's economic impacts are considered.  It is crucial for Hawaii to maintain a transparent regulatory environment that provides clarity and accountability to businesses and consumers so they can make informed plans and investment decisions.  The far reaching impacts of the public utilities commission decisions not only affect consumers and businesses, but they also affect Hawaii's reputation as a place to do business.  In the current economic environment, Hawaii can ill afford any perception of having a negative regulatory environment.
+     The legislature further finds that in order to provide the needed clarity and accountability, the public utilities commission should provide an economic impact analysis with any decision and order that has a fiscal or rate impact.  This will help stakeholders make informed decisions and provide the public with the confidence and certainty they need.
+     The purpose of this section is to require parties to proceedings before the public utilities commission to prepare an economic impact analysis of a proposed action by the commission and to require the commission to include an economic impact analysis in its decisions and orders.
+     SECTION 2.  Chapter 269, Hawaii Revised Statutes, is amended by adding two new sections to part I to be appropriately designated and to read as follows:
+     "§269-A  Economic impact analysis.  (a)  Any party that applies to the commission for a project, rate change, or other proposal with a fiscal, rate, fare, charge, or schedule impact shall submit an initial economic impact analysis with the application, pursuant to section 269-B.  The economic impact analysis shall be made available to any party in interest to the proceeding.
+     (b)  Any party in interest to the proceeding, including a proponent of an alternative project, may submit, in writing, an economic impact analysis to be included as part of a statement in opposition, if applicable.
+     (c)  At any time prior to a final determination by the commission, the applicant may revise the initial economic impact analysis or rebut another submitted economic impact analysis by submitting a reply statement of position.
+     (d)  The commission, upon a showing of good cause, may consider an alternative proposal or alternative economic impact analysis that is filed after the deadline; provided that any party in interest to the proceeding is afforded sufficient time to review the document.
+     (e)  When issuing a decision and order, the commission shall attach a final economic impact analysis and summary on how the analysis was factored into the decision and order, as compared to other factors.
+     §269-B  Economic impact analysis; requirements.  Any economic impact analysis submitted to the commission shall provide at least one of the following:
+     (1)  A cost-benefit analysis that identifies:
+         (A)  The cumulative cost, including the total capital, operation, and maintenance costs of the proposal;
+         (B)  Any direct costs to be incurred by the general public as a result of the proposal; and
+         (C)  Any relevant direct or indirect benefits, losses, or harms related to the proposal, including impacts on the economy and environment;
+     (2)  General business or industry studies that examine the direct costs of the proposal on impacted entities, including information on:
+         (A)  The characteristics and current economic conditions of the impacted business or industry sector;
+         (B)  The projected impacts on the growth of the affected industry sectors with and without implementation of the proposal;
+         (C)  How the proposal may affect or alter the growth of the affected industry sector; or
+         (D)  The direct cost of the proposal on the affected industry sector; or
+     (3)  An economic impact analysis that:
+         (A)  Identifies the consumers and business sectors that will be impacted by the proposal;
+         (B)  Quantifies the direct cost to the primary affected businesses or consumers; and
+         (C)  Incorporates an estimate of the economic impact of the proposal on the supporting businesses and industry sectors associated with the primary affected businesses or industry sectors."
+     SECTION 3.  In codifying the new sections added by section 2 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 4.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+PUC; Economic Impact Analysis
+ 
+Description:
+Requires that an economic impact analysis be submitted with any application to the PUC that has a fiscal impact.  Allows for submission of analyses in contravention and rebuttal of the original.  Requires the PUC to provide a final analysis with any decision and order.  Establishes requirements for the analysis.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

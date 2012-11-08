@@ -1,0 +1,67 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1199
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PUBLIC ACCOUNTANCY.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that certified public accountants and accountancy firms sometimes provide services for Hawaii clients both from within and outside of the State.  However, the board of accountancy does not currently have specific authority to regulate out of state accountants and accountancy firms, nor are there clear limits within the law on the types of services that may be performed without a Hawaii license.
+     The purpose of this Act is to regulate out-of-state certified public accountants and accountancy firms by establishing clear standards, including a limited privilege to practice within the State, and by subjecting all certified public accountants and accountancy firms to oversight by the state board of public accountancy.
+     SECTION 2.  Chapter 466, Hawaii Revised Statutes, is amended by adding two new sections to be appropriately designated and to read as follows:
+     "§466-A  Out-of-state practitioners; limited practice.  (a)  An individual with a valid license to practice public accountancy issued by a state other than Hawaii, a territory of the United States, or the District of Columbia, whose principal place of business is outside of this State and who does not reside or maintain an office in this State, may practice public accountancy in this State subject to the restrictions and conditions of this section.
+     (b)  A firm with a valid license to practice public accountancy issued by a state other than Hawaii, a territory of the United States, or the District of Columbia, which has its principal place of business outside of this State and does not maintain an office in this State, may practice public accountancy in this State subject to the restrictions and conditions of this section; provided that all work performed by the firm is performed by an individual who holds a valid permit to practice public accountancy pursuant to this chapter or is authorized to practice public accountancy pursuant to this section.
+     (c)  Each individual or firm that practices public accountancy in this State pursuant to this section shall:
+     (1)  Be subject to the personal and subject matter jurisdiction of the courts of this State and to the regulatory authority of the board;
+     (2)  Comply with the requirements of this chapter, chapter 436B, the rules of the board, and the same professional standards applicable to individuals and firms licensed pursuant to this chapter;
+     (3)  Be deemed to have irrevocably appointed the regulatory agency of the jurisdiction that issued the individual or firms' license as the individual or firm's agent upon whom process may be served in any action or proceeding by the board;
+     (4)  Cooperate with any investigation or inquiry by the board, including by timely responding to any investigation, inquiry, request, notice, demand, or subpoena for information or documents and timely providing requested information or documents to the board; and
+     (5)  Immediately cease to practice public accountancy within this State:
+         (A)  Upon the entry of any criminal conviction; or
+         (B)  If the individual or firm's license to practice public accountancy from the jurisdiction of the individual or firm's principal place of business:
+              (i)  Is suspended or revoked by administrative order; or
+             (ii)  Expires, lapses, is forfeited, or becomes inactive.
+     (d)  An individual who practices public accountancy in this State pursuant to this section shall practice through a firm that holds a license and permit issued under this chapter when providing or offering to provide the following services to an entity that has its principal office in this State:
+     (1)  A financial statement audit or review in accordance with the Statements on Auditing Standards or the Statements on Standards for Accounting and Review Services of the American Institute of Certified Public Accountants;
+     (2)  An examination of prospective financial information in accordance with the Statements on Standards of Attestation Engagements of the American Institute of Certified Public Accountants; and
+     (3)  An engagement in accordance with the auditing standards of the Public Company Accounting Oversight Board or its successor agency.
+     (e)  A firm that practices public accountancy in this State pursuant to this section shall not be authorized to provide or offer to provide the following services:
+     (1)  A financial statement audit or review in accordance with the Statements on Auditing Standards or the Statements on Standards for Accounting and Review Services of the American Institute of Certified Public Accountants;
+     (2)  An examination of prospective financial information in accordance with the Statements on Standards of Attestation Engagements of the American Institute of Certified Public Accountants; and
+     (3)  An engagement in accordance with the auditing standards of the Public Company Accounting Oversight Board or its successor agency.
+     (f)  For purposes of this section, practice within this State includes the performance of professional accountancy services for persons residing or entities having their principal office in this State, regardless of whether the services are rendered through direct physical presence in the State or through communications from outside of the State.
+     (g)  Noncompliance with this section shall be a violation of this chapter subject to section 466-9.  The board may recover all reasonable costs incurred as part of its investigative, administrative, and disciplinary proceedings from any individual or firm subject to disciplinary action under this subsection.
+     §466-B  Oversight of licensee's out-of-state activities.  A person or firm licensed pursuant to this chapter that offers or performs services in a state other than Hawaii, a territory of the United States, or the District of Columbia, shall be subject to section 466-9 for any act committed in another state if that act would be grounds for disciplinary action in this State.  The board may request an investigation by the regulatory agency of another state or territory for the purposes of enforcing this section."
+     SECTION 3.  In codifying the new sections added by section 2 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 4.  New statutory material is underscored.
+
+     SECTION 5.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+Report Title:
+Public Accountancy; Portability of License
+ 
+Description:
+Authorizes individuals and firms holding an out-of-state license to practice public accountancy to practice public accountancy within this State, subject to certain limitations.  Authorizes the board of public accountancy to take disciplinary measures against an in-state licensee for violations committed in another jurisdiction.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

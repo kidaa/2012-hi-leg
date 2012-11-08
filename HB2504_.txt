@@ -1,0 +1,254 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2504
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO ENTITIES REGULATED BY THE INSURANCE COMMISSIONER.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 432, Hawaii Revised Statutes, is amended by adding to part I of article 1 a new section to be appropriately designated and to read as follows:
+     "§432:     Fees.  (a)  The commissioner shall collect in advance the following fees:
+     (1)  Issuance of certificate of authority:  $900;
+     (2)  Organization of domestic mutual benefit societies:
+         (A)  Filing of application and documents required for issuance of certificate of registration:  $1,500; and
+         (B)  Issuance of certificate of registration:  $150; and
+     (3)  For renewal of the certificate of authority:  $600 per year.
+     (b)  If the fee for the renewal of the certificate of authority is not paid before or on the renewal date, a penalty shall be imposed in the amount of fifty per cent of the fee.  If the fee and the penalty are not paid within thirty days immediately following the renewal date, the commissioner may revoke the certificate of authority and shall not reinstate the certificate of authority until the fee and penalty have been paid.
+     (c)  All fees and penalties collected pursuant to this section and penalties collected pursuant to sections 432:1-105, 432:1-405, and 432:1-408 shall be deposited to the credit of the compliance resolution fund."
+     SECTION 2.  Section 432:1-102, Hawaii Revised Statutes, is amended to read as follows:
+     "§432:1-102  Applicability of other laws.  (a)  Part III of article 10A, and article 10H of chapter 431 shall apply to nonprofit medical indemnity or hospital service associations.  Such associations shall be exempt from the provisions of part I of article 10A; provided that such exemption is in compliance with applicable federal statutes and regulations.
+     (b)  Article 2, article 2D, [part] parts II and IV of article 3, article 6, part III of article 7, article 13, article 14G, and article 15 of chapter 431, sections 431:3-301, 431:3-302, 431:3-303, 431:3-304, and 431:3-305, and the powers granted by those provisions to the commissioner, shall apply to managed care plans, health maintenance organizations, or medical indemnity or hospital service associations that are owned or controlled by mutual benefit societies so long as the application in any particular case is in compliance with and is not preempted by applicable federal statutes and regulations.
+     (c)  The commissioner may adopt rules pursuant to chapter 91 for the implementation and administration of this chapter."
+     SECTION 3.  Section 432:1-202, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  After the organization of a society is completed and a certificate of [compliance with law] registration is granted by the commissioner, the society shall be governed by its administrative board or body in accordance with its constitution and bylaws."
+     SECTION 4.  Section 432:1-301, Hawaii Revised Statutes, is amended to read as follows:
+     "§432:1-301  Registration with commissioner:  certificate of registration [and authorization to solicit members.] and certificate of authority.  (a)  Before doing business or engaging in any act, any society as defined in section 432:1-104(2) shall file with the commissioner:
+     (1)  Copies of its constitution or organic instrument under which it purports to operate, and the bylaws, and rules and regulations, if any;
+     (2)  If a society promising or offering to pay death, sick, disability, or other benefits in an amount equal to or in excess of $25:
+          (A)  Copies of all proposed forms of benefit certificates, applications and circulars to be issued by the society; and
+          (B)  A bond in the sum of $25,000 with sureties approved by the commissioner.  The bond shall be conditioned upon the return of the advance payments referred to in section 432:1-304, if the organization is not completed within one year; and
+     (3)  Any additional information as the commissioner may require.
+     (b)  [Upon] Except as provided in section 432:1-302, upon the filing of the information required by subsection (a), if it appears to the commissioner's satisfaction that the purposes of the society are lawful, [the commissioner shall issue a certificate registering the society and licensing it to operate in the State.
+     (c)  In the case of any society offering or promising to pay death, sick, disability, or other benefits in an amount equal to or in excess of $25, if the commissioner is satisfied that the purposes of the society are] not for profit [but], and for the benefit of its members, the commissioner shall [authorize] issue a certificate of registration authorizing the society to solicit members as provided in section 432:1-303.
+     (c)  Upon issuance of a certificate of registration pursuant to subsection (b), the society may apply for a certificate of authority.  The applicant society shall provide to the commissioner:
+     (1)  Evidence of compliance with the special deposit requirements of section 432:1-304; and
+     (2)  A description of the procedures, approved by the society's administrative board or body in accordance with its constitution and bylaws, to be implemented to comply with the protection against insolvency requirements of section 432:1-407.
+     (d)  The applicant society that satisfies the requirements of this chapter shall be issued a certificate of authority in accordance with part II of article 3 of chapter 431.  Societies that are now authorized to transact business in this State may continue such business until August 16, 2013.  The authority of such societies and all societies hereafter issued a certificate of insurance, may thereafter be renewed annually, but in all cases to terminate on the succeeding August 16.  The applicant society may appeal the denial of its application pursuant to chapter 91."
+     SECTION 5.  Section 432:1-303, Hawaii Revised Statutes, is amended to read as follows:
+     "§432:1-303  Authority to offer death, sick, disability, or other benefits; conditions.  (a)  Each society promising or offering to pay death, sick, disability, or other benefits in an amount equal to or in excess of $25 may solicit members for the purpose of completing its organization upon receipt from the commissioner of the certificate [and authority] of registration required in section 432:1-301, and [shall] may collect from each applicant the amount of not [less] more than one regular monthly payment [in accordance with its table of rates as provided by its constitution and bylaws,] and shall issue to each applicant a receipt for the amount so collected.
+     (b)  Except as hereinafter provided, no society shall incur any liability other than for the advance payments, nor issue any benefit certificate, nor allow, or offer or promise to pay, or allow to any person any death benefit until:
+     (1)  Actual bona fide applications for death certificates have been secured upon at least one hundred lives for at least $25 each, and all the applicants for death benefits have been regularly examined by a qualified practicing physician, and certificates of the examination have been duly filed with and approved by the administrative board or body of the society; and
+     (2)  At least one hundred applicants have been accepted for membership; and
+     (3)  There has been submitted to the commissioner, under oath of the president and secretary, or corresponding officers of the society, a list of applicants including the following information about each applicant:
+         (A)  Name and address,
+         (B)  Date examined,
+         (C)  Date of approval,
+         (D)  Date accepted as member,
+         (E)  If subordinate branches have been established, the name and number of the subordinate branch of which each applicant is a member,
+         (F)  Amount of benefits to be granted, and
+         (G)  The rate of stated periodical contributions which shall be sufficient to provide for meeting the mortuary obligations contracted when valued for death purposes upon the basis of a recognized table of mortality or any mutual benefit standard based on at least twenty years' experience, and for disability benefits by tables based upon reliable experience, and for combined death and permanent total disability benefits by tables based upon reliable experience; and
+     (4)  It has been shown to the commissioner by the sworn statement of the treasurer or corresponding officer of the society that at least one hundred applicants have paid in cash at least one regular monthly payment as provided under subsection (a), which payments in the aggregate shall amount to at least five times the maximum amount of death benefit offered or promised to be paid to any one member.
+     (c)  If the society does not offer or promise to pay any death benefits in excess of $25 upon the death of a member, but merely offers or promises to pay disability benefits by reason of sickness or injury, or to pay any other benefits, with or without provision of death benefit in excess of $25, the society shall[, before receiving a certificate of compliance with law from the commissioner, prove to the commissioner that at least one hundred members have each paid in, in cash, at least six regular monthly payments to the disability fund.  Such payments in the aggregate shall:
+     (1)  Amount to at least twenty times the maximum amount of disability or other benefits offered or promised to be paid to any one member during or within a period of thirty days,
+     (2)  Be credited to the disability, sick or other benefit fund, and
+     (3)  During the period of organization of the society, be held in trust to be returned to the applicants or members who have made payment of the same, if and in case the organization of the society is not completed within one year.] apply for a certificate of authority from the commissioner."
+     SECTION 6.  Section 432:1-304, Hawaii Revised Statutes, is amended to read as follows:
+     "§432:1-304  Authority to offer death, sick, disability, or other benefits; special deposit and control of certain funds.  Except as provided in this section and section 432:1-305, all regular payments received for account of death benefit, accident and health or sickness, or other [benefit funds,] benefits, during the period of organization of a society, shall not be used for the payment of any expenses of the society, but shall be placed on deposit or in trust in some bank or trust company approved by the commissioner, payable to the society but under the joint control with the commissioner.  In case the organization of the society is not completed within one year, the funds shall be returned to the applicants or members who made payments of the respective amounts.  If, however, the organization is completed and the commissioner issues a certificate of [compliance with the law,] authority, the funds so deposited in trust, together with interest, if any, shall be released by the commissioner in favor of the society."
+     SECTION 7.  Section 432:1-305, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  At no time shall the society, except as provided in subsection (c), use more than twenty-five per cent of the payments up to $100,000 and seven per cent of the payments in excess of $100,000, received from its members or applicants in the form of admission fees, dues, contributions, or assessments of any nature for expenses other than taxes, in connection with [the management or operation of the death benefit, sick, disability, or other benefit funds.] its management or operations."
+     SECTION 8.  Section 432:1-405, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  The commissioner may suspend or revoke the certificate of [compliance] authority of any mutual benefit society that fails to file any of the documents required in subsection (a).  In lieu of or in addition to suspension or revocation of the certificate of [compliance] authority of any mutual benefit society, the commissioner may impose on the mutual benefit society a penalty in the amount of not less than $100 and not more than $500 for each day of delinquency."
+     SECTION 9.  Section 432:1-407, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  Net worth requirements are as follows:
+     (1)  Before issuing a certificate of authority pursuant to section 432:1-301, the commissioner shall require that the mutual benefit society has an initial net worth of $2,000,000 and the society shall thereafter maintain the minimum net worth required under paragraph (2);
+     (2)  Except as provided in paragraphs (3) and (4), every mutual benefit society shall maintain a minimum net worth equal to the greater of:
+         (A)  $2,000,000;
+         (B)  Two per cent of annual premium revenues as reported on the most recent annual financial statement filed with the commissioner on the first $150,000,000 of premium revenues and one per cent of annual premium revenues on the premium revenues in excess of $150,000,000; or
+         (C)  An amount equal to eight per cent of the sum of annual health care expenditures and operating expenses as reported on the most recent financial statement filed with the commissioner[;
+     (3)  The minimum net worth requirement set forth in paragraph (2)(A) shall be phased in as follows:
+         (A)  Seventy-five per cent of the required amount by January 1, 2001; and
+         (B)  One hundred per cent of the required amount by December 31, 2002; and
+     (4)  The minimum net worth requirement set forth in
+[paragraph] (2)(C) shall be phased in as follows:
+         (A)  Fifty per cent of the required amount by December 31, 1997;
+         (B)  Seventy-five per cent of the required amount by December 31, 1998; and
+         (C)  One hundred per cent of the required amount by December 31, 1999]."
+     SECTION 10.  Section 432:2-602, Hawaii Revised Statutes, is amended to read as follows:
+     "§432:2-602  Reports.  [Reports shall be filed in accordance with the provisions of this section.]  (a)  Every society transacting business in this State shall annually, on or before March 1, unless for cause shown such time has been extended by the commissioner, file with the commissioner a true statement of its financial condition, transactions and affairs for the preceding calendar year and pay a fee of [$7.50] $300 for filing same.  The statement shall be in general form and context as approved by the National Association of Insurance Commissioners for fraternal benefit societies and as supplemented by additional information required by the commissioner.
+     (b)  As part of the annual statement [herein] required each society shall, on or before March 1, file with the commissioner a valuation of its certificates in force on December 31 last preceding, provided the commissioner may, in the commissioner's discretion for cause shown, extend the time for filing [such] the valuation for not more than two calendar months.  [Such] The valuation shall be done in accordance with the standards specified in section 432:2-601.  [Such] The valuation and underlying data shall be certified by a qualified actuary or, at the expense of the society, verified by the actuary of the department of insurance of the state of domicile of the society.
+     (c)  A society neglecting to file the annual statement in the form and within the time provided by this section shall be liable for a penalty of $100 for each day during which [such] the neglect continues, and, upon notice by the commissioner to that effect, its authority to do business in this State shall cease while [such] the default continues.
+     (d)  All fees and penalties collected pursuant to this section and section 432:2-603 and penalties collected pursuant to section 432:2-703 shall be deposited to the credit of the compliance resolution fund."
+     SECTION 11.  Section 432:2-603, Hawaii Revised Statutes, is amended to read as follows:
+     "§432:2-603  Annual license.  (a)  Societies which are now authorized to transact business in this State may continue such business until May 1 next succeeding July 1, 1988.  The authority of such societies and all societies hereafter licensed, may thereafter be renewed annually, but in all cases to terminate on the succeeding May 1.  However, a license so issued shall continue in full force and effect until the new license is issued or specifically refused.  For each such license or renewal, the society shall pay the commissioner [$7.50.] $300.  A duly certified copy or duplicate of such license shall be prima facie evidence that the licensee is a fraternal benefit society within the meaning of this article."
+     SECTION 12.  Section 432D-13, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  The commissioner may examine the affairs of any health maintenance organization or of any providers with whom such organization has contracts, agreements, or other arrangements as often as is reasonably necessary for the protection of the interests of the people of this State but shall make such examination not fewer than once every [three] five years[.] for health maintenance organizations domiciled in this State."
+     SECTION 13.  Section 432D-17, Hawaii Revised Statutes, is amended to read as follows:
+     "§432D-17  Fees.  (a)  The commissioner shall collect in advance the following fees:
+     (1)  For filing an application for a certificate of authority or amendment thereto, [$600;] $900; and
+     (2)  For [all services subsequent to the issuance of a] renewal of the certificate of authority [(including extension of the certificate of authority), $400.], $600 per year.
+     (b)  The commissioner shall [notify the] provide each holder of [the] a certificate of authority [by] at least thirty days advance written notice [at least thirty days prior to the] of the applicable extension date [of the certificate].  If the fee for the extension of the certificate of authority is not paid before or on the extension date, a penalty shall be imposed in the amount of fifty per cent of the fee.  If the fee and the penalty are not paid within thirty days immediately following the extension date, the commissioner may revoke the certificate of authority and shall not reinstate the certificate of authority until the fee and penalty have been paid.
+     (c)  All fees and penalties collected pursuant to this section and penalties collected pursuant to section 432D-14 shall be [remitted by the commissioner to the director of finance and shall be placed to the credit of the general fund.] deposited to the credit of the compliance resolution fund."
+     SECTION 14.  Section 432D-19, Hawaii Revised Statutes, is amended by amending subsection (d) to read as follows:
+     "(d)  Article 2, article 2D, part IV of article 3, article 6, part III of article 7, article 13, article 14G, and article 15 of chapter 431, sections 431:3-301 and 431:3-302, and the powers granted by those provisions to the commissioner shall apply to health maintenance organizations, so long as the application in any particular case is in compliance with and is not preempted by applicable federal statutes and regulations."
+     SECTION 15.  Section 481X-2, Hawaii Revised Statutes, is amended as follows:
+     (1)  By adding a new definition to be appropriately inserted and to read as follows:
+     ""Portable electronics" means electronic devices that can be transported by the consumer and the accessories related to the use of the device."
+     (2)  By amending the definition of "service contract" to read as follows:
+     ""Service contract" means a contract or agreement for a separately stated consideration and a specific duration, to perform or indemnify the repair, replacement, or maintenance of property for operational or structural failure due either to a defect in materials or artisanship, or to normal wear and tear, with or without additional provision for incidental payment or indemnity under limited circumstances[,] for accidental loss, including but not limited to, as pertains to automobiles or their components, towing, rental, tire repair, and emergency road service.  Service contracts may provide for the repair, replacement, or maintenance of property damaged by power surges, or accidentally damaged during handling[.], or the damage or loss of portable electronics due to theft or accidental harm."
+     SECTION 16.  Section 481X-4, Hawaii Revised Statutes is amended to read as follows:
+     "§481X-4  Financial responsibility.  A provider shall comply with the requirements under any one of the following paragraphs, and shall not be subject to any other financial security requirements under state law:
+     (1)  The provider shall insure all service contracts under a contractual liability insurance policy issued by an insurer authorized to transact insurance in this State or issued pursuant to part III of article 8 of chapter 431;
+     (2)  The provider shall:
+         (A)  Maintain a funded reserve account exclusively for all obligations under service contracts issued and in force in this State.  The reserves shall not be less than forty per cent of the gross consideration received from the sale of the service contract[, less claims paid,] for all in force contracts.  For the calculation of minimum reserve amount, the gross consideration may be reduced by the amount of claims paid on the in force service contracts.  The reserve account shall be subject to examination by the commissioner; and
+         (B)  Place in trust with the commissioner, for all service contracts issued and in force in this State, a financial security deposit having a value that is the larger of $25,000 or five per cent of the gross consideration received[, less claims paid for the sale of the service contracts].  For the calculation of minimum financial security deposit, the gross consideration may be reduced by the amount of claims paid for the in force service contracts.  The financial security deposit shall consist of one of the following:
+              (i)  A surety bond issued by an authorized surety;
+             (ii)  Securities of the type eligible for deposit by authorized insurers in this State;
+            (iii)  Cash;
+             (iv)  A letter of credit issued by a qualified financial institution; or
+              (v)  Another form of security authorized by the commissioner by rule; or
+     (3)  The provider or its parent company shall:
+          (A)  Maintain a net worth or stockholders' equity of at least $100,000,000; and
+          (B)  Upon request, provide the commissioner with a copy of the provider's or the provider's parent company's most recent Form 10-K or Form 20-F filed with the Securities and Exchange Commission within the last calendar year, or if the company does not file with the Securities and Exchange Commission, a copy of the provider's or the provider's parent company's audited financial statements.
+          If the financial responsibility requirement under this paragraph is to be maintained by the provider's parent company, the parent company shall guarantee the provider's obligations under service contracts sold by the provider in this State."
+     SECTION 17.  Section 432:1-307, Hawaii Revised Statutes, is repealed.
+     ["§432:1-307  Authority to offer death, sick, disability, or other benefits; certificate of existence.  The commissioner may make such examination and require such information from time to time as the commissioner may deem advisable.  Upon presentation of satisfactory proof that the society has complied with this article, and any other applicable law, the commissioner shall issue to the society a certificate to that effect.  The certificate shall be prima facie evidence of the existence of the society as of the date of the certificate.  The commissioner shall cause a record of the certificate to be made and a certified copy of the record may be given in evidence with the same effect as the original certificate."]
+     SECTION 18.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 19.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Entities Regulated by the Insurance Commissioner
+ 
+Description:
+Removes confusing and obsolete provisions to streamline licensing process; updates financial regulatory requirements to be more consistent with requirements placed on traditional insurance companies; and modernizes the fee amounts paid by these entities.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+ned upon the return of the advance payments referred to in section 432:1-304, if the organization is not completed within one year; and
+
+     (3)  Any additional information as the commissioner may require.
+     (b)  [Upon] Except as provided in section 432:1-302, upon the filing of the information required by subsection (a), if it appears to the commissioner's satisfaction that the purposes of the society are lawful, [the commissioner shall issue a certificate registering the society and licensing it to operate in the State.
+     (c)  In the case of any society offering or promising to pay death, sick, disability, or other benefits in an amount equal to or in excess of $25, if the commissioner is satisfied that the purposes of the society are] not for profit [but], and for the benefit of its members, the commissioner shall [authorize] issue a certificate of registration authorizing the society to solicit members as provided in section 432:1-303.
+     (c)  Upon issuance of a certificate of registration pursuant to subsection (b), the society may apply for a certificate of authority.  The applicant society shall provide to the commissioner:
+     (1)  Evidence of compliance with the special deposit requirements of section 432:1-304; and
+     (2)  A description of the procedures, approved by the society's administrative board or body in accordance with its constitution and bylaws, to be implemented to comply with the protection against insolvency requirements of section 432:1-407.
+     (d)  The applicant society that satisfies the requirements of this chapter shall be issued a certificate of authority in accordance with part II of article 3 of chapter 431.  Societies that are now authorized to transact business in this State may continue such business until August 16, 2013.  The authority of such societies and all societies hereafter issued a certificate of insurance, may thereafter be renewed annually, but in all cases to terminate on the succeeding August 16.  The applicant society may appeal the denial of its application pursuant to chapter 91."
+     SECTION 5.  Section 432:1-303, Hawaii Revised Statutes, is amended to read as follows:
+     "§432:1-303  Authority to offer death, sick, disability, or other benefits; conditions.  (a)  Each society promising or offering to pay death, sick, disability, or other benefits in an amount equal to or in excess of $25 may solicit members for the purpose of completing its organization upon receipt from the commissioner of the certificate [and authority] of registration required in section 432:1-301, and [shall] may collect from each applicant the amount of not [less] more than one regular monthly payment [in accordance with its table of rates as provided by its constitution and bylaws,] and shall issue to each applicant a receipt for the amount so collected.
+     (b)  Except as hereinafter provided, no society shall incur any liability other than for the advance payments, nor issue any benefit certificate, nor allow, or offer or promise to pay, or allow to any person any death benefit until:
+     (1)  Actual bona fide applications for death certificates have been secured upon at least one hundred lives for at least $25 each, and all the applicants for death benefits have been regularly examined by a qualified practicing physician, and certificates of the examination have been duly filed with and approved by the administrative board or body of the society; and
+     (2)  At least one hundred applicants have been accepted for membership; and
+     (3)  There has been submitted to the commissioner, under oath of the president and secretary, or corresponding officers of the society, a list of applicants including the following information about each applicant:
+         (A)  Name and address,
+         (B)  Date examined,
+         (C)  Date of approval,
+         (D)  Date accepted as member,
+         (E)  If subordinate branches have been established, the name and number of the subordinate branch of which each applicant is a member,
+         (F)  Amount of benefits to be granted, and
+         (G)  The rate of stated periodical contributions which shall be sufficient to provide for meeting the mortuary obligations contracted when valued for death purposes upon the basis of a recognized table of mortality or any mutual benefit standard based on at least twenty years' experience, and for disability benefits by tables based upon reliable experience, and for combined death and permanent total disability benefits by tables based upon reliable experience; and
+     (4)  It has been shown to the commissioner by the sworn statement of the treasurer or corresponding officer of the society that at least one hundred applicants have paid in cash at least one regular monthly payment as provided under subsection (a), which payments in the aggregate shall amount to at least five times the maximum amount of death benefit offered or promised to be paid to any one member.
+     (c)  If the society does not offer or promise to pay any death benefits in excess of $25 upon the death of a member, but merely offers or promises to pay disability benefits by reason of sickness or injury, or to pay any other benefits, with or without provision of death benefit in excess of $25, the society shall[, before receiving a certificate of compliance with law from the commissioner, prove to the commissioner that at least one hundred members have each paid in, in cash, at least six regular monthly payments to the disability fund.  Such payments in the aggregate shall:
+     (1)  Amount to at least twenty times the maximum amount of disability or other benefits offered or promised to be paid to any one member during or within a period of thirty days,
+     (2)  Be credited to the disability, sick or other benefit fund, and
+     (3)  During the period of organization of the society, be held in trust to be returned to the applicants or members who have made payment of the same, if and in case the organization of the society is not completed within one year.] apply for a certificate of authority from the commissioner."
+     SECTION 6.  Section 432:1-304, Hawaii Revised Statutes, is amended to read as follows:
+     "§432:1-304  Authority to offer death, sick, disability, or other benefits; special deposit and control of certain funds.  Except as provided in this section and section 432:1-305, all regular payments received for account of death benefit, accident and health or sickness, or other [benefit funds,] benefits, during the period of organization of a society, shall not be used for the payment of any expenses of the society, but shall be placed on deposit or in trust in some bank or trust company approved by the commissioner, payable to the society but under the joint control with the commissioner.  In case the organization of the society is not completed within one year, the funds shall be returned to the applicants or members who made payments of the respective amounts.  If, however, the organization is completed and the commissioner issues a certificate of [compliance with the law,] authority, the funds so deposited in trust, together with interest, if any, shall be released by the commissioner in favor of the society."
+     SECTION 7.  Section 432:1-305, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  At no time shall the society, except as provided in subsection (c), use more than twenty-five per cent of the payments up to $100,000 and seven per cent of the payments in excess of $100,000, received from its members or applicants in the form of admission fees, dues, contributions, or assessments of any nature for expenses other than taxes, in connection with [the management or operation of the death benefit, sick, disability, or other benefit funds.] its management or operations."
+     SECTION 8.  Section 432:1-405, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  The commissioner may suspend or revoke the certificate of [compliance] authority of any mutual benefit society that fails to file any of the documents required in subsection (a).  In lieu of or in addition to suspension or revocation of the certificate of [compliance] authority of any mutual benefit society, the commissioner may impose on the mutual benefit society a penalty in the amount of not less than $100 and not more than $500 for each day of delinquency."
+     SECTION 9.  Section 432:1-407, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  Net worth requirements are as follows:
+     (1)  Before issuing a certificate of authority pursuant to section 432:1-301, the commissioner shall require that the mutual benefit society has an initial net worth of $2,000,000 and the society shall thereafter maintain the minimum net worth required under paragraph (2);
+     (2)  Except as provided in paragraphs (3) and (4), every mutual benefit society shall maintain a minimum net worth equal to the greater of:
+         (A)  $2,000,000;
+         (B)  Two per cent of annual premium revenues as reported on the most recent annual financial statement filed with the commissioner on the first $150,000,000 of premium revenues and one per cent of annual premium revenues on the premium revenues in excess of $150,000,000; or
+         (C)  An amount equal to eight per cent of the sum of annual health care expenditures and operating expenses as reported on the most recent financial statement filed with the commissioner[;
+     (3)  The minimum net worth requirement set forth in paragraph (2)(A) shall be phased in as follows:
+         (A)  Seventy-five per cent of the required amount by January 1, 2001; and
+         (B)  One hundred per cent of the required amount by December 31, 2002; and
+     (4)  The minimum net worth requirement set forth in
+[paragraph] (2)(C) shall be phased in as follows:
+         (A)  Fifty per cent of the required amount by December 31, 1997;
+         (B)  Seventy-five per cent of the required amount by December 31, 1998; and
+         (C)  One hundred per cent of the required amount by December 31, 1999]."
+     SECTION 10.  Section 432:2-602, Hawaii Revised Statutes, is amended to read as follows:
+     "§432:2-602  Reports.  [Reports shall be filed in accordance with the provisions of this section.]  (a)  Every society transacting business in this State shall annually, on or before March 1, unless for cause shown such time has been extended by the commissioner, file with the commissioner a true statement of its financial condition, transactions and affairs for the preceding calendar year and pay a fee of [$7.50] $300 for filing same.  The statement shall be in general form and context as approved by the National Association of Insurance Commissioners for fraternal benefit societies and as supplemented by additional information required by the commissioner.
+     (b)  As part of the annual statement [herein] required each society shall, on or before March 1, file with the commissioner a valuation of its certificates in force on December 31 last preceding, provided the commissioner may, in the commissioner's discretion for cause shown, extend the time for filing [such] the valuation for not more than two calendar months.  [Such] The valuation shall be done in accordance with the standards specified in section 432:2-601.  [Such] The valuation and underlying data shall be certified by a qualified actuary or, at the expense of the society, verified by the actuary of the department of insurance of the state of domicile of the society.
+     (c)  A society neglecting to file the annual statement in the form and within the time provided by this section shall be liable for a penalty of $100 for each day during which [such] the neglect continues, and, upon notice by the commissioner to that effect, its authority to do business in this State shall cease while [such] the default continues.
+     (d)  All fees and penalties collected pursuant to this section and section 432:2-603 and penalties collected pursuant to section 432:2-703 shall be deposited to the credit of the compliance resolution fund."
+     SECTION 11.  Section 432:2-603, Hawaii Revised Statutes, is amended to read as follows:
+     "§432:2-603  Annual license.  (a)  Societies which are now authorized to transact business in this State may continue such business until May 1 next succeeding July 1, 1988.  The authority of such societies and all societies hereafter licensed, may thereafter be renewed annually, but in all cases to terminate on the succeeding May 1.  However, a license so issued shall continue in full force and effect until the new license is issued or specifically refused.  For each such license or renewal, the society shall pay the commissioner [$7.50.] $300.  A duly certified copy or duplicate of such license shall be prima facie evidence that the licensee is a fraternal benefit society within the meaning of this article."
+     SECTION 12.  Section 432D-13, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  The commissioner may examine the affairs of any health maintenance organization or of any providers with whom such organization has contracts, agreements, or other arrangements as often as is reasonably necessary for the protection of the interests of the people of this State but shall make such examination not fewer than once every [three] five years[.] for health maintenance organizations domiciled in this State."
+     SECTION 13.  Section 432D-17, Hawaii Revised Statutes, is amended to read as follows:
+     "§432D-17  Fees.  (a)  The commissioner shall collect in advance the following fees:
+     (1)  For filing an application for a certificate of authority or amendment thereto, [$600;] $900; and
+     (2)  For [all services subsequent to the issuance of a] renewal of the certificate of authority [(including extension of the certificate of authority), $400.], $600 per year.
+     (b)  The commissioner shall [notify the] provide each holder of [the] a certificate of authority [by] at least thirty days advance written notice [at least thirty days prior to the] of the applicable extension date [of the certificate].  If the fee for the extension of the certificate of authority is not paid before or on the extension date, a penalty shall be imposed in the amount of fifty per cent of the fee.  If the fee and the penalty are not paid within thirty days immediately following the extension date, the commissioner may revoke the certificate of authority and shall not reinstate the certificate of authority until the fee and penalty have been paid.
+     (c)  All fees and penalties collected pursuant to this section and penalties collected pursuant to section 432D-14 shall be [remitted by the commissioner to the director of finance and shall be placed to the credit of the general fund.] deposited to the credit of the compliance resolution fund."
+     SECTION 14.  Section 432D-19, Hawaii Revised Statutes, is amended by amending subsection (d) to read as follows:
+     "(d)  Article 2, article 2D, part IV of article 3, article 6, part III of article 7, article 13, article 14G, and article 15 of chapter 431, sections 431:3-301 and 431:3-302, and the powers granted by those provisions to the commissioner shall apply to health maintenance organizations, so long as the application in any particular case is in compliance with and is not preempted by applicable federal statutes and regulations."
+     SECTION 15.  Section 481X-2, Hawaii Revised Statutes, is amended as follows:
+     (1)  By adding a new definition to be appropriately inserted and to read as follows:
+     ""Portable electronics" means electronic devices that can be transported by the consumer and the accessories related to the use of the device."
+     (2)  By amending the definition of "service contract" to read as follows:
+     ""Service contract" means a contract or agreement for a separately stated consideration and a specific duration, to perform or indemnify the repair, replacement, or maintenance of property for operational or structural failure due either to a defect in materials or artisanship, or to normal wear and tear, with or without additional provision for incidental payment or indemnity under limited circumstances[,] for accidental loss, including but not limited to, as pertains to automobiles or their components, towing, rental, tire repair, and emergency road service.  Service contracts may provide for the repair, replacement, or maintenance of property damaged by power surges, or accidentally damaged during handling[.], or the damage or loss of portable electronics due to theft or accidental harm."
+     SECTION 16.  Section 481X-4, Hawaii Revised Statutes is amended to read as follows:
+     "§481X-4  Financial responsibility.  A provider shall comply with the requirements under any one of the following paragraphs, and shall not be subject to any other financial security requirements under state law:
+     (1)  The provider shall insure all service contracts under a contractual liability insurance policy issued by an insurer authorized to transact insurance in this State or issued pursuant to part III of article 8 of chapter 431;
+     (2)  The provider shall:
+         (A)  Maintain a funded reserve account exclusively for all obligations under service contracts issued and in force in this State.  The reserves shall not be less than forty per cent of the gross consideration received from the sale of the service contract[, less claims paid,] for all in force contracts.  For the calculation of minimum reserve amount, the gross consideration may be reduced by the amount of claims paid on the in force service contracts.  The reserve account shall be subject to examination by the commissioner; and
+         (B)  Place in trust with the commissioner, for all service contracts issued and in force in this State, a financial security deposit having a value that is the larger of $25,000 or five per cent of the gross consideration received[, less claims paid for the sale of the service contracts].  For the calculation of minimum financial security deposit, the gross consideration may be reduced by the amount of claims paid for the in force service contracts.  The financial security deposit shall consist of one of the following:
+              (i)  A surety bond issued by an authorized surety;
+             (ii)  Securities of the type eligible for deposit by authorized insurers in this State;
+            (iii)  Cash;
+             (iv)  A letter of credit issued by a qualified financial institution; or
+              (v)  Another form of security authorized by the commissioner by rule; or
+     (3)  The provider or its parent company shall:
+          (A)  Maintain a net worth or stockholders' equity of at least $100,000,000; and
+          (B)  Upon request, provide the commissioner with a copy of the provider's or the provider's parent company's most recent Form 10-K or Form 20-F filed with the Securities and Exchange Commission within the last calendar year, or if the company does not file with the Securities and Exchange Commission, a copy of the provider's or the provider's parent company's audited financial statements.
+          If the financial responsibility requirement under this paragraph is to be maintained by the provider's parent company, the parent company shall guarantee the provider's obligations under service contracts sold by the provider in this State."
+     SECTION 17.  Section 432:1-307, Hawaii Revised Statutes, is repealed.
+     ["§432:1-307  Authority to offer death, sick, disability, or other benefits; certificate of existence.  The commissioner may make such examination and require such information from time to time as the commissioner may deem advisable.  Upon presentation of satisfactory proof that the society has complied with this article, and any other applicable law, the commissioner shall issue to the society a certificate to that effect.  The certificate shall be prima facie evidence of the existence of the society as of the date of the certificate.  The commissioner shall cause a record of the certificate to be made and a certified copy of the record may be given in evidence with the same effect as the original certificate."]
+     SECTION 18.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 19.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Entities Regulated by the Insurance Commissioner
+ 
+Description:
+Removes confusing and obsolete provisions to streamline licensing process; updates financial regulatory requirements to be more consistent with requirements placed on traditional insurance companies; and modernizes the fee amounts paid by these entities.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

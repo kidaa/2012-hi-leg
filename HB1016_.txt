@@ -1,0 +1,53 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1016
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO TRANSPORTATION ENERGY INITIATIVES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The purpose of this Act is to increase the availability of facilities to support electric vehicles by amending Section 291, Hawaii Revised Statutes, and to incorporate elements of Act 290, Session Laws of Hawaii 1997, into Section 286 of the Hawaii Revised Statutes.
+     SECTION 2.  Chapter 286, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     ""§286-  Electric Vehicles.  (a)  The department of transportation may adopt rules pursuant to chapter 91 for the registration of, and issuance of an electric vehicle license plate for, an electric vehicle.
+     An electric vehicle on which an electric vehicle license plate is affixed shall be exempt from the payment of parking fees charged by any city, state, or county governmental entity, including those collected through parking meters, except when parked at an electric vehicle charging station.
+     For the purpose of this section, "electric vehicle" means (1) a neighborhood electric vehicle; or (2) a vehicle, with four or more wheels, that draws propulsion energy from a battery with at least five kilowatt hours of energy storage capacity that can be recharged from an external source of electricity."
+     SECTION 3.  Section 291-71, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§291-71[]]  Designation of parking spaces for electric vehicles; charging units.  All [public, private, and government] parking facilities, including parking lots and parking structures, that [are available for use by the general public and] have at least one hundred parking spaces available for public accommodation shall designate one per cent of those public parking spaces exclusively for electric vehicles by [December 31, 2011,] July 1, 2012, provided that at least one of the parking spaces designated for electric vehicles is [located near the building entrance and is] equipped with an electric vehicle charging [unit.] system.  Spaces shall be designated, clearly marked, and the exclusive designation enforced.  [The electric vehicle charging units shall meet recognized standards, including SAE J1772 of the Society of Automotive Engineers.] Owners of multiple parking [lots] facilities within the State may designate and electrify fewer parking spaces than required in one or more of their owned properties as long as the scheduled requirement is met for the total number of aggregate spaces on all of their owned properties.
+     [When the number of registered electric vehicles in the State reaches five thousand, the spaces designated for electric vehicles shall increase to two per cent of parking spaces.  The number of spaces designated for electric vehicles shall continue to increase by one per cent for each additional five thousand electric vehicles registered in the State until the percentage reaches ten per cent of parking spaces.]
+     For the purposes of this section, "electric vehicle" means an electric vehicle or neighborhood electric vehicle with an electric vehicle license plate.
+     "Electric vehicle charging system" means a system that is designed in compliance with article 625 of the National Electrical Code and delivers electricity from a source outside an electric vehicle into one or more electric vehicles.  An electric vehicle charging system may include several charge points simultaneously connecting several electric vehicles to the system."
+     SECTION 4.  Section 291-72, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§291-72[]]  Parking spaces reserved for electric vehicles; penalties. (a)  Beginning [January 1, 2012,] January 1, 2013, any person who parks a non-electric vehicle in a space designated and marked as reserved for electric vehicles shall receive a warning.
+     (b)  Beginning July 1, 2013, any person who parks a non-electric vehicle in a space designated and marked as reserved for electric vehicles shall be guilty of a traffic infraction under chapter 291D and shall be fined not less than $50 nor more than $100, and shall pay any costs incurred by the court related to assessing the fine.
+     (c)  Any citation issued under this section may be mailed to the violator pursuant to section 291C-165(b)."
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________BY REQUEST
+ 
+ 
+
+ 
+Report Title:
+Electric vehicles
+ 
+Description:
+Clarifies the electric vehicle parking requirement.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

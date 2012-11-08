@@ -1,0 +1,77 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+629
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PUBLIC UTILITIES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 269, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows:
+"PART
+AUTHORIZATION AND VERIFICATION FOR PRODUCT AND SERVICE CHARGES TO BE BILLED ON A TELEPHONE BILL
+     §269-A  Definitions.  For purposes of this part:
+     "Billing agent" means any entity that submits charges to the billing carrier on behalf of itself or any service provider.
+     "Billing carrier" means any telecommunications carrier, as defined in section 269-1, that issues a bill directly to a customer for any product or service not provided by a telecommunications carrier.
+     "Service provider" means any entity that offers a product or service to a consumer and that directly or indirectly charges to or collects from a consumer's bill received from a billing carrier an amount for the product or service.
+     §269-B  Scope.  This part does not apply to the provision of services and products by a provider of cable service, as that term is defined in section 440G-3, or by a provider of mobile telecommunications service, as defined in section 239-22.
+     §269-C  Requirements for submitting charges.  (a)  A service provider or billing agent may submit charges for a product or service to be billed on a consumer's telephone bill only if:
+     (1)  The service provider offering the product or service has clearly and conspicuously disclosed all material terms and conditions of the product or service being offered, including all charges and the fact that the charges for the product or service shall appear on the consumer's telephone bill;
+     (2)  After the clear and conspicuous disclosure of all material terms and conditions as described in paragraph (1), the consumer has expressly consented to obtain the product or service offered and to have the charges appear on the consumer's telephone bill and the consent has been verified as provided in subsection (b);
+     (3)  The service provider offering the product or service or any billing agent for the service provider has provided the consumer with a toll-free telephone number the consumer may call and an address to which the consumer may write to resolve any billing dispute and to answer questions; and
+     (4)  The service provider offering the product or service or the billing agent has taken effective steps to determine that the consumer who purportedly consented to obtain the product or service offered is authorized to incur charges for the telephone number to be billed.
+     (b)  The consumer consent required by subsection (a) must be verified by the service provider offering the product or service before any charges are submitted for billing on a consumer's telephone bill.  A record of the consumer consent and verification must be maintained by the service provider offering the product or service for a period of at least twenty-four months immediately after the consent and verification have been obtained.  The method of obtaining consumer consent and verification must include one or both of the following:
+     (1)  A writing signed and dated by the consumer to be billed that clearly and conspicuously discloses the material terms and conditions of the product or service being offered in accordance with subsection (a)(1) and clearly and conspicuously states that the consumer expressly consents to be billed in accordance with subsection (a)(2) as follows:
+         (A)  If the writing is in electronic form, then it shall contain the consumer disclosures required by section 101(c) of the federal Electronic Signatures in Global and National Commerce Act; and
+         (B)  The writing shall be a separate document or easily separable document or located on a separate screen or webpage containing only the disclosures and consent described in subsection (a); or
+     (2)  Third party verification by an independent third party that:
+         (A)  Clearly and conspicuously discloses to the consumer to be billed all of the information required by subsection (a)(1);
+         (B)  Operates from a facility physically separate from that of the service provider offering the product or service;
+         (C)  Is not directly or indirectly managed, controlled, directed, or owned wholly or in part by the service provider offering the product or service;
+         (D)  Does not derive commissions or compensation based upon the number of sales confirmed;
+         (E)  Tape records the entire verification process, with prior consent of the consumer to be billed; and
+         (F)  Obtains confirmation from the consumer to be billed that he or she authorized the purchase of the offered good or service.
+All verifications must be conducted in the same language that was used in the underlying sales transaction.
+     (c)  Unless verification is required by federal law or rules implementing federal law, subsection (b) does not apply to customer-initiated transactions with a certificated telecommunications carrier for which the service provider has the appropriate documentation.
+     (d)  This part does not apply to message telecommunications service charges that are initiated by dialing 1+, 0+, 0-, 1010XXX, or collect calls and charges for video services if the service provider has the necessary records to establish the billing for the call or service.
+     §269-D  Records of disputed charges.  (a)  Every service provider or billing agent shall maintain records of every disputed charge for a product or service placed on a consumer's bill.
+     (b)  The record required under this section shall contain for every disputed charge all of the following:
+     (1)  Any affected telephone numbers and, if available, addresses;
+     (2)  The date the consumer requested that the disputed charge be removed from the consumer's bill;
+     (3)  The date the disputed charge was removed from the consumer's telephone bill; and
+     (4)  The date action was taken to refund or credit to the consumer any money that the consumer paid for the disputed charges.
+     (c)  The record required by this section shall be maintained for at least twenty-four months.
+     §269-E  Billing agents; compliance of service providers.  Billing agents shall take reasonable steps designed to ensure that service providers on whose behalf they submit charges to a billing carrier comply with the requirements of this part.
+     §269-F  Violations.  Any service provider or billing agent who violates this part commits an unfair or deceptive trade practice under section 480-2."
+     SECTION 2.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 3.  In codifying the new sections added by section 1 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 4.  This Act shall take effect January 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Telephone Bills; Disclosure of All Charges
+ 
+Description:
+Requires telephone service providers to disclose all applicable charges and obtain authorization and verification for product and service charges to be billed.  Requires maintenance of records of disputed charges.  Requires billing agents to take reasonable steps to ensure that service providers comply with all applicable requirements.  Provides that violations constitute an unfair and deceptive trade practice.  Effective 01/01/12.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

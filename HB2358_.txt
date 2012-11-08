@@ -1,0 +1,199 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2358
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE BUILDING CODE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 46, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§46-    Hawaii state building code; amendments.  (a)  Any county may submit to the Hawaii state building code council established by section 107-22 a proposal to amend the Hawaii state building code set forth in section 107-25(a); provided that the proposed amendment shall apply only to the county that makes the submission.
+     (b)  The Hawaii state building code council shall have sole authority to determine whether to approve any amendment under subsection (a)."
+     SECTION 2.  Chapter 107, Hawaii Revised Statutes, is amended as follows:
+     1.   By adding a new section to part II to be appropriately designated and to read:
+     "§107-    Natural disaster preparedness commission; duties.  (a)  There is established a natural disaster preparedness commission.  The commission shall be placed within the civil defense agency, established under section 128-3, of the department of defense for administrative purposes only.  The commission shall consist of nine members with expertise in climate, geology, and other relevant scientific disciplines to advise the Hawaii state building code council on matters related to natural disasters and the Hawaii state building code.
+     (b)  Members of the commission shall be appointed by the governor pursuant to section 26-34.
+     (c)  The commission shall:
+     (1)  Conduct annual scientific evaluations to determine the frequency, location, and intensity of natural disasters that affect or may affect Hawaii;
+     (2)  Determine the necessity and effectiveness of proposed amendments to the Hawaii state building code that relate to preparedness for natural disasters; and
+     (3)  Submit a written report regarding paragraphs (1) and (2), including any recommendations, to the Hawaii state building code council by December 31 of each year.
+     (d)  Members of the commission shall serve without compensation but shall be reimbursed for expenses, including travel expenses necessary for the performance of their duties.
+     (e)  The Hawaii state building code council shall have sole authority to determine whether to take action on the recommendations in the report described in subsection (c)(3); provided that no amendment to the building code related to natural-disaster preparedness may be adopted by the council without the commission's concurrence."
+     2.  By amending the title of part II to read:
+"PART II.  HAWAII STATE BUILDING CODE [AND DESIGN STANDARDS]"
+     3.  By amending section 107-21 to read:
+     "[[]§107-21[]]  Definitions.  As used in this part:
+     "Council" means the Hawaii state building code council.
+     "Department" means the department of accounting and general services.
+     ["Hurricane resistive criteria" means the design criteria for enhanced hurricane protection areas that are capable of withstanding a five hundred-year hurricane event, as developed by the state department of defense for public shelter and residential safe room design criteria.]
+     "State building construction" means any building construction project or program initiated by a state agency or requiring the use of state funds."
+     4.  By amending section 107-22 to read:
+     "[[]§107-22[]]  Hawaii [State] state building code council.  (a)  There is established a Hawaii state building code council.  The council shall be placed within the department of accounting and general services for administrative purposes only.  The council shall consist of [nine] thirteen voting members and [one] four nonvoting [member, who shall be the comptroller or the comptroller's designee.] members.  The council members shall serve no more than two consecutive four-year terms [as defined in paragraphs (1) to (6)].  The voting members shall [include:
+     (1)  One county building official from each of the four counties appointed by the mayor;
+     (2)  One member representing the state fire council;
+     (3)  One member representing the department of health who has significant experience in building mechanical and sewage disposal systems;
+     (4)  One member representing the department of labor and industrial relations who has significant experience in elevator or fire safety;
+     (5)  One member representing the Structural Engineers Association of Hawaii; and
+     (6)  One member representing the American Institute of Architects, Hawaii State Council.] be appointed by the governor pursuant to section 26-34 and shall consist of:
+     (1)  The director of the Hawaii housing finance and development corporation, or the director's designee;
+     (2)  A representative from the Building Industry Association of Hawaii, or its successor organization;
+     (3)  A representative from The Pacific Resource Partnership, or its successor organization;
+     (4)  A representative from the Hawaii Building and Construction Trades Council, or its successor organization;
+     (5)  A representative from the Hawaii Insurers Council, or its successor organization;
+     (6)  A representative from the Hawaii Association of Realtors, or its successor organization;
+     (7)  A representative from the Honolulu chapter of The American Institute of Architects, or its successor organization;
+     (8)  A representative from the American Council of Engineering Companies of Hawaii, or its successor organization;
+     (9)  A representative from the Structural Engineers Association of Hawaii, or its successor organization; and
+    (10)  Four individuals, who shall not be employees of the State or any of its political subdivisions, to represent the interests of homeowners.
+     The nonvoting members shall consist of a county building official from each of the four counties, appointed by the mayor of the respective county.
+     (b)  [Six] Eight voting members shall constitute a quorum.  The chairperson and vice chairperson of the council shall be elected annually from among its members by a majority vote of the members of the council.
+     (c)  Members shall serve without compensation[,] but shall be reimbursed for expenses, including travel expenses necessary for the performance of their duties."
+     5.  By amending section 107-24 to read:
+     "[[]§107-24[]]  Authority and duties of the council.  (a)  [Any law to the contrary notwithstanding, the council shall establish a comprehensive state building code.]  The council may adopt any amendments to the Hawaii state building code set forth in section 107-25(a) upon a vote of approval by a majority of all voting members of the council.
+     (b)  The council [shall] may appoint a subcommittee [comprised] composed of the four nonvoting council members representing county building officials, whose duty shall be to recommend any necessary or desirable [state] amendments to the [model codes] Hawaii state building code.  Any recommended [state] amendments shall require the unanimous agreement of the subcommittee[.] and shall be approved by a majority vote of all voting members of the council to be adopted into the Hawaii state building code.
+     (c)  The council may appoint other investigative, technical expertise committees, which may include council members.
+     (d)  The council shall consult with general building contractor associations and building trade associations to gather information and recommendations on construction practices and training relevant to building codes and standards.
+     (e)  The council [shall] may review and adopt, as appropriate, new model building codes [within eighteen months of the official publication date].
+     (f)  The council may make expenditures for technical references, equipment and supplies, and other operating expenses, and may contract for the conduct of research studies and other technical services.
+     (g)  The council shall provide education and technical training and administrative assistance in the form of services or grants at the state and county levels relating to the implementation and enforcement of the Hawaii state building code adopted pursuant to this part.
+     (h)  The council shall have sole authority to determine whether to approve any amendment to the Hawaii state building code proposed by a county pursuant to section 46-  ."
+     6.  By amending section 107-25 to read:
+     "[[]§107-25[]]  Hawaii [State] state building code[; requirements].  (a)  There is established a Hawaii state building code applicable to all construction, except state building construction, in the State of Hawaii.  The Hawaii state building code shall [include:
+     (1)  The latest edition of the state fire code as adopted by the state fire council;
+     (2)  The latest edition of the Uniform Plumbing Code, as copyrighted and published by the International Association of Plumbing and Mechanical Officials, including its appendices;
+     (3)  The latest edition of the International Building Code, as published by the International Code Council;
+     (4)  Hawaii design standards implementing the criteria pursuant to Act 5, Special Session Laws of Hawaii, 2005, as applicable to:
+         (A)  Emergency shelters built to comply with hurricane resistant criteria, including enhanced hurricane protection areas capable of withstanding a five hundred-year hurricane event as well as other storms and natural hazards; and
+         (B)  Essential government facilities requiring continuity of operations; and
+     (5)  Code provisions based on nationally published codes or standards that include, but are not limited to, residential and hurricane resistive standards for residential construction, fire, elevator, electrical, plumbing, mechanical, flood and tsunami, existing buildings, and energy conservation standards for building design and construction, and onsite sewage disposal.] consist of the building code, city and county of Honolulu, 1929: ordinance, issue 490, and as further amended by the council, as provided by law.
+     (b)  All state and county building codes, ordinances, and regulations in existence on October 1, 2012, shall be superseded by the Hawaii state building code set forth in subsection (a)."
+     7.  By amending section 107-31 to read:
+     "[[]§107-31[]]  State building code; [compliance.] exemption.  [The design of all] All state building construction shall be [in] exempt from compliance with the Hawaii state building code [within one year of its effective date]."
+     8.  By repealing section 107-26:
+     ["[§107-26]  State building code; prohibitions.  In adopting a state building code, the council shall not adopt provisions that:
+     (1)  Relate to administrative, permitting, or enforcement and inspection procedures of each county; or
+     (2)  Conflict with chapter 464."]
+     9.  By repealing section 107-27:
+     ["[§107-27]  Exemptions.  (a)  Upon adoption of rules under this chapter, the design of all state building construction shall be in compliance with the state building code within one year of its effective date, and state building construction shall be allowed to be exempted from:
+     (1)  County codes that have not adopted the state building code;
+     (2)  Any county code amendments that are inconsistent with the minimum performance objectives of the state building code or the objectives enumerated in this part; or
+     (3)  Any county code amendments that are contrary to code amendments adopted by another county.
+     (b)  Exemptions shall include county ordinances allowing the exercise of indigenous Hawaiian architecture adopted in accordance with section 46-1.55."]
+     10.  By repealing section 107-28:
+     ["[§107-28]  County building code authority to amend the state model building code without state approval.  (a)  The governing body of each county shall amend the state building code as it applies within its respective jurisdiction, in accordance with section 46-1.5(13), without approval of the council.  Each county shall use the model codes and standards listed in section 107-25, as the referenced model building codes and standards for its respective county building code ordinance, no later than two years after the adoption of the state building code.
+     (b)  If a county does not amend the statewide model code within the two-year time frame, the state building code shall become applicable as an interim county building code until the county adopts the amendments."]
+     SECTION 3.  Section 6E-15, Hawaii Revised Statutes, is amended to read as follows:
+     "§6E-15  Regulations, special conditions or restrictions.  In addition to any power or authority of a political subdivision to regulate by planning or zoning laws and regulations or by local laws and regulations, the governing body of any political subdivision may provide by regulations, special conditions, or restrictions for the protection, enhancement, preservation, and use of historic properties or burial sites.  These regulations, special conditions, and restrictions may include appropriate and reasonable control of the use or appearance of adjacent or associated private property within the public view, or both, historic easements, preventing deterioration by wilful neglect, permitting the modification of local health [and building code] provisions, and transferring development rights[.]; provided that these regulations, special conditions, and restrictions shall not permit the modification of any building code."
+     SECTION 4.  Section 46-1.55, Hawaii Revised Statutes, is amended to read as follows:
+     "§46-1.55  Indigenous Hawaiian architecture.  (a)  Each county shall adopt ordinances allowing the exercise of indigenous native Hawaiian architectural practices, styles, customs, techniques, and materials historically employed by native Hawaiians[, in the county's building code, including but not limited to residential and other structures comprised of either rock wall or wood frame walls covered by thatches of different native grasses or other natural material for roofs].
+     (b)  The application of indigenous Hawaiian architecture shall be permitted in all zoning districts; provided that it is consistent with the intent and purpose of the uniquely designated, special, or historic district.
+     [(c)  Each county shall adopt or amend its ordinances to implement this section no later than March 31, 2008.  The ordinance adopted by Maui county shall serve as a model.]"
+     SECTION 5.  Section 46-15.3, Hawaii Revised Statutes, is amended to read as follows:
+     "§46-15.3  Regulation of adult family boarding home and care home.  (a)  For the purpose of regulation under the Hawaii state building code established by section 107-25 and a county's life safety code[, building code, fire code,] or any other ordinance of similar purpose, a licensed adult family boarding home or licensed care home that provides living accommodations for:
+     (1)  The operator of the home and operator's family; and
+     (2)  Up to six other persons, not more than three of whom are incapable of self-preservation because of age or physical or mental limitations,
+shall be deemed a single-family dwelling occupied by a family.
+     (b)  For the purpose of this section:
+     ["Building code" means an ordinance the purpose of which is to provide minimum standards to safeguard life or limb, health, property, and public welfare by regulating and controlling the design, construction, quality of materials, use and occupancy, location, and maintenance of all buildings and structures within the county's jurisdiction and certain equipment specifically regulated by the ordinance.
+     "Fire code" means an ordinance adopted under section 132-3 or an ordinance intended to prescribe regulations consistent with recognized good practice for the safeguarding to a reasonable degree of life and property from the hazards of fire and explosion arising from the storage, handling, and use of hazardous substances, materials, and devices and from conditions hazardous to life or property in the use or occupancy of buildings or premises.]
+     "Licensed adult family boarding home" means an adult family boarding home licensed under chapter 346, part IV.
+     "Licensed care home" means a care home licensed under section 321-15.6.
+     "Life safety code" means an ordinance the purpose of which is to establish minimum requirements that will provide a reasonable degree of safety from fire in buildings and structures."
+     SECTION 6.  Section 132-2, Hawaii Revised Statutes, is amended to read as follows:
+     "§132-2  General power to make rules.  Subject to chapter 91, the fire chief of each county may adopt rules which shall not be inconsistent with the provisions of any [ordinance] law relating to the protection of persons and property against fire. Such rules may relate to:
+     (1)  Prevention of fires, and the inspection of property, periodically or otherwise, or for the prevention of or reduction of loss by fire, or to promote the safety of persons in case of fire;
+     (2)  Manufacture, storage, sale, and use of combustibles and explosives;
+     (3)  Installation and maintenance of automatic, or other fire alarm systems, and fire extinguishing equipment; and
+     (4)  Fire escape and other means of exits from or access to buildings or parts of buildings or other property in case of fire, including the exterior approaches to exits of places of assembly."
+     SECTION 7.  Section 132-3, Hawaii Revised Statutes, is amended to read as follows:
+     "§132-3  [Adoption of state] State fire code.  (a)  The state fire council shall, after public hearings pursuant to chapter 91, [adopt] propose a state fire code setting forth minimum requirements relative to the protection of persons and property from fire loss, including without limitation:
+     (1)  [the] The storage, handling, and use of hazardous substances, materials, and devices; and
+     (2)  [the] The control of conditions hazardous to life or property in the design, use, or occupancy of buildings and premises.
+[The state fire code shall become part of the state building code as provided in section 107-25.]
+     (b)  The state fire council shall meet annually to [review and amend]:
+     (1)  Determine the necessity of amending the state fire code; and
+     (2)  If necessary, submit proposed amendments to the state fire code to the Hawaii state building code council.
+     (c)  The Hawaii state building code council shall have sole authority to determine whether to adopt the state fire code or any amendments thereto proposed by the state fire council.
+     (d)  The adoption into the Hawaii state building code of the state fire code or any amendments thereto shall be approved by a majority vote of all voting members of the council."
+     SECTION 8.  Section 132-16, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  In addition to [adopting] proposing to the Hawaii state building code council a state fire code pursuant to section 132-3, the state fire council shall:
+     (1)  Administer the requirements for reduced ignition propensity cigarettes, in accordance with chapter 132C; and
+     (2)  Serve as a focal point through which all applications to the federal government for federal grant assistance for fire-related projects shall be made.  Upon the receipt of any such federal grants, the state fire council shall administer those federal grants."
+     SECTION 9.  Section 514A-61, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  In the case of a project which includes one or more existing structures being converted to condominium status:
+     (1)  A statement by the declarant, based upon a report prepared by an independent [Hawaii registered] Hawaii-registered architect or engineer, describing the present condition of all structural components and mechanical and electrical installations material to the use and enjoyment of the condominium;
+     (2)  A statement by the declarant of the expected useful life of each item reported on in paragraph (1) or a statement that no representations are made in that regard;
+     (3)  A list of any outstanding notices of uncured violations of the Hawaii state building code or [other] municipal regulations, together with the cost of curing these violations;
+     (4)  A statement whether the project is on a lot, or has structures or uses, which do not conform to present zoning requirements;
+provided that paragraphs (1), (2), and (3) apply only to apartments that may be occupied for residential use, and only to apartments that have been in existence for five years."
+     SECTION 10.  Section 514B-84, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  In addition to the information required by section 514B‑83, the developer's public report for a project containing any existing structures being converted to condominium status shall contain:
+     (1)  Regarding units that may be occupied for residential use and that have been in existence for five years or more:
+         (A)  A statement by the developer, based upon a report prepared by a Hawaii-licensed architect or engineer, describing the present condition of all structural components and mechanical and electrical installations material to the use and enjoyment of the units;
+         (B)  A statement by the developer of the expected useful life of each item reported on in subparagraph (A) or a statement that no representations are made in that regard; and
+         (C)  A list of any outstanding notices of uncured violations of the Hawaii state building code or [other] county regulations, together with the estimated cost of curing these violations;
+     (2)  Regarding all projects containing converted structures, a verified statement signed by an appropriate county official that:
+         (A)  The structures are in compliance with all zoning and building ordinances and codes applicable to the project at the time it was built, and specifying, if applicable:
+              (i)  Any variances or other permits that have been granted to achieve compliance;
+             (ii)  Whether the project contains any legal nonconforming uses or structures as a result of the adoption or amendment of any ordinances or codes; and
+            (iii)  Any violations of current zoning or building ordinances or codes and the conditions required to bring the structure into compliance; or
+         (B)  Based on the available information, the county official cannot make a determination with respect to the matters described in subparagraph (A); and
+     (3)  Other disclosures and information that the commission may require."
+     SECTION 11.  Section 514B-143, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  Unless otherwise provided in the declaration or bylaws, the association shall purchase and at all times maintain the following:
+     (1)  Property insurance:
+         (A)  On the common elements;
+         (B)  Providing coverage for special form causes of loss; and
+         (C)  In a total amount of not less than the full insurable replacement cost of the insured property, less deductibles, but including coverage for the increased costs of construction, if any, due to [building code] the requirements of the Hawaii state building code, at the time the insurance is purchased and at each renewal date;
+     (2)  Commercial general liability insurance against claims and liabilities arising in connection with the ownership, existence, use, or management of the property in a minimum amount of $1,000,000, or a greater amount deemed sufficient in the judgment of the board;
+     (3)  A fidelity bond, as follows:
+         (A)  An association with more than five dwelling units shall obtain and maintain a fidelity bond covering persons, including the managing agent and its employees who control or disburse funds of the association, in an amount equal to $500 multiplied by the number of units; provided that the amount of the fidelity bond required by this paragraph shall not be less than $20,000 nor greater than $200,000; and
+          (B)  All management companies that are responsible for the funds held or administered by the association shall be covered by a fidelity bond as provided in section 514B‑132(a)(3).  The association shall have standing to make a loss claim against the bond of the managing agent as a party covered under the bond; and
+     (4)  The board shall obtain directors and officers liability coverage at a level deemed reasonable by the board, if not otherwise limited by the declaration or bylaws."
+     SECTION 12.  Section 46-19.5, Hawaii Revised Statutes, is repealed.
+     ["§46-19.5  Energy conservation standards for building design and construction.  (a)  Energy efficiency building standards based on the design requirements for improvements of energy utilization in buildings developed and approved by the American Society of Heating, Refrigerating and Air-Conditioning Engineers, Incorporated (ASHRAE 90.1), shall be incorporated by each county into its building code by October 24, 1994.  The standards shall apply to all buildings, including state buildings; provided that the standards for renovated buildings shall only apply to the renovated system or elements of the building.
+     (b)  The energy efficiency building standards shall not apply to exempted buildings.  For the purposes of this section, "exempted building" means:
+     (1)  Any building owned or leased in whole or in part by the United States; and
+     (2)  Any building that is deliberately preserved beyond its normal term of use because of historic significance, architectural interest, or public policy or that qualifies for special historic building code provisions.
+For special applications such as hospitals, laboratories, thermally sensitive equipment, computer rooms, and manufacturing and industrial processes, the design concepts and parameters shall conform to the requirements of the application at minimum energy levels, provided that where these special applications are described in the ASHRAE handbook and product directory, applications volume, the criteria described therein shall be used.
+     (c)  The energy efficiency building standards shall be enforced at the time of construction of a new building or at the time of major addition, alteration, or repair of an existing building when the proposed major addition, alteration, or repair must comply with the standards applicable to new buildings under the applicable county building code.  No official of the State nor of any county charged with the enforcement of laws or ordinances pertaining to the construction or alteration of buildings or structures shall accept or approve any plan or specification including or pertaining to the design and construction details and standards for a heating or cooling system unless the energy efficiency building standards are met.  All such plans and specifications submitted with or in connection with an application for a building or construction permit shall bear the certification by a registered architect or engineer that the plans and specifications comply with the energy efficiency building standards.
+     (d)  At such time as performance standards that address the overall energy performance of buildings are promulgated pursuant to the Energy Conservation Standards for New Buildings Act of 1976, Title III of the Energy Conservation and Production Act, Public Law 94-385, such standards shall be considered for adoption by each county and shall be incorporated into its building code in addition to the standard adopted pursuant to subsection (a) above, as required by federal law."]
+     SECTION 13.  Section 46-19.7, Hawaii Revised Statutes, is repealed.
+     ["[§46-19.7]  Individual shower control valves required.  Every county building code shall require that all showers in new dwelling units shall be equipped with individual shower control valves of the pressure balance or the thermostatic mixing valve type unless the temperature of the water serving the showers is limited to 110 degrees Fahrenheit.  The requirements of this section shall be applicable to building permits issued after December 31, 1992."]
+     SECTION 14.  There is appropriated out of the general revenues of the State of Hawaii the sum of $       or so much thereof as may be necessary for fiscal year 2012-2013 for the Hawaii state building code council to carry out its duties.
+     The sum appropriated shall be expended by the department of accounting and general services for the purposes of this Act.
+     SECTION 15.  There is appropriated out of the general revenues of the State of Hawaii the sum of $       or so much thereof as may be necessary for fiscal year 2012-2013 for the natural disaster preparedness commission to carry out its duties.
+     The sum appropriated shall be expended by the department of defense for the purposes of this Act.
+     SECTION 16.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 17.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 18.  This Act shall take effect on July 1, 2012, and shall apply to building permits issued after September 30, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Hawaii State Building Code and Council; Natural Disaster Commission; Appropriations
+ 
+Description:
+Establishes the Hawaii State Building Code, Hawaii State Building Code Council, and Natural Disaster Preparedness Commission.  Effective July 1, 2012.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

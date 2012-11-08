@@ -1,0 +1,88 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2239
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO TAXATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 235, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§235-     Small business investment tax credit.  (a)  There shall be allowed to each taxpayer subject to the taxes imposed by this chapter, an income tax credit which shall be deductible from the taxpayer's net income tax liability, if any, imposed by this chapter for the taxable year in which the credit is properly claimed.  The amount of the credit shall be equal to ten per cent of the taxpayer's qualifying investment in a small business enterprise; provided that:
+     (1)  The taxpayer may claim a credit under this section only upon the conclusion of the holding period of the qualifying investment for which a credit is claimed; and
+     (2)  The total amount of tax credits claimed under this section by a taxpayer shall not exceed $5,000,000 per taxable year.
+     In the case of a partnership, S corporation, estate, or trust, the tax credit allowable is for every qualifying investment in a small business enterprise.  The cost upon which the tax credit is computed shall be determined at the entity level.  Distribution and share of credit shall be determined pursuant to section 235-110.7(a).
+     (b)  As used in this section:
+     "Holding period" means:
+     (1)  For qualifying investments made on or after July 1, 2012, but before July 1, 2014, the two-year period beginning on the day the investment was made; and
+     (2)  For qualifying investments made on or after July 1, 2014, the five-year period beginning on the day the investment was made.
+     "Qualifying investment" means an investment of money made on or after July 1, 2012, to acquire capital stock or other equity interest in a small business enterprise.  "Qualifying investment" shall not include any investment of money the taxpayer derives, directly or indirectly, from a grant or loan from the federal government, the State, or a political subdivision.
+     "Small business enterprise" means a corporation, pass-through entity, or other person satisfying all of the following:
+     (1)  According to generally accepted accounting principles, at the time of a qualifying investment:
+         (A)  The enterprise's assets do not exceed $50,000,000; or
+         (B)  The enterprise's annual sales do not exceed $10,000,000;
+     (2)  Regarding the enterprises full-time employees:
+         (A)  The enterprise employs at least fifty full-time employees in the State, for whom the enterprise is required to withhold taxes under section 235-61; or
+         (B)  More than one-half of the enterprise's total number of full-time employees employed anywhere in the United States are employed in this State and are subject to the withholding requirement; and
+     (3)  The enterprise, within six months of the taxpayer's qualifying investment, invests in or incurs cost for one or more of the following in an amount equal to or greater than the amount of the qualifying investment:
+         (A)  Tangible personal property, other than motor vehicles operated on public roads and highways, used in business and physically located in the State from the time of its acquisition by the enterprise until the end of the investor's holding period;
+         (B)  Motor vehicles operated on public roads and highways; provided that, from the time of acquisition by the enterprise until the end of the investor's holding period, the motor vehicles are:
+              (i)  Purchased in the State;
+             (ii)  Registered in the State;
+            (iii)  Used primarily for business purposes; and
+             (iv)  Necessary for the operation of the enterprise's business;
+         (C)  Real property located in the State that is used in business from the time of its acquisition by the enterprise until the end of the holding period;
+         (D)  Intangible personal property used in business primarily in the State, from the time of its acquisition by the enterprise until the end of the holding period, including:
+              (i)  Patents;
+             (ii)  Copyrights;
+            (iii)  Trademarks;
+             (iv)  Service marks; or
+              (v)  Licenses; or
+         (E)  Compensation for new employees of the enterprise for whom the enterprise is required to withhold taxes under section 235-61.  For the purpose of this subparagraph, compensation for new employees includes compensation for newly hired or retained employees.  Compensation for new employees shall not include increased compensation for owners, officers, or managers of the enterprise.
+     (c)  A taxpayer that makes a qualifying investment in a small business enterprise on or after July 1, 2012, may apply to the department of business, economic development, and tourism to obtain a small business investment certificate.  The director of business, economic development, and tourism, in consultation with the director of taxation, shall prescribe the form or manner in which an applicant shall apply for the certificate, devise the form of the certificate, and prescribe any records or other information an applicant shall furnish with the application to evidence the qualifying investment.  The applicant shall state the amount of the intended investment.
+     To qualify for a certificate, an applicant shall satisfy both of the following:
+     (1)  The taxpayer shall make a qualifying investment on or after July 1, 2012; and
+     (2)  The taxpayer shall pledge not to sell or otherwise dispose of the qualifying investment before the conclusion of the applicable holding period.
+     (d)  Upon each determination, the department of business, economic development, and tourism shall issue a certificate to the taxpayer verifying the qualifying investment amounts and the credit amount certified.  The taxpayer shall file the certificate with the taxpayer's tax return for the taxable year that a credit under this section is properly claimed with the department of taxation.  Notwithstanding the department of business, economic development, and tourism's certification authority under this section, the director of taxation may audit and adjust certification to conform to the facts.
+     The department of business, economic development, and tourism shall not issue a small business investment certificate to a taxpayer representing an amount of qualifying investment in excess of the amount of the intended investment indicated on the taxpayer's application for the certificate.
+     If in any year, the annual amount of certified credits reaches $50,000,000 in the aggregate, the department of business, economic development, and tourism shall immediately discontinue certifying credits and notify the department of taxation.  In no instance shall the total amount of certified credits exceed $50,000,000 per year.  Notwithstanding any other law to the contrary, this information shall be available for public inspection and dissemination under chapter 92F.
+     The director of business, economic development, and tourism may adopt rules necessary to effectuate the purposes of this section pursuant to chapter 91, including rules governing the following:
+     (1)  Documents, records, or other information taxpayers shall in support of an application for a small business investment certificate;
+     (2)  Any information a small business enterprise shall provide for the purposes of this section;
+     (3)  Determination of the number of full-time employees of a small business enterprise;
+     (4)  Verification of a small business enterprise's investment in tangible personal property and intangible personal property, including when such investments have been made and where the property is used in business; and
+     (5)  Circumstances under which a small business enterprise or taxpayer may be subverting the purposes of this section.
+     (e)  Before the end of the applicable holding period of a qualifying investment, each enterprise in which a qualifying investment was made for which a small business investment certificate has been issued, upon the request of the department of business, economic development, and tourism, shall provide to the department of business, economic development, and tourism records or other evidence satisfactory to the department of business, economic development, and tourism that the enterprise is a small business enterprise for the purposes of this section.  No credit may be claimed under this section if the department of business, economic development, and tourism finds that an enterprise is not a small business enterprise for the purposes of this section.  The department of business, economic development, and tourism shall compile and maintain a register of small business enterprises qualifying under this section and shall certify the register to the department of taxation.
+     (f)  If the credit under this section exceeds the taxpayer's income tax liability, the excess of credit over liability may be used as a credit against the taxpayer's income tax liability in subsequent years until exhausted.  All claims for a credit under this section must be properly filed on or before the end of the twelfth month following the close of the taxable year for which the credit may be claimed.  Failure to comply with the foregoing provision shall constitute a waiver of the right to claim the credit.
+     (g)  The director of taxation shall prepare any forms that may be necessary to claim a tax credit under this section.  The director may also require the taxpayer to furnish reasonable information to ascertain the validity of the claim for credit made under this section and may adopt rules necessary to effectuate the purposes of this section pursuant to chapter 91."
+     SECTION 2.  New statutory material is underscored.
+     SECTION 3.  This Act, upon its approval, shall apply to taxable years beginning after December 31, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Small Business Investment Tax Credit
+ 
+Description:
+Establishes a tax credit for certain investments in small business enterprises.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

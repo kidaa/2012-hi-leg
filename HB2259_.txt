@@ -1,0 +1,62 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2259
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO ENERGY.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  As the most isolated and oil-dependent state in the nation, Hawaii faces pressing concerns regarding the security and costs of its energy resources.  Hawaii relies on imported petroleum for the majority of its primary energy needs.  In addition, once imported, fuel must be transported among islands thereby contributing to the State's highest-in-the-nation costs for electricity and gasoline.
+     The legislature finds that hydrogen produced from Hawaii's substantial renewable energy resources can benefit the State by, among other things:
+(1)  Increasing Hawaii's energy self-sufficiency by reducing its reliance on imported fossil fuel;
+(2)  Improving the state economy by lowering energy costs and generating new jobs associated with the expansion of renewable energy technologies; and
+(3)  Reducing harmful emissions by displacing fossil fuel-based energy sources.
+     The legislature finds that the State currently does not have an agreed-upon set of fire and safety requirements to support the safe production, delivery, and use of hydrogen as a fuel source.  The National Fire Protection Association's Hydrogen Technologies Code is structured to work seamlessly with other National Fire Protection Association codes applicable to compressed and cryogenic gases, building codes, and fire codes.
+The purpose of this Act is to enhance Hawaii's energy resources, improve the state economy, and reduce the State's dependence on imported fossil fuel by making the requirements of the National Fire Protection Association's Hydrogen Technologies Code applicable to all aspects of hydrogen production, storage, use, and handling in the State for stationary and portable applications.
+     SECTION 2.  Chapter 196, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§196-    State hydrogen permitting authority, established; hydrogen technologies code, adopted.  (a)  The department of health is designated as the state hydrogen permitting authority.
+     (b)  The National Fire Protection Association's Hydrogen Technologies Code shall apply to all aspects of hydrogen production, storage, use, and handling for stationary and portable applications in the State.  No state agency or county permitting department shall permit production, storage, use, or handling of stationary or portable hydrogen applications in the State, except as permitted by the code.
+     (c)  The state hydrogen permitting authority shall:
+(1)  Maintain the technical expertise necessary to evaluate project compliance with the code;
+(2)  Provide technical support to other state agencies and county permitting departments;
+(3)  Ensure that the State is using the most current version of the code;
+(4)  Ensure that the affected state agencies and county permitting departments are apprised of the most current version of the code;
+(5)  Be a member of the National Fire Protection Association's Hydrogen Technologies Code working group;
+(6)  Report any issues that arise in implementing and overseeing compliance with the code to the National Fire Protection Association's Hydrogen Technologies Code working group for evaluation; and
+(7)  Make recommendations for Hawaii-specific code provisions or amendments to the working group.
+     (d)  The department of health shall adopt rules pursuant to chapter 91 to effectuate the purposes of this section.
+     (e)  For purposes of this section, "code" means the most recent iteration of the National Fire Protection Association's Hydrogen Technologies Code."
+     SECTION 3.  There is appropriated out of the general revenues of the State of Hawaii the sum of $        or so much thereof as may be necessary for fiscal year 2012-2013 to administer and implement the National Fire Protection Association's Hydrogen Technologies Code as set forth in this Act.
+     The sum appropriated shall be expended by the department of health for the purposes of this Act.
+SECTION 4.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Energy; State Hydrogen Codes and Standards; Appropriation
+ 
+Description:
+Applies the National Fire Protection Association's Hydrogen Technologies Code to hydrogen production, storage, use, and handling for stationary and portable applications in the State and establishes the state hydrogen permitting authority.  Contains appropriation.  Effective July 1, 2012.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

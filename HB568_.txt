@@ -1,0 +1,109 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+568
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO AQUACULTURE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that direct leasing of public lands has been a cornerstone for building a successful commercial aquaculture industry in the State.  Currently, aquaculture leases have a statutory limit of thirty-five years, with no option for renewal.  Project financing and private sector investment require lease terms of sufficient duration for ventures to reach economic viability.  Federal loan guarantees for aquaculture enterprises are available for terms of loans up to forty years, but require applicants to have a lease at least five years longer than the term--a minimum of forty-five years.  On the other hand, for state non-agricultural park leases, a maximum term of sixty-five years, including an option for renewal, is available for experienced farmers.
+     The purpose of this Act is to encourage commercial aquaculture production in the State by providing favorable terms for leasing of public lands.
+     SECTION 2.  Section 171-59, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  Disposition of public lands for airline, aircraft, airport-related, agricultural processing, cattle feed production, aquaculture, marine, maritime, and maritime-related operations may be negotiated without regard to the limitations set forth in subsection (a) and section 171-16(c); provided that:
+     (1)  The disposition encourages competition within the aeronautical, airport-related, agricultural, aquaculture, maritime, and maritime-related operations;
+     (2)  The disposition shall not exceed a maximum term of thirty-five years, except [in]:
+         (A)  In the case of maritime and maritime-related operations, which may provide for a maximum term of seventy years; and
+         (B)  In the case of aquaculture operations, which may provide for a maximum term of forty-five years, or a maximum term of sixty-five years for existing aquaculture operations in good standing for ten or more years.  Aquaculture operations in good standing shall have the right of first refusal and may seek to renew a lease issued under this paragraph.  Aquaculture operations, during the lease term, may engage in supportive activities that are related to aquaculture; and
+     (3)  The method of disposition of public lands for cattle feed production as set forth in this subsection shall not apply after December 31, 1988.
+For the purposes of this subsection:
+     "Agricultural processing" means the processing of agricultural products, including dairying, grown, raised, or produced in Hawaii.
+     "Airport-related" means a purpose or activity that requires air transportation to achieve that purpose or activity.
+     "Aquaculture" means the propagation, cultivation, or farming of aquatic plants and animals in controlled or selected environments for research, commercial, or stocking purposes, including aquaponics or any growing of plants with aquaculture effluents.
+     "Maritime-related" means a purpose or activity that requires and is directly related to the loading, off-loading, storage, or distribution of goods and services of the maritime industry."
+     SECTION 3.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Commercial Aquaculture Leases
+ 
+Description:
+Increases aquaculture leases from 35 to 45 years and allows a maximum term of 65 years for ventures in good standing for 10 years or more.  Provides lessees in good standing the right of first refusal.  Allows for supportive aquaculture activities.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+, li.ExtraSig, div.ExtraSig {mso-style-name:"Extra Sig"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:243.0pt; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; mso-style-link:"\#Regular Paragraphs Char"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.ResolutionBody, li.ResolutionBody, div.ResolutionBody {mso-style-name:"Resolution Body"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} span.BillSectionNumber {mso-style-name:"Bill Section Number"; font-family:Courier;} p.XNotesHeading, li.XNotesHeading, div.XNotesHeading {mso-style-name:XNotesHeading; margin:0in; margin-bottom:.0001pt; text-align:center; font-size:12.0pt; font-family:"Courier New"; font-weight:bold;} p.XNotes, li.XNotes, div.XNotes {mso-style-name:XNotes; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Amend, li.Amend, div.Amend {mso-style-name:Amend; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Effective, li.Effective, div.Effective {mso-style-name:Effective; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Ramseyer, li.Ramseyer, div.Ramseyer {mso-style-name:Ramseyer; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.RegularParagraphsChar {mso-style-name:"\#Regular Paragraphs Char"; mso-style-link:"\#Regular Paragraphs"; font-family:"Courier New";} span.BalloonTextChar {mso-style-name:"Balloon Text Char"; mso-style-link:"Balloon Text"; font-family:"Tahoma","sans-serif";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+568
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO AQUACULTURE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that direct leasing of public lands has been a cornerstone for building a successful commercial aquaculture industry in the State.  Currently, aquaculture leases have a statutory limit of thirty-five years, with no option for renewal.  Project financing and private sector investment require lease terms of sufficient duration for ventures to reach economic viability.  Federal loan guarantees for aquaculture enterprises are available for terms of loans up to forty years, but require applicants to have a lease at least five years longer than the term--a minimum of forty-five years.  On the other hand, for state non-agricultural park leases, a maximum term of sixty-five years, including an option for renewal, is available for experienced farmers.
+     The purpose of this Act is to encourage commercial aquaculture production in the State by providing favorable terms for leasing of public lands.
+     SECTION 2.  Section 171-59, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  Disposition of public lands for airline, aircraft, airport-related, agricultural processing, cattle feed production, aquaculture, marine, maritime, and maritime-related operations may be negotiated without regard to the limitations set forth in subsection (a) and section 171-16(c); provided that:
+     (1)  The disposition encourages competition within the aeronautical, airport-related, agricultural, aquaculture, maritime, and maritime-related operations;
+     (2)  The disposition shall not exceed a maximum term of thirty-five years, except [in]:
+         (A)  In the case of maritime and maritime-related operations, which may provide for a maximum term of seventy years; and
+         (B)  In the case of aquaculture operations, which may provide for a maximum term of forty-five years, or a maximum term of sixty-five years for existing aquaculture operations in good standing for ten or more years.  Aquaculture operations in good standing shall have the right of first refusal and may seek to renew a lease issued under this paragraph.  Aquaculture operations, during the lease term, may engage in supportive activities that are related to aquaculture; and
+     (3)  The method of disposition of public lands for cattle feed production as set forth in this subsection shall not apply after December 31, 1988.
+For the purposes of this subsection:
+     "Agricultural processing" means the processing of agricultural products, including dairying, grown, raised, or produced in Hawaii.
+     "Airport-related" means a purpose or activity that requires air transportation to achieve that purpose or activity.
+     "Aquaculture" means the propagation, cultivation, or farming of aquatic plants and animals in controlled or selected environments for research, commercial, or stocking purposes, including aquaponics or any growing of plants with aquaculture effluents.
+     "Maritime-related" means a purpose or activity that requires and is directly related to the loading, off-loading, storage, or distribution of goods and services of the maritime industry."
+     SECTION 3.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Commercial Aquaculture Leases
+ 
+Description:
+Increases aquaculture leases from 35 to 45 years and allows a maximum term of 65 years for ventures in good standing for 10 years or more.  Provides lessees in good standing the right of first refusal.  Allows for supportive aquaculture activities.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

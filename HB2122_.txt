@@ -1,0 +1,145 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2122
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE PROCUREMENT CODE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 103D-303, Hawaii Revised Statutes, is amended by amending subsection (h) to read as follows:
+     "(h)  In cases of awards made under this section, non-selected offerors may submit a written request for debriefing to the procurement officer within three working days after the posting of the award of the contract.  Thereafter, the procurement officer shall provide the non-selected offeror a prompt debriefing.  [Any protest by the non-selected offeror pursuant to section 103D-701 following debriefing shall be filed in writing with the procurement officer within five working days after the date upon which the debriefing is completed.]"
+     SECTION 2.  Section 103D-304, Hawaii Revised Statutes, is amended by amending subsection (k) to read as follows:
+     "(k)  In cases of awards made under this section, nonselected professional service providers may submit a written request for debriefing to the chief procurement officer or designee within three working days after the posting of the award of the contract.  Thereafter, the head of the purchasing agency shall provide the requester a prompt debriefing in accordance with rules adopted by the policy board.  [Any protest by the requester pursuant to section 103D-701 following debriefing shall be filed in writing with the chief procurement officer or designee within five working days after the date that the debriefing is completed.]"
+     SECTION 3.  Section 103D-705, Hawaii Revised Statutes, is amended to read as follows:
+     "§103D-705  Solicitations or awards in violation of law.  The provisions of section 103D-706 and section 103D‑707 apply where it is determined by the chief procurement officer or a designee under section [103D-701 or] 103D-703 or where it is determined administratively under section 103D-709, or upon judicial review under section 103D-710 or judicial action under section 103D-711, that a solicitation or award of a contract is in violation of the law."
+     SECTION 4.  Section 103D-709, Hawaii Revised Statutes, is amended to read as follows:
+     "§103D-709  Administrative proceedings for review.  (a)  The several hearings officers appointed by the director of the department of commerce and consumer affairs pursuant to section 26-9(f) shall have jurisdiction to review and determine de novo, any request from any bidder, offeror, contractor, person aggrieved under section 103D-106, or governmental body aggrieved by a determination of the chief procurement officer, head of a purchasing agency, or a designee of either officer under section 103D-310, [103D-701,] or 103D-702.
+     (b)  Hearings to review and determine any request made pursuant to subsection (a) shall commence within twenty-one calendar days of receipt of the request.  The hearings officers shall have power to issue subpoenas, administer oaths, hear testimony, find facts, make conclusions of law, and issue a written decision which shall be final and conclusive unless a person or governmental body adversely affected by the decision commences an appeal in the circuit court of the circuit where the case or controversy arises under section 103D-710.
+     (c)  Only parties to [the protest made and decided] an action taken pursuant to sections [103D-701,] 103D-709(a), 103D-310(b), [and] or [[]103D-702(g)[]] may initiate a proceeding under this section.  The party initiating the proceeding shall have the burden of proof, including the burden of producing evidence as well as the burden of persuasion.  The degree or quantum of proof shall be a preponderance of the evidence.  All parties to the proceeding shall be afforded an opportunity to present oral or documentary evidence, conduct cross-examination as may be required, and argument on all issues involved.  The rules of evidence shall apply.
+     (d)  The hearings officers shall ensure that a record of each proceeding which includes the following is compiled:
+     (1)  All pleadings, motions, intermediate rulings;
+     (2)  Evidence received or considered, including oral testimony, exhibits, and a statement of matters officially noticed;
+     (3)  Offers of proof and rulings thereon;
+     (4)  Proposed findings of fact;
+     (5)  A recording of the proceeding which may be transcribed if judicial review of the written decision is sought under section 103D-710.
+    [(e)  No action shall be taken on a solicitation or an award of a contract while a proceeding is pending, if the procurement was previously stayed under section 103D-701(f).
+     (f)] (e)  The hearings officer shall decide whether the determinations of the chief procurement officer or the chief procurement officer's designee were in accordance with the Constitution, statutes, rules, and the terms and conditions of the solicitation or contract, and shall order such relief as may be appropriate in accordance with this chapter.
+     [(g)] (f)  The policy board shall adopt such other rules as may be necessary to ensure that the proceedings conducted pursuant to this section afford all parties an opportunity to be heard."
+     SECTION 5.  Section 103D-712, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  Requests for administrative review under section 103D-709 shall be made directly to the office of administrative hearings of the department of commerce and consumer affairs within seven calendar days of the issuance of a written determination under section 103D-310, [103D-701,] or 103D-702."
+     SECTION 6.  Section 103D-701, Hawaii Revised Statutes, is repealed.
+     [§103D-701  Authority to resolve protested solicitations and awards.  (a)  Any actual or prospective bidder, offeror, or contractor who is aggrieved in connection with the solicitation or award of a contract may protest to the chief procurement officer or a designee as specified in the solicitation.  Except as provided in sections 103D-303 and 103D-304, a protest shall be submitted in writing within five working days after the aggrieved person knows or should have known of the facts giving rise thereto; provided that a protest of an award or proposed award shall in any event be submitted in writing within five working days after the posting of award of the contract under section 103D-302 or 103D-303, if no request for debriefing has been made, as applicable; provided further that no protest based upon the content of the solicitation shall be considered unless it is submitted in writing prior to the date set for the receipt of offers.
+     (b)  The chief procurement officer or a designee, prior to the commencement of an administrative proceeding under section 103D-709 or an action in court pursuant to section 103D-710, may settle and resolve a protest concerning the solicitation or award of a contract.  This authority shall be exercised in accordance with rules adopted by the policy board.
+     (c)  If the protest is not resolved by mutual agreement, the chief procurement officer or a designee shall promptly issue a decision in writing to uphold or deny the protest.  The decision shall:
+     (1)  State the reasons for the action taken; and
+     (2)  Inform the protestor of the protestor's right to an administrative proceeding as provided in this part, if applicable.
+     (d)  A copy of the decision under subsection (c) shall be mailed or otherwise furnished immediately to the protestor and any other party intervening.
+     (e)  A decision under subsection (c) shall be final and conclusive, unless any person adversely affected by the decision commences an administrative proceeding under section 103D-709.
+     (f)  In the event of a timely protest under subsection (a), no further action shall be taken on the solicitation or the award of the contract until the chief procurement officer makes a written determination that the award of the contract without delay is necessary to protect substantial interests of the State.
+     (g)  In addition to any other relief, when a protest is sustained and the protestor should have been awarded the contract under the solicitation but is not, then the protestor shall be entitled to the actual costs reasonably incurred in connection with the solicitation, including bid or proposal preparation costs but not attorney's fees.]"
+     SECTION 7.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 8.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 9.  This Act shall take effect on July 1, 2012, and shall be repealed on June 30, 2017; provided that sections 103D-303(h), 103D-304(k), 103D-701, 103D-705, 103D-709, and 103D-712(a), Hawaii Revised Statutes, shall be reenacted in the form in which they read on the day before the effective date of this Act.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+State Procurement Code; Protest of Award
+ 
+Description:
+Suspends the ability of a contractor to protest the awarding of a contract under the State Procurement Code for five years.  Effective July 1, 2012.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+g, li.ExtraSig, div.ExtraSig {mso-style-name:"Extra Sig"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:243.0pt; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; mso-style-link:"\#Regular Paragraphs Char"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.ResolutionBody, li.ResolutionBody, div.ResolutionBody {mso-style-name:"Resolution Body"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} span.BillSectionNumber {mso-style-name:"Bill Section Number"; font-family:Courier;} p.XNotesHeading, li.XNotesHeading, div.XNotesHeading {mso-style-name:XNotesHeading; margin:0in; margin-bottom:.0001pt; text-align:center; font-size:12.0pt; font-family:"Courier New"; font-weight:bold;} p.XNotes, li.XNotes, div.XNotes {mso-style-name:XNotes; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Amend, li.Amend, div.Amend {mso-style-name:Amend; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.PCa, li.PCa, div.PCa {mso-style-name:"PC\(a\)"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Misc, li.Misc, div.Misc {mso-style-name:"Misc\."; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.RegularParagraphsChar {mso-style-name:"\#Regular Paragraphs Char"; mso-style-link:"\#Regular Paragraphs"; font-family:"Courier New";} p.1Paragraphunderscored, li.1Paragraphunderscored, div.1Paragraphunderscored {mso-style-name:"\(1\)Paragraph underscored"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New"; text-decoration:underline;} p.Effective, li.Effective, div.Effective {mso-style-name:Effective; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.BalloonTextChar {mso-style-name:"Balloon Text Char"; mso-style-link:"Balloon Text"; font-family:"Tahoma","sans-serif";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2122
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE PROCUREMENT CODE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 103D-303, Hawaii Revised Statutes, is amended by amending subsection (h) to read as follows:
+     "(h)  In cases of awards made under this section, non-selected offerors may submit a written request for debriefing to the procurement officer within three working days after the posting of the award of the contract.  Thereafter, the procurement officer shall provide the non-selected offeror a prompt debriefing.  [Any protest by the non-selected offeror pursuant to section 103D-701 following debriefing shall be filed in writing with the procurement officer within five working days after the date upon which the debriefing is completed.]"
+     SECTION 2.  Section 103D-304, Hawaii Revised Statutes, is amended by amending subsection (k) to read as follows:
+     "(k)  In cases of awards made under this section, nonselected professional service providers may submit a written request for debriefing to the chief procurement officer or designee within three working days after the posting of the award of the contract.  Thereafter, the head of the purchasing agency shall provide the requester a prompt debriefing in accordance with rules adopted by the policy board.  [Any protest by the requester pursuant to section 103D-701 following debriefing shall be filed in writing with the chief procurement officer or designee within five working days after the date that the debriefing is completed.]"
+     SECTION 3.  Section 103D-705, Hawaii Revised Statutes, is amended to read as follows:
+     "§103D-705  Solicitations or awards in violation of law.  The provisions of section 103D-706 and section 103D‑707 apply where it is determined by the chief procurement officer or a designee under section [103D-701 or] 103D-703 or where it is determined administratively under section 103D-709, or upon judicial review under section 103D-710 or judicial action under section 103D-711, that a solicitation or award of a contract is in violation of the law."
+     SECTION 4.  Section 103D-709, Hawaii Revised Statutes, is amended to read as follows:
+     "§103D-709  Administrative proceedings for review.  (a)  The several hearings officers appointed by the director of the department of commerce and consumer affairs pursuant to section 26-9(f) shall have jurisdiction to review and determine de novo, any request from any bidder, offeror, contractor, person aggrieved under section 103D-106, or governmental body aggrieved by a determination of the chief procurement officer, head of a purchasing agency, or a designee of either officer under section 103D-310, [103D-701,] or 103D-702.
+     (b)  Hearings to review and determine any request made pursuant to subsection (a) shall commence within twenty-one calendar days of receipt of the request.  The hearings officers shall have power to issue subpoenas, administer oaths, hear testimony, find facts, make conclusions of law, and issue a written decision which shall be final and conclusive unless a person or governmental body adversely affected by the decision commences an appeal in the circuit court of the circuit where the case or controversy arises under section 103D-710.
+     (c)  Only parties to [the protest made and decided] an action taken pursuant to sections [103D-701,] 103D-709(a), 103D-310(b), [and] or [[]103D-702(g)[]] may initiate a proceeding under this section.  The party initiating the proceeding shall have the burden of proof, including the burden of producing evidence as well as the burden of persuasion.  The degree or quantum of proof shall be a preponderance of the evidence.  All parties to the proceeding shall be afforded an opportunity to present oral or documentary evidence, conduct cross-examination as may be required, and argument on all issues involved.  The rules of evidence shall apply.
+     (d)  The hearings officers shall ensure that a record of each proceeding which includes the following is compiled:
+     (1)  All pleadings, motions, intermediate rulings;
+     (2)  Evidence received or considered, including oral testimony, exhibits, and a statement of matters officially noticed;
+     (3)  Offers of proof and rulings thereon;
+     (4)  Proposed findings of fact;
+     (5)  A recording of the proceeding which may be transcribed if judicial review of the written decision is sought under section 103D-710.
+    [(e)  No action shall be taken on a solicitation or an award of a contract while a proceeding is pending, if the procurement was previously stayed under section 103D-701(f).
+     (f)] (e)  The hearings officer shall decide whether the determinations of the chief procurement officer or the chief procurement officer's designee were in accordance with the Constitution, statutes, rules, and the terms and conditions of the solicitation or contract, and shall order such relief as may be appropriate in accordance with this chapter.
+     [(g)] (f)  The policy board shall adopt such other rules as may be necessary to ensure that the proceedings conducted pursuant to this section afford all parties an opportunity to be heard."
+     SECTION 5.  Section 103D-712, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  Requests for administrative review under section 103D-709 shall be made directly to the office of administrative hearings of the department of commerce and consumer affairs within seven calendar days of the issuance of a written determination under section 103D-310, [103D-701,] or 103D-702."
+     SECTION 6.  Section 103D-701, Hawaii Revised Statutes, is repealed.
+     [§103D-701  Authority to resolve protested solicitations and awards.  (a)  Any actual or prospective bidder, offeror, or contractor who is aggrieved in connection with the solicitation or award of a contract may protest to the chief procurement officer or a designee as specified in the solicitation.  Except as provided in sections 103D-303 and 103D-304, a protest shall be submitted in writing within five working days after the aggrieved person knows or should have known of the facts giving rise thereto; provided that a protest of an award or proposed award shall in any event be submitted in writing within five working days after the posting of award of the contract under section 103D-302 or 103D-303, if no request for debriefing has been made, as applicable; provided further that no protest based upon the content of the solicitation shall be considered unless it is submitted in writing prior to the date set for the receipt of offers.
+     (b)  The chief procurement officer or a designee, prior to the commencement of an administrative proceeding under section 103D-709 or an action in court pursuant to section 103D-710, may settle and resolve a protest concerning the solicitation or award of a contract.  This authority shall be exercised in accordance with rules adopted by the policy board.
+     (c)  If the protest is not resolved by mutual agreement, the chief procurement officer or a designee shall promptly issue a decision in writing to uphold or deny the protest.  The decision shall:
+     (1)  State the reasons for the action taken; and
+     (2)  Inform the protestor of the protestor's right to an administrative proceeding as provided in this part, if applicable.
+     (d)  A copy of the decision under subsection (c) shall be mailed or otherwise furnished immediately to the protestor and any other party intervening.
+     (e)  A decision under subsection (c) shall be final and conclusive, unless any person adversely affected by the decision commences an administrative proceeding under section 103D-709.
+     (f)  In the event of a timely protest under subsection (a), no further action shall be taken on the solicitation or the award of the contract until the chief procurement officer makes a written determination that the award of the contract without delay is necessary to protect substantial interests of the State.
+     (g)  In addition to any other relief, when a protest is sustained and the protestor should have been awarded the contract under the solicitation but is not, then the protestor shall be entitled to the actual costs reasonably incurred in connection with the solicitation, including bid or proposal preparation costs but not attorney's fees.]"
+     SECTION 7.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 8.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 9.  This Act shall take effect on July 1, 2012, and shall be repealed on June 30, 2017; provided that sections 103D-303(h), 103D-304(k), 103D-701, 103D-705, 103D-709, and 103D-712(a), Hawaii Revised Statutes, shall be reenacted in the form in which they read on the day before the effective date of this Act.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+State Procurement Code; Protest of Award
+ 
+Description:
+Suspends the ability of a contractor to protest the awarding of a contract under the State Procurement Code for five years.  Effective July 1, 2012.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

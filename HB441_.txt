@@ -1,0 +1,110 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+441
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO FIREARMS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that the number of households with firearms has steadily decreased from fifty-four per cent in 1977 to thirty-five per cent in 2006.  The Brady Campaign to Prevent Gun Violence has given Hawaii an A- for its state policies protecting residents from gun violence.  However, the legislature recognizes that continued focus must be placed on efforts to curb gun-related accidents and fatalities because at least two hundred million firearms are owned by private individuals in the United States, more than any other country.
+     The legislature finds that gun violence continues to be one of our most challenging social problems.  In April 2007, a Virginia Tech University student killed thirty-three people, including himself, using two semiautomatic pistols.  In December 2007, a young man in Omaha, Nebraska killed eight people using an assault rifle.  On January 8, 2011, a gunman in Tucson, Arizona, shot nineteen people, six of them fatally.  The legislature has worked to provide law enforcement with the necessary tools to prevent gun-related fatalities in Hawaii and will continue to do so in the future.
+     The purpose of this Act is to:
+     (1)  Require that all guns be sold with safety devices to prevent unintentional discharges by children and unauthorized users;
+     (2)  Prohibit the sale of ammunition unless the purchaser shows proof of registration for the firearm for which the ammunition is to be purchased and photo identification proving that the purchaser is the person to whom the firearm is registered;
+     (3)  Require the attorney general to adopt rules setting minimum standards for firearms dealers to secure firearms in the ordinary course of business and in the event of a natural disaster;
+     (4)  Require firearms dealers to report theft of a firearm within twenty-four hours;
+     (5)  Prohibit the importation, manufacture, possession, sale, barter, trade, gift, transfer, or acquisition of any .50 BMG rifle or .50 BMG cartridge; and
+     (6)  Prohibit disclosure to a firearm permit applicant of the source of the information used to deny the application, when the application is denied because the applicant was diagnosed with a mental disorder.
+     SECTION 2.  Chapter 134, Hawaii Revised Statutes, is amended by adding three new sections to be appropriately designated and to read as follows:
+     "§134-A  Safety device required for sale of firearm.  (a)  All firearms sold in this State by a dealer licensed under section 134-31 and all firearms manufactured in this State shall include or be accompanied by a firearms safety device.
+     (b)  The sale of a firearm shall be exempt from subsection (a) if both of the following apply:
+     (1)  The purchaser owns a gun safe; and
+     (2)  The purchaser presents an original receipt for purchase of the gun safe, or other proof of purchase or ownership of the gun safe, to the dealer.  The dealer shall maintain a copy of this receipt or proof of purchase with the dealer's record of sales of firearms.
+     (c)  The sale of a firearm shall be exempt from subsection (a) if all of the following apply:
+     (1)  The purchaser purchases a firearms safety device no more than thirty days prior to the day the purchaser takes possession of the firearm from the dealer;
+     (2)  The purchaser presents the firearms safety device to the dealer when taking possession of the firearm;
+     (3)  The purchaser presents an original receipt to the dealer that shows the date of purchase and the name and model number of the firearms safety device;
+     (4)  The dealer verifies that the requirements in paragraphs (1) to (3) have been satisfied; and
+     (5)  The dealer maintains a copy of the receipt together with the dealer's record of sales of firearms.
+     (d)  Violation of this section is a misdemeanor.
+     (e)  For purposes of this section:
+     "Firearms safety device" means a device, other than a gun safe, that locks and is designed to prevent children and unauthorized users from firing a firearm.  The device may be installed on a firearm, be incorporated into the design of the firearm, or prevent access to the firearm.
+     "Gun safe" means a locking container that fully contains and secures one or more firearms.
+     §134-B  Ammunition purchase; proof of registration; exception.  (a)  No person shall sell ammunition for any firearm unless the purchaser first demonstrates that the purchaser is the registered owner of the firearm for which the ammunition is to be purchased.  Presentation to the seller of the registration issued pursuant to section 134-3 together with government-issued photographic identification, such as a driver's license, a certificate of identification issued pursuant to section 846-30, a military identification card, or a United States passport, shall be sufficient to demonstrate that the purchaser is the registered owner of the firearm for which the ammunition is to be purchased.
+     (b)  Violation of this section is a class C felony.
+     (c)  This section shall not apply to ammunition purchases:
+     (1)  For firearms manufactured before 1899;
+     (2)  By federal, state, or county law enforcement officers;
+     (3)  By procurement officials purchasing ammunition as part of the official equipment of any federal, state, or county law enforcement agency; and
+     (4)  By law enforcement officers on official assignment in Hawaii from any state that by compact permits law enforcement officers from Hawaii while on official assignment in that state to carry firearms without registration.
+     §134-C  Secure storage of firearms and ammunition by dealers; report of theft; penalty.  (a)  Any dealer licensed under section 134-31 shall ensure that all firearms and ammunition in the dealer's inventory are secured from theft at all times.  Dealers shall maintain an accurate and current inventory of all firearms in the dealer's possession, which shall be made available for inspection by the chief of police of each county during normal business hours at the dealer's place of business.
+     (b)  Dealers licensed under section 134-31 shall report the theft of any firearm in the dealer's inventory to the appropriate chief of police within twenty-four hours after the theft is discovered or should have been discovered.
+     (c)  The attorney general shall adopt rules pursuant to chapter 91 necessary to ensure secure storage of the inventory of dealers licensed under section 134-31 both in the ordinary course of business and in times of natural disaster or national emergency.  The rules shall require permanent, minimum safety and security standards for windows, doors, storage areas, containers, safes, and alarms on a dealer's premises, to be augmented with additional safeguards during a natural disaster or national emergency.
+     (d)  Violation of this section or of any rules adopted hereunder shall be a misdemeanor.
+     (e)  For purposes of this section:
+     "National emergency" has the same meaning as in section 134-34.
+     "Natural disaster" means damage caused by earthquake, fire, flood, hurricane, tidal wave, volcanic eruption, or other natural causes."
+     SECTION 3.  Section 134-1, Hawaii Revised Statutes, is amended by adding two new definitions to be appropriately inserted and to read as follows:
+     "".50 BMG cartridge" means a cartridge that includes ball, tracer, incendiary, armor piercing, armor piercing incendiary, armor piercing incendiary tracer, or sabotaged light armor penetrator and is designed and intended to be fired from a center fire rifle and that meets all of the following criteria:
+     (1)  An overall length of 5.54 inches from base to the tip of the bullet;
+     (2)  The bullet diameter for the cartridge is from .510 to, and including, .511, inches;
+     (3)  The case base diameter for the cartridge is from .800 inches to, and including, .804 inches; and
+     (4)  A cartridge case length of 3.91 inches.
+     ".50 BMG rifle" means a center fire rifle that can fire a .50 BMG cartridge and is not an automatic firearm; provided that the term does not include any antique firearm nor any curio or relic as those terms are used in 18 United States Code section 921(a)(16) or 27 Code of Federal Regulations 478.11."
+     SECTION 4.  Section 134-2, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  An applicant for a permit shall sign a waiver at the time of application, allowing the chief of police of the county issuing the permit access to any records that have a bearing on the mental health of the applicant.  The waiver shall allow the chief of police to withhold from, and the chief of police shall not thereafter disclose to, the applicant the source of any information used to deny the application pursuant to section 134-7(c).  The permit application form and the waiver form shall be prescribed by the attorney general and shall be uniform throughout the State."
+     SECTION 5.  Section 134-8, Hawaii Revised Statutes, is amended to read as follows:
+     "§134-8  Ownership, etc., of automatic firearms, silencers, etc., prohibited; penalties.  (a)  The manufacture, possession, sale, barter, trade, gift, transfer, or acquisition of any of the following is prohibited:  assault pistols, except as provided by section 134-4(e); automatic firearms; rifles with barrel lengths less than sixteen inches; shotguns with barrel lengths less than eighteen inches; cannons; mufflers, silencers, or devices for deadening or muffling the sound of discharged firearms; hand grenades, dynamite, blasting caps, bombs, or bombshells, or other explosives; or any type of ammunition or any projectile component thereof coated with teflon or any other similar coating designed primarily to enhance its capability to penetrate metal or pierce protective armor; and any type of ammunition or any projectile component thereof designed or intended to explode or segment upon impact with its target.
+     (b)  Any person who installs, removes, or alters a firearm part with the intent to convert the firearm to an automatic firearm shall be deemed to have manufactured an automatic firearm in violation of subsection (a).
+     (c)  The manufacture, possession, sale, barter, trade, gift, transfer, or acquisition of detachable ammunition magazines with a capacity in excess of ten rounds [which] that are designed for or capable of use with a pistol is prohibited.  This subsection shall not apply to magazines originally designed to accept more than ten rounds of ammunition [which] that have been modified to accept no more than ten rounds and [which] that are not capable of being readily restored to a capacity of more than ten rounds.
+     (d)  After July 1, 2011, no person shall bring or cause to be brought into the State a .50 BMG rifle or .50 BMG cartridge.  No .50 BMG rifle or .50 BMG cartridge may be sold or transferred on or after July 1, 2011, to anyone within the State other than a dealer licensed under section 134-31 or the chief of police of any county; provided that any person who obtains title by bequest or intestate succession to a .50 BMG rifle registered within the State, within sixty days, shall render the weapon permanently inoperable, sell or transfer the weapon to a licensed dealer or the chief of police of any county, or remove the weapon from the State.
+     (e)  Except as provided by this section, the manufacture, possession, sale, barter, trade, gift, transfer, or acquisition of any .50 BMG rifle or .50 BMG cartridge is prohibited.
+     [(d)] (f)  Any person violating subsection (a) or (b) shall be guilty of a class C felony and shall be imprisoned for a term of five years without probation.  Any person violating subsection (c) shall be guilty of a misdemeanor except when a detachable magazine prohibited under this section is possessed while inserted into a pistol in which case the person shall be guilty of a class C felony.  Any person violating subsection (d) or (e) shall be guilty of a class B felony and shall be imprisoned for a term of ten years without probation."
+     SECTION 6.  Section 134-10.5, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§134-10.5[]]  Storage of firearm; responsibility with respect to minors.  No person shall store or keep any firearm on any premises under the person's control if the person knows or reasonably should know that a minor is likely to gain access to the firearm without the permission of the parent or guardian of the minor, unless the person:
+     (1)  Keeps the firearm in a securely locked box or other container or in a location that a reasonable person would believe to be secure; [or]
+     (2)  Ensures that the firearm is equipped with a firearms safety device, as defined in section 134-A; or
+    [(2)] (3)  Carries the firearm on the person or within such close proximity thereto that the person readily can retrieve and use it as if it were carried on the person.
+For purposes of this section, "minor" means any person under the age of sixteen years."
+     SECTION 7.  Section 134-32, Hawaii Revised Statutes, is amended to read as follows:
+     "§134-32  License to sell and manufacture firearms; conditions.  Every license issued pursuant to this part shall be issued and shall be regarded as having been accepted by the licensee subject to the following conditions:
+     (1)  That the licensee at all times shall comply with all provisions of law relative to the sale of firearms[.];
+     (2)  That the licensee shall comply with the requirements of section 134-C and rules adopted thereunder relating to the secure storage of firearms and ammunition;
+    [(2)] (3)  That the license during any time of national emergency or crisis, as defined in section 134-34, may be canceled or suspended[.];
+    [(3)] (4)  That all firearms in the possession and control of any licensee at any time of national emergency or crisis, as defined in section 134-34, may be seized and held in possession or purchased by or on the order of the governor until such time as the national emergency or crisis has passed, or until such time as the licensee and the government of the United States or the government of the State may agree upon some other disposition of the same[.];
+    [(4)] (5)  That all firearms in the possession and control of the licensee or registered pursuant to section 134-3(c) by the licensee shall be subject to physical inspection by the chief of police of each county during normal business hours at the licensee's place of business[.]; and
+    [(5)] (6)  That the license may be revoked for a violation of any of the conditions of this section."
+     SECTION 8.  In codifying the new sections added by section 2 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 9.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun, before its effective date.
+     SECTION 10.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 11.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Firearms
+ 
+Description:
+Requires firearms to be sold with safety devices.  Requires proof of registration for ammunition purchases.  Requires secure storage of firearms and ammunition by firearms dealers.  Prohibits disclosure to a firearm permit applicant of the source of information used to deny the application based on the applicant's mental disorder.  Prohibits import, sale, and transfer of .50 BMG rifle or cartridge after 07/01/11.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,47 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2448
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MEDICAID.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that, the United States Supreme Court has significantly limited the states' ability to recover full reimbursement in Medicaid third-party-lien cases.  The Supreme Court left the discretion to the states to use formulas to address the allocation and distribution of proceeds in these cases.  Many states have implemented such formulas to address this outstanding issue and to clarify what will happen in settlements in these cases.  Section 346-37(h), Hawaii Revised Statutes, also requires that a reasonable amount be contributed towards a claimant's attorney's fees and costs, which results in many disputes as to what is considered a "reasonable amount".
+     The purpose of this Act is to establish a formula for calculating the amount to be contributed by the State towards a claimant's attorney's fees and costs, in lieu of recovering the full amount as stated in section 346-37(f) and (h), Hawaii Revised Statutes.
+     SECTION 2.  Section 346-37, Hawaii Revised Statutes, is amended by amending subsection (f) to read as follows:
+"(f)  If liability is found to exist, or if the issue of third-party liability is settled or compromised without a finding of liability, regardless of who institutes legal proceedings or seeks other means of recovering, the department shall have a right to recover the full amount of the costs of medical assistance or burial payment made.  To aid in the recovery of the costs the department shall have a first lien in the full amount of the costs of medical assistance or burial payment made against the proceeds from all damages awarded in a suit or settlement.  The lien shall attach as provided by subsection (g).  Thirty-three per cent of the total settlement or, if not specified by a jury, thirty-three per cent of any judgment or award shall be considered special damages for the limited purpose of identifying the total amount available to satisfy the lien."
+SECTION 3.  Section 346-37, Hawaii Revised Statutes, is amended by amending subsection (h) to read as follows:
+"(h)  The lien shall attach as provided by subsection (g).  If a notice of lien is properly served upon the attorney representing the claimant as provided in subsection (g), that attorney shall pay the full amount of the lien, prior to disbursing any of the proceeds of the suit or settlement to the attorney's client.  If a notice of lien is properly served upon the third person, the third person's agent or attorney, or the third person's insurance company, as provided in subsection (g), it shall be the responsibility of the person receiving the notices to pay the full amount of the lien prior to disbursing any of the proceeds to the claimant's attorney.
+[If, after having received timely written notice of any claim or action under subsection (e), the department did not intervene or join in the action or prosecute its own claims or actively participate with claimant or claimant's attorney in the prosecution of claims, or a distribution agreement was not entered into between the parties, then the department shall determine its fair contribution toward attorney fees and costs incurred in the action that shall be a reasonable amount based solely upon legitimate costs and services rendered by the claimant or claimant's attorney in recovering the lien amount.  Any dispute regarding the department's determination of its contribution to fees and costs may be submitted to administrative hearing under subsection (i) or a court of competent jurisdiction.  The value of services contributed by the claimant and department may be considered in fairly allocating fees and costs between the claimant and department where both contribute to recovering the lien amount.]  If the lien is less than or equal to the special damages amount specified in subsection (f), thirty-three per cent of the lien amount will be deducted and considered the State's reasonable and fair contribution towards the claimant's attorney's fees and costs unless the State prosecutes its own claim, in which case it is not required to reduce its lien.  If the lien is greater than this special damages amount, the total settlement shall be split equally between the State, the claimant, and the claimant's attorney, after deducting all legitimate costs incurred by claimant's attorney, in prosecuting claimant's case."
+SECTION 4.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Medicaid
+ 
+Description:
+Establishes a formula for calculating the amount to be contributed by the State, towards a claimant's attorney's fees and costs, in lieu of recovering the full amount as stated in section 346-37(f) and (h), Hawaii Revised Statutes.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

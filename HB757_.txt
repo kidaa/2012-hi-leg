@@ -1,0 +1,44 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+757
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MEDICAID.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The Affordable Care Act, P.L. 111-148, requires that by January 1, 2014 states are to have established a functional health insurance exchange.  States are required to use the information from applications submitted through the exchange to determine eligibility for medicaid.  Hawaii's current twenty-three-year-old information technology system for determining medicaid eligibility is not capable of performing the functions required by the Affordable Care Act, P.L. 111-148.  Because numerous states are facing issues presented by antiquated medicaid-related information technology systems, the United States Centers for Medicare and Medicaid Services is expected to make available ninety per cent federal matching funds for specific types of eligibility system upgrades.
+     A new information technology system for determining medicaid eligibility will streamline the eligibility process, allow greater transparency to the community and applicants, and facilitate increased integrity of recipient eligibility through electronic interfaces for data verification.  The purpose of this Act is to provide funds to establish a new information technology system for determining medicaid eligibility within the State, and to take advantage of the opportunity presented by the provision of federal funding for this purpose.
+     SECTION 2.  There is appropriated out of the general revenues of the State of Hawaii the sum of $4,000,000 or so much thereof as may be necessary for fiscal year 2011-2012 to provide funding for the implementation of a new system for determining medicaid eligibility; provided that no funds shall be made available under this Act unless the United States Centers for Medicare and Medicaid Services provides ninety per cent of the funds required for the purpose for which this sum is appropriated; provided further that the new system for determining medicaid eligibility shall perform the functions required by the Affordable Care Act, P.L. 111-148, streamline the eligibility process, allow greater transparency to the community and applicants, and facilitate increased integrity of recipient eligibility through electronic interfaces for data verification.
+     The sum appropriated shall be expended by the department of human services for the purposes of this Act.
+
+     SECTION 3.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+ 
+Report Title:
+Medicaid Eligibility Information Technology Infrastructure; Med‑QUEST; Health Reform; Appropriation
+ 
+Description:
+Appropriates moneys to the department of human services for implementing a new information technology system for determining medicaid eligibility.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,93 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1788
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO COMPUTER CRIME.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 708, Hawaii Revised Statutes, is amended by adding two new sections to part IX to be appropriately designated and to read as follows:
+     "§708-     Computer fraud in the third degree.  (1)  A person commits the offense of computer fraud in the third degree if the person knowingly accesses a computer, computer system, or computer network, or obtains identifying information by phishing, with the intent to commit the offense of theft in the third or fourth degree.
+     (2)  Computer fraud in the third degree is a class C felony.
+     §708-     Use of spyware.  (1)  A person commits the offense of use of spyware if the person knowingly distributes or transfers spyware to the computer of an authorized user to:
+(a)  Modify, without authorization or through deceptive means, any of the settings related to the authorized user's computer access to or use of the Internet, including the following:
+              (i)  The webpage that appears when the authorized user launches an internet browser or similar software program used to access and navigate the Internet;
+         (ii) The default provider or internet website proxy that the authorized user uses to access or search the Internet; or
+        (iii)  The authorized user's list of bookmarks used to access websites;
+     (b)  Collect, without authorization or through deceptive means, information about the authorized user that:
+         (i)  Is collected through the use of a keystroke-logging function that records all keystrokes made by the authorized user and transfers that information from the computer to another person;
+        (ii)  Includes all or substantially all of the websites visited by the authorized user, other than the websites of the provider of the software;
+       (iii)  Is extracted from the authorized user's computer hard drive for a purpose wholly unrelated to any of the purposes of the software or service as described to the authorized user; or
+        (iv)  Is collected by extracting screen shots of the authorized user's use of the computer for a purpose wholly unrelated to any of the purposes of the software or service as described to the authorized user;
+     (c)  Prevent, without authorization or through deceptive means, the authorized user's reasonable efforts to block the installation of or to disable software by causing software that the authorized user has properly removed or disabled to automatically reinstall or reactivate on the computer;
+     (d)  Misrepresent that software will be uninstalled or disabled by an authorized user's action with knowledge that the software will not be so uninstalled or disabled;
+     (e)  Without authorization or through deceptive means, remove, disable, or render inoperative security related software installed on the computer; or
+     (f)  Induce an authorized user to install any software component by intentionally misrepresenting that installing the software component is necessary for security or privacy reasons or to open, view, or play a particular type of content or software.
+     (2)  This section shall not apply to the distribution or transfer of:
+     (a)  Software that falls within the scope of a grant of authorization by an authorized user;
+     (b)  An upgrade to a software program that has already been installed on the computer with the authorization of an authorized user; or
+     (c)  Text or data files that report information to a website, internet service provider, or third party acting on behalf of a website, or internet service provider, previously stored on the user's computer, computer system, or computer network, including a cookie.
+     (3)  Unauthorized use of spyware is a misdemeanor."
+     SECTION 2.  Section 708-890, Hawaii Revised Statutes, is amended by adding seven new definitions to be appropriately inserted and to read as follows:
+     ""Authorized user" means, with regards to a computer, the owner or lessee of a computer or a person authorized by the owner or lessee to use the computer.
+     "Cookie" means a text or data file that is placed on a computer to record information that can be read or recognized when the user of the computer later accesses a particular website or online location by a website, internet service provider, or a third party acting on behalf of a website or internet service provider.
+     "Electronic mail" or "email" means a message sent, posted, or transmitted to a unique destination that is commonly expressed as a string of characters, consisting of a unique user name or mailbox and a reference to an internet domain, whether or not displayed, to which electronic mail can be sent, delivered, or posted.
+     "Identifying information" means a person's:
+     (1)  Social security number;
+     (2)  Driver's license number;
+     (3)  Bank account number;
+     (4)  Credit or debit card number;
+     (5)  Personal identification number;
+     (6)  Automated or electronic signature;
+     (7)  Unique biometric data;
+          (8)  Account password, including any electronic mail or social media account password; or
+     (9)  Any other piece of information that can be used to access a person's financial accounts or to obtain goods or services.
+     "Phishing" means to solicit, request, or take any action to induce a person to provide identifying information by fraudulent use of a website, electronic mail, or otherwise through the Internet.
+     "Spyware" means any computer program or software designed to disrupt or modify an authorized user's access or use of the Internet, or gather information, without authorization or by deceptive means. 
+     "Webpage" or "website" means a location that has a single uniform resource locator with respect to the world wide web, or a single location with respect to the Internet."
+     SECTION 3.  Section 708-891, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§708-891[]]  Computer fraud in the first degree.  (1)  A person commits the offense of computer fraud in the first degree if the person knowingly[, and with intent to defraud, accesses a computer without authorization and, by means of such conduct, obtains or exerts control over the property of another.
+     (2)  In a prosecution for computer fraud in the first degree, it is a defense that the object of the fraud and the property obtained consists only of the use of the computer and the value of such use is not more than $300 in any one-year period.] accesses a computer, computer system, or computer network, or obtains identifying information by phishing, with the intent to:
+     (a)  Facilitate the commission of a murder in any degree, any class A felony, kidnapping, unlawful imprisonment in any degree, extortion in any degree, any offense under chapter 134, criminal property damage in the first or second degree, escape in any degree, any offense under part VI of chapter 710, any offense under section 711-1103, or any offense under chapter 842; or
+     (b)  Commit the offense of theft in the first degree.
+    [(3)] (2)  Computer fraud in the first degree is a class [B] A felony."
+     SECTION 4.  Section 708-891.5, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§708-891.5[]]  Computer fraud in the second degree.  (1)  A person commits the offense of computer fraud in the second degree if the person knowingly[, and with the intent to defraud, transfers, or otherwise disposes of, to another, or obtains control of, with the intent to transfer or dispose of, any password or similar information through which a computer, computer system, or computer network may accessed.] accesses a computer, computer system, or computer network, or obtains identifying information by phishing, with the intent to commit the offense of theft in the second degree.
+     (2)  Computer fraud in the second degree is a class [C] B felony."
+     SECTION 5.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 6.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 7.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Computer Crime; Phishing; Spyware
+ 
+ 
+Description:
+Adds new definitions to computer crime, including cookie, identifying information, phishing, and spyware.  Makes it a criminal offense to distribute or transfer spyware that, amongst other things, modifies an authorized user's access to or use of the Internet, or collects the internet addresses visited by an authorized user.  Creates a third degree of computer fraud, and incorporates the element of phishing into all three computer fraud offenses.
+ 
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+ 
+ 

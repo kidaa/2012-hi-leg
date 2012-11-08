@@ -1,0 +1,95 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1811
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE EMPLOYEES' RETIREMENT SYSTEM.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that some public employees, near the end of their careers, seek to increase the average final compensation upon which their retirement allowances are computed by working more overtime.  The resultant retirement allowances that are enhanced by overtime pay do not actuarially reflect the contributions made by and for the employees during their careers.
+     This Act requires the State and counties to pay greater contribution rates on their employees' non-base compensation than on base compensation.  The increased employer contributions are to commence from fiscal year 2013-2014.
+     This Act does not change the employer contribution rates for the base compensation of employees.
+     This Act is intended to require the employers to make contributions on employees' non-base compensation that better reflect the employees' retirement allowances.
+     This Act is also intended to place the burden on the employers, rather than the employees' retirement system, to pay for the portion of employees' retirement allowances attributed to non-base compensation.  At present, when employees' retirement allowances are actuarially greater than their accumulated contributions, the excess allowance portion must be paid from the earnings of the system.
+     This Act does not increase the employees' contribution rates on non-base compensation.  In this regard, the legislature notes that the amendments made by this Act to sections 88-46(a) and 88-326(a), Hawaii Revised Statutes, are technical only.
+     The purpose of this Act is to require that retirement allowances for public employees actuarially reflect the contributions made by and for the employees during their careers.
+     SECTION 2.  Section 88-21.5, Hawaii Revised Statutes, is amended to read as follows:
+     "§88-21.5  Compensation[.], base compensation, non-base compensation.  Unless a different meaning is plainly required by context, as used in this [part,] chapter:
+     ["compensation"] "Base compensation" means normal periodic payments of money to an employee for service, the right to which accrues on a regular basis in proportion to the service performed[;].
+     "Compensation" means the sum of the "base compensation" and "non-base compensation" paid to an employee.
+     "Non-base compensation" means payments of the following to an employee:  overtime, differentials, and supplementary payments; bonuses and lump sum salary supplements; and elective salary reduction contributions under sections 125, 403(b), and 457(b) of the Internal Revenue Code of 1986, as amended.  Bonuses and lump sum salary supplements shall be deemed earned when payable; provided that bonuses or lump sum salary supplements in excess of one-twelfth of compensation for the twelve months prior to the month in which the bonus or lump sum salary supplement is payable, exclusive of overtime, bonuses, and lump sum salary supplements, shall be deemed earned:
+     (1)  During the period agreed-upon by the employer and employee, but in any event over a period of not less than twelve months; or
+     (2)  In the absence of an agreement between the employer and the employee, over the twelve months prior to the date on which the bonus or lump sum salary supplement is payable."
+     SECTION 3.  Section 88-46, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending its title to read:
+     "§88-46  Deducting employee contributions from [salary] compensation and employer pick up of employee contributions."
+     2.  By amending subsection (a) to read:
+     "(a)  The head of each state department and the finance director of each county shall deduct from the compensation of each class A or class B member on each and every payroll under their respective jurisdiction, the percentage of compensation of each member as provided under section 88-45.  The total amount of deductions made from the [salaries] compensation of employees and a record of the amount deducted from each member's compensation shall be transmitted to the system monthly or at such other times as may be agreed upon by the board of trustees.  The amounts deducted shall be paid into the annuity savings fund and shall be credited to the individual account of the member from whose compensation the deductions were made.  Regular interest shall also be credited to the individual account of the member in the annuity savings fund."
+     SECTION 4.  Section 88-122, Hawaii Revised Statutes, is amended to read as follows:
+     "§88-122  Determination of employer normal cost and accrued liability contributions.  (a)  Based on regular interest and such mortality and other tables as are adopted by the board of trustees, the actuary engaged by the board, on the basis of successive annual actuarial valuations, shall determine the employer's normal cost and accrued liability contributions for each fiscal year beginning July 1 separately for the following two groups of employees:
+     (1)  Police officers, firefighters, and corrections officers; and
+     (2)  All other employees.
+     (b)  The actuarial valuations shall be based on the contribution rates approved by the legislature, and the tables, assumptions, and factors adopted by the board for actuarial valuations of the system; provided that the investment yield rate assumption for the year ending June 30, 2011, shall be seven and three-quarters per cent.
+     (c)  With respect to each of the two groups of employees in subsection (a), the normal cost for each year after June 30, 1994, shall be the percentage of the aggregate annual compensation of employees as of March 31 of the valuation year as determined by the actuary using the entry age normal cost funding method.  On each June 30 the board shall determine the allocation of the assets of the pension accumulation fund between the two groups of employees in subsection (a); provided that the assets of the pension accumulation fund as of June 30, 1976, shall be allocated between the two groups in the same proportion as the aggregate annual compensation of each group as of March 31, 1976.
+     (d)  Commencing with fiscal year 1994-1995 and each subsequent fiscal year, the actuary shall determine the total unfunded accrued liability using the entry age normal cost funding method separately for each of the two groups of employees in subsection (a).  The accrued liability contribution for each of the two groups of employees shall be the annual payment required to liquidate the unfunded accrued liability over a period of twenty-nine years beginning July 1, 2000.  Any increase or decrease in the total unfunded accrued liability resulting from legislative changes in the benefit provisions of the employees' retirement system shall be liquidated over a period of time to be determined by the actuary.
+     (e)  [Commencing with fiscal year 2005-2006 and each subsequent fiscal year, the employer contributions for normal cost and accrued liability for each of the two groups of employees in subsection (a) shall be based on fifteen and three-fourths per cent of the member's compensation for police officers, firefighters, and corrections officers and thirteen and three-fourths per cent of the member's compensation for all other employees.  Commencing with fiscal year 2008-2009 and each subsequent fiscal year until fiscal year 2011-2012, the employer contributions for normal cost and accrued liability for each of the two groups of employees in subsection (a) shall be based on nineteen and seven-tenths per cent of the member's compensation for police officers, firefighters, and corrections officers and fifteen per cent of the member's compensation for all other employees.]
+     (1)  In fiscal year 2012-2013, the employer contributions for normal cost and accrued liability for each of the two groups of employees in subsection (a) shall be based on twenty-two per cent of the member's compensation for police officers, firefighters, and corrections officers and fifteen and one-half per cent of the member's compensation for all other employees.
+          In fiscal year 2013-2014, the employer contributions for normal cost and accrued liability for each of the two groups of employees in subsection (a) shall be [based on twenty-three per cent of the member's compensation for] as follows:
+          (A)  For police officers, firefighters, and corrections officers, twenty-three per cent of the police officers', firefighters', and corrections officers' base compensation and twenty-six per cent of their non-base compensation; and
+          (B)  For all other members, sixteen per cent of the [member's] members' base compensation [for all other employees.] and nineteen per cent of their non-base compensation.
+     (2)  In fiscal year 2014-2015, the employer contributions for normal cost and accrued liability for each of the two groups of employees in subsection (a) shall be [based on twenty-four per cent of the member's compensation for] as follows:
+          (A)  For police officers, firefighters, and corrections officers, twenty-four per cent of the police officers', firefighters', and corrections officers' base compensation and twenty-seven per cent of their non-base compensation; and
+          (B)  For all other members, sixteen and one-half per cent of the [member's] members' base compensation [for all other employees.] and nineteen and one-half per cent of their non-base compensation.
+     (3)  Commencing with fiscal year 2015-2016 and each subsequent fiscal year, the employer contributions for normal cost and accrued liability for each of the two groups of employees in subsection (a) shall be [based on twenty-five per cent of the member's compensation for] as follows:
+          (A)  For police officers, firefighters, and corrections officers, twenty-five per cent of the police officers', firefighters', and corrections officers' base compensation and twenty-eight per cent of their non-base compensation; and
+          (B)  For all other members, seventeen per cent of the [member's] members' base compensation [for all other employees.] and twenty per cent of their non-base compensation.
+     The contribution rates shall be intended to amortize the total unfunded accrued liability of the entire plan over a period not to exceed thirty years.
+     (f)  The contribution rates shall be subject to adjustment:
+     (1)  If the actual period required to amortize the unfunded accrued liability exceeds thirty years;
+     (2)  If there is no unfunded accrued liability; or
+     (3)  Based on the actuarial investigation conducted in accordance with section 88-105."
+     SECTION 5.  Section 88-123, Hawaii Revised Statutes, is amended to read as follows:
+     "§88-123  Amount of annual contributions by the State and counties.  The contribution payable in each year to the pension accumulation fund by the State and by each county shall be determined by allocating the sum of the normal cost and the accrued liability contribution for:
+     (1)  Police officers, firefighters, and corrections officers, the latter after the actual transfer of all county jails pursuant to executive order of the governor; and
+     (2)  All other employees
+in the same proportion as the aggregate annual compensation of each group employed by the State and by each county, respectively, as of March 31 of the valuation year.
+     Commencing with fiscal year [2005-2006,] 2013-2014, the contribution payable in each year to the pension accumulation fund by the State and each county, respectively, shall be determined by multiplying the contribution rates for base and non-base compensation in section 88-122(e) by the actual covered base and non-base compensation payroll, as applicable, in a given fiscal year for each of the two groups of employees in section 88-122(a)."
+     SECTION 6.  Section 88-326, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending its title to read:
+     "[[]§88-326[]]  Deducting employee contributions from [salary] compensation and employer pick up of employee contributions."
+     2.  By amending subsection (a) to read:
+     "(a)  The head of each state department and the finance director of each county shall deduct from the compensation of each class H member on each and every payroll under their respective jurisdictions, the percentage of compensation of each member as provided under section 88-325.
+     The total amount of deductions made from the [salaries] compensation of employees and a record of the amount deducted from each member's compensation shall be transmitted to the system semi-monthly or at other times as may be agreed upon by the board.  The amounts deducted shall be paid into the annuity savings fund and shall be credited to the individual account of the member from whose compensation the deductions were made.
+     Regular interest shall also be credited to the individual account of the member in the annuity savings fund."
+     SECTION 7.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 8.  This Act shall take effect on July 1, 2013.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Employees' Retirement System; Employer Contribution Rates
+ 
+Description:
+Requires employers to pay greater contribution rates on their employees' non-base compensation than on base compensation beginning in fiscal year 2013-2014.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,58 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2484
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO ELECTRIC VEHICLES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Act 290, Session Laws of Hawaii 1997, established incentives for registration, licensing, parking, and operation of electric vehicles.  Although the provisions relating to vehicle licensing and parking are valid laws of Hawaii, it is difficult to find and reference them, because they are only contained in the session laws, which are not as readily available to the public as are the Hawaii Revised Statutes, which are available online.
+     The purpose of this Act is to enable the public to more readily access the existing laws pertaining to electric vehicles by codifying elements of Act 290, Session Laws of Hawaii 1997, into the Hawaii Revised Statutes and providing amendments for clarity, consistency, and enforceability.
+     SECTION 2.  Chapter 286, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§286-     Electric vehicles; registration; license plates; parking fee exemptions.  (a)  The department of transportation shall adopt rules pursuant to chapter 91 for the registration of, and issuance of special license plates for, electric vehicles.
+     (b)  An electric vehicle on which an electric vehicle license plate is affixed shall be exempt from payment of parking fees, including those collected through parking meters, charged by any state or county authority in this State, except that this exemption shall not apply:
+     (1)  While the vehicle is parked at an electric vehicle charging station;
+     (2)  For more than two-and-a-half hours of metered parking, or the maximum amount of time the meter allows, whichever is longer; or
+     (3)  To parking fees assessed in increments longer than one twenty-four-hour day, including weekly, monthly, or annual parking permits.
+     (c)  An electric vehicle on which an electric vehicle license plate is affixed shall be exempt from high occupancy vehicle lane restrictions.
+     (d)  For the purposes of this section:
+     "Electric vehicle" means:
+     (1)  A neighborhood electric vehicle; or
+     (2)  A vehicle, with four or more wheels, that draws propulsion energy from a battery with at least five kilowatt hours of energy storage capacity that can be recharged from an external source of electricity.
+     "Electric vehicle charging system" means a system that:
+     (1)  Is capable of providing electricity from a non-vehicle source to charge the batteries of one or more electric vehicles;
+     (2)  Meets recognized standards, including standard SAE J1772 of the Society of Automotive Engineers; and
+     (3)  Is designed and installed in compliance with article 625 of the National Electrical Code."
+     SECTION 3.  Act 290, Session Laws of Hawaii 1997, is repealed.
+     SECTION 4.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect on July 1, 2013.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Electric Vehicles
+ 
+Description:
+Codifies Act 290, Session laws of Hawaii 1997, requirement for the Department of Transportation to adopt rules for the registration of, and issuance of license plates for, electric vehicles and revises and codifies electric vehicle exemptions from parking fees and High Occupancy Vehicle lane restrictions.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

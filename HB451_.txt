@@ -1,0 +1,111 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+451
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO TAXATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 235, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§235‑     New markets tax credit.  (a)  Section 45D (with respect to new markets tax credit) of the Internal Revenue Code shall be operative for the purposes of this chapter, except as otherwise provided in this section.
+     (b)  Each taxpayer subject to the tax imposed by this chapter who holds a qualified equity investment on a credit allowance date of that investment, which occurs during the taxable year, may claim a credit under this section.  The amount of the credit shall be deductible from the taxpayer's net income tax liability, if any, imposed by this chapter for the taxable year in which the credit is properly claimed on a timely basis.
+     (c)  The amount of the credit shall be equal to the applicable percentage of the amount paid to the qualified community development entity for the investment at its original issue.  The applicable percentage shall be calculated as provided in section 45D(a)(2) of the Internal Revenue Code.
+     (d)  For the purpose of this section, the determination of the following shall be made under the designated provisions of the Internal Revenue Code as follows:
+     (1)  Credit allowance date shall be made under section 45D(a)(3);
+     (2)  Qualified equity investment shall be made under section 45D(b), except that reference to "the Secretary" under section 45D(b)(1), shall be to the director;
+     (3)  Qualified community development entity shall be made under section 45D(c);
+     (4)  Qualified low-income community investment shall be made under section 45D(d);
+     (5)  Low-income community shall be made under section 45D(e);
+     (6)  Recapture of credit shall be made under section 45D(g), except that the tax for the taxable year shall be increased under section 45D(g)(1) only with respect to credits that were used to reduce state income tax; and
+     (7)  Basis reduction shall be made under section 45D(h).
+     (e)  The credit allowed under this section shall be deducted from the taxpayer's net income tax liability for the taxable year.  For the purpose of deducting this tax credit, net income tax liability means net income tax liability reduced by all other credits allowed to the taxpayer under this chapter.
+     A tax credit under this section that exceeds the taxpayer's net income tax liability may be used as a credit against the taxpayer's income tax liability in subsequent years until exhausted.  All claims for a tax credit under this section shall be filed on or before the end of the twelfth month following the close of the taxable year for which the credit may be claimed.  Failure to properly and timely claim the credit shall constitute a waiver of the right to claim the credit.  The credit may be claimed whether or not the taxpayer claims a federal credit under section 45D of the Internal Revenue Code.
+     (f)  Section 469 (with respect to passive activity losses and credits limited) of the Internal Revenue Code shall be applied in claiming the credit under this section.
+     (g)  The director may adopt rules under chapter 91 and prepare any forms necessary to carry out the purposes of this section."
+     SECTION 2.  Section 235-2.3, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  The following Internal Revenue Code subchapters, parts of subchapters, sections, subsections, and parts of subsections shall not be operative for the purposes of this chapter, unless otherwise provided:
+     (1)  Subchapter A (sections 1 to 59A) (with respect to determination of tax liability), except section 1(h)(2) (relating to net capital gain reduced by the amount taken into account as investment income), except sections 2(a), 2(b), and 2(c) (with respect to the definition of "surviving spouse" and "head of household"), except section 41 (with respect to the credit for increasing research activities), except section 42 (with respect to low-income housing credit), except section 45D (with respect to new markets tax credit), except sections 47 and 48, as amended, as of December 31, 1984 (with respect to certain depreciable tangible personal property), and except section 48(d)(3), as amended, as of February 17, 2009 (with respect to the treatment of United States Department of Treasury grants made under section 1603 of the American Recovery and Reinvestment Tax Act of 2009).  For treatment, see sections 235-110.91, 235-110.7, [and] 235-110.8[;], and 235‑   ;
+     (2)  Section 78 (with respect to dividends received from certain foreign corporations by domestic corporations choosing foreign tax credit);
+     (3)  Section 86 (with respect to social security and tier 1 railroad retirement benefits);
+     (4)  Section 103 (with respect to interest on state and local bonds).  For treatment, see section 235-7(b);
+     (5)  Section 114 (with respect to extraterritorial income).  For treatment, any transaction as specified in the transitional rule for 2005 and 2006 as specified in the American Jobs Creation Act of 2004 section 101(d) and any transaction that has occurred pursuant to a binding contract as specified in the American Jobs Creation Act of 2004 section 101(f) are inoperative;
+     (6)  Section 120 (with respect to amounts received under qualified group legal services plans).  For treatment, see section 235-7(a)(9) to (11);
+     (7)  Section 122 (with respect to certain reduced uniformed services retirement pay).  For treatment, see section 235-7(a)(3);
+     (8)  Section 135 (with respect to income from United States savings bonds used to pay higher education tuition and fees).  For treatment, see section 235-7(a)(1);
+     (9)  Section 139C (with respect to COBRA premium assistance);
+    (10)  Subchapter B (sections 141 to 150) (with respect to tax exemption requirements for state and local bonds);
+    (11)  Section 151 (with respect to allowance of deductions for personal exemptions).  For treatment, see section 235-54;
+    (12)  Section 179B (with respect to expensing of capital costs incurred in complying with Environmental Protection Agency sulphur regulations);
+    (13)  Section 181 (with respect to special rules for certain film and television productions);
+    (14)  Section 196 (with respect to deduction for certain unused investment credits);
+    (15)  Section 199 (with respect to the U.S. production activities deduction);
+    (16)  Section 222 (with respect to qualified tuition and related expenses);
+    (17)  Sections 241 to 247 (with respect to special deductions for corporations).  For treatment, see section 235-7(c);
+    (18)  Section 280C (with respect to certain expenses for which credits are allowable).  For treatment, see section 235-110.91;
+    (19)  Section 291 (with respect to special rules relating to corporate preference items);
+    (20)  Section 367 (with respect to foreign corporations);
+    (21)  Section 501(c)(12), (15), (16) (with respect to exempt organizations);
+    (22)  Section 515 (with respect to taxes of foreign countries and possessions of the United States);
+    (23)  Subchapter G (sections 531 to 565) (with respect to corporations used to avoid income tax on shareholders);
+    (24)  Subchapter H (sections 581 to 597) (with respect to banking institutions), except section 584 (with respect to common trust funds).  For treatment, see chapter 241;
+    (25)  Section 642(a) and (b) (with respect to special rules for credits and deductions applicable to trusts).  For treatment, see sections 235-54(b) and 235-55;
+    (26)  Section 646 (with respect to tax treatment of electing Alaska Native settlement trusts);
+    (27)  Section 668 (with respect to interest charge on accumulation distributions from foreign trusts);
+    (28)  Subchapter L (sections 801 to 848) (with respect to insurance companies).  For treatment, see sections 431:7-202 and 431:7-204;
+    (29)  Section 853 (with respect to foreign tax credit allowed to shareholders).  For treatment, see section 235-55;
+    (30)  Section 853A (with respect to credits from tax credit bonds allowed to shareholders);
+    (31)  Subchapter N (sections 861 to 999) (with respect to tax based on income from sources within or without the United States), except sections 985 to 989 (with respect to foreign currency transactions).  For treatment, see sections 235-4, 235-5, and 235-7(b), and 235-55;
+    (32)  Section 1042(g) (with respect to sales of stock in agricultural refiners and processors to eligible farm cooperatives);
+    (33)  Section 1055 (with respect to redeemable ground rents);
+    (34)  Section 1057 (with respect to election to treat transfer to foreign trust, etc., as taxable exchange);
+    (35)  Sections 1291 to 1298 (with respect to treatment of passive foreign investment companies);
+    (36)  Subchapter Q (sections 1311 to 1351) (with respect to readjustment of tax between years and special limitations);
+    (37)  Subchapter R (sections 1352 to 1359) (with respect to election to determine corporate tax on certain international shipping activities using per ton rate);
+    (38)  Subchapter U (sections 1391 to 1397F) (with respect to designation and treatment of empowerment zones, enterprise communities, and rural development investment areas).  For treatment, see chapter 209E;
+    (39)  Subchapter W (sections 1400 to 1400C) (with respect to District of Columbia enterprise zone);
+    (40)  Section 1400O (with respect to education tax benefits);
+    (41)  Section 1400P (with respect to housing tax benefits);
+    (42)  Section 1400R (with respect to employment relief);
+    (43)  Section 1400T (with respect to special rules for mortgage revenue bonds);
+(44)  Section 1400U-1 (with respect to allocation of recovery zone bonds);
+(45)  Section 1400U-2 (with respect to recovery zone economic development bonds); and
+(46)  Section 1400U-3 (with respect to recovery zone facility bonds)."
+     SECTION 3.  Section 235-2.45, Hawaii Revised Statutes, is amended by amending subsection (d) to read as follows:
+     "(d)  Section 704 of the Internal Revenue Code (with respect to a partner's distributive share) shall be operative for purposes of this chapter; except that section 704(b)(2) shall not apply to:
+     (1)  Allocations of the high technology business investment tax credit allowed by section 235-110.9 for investments made before May 1, 2009;
+     (2)  Allocations of net operating loss pursuant to section 235-111.5;
+     (3)  Allocations of the attractions and educational facilities tax credit allowed by section 235-110.46; [or]
+     (4)  Allocations of low-income housing tax credits among partners under section 235-110.8[.]; or
+     (5)  Allocations of the new markets tax credit allowed by section 235‑   ."
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 5.  This Act, upon its approval, shall apply to taxable years beginning after December 31, 2010.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+New Markets Tax Credit; Section 704(b)(2)
+ 
+Description:
+Establishes a new markets tax credit for a taxpayer that holds a qualified equity investment on a credit allowance date.  Provides an exemption for the new markets tax credit from the requirements of section 704(b)(2) of the Internal Revenue Code.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

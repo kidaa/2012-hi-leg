@@ -1,0 +1,51 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1484
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MORTGAGE FORECLOSURES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 667-1, Hawaii Revised Statutes, is amended to read as follows:
+     "§667-1  Foreclosure by action.  (a)  The circuit court may assess the amount due upon a mortgage, whether of real or personal property, without the intervention of a jury, and shall render judgment for the amount awarded, and the foreclosure of the mortgage.  Execution may be issued on the judgment, as ordered by the court.
+     (b)  A mortgagee that is foreclosing on a mortgage on behalf of a trust shall:
+     (1)  Attach to the complaint to initiate a foreclosure action an affidavit signed by two-thirds of the investors in the trust that attests to their ratification of foreclosure in lieu of loan modification; provided that the term "modification", as used in this paragraph, means a reduction in both interest and principal; and
+     (2)  File all endorsements and assignments in the bureau of conveyances within thirty days of the judgment."
+     SECTION 2.  Section 667-5, Hawaii Revised Statutes, is amended by amending subsections (d), (e), and (f) to read as f  "(d)  Any sale, of which notice has been given as aforesaid, may be postponed from time to time by public announcement made by the mortgagee or by some person acting on the mortgagee's behalf.  Upon request made by any person who is entitled to notice pursuant to section 667-5.5 or 667-6, or this section, the mortgagee or person acting on the mortgagee's behalf shall provide the date and time of a postponed auction, or if the auction is canceled, information that the auction was canceled.  The mortgagee within thirty days after selling the property in pursuance of the power, shall file a copy of the notice of sale and the mortgagee's affidavit, setting forth the mortgagee's acts in the premises fully and particularly, in the bureau of conveyances[.]; provided that no mortgagee's affidavit or copy of the notice shall be valid if it contains any electronic signatures.
+     (e)  The affidavit and copy of the notice shall be recorded and indexed by the registrar, in the manner provided in chapter 501 or 502, as the case may be.  The registrar shall impose a fine of up to $10,000 upon any mortgagee who attempts to file an affidavit or copy of the notice that contains any electronic signatures.
+     (f)  This section is inapplicable if [the]:
+     (1)  The mortgagee is foreclosing as to personal property only[.]; or
+     (2)  The foreclosing mortgagee is foreclosing on behalf of a trust."
+     SECTION 3.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Mortgage Foreclosures; Trusts
+ 
+Description:
+Prohibits a foreclosing mortgagee from foreclosing under a power of sale if the foreclosing mortgagee represents a trust.  Requires filing of endorsements, assignments, and trustee's affidavit.  Prohibits filing of documents with electronic signatures.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

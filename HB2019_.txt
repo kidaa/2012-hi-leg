@@ -1,0 +1,59 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2019
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MORTGAGES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 506, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§506-     Deficiency judgment prohibited for short sales of certain mortgaged residential property.  (a)  No deficiency shall be owed or collected, and no deficiency judgment shall be requested or rendered, for any deficiency upon a note secured by a mortgage for a residential property of not more than four units, in any case in which the mortgagor sells the property for a sale price less than the remaining amount of the indebtedness outstanding at the time of sale, in accordance with the written consent of the mortgage holder; provided that:
+     (1)  From the time the loan interest was secured, the mortgagor has continuously occupied the property as a principal residence, except for reasonable periods of absence for purposes including education, military service, or travel;
+     (2)  The mortgagor used the proceeds of the mortgage secured by the real property to purchase the real property; and
+     (3)  The mortgagor has not refinanced the mortgage after origination.
+     (b)  Following:
+     (1)  The sale of the property;
+     (2)  The voluntary transfer of title to a buyer by grant deed or by other document of conveyance recorded or filed pursuant to chapter 501 or 502, as applicable; and
+     (3)  The tender to the mortgagee, beneficiary, or the agent of the mortgagee or beneficiary of the sale proceeds, as agreed,
+the rights, remedies, and obligations of any holder, beneficiary, mortgagee, trustor, mortgagor, obligor, obligee, or guarantor of the note or mortgage, and with respect to any other property that secures the note, shall be treated and determined as if the property had been sold through foreclosure sale for a price equal to the sale proceeds received by the holder, in the manner prescribed by chapter 667.
+     (c)  A holder of a note shall not require the mortgagor or the maker of the note to pay any additional compensation other than the proceeds of the property sale, in exchange for the written consent to the sale.
+     (d)  If the mortgagor commits either fraud with respect to the sale of, or waste with respect to, the real property that secures the mortgage, this section shall not limit the ability of the mortgage holder to seek damages and use existing rights and remedies against the mortgagor or any third party for fraud or waste.
+     (e)  Any purported waiver of this section shall be void."
+     SECTION 2.  Chapter 667, Hawaii Revised Statutes, is amended by adding a new section to part I to be appropriately designated and to read as follows:
+     "§667-     Deficiency judgment on foreclosure action prohibited for certain mortgaged residential property.  A court shall not award a deficiency judgment against the mortgagor in a foreclosure action conducted pursuant to this part, notwithstanding any deficiency of the proceeds collected in the public sale and a balance remaining due on the indebtedness; provided that:
+     (1)  The mortgagee is a financial institution as defined in section 37D-1;
+     (2)  The mortgagor used the proceeds of the mortgage secured by the real property to purchase the real property;
+     (3)  From the time the loan interest was secured until the date on which a foreclosure notice was served, the mortgagor has continuously occupied the property as a principal residence, except for reasonable periods of absence for purposes including education, military service, or travel; and
+     (4)  The mortgagor has not refinanced the mortgage after origination."
+     SECTION 3.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Mortgages; Deficiency Judgments; Foreclosure by Action; Short Sales
+ 
+Description:
+Prohibits deficiency judgments to recover the remaining balance on mortgage loans for certain residential property sold in a foreclosure action or short sale.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

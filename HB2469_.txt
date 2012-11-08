@@ -1,0 +1,199 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2469
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO SEX OFFENDER REGISTRATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 846E-1, Hawaii Revised Statutes, is amended by adding the new definitions of "foreign conviction," "out-of-state conviction," "permanent residence," "temporary residence," and "tribal conviction" to be appropriately inserted and to read as follows:
+     ""Foreign conviction" means a conviction under the laws of:
+     (1)  Canada, United Kingdom, Australia, or New Zealand; or
+     (2)  Any other foreign country, if the United States Department of State, in its Country Reports on Human Rights Practices, has concluded that an independent judiciary generally or vigorously enforced the right to a fair trial in that country during the year in which the conviction occurred.
+     "Out-of-state conviction" means a conviction in any other state of the United States, the District of Columbia, or the five principal United States territories, including the Commonwealth of Puerto Rico, Guam, American Samoa, the Northern Mariana Islands, and the United States Virgin Islands.
+     "Permanent residence" means a building, permanent structure or unit therein, or watercraft where the covered offender resides and intends to reside indefinitely, or at least for the next one hundred eighty days, and which the offender owns, rents, or occupies with the consent of the owner, but excludes motor vehicles.
+     "Temporary residence" means a building, permanent structure or unit therein, watercraft, emergency shelter, or transitional housing facility where the covered offender resides, but does not intend to reside for more than one hundred eighty days, but excludes motor vehicles.
+     "Tribal conviction" means a conviction by a tribal court of a federally recognized Indian tribe."
+     SECTION 2.  Section 846E-1, Hawaii Revised Statutes, is amended by amending the definitions of "conviction," "crime against minors," and "sexual offense" to read as follows:
+     ""Conviction" means a judgment on the verdict, or a finding of guilt after a plea of guilty or nolo contendere, excluding the adjudication of a minor[.], and occurs on the date judgment is entered.
+     "Crime against minors" excludes "sexual offenses" as defined in this section and means a criminal offense that consists of:
+     (1)  Kidnapping of a minor, by someone other than a parent;
+     (2)  Unlawful imprisonment in the first or second degree that involves the unlawful imprisonment of a minor by someone other than a parent;
+     (3)  An act, as described in chapter 705, that is an attempt, criminal solicitation, or criminal conspiracy to commit one of the offenses designated in paragraph (1) or (2); [or]
+     (4)  A criminal offense that is comparable to or which exceeds one of the offenses designated in paragraphs (1) through (3) [or any]; or
+     (5)  Any federal, military, [or] out-of-state, tribal, or foreign conviction for any offense that, under the laws of this State, would be a crime against minors as designated in paragraphs (1) through [(3).] (4).
+     "Sexual offense" means an offense that is:
+     (1)  Set forth in section [707-730(1)(a), 707-730(1)(b), 707-730(1)(c), 707-730(1)(d) or (e), 707-731(1)(a), 707-731(1)(b), 707-731(1)(c), 707-732(1)(a), 707-732(1)(b), 707-732(1)(c), 707-732(1)(d), 707-732(1)(e), 707-732(1)(f),] 707-730(1), 707-731(1), 707-732(1), 707-733(1)(a), 707-733.6, [712-1202(1)(a), 712-1202(1)(b),] 712-1202(1), or 712-1203(1), but excludes conduct that is criminal only because of the age of the victim, as provided in section 707-730(1)(b), or section 707-732(1)(b) if the perpetrator is under the age of eighteen;
+     (2)  An act defined in section 707-720 if the charging document for the offense for which there has been a conviction alleged intent to subject the victim to a sexual offense;
+     (3)  An act that consists of:
+          (A)  Criminal sexual conduct toward a minor, including but not limited to an offense set forth in section 707-759;
+         (B)  Solicitation of a minor who is less than fourteen years old to engage in sexual conduct;
+         (C)  Use of a minor in a sexual performance;
+         (D)  Production, distribution, or possession of child pornography chargeable as a felony under section 707-750, 707-751, or 707-752;
+         (E)  Electronic enticement of a child chargeable under section 707-756 or 707-757 if the offense was committed with the intent to promote or facilitate the commission of another covered offense as defined in this section; or
+         (F)  Solicitation of a minor to practice prostitution;
+     (4)  A violation of privacy under section 711-1110.9;
+     (5)  An act, as described in chapter 705, that is an attempt, criminal solicitation, or criminal conspiracy to commit one of the offenses designated in paragraphs (1) through (4).
+    [(5)] (6)  A criminal offense that is comparable to or that exceeds a sexual offense as defined in paragraphs (1) through [(4) or any] (5); or
+     (7)  Any federal, military, [or] out-of-state, tribal, or foreign conviction for [any]:
+         (A)  Any offense that under the laws of this State would be a sexual offense as defined in paragraphs (1) through [(4);] (6); or
+         (B)  Any offense that subjected the offender to sex offender registration or public notification, or both, in the other state or jurisdiction of conviction, or would have if the offender had been a resident of that other state or jurisdiction.
+    [(6)  An act, as described in chapter 705, that is an attempt, criminal solicitation, or criminal conspiracy to commit one of the offenses designated in paragraphs (1) through (5).]"
+     SECTION 3.  Section 846E-1, Hawaii Revised Statutes, is amended by repealing the definitions of "mental abnormality, "personality disorder," and "predatory".
+     [""Mental abnormality" means a condition involving a disposition to commit criminal sexual offenses with a frequency that makes the person a menace to others.
+     "Personality disorder" shall have the same meaning as the term is used in the Diagnostic and Statistical Manual of Mental Health Disorders:  DSM-IV, American Psychiatric Association, Diagnostic and Statistical Manual of Mental Disorders (4th ed. 1994).
+     "Predatory" means an act directed at:
+     (1)  A stranger; or
+     (2)  A person with whom a relationship has been established or promoted for the primary purpose of victimization."]
+     SECTION 4.  Section 846E-2, Hawaii Revised Statutes, is amended to read as follows:
+     "§846E-2  Registration requirements.  (a)  A covered offender shall register with the attorney general and comply with the provisions of this chapter for life or for a shorter period of time as provided in this chapter.  Registration under this subsection is required whenever the covered offender, whether or not a resident of this State, remains in this State for more than ten days or for an aggregate period exceeding thirty days in one calendar year.  A covered offender shall be eligible to petition the court in a civil proceeding for an order that the covered offender's registration requirements under this chapter be terminated, as provided in section 846E-10.
+     [(b)  A person who establishes or maintains a residence in this State and who has not been designated as a covered offender by a court of this State but who has been designated as a covered offender, sex offender, offender against minors, repeat covered offender, sexually violent predator, or any other sexual offender designation in another state or jurisdiction and was, as a result of such designation, subjected to registration or community or public notification, or both, or would be if the person was a resident of that state or jurisdiction, without regard to whether the person otherwise meets the criteria for registration as a covered offender, shall register in the manner provided in this section and shall be subject to community and public notification as provided in section 846E-3.  A person who meets the criteria of this subsection is subject to the requirements and penalty provisions of section 846E-9 until the person successfully petitions the attorney general for termination of registration requirements by:
+     (1)  Providing an order issued by the court that designated the person as a covered offender, sex offender, offender against minors, repeat covered offender, sexually violent predator, or any other sexual offender designation in the state or jurisdiction in which the order was issued, which states that such designation has been removed or demonstrates to the attorney general that such designation, if not imposed by a court, has been removed by operation of law or court order in the state or jurisdiction in which the designation was made, and such person does not meet the criteria for registration as a covered offender under the laws of this State; or
+     (2)  Demonstrating that the out-of-state convictions upon which the sexual offender designation was established are not covered offenses under section 846E-1, thereby showing that such person does not meet the criteria for registration as a covered offender under the laws of this State.
+If the covered offender is not satisfied with the decision of the attorney general on the request for termination of registration requirements, the covered offender may appeal the decision pursuant to chapter 91.]
+     [(c)] (b)  Each provision of this chapter applicable to sex offenders shall also be applicable to offenders against minors, unless offenders against minors are specifically excluded.  Whenever a covered offender's public information is made publicly accessible, separate registries shall be maintained for:
+     (1)  Sex offenders; and
+     (2)  Offenders against minors.
+     [(d)] (c)  Registration information for each covered offender shall include a signed statement by the covered offender containing:
+     (1)  The name, all prior names, nicknames and pseudonyms, and all aliases used by the covered offender or under which the covered offender has been known and other identifying information, including date of birth and any alias date of birth, social security number and any alias social security number, sex, race, height, weight, and hair and eye color;
+     (2)  The actual address and telephone number of the covered offender's permanent residence or [any current, temporary address where the covered offender resides,] the address of the covered offender's current temporary residence, or if an address is not available, a description of the place or area in which the covered offender resides for at least thirty nonconsecutive days within a sixty-day period, and for each address or place where the covered offender resides, how long the covered offender has resided there;
+     (3)  The actual address or description of the place or area, the actual length of time of the stay, and telephone number where the covered offender is staying for a period of more than ten days, if other than the stated residence;
+     (4)  If known, the future address and telephone number of the place where the covered offender is planning to reside, if other than the stated residence;
+     (5)  Any electronic mail address, any instant message name, any internet designation or moniker, and any internet address used for routing or self-identification;
+     (6)  Any cell phone number and other designations used for routing or self-identification in telephonic communications;
+     (7)  Names and, if known, actual business addresses of current and known future employers, including information for any place where the covered offender works as a volunteer or otherwise works without remuneration, and the starting and ending dates of any such employment;
+     (8)  For covered offenders who may not have a fixed place of employment, a description of the places where such a covered offender works, such as information about normal travel routes or the general area or areas in which the covered offender works;
+     (9)  Professional licenses held by the covered offender;
+    (10)  Names and actual addresses of current and known future educational institutions with which the covered offender is affiliated in any way, whether or not compensated, including but not limited to affiliation as a faculty member, an employee, or a student, and the starting and ending dates of any such affiliation;
+    (11)  The year, make, model, color, and license or registration or other identifying number of all vehicles, including automobiles, watercrafts, and aircrafts, currently owned or operated by the covered offender and the address or description of the place or places where the covered offender's vehicle or vehicles are habitually parked, docked, or otherwise kept;
+    (12)  Passports and information about the passports, if the covered offender has passports, and documents establishing immigration status and information about these documents, if the covered offender is an alien;
+    (13)  A statement listing all covered offenses for which the covered offender has been convicted or found unfit to proceed or acquitted pursuant to chapter 704;
+    (14)  A statement indicating whether the covered offender has received or is currently receiving treatment ordered by a court of competent jurisdiction or by the Hawaii paroling authority;
+    (15)  A statement indicating whether the covered offender is a United States citizen; and
+    (16)  Any additional identifying information about thecovered offender.
+     [(e)] (d)  The following information shall also be included in the registry for each covered offender:
+     (1)  A current photograph of the covered offender;
+     (2)  A physical description of the covered offender, including a description of particular identifying characteristics such as scars or tattoos;
+     (3)  Confirmation that the covered offender has provided digitized fingerprints and palm prints of the covered offender;
+     (4)  Judgment of conviction, judgment of acquittal, or judicial determination of unfitness to proceed documenting the criminal offense or offenses for which the covered offender is registered;
+     (5)  The text, or an electronic link to the text, of the provision of law defining the criminal offense or offenses for which the covered offender is registered;
+     (6)  The criminal history of the covered offender, or an electronic link to the criminal history, including the date of all arrests and convictions, the status of parole, probation, or supervised release, registration status, and the existence of any outstanding arrest warrants for the covered offender;
+     (7)  Confirmation that the covered offender has provided a DNA buccal swab sample as required by chapter 844D;
+     (8)  Digitized copies of a valid driver's license or identification card issued to the covered offender, or an electronic link to such records; and
+     (9)  Digitized copies of passports and documents establishing immigration status, or an electronic link to such records.
+     [(f)] (e)  Whenever a covered offender provides registration information, during initial registration as a covered offender or when providing notice of a change in registration information, the covered offender also shall sign a statement verifying that all of the registration information is accurate and current.
+     [(g)] (f)  In addition to the requirement under subsection (a) to register with the attorney general and comply with the provisions of this chapter until a court relieves the covered offender of the registration requirements of this chapter, each covered offender shall also register in person with the chief of police where the covered offender resides or is present.  Registration under this subsection is for the purpose of providing the covered offender's photograph, fingerprints, and registration information.  Registration under this subsection is required whenever the covered offender, whether or not a resident of this State, remains in this State for more than ten days or for an aggregate period exceeding thirty days in one calendar year.  Covered offenders required to register in person with the chief of police under this subsection shall register no later than three working days after the earliest of:
+     (1)  Arrival in this State;
+     (2)  Release from incarceration;
+     (3)  Release from commitment;
+     (4)  Release on furlough;
+     (5)  Conviction for a covered offense, unless incarcerated;
+     (6)  Release on probation;
+     (7)  Placement on parole; or
+     (8)  Arrival in a county in which the covered offender resides or expects to be present for a period exceeding ten days.
+In addition to any other requirement to register under this subsection or subsection (a), each covered offender shall report in person every five years until June 30, 2009, and beginning on July 1, 2009, every year, within the thirty-day period following the offender's date of birth, to the chief of police where the covered offender resides, or to such other department or agency that may be designated by the attorney general in rules adopted pursuant to chapter 91 for purposes of the administration of this subsection, and shall review the existing information in the registry that is within the offender's knowledge, correct any information that has changed or is inaccurate, provide any new information that may be required, and allow the police and such other department or agency designated by the attorney general to take a current photograph of the offender.
+     [(h)] (g)  The registration provisions of this section shall apply to all covered offenders without regard to:
+     (1)  The date of the covered offender's conviction;
+     (2)  The date of finding, pursuant to chapter 704, of the covered offender's unfitness to proceed; or
+     (3)  The date of the covered offender's acquittal due to mental disease, disorder, or defect, pursuant to chapter 704."
+     SECTION 5.  Section 846E-4, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  Each person, or that person's designee, in charge of a jail, prison, hospital, school, or other institution to which a covered offender has been committed pursuant to a conviction, or an acquittal or finding of unfitness to proceed pursuant to chapter 704, for a covered offense, and each judge, or that judge's designee, who continues bail for or releases a covered offender following [a guilty verdict or a plea of guilty or nolo contendere,] sentencing and the entry of a judgment of conviction, who releases a covered offender on probation or who discharges a covered offender upon payment of a fine, and each agency having jurisdiction, shall, prior to the discharge, parole, or release of the covered offender:
+     (1)  Explain to the covered offender the duty to register and the consequences of failing to register under this chapter;
+     (2)  Obtain from the covered offender all of the registration information required by this chapter;
+     (3)  Inform the covered offender that if at any time the covered offender changes any of the covered offender's registration information, the covered offender shall notify the attorney general of the new registration information in writing within three working days;
+     (4)  Inform the covered offender that, if at any time the covered offender changes residence to another state, the covered offender shall register the new address with the attorney general and also with a designated law enforcement agency in the new state, if the new state has a registration requirement, within the period of time mandated by the new state's sex offender registration laws;
+     (5)  Obtain and verify fingerprints and a photograph of the covered offender, if these have not already been obtained or verified in connection with the offense that triggers the registration;
+     (6)  Require the covered offender to sign a statement indicating that the duty to register has been explained to the covered offender; and
+     (7)  Give one copy of the signed statement and one copy of the registration information to the covered offender."
+     SECTION 6.  Section 846E-5, Hawaii Revised Statutes, is amended to read as follows:
+     "§846E-5  Periodic verification of registration information.  [Unless the covered offender is incarcerated or has registered with a designated law enforcement agency after establishing residence in another state,] (a)  For the covered offender who has registered a permanent residence address to which the United States Postal Service will deliver mail or a permanent residence and a registered post office box, on the first day of every ninety-day period following the covered offender's initial registration date:
+     (1)  The attorney general shall mail a nonforwardable verification form to the last reported permanent residence address or post office box of the covered offender;
+     (2)  The covered offender shall sign the verification form and state that the covered offender still resides at the address last reported to the attorney general and that no other registration information has changed or shall provide the new information; and
+     (3)  The covered offender shall mail the signed and completed verification form to the attorney general within ten days after receipt of the form[; and
+     (4)  If the covered offender fails to mail the verification form to the attorney general within ten days after receipt of the form, the covered offender shall be in violation of this chapter, unless the covered offender proves that the covered offender has not changed the residence address.
+     This section shall become effective on July 1, 1998].
+     (b)  For the covered offender who has registered:
+     (1)  A temporary residence address;
+     (2)  A description of a place or area in which the covered offender resides for at least thirty nonconsecutive days within a sixty-day period;
+     (3)  No place of residence; or
+     (4)  A permanent residence address, to which the United States Postal Service will not deliver mail, and has no registered post office box,
+by the last day of every month, the covered offender shall report to any police station in the State, or to such other department or agency that may be designated by the attorney general in rules adopted pursuant to chapter 91 for purposes of administration of this section, and shall review the existing information in the registry that is within the offender's knowledge, correct any information that has changed or is inaccurate, provide any new information that may be required, and allow the police and such other department or agency designated by the attorney general to take a current photograph of the offender.
+     (c)  The periodic verification provisions of this section  shall not apply to covered offenders who are incarcerated or have registered with a designated law enforcement agency after establishing residence in another state."
+     SECTION 7.  Section 846E-6, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  A covered offender required to register under this chapter, who changes any of the covered offender's registration information after an initial registration with the attorney general, shall notify the attorney general of the new registration information in writing within three working days of the change.  [For purposes of this section, a person shall be deemed to have established a new residence during any period in which the person is absent from the person's registered residence for ten or more days.  If, at any time, a covered offender required to register under this chapter is absent from the person's registered residence for ten or more days and fails to establish a new residence within the ten days that the covered offender is absent from their registered residence, the covered offender, in addition to notifying the attorney general in writing within three working days that the covered offender no longer resides at the covered offender's registered residence, shall also report to any police station in the State by the last day of every month for verification of identity by photograph and fingerprint impression until the covered offender establishes a new residence and notifies the attorney general in writing of the actual address of the new residence.  Each time the covered offender reports to a police station, the covered offender shall disclose every location where the covered offender has slept in the previous month.] If the covered offender leaves the State and establishes a new residence [is] in another state that has a registration requirement, the person shall register with the designated law enforcement agency in the state to which the person moves, within the period of time mandated by the new state's sex offender registration laws."
+     SECTION 8.  Section 846E-9, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  A person commits the offense of failure to comply with covered offender registration requirements if the person is required to register under this chapter and the person intentionally, knowingly, or recklessly:
+     (1)  Fails to register with the attorney general by providing to the attorney general or the Hawaii criminal justice data center the person's registration information;
+     (2)  Fails to report in person every five years until June 30, 2009, and beginning on July 1, 2009, once every year, during the thirty-day period following the offender's date of birth, to the chief of police where the covered offender's residence is located, or to such other department or agency designated by the attorney general;
+     (3)  While reporting to the chief of police or such other department or agency designated by the attorney general, fails to correct information in the registry within the offender's knowledge that has changed or is inaccurate regarding information required by section [846E-2(d)(1)] 846E-2(c)(1) through (12);
+     (4)  While reporting to the chief of police or such other department or agency designated by the attorney general, fails to provide new information that may be required by section [846E-2(d)(1)] 846E-2(c)(1) through (12);
+     (5)  While reporting to the chief of police or such other department or agency designated by the attorney general, does not allow the police or other designated department or agency to take a current photograph of the person;
+     (6)  Fails to register in person with the chief of police having jurisdiction of the area where the covered offender resides or is present within three working days whenever the provisions of section [846E-2(g)] 846E-2(f) require the person to do so;
+     (7)  Fails to notify the attorney general or the Hawaii criminal justice data center of a change of any of the covered offender's registration information in writing within three working days of the change;
+     (8)  Provides false registration information to the attorney general, the Hawaii criminal justice data center, or a chief of police;
+     (9)  Signs a statement verifying that all of the registration information is accurate and current when any of the registration information is not substantially accurate and current;
+   [(10)  Having failed to establish a new residence within the ten days while absent from the person's registered residence for ten or more days:
+         (A)  Fails to notify the attorney general in writing within three working days that the person no longer resides at the person's registered residence; or
+         (B)  Fails to report to a police station in the State by the last day of every month; or
+    (11)] (10)  Fails to mail or deliver the periodic verification of registration information form to the attorney general within ten days of receipt, as required by section 846E-5; provided that it shall be an affirmative defense that the periodic verification form mailed to the covered offender was delivered when the covered offender was absent from the registered address and the covered offender had previously notified the Hawaii criminal justice data center that the covered offender would be absent during the period that the periodic verification form was delivered[.]; or
+    (11)  Fails to report to any police station in the State by the last day of every month for verification of the covered offender's registration information, as required by section 846E-5(b)."
+     SECTION 9.  Section 846E-10, Hawaii Revised Statutes, is amended as follows:
+     (1)  By amending subsection (a) to read as follows:
+     "(a)  Tier 3 offenses.  A covered offender whose covered offense is any of the following offenses shall register for life and, except as provided in subsection (e), may not petition the court, in a civil proceeding, for termination of registration requirements:
+     (1)  Any offense set forth in section 707-730(1)(a), (b), (d), or (e), 707-731(1)(a) or (b), 707-732(1)(a), (b), or (f), or 707-733.6;
+     (2)  An offense set forth in section 707-720; provided that the offense involves kidnapping of a minor by someone other than a parent;
+     (3)  An offense that is an attempt, criminal solicitation, or criminal conspiracy to commit any of the offenses in paragraph (1) or (2);
+     (4)  Any criminal offense that is comparable to one of the offenses in paragraph (1), (2), or (3); or
+     (5)  Any federal, military, [or] out-of-state, tribal, or foreign offense that is comparable to one of the offenses in paragraph (1), (2), or (3)."
+     (2)  By amending subsections (c) and (d) to read as follows:
+     "(c)  Tier 2 offenses.  A covered offender who has maintained a clean record for the previous twenty-five years, excluding any time the offender was in custody or civilly committed, and who has substantially complied with the registration requirements of this chapter for the previous twenty-five years, or for the portion of that twenty-five years that this chapter has been applicable, and who is not a repeat covered offender may petition the court, in a civil proceeding, for termination of registration requirements; provided that the covered offender's most serious covered offense is one of the following:
+     (1)  Any offense set forth in section 707-730(1)(c), 707-731(1)(c), 707-732(1)(c), 707-750, 707-751, 712-1202(1)(b), or 712-1203(1)(b), as section 712-1203(1)(b) read prior to its amendment pursuant to section 9 of Act 147, Session Laws of Hawaii 2008;
+     (2)  An offense set forth in section 707-720; provided that the charging document for the offense for which there has been a conviction alleged intent to subject the victim to a sexual offense;
+     (3)  An offense set forth in section 707-756 that includes an intent to promote or facilitate the commission of another felony covered offense as defined in section 846E-1;
+     (4)  An offense that is an attempt, criminal solicitation, or criminal conspiracy to commit any of the offenses in paragraph (1), (2), or (3);
+     (5)  Any criminal offense that is comparable to one of the offenses in paragraph (1), (2), (3), or (4); or
+     (6)  Any federal, military, [or] out-of-state, tribal, or foreign offense that is comparable to one of the offenses in paragraph (1), (2), (3), or (4).
+     (d)  Tier 1 offenses.  A covered offender who has maintained a clean record for the previous ten years, excluding any time the offender was in custody or civilly committed, and who has substantially complied with the registration requirements of this chapter for the previous ten years, or for the portion of that ten years that this chapter has been applicable, and who is not a repeat covered offender may petition the court, in a civil proceeding, for termination of registration requirements; provided that the covered offender's most serious covered offense is one of the following:
+     (1)  Any offense set forth in section 707-732(1)(d) or (e), 707-733(1)(a), 707-752, 707-759, 711-1110.9, 712-1202(1)(a), or 712-1203(1);
+     (2)  An offense set forth in section 707-721 or 707-722; provided that the offense involves unlawful imprisonment of a minor by someone other than a parent;
+     (3)  An offense set forth in section 707-757 that includes an intent to promote or facilitate the commission of another covered offense as defined in section 846E-1;
+     (4)  An offense that is an attempt, criminal solicitation, or criminal conspiracy to commit any of the offenses in paragraph (1), (2), or (3);
+     (5)  Any criminal offense that is comparable to one of the offenses in paragraph (1), (2), (3), or (4); [or]
+     (6)  Any federal, military, [or] out-of-state, tribal, or foreign offense that is comparable to one of the offenses in paragraph (1), (2), (3), or (4)[.]; or
+     (7)  Any other covered offense that is not specified in subsection (a) or (c) or paragraph (1), (2), (3), (4), (5), or (6) above."
+     SECTION 10.  Sections 1, 2, 4, 5, 6, 8, and 9 shall apply to any acts committed prior to, on, or after the effective date of this Act.
+     SECTION 11.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun, before the effective date of this Act.
+      SECTION 12.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 13.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Sex Offender Registration
+ 
+Description:
+Adds comparable foreign convictions and tribal convictions to covered offenses; makes offenders who are subject to sex offender registration or notification in their jurisdiction of conviction, covered offenders under Hawaii law; makes it clear that a covered offender must register and report the offender's permanent residence, current temporary residence, or if an address is not available, a description of the place or area in which the covered offender resides; amends the definition of "conviction" in section 846E-1, Hawaii Revised Statutes, to clarify that conviction, for purposes of sex offender registration, occurs on the date judgment is entered; creates a tier classification for any covered sexual offenses that are not clearly included within the current tier classification law; addresses the problem of covered offenders who do not have registered residences to which the post office can deliver mail and cannot receive the ninety-day verification mailings by requiring these offenders to report in person once per month; and repeals the definitions of "mental abnormality, "personality disorder," and "predatory."
+ 
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

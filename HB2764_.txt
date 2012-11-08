@@ -1,0 +1,57 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2764
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO RENEWABLE ENERGY.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that promoting renewable energy usage is fundamental to the State's long-term economic viability by reducing dependency on imported fossil fuels.  While Hawaii exceeds other states for solar water heating, with a penetration rate of nearly 25 per cent, we lag far behind countries such as Israel that have nearly 90 per cent usage of residential solar water heating systems.  Moreover, Hawaii's penetration rate for photovoltaic systems is estimated at less than 15 per cent.
+     The legislature further finds that many residents cannot afford the upfront costs of purchasing and installing solar energy systems.  State and federal tax credits help offset expenses, but these credits are only available after an initial outlay of funds.
+     The legislature additionally finds that the State employees' retirement system (ERS) has a ready reserve of available funds that could pay the upfront costs of installing solar energy systems at every residence in Hawaii.  However, the legislature is also mindful of the need to protect the retirement assets of current and future public employees.  Therefore, the legislature believes the most appropriate approach is allowing a portion of ERS funds to serve as loan guarantees for financial institutions that help residents pay for solar energy systems.  These guarantees would protect financial institutions from risks associated with making loans, while ensuring that ERS funds remain invested and meet their fiduciary obligations.
+     The purpose of this Act is to create a pilot loan guarantee program through the ERS, established under Chapter 88 of the Hawaii Revised Statutes, to finance the purchase and installation of solar energy systems at the primary single-family and multi-family residences of Hawaii homeowners who could not otherwise afford these costs.
+     SECTION 2.  Chapter 88, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§   -    Solar Loan Guarantee Pilot Program.  (a) The board of trustees of the employees' retirement system, department of budget and finance, shall establish a program known as the Solar Loan Guarantee Pilot Program, to remain in effect for five years.   
+     (b) Eligible participants in the program shall include public employees who currently are not receiving a retirement allowance through the employees' retirement system and who:
+     (1) Own a primary residence;
+     (2) Wish to purchase and install a solar energy system for that residence; and
+     (3) Submit evidence of their intention to reside full-time in the residence where the solar energy system will be installed.
+     (c) Financial institutions participating in the program may include federal and state chartered banks, credit unions, savings and loan organizations, and financial entities licensed to do business in the State of Hawaii that make home ownership and/or home improvement loans in the normal course of their financial transactions.  A participating financial institution shall exercise due diligence in reviewing the eligibility of the solar energy loan applicant for financial assistance and in doing so, shall determine if the risk level of the loan requires the applicant to seek a loan guarantee through the employees' retirement system.  Repayment to the participating financial institution shall be pursuant to its standard loan terms and conditions.
+     (d) The board of trustees of the employees' retirement system shall review the portfolio of solar energy loans made by participating financial institutions pursuant to this program and set aside an appropriate reserve to cover potential defaults on such loans.  The board may, through its rulemaking process pursuant to chapter 91, Hawaii Revised Statutes, establish a maximum exposure level for the program's loan guarantees.
+     (e) In the event the employee terminates employment with the State or county prior to full repayment of the loan from the participating financial institution, the employee shall continue to make payments according to the established repayment schedule.  In the event the employee defaults on repayment, the board shall place a lien against the residential property on which the solar energy system was installed and may take any appropriate legal action to recover its costs in full.
+     (f) As used in this section:
+     "Primary residence" includes single-family and multi-family residences.
+     "Solar energy system" means a solar water heating or photovoltaic energy system."
+     SECTION 3.  The director of the department of budget and finance shall adopt rules pursuant to chapter 91 as are necessary to effectuate the purposes of this section and provide for the efficient administration thereof.
+     SECTION 4.  The board shall submit a report to the legislature no later than the 20th day prior to the start of the legislative session three years subsequent to the effective date of this Act.  The report shall include, but not be limited to, information on the number of public employees who qualified to participate in the pilot program, the number and names of financial institutions that participated in the pilot program, the number of loan guarantees made, the total monetary value of loan guarantees made, and the default rate, if any.  The board shall submit a second report to the legislature upon completion of the five year period of the pilot program.
+     SECTION 5.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect on July 1, 2012 and shall be repealed on June 30, 2017.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Employees' Retirement System; Solar Loan Guarantee Pilot Program
+ 
+Description:
+Establishes the Solar Loan Guarantee Pilot Program which allows the employees' retirement system to guarantee loans made by financial institutions to qualifying public employees for the purchase and installation of solar water heating or photovoltaic systems on their primary residence in the State of Hawaii.
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

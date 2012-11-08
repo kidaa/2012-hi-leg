@@ -1,0 +1,75 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+275
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PHARMACY BENEFIT MANAGEMENT COMPANIES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that numerous states are proposing or considering legislation to regulate pharmacy benefit management companies.  Pharmacy benefit management companies are the intermediaries that negotiate services and costs between pharmaceutical companies and third party payors, such as insurance companies, businesses, and cash-paying customers.  Proposals seek to ensure financial reliability, regulate the licensing of pharmacy benefit management companies, mandate full disclosure of drug costs and financial contracts while eliminating the term "mandatory" from any pharmacy benefit contract.  In addition, pharmacy providers, such as chain drug stores and independent pharmacies, are currently subjected to unregulated auditing practices, and additional legislation would establish a more regimented and reliable audit procedure.
+     The purpose of this Act is to require pharmacy benefit management companies to register with the insurance commissioner before administering pharmacy benefits of health insurers and implement regulations on pharmacy benefit management companies in the State.
+     SECTION 2.  The Hawaii Revised Statutes, is amended by adding a new chapter to be appropriately designated and to read as follows:
+"CHAPTER
+PHARMACY BENEFIT MANAGEMENT COMPANIES
+     §   -A  Registration.  (a)  No later than June 1, 2011, a pharmacy benefit management company shall register with the insurance commissioner before providing services to residents of the State.   Registrations shall be effective for two years and may be renewed for an additional two years.
+     (b)  The insurance commissioner may deny, suspend, revoke, or refuse to renew a registration in circumstances specified in rules adopted pursuant to this part.
+     §   -B  Disclosure and reporting.  (a)  Before and after entering into a contract for pharmacy benefits management services a pharmacy benefit management company shall disclose to a purchaser that the pharmacy benefit management company may:
+     (1)  Solicit and receive manufacturer payments;
+     (2)  Pass through or retain the manufacturer payments;
+     (3)  Sell aggregate utilization information; or
+     (4)  Share aggregate utilization information.
+     (b)  A pharmacy benefit management company shall provide a purchaser a report containing information about new revenues and manufacturer payments. If a purchaser has a rebate sharing contract, a pharmacy benefit management company shall provide a report to the insurance commissioner each fiscal quarter and each fiscal year that contains information regarding net revenues, prescription drug expenditures, manufacturer payments, manufacturer rebates, and prescription reimbursements to pharmacies providing service.
+     §   -C  Prohibited activities.  (a)  A pharmacy benefit management company shall not exclude any willing provider from any contract offered within the State, including the Hawaii employer-union health benefits trust fund, public assistance programs, and commercial entities.
+     (b)  A pharmacy benefit management program shall take no action that would restrict a patient's choice of pharmacy from which to receive prescription medications, including requiring patients to receive prescription medications from mail-order pharmacies located outside the State.  
+     (c)  A pharmacy benefit management company shall not manipulate the amounts of drug co-payments that it charges in a manner that would encourage patients to receive prescription medications from a mail-order pharmacy located outside the State.
+     (d)  A pharmacy benefit management company shall not offer different dispensing reimbursement amounts among willing providers for the same prescription medications.
+     (e)  A pharmacy benefit management company shall not establish reimbursement amounts for providers that are less than a provider's acquisition cost plus a professional dispensing fee.
+     (f)  A pharmacy benefit management company shall not charge or receive reimbursement for rebranded pharmaceutical products or pharmaceutical products with an altered National Drug Code.
+     (g)  A pharmacy benefit management company shall not ship, mail, or deliver drugs or devices to a person in the State through a non-resident pharmacy unless that non-resident pharmacy is registered with or has a permit issued by the board of pharmacy.
+     §   -D  Violations; penalties.  (a)  The insurance commissioner may assess a pharmacy benefit management company in violation of this part a fine of up to $10,000 for each violation.  In addition, the insurance commissioner may direct the pharmacy benefit management company to cease and desist prohibited activity, take specific affirmative corrective action, or make restitution of money, property, or other assets.
+     (b)  A pharmacy benefit management company may appeal any decision made by the insurance commissioner under this part, whereupon the opportunity for an administrative hearing under chapter 91 shall be afforded.  Any pharmacy benefit management company aggrieved by the final decision and order shall be entitled to judicial review in accordance with chapter 91 or may submit the matter to binding arbitration.
+     §   -E  Audits.  (a)  A pharmacy benefit management company may conduct periodic audits of each pharmacy that submits claims for payment and though which it dispenses prescription medications in the State.
+     (b)  Any audit conducted by a pharmacy benefit management company pursuant to this section shall be performed by a person or firm licensed as a public accountant or certified public accountant under chapter 466.
+     (c)  A pharmacy benefit management company shall provide each pharmacy with notice of an upcoming audit no less than fourteen working days prior to the audit.  Audits shall commence on the date and time specified in the notice and shall not exceed eight hours.  Any prescription not reviewed during that time period shall not be included in the report.  Should an audit of a pharmacy be cancelled less than twenty-four hours prior to the commencement date and time specified in the notice, that pharmacy shall not be audited for one calendar year from the commencement date specified in the notice.
+     (d)  In conducting the audit the pharmacy benefit management company shall not:
+     (1)  Disallow any claim for a prescription if the pharmacy has dispensed the prescription in compliance with rules adopted by the board of pharmacy and in accordance with any adjudication system maintained by the pharmacy benefit management company conducting the audit; or
+     (2)  Recommend that professional fees and ingredient fees be refunded if all parties have agreed that a prescription medication has been properly dispensed.
+     (e)  A clerical or record-keeping error shall not be considered fraud, and claims paid in reliance on a document containing such an error shall not be subject to recoupment or penalty without proof of intent to commit fraud.
+     (f)  A pharmacy may use records of a hospital, physician, or other licensed or registered professional of the healing arts relating to orders for prescription medications or medical supplies written or transmitted by any means of communication for the purposes of validating the pharmacy's record with respect to orders for refills of prescriptions for legend or narcotic drugs.
+     (g)  A pharmacy benefit management company shall conduct all of its audits of pharmacies in the same manner and according to the same standards.  A pharmacy benefit management company shall audit an equal number of independent pharmacies and pharmacies affiliated with a parent corporate entity.
+     (h)  Audits shall include an equal number of generic and non-generic prescription medications.
+     (i)  An audit may not use the accounting method of extrapolation in calculating recoupment or penalties.
+     (j)  An auditor hired by a pharmacy benefit management company to conduct audits pursuant to this section shall not receive payment or compensation based on a percentage discrepancies identified in the audit or amounts recovered pursuant to the audit.
+     (k)  A pharmacy benefit management company shall provide a preliminary audit report to the pharmacy or its parent corporate entity within ninety days after conclusion of the audit.  Within sixty days of the delivery of the preliminary audit report, a pharmacy may provide documentation to the pharmacy benefit management company to address any discrepancy identified in the audit.  A pharmacy benefit management company shall provide a final audit report to the pharmacy or its parent corporate entity within one hundred twenty days of the preliminary report or the receipt of additional documentation from the pharmacy, whichever occurs last.  The final audit report shall be signed by an authorized representative of both the pharmacy benefit management company and the pharmacy that is the subject of the audit.
+     (l)  No interest shall accrue during the time period of the audit or the preparation of the final report pursuant to subsection (k).
+     §   -F  Rules.  The insurance commissioner shall adopt rules pursuant to chapter 91 for the purposes of implementing this part, including a schedule of allowable acquisition costs and professional dispensing fees."
+     SECTION 3.  In codifying the new sections added by section 2 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+
+ 
+Report Title:
+Pharmacy Benefit Management Companies
+ 
+Description:
+Requires registration of and regulates practices of pharmacy benefit management companies.  Requires periodic audits of pharmacies that submit claims to pharmacy benefit management companies.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

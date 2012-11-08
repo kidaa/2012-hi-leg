@@ -1,0 +1,70 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+552
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO VISITOR GUIDES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that visitor websites and visitor guide publications may invite potential visitors to trespass on remote private property to experience an attraction or activity.  The representations made by these visitor websites and visitor guide publications may put potential visitors at risk by describing attractions or activities that are located on remote private properties or that are only accessible through remote private property without adequately describing the inherent dangers associated with these attractions and activities.  These websites and publications are frequently relied upon by visitors to trespass onto or through private property to experience the attraction or activity, which often results in serious injury or death to the visitor.
+     The legislature further finds that because of the nature of the attraction or activity, private landowners are unable to reasonably prevent trespassers from entering their land to get to the natural attraction or activity.
+     The purpose of this Act is to hold authors and publishers of visitor websites and visitor publications liable to readers who are enticed to trespass and suffer injury or death and to insulate private property owners or legal occupiers of land from liability for trespassers' injuries or deaths.
+     SECTION 2.  Chapter 663, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§663-    Visitor guide liability.  (a)  The author and publisher of a visitor guide website or visitor guide publication whose visitor guide website or publication encourages, invites, attracts, or causes its readers to commit an offense under section 708-814 on privately owned land, and injury or death occurs as a result of the reader's reliance upon the visitor guide website or guide publication's statements in entering the privately owned land, shall be liable to the reader for any injury or death occurring upon the privately owned property.
+     (b)  The legal owner or legal occupier of land shall not be liable or responsible for any injury or death of any individual who commits an offense under section 708-814 under the circumstances described in subsection (a).
+     (c)  As used in this section:
+     "Visitor guide publication" means any published book, pamphlet, magazine, handout, mailer, or advertisement, whether disseminated via hard copy or electronic distribution, that provides information about a visitor destination, geographic destination, or natural attraction located on privately owned land or accessible by privately owned land.
+     "Visitor guide website" means any commercial website, commercial social media wireless communication, commercial forum, or commercial blog that provides information about a visitor destination, geographic destination, or natural attraction on privately owned land or accessible by privately owned land."
+     SECTION 3.  Section 708-800, Hawaii Revised Statutes, is amended by amending the definition of "enter or remain unlawfully" to read as follows:
+     ""Enter or remain unlawfully."  A person "enters or remains unlawfully" in or upon premises when the person is not licensed, invited[,] by the land owner or lawful occupier of the land, or otherwise privileged to do so.  A person who, regardless of the person's intent, enters or remains in or upon premises which are at the time open to the public does so with license and privilege unless the person defies a lawful order not to enter or remain, personally communicated to the person by the owner of the premises or some other authorized person.  A license or privilege to enter or remain in a building which is only partly open to the public is not a license or privilege to enter or remain in that part of the building which is not open to the public.  [A person who enters or remains upon unimproved and apparently unused land, which is neither fenced nor otherwise enclosed in a manner designed to exclude intruders, does so with license and privilege unless notice against trespass is personally communicated to the person by the owner of the land or some other authorized person, or unless notice is given by posting in a conspicuous manner.]"
+     SECTION 4.  Section 708-814, Hawaii Revised Statutes, is amended by amending subsection (1) to read as follows:
+     "(1)  A person commits the offense of criminal trespass in the second degree if:
+    (a)   The person knowingly enters or remains unlawfully in or upon premises that are enclosed in a manner designed to exclude intruders or are fenced;
+    (b)   The person enters or remains unlawfully in or upon commercial premises after a reasonable warning or request to leave by the owner or lessee of the commercial premises, the owner's or lessee's authorized agent, or a police officer; provided that this paragraph shall not apply to any conduct or activity subject to regulation by the National Labor Relations Act.
+              For the purposes of this paragraph, "reasonable warning or request" means a warning or request communicated in writing at any time within a one-year period inclusive of the date the incident occurred, which may contain but is not limited to the following information:
+         (i)  A warning statement advising the person that the person's presence is no longer desired on the property for a period of one year from the date of the notice, that a violation of the warning will subject the person to arrest and prosecution for trespassing pursuant to section 708‑814(1)(b), and that criminal trespass in the second degree is a petty misdemeanor;
+        (ii)  The legal name, any aliases, and a photograph, if practicable, or a physical description, including but not limited to sex, racial extraction, age, height, weight, hair color, eye color, or any other distinguishing characteristics of the person warned;
+       (iii)  The name of the person giving the warning along with the date and time the warning was given; and
+        (iv)  The signature of the person giving the warning, the signature of a witness or police officer who was present when the warning was given and, if possible, the signature of the violator; or
+    (c)   The person enters or remains on agricultural lands without the permission of the owner of the land, the owner's agent, or the person in lawful possession of the land, and the agricultural lands:
+         (i)  Are fenced, enclosed, or secured in a manner designed to exclude intruders;
+        (ii)  Have a sign or signs displayed on the unenclosed cultivated or uncultivated agricultural land sufficient to give notice and reading as follows:  "Private Property"[.] or "No Trespassing".  The sign or signs, containing letters not less than two inches in height, shall be placed along the boundary line of the land and at roads and trails entering the land in a manner and position as to be clearly noticeable from outside the boundary line; or
+       (iii)  At the time of entry, have a visible presence of a crop:
+              (A)  Under cultivation;
+              (B)  In the process of being harvested; or
+              (C)  That has been harvested[.]; or
+    (d)   The person enters or remains on unimproved lands or unused private lands without the permission of the owner of the land, the owner's agent, or the lawful occupier of land, and the lands:
+          (i)  Are fenced, enclosed, or secured in a manner designed to exclude intruders; or
+        (ii)  Have a sign displayed on the unenclosed, unimproved, or unused land sufficient to give notice and reading as follows:  "Private Property" or "No Trespassing".  The sign, containing letters not less than two inches in height, shall be placed along the boundary line of the land and at roads and trails entering the land in a manner and position as to be clearly noticeable from outside the boundary line."
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Visitor Guide Liability; Publication Liability
+ 
+Description:
+Requires authors and publishers of travel websites or guide book publications encouraging or inviting readers to trespass onto private property or through private property to access an attraction to be held liable for injuries sustained by the reader on the private property.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

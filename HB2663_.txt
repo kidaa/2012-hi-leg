@@ -1,0 +1,70 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2663
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PUBLIC UTILITIES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 269-1, Hawaii Revised Statutes, is amended by amending the definition of "public utility" to read as follows:
+     ""Public utility":
+     (1)  Includes every person who may own, control, operate, or manage as owner, lessee, trustee, receiver, or otherwise, whether under a franchise, charter, license, articles of association, or otherwise, any plant or equipment, or any part thereof, directly or indirectly for public use for the transportation of passengers or freight; for the conveyance or transmission of telecommunications messages; for the furnishing of facilities for the transmission of intelligence by electricity within the State or between points within the State by land, water, or air; for the production, conveyance, transmission, delivery, or furnishing of light, power, heat, cold, water, gas, or oil; for the storage or warehousing of goods; or for the disposal of sewage; provided that the term shall include:
+          (A)  An owner or operator of a private sewer company or sewer facility; [and]
+          (B)  A telecommunications carrier or telecommunications common carrier; and
+          (C)  Notwithstanding any provision to the contrary, an owner or operator of a high-voltage electric transmission cable system for transmission of electricity between islands, regardless of whether the electricity is produced from nonfossil fuel sources; provided that the commission finds that regulation is necessary in the public interest; and
+     (2)  Shall not include:
+         (A)  An owner or operator of an aerial transportation enterprise;
+          (B)  An owner or operator of a taxicab as defined in this section;
+          (C)  Common carriers that transport only freight on the public highways, unless operating within localities, along routes, or between points that the public utilities commission finds to be inadequately serviced without regulation under this chapter;
+          (D)  Persons engaged in the business of warehousing or storage unless the commission finds that regulation is necessary in the public interest;
+         (E)  A carrier by water to the extent that the carrier enters into private contracts for towage, salvage, hauling, or carriage between points within the State; provided that the towing, salvage, hauling, or carriage is not pursuant to either an established schedule or an undertaking to perform carriage services on behalf of the public generally;
+         (F)  A carrier by water, substantially engaged in interstate or foreign commerce, that transports passengers on luxury cruises between points within the State or on luxury round-trip cruises returning to the point of departure;
+          (G)  Any person who:
+              (i)  Controls, operates, or manages plants or facilities for the production, transmission, or furnishing of power primarily or entirely from nonfossil fuel sources; and
+             (ii)  Provides, sells, or transmits all of that power, except as is used in its own internal operations, directly to a public utility for transmission to the public;
+         (H)  A telecommunications provider only to the extent determined by the public utilities commission pursuant to section 269-16.9;
+          (I)  Any person who controls, operates, or manages plants or facilities developed pursuant to chapter 167 for conveying, distributing, and transmitting water for irrigation and other purposes for public use and purpose;
+          (J)  Any person who owns, controls, operates, or manages plants or facilities for the reclamation of wastewater; provided that:
+              (i)  The services of the facility are provided pursuant to a service contract between the person and a state or county agency and at least ten per cent of the wastewater processed is used directly by the state or county agency that entered into the service contract;
+             (ii)  The primary function of the facility is the processing of secondary treated wastewater that has been produced by a municipal wastewater treatment facility owned by a state or county agency;
+            (iii)  The facility does not make sales of water to residential customers;
+             (iv)  The facility may distribute and sell recycled or reclaimed water to entities not covered by a state or county service contract; provided that, in the absence of regulatory oversight and direct competition, the distribution and sale of recycled or reclaimed water shall be voluntary and its pricing fair and reasonable.  For purposes of this subparagraph, "recycled water" and "reclaimed water" means treated wastewater that by design is intended or used for a beneficial purpose; and
+              (v)  The facility is not engaged, either directly or indirectly, in the processing of food wastes;
+         (K)  Any person who owns, controls, operates, or manages any seawater air conditioning district cooling project; provided that at least fifty per cent of the energy required for the seawater air conditioning district cooling system is provided by a renewable energy resource, such as cold, deep seawater;
+         (L)  Any person who owns, controls, operates, or manages plants or facilities primarily used to charge or discharge a vehicle battery that provides power for vehicle propulsion; and
+         (M)  Any person who:
+              (i)  Owns, controls, operates, or manages a renewable energy system that is located on a customer's property; and
+             (ii)  Provides, sells, or transmits the power generated from that renewable energy system to an electric utility or to the customer on whose property the renewable energy system is located; provided that, for purposes of this clause, a customer's property shall include all contiguous property owned or leased by the customer without regard to interruptions in contiguity caused by easements, public thoroughfares, transportation rights-of-way, and utility rights-of-way.
+     If the application of this chapter is ordered by the commission in any case provided in paragraphs (2)(C), (2)(D), (2)(H), and (2)(I), the business of any public utility that presents evidence of bona fide operation on the date of the commencement of the proceedings resulting in the order shall be presumed to be necessary to the public convenience and necessity, but any certificate issued under this proviso shall nevertheless be subject to terms and conditions as the public utilities commission may prescribe, as provided in sections 269-16.9 and 269-20."
+     SECTION 2.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 3.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Public Utilities; High-Voltage Electric Transmission Cable System
+ 
+Description:
+Includes a high-voltage electric transmission cable system for interisland transmission of electricity in the definition of "public utility", regardless of whether the electricity is generated using nonfossil fuels, provided that the PUC finds that regulation is in the public interest.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

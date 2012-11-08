@@ -1,0 +1,110 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2738
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MORTGAGE DISPUTE RESOLUTION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that Act 48, Session Laws of Hawaii 2011, has not improved the mortgage foreclosure system in Hawaii as intended.  Of the 2,733 foreclosures that were filed in 2011, only seven per cent were terminated.  This has left more than two thousand five hundred cases overloading the courts.  Meanwhile, the mortgage foreclosure dispute resolution program established by Act 48 for nonjudicial foreclosures of residential real property has yet to serve any clients despite being operational for months.
+     The current dispute resolution process creates a potential waiting period of one hundred ninety-five days or more.
+     The purpose of this Act is to shorten the time period for completing the mortgage foreclosure dispute resolution process to save time and money for the judicial system, lenders, and borrowers; increase the number of dispute resolution cases that can take place annually; and facilitate the resolution of nonjudicial foreclosures in the State.
+     SECTION 2.  Section 667-75, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  The notice required by subsection (a) shall be printed in not less than fourteen-point font and include:
+     (1)  The name and contact information of the mortgagor and the mortgagee;
+     (2)  The subject property address and legal description, including tax map key number and the certificate of title number if within the land court's jurisdiction;
+     (3)  The name and contact information of a person or entity authorized to negotiate a loan modification on behalf of the mortgagee;
+     (4)  Information about the mortgage foreclosure dispute resolution program under this part;
+     (5)  A form prescribed by the department for an owner-occupant to elect or to waive participation in the mortgage foreclosure dispute resolution program that shall contain instructions for the completion and return of the form to the department and the department's mailing address;
+    [(4)] (6)  A statement that the mortgagor shall consult with an approved housing counselor or an approved budget and credit counselor at least [thirty] five days prior to the first day of a scheduled dispute resolution session;
+    [(5)] (7)  Contact information for all local approved housing counselors;
+    [(6)] (8)  Contact information for all local approved budget and credit counselors;
+    [(7)] (9)  A statement that the mortgagor electing to participate in the mortgage foreclosure dispute resolution program shall provide a certification under penalty of perjury to the department that the mortgagor is an owner-occupant of the subject property, including [supporting documentation;] a description of acceptable supporting documentation as required by section 667-78(a)(2);
+    [(8)] (10)  A general description of the information that an owner-occupant electing to participate in the mortgage foreclosure dispute resolution program is required to provide to participate in the program as described under section 667-80(c)(2); and
+    [(9)] (11)  A statement that the owner-occupant shall elect to participate in the mortgage foreclosure dispute resolution program pursuant to this part no later than [thirty] fifteen days after the [department's mailing] owner-occupant's receipt of the notice or the right shall be waived."
+     SECTION 3.  Section 667-76, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  Within three days after a mortgagee serves a foreclosure notice on an owner-occupant pursuant to section 667‑5 or 667-22, the mortgagee shall file the foreclosure notice, including the notice of dispute resolution availability required under section 667-75, with the department and pay a filing fee of $250, which shall be deposited into the mortgage foreclosure dispute resolution special fund established under section 667-86."
+     SECTION 4.  Section 667-78, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending subsection (a) to read:
+     "(a)  An owner-occupant elects to participate in the mortgage foreclosure dispute resolution program by returning to the department:
+     (1)  The completed program election form provided pursuant to section [667-77(2);] 667-75(b)(5);
+     (2)  Certification under penalty of perjury that the mortgagor is an owner-occupant, accompanied with any supporting documentation, including copies of recent utility billing statements, voter registration records, real estate property tax records, or state identification forms; and
+     (3)  A program fee of $300.
+The completed form and fees shall be received by the department no later than [thirty] fifteen days after [mailing] the owner-occupant's receipt of the [department's notification pursuant to] notice required under section [667‑77.] 667-75.  The department shall forward a copy of the completed form to the pertinent mortgagee."
+     2.  By amending subsection (c) to read:
+     "(c)  If the owner-occupant does not elect to participate in dispute resolution pursuant to this part[, the department shall notify the mortgagee within ten days of receiving an election form indicating nonelection or the termination of the thirty-day time period for election.  After receiving the department's notification,] within fifteen days after the owner-occupant's receipt of the notice required under section 667-75, the mortgagee may proceed with the nonjudicial foreclosure process according to the process provided in part I or part II of this chapter, as applicable[.], no sooner than thirty days after the owner-occupant's receipt of the notice required under section 667-75."
+     SECTION 5.  Section 667-79, Hawaii Revised Statutes, is amended by amending subsections (a) and (b) to read as follows:
+     "(a)  If an owner-occupant elects to participate in the mortgage foreclosure dispute resolution program, the department shall open a dispute resolution case.  Within [twenty] five days of receipt of the owner-occupant's election form and fee in accordance with section 667-78, the department shall mail written notification of the case opening to the parties by registered mail, return receipt requested, which shall include:
+     (1)  Notification of the date, time, and location of the dispute resolution session;
+     (2)  An explanation of the dispute resolution process;
+     (3)  Information about the dispute resolution program requirements; and
+     (4)  Consequences and penalties for noncompliance.
+The dispute resolution session shall be scheduled for a date no less than [thirty] ten and no more than [sixty] fifteen days from the date of the notification of case opening, unless mutually agreed to by the parties and the neutral.
+     (b)  Within [fourteen] seven days of the date of the mailing of the written notification, the mortgagee shall pay a program fee of $300 to the department."
+     SECTION 6.  Section 667-80, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending subsections (b), (c), and (d) to read:
+     "(b)  No fewer than [thirty] five days prior to the first day of a scheduled dispute resolution session pursuant to this part, the owner-occupant shall consult with an approved housing counselor or approved budget and credit counselor.
+     (c)  The parties shall comply with all information requests from the department or neutral.  No less than [fifteen] five days prior to the first day of the scheduled dispute resolution session:
+     (1)  The mortgagee shall provide to the department and the mortgagor:
+         (A)  A copy of the promissory note, signed by the mortgagor, including any endorsements, allonges, amendments, or riders to the note evidencing the mortgage debt;
+         (B)  A copy of the mortgage document and any amendments, riders, or other documentation evidencing the mortgagee's right of nonjudicial foreclosure and interest in the property including any interest as a successor or assignee; and
+         (C)  Financial records and correspondence that confirm the mortgage loan is in default.
+     (2)  The owner-occupant shall provide to the department and the mortgagee:
+         (A)  Documentation showing income qualification for a loan modification, including any copies of pay stubs, W-2 forms, social security or disability income, retirement income, child support income, or any other income that the owner-occupant deems relevant to the owner-occupant's financial ability to repay the mortgage;
+         (B)  Any records or correspondence available which may dispute that the mortgage loan is in default;
+         (C)  Any records or correspondence available evidencing a loan modification or amendment;
+         (D)  Any records or correspondence available that indicate the parties are currently engaged in bona fide negotiations to modify the loan or negotiate a settlement of the delinquency;
+         (E)  Names and contact information for housing counselors, approved budget and credit counselors, or representatives of the mortgagee, with whom the owner-occupant may have or is currently working with to address the delinquency; and
+         (F)  Verification of counseling by an approved housing counselor or approved budget and credit counselor.
+     (d)  The dispute resolution session shall consist of at least one meeting lasting no more than three hours, which may be extended by the equivalent of one additional three-hour session on the same or a different day at the neutral's discretion.
+     The parties shall be present in person at the dispute resolution session; provided that a party may submit a written request to the department at least [fourteen] five days prior to the scheduled dispute resolution session to participate through telephone, videoconference, or other contemporaneous telecommunications medium.  A request to participate through a telecommunications medium shall be granted only for good cause and upon agreement of the neutral and the other party to the dispute resolution.  For purposes of this subsection, "good cause" means an event or circumstance outside of the requesting party's control that makes in-person participation impossible.  The neutral shall have the discretion to postpone a dispute resolution session in order to allow the requesting party to participate in person; provided that postponement shall not delay the dispute resolution process beyond timelines established by this part."
+     2.  By amending subsection (f) to read:
+     "(f)  The dispute resolution process shall conclude within [sixty] twenty-one days from the first scheduled meeting between the parties to the dispute resolution and the neutral; provided that the neutral shall have the authority to extend this period.  Nothing in this part shall be construed to require the dispute resolution process to take the full [sixty] twenty-one days allotted to reach a negotiated agreement."
+     SECTION 7.  Section 667-81, Hawaii Revised Statutes, is amended by amending subsections (a), (b), and (c) to read as follows:
+     "(a)  Within [ten] five days from the conclusion of the dispute resolution, the neutral shall file a closing report with the department, which verifies the parties' presence at the session, compliance with the requirements of this part, and reports whether the parties reached an agreement to resolve the dispute and the date of the dispute resolution's conclusion.  Upon receipt of the neutral's closing report, the department shall close the case.  The department shall forward a written copy of the neutral's closing report by registered or certified mail to the parties within five days after receipt from the neutral.
+     (b)  If, despite the parties' participation in the dispute resolution process and compliance with the requirements of this part, the parties are not able to come to an agreement, the neutral shall file a closing report with the department that the parties met the program requirements.  The mortgagee may file or record the report at the bureau of conveyances or the land court, as appropriate.  Upon recording of the report pursuant to this subsection, the foreclosure process shall resume along the timeline as it existed on the date before the mortgagor elected dispute resolution, and may proceed as otherwise provided by law.  The mortgagee shall notify the mortgagor of the recording date and document number of this report and the deadline date to cure default in an amended foreclosure notice.  Nothing in this subsection shall be construed to require the neutral to wait the full [sixty] twenty-one days allotted for dispute resolution to determine that the parties were unable to reach an agreement and file a report.
+     (c)  If the parties have complied with the requirements of this part and have reached an agreement, the agreement shall be memorialized in a settlement document signed by the parties or their authorized representatives.  If the parties or their authorized representatives participate in the dispute resolution session in person, the settlement document shall be signed in the presence of the neutral.  If any of the parties or their authorized representatives participate in the dispute resolution through telephone, videoconference, or other immediately available contemporaneous telecommunications medium, the settlement document shall be signed and returned to the neutral no later than [ten] seven days after the conclusion of the dispute resolution session.  The parties shall be responsible for drafting any agreement reached, and for filing or recording with the land court or the bureau of conveyances, as appropriate, and enforcing the settlement document.  The neutral shall file the settlement document with the neutral's closing report.  The settlement document shall be a contract between the parties and shall be enforceable in a private contract action in a court of appropriate jurisdiction in the event of breach by either party.  If the settlement document allows for foreclosure or other transfer of the subject property, the stay of the foreclosure under section 667-83 shall be released upon filing or recording the settlement document with the land court or bureau of conveyances, as appropriate.  Thereafter, the land court or bureau of conveyances may record a notice of sale or other conveyance document, as appropriate."
+     SECTION 8.  Section 667-77, Hawaii Revised Statutes, is repealed.
+     ["[§667-77]  Notification to mortgagor by department.  Within ten days after the mortgagee's filing of a notice of default and intention to foreclose with the department, the department shall mail a written notification by registered or certified mail to the mortgagor that a notice of default and intention to foreclose has been filed with the department.  The notification shall inform the mortgagor of an owner-occupant's right to elect to participate in the foreclosure dispute resolution program and shall include:
+     (1)  Information about the mortgage foreclosure dispute resolution program;
+     (2)  A form for an owner-occupant to elect or to waive participation in the mortgage foreclosure dispute resolution program pursuant to this part that shall contain instructions for the completion and return of the form to the department and the department's mailing address;
+     (3)  A statement that the mortgagor electing to participate in the mortgage foreclosure dispute resolution program shall provide a certification under penalty of perjury to the department that the mortgagor is an owner-occupant of the subject property, including a description of acceptable supporting documentation as required by section 667-78(a)(2);
+     (4)  A statement that the owner-occupant shall elect to participate in the mortgage foreclosure dispute resolution program pursuant to this part no later than thirty days after the department's mailing of the notice or the owner-occupant shall be deemed to have waived the option to participate in the mortgage foreclosure dispute resolution program;
+     (5)  A description of the information required under section 667-80(c)(2) that the owner-occupant shall provide to the mortgagee and the neutral assigned to the dispute resolution;
+     (6)  A statement that the owner-occupant shall consult with an approved housing counselor or approved budget and credit counselor at least thirty days prior to the first day of a scheduled dispute resolution session;
+     (7)  Contact information for all local approved housing counselors;
+     (8)  Contact information for all local approved budget and credit counselors; and
+     (9)  Contact information for the department.
+The notification shall be mailed to the subject property address and any other addresses for the mortgagor as provided in the mortgagee's notice of dispute resolution under [section] 667-75 and the foreclosure notice under section 667-5 or 667-22(a)."]
+     SECTION 9.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 10.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Nonjudicial Mortgage Foreclosures; Dispute Resolution
+ 
+Description:
+Encourages the use of the mortgage foreclosure dispute resolution process for nonjudicial foreclosures of residential property, by shortening the time period for completing the process.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

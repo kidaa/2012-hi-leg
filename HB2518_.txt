@@ -1,0 +1,53 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2518
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE DEPARTMENT OF ACCOUNTING AND GENERAL SERVICES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  In March 2011, the State launched an initiative to modernize and transform the State's technology infrastructure, systems, processes, and procedures.  The State subsequently hired its first full-time chief information officer in July 2011 to oversee the development and implementation of a statewide information technology strategic plan.  In September 2011, the first phase of the State's modernization initiative was completed with the publishing of the "Baseline of Information Management and Technology and Comprehensive View of State Services" report.  The findings and recommendations in this report provide the basis for the strategic direction that the State needs to take going forward.  The development of the statewide information technology strategic plan, which will include a business transformation strategy, is currently under development and is anticipated to be delivered by the chief information officer in July 2012.
+     The report explained that the State's budget reductions over the last decade and lack of centralized governance of information technology and information resource management have resulted in minimal integration of business processes between departments, duplication of efforts and redundant processes, and aging legacy systems.  Further, the State's current level of investment on information technology and information resource management is inadequate compared to benchmark standards found in other states and existing best practices.
+     It is recognized that technology alone cannot address the State's needs; simply automating obsolete or stove-piped processes will not lead to better outcomes.  What is required is a re-thinking of the existing business processes throughout state government, in every department, in order to take full advantage of the transformation capabilities modern technology offers.  It is the chief information officer's and business transformation executive's intention to embark upon a prioritized enterprise-wide re-evaluation of business processes and their enabling technologies in order to advance Hawaii to a more agile, responsive, and transparent future state.
+     The re-thinking of business processes and the transformation of the State's information technology infrastructure and framework will result in increased efficiencies through greater collaboration and information sharing, improved effectiveness through eliminating redundancies, enhanced levels of information security, future cost savings, and business processes that will more closely align with the business needs of the State.  Additionally, the new information technology framework that will be documented in strategic plan will include an enterprise architecture for the State and will serve as the basis for annual tactical operation plans going forward.
+     Funding for the defined initiatives resulting from the strategic plan cannot be funded until fiscal year 2013-2014, but there are basic and critical foundational elements that must be preceded and be implemented in fiscal year 2012-13 in order for the State to realize the greatest benefits of the overall transformation initiative.
+     The purpose of this Act is to appropriate moneys for the business and technology transformation initiative to prepare the State for the larger transformation activities that will be defined in the forthcoming information technology strategic plan.
+     SECTION 2.  There is appropriated out of the general revenues of the State of Hawaii, the sum of $           or so much thereof as may be necessary for the fiscal year 2012-2013, for the support of the information technology transformation initiative.  The sum appropriated shall be utilized to:
+     (1)  Develop and implement business process reengineering and information technology transformation activities that are required as foundational elements and to begin mitigating the critical challenges the State currently faces;
+     (2)  Develop and execute pilot projects that will increase current operational capabilities; and
+     (3)  Develop and implement a governance structure to ensure alignment of resources to strategic objectives, reduce and simplify complex procedures and processes, and realize future cost savings.
+     All projects initiated and implemented will align to the information technology strategic plan.
+     SECTION 3.  The director of finance is authorized to issue general obligation bonds in the sum of $           or so much thereof as may be necessary for fiscal year 2013 for the planning, designing and requirements gathering necessary to develop and implement an integrated financial and human resource management system for the State of Hawaii.
+     SECTION 4.  The appropriations made for capital improvement projects authorized in this Act shall not lapse at the end of the fiscal biennium for which the appropriation is made; provided that all appropriations are unencumbered as of June 30, 2013, shall lapse as of that date.
+     SECTION 5.  The sum appropriated shall be expended by the office of information management and technology within the department of accounting and general services for the purposes of this Act.
+     SECTION 6.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Relating to the Department of Accounting and General Services.
+ 
+Description:
+To appropriate moneys for the business and technology transformation initiative in fiscal year 2012-2013 to prepare the State for the larger transformation activities that will be defined in the forthcoming information technology strategic plan.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

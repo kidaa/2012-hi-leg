@@ -1,0 +1,56 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2536
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO INSURER REQUIREMENTS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  When Congress passed the Deficit Reduction Act of 2005, P.L. 109-171, it made a number of amendments to the Social Security Act intended to strengthen states' ability to identify and collect from liable third party payors that are legally responsible to pay claims primary to medicaid.
+     To ensure the State's compliance with the requirements of P.L. 109-171, the legislature passed Senate Bill No. 917, enacted as Act 103, in 2009 and codified in chapter 431L, Hawaii Revised Statutes.
+     The federal and state statutes require that medicaid be the payor of last resort for health insurance.  To meet this obligation, the department of human services, as the state medicaid agency, requires information on medicaid recipients who also have commercial health insurance.
+     Section 431L-2.5, Hawaii Revised Statutes, requires the health care insurer to share information on an individual basis at the State's request.  This Act will require all commercial health care insurers operating in Hawaii to also share with the department of human services a listing of their members on a quarterly basis.  Quarterly reports will allow the department to determine on a timely basis the eligibility of persons who apply for medicaid and to determine the continuing eligibility for persons receiving health care insurance through the medicaid program.
+     Medicaid allows passive renewal and self-declaration to facilitate eligibility, which makes it difficult for the department to determine when a recipient's eligibility status has changed because of employment, increased income, or being provided health coverage under the Prepaid Health Care Act.
+     In the current economic climate of decreased state revenues and the unfortunate necessity of reducing medical assistance benefits, identifying areas to decrease expenditures with minimal impact on the public becomes increasingly important.  The senate committee on ways and means stated in Standing Committee Report No. 3033 that "the State's economic difficulties threaten the provision of human services under many state programs.  Your Committee finds that, despite budget cuts and realignments, it is important to maintain the level of services that are provided to the neediest populations in the State."
+     The purpose of this bill is to require all commercial health care insurers operating in Hawaii to share with the department of human services, on a timely basis, a listing of their members for medicaid eligibility determination.  This will improve medicaid program integrity and ensure that medicaid is the payor of last resort and that funding for the medicaid program is used to provide health insurance coverage to those who really need it.
+     SECTION 2.  Section 431L-2.5, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§431L-2.5[]]  Insurer requirements.  Any health insurer as identified in section 431L-1 shall:
+     (1)  Provide, with respect to individuals who are eligible for, or are provided, medical assistance under Title 42 United States Code section 1396a (section 1902 of the Social Security Act), as amended, upon the request of the State, information to determine during what period the individual or the individual's spouse or dependents may be or may have been covered by a health insurer and the nature of the coverage that is or was provided by the health insurer, including the name, address, and identifying number of the plan in a manner prescribed by the State;
+     (2)  Provide to the State a quarterly report listing its members for a cross-reference check of prospective and current medicaid beneficiaries.  Minimum data will be required to ensure validity of matching and may include first and last name, date of birth, and social security number.  The data fields and electronic format of the member listing shall be determined by the department of human services;
+    [(2)] (3)  Accept the State's right of recovery and the assignment to the State of any right of an individual or other entity to payment from the party for a health care item or service for which payment has been made for medical assistance under Title 42 United States Code section 1396a (section 1902 of the Social Security Act);
+    [(3)] (4)  Respond to any inquiry by the State regarding a claim for payment for any health care item or service that is submitted not later than three years after the date of the provision of the health care item or service; and
+    [(4)] (5)  Agree not to deny a claim submitted by the State solely on the basis of the date of submission of the claim, the type or format of the claim form, or a failure to present proper documentation at the point-of-sale that is the basis of the claim, if:
+         (A)  The claim is submitted by the State within the three-year period beginning on the date on which the health care item or service was furnished; and
+         (B)  Any action by the State to enforce its rights with respect to the claim is commenced within six years of the State's submission of the claim."
+     SECTION 3.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Insurer Requirements
+ 
+Description:
+Requires all commercial health care insurers operating in Hawaii to share with the Department of Human Services, a listing of their members for medicaid eligibility determination.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

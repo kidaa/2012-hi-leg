@@ -1,0 +1,75 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2845
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CRIME.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+PART I
+     SECTION 1.  Chapter 708, Hawaii Revised Statutes, is amended by adding a new section to part IX to be appropriately designated and to read as follows:
+     "§708-     Computer fraud in the third degree.  (1)  A person commits the offense of computer fraud in the third degree if the person knowingly, and with intent to defraud, accesses a computer, computer system, or computer network with the intent to commit the offense of theft in the third or fourth degree.
+     (2)  Computer fraud in the third degree is a class C felony."
+     SECTION 2.  Section 708-891, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§708-891[]]  Computer fraud in the first degree.  (1)  A person commits the offense of computer fraud in the first degree if the person knowingly, and with intent to defraud, accesses a computer [without authorization and, by means of such conduct, obtains or exerts control over the property of another.
+     (2)  In a prosecution for computer fraud in the first degree, it is a defense that the object of the fraud and the property obtained consists only of the use of the computer and the value of such use is not more than $300 in any one-year period.
+     (3)], computer system, or computer network with the intent to:
+     (a)  Facilitate the commission of a murder in any degree, any class A felony, kidnapping, unlawful imprisonment in any degree, extortion in any degree, any offense under chapter 134, criminal property damage in the first or second degree, escape in any degree, any offense under part VI of chapter 710, any offense under section 711-1103, or any offense under chapter 842; or
+     (b)  Commit the offense of theft in the first degree.
+     (2) Computer fraud in the first degree is a class [B] A felony."
+     SECTION 3.  Section 708-891.5, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§708-891.5[]]  Computer fraud in the second degree.  (1)  A person commits the offense of computer fraud in the second degree if the person knowingly, and with the intent to defraud[, transfers, or]:
+    (a)   Accesses a computer, computer system, or computer network with the intent to commit the offense of theft in the second degree; or
+    (b)   Transfers, or otherwise disposes of, to another, or obtains control of, with the intent to transfer or dispose of, any password or similar information through which a computer, computer system, or computer network may be accessed.
+     (2)  Computer fraud in the second degree is a class [C] B felony."
+PART II
+     SECTION 4.  Section 604-10.5, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  For the purposes of this section:
+     "Course of conduct" means a pattern of conduct composed of a series of acts over any period of time evidencing a continuity of purpose.      "Harassment" means:
+     (1)  Physical harm, bodily injury, assault, or the threat of imminent physical harm, bodily injury, or assault; [or]
+     (2)  An intentional or knowing course of conduct directed at an individual that seriously alarms or disturbs consistently, or continually bothers the individual and serves no legitimate purpose[;], including a course of conduct committed by the use of a computer, computer system, or network; provided that such course of conduct would cause a reasonable person to suffer emotional distress[.]; or
+     (3)  A pattern of conduct that substantially violates the privacy of another, including a pattern of conduct committed by the use of a computer, computer system, or network."
+PART III
+     SECTION 5.  Chapter 708, Hawaii Revised Statutes, is amended by adding a new section to part IX to be appropriately designated and to read as follows:
+     "§708-     Prohibited web design or development.  (1)  A person commits the offense of prohibited web design or development if the person designs, develops, or programs a website for another person or entity for compensation, and:
+    (a)   Uses any graphics, software, or other materials that the person is not authorized to use, including copyrighted graphics, software, or other materials;
+    (b)   Includes materials in the website that have not been expressly approved by the other person or entity;
+    (c)   Claims ownership of the website after the website has been completed and the person has been compensated according to any contract between the person and the other person or entity; or
+    (d)   Uses any material obtained by the person from the computer of the other person or entity, including email or contact information, without the express authorization of the person or entity.
+    (2)  Prohibited web design or development is a class C felony.
+     (3)  For the purposes of this section:
+     "Email" or "electronic mail" means a message sent, posted, or transmitted to a unique destination that is commonly expressed as a string of characters, consisting of a unique user name or mailbox and a reference to an internet domain, whether or not displayed, to which electronic mail can be sent, delivered, or posted.
+     "Website" means a location that has a single uniform resource locator with respect to the world wide web, or a single location with respect to the Internet."
+PART IV
+     SECTION 6.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 7.  If any provision of this Act, or the application thereof to any person or circumstance, is held invalid, the invalidity does not affect other provisions or applications of the Act that can be given effect without the invalid provision or application, and to this end the provisions of this Act are severable.
+     SECTION 8.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 9.  This Act shall take effect upon its approval; provided that the amendments made to chapter 708, Hawaii Revised  Statutes, by sections 1, 2, and 3 of this Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Computer Fraud; Protective Orders; Web Designers or Developers
+ 
+Description:
+Amends computer fraud statutes to capture a broader range of crimes committed through the use of a computer, computer system, or computer network, and increases penalties for all degrees of computer fraud.  Allows protective orders for harassment committed through the use of a computer, computer system, or computer network.  Establishes the crime of prohibited web design within the Hawaii Penal Code prohibiting certain acts by web designers or developers.
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

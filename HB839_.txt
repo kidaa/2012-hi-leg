@@ -1,0 +1,147 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+839
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO INSURANCE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  (a)  The legislature finds that:
+     (1)  The interpretation of insurance policies issued to construction professionals is of vital importance to the economic and social welfare of the citizens of Hawaii;
+     (2)  Insurance policies issued to construction professionals have become increasingly complex, often containing multiple, lengthy endorsements and exclusions conflicting with the reasonable expectations of the insured; and
+     (3)  The correct interpretation of coverage for damages arising out of construction defects is in the best interest of insurers, construction professionals, and property owners.
+     (b)  The legislature declares that:
+     (1)  The policy of the State is to favor broad interpretation of insurance coverage for the insured;
+     (2)  The long-standing and continuing policy of the State is to favor a broad interpretation of an insurer's duty to defend the insured under liability insurance policies;
+     (3)  The decision of the Hawaii intermediate court of appeals in Group Builders, Inc. and Tradewind Insurance Company, Ltd. v. Admiral Ins. Co., (Haw. App. 2009) does not properly consider a construction professional's reasonable expectation that an insurer would defend the construction professional against an action or notice of claim; and
+     (4)  For the purposes of guiding pending and future actions in the interpretation of liability insurance policies issued to construction professionals, what has been and continues to be the policy of the State is hereby clarified and confirmed.
+     SECTION 2.  Chapter 431, article 1, Hawaii Revised Statutes, is amended by adding two new sections to part I to be appropriately designated and to read as follows:
+     "§431:1-     Insurance policies issued to construction professionals.  (a)  For the purposes of this section, "liability insurance policy" means a contract of insurance that covers occurrences of damage or injury during the policy period and insures a construction professional for liability arising from construction-related work.
+     (b)  In interpreting a liability insurance policy issued to a construction professional, a court shall presume that the work of a construction professional that results in property damage, including damage to the work itself or other work, is an accident unless the property damage is intended and expected by the insured.  Nothing in this section:
+     (1)  Requires coverage for damage to an insured's own work unless otherwise provided in the insurance policy; or
+     (2)  Creates insurance coverage that is not included in the insurance policy.
+     (c)  Upon a finding of ambiguity in an insurance policy, a court may consider a construction professional's objective and reasonable expectations in the interpretation of an insurance policy issued to a construction professional.
+     (d)  In construing whether an insurance policy meets a construction professional's objective and reasonable expectations, the court may consider the following:
+     (1)  The object sought to be obtained by the construction professional in the purchase of the insurance policy; and
+     (2)  Whether a construction defect has resulted, directly or indirectly, in bodily injury, property damage, or loss of the use of property.
+     (e)  In construing whether an insurance policy meets a construction professional's objective and reasonable expectations, a court may also consider and give weight to any writing concerning the insurance policy provision in dispute that is not protected from disclosure by the attorney-client privilege, work-product privilege, or other law, and is generated, approved, adopted, or relied on by the insurer, its parent or subsidiary company, or an insurance rating or policy drafting organization; provided that the writing shall not be used to restrict, limit, exclude, or condition coverage or the insurer's obligation beyond that which is reasonably inferred from the words used in the insurance policy.
+     (f)  If an insurance policy provision that appears to grant or restore coverage conflicts with an insurance policy provision that appears to exclude or limit coverage, the court shall construe the insurance policy in favor of coverage, if reasonably and objectively possible.
+     (g)  If an insurer disclaims or limits coverage under a liability insurance policy issued to a construction professional, the insurer shall bear the burden of proving by a preponderance of the evidence that:
+     (1)  Any policy's limitation, exclusion, or condition in the insurance policy bars or limits coverage for the insured's legal liability in an action or notice of claim concerning a construction defect; and
+     (2)  Any exception to the limitation, exclusion, or condition in the insurance policy does not restore coverage under the policy.
+     (h)  An insurer's duty to defend a construction professional or other insured under a liability insurance policy issued to a construction professional shall be triggered by a potentially covered liability described in the following:
+     (1)  A notice of claim; or
+     (2)  A complaint, cross-claim, counterclaim, or third-party claim filed in an action against the construction professional concerning a construction defect.
+     (i)  An insurer shall defend a construction professional who has received a notice of claim regardless of whether another insurer may also owe the insured a duty to defend the notice of claim unless authorized by law.  In defending the claim, the insurer shall:
+     (1)  Reasonably investigate the claim; and
+     (2)  Reasonably cooperate with the insured in the notice of claims process;
+provided that this subsection shall not require the insurer to retain legal counsel for the insured or to pay any sums toward settlement of the notice of claim that are not covered by the insurance policy.
+     (j)  An insurer shall not withdraw its defense of an insured construction professional or commence an action seeking reimbursement from an insured for expended defense costs unless authorized by law and unless the insurer has reserved the right in writing when accepting or assuming the defense obligation.
+     §431:1-     Exclusion; claims involving loss in progress not known to insured.  (a)  A provision in a liability insurance policy issued to a construction professional excluding or limiting coverage for one or more claims arising from bodily injury, property damage, advertising injury, or personal injury that continues, worsens, or progresses when the policy is in effect shall be void and unenforceable if the exclusion or limitation applies to an injury or damage that was unknown to the insured at the policy's inception date.
+     (b)  Any provision in an insurance policy issued in violation of this section shall be void and unenforceable as against public policy.
+     (c)  A court shall construe an insurance policy containing a provision that is unenforceable under this section as if the provision was not a part of the policy when the policy was issued.
+     (d)  This section shall apply only to an insurance policy that covers occurrences of damage or injury during the policy period and that insures a construction professional for liability arising from construction-related work."
+     SECTION 3.  This Act shall apply to all insurance policies currently in existence or issued on or after the effective date of this Act.
+     SECTION 4.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+
+ 
+Report Title:
+Commercial Liability Insurance Policies; Construction Professionals
+ 
+Description:
+Clarifies the laws relating to the interpretation of commercial liability insurance policies affecting construction professionals.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+, li.ExtraSig, div.ExtraSig {mso-style-name:"Extra Sig"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:243.0pt; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.ResolutionBody, li.ResolutionBody, div.ResolutionBody {mso-style-name:"Resolution Body"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} span.BillSectionNumber {mso-style-name:"Bill Section Number"; font-family:Courier;} p.XNotesHeading, li.XNotesHeading, div.XNotesHeading {mso-style-name:XNotesHeading; margin:0in; margin-bottom:.0001pt; text-align:center; font-size:12.0pt; font-family:"Courier New"; font-weight:bold;} p.XNotes, li.XNotes, div.XNotes {mso-style-name:XNotes; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Amend, li.Amend, div.Amend {mso-style-name:Amend; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Misc, li.Misc, div.Misc {mso-style-name:"Misc\."; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Effective, li.Effective, div.Effective {mso-style-name:Effective; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.BalloonTextChar {mso-style-name:"Balloon Text Char"; mso-style-link:"Balloon Text"; font-family:"Tahoma","sans-serif";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+839
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO INSURANCE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  (a)  The legislature finds that:
+     (1)  The interpretation of insurance policies issued to construction professionals is of vital importance to the economic and social welfare of the citizens of Hawaii;
+     (2)  Insurance policies issued to construction professionals have become increasingly complex, often containing multiple, lengthy endorsements and exclusions conflicting with the reasonable expectations of the insured; and
+     (3)  The correct interpretation of coverage for damages arising out of construction defects is in the best interest of insurers, construction professionals, and property owners.
+     (b)  The legislature declares that:
+     (1)  The policy of the State is to favor broad interpretation of insurance coverage for the insured;
+     (2)  The long-standing and continuing policy of the State is to favor a broad interpretation of an insurer's duty to defend the insured under liability insurance policies;
+     (3)  The decision of the Hawaii intermediate court of appeals in Group Builders, Inc. and Tradewind Insurance Company, Ltd. v. Admiral Ins. Co., (Haw. App. 2009) does not properly consider a construction professional's reasonable expectation that an insurer would defend the construction professional against an action or notice of claim; and
+     (4)  For the purposes of guiding pending and future actions in the interpretation of liability insurance policies issued to construction professionals, what has been and continues to be the policy of the State is hereby clarified and confirmed.
+     SECTION 2.  Chapter 431, article 1, Hawaii Revised Statutes, is amended by adding two new sections to part I to be appropriately designated and to read as follows:
+     "§431:1-     Insurance policies issued to construction professionals.  (a)  For the purposes of this section, "liability insurance policy" means a contract of insurance that covers occurrences of damage or injury during the policy period and insures a construction professional for liability arising from construction-related work.
+     (b)  In interpreting a liability insurance policy issued to a construction professional, a court shall presume that the work of a construction professional that results in property damage, including damage to the work itself or other work, is an accident unless the property damage is intended and expected by the insured.  Nothing in this section:
+     (1)  Requires coverage for damage to an insured's own work unless otherwise provided in the insurance policy; or
+     (2)  Creates insurance coverage that is not included in the insurance policy.
+     (c)  Upon a finding of ambiguity in an insurance policy, a court may consider a construction professional's objective and reasonable expectations in the interpretation of an insurance policy issued to a construction professional.
+     (d)  In construing whether an insurance policy meets a construction professional's objective and reasonable expectations, the court may consider the following:
+     (1)  The object sought to be obtained by the construction professional in the purchase of the insurance policy; and
+     (2)  Whether a construction defect has resulted, directly or indirectly, in bodily injury, property damage, or loss of the use of property.
+     (e)  In construing whether an insurance policy meets a construction professional's objective and reasonable expectations, a court may also consider and give weight to any writing concerning the insurance policy provision in dispute that is not protected from disclosure by the attorney-client privilege, work-product privilege, or other law, and is generated, approved, adopted, or relied on by the insurer, its parent or subsidiary company, or an insurance rating or policy drafting organization; provided that the writing shall not be used to restrict, limit, exclude, or condition coverage or the insurer's obligation beyond that which is reasonably inferred from the words used in the insurance policy.
+     (f)  If an insurance policy provision that appears to grant or restore coverage conflicts with an insurance policy provision that appears to exclude or limit coverage, the court shall construe the insurance policy in favor of coverage, if reasonably and objectively possible.
+     (g)  If an insurer disclaims or limits coverage under a liability insurance policy issued to a construction professional, the insurer shall bear the burden of proving by a preponderance of the evidence that:
+     (1)  Any policy's limitation, exclusion, or condition in the insurance policy bars or limits coverage for the insured's legal liability in an action or notice of claim concerning a construction defect; and
+     (2)  Any exception to the limitation, exclusion, or condition in the insurance policy does not restore coverage under the policy.
+     (h)  An insurer's duty to defend a construction professional or other insured under a liability insurance policy issued to a construction professional shall be triggered by a potentially covered liability described in the following:
+     (1)  A notice of claim; or
+     (2)  A complaint, cross-claim, counterclaim, or third-party claim filed in an action against the construction professional concerning a construction defect.
+     (i)  An insurer shall defend a construction professional who has received a notice of claim regardless of whether another insurer may also owe the insured a duty to defend the notice of claim unless authorized by law.  In defending the claim, the insurer shall:
+     (1)  Reasonably investigate the claim; and
+     (2)  Reasonably cooperate with the insured in the notice of claims process;
+provided that this subsection shall not require the insurer to retain legal counsel for the insured or to pay any sums toward settlement of the notice of claim that are not covered by the insurance policy.
+     (j)  An insurer shall not withdraw its defense of an insured construction professional or commence an action seeking reimbursement from an insured for expended defense costs unless authorized by law and unless the insurer has reserved the right in writing when accepting or assuming the defense obligation.
+     §431:1-     Exclusion; claims involving loss in progress not known to insured.  (a)  A provision in a liability insurance policy issued to a construction professional excluding or limiting coverage for one or more claims arising from bodily injury, property damage, advertising injury, or personal injury that continues, worsens, or progresses when the policy is in effect shall be void and unenforceable if the exclusion or limitation applies to an injury or damage that was unknown to the insured at the policy's inception date.
+     (b)  Any provision in an insurance policy issued in violation of this section shall be void and unenforceable as against public policy.
+     (c)  A court shall construe an insurance policy containing a provision that is unenforceable under this section as if the provision was not a part of the policy when the policy was issued.
+     (d)  This section shall apply only to an insurance policy that covers occurrences of damage or injury during the policy period and that insures a construction professional for liability arising from construction-related work."
+     SECTION 3.  This Act shall apply to all insurance policies currently in existence or issued on or after the effective date of this Act.
+     SECTION 4.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+
+ 
+Report Title:
+Commercial Liability Insurance Policies; Construction Professionals
+ 
+Description:
+Clarifies the laws relating to the interpretation of commercial liability insurance policies affecting construction professionals.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

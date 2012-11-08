@@ -1,0 +1,217 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+872
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CAMPAIGNS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature recognizes that the State has a duty to its citizens to ensure that information concerning campaign contributions and expenditures is readily available to and easily accessible by the public.  Disclosure is even more important to the elections process in light of the dramatic changes in contributions policy reflected in recent court cases, such as Citizens United v. Federal Election Commission, 130 S.Ct. 876 (U.S. 2010).
+     In Hawaii, noncandidate committee reports and electioneering communication reports document independent campaign expenditures.  The purpose of this Act is to increase transparency by clarifying reporting requirements for election contributions and expenditures and to require all entities, except individuals, to register as noncandidate committees and to comply with established reporting requirements. 
+     SECTION 2.  Chapter 11, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§11-    Campaign contributions; noncandidate committees.  A person who makes contributions or expenditures in an aggregate amount of $1,000 or more in a two-year election period to influence the nomination for election, the election of any candidate to political office, or for or against any issue on the ballot, shall register as a noncandidate committee.  For purposes of this section, "person" does not include an individual.
+     §11-    Late expenditures; report.  (a)  The authorized person that is a party or treasurer, in the case of a noncandidate committee, that makes expenditures aggregating more than $500 fourteen calendar days through four calendar days prior to any election shall file a late expenditures report by means of the commission's electronic filing system on or before the third calendar day prior to the election.
+     (b)  The late expenditures report shall include the information required in section 11-335(b)(2) and 11-335(b)(3).
+     (c)  A late expenditures report filed pursuant to this section shall be in addition to any other report required to be filed by this part."
+     SECTION 3.  Section 11-302, Hawaii Revised Statutes, is amended is amended by amending the definitions of "candidate committee", "expenditure", "noncandidate committee", and "treasurer" to read as follows:
+     ""Candidate committee" means an organization, association, person, or individual that receives campaign funds, makes expenditures, or incurs financial obligations on behalf of a candidate with the candidate's authorization.
+     "Expenditure" means:
+     (1)  Any purchase or transfer of money or anything of value, or promise or agreement to purchase or transfer money or anything of value, or payment incurred or made, or the use or consumption of a nonmonetary contribution for the purpose of:
+         (A)  Influencing the nomination for election, or the election, of any person seeking nomination for election or election to office, whether or not the person has filed the person's nomination papers;
+         (B)  Influencing the outcome of any question or issue that has been certified to appear on the ballot at the next applicable election; or
+         (C)  Use by any party for the purposes set out in subparagraph (A) or (B);
+     (2)  Any payment, by any person other than a candidate, candidate committee, or noncandidate committee, of compensation for the services of another person that are rendered to the candidate, candidate committee, or noncandidate committee for any of the purposes mentioned in paragraph (1)(A); provided that payment under this paragraph shall include provision of services without charge; or
+     (3)  The expenditure by a candidate of the candidate's own funds for the purposes set out in paragraph (1)(A).
+     "Expenditure" does not include:
+     (1)  Services voluntarily provided without compensation by individuals to or on behalf of a candidate, candidate committee, or noncandidate committee;
+     (2)  Voter registration efforts that are nonpartisan; or
+     (3)  An individual[, candidate committee, or noncandidate committee] engaging in internet activities for the purpose of influencing an election if:
+         (A)  The individual[, candidate committee, or noncandidate committee] is uncompensated for internet activities; or
+         (B)  The individual[, candidate committee, or noncandidate committee] uses equipment or services for uncompensated internet activities, regardless of who owns the equipment and services;
+          provided that the internet activity exclusion does not apply to any payment for an advertisement other than a nominal fee; the purchase or rental of an electronic address list made at the direction of a candidate committee or noncandidate committee; or an electronic mail address list that is transferred to a candidate committee or noncandidate committee.
+     "Noncandidate committee" means an organization, association, party, person, or individual that has the purpose of making or receiving contributions, making expenditures, or incurring financial obligations to influence the nomination for election, or the election, of any candidate to office, or for or against any question or issue on the ballot; provided that a noncandidate committee does not include:
+     (1)  A candidate committee;
+     (2)  Any individual making a contribution or making an expenditure of the individual's own funds or anything of value that the individual originally acquired for the individual's own use and not for the purpose of evading any provision of this part; or
+     (3)  Any organization that raises or expends funds for the sole purpose of producing and disseminating informational or educational communications that are not made to influence the outcome of an election, question, or issue on a ballot.
+     "Treasurer" means [a person] an individual appointed under section 11-324 and unless expressly indicated otherwise, includes deputy treasurers."
+     SECTION 4.  Section 11-335, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  Schedules filed with the reports shall include the following additional information:
+     (1)  The amount and date of deposit of each contribution and the name, address, occupation, and employer of each contributor making a contribution aggregating more than $100 during an election period, which was not previously reported; provided that if all the information is not on file, the contribution shall be returned to the contributor within thirty days of deposit;
+     (2)  The amount and date of each contribution made and the name and address of the candidate committee or noncandidate committee to which the contribution was made;
+    [(2)] (3)  All expenditures, including the name and address of each payee and the amount, date, and purpose of each expenditure.  Expenditures for consultants, advertising agencies and similar firms, credit card payments, salaries, and candidate reimbursements shall be itemized to permit a reasonable person to determine the ultimate intended recipient of the expenditure and its purpose; provided that the purpose of an independent expenditure shall include the name of the candidate or candidates that are supported or opposed by the expenditure and whether the expenditure supports or opposes the candidate or candidates;
+    [(3)] (4)  The amount, date of deposit, and description of other receipts and the name and address of the source of each of the other receipts;
+    [(4)] (5)  A description of each durable asset, the date of acquisition, value at the time of acquisition, and the name and address of the vendor or contributor of the asset; and
+    [(5)] (6)  The date of disposition of a durable asset, value at the time of disposition, method of disposition, and name and address of the person receiving the asset."
+     SECTION 5.  Section 11-336, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  The filing dates for preliminary reports are:
+     (1)  Ten calendar days prior to the first day that walk-in ballots are accepted for a primary, special, or nonpartisan election; and
+     (2)  Ten calendar days prior to the first day that walk-in ballots are accepted for a general election.
+Each preliminary report shall be current through the fifth calendar day prior to the filing of the report."
+     SECTION 6.  Section 11-341, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§11-341[]]  Electioneering communications; statement of information.  (a)  Each person who makes a disbursement for electioneering communications in an aggregate amount of more than $2,000 during any calendar year shall file with the commission a statement of information within twenty-four hours of each disclosure date provided in this section.
+     (b)  Each statement of information shall contain the following:
+     (1)  The name of the person making the disbursement, name of any person or entity sharing or exercising discretion or control over such person, and the custodian of the books and accounts of the person making the disbursement;
+     (2)  If the disbursement was made by a person other than an individual, the names and titles of the executives who authorized the disbursements or board of directors of the entity;
+    [(2)] (3)  The state of incorporation and principal place of [business] the entity or, for an individual, the name, address, occupation, and employer of the [person] individual making the disbursement;
+    [(3)] (4)  The amount of each disbursement during the period covered by the statement and the identification of the person to whom the disbursement was made;
+    [(4)] (5)  The elections to which the electioneering communications pertain and the names, if known, of the candidates identified or to be identified;
+    [(5)] (6)  If the disbursements were made by a candidate committee or noncandidate committee, the names and addresses of all persons who contributed to the candidate committee or noncandidate committee for the purpose of publishing or broadcasting the electioneering communications;
+    [(6)] (7)  If the [disbursements were] disbursement was made by an organization other than a candidate committee or noncandidate committee, the names and addresses the entities, and the names, addresses, occupations, and employers of all [persons] individuals who contributed to the organization for the purpose of publishing or broadcasting the electioneering communications[; and], or if the disbursement was made from the general treasury of the entity, the names and addresses of all  persons who contributed to the general treasury funds designated for use as a campaign contribution during the twelve months prior to making the disbursement; and
+    [(7)] (8)  Whether or not any electioneering communication is made in coordination, cooperation, or concert with or at the request or suggestion of any candidate, candidate committee, or noncandidate committee, or agent of any candidate if any, and if so, the identification of the candidate, a candidate committee or a noncandidate committee, or agent involved.
+     (c)  For purposes of this section:
+     "Disclosure date" means, for every calendar year, the first date by which a person has made disbursements during that same year of more than $2,000 in the aggregate for electioneering communications, and the date of any subsequent disbursements by that person for electioneering communications.
+     "Electioneering communication" means any advertisement that is broadcast from a cable, satellite, television, or radio broadcast station; published in any periodical or newspaper; or sent by mail at a bulk rate, and that:
+     (1)  Refers to a clearly identifiable candidate;
+     (2)  Is made, or scheduled to be made, either within thirty days prior to a primary or initial special election or within sixty days prior to a general or special election; and
+     (3)  Is not susceptible to any reasonable interpretation other than as an appeal to vote for or against a specific candidate.
+     "Electioneering communication" shall not include communications:
+     (1)  In a news story or editorial disseminated by any broadcast station or publisher of periodicals or newspapers, unless the facilities are owned or controlled by a candidate, candidate committee, or noncandidate committee;
+     (2)  That constitute expenditures by the disbursing organization;
+     (3)  In house bulletins; or
+     (4)  That constitute a candidate debate or forum, or solely promote a debate or forum and are made by or on behalf of the person sponsoring the debate or forum.
+     (d)  For purposes of this section, a person shall be treated as having made a disbursement if the person has executed a contract to make the disbursement.
+     (e)  All reports required to be filed under this section shall be filed on the commission's electronic filing system."
+     SECTION 7.  Section 11-332, Hawaii Revised Statutes, is repealed.
+     ["[§11-332]  Filing report by corporations.   (a)  A corporation shall file a report with the commission for contributions from its own treasury that aggregate more than $1,000 per two year election period made directly to a candidate or candidate committee; provided that this section shall not authorize contributions to a candidate or candidate committee where otherwise prohibited by this part.  The reporting shall be made pursuant to the time requirements contained in section 11-336 and section 11-338.
+     (b)   The filing shall include the name of the corporation, business address, a contact individual, and amounts contributed that are more than $100 to each candidate or candidate committee."]
+     SECTION 8.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 9.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Noncandidate Committees; Campaign Contributions; Expenditure Reports
+ 
+Description:
+Adds new requirements regarding noncandidate committee registration and requires noncandidate committees to file late expenditures reports under certain circumstances.  Requires noncandidate committees to make additional disclosures within their noncandidate committee reports.  Repeals section 11-332, relating to reporting by corporations.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+ont-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.New, li.New, div.New {mso-style-name:New; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Constitution, li.Constitution, div.Constitution {mso-style-name:Constitution; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.BillSectionNumber {mso-style-name:"Bill Section Number"; font-family:Courier;} p.Amend, li.Amend, div.Amend {mso-style-name:Amend; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.1ParagraphChar {mso-style-name:"\(1\)Paragraph Char"; mso-style-link:"\(1\)Paragraph"; font-family:"Courier New";} p.Repeal, li.Repeal, div.Repeal {mso-style-name:Repeal; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Ramseyer, li.Ramseyer, div.Ramseyer {mso-style-name:Ramseyer; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Effective, li.Effective, div.Effective {mso-style-name:Effective; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+872
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CAMPAIGNS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature recognizes that the State has a duty to its citizens to ensure that information concerning campaign contributions and expenditures is readily available to and easily accessible by the public.  Disclosure is even more important to the elections process in light of the dramatic changes in contributions policy reflected in recent court cases, such as Citizens United v. Federal Election Commission, 130 S.Ct. 876 (U.S. 2010).
+     In Hawaii, noncandidate committee reports and electioneering communication reports document independent campaign expenditures.  The purpose of this Act is to increase transparency by clarifying reporting requirements for election contributions and expenditures and to require all entities, except individuals, to register as noncandidate committees and to comply with established reporting requirements. 
+     SECTION 2.  Chapter 11, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§11-    Campaign contributions; noncandidate committees.  A person who makes contributions or expenditures in an aggregate amount of $1,000 or more in a two-year election period to influence the nomination for election, the election of any candidate to political office, or for or against any issue on the ballot, shall register as a noncandidate committee.  For purposes of this section, "person" does not include an individual.
+     §11-    Late expenditures; report.  (a)  The authorized person that is a party or treasurer, in the case of a noncandidate committee, that makes expenditures aggregating more than $500 fourteen calendar days through four calendar days prior to any election shall file a late expenditures report by means of the commission's electronic filing system on or before the third calendar day prior to the election.
+     (b)  The late expenditures report shall include the information required in section 11-335(b)(2) and 11-335(b)(3).
+     (c)  A late expenditures report filed pursuant to this section shall be in addition to any other report required to be filed by this part."
+     SECTION 3.  Section 11-302, Hawaii Revised Statutes, is amended is amended by amending the definitions of "candidate committee", "expenditure", "noncandidate committee", and "treasurer" to read as follows:
+     ""Candidate committee" means an organization, association, person, or individual that receives campaign funds, makes expenditures, or incurs financial obligations on behalf of a candidate with the candidate's authorization.
+     "Expenditure" means:
+     (1)  Any purchase or transfer of money or anything of value, or promise or agreement to purchase or transfer money or anything of value, or payment incurred or made, or the use or consumption of a nonmonetary contribution for the purpose of:
+         (A)  Influencing the nomination for election, or the election, of any person seeking nomination for election or election to office, whether or not the person has filed the person's nomination papers;
+         (B)  Influencing the outcome of any question or issue that has been certified to appear on the ballot at the next applicable election; or
+         (C)  Use by any party for the purposes set out in subparagraph (A) or (B);
+     (2)  Any payment, by any person other than a candidate, candidate committee, or noncandidate committee, of compensation for the services of another person that are rendered to the candidate, candidate committee, or noncandidate committee for any of the purposes mentioned in paragraph (1)(A); provided that payment under this paragraph shall include provision of services without charge; or
+     (3)  The expenditure by a candidate of the candidate's own funds for the purposes set out in paragraph (1)(A).
+     "Expenditure" does not include:
+     (1)  Services voluntarily provided without compensation by individuals to or on behalf of a candidate, candidate committee, or noncandidate committee;
+     (2)  Voter registration efforts that are nonpartisan; or
+     (3)  An individual[, candidate committee, or noncandidate committee] engaging in internet activities for the purpose of influencing an election if:
+         (A)  The individual[, candidate committee, or noncandidate committee] is uncompensated for internet activities; or
+         (B)  The individual[, candidate committee, or noncandidate committee] uses equipment or services for uncompensated internet activities, regardless of who owns the equipment and services;
+          provided that the internet activity exclusion does not apply to any payment for an advertisement other than a nominal fee; the purchase or rental of an electronic address list made at the direction of a candidate committee or noncandidate committee; or an electronic mail address list that is transferred to a candidate committee or noncandidate committee.
+     "Noncandidate committee" means an organization, association, party, person, or individual that has the purpose of making or receiving contributions, making expenditures, or incurring financial obligations to influence the nomination for election, or the election, of any candidate to office, or for or against any question or issue on the ballot; provided that a noncandidate committee does not include:
+     (1)  A candidate committee;
+     (2)  Any individual making a contribution or making an expenditure of the individual's own funds or anything of value that the individual originally acquired for the individual's own use and not for the purpose of evading any provision of this part; or
+     (3)  Any organization that raises or expends funds for the sole purpose of producing and disseminating informational or educational communications that are not made to influence the outcome of an election, question, or issue on a ballot.
+     "Treasurer" means [a person] an individual appointed under section 11-324 and unless expressly indicated otherwise, includes deputy treasurers."
+     SECTION 4.  Section 11-335, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  Schedules filed with the reports shall include the following additional information:
+     (1)  The amount and date of deposit of each contribution and the name, address, occupation, and employer of each contributor making a contribution aggregating more than $100 during an election period, which was not previously reported; provided that if all the information is not on file, the contribution shall be returned to the contributor within thirty days of deposit;
+     (2)  The amount and date of each contribution made and the name and address of the candidate committee or noncandidate committee to which the contribution was made;
+    [(2)] (3)  All expenditures, including the name and address of each payee and the amount, date, and purpose of each expenditure.  Expenditures for consultants, advertising agencies and similar firms, credit card payments, salaries, and candidate reimbursements shall be itemized to permit a reasonable person to determine the ultimate intended recipient of the expenditure and its purpose; provided that the purpose of an independent expenditure shall include the name of the candidate or candidates that are supported or opposed by the expenditure and whether the expenditure supports or opposes the candidate or candidates;
+    [(3)] (4)  The amount, date of deposit, and description of other receipts and the name and address of the source of each of the other receipts;
+    [(4)] (5)  A description of each durable asset, the date of acquisition, value at the time of acquisition, and the name and address of the vendor or contributor of the asset; and
+    [(5)] (6)  The date of disposition of a durable asset, value at the time of disposition, method of disposition, and name and address of the person receiving the asset."
+     SECTION 5.  Section 11-336, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  The filing dates for preliminary reports are:
+     (1)  Ten calendar days prior to the first day that walk-in ballots are accepted for a primary, special, or nonpartisan election; and
+     (2)  Ten calendar days prior to the first day that walk-in ballots are accepted for a general election.
+Each preliminary report shall be current through the fifth calendar day prior to the filing of the report."
+     SECTION 6.  Section 11-341, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§11-341[]]  Electioneering communications; statement of information.  (a)  Each person who makes a disbursement for electioneering communications in an aggregate amount of more than $2,000 during any calendar year shall file with the commission a statement of information within twenty-four hours of each disclosure date provided in this section.
+     (b)  Each statement of information shall contain the following:
+     (1)  The name of the person making the disbursement, name of any person or entity sharing or exercising discretion or control over such person, and the custodian of the books and accounts of the person making the disbursement;
+     (2)  If the disbursement was made by a person other than an individual, the names and titles of the executives who authorized the disbursements or board of directors of the entity;
+    [(2)] (3)  The state of incorporation and principal place of [business] the entity or, for an individual, the name, address, occupation, and employer of the [person] individual making the disbursement;
+    [(3)] (4)  The amount of each disbursement during the period covered by the statement and the identification of the person to whom the disbursement was made;
+    [(4)] (5)  The elections to which the electioneering communications pertain and the names, if known, of the candidates identified or to be identified;
+    [(5)] (6)  If the disbursements were made by a candidate committee or noncandidate committee, the names and addresses of all persons who contributed to the candidate committee or noncandidate committee for the purpose of publishing or broadcasting the electioneering communications;
+    [(6)] (7)  If the [disbursements were] disbursement was made by an organization other than a candidate committee or noncandidate committee, the names and addresses the entities, and the names, addresses, occupations, and employers of all [persons] individuals who contributed to the organization for the purpose of publishing or broadcasting the electioneering communications[; and], or if the disbursement was made from the general treasury of the entity, the names and addresses of all  persons who contributed to the general treasury funds designated for use as a campaign contribution during the twelve months prior to making the disbursement; and
+    [(7)] (8)  Whether or not any electioneering communication is made in coordination, cooperation, or concert with or at the request or suggestion of any candidate, candidate committee, or noncandidate committee, or agent of any candidate if any, and if so, the identification of the candidate, a candidate committee or a noncandidate committee, or agent involved.
+     (c)  For purposes of this section:
+     "Disclosure date" means, for every calendar year, the first date by which a person has made disbursements during that same year of more than $2,000 in the aggregate for electioneering communications, and the date of any subsequent disbursements by that person for electioneering communications.
+     "Electioneering communication" means any advertisement that is broadcast from a cable, satellite, television, or radio broadcast station; published in any periodical or newspaper; or sent by mail at a bulk rate, and that:
+     (1)  Refers to a clearly identifiable candidate;
+     (2)  Is made, or scheduled to be made, either within thirty days prior to a primary or initial special election or within sixty days prior to a general or special election; and
+     (3)  Is not susceptible to any reasonable interpretation other than as an appeal to vote for or against a specific candidate.
+     "Electioneering communication" shall not include communications:
+     (1)  In a news story or editorial disseminated by any broadcast station or publisher of periodicals or newspapers, unless the facilities are owned or controlled by a candidate, candidate committee, or noncandidate committee;
+     (2)  That constitute expenditures by the disbursing organization;
+     (3)  In house bulletins; or
+     (4)  That constitute a candidate debate or forum, or solely promote a debate or forum and are made by or on behalf of the person sponsoring the debate or forum.
+     (d)  For purposes of this section, a person shall be treated as having made a disbursement if the person has executed a contract to make the disbursement.
+     (e)  All reports required to be filed under this section shall be filed on the commission's electronic filing system."
+     SECTION 7.  Section 11-332, Hawaii Revised Statutes, is repealed.
+     ["[§11-332]  Filing report by corporations.   (a)  A corporation shall file a report with the commission for contributions from its own treasury that aggregate more than $1,000 per two year election period made directly to a candidate or candidate committee; provided that this section shall not authorize contributions to a candidate or candidate committee where otherwise prohibited by this part.  The reporting shall be made pursuant to the time requirements contained in section 11-336 and section 11-338.
+     (b)   The filing shall include the name of the corporation, business address, a contact individual, and amounts contributed that are more than $100 to each candidate or candidate committee."]
+     SECTION 8.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 9.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Noncandidate Committees; Campaign Contributions; Expenditure Reports
+ 
+Description:
+Adds new requirements regarding noncandidate committee registration and requires noncandidate committees to file late expenditures reports under certain circumstances.  Requires noncandidate committees to make additional disclosures within their noncandidate committee reports.  Repeals section 11-332, relating to reporting by corporations.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

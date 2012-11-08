@@ -1,0 +1,71 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1090
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CHAPTER 243, HAWAII REVISED STATUTES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The purpose of this Act is to make technical amendments relating to the administration of the fuel tax.  First, this Act clarifies existing law that makes fuel tax information public by specifying that the entire fuel tax return is a public record available for public inspection.  Second, this Act clarifies the statute of limitations for the assessment or refund of environmental response, energy, and food security tax.
+     SECTION 2.  Section 243-3.5, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  Each distributor subject to the tax imposed by subsection (a), on or before the last day of each calendar month, shall file with the director, on forms prescribed, prepared, and furnished by the director, a return [statement] of the tax under this section for which the distributor is liable for the preceding month.  The form and payment of the tax shall be transmitted to the department of taxation in the appropriate district.  Returns filed under this section are public records."
+     SECTION 3.  Section 243-10, Hawaii Revised Statutes, is amended to read as follows:
+     "§243-10  [Statements] Returns and payments.  Each distributor and each person subject to section 243-4(b), on or before the twentieth day of each calendar month, shall file with the director of taxation, on forms prescribed, prepared, and furnished by the director, a [statement,] return, authenticated as provided in section 231-15, [showing] reporting separately for each county and for the island of Lanai and the island of Molokai within which and whereon fuel is sold or used during each preceding month of the calendar year, the following:
+     (1)  The total number of gallons of fuel refined, manufactured, or compounded by the distributor or person within the State and sold or used by the distributor or person, and if for ultimate use in another county or on either island, the name of that county or island;
+     (2)  The total number of gallons of fuel acquired by the distributor or person during the month from persons not subject to the tax on the transaction or only subject to tax thereon at the rate of 1 cent per gallon, as the case may be, and sold or used by the distributor or person, and if for ultimate use in another county or on either island, the name of that county or island;
+     (3)  The total number of gallons of fuel sold by the distributor or person to the United States or any department or agency thereof, or to any other person or entity, or used in any manner, the effect of which sale or use is to exempt the fuel from the tax imposed by this chapter;
+     (4)  Additional information relative to the acquisition, purchase, manufacture, or importation into the State, and the sale, use, or other disposition, of diesel oil by the distributor or person during the month, as the department of taxation by rule shall prescribe.
+     At the time of submitting the foregoing report to the department, each distributor and person shall pay the tax on each gallon of fuel (including diesel oil) sold or used by the distributor or person in each county and on the island of Lanai and the island of Molokai during the preceding month, as shown by the [statement] return and required by this chapter; provided that the tax shall not apply to any fuel exempted and so long as the same is exempted from the imposition of the tax by the Constitution or laws of the United States; and the tax shall be paid only once upon the same fuel; provided further that a licensed distributor shall be entitled, in computing the tax the licensed distributor is required to pay, to deduct from the gallons of fuel reported for the month for each county or for the island of Lanai or the island of Molokai, as the case may be, one gallon for each ninety-nine gallons of like liquid fuel sold by retail dealers in that county or on that island during the month, as shown by certificates furnished by the retail dealers to the distributor and attached to the distributor's [report.] return.  All taxes payable for any month shall be delinquent after the expiration of the twentieth day of the following month.
+     [Statements] Returns, including attachments thereto, filed under this section [concerning the number of gallons of fuel refined, manufactured, compounded, imported, sold or used by the distributor or person] are public records."
+     SECTION 4.  Section 243-11, Hawaii Revised Statutes, is amended to read as follows:
+     "§243-11  Failure to make and file [statements] returns and making false statement unlawful.  It shall be unlawful for any distributor, or any other person, to fail, neglect, or refuse to make and file any [statement] return required by this chapter in the manner or within the time therein provided or to make any [such] return or statement which is false in any particular."
+     SECTION 5.  Section 243-12, Hawaii Revised Statutes, is amended to read as follows:
+     "§243-12  Procedure upon failure to file [statement;] return; penalties.  If any distributor or other person fails, neglects, or refuses to file any [statement] return or report as herein provided, the director of taxation, immediately after the required time for such filing has expired, may proceed to inform oneself as best the director may regarding the matters and things required to be set forth in such [statement] return and from such information as the director is able to obtain shall:
+     (1)  Make a [statement] return showing such matters and things; and
+     (2)  Determine and fix the amount of [license] tax due from the distributor or other person for such month, and proceed to collect the amount of the [license] tax with penalties and interest added thereto pursuant to section 231-39.
+     Upon request of the director, the attorney general (or the attorney general's deputies, including the county attorneys and public prosecutor) shall commence and prosecute to final determination in any court of competent jurisdiction an action at law to collect any tax herein imposed which is delinquent and all penalties and interest accrued, or any other appropriate action at law or otherwise to enforce this chapter."
+     SECTION 6.  Section 243-14, Hawaii Revised Statutes, is amended by amending subsections (b) and (c) to read as follows:
+     "(b)  The amount of [license] taxes imposed by this chapter shall be assessed or levied, or the overpayment, if any, shall be credited within three years after filing of the monthly [statement,] return, or within three years of the due date prescribed for the filing of the [statement,] return, whichever is later.  No proceeding in court without assessment for the collection of the taxes or the enforcement of the liability shall begin after the expiration of the three-year period.  Where the assessment of the tax imposed by this chapter has been made within the period of limitation applicable thereto, the tax may be collected by levy or by a proceeding in court under chapter 231; provided that the levy is made or the proceeding was begun within fifteen years after the assessment of the tax.  For any tax that has been assessed prior to July 1, 2009, the levy or proceeding shall be barred after June 30, 2024.
+     Notwithstanding any other provision to the contrary in this section, the limitation on collection after assessment in this section shall be suspended for the period:
+     (1)  The taxpayer agrees to suspend the period;
+     (2)  The assets of the taxpayer are in control or custody of a court in any proceeding before any court of the United States or any state, and for six months thereafter;
+     (3)  An offer in compromise under section 231-3(10) is pending; and
+     (4)  During which the taxpayer is outside the State if the period of absence is for a continuous period of at least six months; provided that if at the time of the taxpayer's return to the State the period of limitations on collection after assessment would expire before the expiration of six months from the date of the taxpayer's return, the period shall not expire before the expiration of the six months.
+As to all tax payments for which a refund or credit is not authorized by this section (including, without prejudice to the generality of the foregoing, cases of unconstitutionality), the remedies provided by appeal or by section 40-35 are exclusive.
+     (c)  In the case of a false or fraudulent [statement] return with intent to evade tax or liability, or of a failure to file a [statement,] return, the tax or liability may be assessed or levied at any time; provided that the burden of proof with respect to the issues of falsity or fraud and intent to evade tax shall be upon the State."
+     SECTION 7.  Section 243-16, Hawaii Revised Statutes, is amended to read as follows:
+     "§243-16  Rules and regulations.  Subject to chapter 91, the director of taxation shall have power to make rules and regulations relating to matters of procedure in the administration of this chapter and the manner and forms of records to be kept by distributors, and to prescribe standard forms of [statements] returns to be filed by distributors or other persons, affidavits, and any other statements or other written data required to be filed or furnished under this chapter.  The rules and regulations shall have the force and effect of law."
+     SECTION 8.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+ 
+ 
+     SECTION 9.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Tax Administration; Fuel Tax
+ 
+Description:
+Amends the fuel tax law to clarify that the entire fuel tax return is a public record available for public inspection; clarifies the statute of limitations for the assessment or refund of the environmental response, energy, and food security tax.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,56 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+678
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO INFORMATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+SECTION 1.  Chapter 487N, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§487N-    Duty to pay for credit monitoring reports.  (a)  Any business or government agency responsible for a security breach that may result in a crime being committed under section 708-839.6, 708-839.7, or 708-839.8 shall be liable for the costs of providing each person whose personal information was disclosed with, at a minimum, a three year subscription to a credit reporting agency's services.
+     (b)  No later than seven calendar days after a business or government agency provides notice of the security breach, the business or government agency responsible for the security breach shall provide each person with a choice of not less than two credit reporting agencies from which the person may select to subscribe.  The person, if the person so chooses, shall select a credit reporting agency and the credit monitoring and reporting services that the person requires and shall inform the responsible business or government agency of the person's selection.  If a person elects not to subscribe to any credit monitoring and reporting services offered by a credit reporting agency, the person shall notify the responsible business or government agency in writing of the person's choice to not subscribe to any credit monitoring or reporting services.  The business or government agency responsible for the security breach shall keep a record of each person's credit monitoring and reporting services selection, or election to not subscribe to those services, for at least five years after the receipt by the business or government agency of a person's selection or election under this subsection.
+     (c)  The responsible business or government agency shall enroll the person into the credit monitoring and reporting plan of the person's choice within seven calendar days of receipt of the person's selection made under subsection (b) and shall pay all costs associated with the three year subscription to the selected credit reporting agency's services.
+     (d)  The office of consumer protection may adopt rules in accordance with chapter 91 to effectuate this section."
+     SECTION 2.  Section 487N-1, Hawaii Revised Statutes, is amended as follows:
+     1.  By adding a new definition to be appropriately inserted and to read:
+     ""Credit reporting agency" means a nationwide consumer credit reporting agency, such as Equifax, Experian, or TransUnion, or any successor entity thereof, that provides consumer credit monitoring and reporting services."
+     2.  By amending the definition of "security breach" to read:
+     ""Security breach" [means an]:
+     (1)  Means:
+         (A)  An incident of unauthorized access to and acquisition of unencrypted or unredacted records or data containing personal information where illegal use of the personal information has occurred, or is reasonably likely to occur and that creates a risk of harm to a person[.];
+         (B)  Any incident of unauthorized access to and acquisition of encrypted records or data containing personal information along with the confidential process or key constitutes a security breach[.  Good]; and
+         (C)  Any incident of inadvertent, unauthorized disclosure of unencrypted or unredacted records or data containing personal information constitutes a security breach.
+     (2)  Does not include good faith acquisition of personal information by an employee or agent of the business for a legitimate purpose is not a security breach; provided that the personal information is not used for a purpose other than a lawful purpose of the business and is not subject to further unauthorized disclosure."
+     SECTION 3.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 4.  New statutory material is underscored.
+SECTION 5.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+ 
+Report Title:
+Personal Information; Unauthorized Disclosure; Remedy
+ 
+Description:
+Requires a business or government agency responsible for the inadvertent, unauthorized disclosure of personal information to pay for the person's access to credit reports for at least three years.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

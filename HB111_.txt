@@ -1,0 +1,60 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+111
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MEDICAL TORTS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 671, part II, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§671-     Sanctions for failing to prevail in subsequent litigation.  (a)  After the verdict or the court's decision in subsequent litigation under section 671-16, the court may impose sanctions against the nonprevailing party whose rejection of the medical claim conciliation panel's decision resulted in the subsequent litigation.  A party's rejection of the panel's decision shall be deemed to have resulted in the subsequent litigation regardless of whether both parties rejected the decision.
+     (b)  The sanctions available to the court are as follows:
+     (1)  Attorneys' fees not to exceed $15,000;
+     (2)  Reasonable costs and fees, other than attorneys' fees, actually incurred by the prevailing party but not otherwise taxable under the law, including expert witness fees, travel costs, and deposition costs; and
+     (3)  Amounts paid to jurors for their service in the proceedings.
+     (c)  Sanctions imposed against a plaintiff shall be deducted from any judgment rendered at trial.  If the plaintiff does not receive a judgment in the plaintiff's favor, or the judgment is insufficient to pay the sanctions, the plaintiff shall pay the amount of the deficiency.  Sanctions imposed against a defendant shall be added to any judgment rendered at trial.
+     (d)  In determining sanctions, if any, the court shall consider all the facts and circumstances of the case and the intent and purpose of this part."
+     SECTION 2.  Section 671-1, Hawaii Revised Statutes, is amended to read as follows:
+     "§671-1  Definitions.  As used in this chapter[:], unless the context otherwise requires;
+     "Health care provider" means a physician, osteopathic physician, surgeon, or physician assistant licensed under chapter 453, a podiatrist licensed under chapter 463E, a health care facility as defined in section 323D-2, and the employees of any of them.  Health care provider shall not mean any nursing institution or nursing service conducted by and for those who rely upon treatment by spiritual means through prayer alone, or employees of the institution or service.
+     "Medical tort" means professional negligence, the rendering of professional service without informed consent, or an error or omission in professional practice, by a health care provider, which proximately causes death, injury, or other damage to a patient.
+     "Nonprevailing party" means the party to a medical claim conciliation panel hearing who, in subsequent litigation under section 671-16 resulting from a rejection of the panel's decision, is:
+     (1)  The plaintiff, if the judgment, exclusive of any punitive damages, does not increase the panel's award by thirty per cent or more; or
+     (2)  The defendant, if the judgment, exclusive of any punitive damages, increases the panel's award by thirty per cent or more.
+     "Panel" means the medical claim conciliation panel."
+     SECTION 3.  Section 671-16, Hawaii Revised Statutes, is amended to read as follows:
+     "§671-16  Subsequent litigation; excluded evidence.  The claimant may institute litigation based upon the claim in an appropriate court only after a party to a medical claim conciliation panel hearing rejects the decision of the panel, or after the twelve-month period under section 671-18 has expired.  A party's rejection of the panel's decision shall be recorded with the panel before litigation may be instituted.
+     No statement made in the course of the hearing of the medical claim conciliation panel shall be admissible in evidence either as an admission, to impeach the credibility of a witness, or for any other purpose in any trial of the action; provided that such statements may be admissible for the [purpose] purposes of [section] sections 671-19[, hereof.] and 671-   .  No decision, conclusion, finding, or recommendation of the medical claim conciliation panel on the issue of liability or on the issue of damages shall be admitted into evidence in any subsequent trial, nor shall any party to the medical claim conciliation panel hearing, or the counsel or other representative of such party, refer or comment thereon in an opening statement, an argument, or at any other time, to the court or jury; provided that such decision, conclusion, finding, or recommendation may be admissible for the [purpose] purposes of [section] sections 671-19[, hereof.] and 671-   ."
+     SECTION 4.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+ 
+Report Title:
+Medical Torts; Medical Claim Conciliation Panel
+ 
+Description:
+Authorizes courts in medical tort litigation to impose sanctions on a nonprevailing party whose rejection of the medical claim conciliation panel's decision resulted in the subsequent litigation.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

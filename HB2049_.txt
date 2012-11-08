@@ -1,0 +1,68 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2049
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO HOUSING.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that the process of evicting tenants from public housing is an extended process, often taking up to eight months, and that processing grievances for evictions delays the process even further.  The legislature also finds that despite a minimum rent ranging from $0 to $150 per month, there is approximately $800,000 in uncollected rent for the Hawaii public housing authority, and the protracted eviction time can lead to an increase in vandalism and damage to housing units.
+     SECTION 2.  Section 356D-92, Hawaii Revised Statutes, is amended to read as follows:
+     "§356D-92  Termination and eviction.  (a)  Except as otherwise provided, the authority may terminate any lease, rental agreement, permit, or license covering the use and occupation of any dwelling unit or other premises located within a public housing project and evict from any premises any tenant, licensee, or other occupant for any of the following reasons:
+     (1)  Failure to pay rent when due;
+     (2)  Violation of any of the provisions of a lease, rental agreement, permit, or license;
+     (3)  Violation of any of the rules of the authority;
+     (4)  Failure to maintain the dwelling unit in a clean, sanitary, and habitable condition; or
+     (5)  The existence of any other circumstances giving rise to an immediate right to possession by the authority.
+     (b)  When any tenant has been delinquent in payment of rent, the authority, either directly or through its managing agent, shall provide the tenant with a written notice [no later than forty-five days from the date of delinquency] in accordance with requirements imposed under federal law that shall inform the tenant of the delinquency [and schedule a meeting between the tenant and the authority or its agent.  The written notice shall:
+     (1)  Inform the tenant that continued delinquency shall result in the tenant's eviction;
+     (2)  Inform the tenant of the tenant's right to apply for an interim adjustment in rent;
+     (3)  Explain to the tenant the steps of the grievance and eviction processes and how the processes protect the tenant;
+     (4)  Provide the tenant with a sample letter for demanding a grievance hearing;
+     (5)  Set forth the location, date, and time, which shall be no earlier than fourteen days from the date of the written notice, at which the tenant may meet with the authority or its agent to discuss the delinquency in rent; and
+     (6)  Inform the tenant that the tenant shall either attend the meeting or, if applicable, contact the authority or the authority's agent before the meeting time to reschedule the meeting.
+     (c)  At the meeting described in subsection (b), the authority or its agent shall:
+     (1)  Inquire into the cause of the tenant's delinquency and offer suggestions, if any, that the authority may feel appropriate to address the causes of delinquency;
+     (2)  Consider whether a reasonable payment plan is appropriate for the tenant's situation and, if appropriate, offer a payment plan to the tenant; and
+     (3)  Inform the tenant of and explain the issues as required under subsection (b)(1), (2), and (3).
+     (d)  The authority shall develop a checklist outlining all of the requirements listed in subsection (c).  The authority or its agent and the tenant shall complete, sign, and date the checklist to memorialize the meeting.
+     (e)  If the tenant fails to attend or reschedule the meeting provided for in subsection (b), the authority shall provide the tenant with a second written notice.  The notice shall inform the tenant that:
+     (1)  The authority shall proceed to terminate the tenant's tenancy because of the tenant's outstanding rent delinquency and the tenant's failure to respond to the authority's written notice issued pursuant to subsection (b);
+     (2)  The tenant has ten business days from receipt of the second written notice to request a grievance hearing; and
+     (3)  If the tenant fails to request a grievance hearing within ten business days, the authority has the right to proceed with the eviction hearing pursuant to section 356D-93.
+     (f)  If the tenant meets with the authority as provided for in subsection (b), the authority shall decide, based upon the facts discussed at the meeting, what action is appropriate to address the tenant’s case.  The authority shall notify the tenant of its decision in writing.  If the authority decides to proceed with an action to terminate the tenancy, the authority shall further inform the tenant in the same written notice that:
+     (1)  The tenant has ten business days from receipt of this notice to request a grievance hearing; and
+     (2)  If the tenant fails to request a grievance hearing within ten business days, the authority has the right to proceed with the eviction hearing pursuant to section 356D-93]."
+     SECTION 3.  Section 356D-93, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  Hearings shall be conducted by an eviction board appointed by the authority.  [The eviction board shall consist of not fewer than three persons, of which one member shall be a tenant.]  At least one eviction board shall be [established] appointed in each county of the State.  The findings, conclusions, decision, and order of the eviction board shall be final unless an appeal is taken as hereinafter provided."
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+ 
+Report Title:
+Public Housing; Evictions
+ 
+Description:
+Conforms public housing eviction procedure to requirements of federal law.  Requires evictions to be conducted by an eviction board appointed by the Hawaii public housing authority in collaboration with DHS.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

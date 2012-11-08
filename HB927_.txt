@@ -1,0 +1,93 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+927
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO ROADWAY MATERIALS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 103D-407, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  When purchasing roadway materials or other high‑value, end-use applications for public projects, state agencies [shall,] may, and county agencies may, purchase materials with minimum recycled glass content meeting specifications adopted by the policy board which, at a minimum, shall provide for:
+     (1)  A minimum recycled glass content of ten per cent crushed aggregate in treated or untreated basecourse in paving materials that shall not reduce the quality standards for highway and road construction; and
+     (2)  The use of one hundred per cent aggregate in nonstructural capital improvement applications.
+     (b)  All highway and road construction and improvement projects funded by the State or a county or roadways that are to be accepted by the State or a county as public roads [shall] may utilize a minimum of ten per cent crushed glass aggregate as specified by the department of transportation in all basecourse (treated or untreated) and subbase when the glass is available to the quarry or contractor at a price no greater than that of the equivalent aggregate."
+     SECTION 2.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 3.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Roadway Materials; Recycled Glass Content Requirements
+ 
+ 
+Description:
+Clarifies that state agencies may purchase roadway materials with a minimum recycled glass content.  Allows use of minimum glass of ten per cent crushed glass aggregate in all basecourse and subbase.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+, li.ExtraSig, div.ExtraSig {mso-style-name:"Extra Sig"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:243.0pt; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; mso-style-link:"\#Regular Paragraphs Char"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.New, li.New, div.New {mso-style-name:New; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.BillSectionNumber {mso-style-name:"Bill Section Number"; font-family:Courier;} p.Amend, li.Amend, div.Amend {mso-style-name:Amend; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.XNotesHeading, li.XNotesHeading, div.XNotesHeading {mso-style-name:XNotesHeading; margin:0in; margin-bottom:.0001pt; text-align:center; font-size:12.0pt; font-family:"Courier New"; font-weight:bold;} p.XNotes, li.XNotes, div.XNotes {mso-style-name:XNotes; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:Courier;} span.RegularParagraphsChar {mso-style-name:"\#Regular Paragraphs Char"; mso-style-link:"\#Regular Paragraphs"; font-family:"Courier New";} p.Repeal, li.Repeal, div.Repeal {mso-style-name:Repeal; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Ramseyer, li.Ramseyer, div.Ramseyer {mso-style-name:Ramseyer; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Effective, li.Effective, div.Effective {mso-style-name:Effective; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.BalloonTextChar {mso-style-name:"Balloon Text Char"; mso-style-link:"Balloon Text"; font-family:"Tahoma","sans-serif";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+927
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO ROADWAY MATERIALS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 103D-407, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  When purchasing roadway materials or other high‑value, end-use applications for public projects, state agencies [shall,] may, and county agencies may, purchase materials with minimum recycled glass content meeting specifications adopted by the policy board which, at a minimum, shall provide for:
+     (1)  A minimum recycled glass content of ten per cent crushed aggregate in treated or untreated basecourse in paving materials that shall not reduce the quality standards for highway and road construction; and
+     (2)  The use of one hundred per cent aggregate in nonstructural capital improvement applications.
+     (b)  All highway and road construction and improvement projects funded by the State or a county or roadways that are to be accepted by the State or a county as public roads [shall] may utilize a minimum of ten per cent crushed glass aggregate as specified by the department of transportation in all basecourse (treated or untreated) and subbase when the glass is available to the quarry or contractor at a price no greater than that of the equivalent aggregate."
+     SECTION 2.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 3.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Roadway Materials; Recycled Glass Content Requirements
+ 
+ 
+Description:
+Clarifies that state agencies may purchase roadway materials with a minimum recycled glass content.  Allows use of minimum glass of ten per cent crushed glass aggregate in all basecourse and subbase.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

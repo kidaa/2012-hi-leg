@@ -1,0 +1,89 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2458
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CONVERSIONS BY NONPROFIT CORPORATIONS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 414D-207, Hawaii Revised Statutes, is repealed.
+     ["§414D-207  Conversions into and from corporations.  (a)  A domestic corporation may adopt a plan of conversion and convert to a foreign corporation or any other business entity if:
+     (1)  The board of directors and members of the domestic corporation approve a plan of conversion in the manner prescribed by section 414D-202 and if the conversion is treated as a merger to which the converting entity is a party and not the surviving entity;
+     (2)  The conversion is permitted by and complies with the laws of the state or country in which the converted entity is to be incorporated, formed, or organized; and the incorporation, formation, or organization of the converted entity complies with those laws;
+     (3)  At the time the conversion becomes effective, each member of the converting entity, unless otherwise agreed to by the member or directors, owns an equity interest or other ownership interest in, and is a shareholder, partner, member, or other owner of, the converted entity;
+     (4)  The members of the domestic corporation, as a result of the conversion, shall not become personally liable without the members' consent, for the liabilities or obligations of the converted entity; and
+     (5)  The converted entity is incorporated, formed, or organized as part of or pursuant to the plan of conversion.
+     (b)  Any foreign corporation or other business entity may adopt a plan of conversion and convert to a domestic corporation if the conversion is permitted by and complies with the laws of the state or country in which the foreign corporation or other business entity is incorporated, formed, or organized.
+     (c)  A plan of conversion shall set forth:
+     (1)  The name of the converting entity and the converted entity;
+     (2)  A statement that the converting entity is continuing its existence in the organizational form of the converted entity;
+     (3)  A statement describing the organizational form of the converted entity and the state or country under the laws of which the converted entity is to be incorporated, formed, or organized; and
+     (4)  The manner and basis of converting the shares or other forms of ownership, of the converting entity into shares or other forms of ownership, of the converted entity, or any combination thereof.
+     (d)  A plan of conversion may set forth any other provisions relating to the conversion that are not prohibited by law, including without limitation the initial bylaws and officers of the converted entity.
+     (e)  After the conversion of a domestic corporation is approved, and at any time before the conversion becomes effective, the plan of conversion may be abandoned by the domestic corporation in accordance with the procedures set forth in the plan of conversion or, if these procedures are not provided in the plan, in the manner determined by the board of directors.  If articles of conversion have been filed with the department director but the conversion has not become effective, the conversion may be abandoned if a statement, executed on behalf of the converting entity by an officer or other duly authorized representative and stating that the plan of conversion has been abandoned in accordance with applicable law, is filed with the department director prior to the effective date of the conversion.  If the department director finds that the statement satisfies the requirements provided by law, the department director, after all fees have been paid, shall:
+     (1)  Stamp the statement and include the date of the filing;
+     (2)  File the document in the department director's office; and
+     (3)  Issue a certificate of abandonment to the converting entity or its authorized representatives.
+     (f)  Once the statement provided in subsection (e) is filed with the department director, the conversion shall be deemed abandoned and shall not be effective."]
+     SECTION 2.  Section 414D-208, Hawaii Revised Statutes, is repealed.
+     ["§414D-208  Articles of conversion.  (a)  If a plan of conversion has been approved in accordance with section 414D‑202 and has not been abandoned, articles of conversion shall be executed by an officer or other duly authorized representative of the converting entity and shall set forth:
+     (1)  A statement certifying the following:
+         (A)  The name, form of entity, and state or country of incorporation, formation, or organization of the converting and converted entities;
+         (B)  That a plan of conversion has been approved;
+         (C)  That an executed plan of conversion is on file at the principal place of business of the converting entity and stating the address thereof; and
+         (D)  That a copy of the plan of conversion shall be furnished by the converting entity prior to the conversion or by the converted entity after the conversion on written request and without cost, to any member or director, as the case may be, of the converting entity or the converted entity; and
+     (2)  If the converting entity is a domestic or foreign corporation or other entity, a statement that the approval of the plan of conversion was duly authorized and complied with the laws under which it was incorporated, formed, or organized.
+     (b)  The articles of conversion shall be delivered to the department director.  The converted entity, if a domestic corporation, domestic professional corporation, domestic nonprofit corporation, domestic general partnership, domestic limited partnership, or domestic limited liability company shall attach a copy of its respective registration documents with the articles of conversion.
+     (c)  If the department director finds that the articles of conversion satisfy the requirements provided by law, and that all required documents are filed, the department director, after all fees have been paid shall:
+     (1)  Stamp the articles of conversion and include the date of the filing;
+     (2)  File the document in the department director's office; and
+     (3)  Issue a certificate of conversion to the converted entity or its authorized representatives."]
+     SECTION 3.  Section 414D-210, Hawaii Revised Statutes, is repealed.
+["§414D-210  Effect of conversion.  When a conversion becomes effective:
+     (1)  The converting entity shall continue to exist without interruption, but in the organizational form of the converted entity;
+     (2)  All rights, title, and interest in all real estate and other property owned by the converting entity shall automatically be owned by the converted entity without reversion or impairment, subject to any existing liens or other encumbrances;
+     (3)  All liabilities and obligations of the converting entity shall automatically be liabilities and obligations of the converted entity without impairment or diminution due to the conversion;
+     (4)  The rights of creditors of the converting entity shall continue against the converted entity and shall not be impaired or extinguished by the conversion;
+     (5)  Any action or proceeding pending by or against the converting entity may be continued by or against the converted entity without any need for substitution of parties;
+     (6)  The shares and other forms of ownership in the converting entity that are to be converted into shares, or other forms of ownership, in the converted entity as provided in the plan of conversion shall be converted;
+     (7)  A shareholder, partner, member, or other owner of the converted entity shall be liable for the debts and obligations of the converting entity that existed before the conversion takes effect; provided that the shareholder, partner, member, or other owner:
+         (A)  Agreed in writing to be liable for the debts or obligations;
+         (B)  Was liable under applicable law prior to the effective date of the conversion for the debts or obligations; or
+         (C)  Becomes liable under applicable law for existing debts and obligations of the converted entity by becoming a shareholder, partner, member, or other owner of the converted entity.
+     (8)  If the converted entity is a foreign corporation or other business entity incorporated, formed, or organized under a law other than the law of this State, the converted entity shall file with the director:
+         (A)  An agreement that the converted entity may be served with process in this State in any action or proceeding for the enforcement of any liability or obligation of the converting domestic corporation;
+         (B)  An irrevocable appointment of a resident of this State, including the street address, as its agent to accept service of process in any such proceeding; and
+         (C)  An agreement for the enforcement, as provided in this chapter, of the right of any dissenting shareholder, partner, member, or other owner to receive payment for their interest against the converted entity."]
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.
+SECTION 5.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Nonprofit Corporations; Conversions
+ 
+Description:
+Repeals provisions regarding conversions by nonprofit corporations.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,119 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2582
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO APPEALS TO THE APPELLATE BOARD.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 371, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§371-     Labor and industrial relations appeals board special fund.  (a)  There is established in the state treasury the labor and industrial relations appeals board special fund, into which shall be deposited:
+     (1)  All moneys collected by the labor and industrial relations appeals board pursuant to section 386-87; and
+     (2)  All interest accrued by the revenues of the fund.
+     (b)  The fund shall be administered by the labor and industrial relations appeals board.
+     (c)  Moneys in the labor and industrial relations appeals board special fund shall be used by the labor and industrial relations appeals board for operating costs, as defined in section 37-62, incurred in the administration of chapters 91, 371, and 386, including but not limited to language interpreting services and electronic document management.
+     (d)  The labor and industrial relations appeals board shall submit a report to the legislature detailing all funds received and all moneys disbursed out of the fund prior to the convening of each regular session."
+     SECTION 2.  Section 386-87, Hawaii Revised Statutes, is amended to read as follows:
+     "§386-87  Appeals to appellate board.  (a)  A decision of the director shall be final and conclusive between the parties, except as provided in section 386-89, unless within twenty days after a copy has been sent to each party, either party appeals therefrom to the appellate board by filing a written notice of appeal with the appellate board or the department.  In all cases of appeal filed with the department the appellate board shall be notified of the pendency thereof by the director.  No compromise shall be effected in the appeal except in compliance with section 386-78.
+     (b)  The appellate board shall hold a full hearing de novo on the appeal.
+     (c)  The appellate board shall have power to review the findings of fact, conclusions of law and exercise of discretion by the director in hearing, determining or otherwise handling of any compensation case and may affirm, reverse or modify any compensation case upon review, or remand the case to the director for further proceedings and action.
+     (d)  In the absence of an appeal and within thirty days after mailing of a certified copy of the appellate board's decision or order, the appellate board may, upon the application of the director or any other party, or upon its own motion, reopen the matter and thereupon may take further evidence or may modify its findings, conclusions or decisions.  The time to initiate judicial review shall run from the date of mailing of the further decision if the matter has been reopened.  If the application for reopening is denied, the time to initiate judicial review shall run from the date of mailing of the denial decision.
+     (e)  The appellate board may establish reasonable fees for the filing of a written notice of appeal with the Director or to the appellate board pursuant to this section and other administrative costs associated with the processing of appeals.
+     The fees and costs prescribed under this subsection shall be paid in advance to the chief clerk of the appellate board.  Any fees and costs collected shall be deposited with the director of finance to the credit of the labor and industrial relations appeals board special fund established under section 371-    .
+     The appellate board may waive the payment of fees and costs for good cause shown.
+     Neither the State nor any county or any political subdivision shall be required to pay any fees or costs prescribed under this subsection."
+     SECTION 3.  There is appropriated out of the labor and industrial relations appeals board special fund a sum not to exceed $10,000 or so much thereof as may be necessary for fiscal year 2012–2013 for operating costs incurred in the administration of chapters 91, 371, and 386.
+     SECTION 4.  The sum appropriated shall be expended by the department of labor and industrial relations for the purposes of this Act.
+     SECTION 5.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Labor and Industrial Relations Appeals Board
+ 
+Description:
+Authorizes the Labor and Industrial Relations Appeals Board to establish reasonable fees for the filing of appeals and other administrative costs associated with the processing of appeals and to establish a Labor and Industrial Relations Appeals Board Special Fund.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+ragraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.New, li.New, div.New {mso-style-name:New; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Constitution, li.Constitution, div.Constitution {mso-style-name:Constitution; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.PCa, li.PCa, div.PCa {mso-style-name:"PC\(a\)"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Misc, li.Misc, div.Misc {mso-style-name:"Misc\."; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} /* List Definitions */ ol {margin-bottom:0in;} ul {margin-bottom:0in;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2582
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO APPEALS TO THE APPELLATE BOARD.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 371, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§371-     Labor and industrial relations appeals board special fund.  (a)  There is established in the state treasury the labor and industrial relations appeals board special fund, into which shall be deposited:
+     (1)  All moneys collected by the labor and industrial relations appeals board pursuant to section 386-87; and
+     (2)  All interest accrued by the revenues of the fund.
+     (b)  The fund shall be administered by the labor and industrial relations appeals board.
+     (c)  Moneys in the labor and industrial relations appeals board special fund shall be used by the labor and industrial relations appeals board for operating costs, as defined in section 37-62, incurred in the administration of chapters 91, 371, and 386, including but not limited to language interpreting services and electronic document management.
+     (d)  The labor and industrial relations appeals board shall submit a report to the legislature detailing all funds received and all moneys disbursed out of the fund prior to the convening of each regular session."
+     SECTION 2.  Section 386-87, Hawaii Revised Statutes, is amended to read as follows:
+     "§386-87  Appeals to appellate board.  (a)  A decision of the director shall be final and conclusive between the parties, except as provided in section 386-89, unless within twenty days after a copy has been sent to each party, either party appeals therefrom to the appellate board by filing a written notice of appeal with the appellate board or the department.  In all cases of appeal filed with the department the appellate board shall be notified of the pendency thereof by the director.  No compromise shall be effected in the appeal except in compliance with section 386-78.
+     (b)  The appellate board shall hold a full hearing de novo on the appeal.
+     (c)  The appellate board shall have power to review the findings of fact, conclusions of law and exercise of discretion by the director in hearing, determining or otherwise handling of any compensation case and may affirm, reverse or modify any compensation case upon review, or remand the case to the director for further proceedings and action.
+     (d)  In the absence of an appeal and within thirty days after mailing of a certified copy of the appellate board's decision or order, the appellate board may, upon the application of the director or any other party, or upon its own motion, reopen the matter and thereupon may take further evidence or may modify its findings, conclusions or decisions.  The time to initiate judicial review shall run from the date of mailing of the further decision if the matter has been reopened.  If the application for reopening is denied, the time to initiate judicial review shall run from the date of mailing of the denial decision.
+     (e)  The appellate board may establish reasonable fees for the filing of a written notice of appeal with the Director or to the appellate board pursuant to this section and other administrative costs associated with the processing of appeals.
+     The fees and costs prescribed under this subsection shall be paid in advance to the chief clerk of the appellate board.  Any fees and costs collected shall be deposited with the director of finance to the credit of the labor and industrial relations appeals board special fund established under section 371-    .
+     The appellate board may waive the payment of fees and costs for good cause shown.
+     Neither the State nor any county or any political subdivision shall be required to pay any fees or costs prescribed under this subsection."
+     SECTION 3.  There is appropriated out of the labor and industrial relations appeals board special fund a sum not to exceed $10,000 or so much thereof as may be necessary for fiscal year 2012–2013 for operating costs incurred in the administration of chapters 91, 371, and 386.
+     SECTION 4.  The sum appropriated shall be expended by the department of labor and industrial relations for the purposes of this Act.
+     SECTION 5.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Labor and Industrial Relations Appeals Board
+ 
+Description:
+Authorizes the Labor and Industrial Relations Appeals Board to establish reasonable fees for the filing of appeals and other administrative costs associated with the processing of appeals and to establish a Labor and Industrial Relations Appeals Board Special Fund.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

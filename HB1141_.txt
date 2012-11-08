@@ -1,0 +1,73 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1141
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE UNIFORM INFORMATION PRACTICES ACT.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 92F, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§92F-    Complaints; disclosure and privacy.  (a)  Any department or agency that receives a consumer complaint and keeps a record of complaints shall make those complaints available to the public; provided that the department or agency has determined that the following requirements are met prior to disclosure:
+     (1)  The complaint will be referred for legal action if legal action is authorized;
+     (2)  The individual who is the target of the complaint has been provided an opportunity to respond to the complaint; and
+     (3)  A probable violation of law has occurred or there is a possible risk of harm to the public.
+     (b)  Notwithstanding subsection (a), a complaint shall not be made available to the general public if:
+     (1)  The department or agency is conducting an active investigation or review of the complaint;
+     (2)  The complaint is being used in connection with a civil action or proceeding initiated by the office of consumer protection;
+     (3)  The complaint has been referred to another state agency; or
+     (4)  The complaint is without merit.
+     (c)  A department or agency may establish rules pursuant to chapter 91 that define the information to be disclosed to the general public; provided that the provisions of this chapter related to privacy shall apply to any information released to the public pursuant to this section."
+     SECTION 2.  Section 92F-14, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  The following are examples of information in which the individual has a significant privacy interest:
+     (1)  Information relating to medical, psychiatric, or psychological history, diagnosis, condition, treatment, or evaluation, other than directory information while an individual is present at such facility;
+     (2)  Information identifiable as part of an investigation into a possible violation of criminal law, except to the extent that disclosure is necessary to prosecute the violation or to continue the investigation;
+     (3)  Information relating to eligibility for social services or welfare benefits or to the determination of benefit levels;
+     (4)  Information in an agency's personnel file, or applications, nominations, recommendations, or proposals for public employment or appointment to a governmental position, except:
+         (A)  Information disclosed under section 92F-12(a)(14); and
+         (B)  The following information related to employment misconduct that results in an employee's suspension or discharge:
+              (i)  The name of the employee;
+             (ii)  The nature of the employment related misconduct;
+            (iii)  The agency's summary of the allegations of misconduct;
+             (iv)  Findings of fact and conclusions of law; and
+              (v)  The disciplinary action taken by the agency;
+              when the following has occurred:  the highest non-judicial grievance adjustment procedure timely invoked by the employee or the employee's representative has concluded; a written decision sustaining the suspension or discharge has been issued after this procedure; and thirty calendar days have elapsed following the issuance of the decision; provided that this subparagraph shall not apply to a county police department officer except in a case which results in the discharge of the officer;
+     (5)  Information relating to an individual's nongovernmental employment history except as necessary to demonstrate compliance with requirements for a particular government position;
+     (6)  Information describing an individual's finances, income, assets, liabilities, net worth, bank balances, financial history or activities, or creditworthiness;
+     (7)  Information compiled as part of an inquiry into an individual's fitness to be granted or to retain a license, except:
+         (A)  The record of any proceeding resulting in the discipline of a licensee and the grounds for discipline; and
+         (B)  Information on the current place of employment and required insurance coverages of licensees[; and
+         (C)  The record of complaints including all dispositions;].
+     (8)  Information comprising a personal recommendation or evaluation; and
+     (9)  Social security numbers."
+     SECTION 3.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Uniform Information Practices Act
+ 
+Description:
+Clarifies circumstances under which complaints submitted to departments and agencies shall be made available to the public.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

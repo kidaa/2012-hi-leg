@@ -1,0 +1,58 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2835
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO TAXATION OF CERTAIN MOTOR VEHICLE TRANSACTIONS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 237, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows:
+"PART   .  MOTOR VEHICLE TRANSACTIONS
+     §237-    Definitions.  For the purposes of this part:
+     "Casual seller" means a person who, in any calendar year, transfers fewer than three motor vehicles for consideration. 
+     "Open title transaction" means any transfer of an ownership interest in a motor vehicle where the transferor is not the legal owner of the motor vehicle as shown on the certificate of title for the motor vehicle.
+     "Transferor" means the person or entity who receives consideration for the transfer of ownership of a motor vehicle.  In some cases, the transferor may not appear as the registered or legal owner on the certificate of title for the motor vehicle.
+     "Value of the transaction" means the greater of the amount of the consideration as shown on the transaction documents or the retail value of the motor vehicle as shown in the Kelly Blue Book or similar authority for valuation of motor vehicles.
+     §237-    Application of tax to vehicles currently registered in Hawaii.  The tax imposed by this part shall only apply to transactions occurring when the motor vehicle is registered in a county of the State of Hawaii.
+     §237-    Documentation of transaction.  Every transfer of ownership of a motor vehicle shall be evidenced by a document that states the name and street address of the transferor, the name of the transferee, a complete description of the motor vehicle, and the purchase price, or in the event of a gift, a statement that there is no monetary consideration.
+     §237-    Imposition of tax on certain motor vehicles.  Except in the case of exempt transactions as provided herein, there shall be imposed a tax on the transfer of ownership of a motor vehicle at or before the time of registration by the transferee in an amount equal to     per cent of the value of the transaction.  The transferor shall be liable for the tax imposed under this part; provided that the transferee shall be liable for the general excise tax if the transferor fails to pay the general excise tax.
+     §237-    Exemptions.  The following transfers of ownership shall be exempt from the general excise tax imposed under this part:
+     (1)  A gift transaction between spouses, members of a civil union, parents and children, or siblings;
+     (2)  A transfer of ownership in a transaction where the transferor is a licensed motor vehicle dealer and the transaction documents evidence payment of the Hawaii general excise tax with respect to the transaction;
+     (3)  A transaction, other than an open title transaction, where more than one hundred eighty days have passed from the date of issuance of the certificate of ownership to the transferor until the date of the application for registration in the name of the transferee;
+     (4)  A transfer of ownership by a casual seller; provided that both the transferor and transferee appear at the same time before the department of taxation to establish the transferor's status as a casual seller;
+     (5)  A transfer of ownership through a licensed motor vehicle auction; and
+     (6)  Releases of liens or other similar transactions that do not affect the registered ownership.
+     §237-    Registration of motor vehicles.  An applicant for change of ownership shall present a certificate from the department of taxation showing that the general excise tax has been paid or that the transaction is exempt.  The department of motor vehicles of the county in which the motor vehicle is to be registered shall maintain the certificate as part of the documentation of the registration."
+     SECTION 2.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 3.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Motor Vehicle Transfers; General Excise Tax
+ 
+Description:
+Requires payment of a general excise tax for certain transfers of motor vehicles.  Requires documentation evidencing payment of the tax.  Provides exemptions.  Effective July 1, 2012.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

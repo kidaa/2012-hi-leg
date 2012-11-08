@@ -1,0 +1,49 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+538
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MOTOR VEHICLE INSPECTIONS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that particle pollution is one of the most significant health risks facing the nation and is increasingly worsening.  Particle pollution consists of airborne particles that cannot be seen with the naked eye and is the main ingredient of haze.  These particles present serious year-round air quality problems, and can cause severe health problems by settling deep into the lungs, which precipitates respiratory diseases and even death.  Particulate pollution is regulated under the Clean Air Fine Particle Implementation Rule, 40 Code of Federal Regulations Part 51.
+     The Environmental Protection Agency's PM2.5 standard relates to the release of airborne particles generally less than or equal to 2.5 micrometers in diameter.  One of the main sources of fine particle pollution is the release of PM2.5 from tire wear, brake wear, road materials, and tail pipe emissions from cars and trucks.  PM2.5 remains on the roadways as part of road dust.  Tires impact and scatter the PM2.5 into the air.  PM2.5, which contains metals and toxics, also washes into storm drains and pollutes the water supply.
+     The University of Hawaii civil and environmental engineering department is completing a project entitled "Performance of Pollutant-Sorbing Filter Pads:  Phase I".  This project is developing standard protocols for the testing and evaluation of the efficiency of a new invention, the StreetVac system, which is a filter device installed in vehicle wheel wells to capture pollutants, including fine particulate matter, emitted by vehicles or already present on roadways and made airborne by vehicle traffic.  The results of the work of the University of Hawaii should be a model suitable for use by Hawaii and other states when estimating the value of StreetVac and similar devices in reducing air pollution from fine particulate matter.  Testing thus far has revealed that the portion of fine particulate matter collected by StreetVac on roadways is measurable and significant.
+     The purpose of this Act is to require motor vehicles to be equipped with a road pollution filter as a condition precedent to the issuance of a certificate of inspection.
+     SECTION 2.  Section 286-26, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending subsection (b) to read:
+     "(b)  All other vehicles, including motorcycles, trailers, semitrailers, and pole trailers having a gross vehicle weight rating of 10,000 pounds or less, and antique motor vehicles as defined in section 249-1, except those in subsections (c) and (d), shall be certified as provided in subsection (e) every twelve months; provided that any vehicle to which this subsection applies shall not require inspection within two years of the date on which the vehicle was first sold[.] if the vehicle is equipped in each wheel well with a wheel well filter device that is approved by the director of transportation and captures air pollutants, such as metals and fine particulate matter, as provided in 40 Code of Federal Regulations Part 51, emitted by the vehicle or already present on roadways."
+2.  By amending subsection (g) to read:
+     "(g)  The director of transportation shall adopt necessary rules for the administration of inspections and the issuance of certificates of inspection[.]; provided that beginning July 1, 2012, no certificate of inspection shall be issued as required under this part, for any vehicle not equipped in each wheel well with a wheel well filter device that is approved by the director of transportation and captures air pollutants, such as metals and fine particulate matter, as provided in 40 Code of Federal Regulations Part 51, emitted by vehicles or already present on roadways."
+     SECTION 3.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+ 
+Report Title:
+Roadway Particulate Pollution
+ 
+Description:
+Requires as a condition of the issuance of a motor vehicle certificate of inspection, the installation of road pollution filters to reduce air pollution from fine particulate matter.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

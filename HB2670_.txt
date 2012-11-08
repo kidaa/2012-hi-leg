@@ -1,0 +1,105 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2670
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO ENERGY.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that state agencies are interested in using energy savings performance contracting to improve the energy efficiency of their facilities, thereby addressing deferred maintenance and achieving a reduction in a facility's life cycle operating costs.  Energy savings performance contracting is an agreement between an agency and a company by which the company, without any initial agency funds, will design, finance, implement, and maintain changes to a facility to increase energy efficiency.  The company guarantees that savings will be achieved due to their changes and the agency agrees to pay the company a part of the resulting savings.  Thus, wasted energy and operating costs are turned into capital improvements.
+     Despite the advantages of energy savings performance contracts, requests for proposals can take eighteen to sixty months to complete, whereas the negotiated partner approach, by which an agency may negotiate directly with certain vendors to execute a performance contract, exempt from the state procurement code, can bring about energy savings improvements in twelve to eighteen months.  The legislature also finds that a negotiated partner pilot program is an appropriate means of determining the ability of the negotiated partner approach to allow agencies to take full advantage of energy savings performance contracts.
+     The purpose of this Act is to establish a two-year pilot program using the negotiated partner approach to execute energy savings performance contracts.
+     SECTION 2.  (a)  There shall be established within the department of accounting and general services a pilot program using the negotiated partner approach to execute energy savings performance contracts.  The pilot program shall:
+     (1)  Allow any state agency to negotiate directly with a vendor on the list of qualified vendors for a sole-source energy savings performance contract for one building or structure under the agency’s jurisdiction, not withstanding chapter 103D, Hawaii Revised Statutes; and
+     (2)  Operate from July 1, 2012, to June 30, 2014.
+     (b)  By December 31, 2012, the department shall compile a list of qualified vendors eligible to participate in the pilot program under this Act through the issuance of a request for qualifications.
+     (c)  Notwithstanding any law to the contrary relating to the award of public contracts, an energy savings performance contract under the pilot program shall do so in accordance with the following provisions:
+     (1)  The contract shall be signed by June 30, 2013, with the construction of improvements completed by June 30, 2014;
+     (2)  The term of the contract shall not exceed twenty years from the date of completion of the construction of improvements;
+     (3)  The contract shall provide that the agency ultimately shall receive title to the energy system being financed under the contract; and
+     (4)  The contract shall provide that total payments shall not exceed total savings and may provide that annual payments shall not exceed annual savings.
+     SECTION 3.  Nothing in this Act shall prevent or preclude an agency from soliciting or executing an energy savings performance contract outside of the pilot program pursuant to chapter 103D, Hawaii Revised Statutes.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Negotiated Partner Approach Pilot Program; Energy Savings Contracts
+ 
+Description:
+Establishes the negotiated partner approach pilot program for energy savings contracts, which allows agencies to forego requests for proposals and negotiate directly with qualified vendors.  Requires the pilot program to be operational from 7/1/12 to 6/30/14.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+ragraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; mso-style-link:"\#Regular Paragraphs Char"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.New, li.New, div.New {mso-style-name:New; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Constitution, li.Constitution, div.Constitution {mso-style-name:Constitution; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.PCa, li.PCa, div.PCa {mso-style-name:"PC\(a\)"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Misc, li.Misc, div.Misc {mso-style-name:"Misc\."; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.RegularParagraphsChar {mso-style-name:"\#Regular Paragraphs Char"; mso-style-link:"\#Regular Paragraphs"; font-family:"Courier New";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2670
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO ENERGY.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that state agencies are interested in using energy savings performance contracting to improve the energy efficiency of their facilities, thereby addressing deferred maintenance and achieving a reduction in a facility's life cycle operating costs.  Energy savings performance contracting is an agreement between an agency and a company by which the company, without any initial agency funds, will design, finance, implement, and maintain changes to a facility to increase energy efficiency.  The company guarantees that savings will be achieved due to their changes and the agency agrees to pay the company a part of the resulting savings.  Thus, wasted energy and operating costs are turned into capital improvements.
+     Despite the advantages of energy savings performance contracts, requests for proposals can take eighteen to sixty months to complete, whereas the negotiated partner approach, by which an agency may negotiate directly with certain vendors to execute a performance contract, exempt from the state procurement code, can bring about energy savings improvements in twelve to eighteen months.  The legislature also finds that a negotiated partner pilot program is an appropriate means of determining the ability of the negotiated partner approach to allow agencies to take full advantage of energy savings performance contracts.
+     The purpose of this Act is to establish a two-year pilot program using the negotiated partner approach to execute energy savings performance contracts.
+     SECTION 2.  (a)  There shall be established within the department of accounting and general services a pilot program using the negotiated partner approach to execute energy savings performance contracts.  The pilot program shall:
+     (1)  Allow any state agency to negotiate directly with a vendor on the list of qualified vendors for a sole-source energy savings performance contract for one building or structure under the agency’s jurisdiction, not withstanding chapter 103D, Hawaii Revised Statutes; and
+     (2)  Operate from July 1, 2012, to June 30, 2014.
+     (b)  By December 31, 2012, the department shall compile a list of qualified vendors eligible to participate in the pilot program under this Act through the issuance of a request for qualifications.
+     (c)  Notwithstanding any law to the contrary relating to the award of public contracts, an energy savings performance contract under the pilot program shall do so in accordance with the following provisions:
+     (1)  The contract shall be signed by June 30, 2013, with the construction of improvements completed by June 30, 2014;
+     (2)  The term of the contract shall not exceed twenty years from the date of completion of the construction of improvements;
+     (3)  The contract shall provide that the agency ultimately shall receive title to the energy system being financed under the contract; and
+     (4)  The contract shall provide that total payments shall not exceed total savings and may provide that annual payments shall not exceed annual savings.
+     SECTION 3.  Nothing in this Act shall prevent or preclude an agency from soliciting or executing an energy savings performance contract outside of the pilot program pursuant to chapter 103D, Hawaii Revised Statutes.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Negotiated Partner Approach Pilot Program; Energy Savings Contracts
+ 
+Description:
+Establishes the negotiated partner approach pilot program for energy savings contracts, which allows agencies to forego requests for proposals and negotiate directly with qualified vendors.  Requires the pilot program to be operational from 7/1/12 to 6/30/14.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

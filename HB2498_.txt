@@ -1,0 +1,97 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2498
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO ESCROW DEPOSITORIES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 449, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§449-     Compliance resolution fund.  Any law to the contrary notwithstanding, all fees, fines, and payments collected and any other charges assessed by the commissioner pursuant to this chapter shall be deposited into the compliance resolution fund established pursuant to section 26-9(o)."
+     SECTION 2.  Section 449-2, Hawaii Revised Statutes, is amended to read as follows:
+     "§449-2  Rules.  (a)  Subject to chapter 91, the commissioner may adopt such rules as the commissioner deems necessary for the effective administration and enforcement of this chapter.
+     (b)  Notwithstanding the fees provided in this chapter, the commissioner may raise or lower any fee by rule, and may establish new fees by rule."
+     SECTION 3.  Section 449-4, Hawaii Revised Statutes, is amended to read as follows:
+     "§449-4  Administrative penalty.  Any person who [wilfully] violates any of the provisions of this chapter, [shall] may be subject to an administrative fine of [$5,000] not more than $10,000 for each violation.  No licensee shall be subject to this penalty for a violation of section 449-16(b) or (c) if the violation was not intentional or resulted from a bona fide error, notwithstanding the maintenance of procedures reasonably adopted to avoid that error.  Examples of bona fide errors include[, but are not limited to,] clerical miscalculations, computer malfunction, printing errors, and computer programming errors."
+     SECTION 4.  Section 449-5.5, Hawaii Revised Statutes, is amended to read as follows:
+     "§449-5.5  Net capital.  The net capital of any corporation engaging in the escrow depository business under this chapter shall be not less than [$50,000.] $250,000.  A corporation in lieu of the net capital requirement may alternatively file a bond for [$50,000] $250,000 conditional upon its satisfactory performance of escrow conditions and satisfaction of all escrow liabilities.  The amount of the minimum net capital of [$50,000,] $250,000, or the bond, or a combination of both net capital or bond totalling [$50,000] $250,000 shall be maintained at all times by the licensee.
+     [Licensees] Every licensee in operation on [May 24, 1973,] July 1, 2012, pursuant to this chapter with a net capital of less than [$50,000] $250,000 shall increase its net capital to [$50,000] $250,000 or file a bond for [$50,000,] $250,000, or take action so that a combination of its net capital and bond totals [$50,000,] $250,000, before [May 24, 1978.] July 1, 2016."
+     SECTION 5.  Section 449-9, Hawaii Revised Statutes, is amended to read as follows:
+     "§449-9  Escrow depository's bond.  (a)  Before an escrow depository's license becomes effective, the [escrow depository] applicant shall give a bond to the commissioner in the [penal sum of not less than $100,000 executed by a surety insurer authorized in this State,] amount set forth in subsection (b), conditioned:
+     (1)  That the escrow depository will honestly, faithfully, and with diligence apply all funds, other consideration, or property and instruments affecting title in accordance with the instructions under which the same were deposited with it, and will promptly account for the same; and
+     (2)  That the escrow depository will satisfy all judgments and decrees which may be recovered against it in any action or proceeding brought under this chapter.
+     The aggregate liability of the surety for all breaches of the conditions of the bond shall, in no event, exceed the [penal sum] amount of the bond.  In lieu of the bond, an escrow depository may deposit cash, a letter of credit, or securities under such terms and conditions as are acceptable to the commissioner.
+     (b)  Every escrow depository shall maintain an escrow depository bond, executed by a surety insurer authorized in this State, with the licensee named as principal, and in the amount of:
+     (1)  $100,000 for an escrow depository upon its initial licensure and for an escrow depository with average month-end escrow trust account balances of less than $500,000;
+     (2)  $150,000 for an escrow depository with average month-end escrow trust account balances of at least $500,000 but less than $750,000;
+     (3)  $200,000 for an escrow depository with average month-end escrow trust account balances of at least $750,000 but less than $1,000,000; and
+     (4)  $250,000 for an escrow depository with average month-end escrow trust account balance of $1,000,000 or more.
+For purposes of this subsection, "average month-end escrow trust account balances" shall be based on the average month-end trust balance of the licensee's escrow trust accounts for the preceding calendar year.
+     (c)  The escrow depository bond shall be placed on file with the commissioner and insurance coverage shall be continuous during the period of licensure of the licensee whether or not the bond is renewed, continued, reinstated, reissued, or otherwise extended, replaced, or modified, including increases or decreases in the bond amount.
+     (d)  The escrow depository bond shall be for the benefit of any person entitled to a claim on the bond:
+     (1)  The State, for payment of any costs incurred and charges made in connection with any escrow depository's insolvency or default, including costs and charges relating to an examination and receivership of any escrow depository; and
+     (2)  Any person who has a cause of action against the principal on the bond based on any default or violation of any duty or obligation of the escrow depository.
+     (e)  In lieu of the bonds required by this section, a certificate of deposit issued by a financial institution authorized to conduct business in this State and made payable to the commissioner may be provided to the commissioner in the same principal amount as required for the bonds.  The interest on the certificate of deposit shall be payable to the escrow depository licensee.  The certificate of deposit shall be maintained at all times during which the licensee is authorized to engage in business as an escrow depository under this chapter, and shall provide that it will remain in effect for at least three years following discontinuance of operations unless released earlier by the commissioner.
+     (f)  The commissioner may, in the public interest and for good cause shown, waive or modify any requirements of this section."
+     SECTION 6.  Section 449-11, Hawaii Revised Statutes, is amended to read as follows:
+     "§449-11  Fidelity bonds; deposit.  A licensed escrow depository shall at all times either:
+     (1)  Maintain a fidelity bond executed by a surety insurer authorized to do business in the State in an amount not less than [$25,000;] $250,000; provided that any bond which is subject to a deductible thereunder in excess of [$5,000] $10,000 per occurrence shall require the prior approval of the commissioner, who may take into consideration, among other factors, the amount of the proposed bond; or
+     (2)  Deposit an equivalent amount of cash or securities under such terms and conditions as are acceptable to the commissioner,
+upon all of its directors, officers, and employees who have access to money or negotiable securities or instruments in its possession or under its control.  Notwithstanding the above provision, the escrow depository may carry bonds or deposit cash or securities above the amounts required by the commissioner."
+     SECTION 7.  Section 449-12, Hawaii Revised Statutes, is amended to read as follows:
+     "§449-12  Errors and omissions insurance; deposit.  A licensed escrow depository shall at all times either:
+     (1)  Maintain a policy of errors and omissions insurance executed by an insurer authorized to do business in the State in an amount not less than [$100,000;] $250,000; provided that any policy which is subject to a deductible thereunder in excess of $10,000, per occurrence, shall require the prior approval of the commissioner, who may take into consideration, among other factors, the amount of the proposed coverage; or
+     (2)  Deposit an equivalent amount of cash or securities under such terms and conditions as are acceptable to the commissioner."
+     SECTION 8.  Section 449-14, Hawaii Revised Statutes, is amended to read as follows:
+     "§449-14  Fees.  (a)  [The following fees shall be paid by licensed] Every escrow [depositories] depository shall pay a fee to the commissioner [and, together with any administrative penalty or other charge assessed under this chapter, shall be deposited into the compliance resolution fund established pursuant to section 26-9(o):] as follows:
+     (1)  [For filing] A nonrefundable fee of $2,000 for review and investigation of an escrow depository's application for license[, $2,000;].  In addition, the applicant shall be charged $60 per employee hour expended in excess of eighty employee hours for the review of the application and attendant investigations not to exceed an aggregate payment of $10,000.  The hourly fee will be billed and shall be paid prior to preliminary approval of the license;
+     (2)  [For] $500 for an application for approval to establish a branch office;
+     (3)  [For] $500 for an application for approval to relocate an existing office or branch;
+     (4)  [For] $500 for initial issuance [and annual renewal] of an escrow depository's license[, $100];
+     (5)  [For] $100 for initial issuance [and annual renewal] of a branch office license[, $50];
+     (6)  [For] $100 for reissuance of a license for the change in the business address of its office[, $25]; and
+     (7)  [For an application for approval to cease business as an escrow depository.] $1,000 for reinstatement of a license that has lapsed, plus $250 for each day that the license was lapsed.
+     (b)  For all escrow depositories examined by the commissioner or the commissioner's staff, the commissioner:
+     (1)  May charge an examination fee based upon the cost per hour per examiner.  The hourly fee shall be [$40;] $60;
+     (2)  May charge additional amounts for travel, per diem, mileage, and other reasonable expenses incurred in connection with the examination; and
+     (3)  Shall bill the affected escrow depository for examination fees and expenses as soon as feasible after the close of the examination or investigation.  The affected escrow depository shall pay the division within thirty days following the billing.  [All payments shall be deposited into the compliance resolution fund established pursuant to section 26-9(o).]  Any dispute by the affected escrow depository relating to these billings shall be reviewed by the commissioner who may modify, waive, or suspend any billing.
+     (c)  An escrow depository that fails to make a payment required by this section shall be subject to an administrative penalty of not more than $200 per day for each day it is in violation of this section.
+     (d)  [Any fee authorized by this section may be set or modified by the commissioner by rule adopted pursuant to chapter 91.] Every escrow depository shall pay a renewal fee to the commissioner as follows:
+     (1)  $5,000 for escrow trust account fiscal year-end balance of less than $5,000,000;
+     (2)  $7,500 for escrow trust account fiscal year-end balance of at least $5,000,000 but less than $10,000,000;
+     (3)  $10,000 for escrow trust account fiscal year-end balance of at least $10,000,000 but less than $25,000,000;
+     (4)  $12,500 for escrow trust account fiscal year-end balance of at least $25,000,000 but less than $50,000,000; and
+     (5)  $15,000 for escrow trust account fiscal year-end balance of $50,000,000 or more."
+     SECTION 9.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 10.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Escrow Depositories; Fees; Bonds
+ 
+Description:
+Amends the fee structure for services provided by the Division of Financial Institutions of the Department of Commerce and Consumer Affairs for escrow depository regulation; amends fines for violations of escrow depository regulations; and adjusts bond requirements for escrow depositories.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

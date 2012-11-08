@@ -1,0 +1,53 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1159
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO TAXATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The purpose of this Act is to temporarily require a refundable tax credit owed an individual or corporate income taxpayer to be paid with a debit card valid only for the purchase of goods or services in the State of Hawaii from persons licensed under chapter 237, Hawaii Revised Statutes.  The legislature intends for this Act to promote economic revitalization by retaining dollars for circulation within the State.
+     SECTION 2.  Section 231-23, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  This subsection shall apply to all taxes.
+     (1)  All refunds shall be paid only upon a form to be known as a "refund voucher" prepared by the collector.  The refund vouchers shall set forth all the details of each transaction, shall be approved by the director, and shall be forwarded to the comptroller from time to time.  The comptroller shall issue a warrant[,] in the form prescribed by section 40-52[,] or debit card in accordance with section 235-110(d), as applicable, for the payment of any such refund out of the tax reserve fund hereinafter created; provided that if the person entitled to the refund is delinquent in the payment of any tax, the comptroller, upon demand of the collector and after notice to the delinquent taxpayer, shall withhold the amount of the delinquent taxes, together with penalties and interest thereon, from the amount of the refund and pay the same to the collector.
+     (2)  There is hereby appropriated, from the general revenues of the State not otherwise appropriated, the sum of $25,000, which shall be set aside as a trust fund to be known as the tax reserve fund.  All refunds of taxes collected by the department under chapters of the law under title 14 administered by the department shall be made out of the tax reserve fund.  The director of taxation, from time to time, may deposit taxes collected under chapters of the law under title 14 administered by the department in the state treasury to the credit of the tax reserve fund so that there may be maintained at all times a fund not exceeding $25,000.  The amounts deposited shall be made from the taxes with respect to which a particular refund is made."
+     SECTION 3.  Section 235-110, Hawaii Revised Statutes, is amended to read as follows:
+     "§235-110  Credits and refunds.  (a)  If the taxpayer has paid as an installment of the tax more than the amount determined to be the correct amount of such installment, the overpayment shall be credited against the unpaid installments, if any.  If the amount already paid, whether or not on the basis of installments, exceeds the amount determined to be the correct amount of the tax, the amount of the credit shall be refunded in the manner provided in section 231-23(c)[.] and, if applicable, subsection (d).  Within the meaning of this subsection, each amount of tax deducted and withheld from a taxpayer's wages is an installment of taxes paid by the taxpayer.  A refund or credit shall be made to an employer only to the extent that the amount of overpayment claimed by the employer as a credit or refund was not deducted and withheld by the employer.
+     (b)  This section does not apply in the case of a payment made pursuant to an assessment by the department of taxation under section 235-107 or 235-108(b).  No refund or overpayment credit may be had under this section in any event unless the original payment of the tax was due to the law having been interpreted or applied in respect of the taxpayer concerned differently than in respect of the taxpayers generally.  As to all tax payments for which a refund or credit is not authorized by this section (including without prejudice to the generality of the foregoing cases of unconstitutionality) the remedies provided by appeal or under section 40-35 are exclusive.  However, nothing in this subsection shall be deemed applicable to a credit or refund authorized by sections 235-55, 235-66, or 235-71, or resulting from the tax as returned being less than the tax as estimated; in any of these cases a credit or refund is authorized even though the tax for the taxable year remains subject to determination by the department and assessment as provided by law.
+     (c)  Any refund earned under this section shall be made in the manner provided in section 231-23(c)[.] and, if applicable, subsection (d).
+     (d)  If an individual or corporate taxpayer is owed a refund because of a refundable tax credit made available under this chapter, the refund amount shall be refunded by debit card.  The debit card shall have a cash limit equaling the refund amount, be issued to the taxpayer without charge or a fee, and be valid only for the purchase of goods or services within the State from a person licensed under chapter 237.  In the case of spouses filing a joint return, only one debit card shall be issued.
+     The executive department designated by the governor shall maintain in the tax reserve fund under section 231-23(c) an account for each taxpayer who is issued a debit card, make cash payments to the seller of goods or services to a taxpayer who uses the card, debit the payment amount from the taxpayer's account, and otherwise administer the program.  In the alternative, the executive department designated by the governor may contract with a third party to administer the debit card program under the department's supervision.  The executive department designated by the governor may charge a seller of goods or services under the program a reasonable transaction fee to cover the cost of the program.
+     The executive department designated by the governor may replace a damaged, lost, or stolen debit card with a new card having the unused cash balance; provided that the department shall cancel or change the account number of the damaged, lost, or stolen card as necessary to protect the security of the taxpayer's account.
+     For the purpose of this subsection, "debit card" means a card, plate, or other single credit device issued to an individual or corporation that may be used in lieu of cash to purchase goods and services within the State from a person licensed under chapter 237."
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 5.  This Act, upon its approval, shall apply to taxable years beginning after December 31, 2010; provided that this Act shall be repealed on December 31, 2012, and sections 231-23(c) and 235-110, Hawaii Revised Statutes, shall be reenacted in the form in which they read on December 31, 2010.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Refundable Income Tax Credit; Debit Card
+ 
+Description:
+Temporarily requires the issuance of a state income tax debit card to an individual or corporate taxpayer who is owed a refund due to a refundable income tax credit.  Limits use of the debit card to purchases of goods or services within the State from persons having a general excise tax license.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

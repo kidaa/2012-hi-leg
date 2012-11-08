@@ -1,0 +1,89 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+638
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO ELECTIONS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that the current plurality voting method allows a candidate to win an election with less than a majority of votes when there are more than two candidates for the office.  In elections with many candidates, the plurality method may result in winners who received small percentages of votes or who are not the most favored among the voters.  For these winners, this may raise concerns about a lack of public support and confidence and may therefore undermine the ability of those elected to govern effectively.
+     Instant runoff voting is an election method that allows voters the option to rank candidates as the voter's first, second, and subsequent choices.  Votes are then tabulated so that if no candidate receives a majority of votes, the candidate with the least number of votes is eliminated and the votes for the eliminated candidate are automatically transferred to those voters' second choice candidate, just as if the votes were cast in a traditional election runoff.
+     Instant runoff voting assures that elected officials have the support of a majority of voters because it allows voters to indicate their preferences among more than one candidate.  Instant runoff voting allows all voters to vote for their favorite candidate without fear of helping to elect their least favorite candidate.
+     The legislature further finds that instant runoff voting has been used effectively around the world, including in Ireland for presidential elections, Australia and Fiji for parliamentary elections, and London's mayoral elections.  Instant runoff voting is used by numerous state and local governments in the United States including San Francisco, Oakland, and Berkeley, California and Minneapolis, Minnesota.  In 2010, North Carolina used instant runoff voting for a statewide judicial election as well as three county-level elections.  Additionally, five cities, Memphis, Tennessee; Portland, Maine; Springfield, Illinois; St. Paul, Minnesota; and Telluride, Colorado, recently adopted instant runoff voting for implementation in 2011.
+     Finally, the legislature finds that Hawaii's voting systems, including optical scanners, can process instant runoff voting with little or no difficulty.
+     The purpose of this Act is to authorize the use of the instant runoff method of voting for elections in which no primary election is held and in special elections that would normally be subject to a runoff election if a candidate was not elected by majority vote in the initial special election; provided that in instant runoff elections, a majority vote shall be required unless no candidate achieves a majority after the fourth run-off tabulation, in which case the candidate with the highest vote count wins.
+     SECTION 2.  Section 11-1, Hawaii Revised Statutes, is amended by adding two new definitions to be appropriately inserted and to read as follows:
+     ""Instant runoff method" means a method of casting and tabulating votes that tabulates a single vote for each voter but simulates the ballot counts that would occur if all voters participated in a series of runoff elections, whereby voters are allowed to rank candidates according to the voter's preference and, if no candidate obtains a majority of first-choice votes, votes are transferred in sequential tabulations according to voters' preferences.
+     "Majority election contest" means an election contest in which a candidate is required by law to receive a majority of votes cast for the office to be elected outright; provided that if no candidate receives a majority, a runoff election is held between the two candidates receiving the most votes; and the candidate with the highest number of votes in the runoff election is deemed elected."
+     SECTION 3.  Chapter 11, Hawaii Revised Statutes, is amended by adding three new sections to part X to be appropriately designated and to read as follows:
+     "§11-A  Instant runoff method; procedure for counting votes.  (a)  To determine the winners in an election conducted by the instant runoff method, election officials shall initially count the ballots according to the first choice marked on each ballot.  If at the end of the initial count, one candidate receives a majority of the votes cast, that candidate shall be declared the winner for that office.
+     (b)  If at the end of the initial count, no candidate receives a majority of the first-choice votes cast, the chief election officer or county clerk, as appropriate, shall declare that no candidate has received a majority of first-choice votes and that the candidate with the fewest first-choice votes is defeated, and the chief election officer or county clerk shall transfer the first-choice votes for the defeated candidate to the candidates who received the next highest ranking on each ballot containing first-choice votes for the defeated candidate.  If after the first round of transferring votes, no candidate has received a majority of votes cast for the office, the process of eliminating candidates, transferring votes, including previously transferred votes, to candidates still in the race, and tabulating results shall continue until one candidate receives a majority of the votes cast. If only one candidate remains undefeated and no candidate has received a majority of the votes cast after the fourth round of tabulation, then the candidate with the most first-choice votes following the fourth round of tabulation shall be declared the winner regardless of whether that candidate has received a majority of the votes cast.  Blank and spoiled votes shall not be tabulated.
+     (c)  The instant runoff method may be accelerated, at the discretion of the chief election officer or county clerk, by eliminating all candidates with fewer than one per cent of the first-choice votes cast for the office.  In an accelerated process pursuant to this subsection, the first-choice vote on ballots cast for eliminated candidates shall be transferred to the candidates who are still in the race, who received the voters' next highest ranking on those ballots.
+     (d)  Once a winner has been declared pursuant to subsection (b), a certificate of election declaring the results shall be issued pursuant to section 11-156.
+     §11-B  Instant runoff method; generally.  (a)  Once a ballot in an election using the instant runoff method has no more available choices ranked on it, the ballot shall be deemed exhausted.
+     (b)  If a ballot in an election using the instant runoff method skips a ranking, the ballot shall be deemed exhausted.  A ballot that gives two or more candidates the same ranking shall be deemed exhausted when that ranking is reached unless only one of the candidates so ranked is still in the race when the vote is due to be transferred.
+     (c)  If a tie between candidates for last place, and thus elimination, occurs at any stage in the tabulation, the tie shall be resolved by eliminating the candidate who received the least number of combined first-choice votes and transferred votes at the previous stage of tabulation.  In the case of a tie to which a previous stage does not apply, or where the previous stage was also a tie, the tie shall be resolved by drawing lots.  However, if a tie occurs when there are only two candidates remaining, the tie shall be resolved as set forth in section 11‑157.
+     §11-C  Instant runoff voting method; application.  (a)  The instant runoff method shall be used in all contests for office in which no primary election was held.  Notwithstanding any law or county charter to the contrary, at the discretion of the chief election officer in the case of an election for state office or the county clerk in the case of an election for county office, the instant runoff election method may be used in a majority election contest for a special election which would normally require a runoff election if no candidate receives a majority of the votes in the special election.  If the instant runoff voting method is used in a special election, the special election shall only consist of one election contest and no subsequent separate runoff election shall be held.  If the chief election officer or county clerk, as applicable, elects to use the instant runoff election method in a special election, the chief election officer or county clerk shall state in the election proclamation required pursuant to section 11-91 that the instant runoff method shall be used in the special election.
+     (b)  For purposes of this section, the chief election officer shall adopt rules under chapter 91, to provide for the use of mechanical, electronic, or other means devised for marking, sorting, and counting the ballots and tabulating and transferring the votes in an election using the instant runoff method; provided that no rule shall alter the intent or principles embodied in the instant runoff method described in this part.
+     (c)  Ballots approved under this section shall be simple and easy to understand and shall allow a voter to rank each candidate for an office in order of preference, up to four places.  Prior to finalization and printing, sample ballots shall be made available for at least seven days on the office of elections' website and at the office of elections for public review and comment.  Instructions on the ballot shall include the following statement: "You may mark as many or as few alternate choices as you wish.  Marking a second choice cannot help defeat your first choice.  Marking a subsequent choice cannot help defeat your higher-ranked choices."  Sample ballots illustrating voting procedures shall be posted in or near the voting booth, included in the instruction materials for absentee ballots, posted on the office of elections' website, and included in educational materials distributed by the office of elections prior to the election."
+     SECTION 4.  Section 11-112, Hawaii Revised Statutes, is amended to read as follows:
+     "§11-112  Contents of ballot.  (a)  The ballot shall contain the names of the candidates, their party affiliation or nonpartisanship in partisan election contests, the offices for which they are running, and the district in which the election is being held.  In multimember races the ballot shall state that the voter shall not vote for more than the number of seats available or the number of candidates listed where [such] the number of candidates is less than the number of seats available.
+     (b)  The ballot may include questions concerning proposed state constitutional amendments, proposed county charter amendments, or proposed initiative or referendum issues.
+     (c)  At the chief election officer's discretion, the ballot may have a background design imprinted onto it.
+     (d)  When the electronic voting system is used, the ballot may have pre-punched codes and printed information which identify the voting districts, precincts, and ballot sets to facilitate the electronic data processing of these ballots.
+     (e)  The name of the candidate may be printed with the Hawaiian or English equivalent or nickname, if the candidate so requests in writing at the time the candidate's nomination papers are filed.  Candidates' names, including the Hawaiian or English equivalent or nickname, shall be set on one line.
+     (f)  The ballot shall bear no word, motto, device, sign, or symbol other than as allowed in this title.
+     (g)  The ballot may include language necessary to use the instant runoff method pursuant to sections 11-A to 11-C."
+     SECTION 5.  Section 11-151, Hawaii Revised Statutes, is amended to read as follows:
+     "§11-151  Vote count.  [Each] Except for contests where the instant runoff method is used, each contest or question on a ballot shall be counted independently as follows:
+     (1)  If the votes cast in a contest or question are equal to or less than the number to be elected or chosen for that contest or question, the votes for that contest or question shall be counted;
+     (2)  If the votes cast in a contest or question exceed the number to be elected or chosen for that contest or question, the votes for that contest or question shall not be counted; and
+     (3)  If a contest or question requires a majority of the votes for passage, any blank, spoiled, or invalid ballot shall not be tallied for passage or as votes cast except that such ballots shall be counted as votes cast in ratification of a constitutional amendment or a question for a constitutional convention."
+     SECTION 6.  Section 11-152, Hawaii Revised Statutes, is amended to read as follows:
+     "§11-152  Method of counting.  (a)  In an election using the paper ballot voting system, immediately after the close of the polls, the chairperson of the precinct officials shall open the ballot box.  The precinct officials at the precinct shall proceed to count the votes as follows:
+     (1)  The whole number of ballots shall first be counted to see if their number corresponds with the number of ballots cast as recorded by the precinct officials;
+     (2)  If the number of ballots corresponds with the number of persons recorded by the precinct officials as having voted, the precinct officials shall then proceed to count the vote cast for each candidate;
+     (3)  If there are more ballots or less ballots than the record calls for the precinct officials shall proceed as directed in section 11-153.
+     (b)  In those precincts using the electronic voting system, the ballots shall be taken in the sealed ballot boxes to the counting center according to the procedure and schedule promulgated by the chief election officer to promote the security of the ballots.  In the presence of official observers, counting center employees may start to count the ballots prior to the closing of the polls; provided that there shall be no printout by the computer or other disclosure of the number of votes cast for a candidate or on a question prior to the closing of the polls.  For the purposes of this section, the closing of the polls is that time identified in section 11-131 as the closing hour of voting.
+     (c)  In an election that uses the instant runoff method of voting, votes shall be counted as provided in section 11-A."
+     SECTION 7.  Section 11-155, Hawaii Revised Statutes, is amended to read as follows:
+     "§11-155  Certification of results of election.  On receipt of certified tabulations from the election officials concerned, the chief election officer in state elections or county clerk in county elections shall compile, certify, and release the election results after the expiration of the time for bringing an election contest.  The certification shall be based on a comparison and reconciliation of the following:
+     (1)  The results of the canvass of ballots conducted pursuant to chapter 16;
+     (2)  The audit of pollbooks [(]and related record books[)] and resultant overage and underage report;
+     (3)  The audit results of the manual audit team;
+     (4)  The results of the absentee ballot reconciliation report compiled by the clerks; and
+     (5)  All logs, tally sheets, and other documents generated during the election and in the canvass of the election results.
+A certificate of election or a certificate of results declaring the results of the election as of election day shall be issued pursuant to section 11-156; provided that in the event of an overage or underage, a list of all precincts in which an overage or underage occurred shall be attached to the certificate.  The number of candidates to be elected receiving the highest number of votes in any election district shall be declared to be elected[.]; provided that candidates for office subject to the instant runoff voting method shall be declared to be elected pursuant to section 11-A.  Unless otherwise provided, the term of office shall begin or end as of the close of polls on election day.  The position on the question receiving the appropriate majority of the votes cast shall be reflected in a certificate of results issued pursuant to section 11-156."
+     SECTION 8.  In codifying the new sections added by section 3 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 9.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 10.  This Act shall take effect upon its approval; provided that this Act shall not apply to any election held prior to January 1, 2012; and provided further that, no later than December 31, 2011, the chief election officer and each county clerk shall adopt rules pursuant to chapter 91, Hawaii Revised Statutes, to effectuate the purposes of this Act.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Instant Runoff Voting; Elections
+ 
+Description:
+Provides for instant runoff voting for all elections in which no primary election is held; authorizes the chief election officer or the county clerk to use the instant runoff voting method in special elections that would normally require a separate runoff election if no candidate received a majority of votes.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

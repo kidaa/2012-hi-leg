@@ -1,0 +1,80 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1482
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO HEALTH.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The Hawaii Revised Statutes is amended by adding a new chapter to be appropriately designated and to read as follows:
+"CHAPTER
+HOSPITAL CARE COSTS
+§   ‑1  Definitions.  As used in this chapter, unless the context clearly requires otherwise:
+"Charge master" means the uniform list of billed charges for inpatient and outpatient units of service or goods provided by a major hospital.
+"Department" means the department of health.
+"Director" means the director of health.
+"Major hospital" means a hospital that has two hundred or more licensed or approved beds, or any hospital in a group of affiliated hospitals in the State that has a combined total of two hundred or more licensed or approved beds, that is not operated by a federal or state agency.
+"New major hospital" means a hospital that becomes a major hospital on or after July 1, 2012.
+"Revenue neutral" means a change in price made by a major hospital that neither increases nor decreases the gross revenue of the major hospital.
+§   ‑2  Charge master; limitations on price increase.  (a)  On or before July 1, 2012, each major hospital in the State shall submit to the department a complete charge master for the major hospital that shall be effective on July 1, 2012.  The charge master shall be submitted in an electronic form in a format acceptable to the director.
+(b)  Except as otherwise provided in subsections (c) to (g), during the period from July 1, 2012, through June 30, 2016, no major hospital may:
+(1) Raise the unit price of any item in its charge master;
+(2) Modify the unit to which a price applies unless the change is revenue neutral; or
+(3) Replace an existing item in the charge master with a different item or add a new item to its charge master unless the price for the different or new item is approved by the director.
+(c)  The director shall adopt rules in accordance with chapter 91 to establish a procedure and standards for approving charges for items that:
+(1) Are not stated in the charge master;
+(2) Represent special equipment, supplies, or medication ordered by a physician; and
+(3) Are not standard items that the major hospital regularly provides,
+and for any other unique or unusual items that the director may approve.  The director shall allow a major hospital to use the rate formula that the major hospital has in effect on July 1, 2012, for determining charges for these items.
+(d)  A major hospital shall notify the department in writing of any modification pursuant to subsection (b)(2) or the replacement or addition of an item pursuant to subsection (b)(3) not less than ten working days after the modification, replacement, or addition.  In conjunction with the notice, the major hospital shall submit documentation that:
+(1) The modification is revenue neutral; or
+(2) The different or additional item is priced at a level that reflects the same rate of return on the item as the major hospital receives on comparable items or received on an item being replaced.
+(e)  If the director determines that a modification pursuant to subsection (b)(2) is not revenue neutral or that a replacement or addition pursuant to subsection (b)(3) exceeds the level allowed pursuant to subsection (d)(2), the director shall disapprove the proposed charge and notify the major hospital of the charge that shall be allowed for the items disapproved.  The major hospital shall charge the amount approved by the director and, within twenty working days after receiving notice of the disapproval, shall credit the bill of any patient who was charged the amount disapproved the difference between the approved charge and the actual charge.  If the director does not give notice of disapproval pursuant to this subsection within twenty working days after receiving notice of the modification, replacement, or addition, the modification, replacement, or addition shall be deemed approved.
+(f)  If any new state or federal taxes are imposed on major hospitals between July 1, 2012, and June 30, 2013, a major hospital may increase the prices in its charge master by an amount that will generate net revenue sufficient to recover the amount of the added expense.  Prices may be increased pursuant to this subsection only to compensate for new taxes.  Prices may not be increased to correspond with increases in existing taxes, or a modification, reconfiguration, or replacement of existing taxes, that result in an increased tax burden on a major hospital.  The director shall adopt rules in accordance with chapter 91 to establish the mechanism for carrying out any increase allowed by this subsection.
+(g)  At any time during the fiscal years 2013-2014, 2014-2015, and 2015-2016, a major hospital may increase the price of any item on its charge master by a percentage up to the percentage increase, if any, in the consumer price index (medical care component for all urban consumers) as published by the Bureau of Labor Statistics of the United States Department of Labor for the most recent twelve-month period for which information is available at the time the notice of the allowable increase is given.  A major hospital shall notify the director in writing within ten working days after making an increase allowed by this subsection.  In addition to any increase authorized by this subsection, a major hospital may modify the unit to which a price applies, replace an existing item in the charge master with a different item, or add a new item to its charge master during the fiscal years 2013-2014, 2014-2015, and 2015-2016.
+(h)  On or before May 1, 2013, May 1, 2014, and May 1, 2015, the director shall notify each major hospital of the permissible percentage increase in each item in its charge master for the succeeding fiscal year.
+§   ‑3  Submission of charge master.  (a)  Each major hospital in the State shall maintain and use a uniform list of billed charges for that major hospital for units of service or goods provided to all inpatients and outpatients.  A hospital may not use a billed charge for an inpatient or an outpatient that is different from the billed charge used for another inpatient or outpatient for the same service or goods provided.  This subsection does not restrict the ability of a major hospital or other person to negotiate a discounted rate from the major hospital's billed charges or to contract for a different rate or mechanism for payment.
+(b)  Each major hospital shall submit to the department a detailed listing of charges by the identification code used in the major hospital's charge master for any inpatient admission or outpatient visit in an electronic form in a format acceptable to the director.
+(c)  A new major hospital shall submit to the director a complete charge master for the hospital at least sixty days before becoming a major hospital.  The director shall review, revise as appropriate, and approve the prices in the charge master based upon the prevailing charges in the area in which the new major hospital is located.  After approval of the charge master, the major hospital shall be subject to this chapter.  The director shall adopt rules in accordance with chapter 91 governing the approval of a charge master pursuant to this section.
+§   ‑4  Request of approval to increase prices.  A major hospital that considers its financial condition so weakened that the quality of care provided by the major hospital would be seriously jeopardized by any provision of this chapter may request approval to increase the prices in its charge master by submitting a written request for the increase and supporting documentation to the director.  The director shall consider the potential impact on the quality of care provided by the major hospital and the probability that failure to grant relief would cause financial instability for the major hospital.  The director may approve the request, or revise and approve the request, if the director determines that the approval is necessary to ensure the ability of the major hospital to provide adequate care to its patients.
+§   -5  Review fees.  A hospital that submits its charge master for approval or requests an increase in its prices shall pay the department a fee for the review of the charge master or the request.  The director shall adopt rules in accordance with chapter 91 to establish rates or fees for the department's review of the charge master or the request.
+§   -6  Prohibitions.  A major hospital shall not:
+(1) Raise a unit price in its charge master unless authorized pursuant to this chapter;
+(2) Charge a patient a higher price for any item than the price stated in the charge master or otherwise authorized pursuant to this chapter; and
+(3) Except as authorized pursuant to section    ‑2(c), charge a patient for any item not included in its charge master without seeking the approval of the director as required by section    ‑2(d) and (e).
+§   -7  Compliance.  The director may compare a major hospital's actual charges with the charges authorized pursuant to this chapter to determine whether the major hospital's charges are in compliance with this chapter.  If the director determines that a major hospital has engaged in a pattern of violations or committed an egregious violation of this chapter, the director may impose an administrative penalty of not more than:
+(1) Two times the difference between the price charged in violation of this chapter and the allowable price, for each instance in which that item is billed; or
+(2) $1,000;
+whichever amount is greater.
+§   -8  Rules.   The director may adopt rules in accordance with chapter 91 necessary to carry out the provisions of this chapter."
+     SECTION 2.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+ 
+Report Title:
+Hospital Inpatient and Outpatient Care Costs; Price Limits
+ 
+Description:
+Beginning 7/1/2012, limits inpatient and outpatient hospital care costs for major hospitals having 200 or more beds.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

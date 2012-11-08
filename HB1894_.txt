@@ -1,0 +1,72 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1894
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PROCUREMENT.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that protests under the procurement code have delayed the awarding of construction and design-build projects.  The legislature further finds that both types of projects have high economic multipliers.  Thus, the legislature finds that the governor or a county mayor, as applicable, should have the authority for two years to exempt the procurement of these contracts from protests and administrative review of nonresponsible offeror determinations.  The legislature intends this Act to authorize the temporary exemption of a procurement from procurement code provisions pertaining only to protest and administrative review of nonresponsible offeror determinations.
+     Because the exemption provided by this Act is so extraordinary, the legislature finds that the public must be confident in the integrity of the process and actions under an exempt procurement.  The legislature further finds that public confidence may be achieved by ensuring that the public has access to all information concerning the procurement.
+     The purpose of this Act is to promote economic revitalization by temporarily authorizing the governor or a county mayor to exempt construction or design-build procurements from protests concerning the procurement and the administrative review of a nonresponsible offeror determination.  The governor or a county mayor, as applicable, may exempt a procurement only if all information concerning the procurement is released for public inspection.
+     SECTION 2.  Chapter 103D, Hawaii Revised Statutes, is amended by adding a new section to part III to be appropriately designated and to read as follows:
+     "§103D-A  Temporary exemption of certain construction and design-build procurements from protest and administrative review of nonresponsible offeror determination.  (a)  For the purpose of this section, "nonresponsible offeror determination" means a determination that an offeror is nonresponsible under section 103D-310.
+     (b)  The governor or the mayor of a county, as applicable, may exempt a procurement for a construction or design-build contract under the governor's or mayor's jurisdiction from protest under section 103D-701 and administrative review of a nonresponsible offeror determination under section 103D-709 if the following conditions are met:
+     (1)  The invitation for bids or request for proposals is issued by the head of the purchasing agency between July 1, 2012, and June 30, 2014;
+     (2)  The governor or mayor requires all bidders or offerors, as a condition for submitting bids or proposals, to agree that:
+         (A)  All bids or offers, including amendments or revisions, shall be released for public inspection upon award of the contract; and
+         (B)  Nothing in the bids or offers shall be designated a trade secret or proprietary data meant for confidential treatment;
+          provided that a bidder or offeror who does not agree to the requirements of this paragraph shall be deemed nonresponsible for the procurement; and
+     (3)  The governor or mayor agrees to release for public inspection, upon award of the contract, all written evaluations and ratings of bids or offerors by the purchasing agency or evaluation committee for the procurement, if any.
+     The governor or mayor shall establish that a procurement is exempt from protest and administrative review of a nonresponsible offeror determination by issuing a proclamation simultaneously with the issuance of the invitation for bids or request for proposals for the procurement.  The proclamation shall be public record.
+     (c)  Simultaneously with the award of a contract for an exempt procurement, the governor or mayor, as applicable, shall release for public inspection the information specified under subsection (b)(2) and (3).
+     (d)  The governor or mayor, as applicable, shall post on the governor's or mayor's state or county website, as applicable, a list of all price adjustments and change orders approved for a contract, for an exempt procurement.  The list of price adjustments and change orders shall be posted on the state or county website within ten days of the end of the quarter."
+     SECTION 3.  Section 103D-105, Hawaii Revised Statutes, is amended to read as follows:
+     "§103D-105  Public access to procurement information.  Government records relating to procurement shall be available to the public as provided in chapter 92F[.] and, if applicable, section 103D-A.  Part I of chapter 92 shall not apply to discussions, deliberations, or decisions required to be conducted or made confidentially under this chapter[.]; provided that, if the governor or the mayor of a county exempts a procurement pursuant to section 103D-A, this confidentiality provision shall not be applied to make confidential any information required to be made public under section 103D-A."
+     SECTION 4.  Section 103D-303, Hawaii Revised Statutes, is amended by amending subsection (h) to read as follows:
+     "(h)  In cases of awards made under this section, non-selected offerors may submit a written request for debriefing to the procurement officer within three working days after the posting of the award of the contract.  Thereafter, the procurement officer shall provide the non-selected offeror a prompt debriefing.  Any protest by the non-selected offeror pursuant to section 103D-701 following debriefing shall be filed in writing with the procurement officer within five working days after the date upon which the debriefing is completed[.]; provided that the protest provision shall not apply to a procurement exempt from protest under section 103D-A."
+     SECTION 5.  Section 103D-701, Hawaii Revised Statutes, is amended to read as follows:
+     "§103D-701  Authority to resolve protested solicitations and awards.  (a)  [Any] Except as provided in subsection (h), any actual or prospective bidder, offeror, or contractor who is aggrieved in connection with the solicitation or award of a contract may protest to the chief procurement officer or a designee as specified in the solicitation.  Except as provided in sections 103D-303 and 103D-304, a protest shall be submitted in writing within five working days after the aggrieved person knows or should have known of the facts giving rise thereto; provided that a protest of an award or proposed award shall in any event be submitted in writing within five working days after the posting of award of the contract under section 103D-302 or 103D-303, if no request for debriefing has been made, as applicable; provided further that no protest based upon the content of the solicitation shall be considered unless it is submitted in writing prior to the date set for the receipt of offers.
+     (b)  The chief procurement officer or a designee, prior to the commencement of an administrative proceeding under section 103D-709 or an action in court pursuant to section 103D-710, may settle and resolve a protest concerning the solicitation or award of a contract.  This authority shall be exercised in accordance with rules adopted by the policy board.
+     (c)  If the protest is not resolved by mutual agreement, the chief procurement officer or a designee shall promptly issue a decision in writing to uphold or deny the protest.  The decision shall:
+     (1)  State the reasons for the action taken; and
+     (2)  Inform the protestor of the protestor's right to an administrative proceeding as provided in this part, if applicable.
+     (d)  A copy of the decision under subsection (c) shall be mailed or otherwise furnished immediately to the protestor and any other party intervening.
+     (e)  A decision under subsection (c) shall be final and conclusive, unless any person adversely affected by the decision commences an administrative proceeding under section 103D-709.
+     (f)  In the event of a timely protest under subsection (a), no further action shall be taken on the solicitation or the award of the contract until the chief procurement officer makes a written determination that the award of the contract without delay is necessary to protect substantial interests of the State.
+     (g)  In addition to any other relief, when a protest is sustained and the protestor should have been awarded the contract under the solicitation but is not, then the protestor shall be entitled to the actual costs reasonably incurred in connection with the solicitation, including bid or proposal preparation costs but not attorney's fees.
+     (h)  This section shall not apply when a procurement for a construction or design-build contract is exempt from protest under section 103D-A."
+     SECTION 6.  Section 103D-709, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  The several hearings officers appointed by the director of the department of commerce and consumer affairs pursuant to section 26-9(f) shall have jurisdiction to review and determine de novo, any request from any bidder, offeror, contractor, person aggrieved under section 103D-106, or governmental body aggrieved by a determination of the chief procurement officer, head of a purchasing agency, or a designee of either officer under section 103D-310, 103D-701, or 103D-702[.]; except that a determination that a prospective offeror is nonresponsible under section 103D-310 shall not be subject to review under this section if the procurement is exempt from review pursuant to section 103D-A."
+     SECTION 7.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 8.  This Act shall take effect on July 1, 2012; provided that, on June 30, 2014, this Act shall be repealed and sections 103D-105, 103D-303(h), 103D-701, and 103D-709(a), Hawaii Revised Statutes, shall be reenacted in the form in which they existed on June 30, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Procurement; Temporary Exemption From Protest, Administrative Review Of Nonresponsible Offeror Determination
+ 
+Description:
+Temporarily authorizes the governor or a county mayor to exempt a construction or design-build procurement from protest concerning the procurement and administrative review of a nonresponsible offeror determination.  Requires, as a condition of the exemption, that all bids and proposals, including amendments or revisions, evaluations, and ratings be released for public inspection.  Requires the posting of the information on the state or county website.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

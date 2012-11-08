@@ -1,0 +1,98 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+729
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO ASSET BUILDING.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+PART I
+EARNED INCOME TAX CREDIT
+     SECTION 1.  Chapter 235, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§235-    Earned income tax credit.  (a)  Each resident individual taxpayer who:
+(1)  Files an individual income tax return for a taxable year; and
+(2)  Is not claimed or is not otherwise eligible to be claimed as a dependent by another taxpayer for income tax purposes,
+may claim a refundable earned income tax credit.  The tax credit, for the appropriate taxable year, shall be equal to            per cent of the federal earned income tax credit allowed under Section 32 of the Internal Revenue Code as amended as of December 31, 2008, and reported as such on the resident individual's federal income tax return.
+(b)  In the case of a part-year resident, the tax credit shall equal the amount of the tax credit calculated in subsection (a) multiplied by the ratio of adjusted gross income attributed to this State to the entire adjusted gross income computed without regard to source in the State pursuant to section 235-5.
+(c)  To claim the tax credit allowed under this section, a resident individual taxpayer shall use the same filing status on the taxpayer's Hawaii income tax return as used on the taxpayer's federal income tax return for the taxable year.  In the case of a husband and wife filing separately, the allowable tax credit may be applied against the income tax liability of either or divided between them, as they elect; provided that the total tax credit allowance for the husband and wife shall not exceed the tax credit that could have been claimed if the husband and wife filed a joint tax return.
+(d)  All claims including any amended claims for tax credits under this section shall be filed on or before the end of the twelfth month following the close of the taxable year for which the tax credit may be claimed.  Failure to comply with this subsection shall constitute a waiver of the right to claim the tax credit.
+(e)  The director of taxation:
+(1)  Shall prepare any forms necessary to claim a tax credit under this section;
+(2)  May require proof of the claim for the tax credit;
+(3)  Shall alert eligible taxpayers of the tax credit using appropriate and available means;
+(4)  Shall prepare an annual report to the legislature, the governor, and the public containing the:
+(A)  Number of credits granted for the prior calendar year;
+(B)  Total amount of the credits granted; and
+(C)  Average value of the credits granted to taxpayers whose earned income falls within various income ranges;
+and
+(5)  May adopt rules pursuant to chapter 91 to effectuate this section."
+PART II
+FINANCIAL EDUCATION
+SECTION 2.  Chapter 346, Hawaii Revised Statutes, is amended by adding a new section to part II to be appropriately designated and to read as follows:
+"§346‑    Financial education.  In addition to any mandatory programs available to certain applicants for, and recipients of temporary assistance for needy families as required by federal law, the department shall offer financial education to applicants for, and recipients of temporary assistance for needy families.
+For purposes of this section, "financial education" means education that promotes an understanding of consumer, economic, and personal finance concepts, including the basic principles involved with an individual's earnings, budgeting (including taxes), spending, savings, and investing."
+     SECTION 3.  There is appropriated out of the general revenues of the State of Hawaii the sum of $           or so much thereof as may be necessary for fiscal year 2011-2012 and the same sum or so much thereof as may be necessary for fiscal year 2012-2013 for the department of human services to offer financial education to applicants for and recipients of temporary assistance for needy families pursuant to this part.
+     The sums appropriated shall be expended by the department of human services for the purposes of this part.
+PART III
+ENCOURAGE SAVINGS
+     SECTION 4.  Section 257-3, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§257-3[]]  Fiduciary organizations.  (a)  [Fiduciary organizations] A fiduciary organization shall serve as an intermediary between individual development account holders and financial institutions holding accounts.  The fiduciary organization's responsibilities may include:
+     (1)  Marketing participation;
+     (2)  Soliciting matching contributions;
+     (3)  Counseling program participants; and
+     (4)  Conducting verification and compliance activities.
+     (b)  Locally-based organizations shall enter into a competitive process for the right to become fiduciary organizations for a portion of the state matching dollars [that would be authorized initially].  Fiduciary organization proposals shall be evaluated and participation rights awarded on the basis of [such items as]:
+     (1)  Their ability to market the program to potential individual development account holders and potential matching fund contributors;
+     (2)  Their ability to provide safe and secure investments for individual development accounts;
+     (3)  Their overall administrative capacity, including:
+         (A)  Certifications or verifications required to assure compliance with eligibility requirements;
+         (B)  Authorized uses of the accounts matching contributions by individuals or businesses; and
+         (C)  Penalties for unauthorized distributions;
+     (4)  Their capacity to provide financial counseling and other related services to potential participants; and
+     (5)  Their links to other activities designed to increase the independence of individuals and families through high return investments, including homeownership, education and training, and small business development.
+     The department of human services, or an agency contracted by the department of human services, shall provide technical and administrative assistance to fiduciary organizations to meet the criteria under this subsection; provided that the State may expend appropriate federal moneys, including temporary assistance for needy families and community development block grants, for this purpose as applicable.
+     (c)  If the [State] department of human services approves an application to fund an individual development account project under this section, the [State] department of human services shall[, not later than one month after June 28, 1999,] authorize the applicant to conduct the project with state funds [for five project years] in accordance with the approved application and this section; provided that an applicant may apply for funding during future fiscal years [for five project years if the State lacks the] if there are insufficient resources to fund an individual development account project pursuant to this subsection.
+     [(d)  For each individual development account program approved under this section, the State shall make a grant to the qualified entity or collaboration of entities authorized to conduct the project on the first day of the project year in an amount not to exceed $100,000 per year for five years.
+     (e)] (d)  From among the individuals eligible for assistance under the Hawaii individual development account program, each selected fiduciary organization shall select the individuals whom the fiduciary organization deems to be best suited to receive such assistance."
+     SECTION 5.  Section 257-11, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending subsection (a) to read:
+     "(a)  The fiduciary organization [running] operating an individual development account program shall have sole authority over the administration of the project.  The [State] department of human services may [prescribe only such regulations] adopt rules with respect to demonstration projects [under this chapter] as are necessary to ensure compliance [pursuant to] with this chapter."
+     2.  By amending subsection (d) to read:
+     "(d)  Selected fiduciary organizations may use no more than [ten] twenty-five per cent of state funds as appropriated under this [[]chapter[]] to cover [administrative] operating costs in any given year."
+     SECTION 6.  There is appropriated out of the general revenues of the State of Hawaii the sum of $           or so much thereof as may be necessary for fiscal year 2011-2012 and the same sum or so much thereof as may be necessary for fiscal year 2012-2013 for fiduciary organizations as defined in section 257-1, Hawaii Revised Statutes, to conduct individual development account programs, as provided in section 257-3, Hawaii Revised Statutes.
+     The sums appropriated shall be expended by the department of human services for the purposes of this Act.
+PART IV
+MISCELLANEOUS
+SECTION 7.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+SECTION 8.  This Act shall take effect on January 1, 2012; provided that upon its approval, section 1 shall apply to taxable years beginning after December 31, 2010.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+ 
+Report Title:
+Asset Building; Omnibus
+ 
+ 
+Description:
+Establishes a refundable state earned income tax credit.  Requires the department of human services to provide financial education to applicants for and recipients of Temporary Assistance for Needy Families and promote participation in individual development accounts.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

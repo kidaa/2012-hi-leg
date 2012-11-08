@@ -1,0 +1,50 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1485
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO E-VERIFY.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 103D, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§103D-     Contracts with the State or counties; e-Verify required.  Government agencies making procurements subject to this chapter shall require, as a prerequisite to entering into any procurement contract, proof that a contracting entity uses the e-Verify system to verify the employment eligibility of its employees.
+     For the purposes of this section, "e-Verify" means an online system operated jointly by the United States Department of Homeland Security and the Social Security Administration containing information on the status of an individual's employment eligibility in the United States."
+     SECTION 2.  Section 78-1, Hawaii Revised Statutes, is amended to read as follows:
+     "§78-1  Citizenship and residence; exceptions.  (a)  All elective officers in the service of the government of the State or any county shall be citizens of the United States and residents of the State for at least three years immediately preceding assumption of office.
+     (b)  All appointive officers in the service of the government of the State or any county who are employed as department heads and deputies or assistants to a department head shall be citizens of the United States and residents of the State for at least one year immediately preceding their appointment.  All others appointed in the service of the government of the State or in the service of any county or municipal subdivision of the State shall be citizens, nationals, or permanent resident aliens of the United States and residents of the State at the time of their appointment.  A national or permanent resident alien appointee shall not be eligible for continued employment unless such person diligently seeks citizenship upon becoming eligible to apply for United States citizenship.
+     (c)  All persons seeking employment with the government of the State or in the service of any county shall be citizens, nationals, or permanent resident aliens of the United States, or eligible under federal law for unrestricted employment in the United States, and shall become residents of the State within thirty days after beginning their employment and as a condition of eligibility for continued employment.
+     "Resident" means a person who is physically present in the State at the time the person claims to have established the person's domicile in the State and shows the person's intent is to make Hawaii the person's primary residence.
+     (d)  The appointing authority may approve the appointment of persons without consideration of the requirements under subsection (c) when services essential to the public interest require highly specialized technical and scientific skills or knowledge for critical-to-fill and labor shortage positions.
+     (e)  For the positions involved in the performance of services in planning and executing measures for the security of Hawaii and the United States, the employees shall be citizens of the United States in addition to meeting the requirement of residency in subsection (c).
+     (f)  The department of human resources development and each count personnel department, in hiring any new employee for the first time in that jurisdiction, as a prerequisite to the hiring, shall use the e-Verify system to verify the employment eligibility of each employee.
+     For the purposes of this subsection, "e-Verify" means an online system operated jointly by the United States Department of Homeland Security and the Social Security Administration containing information on the status of an individual's employment eligibility in the United States.
+     [(f)] (g)  This section shall not apply to persons recruited by the University of Hawaii under the authority of section [[]304A-1001[]]."
+     SECTION 3.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+
+ 
+Report Title:
+Procurement; e-Verify
+ 
+Description:
+Requires all entities contracting with the State or any county and any government agency making new hires to provide proof that it has used the e-Verify system to verify the employment eligibility of its employees and new hires.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

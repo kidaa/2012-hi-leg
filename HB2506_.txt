@@ -1,0 +1,491 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2506
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO INSURANCE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 431, Hawaii Revised Statutes, is amended by adding to part III of article 8 nine new sections to be appropriately designated and to read as follows:
+     "§431:8-A  Nonresident licensing.  (a)  Except as provided in section 431:8-317, a nonresident applicant shall receive a nonresident surplus lines broker license if:
+     (1)  The applicant is currently licensed and is in good standing as a resident surplus lines broker in the applicant's home state;
+     (2)  The applicant has submitted the proper request for licensure and has paid the fees required by section 431:7-101;
+     (3)  The applicant has submitted or transmitted to the commissioner the application for licensure that the applicant submitted to the applicant's home state, or in lieu of the same, a completed uniform application; and
+     (4)  The applicant's home state awards nonresident surplus lines broker licenses to residents of this State on the same basis.
+     (b)  The commissioner may verify the surplus lines broker's licensing status through the producer database maintained by the National Association of Insurance Commissioners, its affiliates, or its subsidiaries.
+     (c)  A nonresident surplus lines broker who moves from one state to another state or a resident surplus lines broker who moves from this State to another state shall file a change of address with the commissioner and shall provide certification from the new resident state within thirty days of the change of legal residence.  No fee or license application shall be required.  Failure to timely inform the commissioner of a change in address shall result in a penalty pursuant to section 431:2-203.
+     §431:8-B  Reciprocity.  (a)  The commissioner shall waive any requirements for a nonresident surplus lines broker license applicant with a valid license from the applicant's home state, except for the requirements imposed by section 431:8-A, if the applicant's home state awards nonresident surplus lines broker licenses to residents of this State on the same basis.
+     (b)  A nonresident surplus lines broker's satisfaction of the surplus lines broker's home state's continuing education requirements for licensed surplus lines brokers shall constitute satisfaction of this State's continuing education requirements if the nonresident surplus lines broker's home state recognizes the satisfaction of its continuing education requirements imposed upon surplus lines brokers from this State on the same basis.
+     §431:8-C  Exemption from examination.  (a)  Subject to section 431:8-B, an individual who applies for a non-resident surplus lines broker license in this State who was previously licensed to sell surplus lines insurance in another state shall not be required to complete any prelicensing education or examination.  This exemption is only available if the person is currently licensed in that state or if the application is received within ninety days of the cancellation of the applicant's previous license and if the prior state issues a certification that, at the time of cancellation, the applicant was licensed in good standing in that state, or the state's producer database records, maintained by the National Association of Insurance Commissioners, its affiliates, or its subsidiaries, indicate that the surplus lines broker's license is or was in good standing.
+     (b)  A person licensed as a surplus lines broker in another state who moves to this State and makes application within ninety days of establishing legal residence to become a resident licensee pursuant to section 431:8-310, shall not be required to satisfy the prelicensing educational components and examination otherwise required to obtain any line of authority previously held in the prior state, provided that the commissioner may impose these or other requirements by rule.
+     §431:8-D  Surplus lines broker license examination.  (a)  An applicant for a surplus lines broker license shall pass a written examination unless exempt pursuant to section 431:8-C. The examination shall test the knowledge of the applicant concerning property, marine and transportation, vehicle, general casualty, and surety insurance, the duties and responsibilities of a surplus lines broker, and the insurance laws and rules of this State.
+     (b)  The commissioner may make arrangements, including contracting with an outside testing service, for administering examinations and collecting fees pursuant to section 431:7-101. The fees collected shall be nonrefundable.
+     (c)  An applicant, who fails to appear for the examination as scheduled or fails to pass the examination, shall reapply for an examination and remit all required fees and forms before being scheduled for another examination.
+     (d)  An applicant's examination scores shall be valid for two years from the date of the examination.
+     §431:8-E  Scope of examination.  (a)  The commissioner shall prescribe each examination, and each examination shall be of reasonably sufficient scope to test the applicant's knowledge relative to property, marine and transportation, vehicle, general casualty, and surety insurance, that may be dealt with under the license applied for, the duties and responsibilities relating thereto, and the laws of this State that are applicable to the licensee.
+     (b)  The commissioner is required to prepare and make available to surplus lines brokers a printed manual specifying in general terms the subjects that may be covered in any examination for a surplus lines broker license.
+     §431:8-F  Time of examinations.  (a)  The commissioner shall give examinations within this State at such times and places as may reasonably serve the convenience of both the commissioner and applicants.
+     (b)  The commissioner may require a waiting period of not more than six months before giving a new examination to an applicant who has failed to pass two previous examinations for a surplus brokers license.
+     §431:8-G  Prerequisites for license renewal.  (a)  To qualify for a license renewal, a licensee shall:
+     (1)  During the twenty-four months preceding a license renewal, complete the required number of credit hours specified in subsection (b) in approved continuing education courses; and
+     (2)  Pay the fees as required under section 431:7-101.
+     (b)  The required number of credit hours in approved continuing education courses shall be as follows:
+     (1)  For a licensee authorized to sell surplus lines insurance but who does not hold a producer license, the requisite number of credit hours shall be twenty-four credit hours, consisting of twenty-one credit hours relating to property, marine and transportation, vehicle, general casualty, or surety insurance, and three credit hours relating to ethics training or relating to the insurance laws and the insurance rules.
+(2)  For a licensee who also holds a producer license to sell life or accident and health or sickness lines of insurance pursuant to article 9A, the total requisite number of credit hours shall be twenty-four credit hours, consisting of:
+          (A)  Ten credit hours relating to life or accident and health or sickness insurance;
+          (B)  Eleven credit hours relating to property, marine and transportation, vehicle, general casualty, or surety insurance; and
+          (C)  Three credit hours relating to ethics training or to insurance laws and rules.
+For purposes of this section, ethics training shall include but shall not be limited to the topics of fiduciary responsibility, commingling of funds, payment and acceptance of commissions, unfair claims practices, policy replacement considerations, and conflicts of interest.
+     (c)  Continuing education equivalents, as determined and approved by the commissioner, may include the teaching of continuing education courses and holding certain professional designations, but shall not include the use of carryover credit hours earned in excess of the required hours in any two-year renewal cycle.
+     (d)  Unless an extension of time has been granted in advance by the commissioner, a licensee's failure to satisfy all of the continuing education requirements by the renewal date shall result in that licensee's license being automatically placed on an inactive status.  To reactivate a license, the licensee shall submit proof to the commissioner that the requisite number of credit hours has been completed and the licensee shall pay any required fees and penalties.
+     (e)  After a licensee completes an approved continuing education course, the approved course provider shall issue to the licensee a certificate of completion in a form approved by the commissioner that certifies that the licensee has successfully completed the course.  Both the licensee and a person authorized to sign on behalf of the approved course provider shall sign the certificate of completion.  The approved course provider shall electronically submit the certificate of completion to the commissioner within fifteen days of course completion.
+     (f)  This section shall not apply to a licensee granted an exemption by the commissioner from this section pursuant to section 431:8-B.
+     (g)  The commissioner may grant an extension of time to meet the requirements of this section to a licensee on extended active military duty for a period of time equal to the number of days the licensee was on active military duty, provided there are no federal laws mandating an extension of time in a specified situation.
+     (h)  A licensee need not retake the surplus lines broker license examination provided that renewal requirements in this section are met or reactivation occurs within two years of the date of inactivation.
+     §431:8-H  Continuing education recordkeeping.  (a)  Licensees shall maintain their own continuing education records and shall keep these records for four years after completion of an approved continuing education course.
+     (b)  Approved course providers shall maintain attendance records for five years to permit the commissioner to verify the attendance and course completion of all licensees enrolled in an approved course.  Approved course providers shall make their records available at all times to the commissioner.
+     §431:8-I  Commissioner's authority to grant waiver.  Upon the receiving of a written request and a showing of good cause, the commissioner shall have the authority to grant a waiver of any requirement of an insurance law or insurance rule as applied to an applicant or a producer."
+     SECTION 2.  Section 431:2-203, Hawaii Revised Statutes, is amended as follows:
+     (1)  By amending subsection (d) to read as follows:
+     "(d)  If the commissioner has cause to believe that any person is violating or is about to violate any provision of this code or any order of the commissioner, the commissioner may issue a cease and desist order to enforce compliance with this code or any order of the commissioner, or bring an action in any court of competent jurisdiction to enjoin the person from continuing the violation or doing any act in furtherance thereof.  The commissioner shall have the discretion to include in a cease and desist order or request in an action brought in any court an assessment of a monetary penalty and restitution against any person who violates this code or who has violated an order of the commissioner."
+     (2)  By amending subsection (g) to read as follows:
+     "(g)  A monetary penalty and restitution may be imposed in addition to any applicable suspension, revocation, or denial of a license or certificate of authority."
+     SECTION 3.  Section 431:8-102, Hawaii Revised Statutes, is amended as follows:
+     (1)  By adding nine new definitions to be appropriately inserted and to read as follows:
+     ""Approved continuing education course" means a course approved by the commissioner following receipt of recommendations from insurance professionals.
+     "Approved course provider" means an individual or entity that is approved to offer continuing education courses pursuant to article 9A.
+     "Business entity" means an association, corporation, individual, limited liability company, limited liability partnership, partnership, person, or other legal entity.
+     "Credit hour" means the value assigned to an approved continuing education course that is equivalent to at least fifty minutes of classroom instruction.
+     "Home state" means, with respect to an insured, the state in which an insured maintains the insured's principal place of business or, in the case of a surplus lines broker, the state in which the surplus lines broker maintains the surplus lines broker's principal residence or principal place of business and is licensed to act as surplus lines broker; provided that if one hundred per cent of the insured risk is located out of the state where the insured maintains the insured's principal place of business or the state where the individual maintains the principal residence, the home state shall be the state where the greatest percentage of the insured's taxable premium for that insurance contract is allocated.
+     "Inactive" means that the authority of a license issued by the commissioner is not in effect.
+     "Individual" means a natural person or a business entity.
+     "License" means a document issued by the commissioner authorizing a person to act as a surplus lines broker as specified in the document.  The license itself shall not create any authority, actual, apparent, or inherent, in the holder to represent or commit an insurer.
+     "Licensee" means a surplus lines broker licensed under this article."
+     (2)  By amending the definition of "surplus lines broker" to read as follows:
+     ""Surplus lines broker" means any [producer] person licensed under section 431:8-310 to place insurance on risks resident, located, or to be performed in this State with unauthorized insurers."
+     SECTION 4.  Section 431:8-310, Hawaii Revised Statutes, is amended to read as follows:
+     "§431:8-310  Surplus lines broker license required; application and qualifications for license.  (a)  No person shall procure any contract of surplus lines insurance with an unauthorized insurer unless the person is licensed as a surplus lines broker.
+     (b)  A person applying for a surplus lines broker license shall make application to the commissioner on the uniform application and declare under penalty of denial, suspension, or revocation of the license that the statements made in the application are true, accurate, and complete to the best of the applicant's knowledge and belief.  Before approving the application, the commissioner shall find that the applicant:
+     (1)  Is at least eighteen years of age;
+     (2)  Has not committed any act that is a ground for a licensure sanction set forth in section 431:8-317;
+     (3)  Has paid the applicable fees set forth in section 431:7-101;
+     (4)  Has passed, within the two years immediately preceding the date of the application or issuance of the license, whichever is later, the applicable examination; and
+     (5)  Has submitted a full set of fingerprints, including a scanned file from a hard copy fingerprint, for the commissioner to obtain and receive national and state criminal history records checks from the Federal Bureau of Investigation and the Hawaii criminal justice data center, pursuant to section 846-2.7.
+     (c)  The commissioner may require any documents reasonably necessary to verify the information contained in an application.
+     [(b)] (d)  The commissioner shall issue a surplus lines broker license to any producer licensed under article 9A, except producers licensed under section 431:9A-107(a)(1), (2), or (5), when the producer has:
+     (1)  Remitted the annual license fee to the commissioner as provided in article 7; and
+     (2)  Submitted a completed license application on a form furnished by the commissioner.
+     [(c)] (e)  A surplus lines broker license shall be inactivated if the licensee fails to pay any required fee or penalty.  A surplus lines broker who allows the surplus lines broker's license to become inactive for nonpayment of the renewal fee may reinstate that license without the necessity of a written examination; provided that the surplus lines broker:
+     (1)  Pays the fee and a penalty in the amount of fifty per cent of the then unpaid fees within twenty-four months from the inactivation date; and
+     (2)  Is in compliance with all requirements of chapter 431.
+The license shall automatically expire if the surplus lines broker does not reinstate the surplus lines broker's license within the twenty-four[-]month period.
+     [(d)] (f)  Business entities shall be eligible to be surplus lines brokers, upon meeting the following conditions:
+     (1)  The business entity licensee shall list individuals within the business entity who have satisfied all requirements of this part to become surplus lines brokers;
+     (2)  Only those individuals listed on the business entity's license shall transact surplus lines business; and
+     (3)  [An individual] A natural person licensed as a surplus lines broker shall be identified as the business entity's designated representative.
+     [(e)] (g)  Licensing procedure, duration, and related matters [are] shall be governed by [articles] article 7 [and 9A]."
+     SECTION 5.  Section 431:8-317, Hawaii Revised Statutes, is amended as follows:
+     (1)  By amending its title to read as follows:
+"§431:8-317  [Suspension] License denial, nonrenewal, suspension, or revocation [of license]."
+     (2)  By amending subsections (a) and (b) to read as follows:
+     "(a)  The commissioner may deny, place on probation, suspend, revoke, or refuse to [extend] issue or renew any surplus lines broker's license and may levy a civil penalty in accordance with articles 2 and 3, or any combination of these actions, for any cause specified in any other provision of this chapter, or for any of the following causes:
+     (1)  Failure to file statements required by section 431:8-313 or to pay the tax required by section 431:8-315;
+     (2)  Failure to keep records or to allow the commissioner to examine the surplus lines broker's records as provided in this article;
+     (3)  Removal of office accounts and records from this State during the period in which the accounts are required to be maintained under this article;
+     (4)  Any of the causes for which a producer's license may be suspended or revoked under article 9A;
+     (5)  Any cause for which issuance of the license could have been refused had it then existed and been known to the commissioner;
+     (6)  Wilful violation or knowing participation in the violation of any provision of this code;
+     (7)  Obtaining or attempting to obtain a license under this chapter through wilful misrepresentation or fraud, or failure to pass any examination required by section [431:9A-105;] 431:8-D;
+     (8)  Misappropriation, conversion to the licensee's own use, or illegally withholding moneys required to be held in a fiduciary capacity;
+     (9)  Material misrepresentation with intent to deceive of the terms or effect of any insurance contract, or engagement or intent to engage in any fraudulent transaction;
+    (10)  Commission of any unfair practice or fraud as defined in article 13;
+    (11)  Conduct of affairs under a license issued pursuant to this chapter in a manner that causes injury and loss to the public;
+    (12)  The issuance or purported issuance of any binder as to any insurer named in the binder if the licensee is not authorized to bind the insurer; or
+    (13)  Dealing or attempting to deal with insurance or exercising powers relative to insurance outside the scope of the licensee's licenses.
+     (b)  The license of any [partnership or corporation] business entity may be denied, placed on probation, suspended, revoked, [or refused] not issued or not renewed for any of the causes applicable to any individual designated in the license to exercise the [partnership's or corporation's] business entities' powers."
+     SECTION 6.  Section 431:9A-102, Hawaii Revised Statutes, is amended by amending the definition of "credit hour" to read as follows:
+     ""Credit hour" means the value assigned to[:
+     (1)  Fifty minutes of classroom instruction; or
+     (2)  In the case of self-study courses, fifteen to twenty full pages of reading materials excluding graphics, quizzes, and illustrations, depending on content and type-face, as determined by the commissioner;
+in] an approved continuing education course[.] that is equivalent to at least fifty minutes of classroom instruction."
+     SECTION 7.  Section 431:9A-105, Hawaii Revised Statutes, is amended by amending subsection (d) as follows:
+     "(d)  An applicant's examination scores shall be valid for two years from the date of the examination [or last renewal, whichever is later]."
+     SECTION 8.  Section 431:9A-108, Hawaii Revised Statutes, is amended to read as follows:
+     "§431:9A-108  Nonresident licensing.  (a)  Except as provided in section 431:9A-112, a nonresident applicant shall receive a nonresident producer license if:
+     (1)  The applicant is currently licensed [as a resident] and is in good standing as a resident producer in the applicant's home state;
+     (2)  The applicant has submitted the proper request for licensure and has paid the fees required by section 431:7-101;
+     (3)  The applicant has submitted or transmitted to the commissioner the application for licensure that the applicant submitted to the applicant's home state, or in lieu of the same, a completed uniform application; and
+     (4)  The applicant's home state awards nonresident producer licenses to residents of this State on the same basis.
+     (b)  The commissioner may verify the producer's licensing status through the producer database maintained by the National Association of Insurance Commissioners, its affiliates, or subsidiaries.
+     (c)  A nonresident producer who moves from one state to another state or a resident producer who moves from this State to another state shall file a change of address with the commissioner and shall provide certification from the new resident state within thirty days of the change of legal residence.  No fee or license application shall be required.   Failure to timely inform the commissioner of a change in address shall result in a penalty pursuant to section 431:2-203.
+     [(d)  Notwithstanding any other provision of this article, an applicant licensed as a surplus lines producer in the applicant's home state shall receive a surplus lines broker license if:
+     (1)  The applicant complies with subsection (a); and
+     (2)  The applicant's home state issues nonresident surplus lines broker licenses to residents of this State on the same basis.
+     (e)] (d)  Notwithstanding any other provision of this article, an applicant licensed as a limited line credit insurance producer or other type of limited lines producer in the person's home state shall receive a nonresident limited lines producer license, pursuant to subsection (a), granting the same scope of authority as granted under the license issued by the producer's home state.  Limited lines insurance authority is any authority granted by the home state, that restricts the authority of the license to less than the total authority prescribed in the associated major lines pursuant to section 431:9A-107(a)(1) through (5)."
+     SECTION 9.  Section 431:9A-124, Hawaii Revised Statutes, is amended to read as follows:
+     "§431:9A-124  Prerequisites for license renewal.  (a)  To qualify for a license renewal, a licensee shall:
+     (1)  During the twenty-four months preceding a license renewal, complete the required number of credit hours as set forth in subsection (b) in approved continuing education courses; and
+     (2)  Pay the fees as required under section 431:7-101.
+     (b)  The required number of credit hours shall be as follows:
+     (1)  For a licensee authorized to sell lines of insurance in only one of the following groups:
+          (A)  Life or accident and health or sickness; or
+          (B)  Property, marine and transportation, vehicle, general casualty, or surety;
+          the requisite number of credit hours shall be twenty-four credit hours, consisting of twenty-one credit hours relating to the line of authority for which the license is held and three credit hours relating to ethics training or relating to the insurance laws and the insurance rules;
+     (2)  For a licensee with a license to sell lines of insurance in both groups in paragraph (1), the total requisite number of credit hours shall be twenty-four credit hours, consisting of:
+          (A)  Ten credit hours relating to paragraph (1)(A);
+          (B)  Eleven credit hours relating to paragraph (1)(B); and
+          (C)  Three credit hours relating to ethics training or to insurance laws and rules.
+For purposes of this section, ethics training shall include but shall not be limited to the study of fiduciary responsibility, commingling of funds, payment and acceptance of commissions, unfair claims practices, policy replacement considerations, and conflicts of interest.
+     (c)  Continuing education equivalents, as determined and approved by the commissioner, may include the teaching of continuing education courses and holding certain professional designations, but shall not include the use of carryover credit hours earned in excess of the required hours in any two-year renewal cycle.
+     (d)  Unless an extension of time has been granted in advance by the commissioner, a licensee's failure to satisfy all of the continuing education requirements by the renewal date shall result in that licensee's license being automatically placed on an inactive status.  To reactivate a license, the licensee shall submit proof to the insurance division that the requisite number of credit hours has been completed and the licensee shall pay any required fees and penalties.
+     (e)  After a licensee completes an approved continuing education course, the approved course provider shall issue to the licensee a certificate of completion in a form approved by the commissioner that certifies that the licensee has successfully completed the course.  Both the licensee and a person authorized to sign on behalf of the approved course provider shall sign the certificate of completion.  The approved course provider shall electronically submit the certificate of completion to the insurance division within fifteen days of course completion.
+     (f)  This section shall not apply to a licensee granted an exemption by the commissioner from this section pursuant to section 431:9A-116.
+     (g)  The commissioner may grant an extension of time to meet the requirements of this section to a licensee on extended active military duty for a period of time equal to the number of days the licensee was on active military duty.
+     (h)  A licensee need not retake the producer license examination provided that renewal requirements in this section are met or reactivation occurs within two years of the date of inactivation."
+     SECTION 10.  Section 431:9B-101, Hawaii Revised Statutes, is amended as follows:
+     (1)  By amending the definition of "reinsurance intermediary" to read as follows:
+     ""Reinsurance intermediary" or "producer" means a reinsurance intermediary-broker or a reinsurance intermediary-manager [as these terms are defined in this section.] licensed pursuant to this article and article 9A."
+     (2)  By repealing the definition of "licensed producer" or "producer".
+     [""Licensed producer" or "producer" means a producer or reinsurance intermediary licensed pursuant to this chapter."]
+     SECTION 11.  Section 431:9B-102, Hawaii Revised Statutes, is amended to read as follows:
+     "§431:9B-102  Licensure.  (a)  [No person, firm, association, or corporation shall act as a reinsurance intermediary-broker in this State if the reinsurance intermediary-broker maintains an office either directly or as a member or employee of a firm or association or as an officer, director, or employee of a corporation:
+     (1)  In this State, unless the reinsurance intermediary-broker is a licensed producer in this State; or
+     (2)  In another state, unless the reinsurance intermediary-broker is a licensed producer in this State or another state having a law substantially similar to this law, or such reinsurance intermediary-broker is licensed in this State as a nonresident reinsurance intermediary.]
+Persons, firms, associations, and corporations acting as a reinsurance intermediary-broker in this State shall maintain a license as a reinsurance intermediary-broker in this State.  The reinsurance intermediary-broker shall maintain a license in every state where it maintains an office, either directly, as a member or employee of a firm or association, or as an officer, director, or employee of a corporation.
+     [(b)  No person, firm, association, or corporation shall act as a reinsurance intermediary-manager:
+     (1)  For a reinsurer domiciled in this State, unless the reinsurance intermediary-manager is a licensed producer in this State;
+     (2)  In this State, if the reinsurance intermediary-manager maintains an office either directly or as a member or employee of a firm or association, or an officer, director, or employee of a corporation in this State, unless the reinsurance intermediary-manager is [a] licensed producer in this State; or
+     (3)  In another state for a nondomestic insurer, unless the reinsurance intermediary-manager is a licensed producer in this State or another state having a law substantially similar to this law, or the person is licensed in this State as a nonresident reinsurance intermediary.]
+     (b)  Persons, firms, associations, and corporations acting as a reinsurance intermediary-manager for a reinsurer domiciled in this State shall maintain a license as a reinsurance intermediary-manager in this State.  A license is required to act as a reinsurance intermediary-manager in this State for a nondomestic reinsurer.
+     (c)  The commissioner [shall] may require a reinsurance intermediary-manager subject to subsection (b) to:
+     (1)  File a bond from an insurance company licensed to do business within the State or with an insurance company approved by the commissioner in an amount equal to $500,000 or ten per cent of the annual reinsurance premiums managed by the reinsurance intermediary-manager, whichever is greater, except that the bond amount under this paragraph shall not exceed $10,000,000, for the protection of the reinsurer;
+     (2)  Maintain an errors and omissions policy, with an insurance company licensed to do business within the State or with an insurance company approved by the commissioner, in an amount equal to $250,000 or twenty-five per cent of the annual reinsurance premiums managed by the reinsurance intermediary-manager, whichever is greater, except that the policy limits under this paragraph shall not exceed $10,000,000; and
+     (3)  Provide any other report required by the commissioner.
+At the [time of application for licensure and each renewal, each] commissioner's request, the reinsurance intermediary-manager shall provide the commissioner with proof of the bond and the policy, and appropriate documentation to show that the bond and the policy continue to be in effect or that a new bond and a new policy have been secured.
+  (d)(1)  The commissioner may issue a reinsurance intermediary license to any person, firm, association, or corporation that has complied with the requirements of this article.  Any such license issued to a firm or association [will] shall authorize all the members of that firm or association and any designated employees to act as reinsurance intermediaries under the license, and all those persons shall be named in the application and any supplements thereto.  Any such license issued to a corporation shall authorize all of the officers, and any designated employees and directors thereof to act as reinsurance intermediaries on behalf of the corporation, and all those persons shall be named in the application and any supplements thereto.
+     (2)  If the applicant for a reinsurance intermediary license is a nonresident, the applicant, as a condition precedent to receiving or holding a license, shall designate the commissioner as agent for service of process in the manner, and with the same legal effect, provided for by this article for service of process upon unauthorized insurers; and also shall furnish the commissioner with the name and address of a resident of this State upon whom notices or orders of the commissioner or process affecting the nonresident reinsurance intermediary may be served.  The licensee shall promptly notify the commissioner in writing of every change in its designated agent for service of process, and such change shall not become effective until acknowledged by the commissioner.
+     (3)  The commissioner shall issue a nonresident reinsurance intermediary license if:
+         (A)  The applicant is currently licensed as a resident reinsurance intermediary or insurance producer pursuant to article 9A and in good standing in the applicant's home state;
+         (B)  The applicant has submitted the proper request for licensure and paid the fees required by section 431:7-101;
+         (C)  The applicant has submitted or transmitted to the commissioner the application for licensure that the applicant submitted to the applicant's home state, or in lieu of the same, a completed uniform application; and
+         (D)  The person's home state awards nonresident license to residents of this State on the same basis.
+     (e)  The commissioner may refuse to issue a reinsurance intermediary license if, in the commissioner's judgment, the applicant, anyone named on the application, or any member, principal, officer, or director of the applicant, is not trustworthy, or that any controlling person of the applicant is not trustworthy to act as a reinsurance intermediary, or that any of the foregoing has given cause for revocation or suspension of such license, or has failed to comply with any prerequisite for the issuance of the license.  Upon written request therefor, the commissioner shall furnish a summary of the basis for refusal to issue a license, which document shall be privileged and not subject to disclosure pursuant to chapter 92F.
+     (f)  Licensed attorneys at law of this State when acting in their professional capacity as such shall be exempt from this section.
+     (g)  Licensing procedure, duration, and related matters affecting reinsurance intermediaries shall be governed by articles 7 and 9A."
+     SECTION 12.  Section 431:9B-106, Hawaii Revised Statutes, is amended to read as follows:
+     "§431:9B-106  Required contract provisions; reinsurance intermediary-managers.  Transactions between a reinsurance intermediary-manager and the reinsurer it represents in that capacity shall only be entered into pursuant to a written contract, specifying the responsibilities of each party that shall be approved by the reinsurer's board of directors.  [At least thirty days before the reinsurer assumes or cedes business through the reinsurance intermediary-manager, a true copy of the approved contract shall be filed with the commissioner for approval.]  The contract, at a minimum, shall provide that:
+     (1)  The reinsurer may terminate the contract for cause upon written notice to the reinsurance intermediary-manager.  The reinsurer may immediately suspend the authority of the reinsurance intermediary-manager to assume or cede business during the pendency of any dispute regarding the cause for termination;
+     (2)  The reinsurance intermediary-manager [will] shall render accounts to the reinsurer accurately detailing all material transactions, including information necessary to support all commissions, charges, and other fees received by or owing to the reinsurance intermediary-manager, and remit all funds due under the contract to the reinsurer on not less than a monthly basis;
+     (3)  All funds collected for the reinsurer's account [will] shall be held by the reinsurance intermediary-manager in a fiduciary capacity and deposited in a bank that is a qualified United States financial institution.  The reinsurance intermediary-manager may retain no more than three months estimated claims payments and allocated loss adjustment expenses.  The reinsurance intermediary-manager shall maintain a separate bank account for each reinsurer that it represents;
+     (4)  For at least ten years after expiration of each contract of reinsurance transacted by the reinsurance intermediary-manager, the reinsurance intermediary-manager [will] shall keep a complete record for each transaction showing:
+         (A)  The type of contract, limits, underwriting restrictions, classes or risks, and territory;
+         (B)  Period of coverage, including effective and expiration dates, cancellation provisions and notice required for cancellation, and disposition of outstanding reserves on covered risks;
+         (C)  Reporting and settlement requirements of balances;
+         (D)  Rate used to compute the reinsurance premium;
+         (E)  Names and addresses of reinsurers;
+         (F)  Rates of all reinsurance commissions, including the commissions on any retrocessions handled by the reinsurance intermediary-manager;
+         (G)  Related correspondence and memoranda;
+         (H)  Proof of placement;
+         (I)  Details regarding retrocessions handled by the reinsurance intermediary-manager, as permitted by section 431:9B-108(d), including the identity of retrocessionaires and percentage of each contract assumed or ceded;
+         (J)  Financial records, including but not limited to, premium and loss accounts; and
+         (K)  When the reinsurance intermediary-manager places a reinsurance contract on behalf of a ceding insurer:
+              (i)  Directly from any assuming reinsurer, written evidence that the assuming reinsurer has agreed to assume the risk; or
+             (ii)  If placed through a representative of the assuming reinsurer, other than an employee, written evidence that the reinsurer has delegated binding authority to the representative;
+     (5)  The reinsurer [will] shall have access and the right to copy all accounts and records maintained by the reinsurance intermediary-manager related to its business in a form usable by the reinsurer;
+     (6)  The contract [cannot] shall not be assigned in whole or in part by the reinsurance intermediary-manager;
+     (7)  The reinsurance intermediary-manager [will] shall comply with the written underwriting and rating standards established by the insurer for the acceptance, rejection, or cession of all risks;
+     (8)  [Sets] The contract sets forth the rates, terms, and purposes of commissions, charges, and other fees that the reinsurance intermediary-manager may levy against the reinsurer;
+     (9)  If the contract permits the reinsurance intermediary-manager to settle claims on behalf of the reinsurer:
+          (A)  All claims shall be reported to the reinsurer in a timely manner;
+          (B)  A copy of the claim file shall be sent to the reinsurer at its request or as soon as it becomes known that the claim:
+              (i)  Has the potential to exceed the lesser of an amount determined by the commissioner or the limit set by the reinsurer;
+             (ii)  Involves a coverage dispute;
+            (iii)  May exceed the reinsurance intermediary- manager's claims settlement authority;
+             (iv)  Is open for more than six months; or
+              (v)  Is closed by payment of the lesser of an amount set by the commissioner or an amount set by the reinsurer;
+          (C)  All claim files shall be the joint property of the reinsurer and reinsurance intermediary-manager.  However, upon an order of liquidation of the reinsurer, the files shall become the sole property of the reinsurer or its estate; the reinsurance intermediary-manager shall have reasonable access to and the right to copy the files on a timely basis; and
+         (D)  Any settlement authority granted to the reinsurance intermediary-manager may be terminated for cause upon the reinsurer's written notice to the reinsurance intermediary-manager or upon the termination of the contract.  The reinsurer may suspend the settlement authority during the pendency of the dispute regarding the cause of termination;
+    (10)  If the contract provides for a sharing of interim profits by the reinsurance intermediary-manager, [that such] interim profits shall not be paid until one year after the end of each underwriting period for property business and five years after the end of each underwriting period for casualty business (or a later period set by the commissioner for specified lines of insurance) and not until the adequacy of reserves on remaining claims has been verified pursuant to section 431:9B-108(c);
+    (11)  The reinsurance intermediary-manager shall annually provide the reinsurer with a statement of its financial condition prepared by an independent certified accountant;
+    (12)  The reinsurer shall, at a minimum, semiannually conduct an on-site review of the underwriting and claims processing operations of the reinsurance intermediary-manager;
+    (13)  The reinsurance intermediary-manager shall disclose to the reinsurer any relationship it has with any insurer prior to ceding or assuming any business with the insurer pursuant to the contract; and
+    (14)  Within the scope of its actual or apparent authority the acts of the reinsurance intermediary-manager shall be deemed to be the acts of the reinsurer on whose behalf it is acting."
+     SECTION 13.  Section 43l:l0D-622, Hawaii Revised Statutes, is amended by adding two new definitions to be appropriately inserted and to read as follows:
+     ""Approved continuing education course provider" means an individual or entity that is approved to offer continuing education courses pursuant to article 9A.
+     "Continuing education credit" means one continuing education credit hour.  For the purposes of this paragraph, "credit hour" shall have the same meaning as set forth in section 431:9A-102."
+     SECTION 14.  Section 431:10D-626, Hawaii Revised Statutes, is amended to read as follows:
+     "§431:10D-626  Insurance producer training.  (a)  An insurance producer shall not solicit the sale of an annuity product unless the insurance producer has adequate knowledge of the product to recommend the annuity and the insurance producer is in compliance with the insurer's standards for product training.  An insurance producer may rely on insurer-provided product-specific training standards and materials to comply with this subsection.
+     (b)  Any insurance producer who is authorized to sell [life or accident and health or sickness insurance and who engages in the sale of] annuity products on or before January 31, 2012, shall complete by January 31, 2012, a one-time training course on annuity products [that is approved by the commissioner and is conducted by an approved continuing education course provider.] meeting the requirements of subsection (d).
+     (c)  An insurance producer who obtains a life [insurance] or variable life and variable annuity products line of authority after January 31, 2012, shall not engage in the sale of annuities until the insurance [provider] producer has completed training [that meets the following] meeting the requirements[:] of subsection (d).
+     (d)  The training required by this section shall be approved by the commissioner, be conducted by an approved continuing education course provider, and meet the following requirements:
+     (1)  The minimum length of the training shall be sufficient to qualify for at least four continuing education credits;
+     (2)  The training shall include information on the following topics:
+         (A)  The types and various classifications of annuities available on the market;
+         (B)  Identification of the parties to an annuity;
+         (C)  How fixed, variable, and indexed annuity contract provisions affect consumers;
+         (D)  The application of income taxation to qualified and non-qualified annuities;
+         (E)  The primary uses of annuities; and
+         (F)  Appropriate sales practices, replacement, and disclosure requirements; and
+     (3)  The training shall not include any marketing information for products of any particular insurer or training on sales techniques.
+     (e)  A provider of an annuity training course intending to comply with this section shall register as an approved continuing education course provider in this State and comply with the rules and guidelines applicable to insurance producer continuing education courses as set forth in article 9A.
+     (f)  Annuity training courses may be conducted and completed by classroom or self-study methods in accordance with article 9A.
+     (g)  Providers of annuity training shall comply with the reporting requirements and shall issue certificates of completion in accordance with article 9A.
+     (h)  The satisfaction of the training requirements of another state that are substantially similar to the provisions of this section shall be deemed to satisfy the training requirements of this section in this State.
+     [(c)] (i)  An insurer shall verify that an insurance producer has completed the annuity training course required by this section before allowing the producer to sell an annuity product for the insurer.  An insurer may satisfy its responsibility under this subsection by obtaining certificates of completion [from the training course provider, or by obtaining reports from the commissioner, from training course providers,] of the training course or from a reasonably reliable commercial database vendor that has a reporting arrangement with approved [insurance] continuing education course providers."
+     SECTION 15.  In codifying the new sections added to part III of article 8 of chapter 431, Hawaii Revised Statutes, by section 1 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating and referring to the new sections in this Act.
+     SECTION 16.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 17.  This Act shall take effect on July 1, 2012; provided that sections 6, 13, and 14 shall take effect retroactive to January 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Insurance; Licensing Requirements
+ 
+Description:
+Eliminates underlying producer license requirement for applying and obtaining surplus lines broker license; provides greater clarity and consistency in licensing insurance producers selling annuity products; clarifies reinsurance intermediary licensing requirements and removes unnecessary licensing conditions.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+00%'>(2)  For a licensee who also holds a producer license to sell life or accident and health or sickness lines of insurance pursuant to article 9A, the total requisite number of credit hours shall be twenty-four credit hours, consisting of:
+
+          (A)  Ten credit hours relating to life or accident and health or sickness insurance;
+          (B)  Eleven credit hours relating to property, marine and transportation, vehicle, general casualty, or surety insurance; and
+          (C)  Three credit hours relating to ethics training or to insurance laws and rules.
+For purposes of this section, ethics training shall include but shall not be limited to the topics of fiduciary responsibility, commingling of funds, payment and acceptance of commissions, unfair claims practices, policy replacement considerations, and conflicts of interest.
+     (c)  Continuing education equivalents, as determined and approved by the commissioner, may include the teaching of continuing education courses and holding certain professional designations, but shall not include the use of carryover credit hours earned in excess of the required hours in any two-year renewal cycle.
+     (d)  Unless an extension of time has been granted in advance by the commissioner, a licensee's failure to satisfy all of the continuing education requirements by the renewal date shall result in that licensee's license being automatically placed on an inactive status.  To reactivate a license, the licensee shall submit proof to the commissioner that the requisite number of credit hours has been completed and the licensee shall pay any required fees and penalties.
+     (e)  After a licensee completes an approved continuing education course, the approved course provider shall issue to the licensee a certificate of completion in a form approved by the commissioner that certifies that the licensee has successfully completed the course.  Both the licensee and a person authorized to sign on behalf of the approved course provider shall sign the certificate of completion.  The approved course provider shall electronically submit the certificate of completion to the commissioner within fifteen days of course completion.
+     (f)  This section shall not apply to a licensee granted an exemption by the commissioner from this section pursuant to section 431:8-B.
+     (g)  The commissioner may grant an extension of time to meet the requirements of this section to a licensee on extended active military duty for a period of time equal to the number of days the licensee was on active military duty, provided there are no federal laws mandating an extension of time in a specified situation.
+     (h)  A licensee need not retake the surplus lines broker license examination provided that renewal requirements in this section are met or reactivation occurs within two years of the date of inactivation.
+     §431:8-H  Continuing education recordkeeping.  (a)  Licensees shall maintain their own continuing education records and shall keep these records for four years after completion of an approved continuing education course.
+     (b)  Approved course providers shall maintain attendance records for five years to permit the commissioner to verify the attendance and course completion of all licensees enrolled in an approved course.  Approved course providers shall make their records available at all times to the commissioner.
+     §431:8-I  Commissioner's authority to grant waiver.  Upon the receiving of a written request and a showing of good cause, the commissioner shall have the authority to grant a waiver of any requirement of an insurance law or insurance rule as applied to an applicant or a producer."
+     SECTION 2.  Section 431:2-203, Hawaii Revised Statutes, is amended as follows:
+     (1)  By amending subsection (d) to read as follows:
+     "(d)  If the commissioner has cause to believe that any person is violating or is about to violate any provision of this code or any order of the commissioner, the commissioner may issue a cease and desist order to enforce compliance with this code or any order of the commissioner, or bring an action in any court of competent jurisdiction to enjoin the person from continuing the violation or doing any act in furtherance thereof.  The commissioner shall have the discretion to include in a cease and desist order or request in an action brought in any court an assessment of a monetary penalty and restitution against any person who violates this code or who has violated an order of the commissioner."
+     (2)  By amending subsection (g) to read as follows:
+     "(g)  A monetary penalty and restitution may be imposed in addition to any applicable suspension, revocation, or denial of a license or certificate of authority."
+     SECTION 3.  Section 431:8-102, Hawaii Revised Statutes, is amended as follows:
+     (1)  By adding nine new definitions to be appropriately inserted and to read as follows:
+     ""Approved continuing education course" means a course approved by the commissioner following receipt of recommendations from insurance professionals.
+     "Approved course provider" means an individual or entity that is approved to offer continuing education courses pursuant to article 9A.
+     "Business entity" means an association, corporation, individual, limited liability company, limited liability partnership, partnership, person, or other legal entity.
+     "Credit hour" means the value assigned to an approved continuing education course that is equivalent to at least fifty minutes of classroom instruction.
+     "Home state" means, with respect to an insured, the state in which an insured maintains the insured's principal place of business or, in the case of a surplus lines broker, the state in which the surplus lines broker maintains the surplus lines broker's principal residence or principal place of business and is licensed to act as surplus lines broker; provided that if one hundred per cent of the insured risk is located out of the state where the insured maintains the insured's principal place of business or the state where the individual maintains the principal residence, the home state shall be the state where the greatest percentage of the insured's taxable premium for that insurance contract is allocated.
+     "Inactive" means that the authority of a license issued by the commissioner is not in effect.
+     "Individual" means a natural person or a business entity.
+     "License" means a document issued by the commissioner authorizing a person to act as a surplus lines broker as specified in the document.  The license itself shall not create any authority, actual, apparent, or inherent, in the holder to represent or commit an insurer.
+     "Licensee" means a surplus lines broker licensed under this article."
+     (2)  By amending the definition of "surplus lines broker" to read as follows:
+     ""Surplus lines broker" means any [producer] person licensed under section 431:8-310 to place insurance on risks resident, located, or to be performed in this State with unauthorized insurers."
+     SECTION 4.  Section 431:8-310, Hawaii Revised Statutes, is amended to read as follows:
+     "§431:8-310  Surplus lines broker license required; application and qualifications for license.  (a)  No person shall procure any contract of surplus lines insurance with an unauthorized insurer unless the person is licensed as a surplus lines broker.
+     (b)  A person applying for a surplus lines broker license shall make application to the commissioner on the uniform application and declare under penalty of denial, suspension, or revocation of the license that the statements made in the application are true, accurate, and complete to the best of the applicant's knowledge and belief.  Before approving the application, the commissioner shall find that the applicant:
+     (1)  Is at least eighteen years of age;
+     (2)  Has not committed any act that is a ground for a licensure sanction set forth in section 431:8-317;
+     (3)  Has paid the applicable fees set forth in section 431:7-101;
+     (4)  Has passed, within the two years immediately preceding the date of the application or issuance of the license, whichever is later, the applicable examination; and
+     (5)  Has submitted a full set of fingerprints, including a scanned file from a hard copy fingerprint, for the commissioner to obtain and receive national and state criminal history records checks from the Federal Bureau of Investigation and the Hawaii criminal justice data center, pursuant to section 846-2.7.
+     (c)  The commissioner may require any documents reasonably necessary to verify the information contained in an application.
+     [(b)] (d)  The commissioner shall issue a surplus lines broker license to any producer licensed under article 9A, except producers licensed under section 431:9A-107(a)(1), (2), or (5), when the producer has:
+     (1)  Remitted the annual license fee to the commissioner as provided in article 7; and
+     (2)  Submitted a completed license application on a form furnished by the commissioner.
+     [(c)] (e)  A surplus lines broker license shall be inactivated if the licensee fails to pay any required fee or penalty.  A surplus lines broker who allows the surplus lines broker's license to become inactive for nonpayment of the renewal fee may reinstate that license without the necessity of a written examination; provided that the surplus lines broker:
+     (1)  Pays the fee and a penalty in the amount of fifty per cent of the then unpaid fees within twenty-four months from the inactivation date; and
+     (2)  Is in compliance with all requirements of chapter 431.
+The license shall automatically expire if the surplus lines broker does not reinstate the surplus lines broker's license within the twenty-four[-]month period.
+     [(d)] (f)  Business entities shall be eligible to be surplus lines brokers, upon meeting the following conditions:
+     (1)  The business entity licensee shall list individuals within the business entity who have satisfied all requirements of this part to become surplus lines brokers;
+     (2)  Only those individuals listed on the business entity's license shall transact surplus lines business; and
+     (3)  [An individual] A natural person licensed as a surplus lines broker shall be identified as the business entity's designated representative.
+     [(e)] (g)  Licensing procedure, duration, and related matters [are] shall be governed by [articles] article 7 [and 9A]."
+     SECTION 5.  Section 431:8-317, Hawaii Revised Statutes, is amended as follows:
+     (1)  By amending its title to read as follows:
+"§431:8-317  [Suspension] License denial, nonrenewal, suspension, or revocation [of license]."
+     (2)  By amending subsections (a) and (b) to read as follows:
+     "(a)  The commissioner may deny, place on probation, suspend, revoke, or refuse to [extend] issue or renew any surplus lines broker's license and may levy a civil penalty in accordance with articles 2 and 3, or any combination of these actions, for any cause specified in any other provision of this chapter, or for any of the following causes:
+     (1)  Failure to file statements required by section 431:8-313 or to pay the tax required by section 431:8-315;
+     (2)  Failure to keep records or to allow the commissioner to examine the surplus lines broker's records as provided in this article;
+     (3)  Removal of office accounts and records from this State during the period in which the accounts are required to be maintained under this article;
+     (4)  Any of the causes for which a producer's license may be suspended or revoked under article 9A;
+     (5)  Any cause for which issuance of the license could have been refused had it then existed and been known to the commissioner;
+     (6)  Wilful violation or knowing participation in the violation of any provision of this code;
+     (7)  Obtaining or attempting to obtain a license under this chapter through wilful misrepresentation or fraud, or failure to pass any examination required by section [431:9A-105;] 431:8-D;
+     (8)  Misappropriation, conversion to the licensee's own use, or illegally withholding moneys required to be held in a fiduciary capacity;
+     (9)  Material misrepresentation with intent to deceive of the terms or effect of any insurance contract, or engagement or intent to engage in any fraudulent transaction;
+    (10)  Commission of any unfair practice or fraud as defined in article 13;
+    (11)  Conduct of affairs under a license issued pursuant to this chapter in a manner that causes injury and loss to the public;
+    (12)  The issuance or purported issuance of any binder as to any insurer named in the binder if the licensee is not authorized to bind the insurer; or
+    (13)  Dealing or attempting to deal with insurance or exercising powers relative to insurance outside the scope of the licensee's licenses.
+     (b)  The license of any [partnership or corporation] business entity may be denied, placed on probation, suspended, revoked, [or refused] not issued or not renewed for any of the causes applicable to any individual designated in the license to exercise the [partnership's or corporation's] business entities' powers."
+     SECTION 6.  Section 431:9A-102, Hawaii Revised Statutes, is amended by amending the definition of "credit hour" to read as follows:
+     ""Credit hour" means the value assigned to[:
+     (1)  Fifty minutes of classroom instruction; or
+     (2)  In the case of self-study courses, fifteen to twenty full pages of reading materials excluding graphics, quizzes, and illustrations, depending on content and type-face, as determined by the commissioner;
+in] an approved continuing education course[.] that is equivalent to at least fifty minutes of classroom instruction."
+     SECTION 7.  Section 431:9A-105, Hawaii Revised Statutes, is amended by amending subsection (d) as follows:
+     "(d)  An applicant's examination scores shall be valid for two years from the date of the examination [or last renewal, whichever is later]."
+     SECTION 8.  Section 431:9A-108, Hawaii Revised Statutes, is amended to read as follows:
+     "§431:9A-108  Nonresident licensing.  (a)  Except as provided in section 431:9A-112, a nonresident applicant shall receive a nonresident producer license if:
+     (1)  The applicant is currently licensed [as a resident] and is in good standing as a resident producer in the applicant's home state;
+     (2)  The applicant has submitted the proper request for licensure and has paid the fees required by section 431:7-101;
+     (3)  The applicant has submitted or transmitted to the commissioner the application for licensure that the applicant submitted to the applicant's home state, or in lieu of the same, a completed uniform application; and
+     (4)  The applicant's home state awards nonresident producer licenses to residents of this State on the same basis.
+     (b)  The commissioner may verify the producer's licensing status through the producer database maintained by the National Association of Insurance Commissioners, its affiliates, or subsidiaries.
+     (c)  A nonresident producer who moves from one state to another state or a resident producer who moves from this State to another state shall file a change of address with the commissioner and shall provide certification from the new resident state within thirty days of the change of legal residence.  No fee or license application shall be required.   Failure to timely inform the commissioner of a change in address shall result in a penalty pursuant to section 431:2-203.
+     [(d)  Notwithstanding any other provision of this article, an applicant licensed as a surplus lines producer in the applicant's home state shall receive a surplus lines broker license if:
+     (1)  The applicant complies with subsection (a); and
+     (2)  The applicant's home state issues nonresident surplus lines broker licenses to residents of this State on the same basis.
+     (e)] (d)  Notwithstanding any other provision of this article, an applicant licensed as a limited line credit insurance producer or other type of limited lines producer in the person's home state shall receive a nonresident limited lines producer license, pursuant to subsection (a), granting the same scope of authority as granted under the license issued by the producer's home state.  Limited lines insurance authority is any authority granted by the home state, that restricts the authority of the license to less than the total authority prescribed in the associated major lines pursuant to section 431:9A-107(a)(1) through (5)."
+     SECTION 9.  Section 431:9A-124, Hawaii Revised Statutes, is amended to read as follows:
+     "§431:9A-124  Prerequisites for license renewal.  (a)  To qualify for a license renewal, a licensee shall:
+     (1)  During the twenty-four months preceding a license renewal, complete the required number of credit hours as set forth in subsection (b) in approved continuing education courses; and
+     (2)  Pay the fees as required under section 431:7-101.
+     (b)  The required number of credit hours shall be as follows:
+     (1)  For a licensee authorized to sell lines of insurance in only one of the following groups:
+          (A)  Life or accident and health or sickness; or
+          (B)  Property, marine and transportation, vehicle, general casualty, or surety;
+          the requisite number of credit hours shall be twenty-four credit hours, consisting of twenty-one credit hours relating to the line of authority for which the license is held and three credit hours relating to ethics training or relating to the insurance laws and the insurance rules;
+     (2)  For a licensee with a license to sell lines of insurance in both groups in paragraph (1), the total requisite number of credit hours shall be twenty-four credit hours, consisting of:
+          (A)  Ten credit hours relating to paragraph (1)(A);
+          (B)  Eleven credit hours relating to paragraph (1)(B); and
+          (C)  Three credit hours relating to ethics training or to insurance laws and rules.
+For purposes of this section, ethics training shall include but shall not be limited to the study of fiduciary responsibility, commingling of funds, payment and acceptance of commissions, unfair claims practices, policy replacement considerations, and conflicts of interest.
+     (c)  Continuing education equivalents, as determined and approved by the commissioner, may include the teaching of continuing education courses and holding certain professional designations, but shall not include the use of carryover credit hours earned in excess of the required hours in any two-year renewal cycle.
+     (d)  Unless an extension of time has been granted in advance by the commissioner, a licensee's failure to satisfy all of the continuing education requirements by the renewal date shall result in that licensee's license being automatically placed on an inactive status.  To reactivate a license, the licensee shall submit proof to the insurance division that the requisite number of credit hours has been completed and the licensee shall pay any required fees and penalties.
+     (e)  After a licensee completes an approved continuing education course, the approved course provider shall issue to the licensee a certificate of completion in a form approved by the commissioner that certifies that the licensee has successfully completed the course.  Both the licensee and a person authorized to sign on behalf of the approved course provider shall sign the certificate of completion.  The approved course provider shall electronically submit the certificate of completion to the insurance division within fifteen days of course completion.
+     (f)  This section shall not apply to a licensee granted an exemption by the commissioner from this section pursuant to section 431:9A-116.
+     (g)  The commissioner may grant an extension of time to meet the requirements of this section to a licensee on extended active military duty for a period of time equal to the number of days the licensee was on active military duty.
+     (h)  A licensee need not retake the producer license examination provided that renewal requirements in this section are met or reactivation occurs within two years of the date of inactivation."
+     SECTION 10.  Section 431:9B-101, Hawaii Revised Statutes, is amended as follows:
+     (1)  By amending the definition of "reinsurance intermediary" to read as follows:
+     ""Reinsurance intermediary" or "producer" means a reinsurance intermediary-broker or a reinsurance intermediary-manager [as these terms are defined in this section.] licensed pursuant to this article and article 9A."
+     (2)  By repealing the definition of "licensed producer" or "producer".
+     [""Licensed producer" or "producer" means a producer or reinsurance intermediary licensed pursuant to this chapter."]
+     SECTION 11.  Section 431:9B-102, Hawaii Revised Statutes, is amended to read as follows:
+     "§431:9B-102  Licensure.  (a)  [No person, firm, association, or corporation shall act as a reinsurance intermediary-broker in this State if the reinsurance intermediary-broker maintains an office either directly or as a member or employee of a firm or association or as an officer, director, or employee of a corporation:
+     (1)  In this State, unless the reinsurance intermediary-broker is a licensed producer in this State; or
+     (2)  In another state, unless the reinsurance intermediary-broker is a licensed producer in this State or another state having a law substantially similar to this law, or such reinsurance intermediary-broker is licensed in this State as a nonresident reinsurance intermediary.]
+Persons, firms, associations, and corporations acting as a reinsurance intermediary-broker in this State shall maintain a license as a reinsurance intermediary-broker in this State.  The reinsurance intermediary-broker shall maintain a license in every state where it maintains an office, either directly, as a member or employee of a firm or association, or as an officer, director, or employee of a corporation.
+     [(b)  No person, firm, association, or corporation shall act as a reinsurance intermediary-manager:
+     (1)  For a reinsurer domiciled in this State, unless the reinsurance intermediary-manager is a licensed producer in this State;
+     (2)  In this State, if the reinsurance intermediary-manager maintains an office either directly or as a member or employee of a firm or association, or an officer, director, or employee of a corporation in this State, unless the reinsurance intermediary-manager is [a] licensed producer in this State; or
+     (3)  In another state for a nondomestic insurer, unless the reinsurance intermediary-manager is a licensed producer in this State or another state having a law substantially similar to this law, or the person is licensed in this State as a nonresident reinsurance intermediary.]
+     (b)  Persons, firms, associations, and corporations acting as a reinsurance intermediary-manager for a reinsurer domiciled in this State shall maintain a license as a reinsurance intermediary-manager in this State.  A license is required to act as a reinsurance intermediary-manager in this State for a nondomestic reinsurer.
+     (c)  The commissioner [shall] may require a reinsurance intermediary-manager subject to subsection (b) to:
+     (1)  File a bond from an insurance company licensed to do business within the State or with an insurance company approved by the commissioner in an amount equal to $500,000 or ten per cent of the annual reinsurance premiums managed by the reinsurance intermediary-manager, whichever is greater, except that the bond amount under this paragraph shall not exceed $10,000,000, for the protection of the reinsurer;
+     (2)  Maintain an errors and omissions policy, with an insurance company licensed to do business within the State or with an insurance company approved by the commissioner, in an amount equal to $250,000 or twenty-five per cent of the annual reinsurance premiums managed by the reinsurance intermediary-manager, whichever is greater, except that the policy limits under this paragraph shall not exceed $10,000,000; and
+     (3)  Provide any other report required by the commissioner.
+At the [time of application for licensure and each renewal, each] commissioner's request, the reinsurance intermediary-manager shall provide the commissioner with proof of the bond and the policy, and appropriate documentation to show that the bond and the policy continue to be in effect or that a new bond and a new policy have been secured.
+  (d)(1)  The commissioner may issue a reinsurance intermediary license to any person, firm, association, or corporation that has complied with the requirements of this article.  Any such license issued to a firm or association [will] shall authorize all the members of that firm or association and any designated employees to act as reinsurance intermediaries under the license, and all those persons shall be named in the application and any supplements thereto.  Any such license issued to a corporation shall authorize all of the officers, and any designated employees and directors thereof to act as reinsurance intermediaries on behalf of the corporation, and all those persons shall be named in the application and any supplements thereto.
+     (2)  If the applicant for a reinsurance intermediary license is a nonresident, the applicant, as a condition precedent to receiving or holding a license, shall designate the commissioner as agent for service of process in the manner, and with the same legal effect, provided for by this article for service of process upon unauthorized insurers; and also shall furnish the commissioner with the name and address of a resident of this State upon whom notices or orders of the commissioner or process affecting the nonresident reinsurance intermediary may be served.  The licensee shall promptly notify the commissioner in writing of every change in its designated agent for service of process, and such change shall not become effective until acknowledged by the commissioner.
+     (3)  The commissioner shall issue a nonresident reinsurance intermediary license if:
+         (A)  The applicant is currently licensed as a resident reinsurance intermediary or insurance producer pursuant to article 9A and in good standing in the applicant's home state;
+         (B)  The applicant has submitted the proper request for licensure and paid the fees required by section 431:7-101;
+         (C)  The applicant has submitted or transmitted to the commissioner the application for licensure that the applicant submitted to the applicant's home state, or in lieu of the same, a completed uniform application; and
+         (D)  The person's home state awards nonresident license to residents of this State on the same basis.
+     (e)  The commissioner may refuse to issue a reinsurance intermediary license if, in the commissioner's judgment, the applicant, anyone named on the application, or any member, principal, officer, or director of the applicant, is not trustworthy, or that any controlling person of the applicant is not trustworthy to act as a reinsurance intermediary, or that any of the foregoing has given cause for revocation or suspension of such license, or has failed to comply with any prerequisite for the issuance of the license.  Upon written request therefor, the commissioner shall furnish a summary of the basis for refusal to issue a license, which document shall be privileged and not subject to disclosure pursuant to chapter 92F.
+     (f)  Licensed attorneys at law of this State when acting in their professional capacity as such shall be exempt from this section.
+     (g)  Licensing procedure, duration, and related matters affecting reinsurance intermediaries shall be governed by articles 7 and 9A."
+     SECTION 12.  Section 431:9B-106, Hawaii Revised Statutes, is amended to read as follows:
+     "§431:9B-106  Required contract provisions; reinsurance intermediary-managers.  Transactions between a reinsurance intermediary-manager and the reinsurer it represents in that capacity shall only be entered into pursuant to a written contract, specifying the responsibilities of each party that shall be approved by the reinsurer's board of directors.  [At least thirty days before the reinsurer assumes or cedes business through the reinsurance intermediary-manager, a true copy of the approved contract shall be filed with the commissioner for approval.]  The contract, at a minimum, shall provide that:
+     (1)  The reinsurer may terminate the contract for cause upon written notice to the reinsurance intermediary-manager.  The reinsurer may immediately suspend the authority of the reinsurance intermediary-manager to assume or cede business during the pendency of any dispute regarding the cause for termination;
+     (2)  The reinsurance intermediary-manager [will] shall render accounts to the reinsurer accurately detailing all material transactions, including information necessary to support all commissions, charges, and other fees received by or owing to the reinsurance intermediary-manager, and remit all funds due under the contract to the reinsurer on not less than a monthly basis;
+     (3)  All funds collected for the reinsurer's account [will] shall be held by the reinsurance intermediary-manager in a fiduciary capacity and deposited in a bank that is a qualified United States financial institution.  The reinsurance intermediary-manager may retain no more than three months estimated claims payments and allocated loss adjustment expenses.  The reinsurance intermediary-manager shall maintain a separate bank account for each reinsurer that it represents;
+     (4)  For at least ten years after expiration of each contract of reinsurance transacted by the reinsurance intermediary-manager, the reinsurance intermediary-manager [will] shall keep a complete record for each transaction showing:
+         (A)  The type of contract, limits, underwriting restrictions, classes or risks, and territory;
+         (B)  Period of coverage, including effective and expiration dates, cancellation provisions and notice required for cancellation, and disposition of outstanding reserves on covered risks;
+         (C)  Reporting and settlement requirements of balances;
+         (D)  Rate used to compute the reinsurance premium;
+         (E)  Names and addresses of reinsurers;
+         (F)  Rates of all reinsurance commissions, including the commissions on any retrocessions handled by the reinsurance intermediary-manager;
+         (G)  Related correspondence and memoranda;
+         (H)  Proof of placement;
+         (I)  Details regarding retrocessions handled by the reinsurance intermediary-manager, as permitted by section 431:9B-108(d), including the identity of retrocessionaires and percentage of each contract assumed or ceded;
+         (J)  Financial records, including but not limited to, premium and loss accounts; and
+         (K)  When the reinsurance intermediary-manager places a reinsurance contract on behalf of a ceding insurer:
+              (i)  Directly from any assuming reinsurer, written evidence that the assuming reinsurer has agreed to assume the risk; or
+             (ii)  If placed through a representative of the assuming reinsurer, other than an employee, written evidence that the reinsurer has delegated binding authority to the representative;
+     (5)  The reinsurer [will] shall have access and the right to copy all accounts and records maintained by the reinsurance intermediary-manager related to its business in a form usable by the reinsurer;
+     (6)  The contract [cannot] shall not be assigned in whole or in part by the reinsurance intermediary-manager;
+     (7)  The reinsurance intermediary-manager [will] shall comply with the written underwriting and rating standards established by the insurer for the acceptance, rejection, or cession of all risks;
+     (8)  [Sets] The contract sets forth the rates, terms, and purposes of commissions, charges, and other fees that the reinsurance intermediary-manager may levy against the reinsurer;
+     (9)  If the contract permits the reinsurance intermediary-manager to settle claims on behalf of the reinsurer:
+          (A)  All claims shall be reported to the reinsurer in a timely manner;
+          (B)  A copy of the claim file shall be sent to the reinsurer at its request or as soon as it becomes known that the claim:
+              (i)  Has the potential to exceed the lesser of an amount determined by the commissioner or the limit set by the reinsurer;
+             (ii)  Involves a coverage dispute;
+            (iii)  May exceed the reinsurance intermediary- manager's claims settlement authority;
+             (iv)  Is open for more than six months; or
+              (v)  Is closed by payment of the lesser of an amount set by the commissioner or an amount set by the reinsurer;
+          (C)  All claim files shall be the joint property of the reinsurer and reinsurance intermediary-manager.  However, upon an order of liquidation of the reinsurer, the files shall become the sole property of the reinsurer or its estate; the reinsurance intermediary-manager shall have reasonable access to and the right to copy the files on a timely basis; and
+         (D)  Any settlement authority granted to the reinsurance intermediary-manager may be terminated for cause upon the reinsurer's written notice to the reinsurance intermediary-manager or upon the termination of the contract.  The reinsurer may suspend the settlement authority during the pendency of the dispute regarding the cause of termination;
+    (10)  If the contract provides for a sharing of interim profits by the reinsurance intermediary-manager, [that such] interim profits shall not be paid until one year after the end of each underwriting period for property business and five years after the end of each underwriting period for casualty business (or a later period set by the commissioner for specified lines of insurance) and not until the adequacy of reserves on remaining claims has been verified pursuant to section 431:9B-108(c);
+    (11)  The reinsurance intermediary-manager shall annually provide the reinsurer with a statement of its financial condition prepared by an independent certified accountant;
+    (12)  The reinsurer shall, at a minimum, semiannually conduct an on-site review of the underwriting and claims processing operations of the reinsurance intermediary-manager;
+    (13)  The reinsurance intermediary-manager shall disclose to the reinsurer any relationship it has with any insurer prior to ceding or assuming any business with the insurer pursuant to the contract; and
+    (14)  Within the scope of its actual or apparent authority the acts of the reinsurance intermediary-manager shall be deemed to be the acts of the reinsurer on whose behalf it is acting."
+     SECTION 13.  Section 43l:l0D-622, Hawaii Revised Statutes, is amended by adding two new definitions to be appropriately inserted and to read as follows:
+     ""Approved continuing education course provider" means an individual or entity that is approved to offer continuing education courses pursuant to article 9A.
+     "Continuing education credit" means one continuing education credit hour.  For the purposes of this paragraph, "credit hour" shall have the same meaning as set forth in section 431:9A-102."
+     SECTION 14.  Section 431:10D-626, Hawaii Revised Statutes, is amended to read as follows:
+     "§431:10D-626  Insurance producer training.  (a)  An insurance producer shall not solicit the sale of an annuity product unless the insurance producer has adequate knowledge of the product to recommend the annuity and the insurance producer is in compliance with the insurer's standards for product training.  An insurance producer may rely on insurer-provided product-specific training standards and materials to comply with this subsection.
+     (b)  Any insurance producer who is authorized to sell [life or accident and health or sickness insurance and who engages in the sale of] annuity products on or before January 31, 2012, shall complete by January 31, 2012, a one-time training course on annuity products [that is approved by the commissioner and is conducted by an approved continuing education course provider.] meeting the requirements of subsection (d).
+     (c)  An insurance producer who obtains a life [insurance] or variable life and variable annuity products line of authority after January 31, 2012, shall not engage in the sale of annuities until the insurance [provider] producer has completed training [that meets the following] meeting the requirements[:] of subsection (d).
+     (d)  The training required by this section shall be approved by the commissioner, be conducted by an approved continuing education course provider, and meet the following requirements:
+     (1)  The minimum length of the training shall be sufficient to qualify for at least four continuing education credits;
+     (2)  The training shall include information on the following topics:
+         (A)  The types and various classifications of annuities available on the market;
+         (B)  Identification of the parties to an annuity;
+         (C)  How fixed, variable, and indexed annuity contract provisions affect consumers;
+         (D)  The application of income taxation to qualified and non-qualified annuities;
+         (E)  The primary uses of annuities; and
+         (F)  Appropriate sales practices, replacement, and disclosure requirements; and
+     (3)  The training shall not include any marketing information for products of any particular insurer or training on sales techniques.
+     (e)  A provider of an annuity training course intending to comply with this section shall register as an approved continuing education course provider in this State and comply with the rules and guidelines applicable to insurance producer continuing education courses as set forth in article 9A.
+     (f)  Annuity training courses may be conducted and completed by classroom or self-study methods in accordance with article 9A.
+     (g)  Providers of annuity training shall comply with the reporting requirements and shall issue certificates of completion in accordance with article 9A.
+     (h)  The satisfaction of the training requirements of another state that are substantially similar to the provisions of this section shall be deemed to satisfy the training requirements of this section in this State.
+     [(c)] (i)  An insurer shall verify that an insurance producer has completed the annuity training course required by this section before allowing the producer to sell an annuity product for the insurer.  An insurer may satisfy its responsibility under this subsection by obtaining certificates of completion [from the training course provider, or by obtaining reports from the commissioner, from training course providers,] of the training course or from a reasonably reliable commercial database vendor that has a reporting arrangement with approved [insurance] continuing education course providers."
+     SECTION 15.  In codifying the new sections added to part III of article 8 of chapter 431, Hawaii Revised Statutes, by section 1 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating and referring to the new sections in this Act.
+     SECTION 16.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 17.  This Act shall take effect on July 1, 2012; provided that sections 6, 13, and 14 shall take effect retroactive to January 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Insurance; Licensing Requirements
+ 
+Description:
+Eliminates underlying producer license requirement for applying and obtaining surplus lines broker license; provides greater clarity and consistency in licensing insurance producers selling annuity products; clarifies reinsurance intermediary licensing requirements and removes unnecessary licensing conditions.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

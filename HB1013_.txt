@@ -1,0 +1,86 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1013
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO LOW-INCOME HOUSING TAX CREDITS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  (a)  The legislature finds that:
+     (1)  The state has a great need for affordable rental housing, as evidenced by the Hawaii housing policy study, 2006 update, which found that approximately 17,400 affordable rental housing units are projected to be needed by 2015;
+     (2)  The state low-income housing tax credit program, established in section 235-110.8, Hawaii Revised Statutes, can be a valuable financing tool to promote the development or substantial rehabilitation of affordable rental housing;
+     (3)  Under the state low-income housing tax credit program, it is required that the owner of a qualified low-income rental building set aside a minimum of:(a) 20 percent of units for tenants earning less than 50 percent of the area median income as determined by the United States Department of Housing and Urban Development; or (b) 40 percent of units for tenants earning less than 60 percent of the area median income as determined by the United States Department of Housing and Urban Development.  In addition, the minimum set asides described above must remain for at least 30 years;
+     (4)  The owner of a qualified low-income building who has been issued applicable low-income housing tax credits typically sells said tax credits to interested investors.  Under current market conditions, the value of state low-income housing tax credits is approximately 25 cents on the dollar, if the credits can be sold at all.  Said funds from the sale of the low-income housing tax credits are then used to finance the development or substantial rehabilitation of a qualified low-income building;
+     (5)  In these circumstances, for every dollar of state tax revenue lost, only 25 cents actually goes towards the development, construction or substantial rehabilitation of affordable rental housing;
+     (6)  When economic conditions exist in which there is little demand for the sale of state low-income housing tax credits, the development and rehabilitation of affordable rental housing projects stalls due to lack of project equity.  In these circumstances, the state low-income housing tax credit program is not able to create or preserve low-income rental housing as intended.
+     (7)  This situation could be remedied by enacting language similar in effect to section 1602 of the American Recovery and Reinvestment Act of 2009, P.L. 111-5, which allows the exchange of Federal low-income housing tax credits allocated to eligible affordable rental housing projects for direct funds, so that projects stalled because of the lack of willing investors can be restarted;
+     (8)  In lieu of allocating state volume cap low-income housing tax credits to the affordable rental housing developers under the Hawaii housing finance and development corporation's competitive application process, general obligation bonds can be issued to fund loans to the developers;
+     (9)  The amount of the proposed loans would be discounted to reflect the present day value of state low-income housing tax credits that are normally taken over a 10 year period, capitalized at the rate of interest on the general obligation bonds used to fund such loans, and discount the amount by 70 per cent, which is the utilization rate which the Department of Taxation has determined for the total state volume cap low-income housing tax credits that are allocated.
+    (10)  These discounts will render the tax credit exchange program budget neutral as compared to the status quo for the state low-income housing tax credit program.  In other words, monetizing the state low-income housing tax credit will be a more efficient financing tool because it may more than double the amount of cash proceeds available for affordable rental housing development under the status quo.  Meanwhile, because the amounts available for the proposed loan program have been appropriately discounted, it does not have a budgetary impact to the State.  Forgiveness of the amount under the loan after thirty years of compliance as an affordable rental housing project would provide a great incentive for the development and substantial rehabilitation of low-income rental housing, thus benefitting the State;
+    (11)  Legislation providing for the exchange of state low-income housing tax credits for loan funds is for a public purpose to promote and stimulate the development and rehabilitation of much needed affordable rental housing in Hawaii.
+     (b)  It is therefore declared to be necessary and it is the purpose of this bill to create a mechanism to provide alternative financing assistance to affordable rental housing developments that are eligible for the state low-income housing tax credit program.
+SECTION 2.  Chapter 201H, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§201H-    Low-income housing tax credit loan.  (a)  The corporation may provide a no interest low-income housing tax credit loan to an owner of a qualified low-income building that has been awarded federal credits that are subject to the state housing credit ceiling under section 42(h)(3)(C) of the Internal Revenue Code or a subaward under section 1602 of the American Recovery and Reinvestment Act of 2009, P.L. 111-5.  The loan shall be in an amount equal to seventy per cent of the cash value of the amount of the low-income housing credit that would otherwise have been claimable with respect to the qualified low-income building under section 235-110.8, for each taxable year in the ten-year credit period discounted to present day value and capitalized at the rate of interest on the taxable general obligation bonds used to fund such loan.
+     (b)  An owner that is provided a low-income housing tax credit loan under this section shall not be eligible for the credit under section 235-110.8.
+     (c)  The corporation shall impose conditions or restrictions on the low-income housing tax credit loan including:
+     (1)  A requirement providing for acceleration and repayment on any no interest loan under this section so as to assure that the building with respect to which such loan is made remains a qualified low-income building under section 42 of the Internal Revenue Code or section 1602 of the American Recovery and Reinvestment Act of 2009, P.L. 111-5.  Any such repayment shall be payable to the housing finance revolving fund and may be enforced by means of liens or such other methods as the corporation deems appropriate;
+     (2)  The same limitations on rent and income and use restrictions on such buildings as under an allocation of housing credit dollar amount allocated under section 42 of the Internal Revenue Code; and
+     (3)  The payment of reasonable fees for the corporation to perform or cause to be performed asset management functions to ensure compliance with section 42 of the Internal Revenue Code and the long-term viability of buildings funded by any no interest loan under this section.
+     (d)  The corporation shall perform asset management functions in compliance with section 42 of the Internal Revenue Code or section 1602 of the American Recovery and Reinvestment Act of 2009, P.L. 111-5, for the purpose of sustaining the long-term viability of buildings funded by a no interest loan under this section.
+     (e)  The corporation may collect reasonable fees from the owner of a qualified low-income building to cover expenses associated with the performance of its duties under this section and may retain an agent or other private contractor to satisfy the requirements of this section.
+     (f)  If the owner is not in default, the corporation may forgive the amount remaining under the no interest loan to the owner of the qualified low-income building after thirty years.
+     (g)  For purposes of this section "qualified low-income building" shall have the same meaning as used in section 42(c)(2) of the Internal Revenue Code."
+     SECTION 3.  Section 235-110.8, Hawaii Revised Statutes, is amended to read as follows:
+     "§235-110.8  Low-income housing tax credit.  (a)  Section 42 (with respect to low-income housing credit) of the Internal Revenue Code shall be operative for the purposes of this chapter as provided in this section.  A taxpayer owning a qualified low-income building for which a subaward under section 1602 of the American Recovery and Reinvestment Act of 2009, P.L. 111-5, is issued shall also be eligible for the credit provided in this section.
+     (b)  Each taxpayer subject to the tax imposed by this chapter, who has filed [[]a[]] net income tax return for a taxable year may claim a low-income housing tax credit against the taxpayer's net income tax liability.  The amount of the credit shall be deductible from the taxpayer's net income tax liability, if any, imposed by this chapter for the taxable year in which the credit is properly claimed on a timely basis.  A credit under this section may be claimed whether or not the taxpayer claims a federal low-income housing tax credit pursuant to section 42 of the Internal Revenue Code.
+     (c)  The amount of the low-income housing tax credit that may be claimed by a taxpayer as provided in subsection (b) shall be fifty per cent of the applicable percentage of the qualified basis of each building located in Hawaii.  The applicable percentage shall be calculated as provided in section 42(b) of the Internal Revenue Code.  
+     (d)  If a subaward under section 1602 of the American Recovery and Reinvestment Act of 2009, P.L. 111-5, has been issued for a qualified low-income building, the amount of the low-income housing tax credit that may be claimed by a taxpayer as provided in subsection (b) shall be equal to fifty per cent of the amount of the federal low-income housing tax credits that would have been allocated to the qualified low-income building pursuant to section 42(b) of the Internal Revenue Code by the Hawaii housing finance and development corporation had a subaward not been awarded with respect to the qualified low-income building.
+     [(d)] (e)  For the purposes of this section, the determination of:
+     (1)  Qualified basis and qualified low-income building shall be made under section 42(c);
+     (2)  Eligible basis shall be made under section 42(d);
+     (3)  Qualified low-income housing project shall be made under section 42(g);
+     (4)  Recapture of credit shall be made under section 42(j), except that the tax for the taxable year shall be increased under section 42(j)(1) only with respect to credits that were used to reduce state income taxes; and
+     (5)  Application of at-risk rules shall be made under section 42(k);
+of the Internal Revenue Code.
+     [(e)] (f)  As provided in section 42(e), rehabilitation expenditures shall be treated as a separate new building and their treatment under this section shall be the same as in section 42(e).  The definitions and special rules relating to credit period in section 42(f) and the definitions and special rules in section 42(i) shall be operative for the purposes of this section.
+     [(f)] (g)  The state housing credit ceiling under section 42(h) shall be zero for the calendar year immediately following the expiration of the federal low-income housing tax credit program and for any calendar year thereafter, except for the carryover of any credit ceiling amount for certain projects in progress which, at the time of the federal expiration, meet the requirements of section 42.
+     [(g)] (h)  The credit allowed under this section shall be claimed against net income tax liability for the taxable year.  For the purpose of deducting this tax credit, net income tax liability means net income tax liability reduced by all other credits allowed the taxpayer under this chapter.
+     A tax credit under this section which exceeds the taxpayer's income tax liability may be used as a credit against the taxpayer's income tax liability in subsequent years until exhausted.  All claims for a tax credit under this section must be filed on or before the end of the twelfth month following the close of the taxable year for which the credit may be claimed.  Failure to properly and timely claim the credit shall constitute a waiver of the right to claim the credit.  A taxpayer may claim a credit under this section only if the building or project is a qualified low-income housing building or a qualified low-income housing project under section 42 of the Internal Revenue Code.
+     Section 469 (with respect to passive activity losses and credits limited) of the Internal Revenue Code shall be applied in claiming the credit under this section.
+     (i)  In lieu of the credit awarded under this section for a qualified low-income building that has been awarded federal credits which are subject to the state housing credit ceiling under section 42(h)(3)(C) of the Internal Revenue Code or a subaward under section 1602 of the American Recovery and Reinvestment Act of 2009, P.L. 111-5, the taxpayer owning the qualified low-income building may make a request to the Hawaii housing finance and development corporation for a loan under section 201H-    .  If the taxpayer elects to receive the loan pursuant to section 201H-    , the taxpayer shall not be eligible for the credit under this section.
+     [(h)] (j)  The director of taxation may adopt any rules under chapter 91 and forms necessary to carry out this section."
+     SECTION 4.  The director of finance is authorized to issue general obligation bonds in the sum of $_____________ or so much thereof as may be necessary and the same sum or so much thereof as may be necessary is appropriated for fiscal year 2011-2012 for low-income housing tax credit loans made pursuant to section 201H-___, Hawaii Revised Statutes, as added by section 1.
+     SECTION 5.  The appropriation made for the low-income housing tax credit loans authorized by this Act shall not lapse at the end of the fiscal year for which the appropriation is made; provided that all moneys from the appropriation unencumbered as of June 30, 2013, shall lapse as of that date.
+     SECTION 6.  The sum appropriated may be expended by the Hawaii housing finance and development corporation for the purpose of making low-income housing tax credit loans.
+     SECTION 7.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 8.  This Act shall take effect on July 1, 2011, and shall apply to qualified low-income buildings placed in service after December 31, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Low-Income Housing Tax Credits; Grant Exchange Program
+ 
+Description:
+Establishes a program for granting low-income housing tax credit loans in lieu of low-income housing tax credits administered by the Hawaii Housing Finance and Development Corporation and authorizes issuance of general obligation bonds to fund loans.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

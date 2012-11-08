@@ -1,0 +1,74 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1777
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PRODUCTION OF RECORDS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that many businesses, associations, and organizations providing goods and services to the public, conducting other activity in the State of Hawaii, or otherwise affecting residents of Hawaii, now operate nationally or globally, and many maintain their business records in a location outside the State.  The legislature further finds that such records may pose significant evidence in criminal investigations or litigation taking place in Hawaii.  Crimes result in significant harm and losses to citizens, businesses, associations, and other organizations victimized, and affects the larger public indirectly when those entities must raise prices to cover losses.  In order to effectively investigate and litigate these crimes, Hawaii's law enforcement agencies, prosecutors, and criminal defense attorneys must be able to obtain records relevant to all crimes occurring here, and must be able to use those records in court.  Thus, Hawaii's courts must have the ability to order the production of records by all who possess records relevant to a criminal investigation or litigation taking place here, whether such records are kept in-state or out-of-state.
+     SECTION 2.  The Hawaii Revised Statutes is amended by adding a new chapter to be appropriately designated and to read as follows:
+"CHAPTER
+CRIMINAL PROCESS RECORDS
+     §    -1  Definitions.  The following terms whenever used and referred to in this chapter shall have the following meanings unless a different meaning is clearly apparent from the context:
+     "Adverse result" includes one or more of the following possible consequences:
+     (1)  Danger to the life or physical safety of an individual;
+     (2)  A flight from prosecution;
+     (3)  The destruction of, potential loss of, or tampering with evidence;
+     (4)  The intimidation of potential witnesses; or
+     (5)  Jeopardy to an investigation or undue delay of a trial.
+     "Applicant" means a law enforcement officer, prosecuting attorney or deputy prosecuting attorney, attorney general or deputy attorney general, or defense attorney who is seeking criminal process under section     -2.
+     "Criminal process" means a search warrant or legal process issued pursuant to chapter 621, chapter 622, and chapter 803; the Hawaii Rules of Penal Procedure; and any other legal process signed by a judge or clerk of the district or circuit court and issued in a criminal matter which allows the search for or commands production of records that are in the actual or constructive possession of the recipient, regardless of whether the recipient or the records are physically located within the State.
+     "Defense attorney" means an attorney of record for a person charged with a crime, when such attorney is seeking the issuance of criminal process for the defense of said criminal case.
+     "Properly served" means delivery by hand or in a manner reasonably allowing for proof of delivery if delivered by United States mail, overnight delivery service, or facsimile to the recipient addressee of criminal process.
+"Recipient" means a person, as defined in section 701-118, or a business, as defined in section 487J-1, that has conducted business or engaged in transactions occurring at least in part in this State upon whom criminal process issued under this chapter is properly served.
+     §    -2  Production of records.  (a)  This section shall apply to any criminal process allowing for search of or commanding production of records that are in the actual or constructive possession of a recipient who receives service outside Hawaii, regardless of whether the recipient or the records are physically located within the State.
+     (b)  When properly served with criminal process issued under this section, the recipient shall provide the applicant all records sought pursuant to the criminal process.  The records shall be produced within twenty business days of service of the criminal process, unless the process requires earlier production.  An applicant may consent to a recipient's request for additional time to comply with the criminal process.
+     (c)  Criminal process issued under this section must contain the following language in bold type on the first page of the document:  "This [warrant, subpoena, order] is issued pursuant to HRS §    -2.  Production is due within twenty business days of service, unless a shorter time is stated herein, or the applicant consents to a recipient's request for additional time to comply."
+     (d)  If the issuing court finds reason to suspect that failure to produce records within twenty business days would cause an adverse result, the criminal process may require production of records within less than twenty business days.  The court may reasonably extend the time required for production of the records upon finding that the recipient has shown good cause for that extension and that an extension of time would not cause an adverse result.
+     (e)  When properly served with criminal process issued under this section, a recipient who seeks to quash the criminal process must seek relief from the issuing court, within the time originally required for production of records.  The court shall hear and decide the motion no later than five court days after the motion is filed.  An applicant's consent, under subsection (b) of this section, to a recipient's request for additional time to comply with the criminal process does not extend the date by which a recipient must seek the relief designated in this section.
+     §    -3   Authenticity of records; verification; affidavit, declaration, or certification.  (a)  Upon written request from the applicant, or if ordered by the issuing court, the recipient of criminal process shall verify the authenticity of records that it produces by providing an affidavit or declaration that complies with subsection (b) of this section.  The requirements of rule 902(11) of the Hawaii Rules of Evidence regarding business records as evidence may be satisfied by an affidavit or declaration that complies with subsection (b) of this section, without the need for testimony from the custodian of records, regardless of whether the business records were produced by a foreign or Hawaii state entity.
+     (b)  To be admissible without testimony from the custodian of records, business records must be accompanied by an affidavit or declaration from its records custodian or other qualified person, including contact information for the witness completing the document and attestation to the following:
+     (1)  The witness is the custodian of the record or sets forth evidence that the witness is qualified to testify about the record;
+     (2)  The record was made at or near the time of the act, condition, or event set forth in the record by, or from information transmitted by, a person with knowledge of those matters;
+     (3)  The record was kept in the course of the regularly conducted activity;
+     (4)  The record was made by the regularly conducted activity as a regular practice;
+     (5)  The identity of the record and the mode of its preparation; and
+     (6)  Either that the record is the original or that it is a duplicate that accurately reproduces the original.
+     (c)  A party intending to offer a record into evidence under this section must provide written notice of that intention to all adverse parties, and must make the record and affidavit or declaration available for inspection sufficiently in advance of their offer into evidence to provide an adverse party with a fair opportunity to challenge them.  A motion opposing admission in evidence of the record shall be made and determined by the issuing court before trial and with sufficient time to allow the party offering the record to, if the motion is granted, produce the custodian of the record or other qualified person at trial, without creating hardship on the party or on the custodian or other qualified person.
+     (d)  Failure by a party to timely file a motion under subsection (c) of this section shall constitute a waiver of objection to admission of the evidence, but the court for good cause shown may grant relief from the waiver.  When the court grants relief from the waiver, and thereafter determines the custodian of the record shall appear, a continuance of the trial may be granted to provide the proponent of the record sufficient time to arrange for the necessary witness to appear.
+     (e)  Nothing in this section precludes either party from calling the custodian of the record or other witness to testify regarding the record.
+     §    -4  Service of process issued by or in another state.  When a Hawaii recipient is served with process issued by or in another state, and such process on its face purports to be valid criminal process, the Hawaii recipient shall comply with that process as if that process had been issued by a Hawaii court.
+     §    -5   Recipients' immunity from liability.  A recipient of criminal process or process under this chapter, and any other person that responds to such process is immune from civil and criminal liability for complying with the process, and for any failure to provide notice of any disclosure to the person who is the subject of or identified in the disclosure.
+     §    -6  Issuance of criminal process.  A judge of the district or circuit court may issue any criminal process to any recipient at any address within or out of the State, for any matter over which the court has criminal jurisdiction pursuant to section 701-106.  This section does not limit a court's authority to issue warrants or legal process under other provisions of state law."
+     SECTION 3.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Production of Records; Prosecuting Attorney Package
+ 
+Description:
+Adds a new chapter to HRS, allowing district court and circuit court judges to order the production of records by persons or entities located outside of the State of Hawaii, in all criminal cases.  Requires that anyone in Hawaii served with criminal process from another state must comply with the criminal process.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

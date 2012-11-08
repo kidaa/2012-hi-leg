@@ -1,0 +1,100 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+385
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO COLLECTIVE BARGAINING.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 89, Hawaii Revised Statutes, is amended by adding two new sections to be appropriately designated and to read as follows:
+     "§89-     Streamlining union certification.  (a)  When an employee, group of employees, or any individual or labor organization acting on their behalf, files a petition alleging that a majority of employees in bargaining unit (14) (nonsupervisory legislative employees) wish to be represented by an individual or labor organization for those purposes, the board shall investigate the petition.  If the board finds that a majority of the employees in bargaining unit (14) have signed valid authorizations designating the individual or labor organization specified in the petition as their bargaining representative, and that no other individual or labor organization is currently certified or recognized as the exclusive representative of any of the employees in the unit, the board shall certify the individual or labor organization as the representative without directing an election similar to that under section 89-7.
+     (b)  The board shall adopt rules governing the certification of an exclusive representative under this section and shall have the final determination on any controversy concerning the eligibility of an employee to sign an authorization card and the validity of an employee's signature on an authorization card.
+     §89-     Facilitating initial collective bargaining agreements.  (a)  No later than ten days after receiving a written request for collective bargaining from an individual or labor organization that has been newly organized or certified as a representative for bargaining unit (14) (nonsupervisory legislative employees), the parties shall meet and commence to bargain collectively and shall make every reasonable effort to conclude and sign a collective bargaining agreement.
+     (b)  If, after the expiration of the ninety-day period beginning on the date on which bargaining commenced, or upon such additional period as the parties may agree, the parties have failed to reach an agreement, either party may notify the board of the existence of a dispute and request conciliation under section 89-11.
+     (c)  If, after the expiration of the twenty-day period beginning on the date on which the request for conciliation is made under subsection (b), or upon such additional period as the parties may agree, the conciliator is not able to bring the parties to agreement by conciliation, the board shall refer the dispute to an arbitration panel established in accordance with section 89-11(e)(2)(A) and rules as may be prescribed by the board.  The arbitration panel shall render a decision settling the dispute, and the decision shall be binding upon the parties for a period of two years, unless amended during that period by written consent of the parties."
+     SECTION 2.  Section 89-6, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending subsections (a) and (b) to read:
+     "(a)  All employees throughout the State within any of the following categories shall constitute an appropriate bargaining unit:
+     (1)  Nonsupervisory employees in blue collar positions;
+     (2)  Supervisory employees in blue collar positions;
+     (3)  Nonsupervisory employees in white collar positions;
+     (4)  Supervisory employees in white collar positions;
+     (5)  Teachers and other personnel of the department of education under the same pay schedule, including part-time employees working less than twenty hours a week who are equal to one-half of a full-time equivalent;
+     (6)  Educational officers and other personnel of the department of education under the same pay schedule;
+     (7)  Faculty of the University of Hawaii and the community college system;
+     (8)  Personnel of the University of Hawaii and the community college system, other than faculty;
+     (9)  Registered professional nurses;
+    (10)  Institutional, health, and correctional workers;
+    (11)  Firefighters;
+    (12)  Police officers; [and]
+    (13)  Professional and scientific employees, who cannot be included in any of the other bargaining units[.]; and
+    (14)  Nonsupervisory staff of the legislative branch of the State.
+     (b)  Because of the nature of work involved and the essentiality of certain occupations that require specialized training, supervisory employees who are eligible for inclusion in units (9) through [(13)] (14) shall be included in units (9) through [(13),] (14), respectively, instead of unit (2) or (4)."
+     2.  By amending subsection (d) to read:
+     "(d)  For the purpose of negotiating a collective bargaining agreement, the public employer of an appropriate bargaining unit shall mean the governor together with the following employers:
+     (1)  For bargaining units (1), (2), (3), (4), (9), (10), and (13), the governor shall have six votes and the mayors, the chief justice, and the Hawaii health systems corporation board shall each have one vote if they have employees in the particular bargaining unit;
+     (2)  For bargaining units (11) and (12), the governor shall have four votes and the mayors shall each have one vote;
+     (3)  For bargaining units (5) and (6), the governor shall have three votes, the board of education shall have two votes, and the superintendent of education shall have one vote;
+     (4)  For bargaining units (7) and (8), the governor shall have three votes, the board of regents of the University of Hawaii shall have two votes, and the president of the University of Hawaii shall have one vote[.];
+     (5)  For bargaining unit (14), the president of the senate shall have one vote and the speaker of the house of representatives shall have one vote.
+Any decision to be reached by the applicable employer group shall be on the basis of simple majority, except when a bargaining unit includes county employees from more than one county.  In such case, the simple majority shall include at least one county."
+     3.  By amending subsection (f) to read:
+     "(f)  The following individuals shall not be included in any appropriate bargaining unit or be entitled to coverage under this chapter:
+     (1)  Elected or appointed official;
+     (2)  Member of any board or commission; provided that nothing in this paragraph shall prohibit a member of a collective bargaining unit from serving on a local school board of a charter school or the charter school review panel established under chapter 302B;
+     (3)  Top-level managerial and administrative personnel, including the department head, deputy or assistant to a department head, administrative officer, director, or chief of a state or county agency or major division, and legal counsel;
+     (4)  Secretary to top-level managerial and administrative personnel under paragraph (3);
+     (5)  Individual concerned with confidential matters affecting employee-employer relations;
+     (6)  Part-time employee working less than twenty hours per week, except part-time employees included in unit (5);
+     (7)  Temporary employee of three months' duration or less;
+     (8)  Employee of the executive office of the governor or a household employee at Washington Place;
+     (9)  Employee of the executive office of the lieutenant governor;
+    (10)  Employee of the executive office of the mayor;
+    (11)  [Staff] Supervisory staff of the legislative branch of the State;
+    (12)  Staff of the legislative branches of the counties, except employees of the clerks' offices of the counties;
+    (13)  Any commissioned and enlisted personnel of the Hawaii national guard;
+    (14)  Inmate, kokua, patient, ward, or student of a state institution;
+    (15)  Student help;
+    (16)  Staff of the Hawaii labor relations board;
+    (17)  Employees of the Hawaii national guard youth challenge academy; or
+    (18)  Employee of the office of elections."
+     SECTION 3.  Section 89-11, Hawaii Revised Statutes, is amended by amending subsection (e) to read as follows:
+     "(e)  If an impasse exists between a public employer and the exclusive representative of bargaining unit (2), supervisory employees in blue collar positions; bargaining unit (3), nonsupervisory employees in white collar positions; bargaining unit (4), supervisory employees in white collar positions; bargaining unit (6), educational officers and other personnel of the department of education under the same salary schedule; bargaining unit (8), personnel of the University of Hawaii and the community college system, other than faculty; bargaining unit (9), registered professional nurses; bargaining unit (10), institutional, health, and correctional workers; bargaining unit (11), firefighters; bargaining unit (12), police officers; [or] bargaining unit (13), professional and scientific employees[,]; or bargaining unit (14), nonsupervisory staff of the legislative branch of the State, the board shall assist in the resolution of the impasse as follows:
+     (1)  Mediation.  During the first twenty days after the date of impasse, the board shall immediately appoint a mediator, representative of the public from a list of qualified persons maintained by the board, to assist the parties in a voluntary resolution of the impasse.
+     (2)  Arbitration.  If the impasse continues twenty days after the date of impasse, the board shall immediately notify the employer and the exclusive representative that the impasse shall be submitted to a three-member arbitration panel who shall follow the arbitration procedure provided herein.
+         (A)  Arbitration panel.  Two members of the arbitration panel shall be selected by the parties; one shall be selected by the employer and one shall be selected by the exclusive representative.  The neutral third member of the arbitration panel, who shall chair the arbitration panel, shall be selected by mutual agreement of the parties.  In the event that the parties fail to select the neutral third member of the arbitration panel within thirty days from the date of impasse, the board shall request the American Arbitration Association, or its successor in function, to furnish a list of five qualified arbitrators from which the neutral arbitrator shall be selected.  Within five days after receipt of such list, the parties shall alternately strike names from the list until a single name is left, who shall be immediately appointed by the board as the neutral arbitrator and chairperson of the arbitration panel.
+         (B)  Final positions.  Upon the selection and appointment of the arbitration panel, each party shall submit to the panel, in writing, with copy to the other party, a final position which shall include all provisions in any existing collective bargaining agreement not being modified, all provisions already agreed to in negotiations, and all further provisions which each party is proposing for inclusion in the final agreement.
+         (C)  Arbitration hearing.  Within one hundred twenty days of its appointment, the arbitration panel shall commence a hearing at which time the parties may submit either in writing or through oral testimony, all information or data supporting their respective final positions.  The arbitrator, or the chairperson of the arbitration panel together with the other two members, are encouraged to assist the parties in a voluntary resolution of the impasse through mediation, to the extent practicable throughout the entire arbitration period until the date the panel is required to issue its arbitration decision.
+         (D)  Arbitration decision.  Within thirty days after the conclusion of the hearing, a majority of the arbitration panel shall reach a decision pursuant to subsection (f) on all provisions that each party proposed in its respective final position for inclusion in the final agreement and transmit a preliminary draft of its decision to the parties.  The parties shall review the preliminary draft for completeness, technical correctness, and clarity and may mutually submit to the panel any desired changes or adjustments that shall be incorporated in the final draft of its decision.  Within fifteen days after the transmittal of the preliminary draft, a majority of the arbitration panel shall issue the arbitration decision."
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Legislative Employees; Unionization
+ 
+Description:
+Authorizes nonsupervisory legislative employees to unionize through the card check and expedited bargaining process.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

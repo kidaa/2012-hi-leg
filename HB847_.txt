@@ -1,0 +1,48 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+847
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO APPRAISALS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The purpose of this Act is to require a real estate appraiser to include a reasoned report, including the appraiser's rationale for the award and the data, methodologies, and analysis that provided the basis of the award.
+     SECTION 2.  Section 658A-19, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§658A-19[]]  Award.  (a)  An arbitrator shall make a record of an award.  The record shall be signed or otherwise authenticated by any arbitrator who concurs with the award.  The arbitrator or the arbitration organization shall give notice of the award, including a copy of the award, to each party to the arbitration proceeding.
+     (b)  In an arbitration proceeding to determine the fair market value, fair market rental or fair and reasonable rent of real property where the arbitrator is a real estate appraiser licensed under chapter 466K, the record of an award shall include but not be limited to findings of fact, the appraiser's rationale for the award, and information regarding the evidence that, including the data, methodologies, and analysis, provided the basis for the award.
+     [(b)] (c)  An award shall be made within the time specified by the agreement to arbitrate or, if not specified therein, within the time ordered by the court.  The court may extend or the parties to the arbitration proceeding may agree in a record to extend the time.  The court or the parties may do so within or after the time specified or ordered.  A party waives any objection that an award was not timely made unless the party gives notice of the objection to the arbitrator before receiving notice of the award."
+     SECTION 3.  Section 658A-23, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  If the court vacates an award on a ground other than that set forth in subsection (a)(5), it may order a rehearing.  If the award is vacated on a ground stated in subsection (a)(1) or (2), the rehearing shall be before a new arbitrator.  If the award is vacated on a ground stated in subsection (a)(3), (4), or (6), the rehearing may be before the arbitrator who made the award or the arbitrator's successor.  The arbitrator shall render the decision in the rehearing within the same time as that provided in section [658A-19(b)] 658A-19(c) for an award."
+     SECTION 4.  In the event of any conflict between the uniform standards of professional appraisal practice as developed by the Appraisal Standards Board of the Appraisal Foundation and any arbitration process, including chapter 658A, Hawaii Revised Statutes, the uniform standards of professional appraisal practice rules and standards then in effect shall prevail.
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Real Estate Appraisal Reports
+ 
+Description:
+Requires that the record of an arbitration award determining fair market value or rental of real property include findings of fact, rationale, and a basis for the award.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

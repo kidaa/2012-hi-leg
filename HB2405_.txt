@@ -1,0 +1,98 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2405
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO HEALTH INSURANCE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The purpose of this Act is to ensure the provision of quality health care procedures for all Hawaii residents by requiring coverage of and treatment for autism spectrum disorders by health insurers, mutual benefit societies, and health maintenance organizations.
+     SECTION 2.  Chapter 431, Hawaii Revised Statutes, is amended by adding a new section to part I of article 10A to be appropriately designated and to read as follows:
+     "§431:10A-     Autism spectrum disorders; benefits and coverage; notice; definitions.  (a)  Any other law to the contrary notwithstanding, each accident and health or sickness policy, contract, plan, or agreement issued or renewed in this State after December 31, 2012, shall provide to the policyholder and covered individuals coverage for the screening, diagnosis, and treatment of autism spectrum disorders.
+     (b)  Every insurer shall provide written notice to its policyholders regarding the coverage required by this section.  The notice shall be in writing and prominently positioned in any literature or correspondence sent to members and shall be transmitted to policyholders within calendar year 2013 when annual information is made available to members or in any other mailing to policyholders, but in no case later than December 31, 2013.
+     (c)  Coverage for behavioral health treatment provided under this section shall be subject to a maximum benefit of $50,000 per year, but shall not be subject to any limits on the number of visits to an autism service provider.  After December 31, 2015, the insurance commissioner, on an annual basis, shall adjust the maximum benefit for inflation using the medical care component of the United States Department of Labor Consumer Price Index for all urban consumers.  The commissioner shall publish the adjusted maximum benefit annually no later than April 1 of each calendar year, which shall apply during the following calendar year to health insurance policies subject to this section.  Payments made by an insurer on behalf of a covered individual for any care, treatment, intervention, or service other than behavioral health treatment, shall not be applied toward any maximum benefit established under this subsection.
+     (d)  Coverage under this section may be subject to copayment, deductible, and coinsurance provisions of a health insurance policy that are no less favorable than the copayment, deductible, and coinsurance provisions for other medical services covered by the policy.
+     (e)  This section shall not be construed to limit benefits that are otherwise available to an individual under a health insurance policy.
+     (f)  Coverage for treatment under this section shall not be denied on the basis that the treatment is habilitative or non-restorative in nature.
+     (g)  Except for inpatient services, if an individual is receiving treatment for autism spectrum disorders, an insurer may request a review of that treatment not more than once every twelve months.  The cost of obtaining any review shall be borne by the insurer.
+     (h)  This section shall not be construed to reduce any obligation to provide services to an individual under an individualized family service plan, an individualized education program, or an individualized service plan.
+     (i)  As of January 1, 2014, to the extent that this section requires benefits that exceed the essential health benefits required under section 1302(b) of the federal Patient Protection and Affordable Care Act, Public Law 111-148, the specific benefits that exceed the required essential health benefits shall not be required of a qualified health plan when the plan is offered in this State through the Hawaii health connector by a health carrier.  Nothing in this subsection shall nullify the application of this section to plans offered outside the Hawaii health connector.
+     (j)  As used in this section, unless the context clearly requires otherwise:
+     "Applied behavior analysis" means the design, implementation, and evaluation of environmental modifications, using behavioral stimuli and consequences, to produce socially significant improvement in human behavior, including the use of direct observation, measurement, and functional analysis of the relations between environment and behavior.
+     "Autism service provider" means any person, entity, or group that provides treatment of autism spectrum disorders.
+     "Autism spectrum disorders" means any of the pervasive developmental disorders as defined by the most recent edition of the Diagnostic and Statistical Manual of Mental Disorders, including autistic disorder, Asperger's disorder, pervasive developmental disorder not otherwise specified, Rett's disorder, and childhood disintegrative disorder.
+     "Behavioral health treatment" means professional, counseling, and guidance services and treatment programs, including applied behavior analysis, that are necessary to develop, maintain, and restore, to the maximum extent practicable, the functioning of an individual.
+     "Diagnosis of autism spectrum disorders" means medically necessary assessments, evaluations, or tests conducted to diagnose whether an individual has an autism spectrum disorder.
+     "Health insurance policy" means any group health, sickness, or accident policy or subscriber contract or certificate issued by an insurer subject to this article.
+     "Pharmacy care" means medications prescribed by a licensed physician or advanced practice registered nurse and any health-related services that are deemed medically necessary to determine the need or effectiveness of the medications.
+     "Psychiatric care" means direct or consultative services provided by a licensed psychiatrist.
+     "Psychological care" means direct or consultative services provided by a licensed psychologist.
+     "Therapeutic care" means services provided by licensed speech pathologists, registered occupational therapists, or licensed physical therapists.
+     "Treatment for autism spectrum disorders" includes the following care prescribed or ordered for an individual diagnosed with an autism spectrum disorder by a licensed physician, psychologist, or advanced practice registered nurse if the care is determined to be medically necessary:
+     (1)  Psychiatric care;
+     (2)  Psychological care;
+     (3)  Behavioral health treatment;
+     (4)  Therapeutic care; and
+     (5)  Pharmacy care."
+     SECTION 3.  Chapter 432, Hawaii Revised Statutes, is amended by adding a new section to article 1 to be appropriately designated and to read as follows:
+     "§432:1‑     Autism spectrum disorders benefits and coverage; notice; definitions.  (a)  Any other law to the contrary notwithstanding, each individual and group hospital or medical service plan, policy, contract, or agreement issued or renewed in this State after December 31, 2012, shall provide to the member and covered individuals coverage for the diagnosis and treatment of autism spectrum disorders.
+     (b)  Every mutual benefit society shall provide written notice to its members regarding the coverage required by this section.  The notice shall be in writing and prominently positioned in any literature or correspondence sent to members and shall be transmitted to members within calendar year 2013 when annual information is made available to members or in any other mailing to members, but in no case later than December 31, 2013.
+     (c)  Coverage provided under this section shall be subject to a maximum benefit of $50,000 per year but shall not be subject to any limits on the number of visits to an autism service provider.  After December 31, 2015, the insurance commissioner, on an annual basis, shall adjust the maximum benefit for inflation, using the medical care component of the United States Department of Labor Consumer Price Index for all urban consumers.  The commissioner shall publish the adjusted maximum benefit annually no later than April 1 of each calendar year, which shall apply during the following calendar year to health insurance policies subject to this section.  Payments made by a mutual benefit society on behalf of a covered individual for any care, treatment, intervention, service, or item, the provision of which was for the treatment of a health condition unrelated to the covered individual's autism spectrum disorder, shall not be applied toward any maximum benefit established under this subsection.
+     (d)  Coverage under this section may be subject to copayment, deductible, and coinsurance provisions of a health insurance policy that are no less favorable than the copayment, deductible, and coinsurance provisions for other medical services covered by the policy.
+     (e)  This section shall not be construed to limit benefits that are otherwise available to an individual under a health insurance policy.
+     (f)  Coverage for treatment under this section shall not be denied on the basis that the treatment is habilitative or non-restorative in nature.
+     (g)  Except for inpatient services, if an individual is receiving treatment for autism spectrum disorders, an insurer may request a review of that treatment not more than once every twelve months.  The cost of obtaining any review shall be borne by the insurer.
+     (h)  This section shall not be construed to reduce any obligation to provide services to an individual under an individualized family service plan, an individualized education program, or an individualized service plan.
+     (i)  As of January 1, 2014, to the extent that this section requires benefits that exceed the essential health benefits required under section 1302(b) of the federal Patient Protection and Affordable Care Act, Public Law 111-148, the specific benefits that exceed the required essential health benefits shall not be required of a qualified health plan when the plan is offered in this State through the Hawaii health connector by a health carrier.  Nothing in this subsection shall nullify the application of this section to plans offered outside the Hawaii health connector.
+     (j)  As used in this section, unless the context clearly requires otherwise:
+     "Applied behavior analysis” means the design, implementation, and evaluation of environmental modifications, using behavioral stimuli and consequences, to produce socially significant improvement in human behavior, including the use of direct observation, measurement, and functional analysis of the relations between environment and behavior.
+     "Autism service provider" means any person, entity, or group that provides treatment of autism spectrum disorders.
+     "Autism spectrum disorders" means any of the pervasive developmental disorders as defined by the most recent edition of the Diagnostic and Statistical Manual of Mental Disorders, including autistic disorder, Asperger's disorder, pervasive developmental disorder not otherwise specified, Rett's disorder, and childhood disintegrative disorder.
+     "Behavioral health treatment" means professional, counseling, and guidance services and treatment programs, including applied behavior analysis, that are necessary to develop, maintain, and restore, to the maximum extent practicable, the functioning of an individual.
+     "Diagnosis of autism spectrum disorders" means medically necessary assessments, evaluations, or tests conducted to diagnose whether an individual has an autism spectrum disorder.
+     "Health insurance policy" means any group health, sickness, or accident policy or subscriber contract or certificate issued by an insurance entity subject to this section.
+     "Pharmacy care" means medications prescribed by a licensed physician or advanced practice registered nurse and any health-related services that are deemed medically necessary to determine the need or effectiveness of the medications.
+     "Psychiatric care" means direct or consultative services provided by a licensed psychiatrist.
+     "Psychological care" means direct or consultative services provided by a licensed psychologist.
+     "Rehabilitative and habilitative care" means professional, counseling and guidance services and treatment programs, including applied behavior analysis, that are necessary to develop, maintain, and restore, to the maximum extent practicable, the functioning of an individual.
+     "Therapeutic care" means services provided by licensed speech pathologists, registered occupational therapists, or licensed physical therapists.
+     "Treatment for autism spectrum disorders" includes the following care prescribed or ordered for an individual diagnosed with an autism spectrum disorder by a licensed physician, psychologist, or advanced practice registered nurse if the care is determined to be medically necessary:
+     (1)  Psychiatric care;
+     (2)  Psychological care;
+     (3)  Behavioral health treatment;
+     (4)  Therapeutic care; and
+     (5)  Pharmacy care."
+     SECTION 4.  Section 432D-23, Hawaii Revised Statutes, is amended to read as follows:
+     "§432D-23  Required provisions and benefits.  Notwithstanding any provision of law to the contrary, each policy, contract, plan, or agreement issued in the State after January 1, 1995, by health maintenance organizations pursuant to this chapter, shall include benefits provided in sections 431:10-212, 431:10A-115, 431:10A-115.5, 431:10A-116, 431:10A-116.5, 431:10A-116.6, 431:10A-119, 431:10A-120, 431:10A-121, 431:10A-125, 431:10A-126, [and] 431:10A-122, and 431:10A‑   , and chapter 431M."
+     SECTION 5.  The coverage and benefit to be provided by a health maintenance organization under section 4 of this Act shall apply to all policies, contracts, plans, or agreements issued or renewed in this State by a health maintenance organization after December 31, 2012.
+     SECTION 6.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.      SECTION 7.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Autism Spectrum Disorders; Health Insurance Coverage
+ 
+Description:
+Requires health insurers, mutual benefit societies, and health maintenance organizations to provide health care coverage and benefits for autism spectrum disorders beginning after December 31, 2012.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

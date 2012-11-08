@@ -1,0 +1,87 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2711
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO A LIVING WAGE FOR WORKERS ON SERVICE CONTRACTS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that service employees of contractors with state or county contracts require greater wage protection.  Employees of federal contractors were provided wage protection under the 1965 McNamara-O'Hara Service Contracts Act, 41 United States Code section 351 et seq., which required minimum wages to be paid on certain federal contracts.
+     The legislature further finds that although section 103-55, Hawaii Revised Statutes, expressly states that contracted "services to be rendered shall be performed by employees paid at wages or salaries not less than the wages paid to public officers and employees for similar work", the section also exempts nearly all employees who might possibly benefit from the section and lacks sufficient enforcement provisions.  According to the 2011 Poverty Guidelines for Hawaii published by the United States Department of Health and Human Services, a family of four in this State with an income of $25,710 or less is living at the federal poverty level.
+     The purpose of this Act is to provide wage protection to service employees of state and county contractors, by requiring a contractor who provides services to the State or any county to pay the contractor's employees a wage that provides an annual income not less than the poverty threshold of a family of four in this State.
+     SECTION 2.  Section 103-55, Hawaii Revised Statutes, is amended to read as follows:
+     "§103-55  Wages, hours, and working conditions of employees of contractors performing services.  (a)  Before any offeror enters into a contract to perform services in excess of [$25,000] $5,000 for any governmental agency, the offeror shall certify that the services to be performed will be performed under the following conditions:
+     (1)  Wages.  The services to be rendered shall be performed by employees paid at wages or salaries not less than the greater of:
+         (A)  The wage that provides an annual income equal to the annual poverty guidelines for Hawaii for a family of four as determined and periodically adjusted by the United States Department of Health and Human Services; or
+         (B)  The wages paid to public officers and employees for similar work[.]; and
+     (2)  Compliance with labor laws.  All applicable laws of the federal and state governments relating to workers' compensation, unemployment compensation, payment of wages, and safety [will] shall be fully complied with.
+     (b)  No contract to perform services for any governmental contracting agency in excess of [$25,000] $5,000 shall be granted unless all the conditions of this section are met.  Failure to comply with the conditions of this section during the period of contract to perform services shall result in the cancellation of the contract, unless [such] the noncompliance is corrected within a reasonable period as determined by the procurement officer.  Final payment of a contract or release of bonds or both shall not be made unless the procurement officer has determined that the noncompliance has been corrected.
+     [It shall be the duty of the] The governmental contracting agency awarding the contract to perform services [in excess of $25,000 to] and the department of labor and industrial relations shall enforce this section.
+     (c)  This section shall apply to all contracts to perform services in excess of [$25,000,] $5,000, including contracts to supply ambulance service and janitorial service.
+     This section shall not apply to:
+     (1)  Managerial[,] or supervisory[, or clerical] personnel[.];
+     (2)  Contracts for supplies[,] or materials[, or printing.];
+     (3)  Contracts for utility services[.];
+     (4)  [Contracts to perform personal services under paragraphs (2), (3), (12), and (15) of section 76-16, paragraphs (7), (8), and (9) of section 46-33, and paragraphs (7), (8), and (12) of section 76-77.] Contracts with other governmental agencies; or
+    [(5)  Contracts for professional services.
+     (6)] (5)  Contracts to operate refreshment concessions in public parks[, or to provide food services to educational institutions.
+     (7)  Contracts with nonprofit institutions].
+     (d)  Every contract and any bid specification therefor entered into by a governmental contracting agency under this section shall:
+     (1)  Require the contractor to enforce the right of all employees under relevant state or federal law to form, join, or assist labor organizations; to bargain collectively through representatives of their own choosing; and to exercise these rights without interference;
+     (2)  Prohibit the contractor from making any act or statement that directly or indirectly states or implies the contractor's preference or non-preference for the unionization of its employees, or for recognizing any bona fide labor organization as the exclusive representative of its employees, if at any time during the contract period a labor organization or an employee of the contractor seeks to organize the contractor's employees;
+     (3)  Require the contractor to allow access to its employees by any bona fide labor organization, in employee lunchrooms, lounges, or other nonpublic areas on the contractor's premises during the employees' off work periods for organizational purposes, provided that the access does not interfere with normal work operations, if at any time during the contract period a labor organization or an employee of the contractor seeks to organize the contractor's employees; and
+     (4)  Require the director of labor and industrial relations to select a disinterested, neutral party to conduct a review of employee authorization cards submitted by any labor organization in support of the labor organization's claim that it represents a majority of employees in an appropriate bargaining unit, if during the contract period a bona fide labor organization requests recognition within an appropriate bargaining unit.  If a majority of employees within a bargaining unit has designated a labor organization to represent them, the contractor shall recognize that labor organization as the exclusive representative of the designated bargaining unit, and negotiations shall commence for a collective bargaining agreement.
+     (e)  Any contractor who violates this section:
+     (1)  Shall pay a fine of $5,000 per violation to the government agency that is a party to the contract, as well as attorney's fees and costs incurred in enforcing this section to the agency or the affected employees; and
+     (2)  Shall be liable to any employee affected in the amount of unpaid wages or compensation, and in the case of a wilful violation, in an additional equal amount as liquidated damages."
+     SECTION 3.  Section 103-55.5, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  Before any bidder or offeror enters into a contract for construction of a public work project in excess of $2,000, which is subject to chapter 104, the bidder or offeror shall affirm the bidder's or offeror's intent to comply with the requirements of chapter 104 by certifying that:
+     (1)  Individuals engaged in the performance of the contract on the job site shall be paid:
+         (A)  Not less than the greater of:
+              (i)  The wage that provides an annual income equivalent to the annual poverty guidelines for Hawaii for a family of four as determined and periodically adjusted by the United States Department of Health and Human Services; or
+             (ii)  The wages that the director of labor and industrial relations shall have determined to be prevailing for corresponding classes of laborers and mechanics employed on public works projects; and
+         (B)  Overtime compensation at one and one-half times the basic hourly rate plus fringe benefits for hours worked on Saturday, Sunday, or a legal holiday of the State or in excess of eight hours on any other day; and
+     (2)  All applicable laws of the federal and state governments relating to workers' compensation, unemployment compensation, payment of wages, and safety shall be fully complied with."
+     SECTION 4.  Section 104-2, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  Every laborer and mechanic performing work on the job site for the construction of any public work project shall be paid no less than prevailing wages; provided that:
+     (1)  The prevailing wages shall be established by the director as the sum of the basic hourly rate and the cost to an employer of providing a laborer or mechanic with fringe benefits.  In making prevailing wage determinations, the following shall apply:
+         (A)  The director shall make separate findings of:
+              (i)  The basic hourly rate; and
+             (ii)  The rate of contribution or cost of fringe benefits paid by the employer when the payment of the fringe benefits by the employer constitutes a prevailing practice.  The cost of fringe benefits shall be reflected in the wage rate scheduled as an hourly rate; and
+         (B)  The rates of wages which the director shall regard as prevailing in each corresponding classification of laborers and mechanics shall be the rate of wages paid to the greatest number of those employed in the State, the modal rate, in the corresponding classes of laborers or mechanics on projects that are similar to the contract work;
+     (2)  The prevailing wages shall be not less than the greater of:
+         (A)  The wage that provides an annual income equivalent to the annual poverty guidelines for Hawaii for a family of four as determined and periodically adjusted by the United States Department of Health and Human Services; or
+         (B)  The wages payable under federal law to corresponding classes of laborers and mechanics employed on public works projects in the State that are prosecuted under contract or agreement with the government of the United States; and
+     (3)  Notwithstanding the provisions of the original contract, the prevailing wages shall be periodically adjusted during the performance of the contract in an amount equal to the change in the prevailing wage as periodically determined by the director."
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Public Works; Wages; Contractors; Public Contracts; Service Employees
+ 
+Description:
+Requires contractors with public contracts greater than $5,000:  (1) to pay their employees wages that provide an annual income equal to the poverty guidelines for Hawaii published by the federal DHHS, or a greater amount; and (2) to allow their employees to have access to and join labor organizations.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,104 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1756
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CAMPAIGN SPENDING.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 11-302, Hawaii Revised Statutes, is amended by adding a new definition to be appropriately inserted and to read as follows:
+     ""Matching payment period means:
+     (1)  For a primary election, from January 1 of the year of a general election through the day of the primary election;
+     (2)  For a special election, nine months prior to the special election through the day of the special election; and
+     (3)  For a general election, from January 1 of the year of the general election through the day of the general election."
+     SECTION 2.  Section 11-314, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§11-314[]]  Duties of the commission.  The duties of the commission under this part are to:
+     (1)  Develop and adopt forms required by this part;
+     (2)  Adopt and publish a manual for all candidates, candidate committees, and noncandidate committees, describing the requirements of this part, including uniform and simple methods of recordkeeping;
+     (3)  Preserve all reports required by this part for at least ten years from the date of receipt by the commission;
+     (4)  Permit the inspection, copying, or [duplicating] duplication of any report required by this part pursuant to rules adopted by the commission under chapter 91; provided that this paragraph shall not apply to the sale or use of information under section 11-344;
+     (5)  Ascertain whether any candidate, treasurer, candidate committee, noncandidate committee, or party has failed to file a report required by this part or has filed a substantially defective or deficient report.  The commission shall notify these persons by first class mail that a fine may be assessed for the failure to file or the filing of a substantially defective or deficient report, and the defective or deficient report shall be corrected and explained.  All fines collected under this section as authorized by [section] sections 11-340 and 11-410 shall be deposited in the general fund of the State;
+     (6)  Hold public hearings;
+     (7)  Investigate and hold hearings for receiving evidence of any violations pursuant to subpart I of this part;
+     (8)  Adopt rules pursuant to chapter 91;
+     (9)  Request the initiation of prosecution for the violation of this part pursuant to section 11-411;
+    (10)  Administer and monitor the distribution of public funds under this part;
+    (11)  Suggest accounting methods for candidates, candidate committees, or noncandidate committees in connection with reports and records required by this part;
+    (12)  Employ or contract with, without regard to chapters 76, 78, and 89, persons it finds necessary for the performance of its functions, including a full-time executive director, and to fix their compensation; provided that the commission shall have the authority, at its discretion, to dismiss persons employed by or contracted with the commission;
+    (13)  Conduct random audits and field investigations, as necessary; and
+    (14)  File for injunctive relief when indicated."
+     SECTION 3.  Section 11-334, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  The candidate and treasurer of the candidate committee of each candidate whose name will appear on the ballot in the immediately succeeding election shall file preliminary, final, and supplemental reports.
+     (1)  The filing dates for preliminary reports are:
+         (A)  [July 31 of the election year;] Thirty calendar days prior to a primary election;
+         (B)  Ten calendar days prior to a primary, each special, or each nonpartisan election; and
+         (C)  Ten calendar days prior to a general election; provided that this preliminary report does not need to be filed by a candidate who is unsuccessful in a primary, special, or nonpartisan election or a candidate who is elected to office in the primary, initial special, or initial nonpartisan election.
+          Each preliminary report shall be current through June 30 for the report [filed on July 31] described in subsection (a)(1)(A) and current through the fifth calendar day before the filing deadline of other preliminary reports.
+     (2)  The filing date for the final primary report is twenty calendar days after a primary, initial special, or initial nonpartisan election.  The report shall be current through the day of the applicable election.
+     (3)  The filing date for the final election period report is thirty calendar days after a general, subsequent, subsequent special, or subsequent nonpartisan election.  The report shall be current through the day of the applicable election.  The final election period report shall be filed by a candidate who is unsuccessful in a primary, initial special, or initial nonpartisan election or a candidate who is elected to office in the primary, initial special, or initial nonpartisan election.
+     (4)  The filing dates for supplemental reports are:
+         (A)  January 31 [after an election year]; and
+         (B)  July 31 after an election year.
+          The report shall be current through December 31 for the report filed on January 31 and current through June 30 for the report filed on July 31."
+     SECTION 4.  Section 11-335, Hawaii Revised Statutes, is amended by amending subsection (a) and (b) to read as follows:
+     "(a)  The authorized person in the case of a party, or treasurer in the case of a noncandidate committee that is not a party, shall file preliminary, final, and supplemental reports that disclose the following information:
+     (1)  The noncandidate committee's name and address;
+     (2)  The cash on hand at the beginning of the reporting period and election period;
+     (3)  The reporting period and election period aggregate totals for each of the following categories:
+         (A)  Contributions[;] received;
+         (B)  Contributions made;
+     [(B)](C)  Expenditures; and
+     [(C)](D)  Other receipts;
+     (4)  The cash on hand at the end of the reporting period; and
+     (5)  The surplus or deficit at the end of the reporting period.
+     (b)  Schedules filed with the reports shall include the following additional information:
+     (1)  The amount and date of deposit of each contribution received and the name, address, occupation, and employer of each contributor making a contribution aggregating more than $100 during an election period, which was not previously reported; provided that if all the information is not on file, the contribution shall be returned to the contributor within thirty days of deposit;
+     (2)  The amount and date of each contribution made and the name and address of the candidate committee or noncandidate committee to which the contribution was made;
+    [(2)] (3)  All expenditures, including the name and address of each payee and the amount, date, and purpose of each expenditure[.]; provided that:
+         (A)  Expenditures for consultants, advertising agencies and similar firms, credit card payments, salaries, and candidate reimbursements shall be itemized to permit a reasonable person to determine the ultimate intended recipient of the expenditure and its purpose; and
+         (B)  The stated purpose of an independent expenditure shall include the name of the candidate who is supported or opposed by the expenditure, and whether the expenditure supports or opposes the candidate;
+    [(3)] (4)  The amount, date of deposit, and description of other receipts and the name and address of the source of each of the other receipts;
+    [(4)] (5)  A description of each durable asset, the date of acquisition, value at the time of acquisition, and the name and address of the vendor or contributor of the asset; and
+    [(5)] (6)  The date of disposition of a durable asset, value at the time of disposition, method of disposition, and name and address of the person receiving the asset."
+     SECTION 5.  Section 11-423, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending subsection (b) to read:
+     "(b)  The affidavit shall state that the candidate knows the voluntary campaign expenditure limitations as set out in this part and that the candidate is voluntarily agreeing to limit the candidate's expenditures and those made on the candidate's behalf by the amount set by law.  The affidavit shall be subscribed to by the candidate and notarized[.], and filed no later than the time of filing nomination papers with the chief election officer or county clerk."
+     2.  By amending subsection (d) to read:
+     "(d)  From January 1 of the year of any primary, special, or general election, the aggregate expenditures for each election by a candidate who voluntarily agrees to limit campaign expenditures, inclusive of all expenditures made or authorized by the candidate alone, all treasurers, the candidate committee, and noncandidate committees on the candidate's behalf, shall not exceed the following amounts expressed, respectively multiplied by the number of voters in the last preceding general election registered to vote in each respective voting district:
+     (1)  For the office of governor — $2.50;
+     (2)  For the office of lieutenant governor — $1.40;
+     (3)  For the office of mayor — $2.00;
+     (4)  For the offices of state senator, state representative, [and] county council member, and prosecuting attorney — $1.40; and
+     (5)  For all other offices — 20 cents."
+     SECTION 6.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 7.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+          BY REQUEST
+ 
+
+ 
+Report Title:
+Campaign Spending
+ 
+Description:
+Amends the campaign spending law to:  (1) define "matching payment period"; (2) change filing deadlines; (3) require the identification of the candidate supported or opposed by an independent expenditure; and (4) increase the amount of allowable expenditures by a publicly financed candidate for the office of the prosecuting attorney.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

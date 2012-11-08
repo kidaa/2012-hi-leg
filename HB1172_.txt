@@ -1,0 +1,78 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1172
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO TAXATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that aspects of the Hawai`i Clean Energy Initiative are well underway.  While most of the publicity has surrounded clean energy generation, with such examples as solar farms on Lanai and Oahu, an aspect of the Hawai`i Clean Energy Initiative that does not usually receive a great deal of publicity is energy conservation.  Although, on an individual basis, energy conservation appears small – replacing an appliance with an energy efficient one, using a fan instead of turning on the air conditioner, hanging clothes instead of using the dryer, or turning off a light – collectively, many individual conservation efforts add up.
+     The legislature further finds that one of the simplest means of energy conservation is changing out an incandescent bulb for a more energy efficient one.  In past legislative sessions, measures have been taken up to mandate the use of such lighting devices, such as mandating the use of energy efficient lighting devices in state buildings.  While the utility of such a measure is clear, the economic circumstances of the past several years made this approach untenable for the time being.
+     However, incentivizing energy conservation in the private sector can be accomplished on a smaller scope, and can be budgeted due to expiring tax credits.  On May 24th, 2010, Hawai`i's ENERGY STAR Refrigerator Rebate program offered a $250 cash incentive to replace inefficient refrigerators with more energy efficient ones.  According to Ray Starling, Hawai`i Energy program manager, a new ENERGY STAR refrigerator uses 50% less energy than ones made just 10 years ago, and that replacing one such refrigerator can save a person between $1,700 and $2,000 in electricity bills at today's prices, and reduce oil imports by 13 barrels over the 15-year lifespan of the ENERGY STAR refrigerator.  The program would help reduce oil imports by 100,000 barrels in total, and would eliminate over 7,000,000 pounds of carbon emissions.  Nearly 4,000 refrigerators were sold on the first day of the program.
+     The legislature also finds that while energy efficient lighting tax credit may not draw the same interest as an appliance program, the potential for energy savings is just as tremendous.  For instance, a light-emitting diode, or LED, is a device that converts energy to light.  Compared to incandescent bulbs and compact fluorescent lights (CFL), the LED is more energy efficient, lasts longer, are more durable, and contain no mercury.  But much like the comparison between CFL's and incandescent lights, the LED has a more expensive up-front cost than incandescent bulbs.
+     Therefore, the purpose of this Act is to provide a temporary tax credit for the purchase of LED lighting for residential or corporate use.
+     SECTION 2.  Section 235-12, Hawaii Revised Statutes, is amended to read as follows:
+     "§235-12  Energy conservation; light-emitting diode lighting products; income tax credit.  (a)  For taxable years [ending before January 1, 1990, except in the case of ice storage systems for taxable years ending before January 1, 1991,] beginning after December 31, 2011 and ending before January 1, 2016, each individual and corporate resident taxpayer who files an individual or corporate net income tax return for a taxable year, may claim a tax credit under this section against the Hawaii state individual or corporate net income tax.  The tax credit may be claimed for any [solar or wind energy device, heat pump, or ice storage system] light-emitting diode lighting product in an amount not to exceed ten per cent of the total cost of the device[, heat pump, or ice storage system]; provided that the tax credit shall apply only to the actual cost of the [solar or wind energy device, the heat pump, or ice storage system,] light-emitting diode lighting product, their accessories, and installation and shall not include the cost of consumer incentive premiums unrelated to the operation [of the solar or wind energy device, the heat pump, or ice storage system offered with the sale of the solar or wind energy device, the heat pump, or ice storage system] light-emitting diode lighting product.  The credit shall be claimed against net income tax liability for the year in which the [solar or wind energy device, the heat pump, or ice storage system] light-emitting diode lighting product was purchased and placed in use[; provided:
+     (1)  The tax credit shall be applicable only with respect to solar devices, which are erected and placed in service after December 31, 1974, but before January 1, 1990;
+     (2)  In the case of wind energy devices and heat pumps, the tax credit shall be applicable only with respect to wind energy devices and heat pumps which are installed and placed in service after December 31, 1980, but before January 1, 1990; and
+     (3)  In the case of ice storage systems, the tax credit shall be applicable only with respect to ice storage systems which are installed and placed in service after December 31, 1985, but before January 1, 1990].
+Tax credits which exceed the taxpayer's income tax liability may be used as a credit against the taxpayer's income tax liability in subsequent years until exhausted.  [If federal energy tax credits are not extended beyond December 31, 1985, are not retroactively extended or reenacted, or federal energy tax credits the same as or less in amount than the credits in effect during the 1985 taxable year are not enacted during the taxable year 1986, then the state tax credit shall be increased to fifteen per cent of the total cost after December 31, 1985, but before January 1, 1990.]
+     As used in this subsection:
+     ["Solar or wind energy device" means any new identifiable facility, equipment, apparatus, or the like which makes use of solar or wind energy for heating, cooling, or reducing the use of other types of energy dependent upon fossil fuel for their generation.
+     "Heat pump" means and refers to an electric powered compression heating system which extracts energy from warm ambient air or recovers waste heat to assist in the production of hot water.
+     "Ice storage system" refers to ice banks or other cool energy storage tanks, containers, accessories, and controls that are specifically designed to store ice or chilled fluids for the express purpose of shifting the consumption of energy to off-peak periods.]
+     "Light-emitting diode" shall mean a semiconductor device which converts electricity into light.
+     (b)  [For taxable years beginning after December 31, 1989, each individual or corporate resident taxpayer who files an individual or corporate net income tax return for a taxable year, may claim a tax credit under this section against the Hawaii state individual or corporate net income tax.  The tax credit may be claimed as follows:
+     (1)  For wind energy systems that are installed and placed in service after December 31, 1989, but before July 1, 2003, the credit shall be twenty per cent of the actual cost;
+     (2)  For solar energy systems that are installed and placed in service after December 31, 1989, but before July 1, 2003, on new and existing single family residential buildings, the credit shall be in an amount not to exceed thirty-five per cent or $1,750, whichever is less, of the actual cost of the solar energy system;
+     (3)  For solar energy systems that are installed and placed in service after December 31, 1989, but before July 1, 2003, on new and existing multiunit buildings used primarily for residential purposes, the credit shall be in an amount not to exceed thirty-five per cent or $350 per building unit, whichever is less, of the actual cost of the solar energy system;
+     (4)  For solar energy systems that are installed and placed in service after December 31, 1989, but before July 1, 2003, in new and existing hotel, commercial, and industrial facilities, the credit shall be in an amount not to exceed thirty-five per cent of the actual cost of the solar energy system;
+     (5)  For heat pumps that are installed and placed in service after December 31, 1989, but before July 1, 2003, in new and existing single-family residential buildings, the credit shall be in an amount not to exceed twenty per cent or $400, whichever is less, of the actual cost of the heat pump;
+     (6)  For heat pumps that are installed and placed in service after December 31, 1989, but before July 1, 2003, in new and existing multiunit buildings used primarily for residential purposes, the credit shall be in an amount not to exceed twenty per cent or $200 per building unit, whichever is less, of the actual cost of the heat pump; provided that a licensed professional engineer reviews the design of the system and provides a written opinion that the system, in accordance with recognized engineering practice, is designed to provide not less than ninety per cent of the daily annual average hot water needs of all of the occupants of the building;
+     (7)  For heat pumps that are installed and placed in service after December 31, 1989, but before July 1, 2003, in new and existing hotel, commercial, and industrial facilities, the credit shall be in an amount not to exceed twenty per cent of the actual cost of the heat pump; and
+     (8)  For ice storage systems that are installed and placed in service after December 31, 1990, but before July 1, 2003, the credit shall be in an amount not to exceed fifty per cent of the actual cost of the ice storage system.
+The per unit of actual cost of a solar energy system or heat pump referred to in subsection (b)(3) and (6) shall be determined by multiplying the actual cost of the solar energy system or heat pump installed and placed in service in the multiunit building by a fraction, the numerator being the total square feet of that unit in the multiunit building, and the denominator being the total square feet of all the units in the multiunit building.
+     If federal energy tax credits similar to any of those provided in paragraphs (1) to (8) are established after June 30, 1998, but before July 1, 2003, then the state tax credit provided in the respective paragraph or paragraphs shall be reduced by the amount of the applicable federal energy tax credit.] Every claim, including amended claims, for a tax credit under this section shall be filed on or before the end of the twelfth month following the close of the taxable year for which the credit may be claimed.  Failure to comply with the foregoing provision shall constitute a waiver of the right to claim the credit.
+     (c)  [Tax credits shall apply only to the actual cost of the solar or wind energy system, heat pump, or ice storage system, including their accessories and installation, and shall not include the cost of consumer incentive premiums unrelated to the operation of the system or offered with the sale of the system or heat pump.  The tax credit shall be claimed against net income tax liability for the year in which the solar or wind energy system, heat pump, or ice storage system was purchased and placed in use in Hawaii.  Tax credits that exceed the taxpayer's income tax liability may be used as credit against the taxpayer's income tax liability in subsequent years until exhausted.
+     (d)]  The director of taxation shall prepare such forms as may be necessary to claim a credit under this section.  The director may also require the taxpayer to furnish reasonable information to ascertain the validity of the claim for credit made under this section and may adopt rules necessary to effectuate the purposes of this section pursuant to chapter 91.
+     [(e)  As used in this section:
+     "Solar or wind energy system" means any new identifiable facility, equipment, apparatus, or the like that converts solar insolation or wind energy to useful thermal or electrical energy for heating, cooling, or reducing the use of other types of energy dependent upon fossil fuel for their generation.
+     "Heat pump" means an electric powered compression heating system that extracts energy from warm ambient air or recovers waste heat to assist in the production of hot water.
+     "Ice storage system" refers to ice banks or other cool energy storage tanks, containers, accessories, and controls that are specifically designed to store ice or chilled fluids for the express purpose of shifting the consumption of energy to off-peak periods.]
+     (d)  A taxpayer may purchase multiple light-emitting diode products for purposes of claiming this credit; however, in no instance shall the aggregate credit claimed on a return exceed the following amounts, as follows:
+          (1)  $100 for light-emitting diode lighting systems installed in a single-family, residential property;
+          (2)  $150 per unit for light-emitting diode lighting systems installed in a multi-family residential property; and
+          (3)  $1,000 for light-emitting diode lighting systems installed in a commercial property."
+     SECTION 3.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect on July 1, 2011.
+ 
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+ 
+Report Title:
+Taxation
+ 
+Description:
+Establishes a temporary tax credit for purchase and installation of light-emitting diode lighting systems.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

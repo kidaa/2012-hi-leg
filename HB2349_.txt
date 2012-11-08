@@ -1,0 +1,94 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2349
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO COLLECTION OF RESTITUTION FOR CRIME VICTIMS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 231-52, Hawaii Revised Statutes, is amended to read as follows:
+     "§231-52  Definitions.  As used in sections 231-51 to 231-59, unless the context otherwise requires:
+     "Claimant agency" includes any state agency, board, commission, department, institution, the judiciary, or other state organization, or any subdivision thereof.  In the case of delinquent child support pursuant to section 576D-1, "claimant agency" means the child support enforcement agency or an agency under cooperative agreement with the department whenever the department is required by law to enforce a support order on behalf of an individual.  "Claimant agency" includes the department of budget and finance when acting on behalf and at the request of the United Student Aid Funds, Inc. to collect defaulted education loan notes incurred under the federal Higher Education Act of 1965 (Public Law 89-329, 79 Stat. 1219), as amended; provided that the department has a contract with the United Student Aid Funds, Inc. under chapter 309 when acting as a claimant agency.  "Claimant agency" includes the department of taxation when acting on behalf and at the request of the Internal Revenue Service under the United States Department of the Treasury, and when the Internal Revenue Service is authorized by federal law to administratively impose a levy upon a refund of a debt or in satisfaction of the federal income taxes assessed under Internal Revenue Code of 1986, as amended.
+     "Debt" includes:
+     (1)  Any delinquency in periodic court-ordered or administrative-ordered payments for child support pursuant to section 576D-1, in an amount equal to or exceeding the sum of payments which would become due over a one-month period;
+     (2)  Any liquidated sum exceeding $25 which is due and owing any claimant agency, regardless of whether there is an outstanding judgment for that sum, and whether the sum has accrued through contract, subrogation, tort, operation of law, or judicial or administrative judgment or order;
+     (3)  Any defaulted education loan note held by the United Student Aid Funds, Inc. incurred under the federal Higher Education Act of 1965 (Public Law 89-329, 79 Stat. 1219), as amended;
+     (4)  Any federal income taxes due and owing to the United States Treasurer; [or]
+     (5)  Any medicaid overpayment under section 346-59.6[.]; or
+     (6)  Any unpaid court-ordered restitution pursuant to section 706-647.
+     "Debtor" includes any person who owes a debt to any claimant agency, who is delinquent in payment of court-ordered or administrative-ordered child support payments, pursuant to section 576D-1, who has defaulted on an education loan note held by the United Student Aid Funds, Inc. incurred under the federal Higher Education Act of 1965 (Public Law 89-329, 79 Stat. 1219), as amended, or who owes federal income taxes to the United States Treasurer.
+     "Refund" includes any state income tax refund which is or will be due any debtor, or any other sums due to a debtor from the State."
+     SECTION 2.  Section 353-22.6, Hawaii Revised Statutes, is amended to read as follows:
+     "§353-22.6  Victim restitution.  The director of public safety shall enforce victim restitution orders against moneys earned by the prisoner while incarcerated.  The amount deducted and paid once annually to the victim shall be [ten] twenty-five per cent of the prisoner's annual earnings.  This section shall not apply to moneys earned on work furlough pursuant to section 353-17."
+     SECTION 3.  Section 706-645, Hawaii Revised Statutes, is amended to read as follows:
+     "§706-645  Revocation of fine [or restitution].  (1)  A defendant who has been sentenced to pay a fine [or restitution] and who is not in contumacious default in the payment thereof may at any time petition the court which sentenced the defendant for a revocation of the fine [or restitution] or of any unpaid portion thereof.
+     (2)  If it appears to the satisfaction of the court that the circumstances which warranted the imposition of the fine [or restitution] have changed, or that it would otherwise be unjust to require payment, the court may revoke the fine [or restitution] or the unpaid portion thereof in whole or in part.  Prior to revocation, the court shall afford the prosecuting attorney an opportunity to be heard."
+     SECTION 4.  Chapter 706, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§706-    Income withholding.  (a)  Whenever a judgment or order is entered establishing, modifying, or enforcing restitution, there shall concurrently be issued an order that shall operate as an assignment to the clerk of the court where the order is entered, of such amounts at such times as may be specified in the judgment or order but no less than $50 per month, from the defendant's income due or to become due in the future from the defendant's employer, or successor employers.  A copy of the income withholding order shall be filed in the office of the clerk of the circuit court in the circuit where the order was issued.
+     (b)  The income withholding order issued pursuant to subsection (a) shall be effective immediately after service upon an employer of a copy of the order, which service may be affected by regular mail, by personal delivery, or by transmission through electronic means.  Thereafter, for each pay period, the employer shall withhold from the income due to defendant from the employer, and not required to be withheld by any other provision of federal or state law, and transmit to the clerk of the court where the order is entered, as much as may remain payable for the pay period up to the amount specified in the order.  The employer shall immediately inform the agency of any change that would affect the income withholding order.
+     (c)  Compliance by an employer with the income withholding order issued pursuant to subsection (a) shall operate as a discharge of the employer's liability to the defendant for that portion of the defendant’s earnings withheld and transmitted to the clerk of the court where the order is issued, whether or not the employer has withheld the correct amount.  For each payment made pursuant to an income withholding order, the employer may deduct and retain as an administrative fee an additional amount of $2 from the income owed to the defendant.  The total amount withheld from the defendant's income, including the administrative fee, may not be in excess of the maximum amounts permitted under section 303(b) of the Consumer Credit Protection Act (15 U.S.C. § 1673(b)).  Any income withholding order shall have priority as against any garnishment, attachment, execution, or other income withholding order, or any other order, and shall not be subject to the exemptions or restrictions contained in part III of chapter 651 and in chapters 652 and 653.  An employer who fails to comply with an income withholding order under this section shall be liable to the obligee for the full amount of all sums ordered to be withheld and transmitted.  An employer receiving an income withholding order shall transmit amounts withheld to the clerk of the court within five working days after the defendant is paid.  The employer shall begin withholding no later than the first pay period commencing within seven business days following the date a copy of the order is delivered, mailed or transmitted to the employer.  As used in this subsection, the term “business day” means a day on which the employer's office is open for regular business.  An employer who complies with an income withholding order that is regular on its face shall not be subject to civil liability to any person or agency for conduct in compliance with the order.  An employer who is required to withhold amounts from the income of more than one employee may remit to the agency a sum total of all such amounts in one check with a listing of the amounts applicable to each employee.  Within two working days after receipt of the amounts withheld by the employer, the clerk of the court shall disburse the amounts to the obligee.
+     (d)  An income withholding order shall be terminated when appropriate by court order.  The agency shall promptly refund any amount withheld in error to the defendant.
+     (e)  It shall be unlawful for any employer to refuse to hire a prospective employee, to discharge an employee, or to take any other disciplinary action against an employee, based in whole or in part upon an order or notice to withhold income pursuant to this section.  Any employer violating this section shall be guilty of a misdemeanor and shall be punished under section 710-1077(1)(g).
+     (f)  Notwithstanding any other provision of law, for the purposes of this section, the term “income” shall include, without limitation, salaries, wages, earnings, workers' compensation, unemployment compensation, disability benefits, commissions, independent contractor income, and any other entitlement to money including moneys payable as a pension or as an annuity or retirement or disability or death or other benefit, or as a return of contributions and interest thereon from the United States government, or from the State or political subdivision thereof, or from any retirement, disability, or annuity system established by any of them pursuant to statute.
+     (g)  If there is more than one restitution judgment or order, the amounts withheld from the income of a defendant shall be allocated among the restitution judgments or orders.  If concurrent assignment orders would cause the amounts withheld from the defendant's income to exceed applicable wage withholding limitations, the amount withheld shall be allocated so that in no case shall the allocation result in a withholding for one of the restitution obligations not being implemented.
+     (h) If a defendant changes employment when an income withholding order is in effect, the clerk of the court shall notify the defendant's new employer of the defendant's obligation in accordance with subsections (b) to (f). The new employer shall be bound by the income withholding order until further court order."
+     SECTION 5.  Section 806-73, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  All adult probation records shall be confidential and shall not be deemed to be public records.  As used in this section, the term "records" includes but is not limited to all records made by any adult probation officer in the course of performing the probation officer's official duties.  The records, or the content of the records, shall be divulged only as follows:
+     (1)  A copy of any adult probation case record or of a portion of it, or the case record itself, upon request, may be provided to:
+         (A)  An adult probation officer, court officer, social worker of a Hawaii state adult probation unit, or a family court officer who is preparing a report for the courts; or
+         (B)  A state or federal criminal justice agency, or state or federal court program that:
+              (i)  Is providing supervision of a defendant or offender convicted and sentenced by the courts of Hawaii; or
+             (ii)  Is responsible for the preparation of a report for a court;
+     (2)  The residence address, work address, home telephone number, or work telephone number of a current or former defendant shall be provided only to:
+         (A)  A law enforcement officer as defined in section 710-1000(13) to locate the probationer for the purpose of serving a summons or bench warrant in a civil, criminal, or deportation hearing, or for the purpose of a criminal investigation; or
+         (B)  A collection agency or licensed attorney contracted by the judiciary to collect any delinquent court-ordered penalties, fines, restitution, sanctions, and court costs pursuant to section 601-17.5;
+     (3)  A copy of a presentence report or investigative report shall be provided only to:
+         (A)  The persons or entities named in section 706-604;
+         (B)  The Hawaii paroling authority;
+         (C)  Any psychiatrist, psychologist, or other treatment practitioner who is treating the defendant pursuant to a court order or parole order for that treatment;
+         (D)  The intake service centers;
+         (E)  In accordance with applicable law, persons or entities doing research; and
+         (F)  Any Hawaii state adult probation officer or adult probation officer of another state or federal jurisdiction who:
+              (i)  Is engaged in the supervision of a defendant or offender convicted and sentenced in the courts of Hawaii; or
+             (ii)  Is engaged in the preparation of a report for a court regarding a defendant or offender convicted and sentenced in the courts of Hawaii;
+     (4)  Access to adult probation records by a victim, as defined in section 706-646 to enforce an order filed pursuant to section 706-647, shall be limited to the name and contact information of the defendant's adult probation officer[;], the compliance record of the defendant with court ordered payments, the amount(s) paid by the defendants, the dates of the payments made by the defendant, the payee of payments made by the defendant, and the balance unpaid;
+     (5)  Upon written request, the victim, or the parent or guardian of a minor victim or incapacitated victim, of a defendant who has been placed on probation for an offense under section 580-10(d)(1), 586-4(e), 586-11(a), or 709-906 may be notified by the defendant's probation officer when the probation officer has any information relating to the safety and welfare of the victim;
+     (6)  Notwithstanding paragraph (3) and upon notice to the defendant, records and information relating to the defendant's risk assessment and need for treatment services; information related to the defendant's past treatment and assessments, with the prior written consent of the defendant for information from a treatment service provider; provided that for any substance abuse records such release shall be subject to Title 42 Code of Federal Regulations Part 2, relating to the confidentiality of alcohol and drug abuse patient records; and information that has therapeutic or rehabilitative benefit, may be provided to:
+         (A)  A case management, assessment, or treatment service provider assigned by adult probation to service the defendant; provided that the information shall be given only upon the screening for admission, acceptance, or admittance of the defendant into a program;
+         (B)  Correctional case manager, correctional unit manager, and parole officers involved with the defendant's treatment or supervision; and
+         (C)  In accordance with applicable law, persons or entities doing research;
+     (7)  Probation drug test results may be released with prior written consent of a defendant to the defendant's treating physician when test results indicate substance use which may be compromising the defendant's medical care or treatment;
+     (8)  Any person, agency, or entity receiving records, or contents of records, pursuant to this subsection shall be subject to the same restrictions on disclosure of the records as Hawaii state adult probation offices; and
+     (9)  Any person who uses the information covered by this subsection for purposes inconsistent with the intent of this subsection or outside of the scope of the person's official duties shall be fined no more than $500."
+     SECTION 6.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 7.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+ 
+Report Title:
+Department of the Prosecuting Attorney Package;  Collection of Restitution for Crime Victims
+ 
+Description:
+Amends the definition of "debt," as defined in section 231-52, HRS, to include court-ordered restitution subject to civil enforcement.  Increases deductions from prisoners' earnings from 10% to 25%, for purposes of enforcing restitution orders.  Removes court's authority to revoke restitution once ordered.  Creates standards and procedures for income-withholding, for purposes of enforcing restitution orders.  Extends victims' access to adult probation records, to include access to payment compliance records, for purposes of enforcing restitution orders.
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

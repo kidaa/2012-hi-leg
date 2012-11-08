@@ -1,0 +1,101 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2321
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE UNIVERSITY OF HAWAII BOARD OF REGENTS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 26-11, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  The University of Hawaii shall be headed by an executive board to be known as the board of regents.
+     The board shall consist of fifteen members.  At least one member shall be a University of Hawaii student at the time of the initial appointment.  This member may be reappointed for one additional term even though the member may no longer be a student at the time of reappointment.  The governor shall reduce the terms of those initially appointed to each seat on the board of regents to provide, as far as practicable, for the expiration of three terms each year; provided that the term of the student member shall not be reduced.
+     At least twelve members, except for the student member, shall represent and reside in the specified geographic areas as follows:
+     (1)  Two members from the county of Hawaii;
+     (2)  Two members from the county of Maui;
+     (3)  One member from the county of Kauai; and
+     (4)  Seven members from the city and county of Honolulu.
+An at-large member shall have been a resident of the State for not less than one year immediately preceding the member's appointment.
+     The board shall have the power, in accordance with the Hawaii constitution and with law, to formulate policy and to exercise control over the university through its executive officer, the president of the university.  The board shall have exclusive jurisdiction over the internal organization and management of the university."
+     SECTION 2.  New statutory material is underscored.
+     SECTION 3.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+UH; Board of Regents; At-large Member; Requirement; Residency
+ 
+Description:
+Imposes a one year residency requirement on any at-large member of the UH board of regents.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+g, li.ExtraSig, div.ExtraSig {mso-style-name:"Extra Sig"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:243.0pt; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.ResolutionBody, li.ResolutionBody, div.ResolutionBody {mso-style-name:"Resolution Body"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} span.BillSectionNumber {mso-style-name:"Bill Section Number"; font-family:Courier;} p.XNotesHeading, li.XNotesHeading, div.XNotesHeading {mso-style-name:XNotesHeading; margin:0in; margin-bottom:.0001pt; text-align:center; font-size:12.0pt; font-family:"Courier New"; font-weight:bold;} p.XNotes, li.XNotes, div.XNotes {mso-style-name:XNotes; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Amend, li.Amend, div.Amend {mso-style-name:Amend; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.PCa, li.PCa, div.PCa {mso-style-name:"PC\(a\)"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Misc, li.Misc, div.Misc {mso-style-name:"Misc\."; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Effective, li.Effective, div.Effective {mso-style-name:Effective; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.BalloonTextChar {mso-style-name:"Balloon Text Char"; mso-style-link:"Balloon Text"; font-family:"Tahoma","sans-serif";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2321
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE UNIVERSITY OF HAWAII BOARD OF REGENTS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 26-11, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  The University of Hawaii shall be headed by an executive board to be known as the board of regents.
+     The board shall consist of fifteen members.  At least one member shall be a University of Hawaii student at the time of the initial appointment.  This member may be reappointed for one additional term even though the member may no longer be a student at the time of reappointment.  The governor shall reduce the terms of those initially appointed to each seat on the board of regents to provide, as far as practicable, for the expiration of three terms each year; provided that the term of the student member shall not be reduced.
+     At least twelve members, except for the student member, shall represent and reside in the specified geographic areas as follows:
+     (1)  Two members from the county of Hawaii;
+     (2)  Two members from the county of Maui;
+     (3)  One member from the county of Kauai; and
+     (4)  Seven members from the city and county of Honolulu.
+An at-large member shall have been a resident of the State for not less than one year immediately preceding the member's appointment.
+     The board shall have the power, in accordance with the Hawaii constitution and with law, to formulate policy and to exercise control over the university through its executive officer, the president of the university.  The board shall have exclusive jurisdiction over the internal organization and management of the university."
+     SECTION 2.  New statutory material is underscored.
+     SECTION 3.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+UH; Board of Regents; At-large Member; Requirement; Residency
+ 
+Description:
+Imposes a one year residency requirement on any at-large member of the UH board of regents.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

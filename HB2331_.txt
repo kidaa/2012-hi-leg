@@ -1,0 +1,103 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2331
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO ADVANCED PRACTICE REGISTERED NURSES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 291-51, Hawaii Revised Statutes, is amended by amending the definition of "certificate of disability" to read as follows:
+     ""Certificate of disability" means a medical statement issued by a licensed practicing physician[, which] or advanced practice registered nurse registered under chapter 457, that verifies that a person is disabled, limited, or impaired in the ability to walk."
+     SECTION 2.  Section 291-51.4, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§291-51.4[]]  Fraudulent verification of an applicant as a person with a disability; penalty.  A physician or advanced practice registered nurse registered under chapter 457 who fraudulently verifies that an applicant is a person with a disability to enable the person to represent to the issuing agency that the person is qualified to obtain a removable windshield placard, temporary removable windshield placard, or special license plates shall be guilty of a petty misdemeanor.  Each fraudulent verification shall constitute a separate offense."
+     SECTION 3.  Section 338-9, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  In preparing a certificate of death or fetal death the person in charge of the disposition of the body shall:
+     (1)  Obtain and enter on the certificate the personal data and other information pertaining to the deceased person required by the department from the person best qualified to supply them;
+     (2)  Present the certificate of death to the physician or advanced practice registered nurse registered under chapter 457 last in attendance upon the deceased, or to the coroner's physician, who shall thereupon certify the cause of death to the physician's best knowledge and belief, or present the certificate of fetal death to the physician, advanced practice registered nurse registered under chapter 457, midwife, or other person in attendance at the fetal death, who shall certify the fetal death and such medical data pertaining thereto as can be furnished; provided that fetal deaths of less than twenty-four weeks or intentional terminations of pregnancy performed in accordance with section 453-16 may be certified by a nurse or other employee based upon the physician's records; and
+     (3)  Notify immediately the appropriate local agent, if the death occurred without medical attendance, or if the physician or advanced practice registered nurse registered under chapter 457 last in attendance fails to sign the death certificate.  In such event the local agent shall inform the local health officer, and refer the case to the local health officer for immediate investigation and certification of the cause of death prior to issuing a permit for burial, or other disposition of the body.  When the local health officer is not a physician or when there is no such officer, the local agent may complete the certificate on the basis of information received from relatives of the deceased or others having knowledge of the facts.
+     If the circumstances of the case suggest that the death or fetal death was caused by other than natural causes, the local agent shall refer the case to the coroner for investigation and certification."
+     SECTION 4.  Section 457-8.8, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§457-8.8  Advanced practice registered nurses; global signature authority.[]  (a)]  Notwithstanding any other law to the contrary, advanced practice registered nurses shall be authorized to sign, certify, or endorse all documents relating to health care within their scope of practice provided for their patients, including workers' compensation verification documents, verification and evaluation forms of the department of human services and department of education, verification and authorization forms of the department of health, and physical examination forms; provided that nothing in this section shall be construed to expand the scope of practice of advanced practice registered nurses.
+     [(b)  This section shall not apply to a certificate of disability that may be used to obtain parking privileges for disabled persons pursuant to part III of chapter 291.]"
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+Report Title:
+Advanced Practice Registered Nurses; Death Certificates; Parking for Disabled Persons
+ 
+Description:
+Authorizes advanced practice registered nurses to certify death certificates and certificates of disability for disabled persons to obtain parking placards.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+font-family:"Courier New";} p.ExtraSig, li.ExtraSig, div.ExtraSig {mso-style-name:"Extra Sig"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:243.0pt; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; mso-style-link:"\#Regular Paragraphs Char"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.ResolutionBody, li.ResolutionBody, div.ResolutionBody {mso-style-name:"Resolution Body"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} span.BillSectionNumber {mso-style-name:"Bill Section Number"; font-family:Courier;} p.XNotesHeading, li.XNotesHeading, div.XNotesHeading {mso-style-name:XNotesHeading; margin:0in; margin-bottom:.0001pt; text-align:center; font-size:12.0pt; font-family:"Courier New"; font-weight:bold;} p.XNotes, li.XNotes, div.XNotes {mso-style-name:XNotes; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Amend, li.Amend, div.Amend {mso-style-name:Amend; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.PCa, li.PCa, div.PCa {mso-style-name:"PC\(a\)"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Misc, li.Misc, div.Misc {mso-style-name:"Misc\."; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.1ParagraphChar {mso-style-name:"\(1\)Paragraph Char"; mso-style-link:"\(1\)Paragraph"; font-family:"Courier New";} span.RegularParagraphsChar {mso-style-name:"\#Regular Paragraphs Char"; mso-style-link:"\#Regular Paragraphs"; font-family:"Courier New";} p.Effective, li.Effective, div.Effective {mso-style-name:Effective; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.BalloonTextChar {mso-style-name:"Balloon Text Char"; mso-style-link:"Balloon Text"; font-family:"Tahoma","sans-serif";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2331
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO ADVANCED PRACTICE REGISTERED NURSES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 291-51, Hawaii Revised Statutes, is amended by amending the definition of "certificate of disability" to read as follows:
+     ""Certificate of disability" means a medical statement issued by a licensed practicing physician[, which] or advanced practice registered nurse registered under chapter 457, that verifies that a person is disabled, limited, or impaired in the ability to walk."
+     SECTION 2.  Section 291-51.4, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§291-51.4[]]  Fraudulent verification of an applicant as a person with a disability; penalty.  A physician or advanced practice registered nurse registered under chapter 457 who fraudulently verifies that an applicant is a person with a disability to enable the person to represent to the issuing agency that the person is qualified to obtain a removable windshield placard, temporary removable windshield placard, or special license plates shall be guilty of a petty misdemeanor.  Each fraudulent verification shall constitute a separate offense."
+     SECTION 3.  Section 338-9, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  In preparing a certificate of death or fetal death the person in charge of the disposition of the body shall:
+     (1)  Obtain and enter on the certificate the personal data and other information pertaining to the deceased person required by the department from the person best qualified to supply them;
+     (2)  Present the certificate of death to the physician or advanced practice registered nurse registered under chapter 457 last in attendance upon the deceased, or to the coroner's physician, who shall thereupon certify the cause of death to the physician's best knowledge and belief, or present the certificate of fetal death to the physician, advanced practice registered nurse registered under chapter 457, midwife, or other person in attendance at the fetal death, who shall certify the fetal death and such medical data pertaining thereto as can be furnished; provided that fetal deaths of less than twenty-four weeks or intentional terminations of pregnancy performed in accordance with section 453-16 may be certified by a nurse or other employee based upon the physician's records; and
+     (3)  Notify immediately the appropriate local agent, if the death occurred without medical attendance, or if the physician or advanced practice registered nurse registered under chapter 457 last in attendance fails to sign the death certificate.  In such event the local agent shall inform the local health officer, and refer the case to the local health officer for immediate investigation and certification of the cause of death prior to issuing a permit for burial, or other disposition of the body.  When the local health officer is not a physician or when there is no such officer, the local agent may complete the certificate on the basis of information received from relatives of the deceased or others having knowledge of the facts.
+     If the circumstances of the case suggest that the death or fetal death was caused by other than natural causes, the local agent shall refer the case to the coroner for investigation and certification."
+     SECTION 4.  Section 457-8.8, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§457-8.8  Advanced practice registered nurses; global signature authority.[]  (a)]  Notwithstanding any other law to the contrary, advanced practice registered nurses shall be authorized to sign, certify, or endorse all documents relating to health care within their scope of practice provided for their patients, including workers' compensation verification documents, verification and evaluation forms of the department of human services and department of education, verification and authorization forms of the department of health, and physical examination forms; provided that nothing in this section shall be construed to expand the scope of practice of advanced practice registered nurses.
+     [(b)  This section shall not apply to a certificate of disability that may be used to obtain parking privileges for disabled persons pursuant to part III of chapter 291.]"
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+Report Title:
+Advanced Practice Registered Nurses; Death Certificates; Parking for Disabled Persons
+ 
+Description:
+Authorizes advanced practice registered nurses to certify death certificates and certificates of disability for disabled persons to obtain parking placards.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

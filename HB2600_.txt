@@ -1,0 +1,249 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2600
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CONTROLLED SUBSTANCES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 329-14, Hawaii Revised Statutes, is amended to read as follows:
+     "§329-14  Schedule I.  (a)  The controlled substances listed in this section are included in schedule I.
+     (b)  Any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters, and ethers, unless specifically excepted, whenever the existence of these isomers, esters, ethers, and salts is possible within the specific chemical designation:
+     (1)  Acetyl-alpha-methylfentanyl (N-[1-(1-methyl-2-phenethyl)-4-piperidinyl]-N-phenylacetamide);
+     (2)  Acetylmethadol;
+     (3)  Allylprodine;
+     (4)  Alphacetylmethadol (except levo-alphacetylmethadol, levomethadyl acetate, or LAAM);
+     (5)  Alphameprodine;
+     (6)  Alphamethadol;
+     (7)  Alpha-methylfentanyl (N-[1-(alpha-methyl-beta-phenyl)ethyl-4-piperidyl] propionanilide; 1-(1-methyl-2-phenylethyl)-4-(N-propanilido) piperidine);
+     (8)  Alpha-methylthiofentanyl (N-[1-methyl-2-(2-thienyl)ethyl-4-piperidinyl]-N-phenylpropanamide);
+     (9)  Benzethidine;
+    (10)  Betacetylmethadol;
+    (11)  Beta-hydroxyfentanyl (N-[1-(2-hydroxy-2-phenethyl)-4-piperidinyl]-N-phenylpropanamide);
+    (12)  Beta-hydroxy-3-methylfentanyl (N-[1-(2-hydroxy-2-phenethyl)-3-methyl-4-piperidinyl]-N-phenylpropanamide);
+    (13)  Betameprodine;
+    (14)  Betamethadol;
+    (15)  Betaprodine;
+    (16)  Clonitazene;
+    (17)  Dextromoramide;
+    (18)  Diampromide;
+    (19)  Diethylthiambutene;
+    (20)  Difenoxin;
+    (21)  Dimenoxadol;
+    (22)  Dimepheptanol;
+    (23)  Dimethylthiambutene;
+    (24)  Dioxaphetyl butyrate;
+    (25)  Dipipanone;
+    (26)  Ethylmethylthiambutene;
+    (27)  Etonitazene;
+    (28)  Etoxeridine;
+    (29)  Furethidine;
+    (30)  Hydroxypethidine;
+    (31)  Ketobemidone;
+    (32)  Levomoramide;
+    (33)  Levophenacylmorphan;
+    (34)  3-Methylfentanyl (N-[3-methyl-1-(2-phenylethyl)-4-piperidyl]-N-phenylpropanamide);
+    (35)  3-methylthiofentanyl (N-[3-methyl-1-(2-thienyl)ethyl-4-piperidinyl]-N-phenylpropanamide);
+    (36)  Morpheridine;
+    (37)  MPPP (1-methyl-4-phenyl-4-propionoxypiperidine);
+    (38)  Noracymethadol;
+    (39)  Norlevorphanol;
+    (40)  Normethadone;
+    (41)  Norpipanone;
+    (42)  Para-fluorofentanyl (N-(4-fluorophenyl)-N-[1-(2-phenethyl)-4-piperidinyl] propanamide;
+    (43)  PEPAP (1-(-2-phenethyl)-4-phenyl-4-acetoxypiperidine;
+    (44)  Phenadoxone;
+    (45)  Phenampromide;
+    (46)  Phenomorphan;
+    (47)  Phenoperidine;
+    (48)  Piritramide;
+    (49)  Proheptazine;
+    (50)  Properidine;
+    (51)  Propiram;
+    (52)  Racemoramide;
+    (53)  Thiofentanyl (N-phenyl-N-[1-(2-thienyl)ethyl-4-piperidinyl]-propanamide);
+    (54)  Tilidine;
+    (55)  Trimeperidine;
+    (56)  N-[1-benzyl-4-piperidyl]-N-phenylpropanamide (benzylfentanyl), its optical isomers, salts, and salts of isomers; and
+    (57)  N-[1-(2-thienyl)methyl-4-piperidyl]-N-phenylpropanamide (thenylfentanyl), its optical isomers, salts, and salts of isomers.
+     (c)  Any of the following opium derivatives, their salts, isomers, and salts of isomers, unless specifically excepted, whenever the existence of these salts, isomers, and salts of isomers is possible within the specific chemical designation:
+     (1)  Acetorphine;
+     (2)  Acetyldihydrocodeine;
+     (3)  Benzylmorphine;
+     (4)  Codeine methylbromide;
+     (5)  Codeine-N-Oxide;
+     (6)  Cyprenorphine;
+     (7)  Desomorphine;
+     (8)  Dihydromorphine;
+     (9)  Drotebanol;
+    (10)  Etorphine;
+    (11)  Heroin;
+    (12)  Hydromorphinol;
+    (13)  Methyldesorphine;
+    (14)  Methyldihydromorphine;
+    (15)  Morphine methylbromide;
+    (16)  Morphine methylsulfonate;
+    (17)  Morphine-N-Oxide;
+    (18)  Myrophine;
+    (19)  Nicocodeine;
+    (20)  Nicomorphine;
+    (21)  Normorphine;
+    (22)  Phoclodine;
+    (23)  Thebacon.
+     (d)  Any material, compound, mixture, or preparation that contains any quantity of the following hallucinogenic substances, their salts, isomers, and salts of isomers, unless specifically excepted, whenever the existence of these salts, isomers, and salts of isomers is possible within the specific chemical designation:
+     (1)  Alpha-ethyltryptamine (AET);
+     (2)  2,5-dimethoxy-4-ethylamphetamine (DOET);
+     (3)  2,5-dimethoxyamphetamine (2,5-DMA);
+     (4)  3,4-methylenedioxy amphetamine;
+     (5)  3,4-methylenedioxymethamphetamine (MDMA);
+     (6)  N-hydroxy-3,4-methylenedioxyamphetamine (N-hydroxy-MDA);
+     (7)  3,4-methylenedioxy-N-ethylamphetamine (MDE);
+     (8)  5-methoxy-3,4-methylenedioxy-amphetamine;
+     (9)  4-bromo-2,5-dimethoxy-amphetamine(4-bromo-2,5-DMA);
+    (10)  4-Bromo-2,5-dimethoxyphenethylamine (Nexus);
+    (11)  3,4,5-trimethoxy amphetamine;
+    (12)  Bufotenine;
+    (13)  4-methoxyamphetamine (PMA);
+    (14)  Diethyltryptamine;
+    (15)  Dimethyltryptamine;
+    (16)  4-methyl-2,5-dimethoxy-amphetamine;
+    (17)  Gamma hydroxybutyrate (GHB) (some other names include gamma hydroxybutyric acid; 4-hydroxybutyrate; 4-hydroxybutanoic acid; sodium oxybate; sodium oxybutyrate);
+    (18)  Ibogaine;
+    (19)  Lysergic acid diethylamide;
+    (20)  Marijuana;
+    (21)  Parahexyl;
+    (22)  Mescaline;
+    (23)  Peyote;
+    (24)  N-ethyl-3-piperidyl benzilate;
+    (25)  N-methyl-3-piperidyl benzilate;
+    (26)  Psilocybin;
+    (27)  Psilocyn;
+    (28)  1-[1-(2-Thienyl) cyclohexyl] Pyrrolidine (TCPy);
+   [(29)  Tetrahydrocannabinols; meaning tetrahydrocannabinols naturally contained in a plant of the genus Cannabis (cannabis plant), as well as synthetic equivalents of the substances contained in the cannabis plant, or in the resinous extractives of such plant, or synthetic substances, derivatives, and their isomers with similar chemical structure and pharmacological activity to those substances contained in the plant, such as the following:
+         (A)  1 cis or trans tetrahydrocannabinol, and their optical isomers;
+         (B)  6 cis or trans tetrahydrocannabinol, and their optical isomers; and
+         (C)  3,4 cis or trans tetrahydrocannabinol, and its optical isomers.
+          (Since nomenclature of these substances is not internationally standardized, compounds of these structures, regardless of numerical designation of atomic positions, are covered);
+    (30)] (29)  Ethylamine analog of phencyclidine (PCE);
+   [(31)] (30)  Pyrrolidine analog of phencyclidine (PCPy,       PHP);
+   [(32)] (31)  Thiophene analog of phencyclidine (TPCP; TCP);
+   [(33)] (32)  Gamma-butyrolactone, including butyrolactone;           butyrolactone gamma; 4-butyrolactone; 2(3H)-furanone     dihydro; dihydro-2(3H)-furanone; tetrahydro-2-furanone; 1,2-butanolide; 1,4-butanolide; 4-butanolide; gamma-hydroxybutyric acid lactone; 3-hydroxybutyric acid lactone and 4-hydroxybutanoic acid lactone with Chemical Abstract Service number 96-48-0 when any such substance is intended for human ingestion;
+   [(34)] (33)  1,4 butanediol, including butanediol; butane-1,4-diol; 1,4- butylenes glycol; butylene glycol; 1,4-dihydroxybutane; 1,4- tetramethylene glycol; tetramethylene glycol; tetramethylene 1,4- diol with Chemical Abstract Service number 110-63-4 when any such substance is intended for human ingestion;
+   [(35)] (34)  2,5-dimethoxy-4-(n)-propylthiophenethylamine (2C-T-7), its optical isomers, salts, and salts of isomers;
+   [(36)] (35)  N-benzylpiperazine (BZP; 1-benzylpiperazine) its optical isomers, salts, and salts of isomers;
+   [(37)] (36)  1-(3-trifluoromethylphenyl)piperazine (TFMPP), its optical isomers, salts, and salts of isomers;
+   [(38)] (37)  Alpha-methyltryptamine (AMT), its isomers, salts, and salts of isomers;
+   [(39)] (38)  5-methoxy-N,N-diisopropyltryptamine (5-MeO-DIPT), its isomers, salts, and salts of isomers;
+   [(40)] (39)  Salvia divinorum;
+   [(41)] (40)  Salvinorin A;
+   [(42)] (41)  Divinorin A;
+   [(43)  Mephedrone (2-methylamino-1-p-tolylpropan-1-one) also known as 4-methylmethcathinone (4-MMC), methylephedrone or MMCAT;
+    (44)  Methylenedioxypyrovalerone (MDPV, MDPK);
+    (45)  (6aR,10aR)-9-(hydroxymethyl)-6, 6-dimethyl-3-(2-methyloctan-2-yl)-6a,7,10,10a-tetrahydrobenzo[c]chromen-1-ol, (another trade name is HU-210);
+    (46)  2-[(1R,3S)-3-hydroxycyclohexyl]-5-(2-methyloctan-2-yl)phenol), (other trade names include CP 47,497 and dimethyloctyl homologues);
+    (47)  1-Pentyl-3-(1-naphthoyl)indole, (another trade name is JWH-018);
+    (48)  1-Butyl-3-(1-naphthoyl)indole, (another trade name is JWH-073;  and
+    (49)  Cannabicyclohexanol.]and
+    (42)  5-Methoxy-N,N-Dimethyltryptamine (5-MeO-DIPT) (some trade or other names: 5-methoxy-3-[2-(dimethylamino)ethyl]indole; 5-MeO-DMT)."
+     (e)  Depressants.  Unless specifically excepted, the schedule shall include any material, compound, mixture, or preparation which contains any quantity of the substance:
+     (1)  Mecloqualone; or
+     (2)  Methaqualone.
+     (f)  Stimulants.  Unless specifically excepted or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system, including its salts, isomers, and salts of isomers:
+     (1)  Aminorex;
+     (2)  Cathinone;
+     (3)  Fenethylline;
+     (4)  Methcathinone;
+     (5)  N-ethylamphetamine;
+     (6)  4-methylaminorex;
+     (7)  N,N-dimethylamphetamine[.]; and
+     (8)  Substituted cathinones, any compound, except bupropion or compounds listed under a different schedule, structurally derived from 2–aminopropan–1–one by substitution at the 1-position with either phenyl, naphthyl, or thiophene ring systems, whether or not the compound is further modified in any of the following ways:
+         (A)  By substitution in the ring system to any extent with alkyl, alkylenedioxy, alkoxy, haloalkyl, hydroxyl, or halide substituents, whether or not further substituted in the ring system by one or more other univalent substituents;
+         (B)  By substitution at the 3–position with an acyclic alkyl substituent; or
+         (C)  By substitution at the 2-amino nitrogen atom with alkyl, dialkyl, benzyl, or methoxybenzyl groups, or by inclusion of the 2-amino nitrogen atom in a cyclic structure.
+          Some other trade names:  Mephedrone (2-methylamino-1-p-tolylpropan-1-one), also known as 4-methylmethcathinone (4-MMC), methylephedrone or MMCAT; Methylenedioxypyrovalerone (MDPV, MDPK); and methylone or 3,4-methylenedioxypyrovalerone.
+     (g)  Any of the following cannabinoids, their salts, isomers and salts of isomers, unless specifically excepted, whenever the existence of these salts, isomers and salts of isomers is possible within the specific chemical designation:
+     (1)  Tetrahydrocannabinols; meaning tetrahydrocannabinols naturally contained in a plant of the genus Cannabis (cannabis plant), as well as synthetic equivalents of the substances contained in the plant, or in the resinous extractives of Cannabis, sp. or synthetic substances, derivatives, and their isomers with similar chemical structure and pharmacological activity to those substances contained in the plant, such as the following: Delta 1 cis or trans tetrahydrocannabinol, and their optical isomers; Delta 6 cis or trans tetrahydrocannabinol, and their optical isomers; and Delta 3,4 cis or trans-tetrahydrocannabinol, and its optical isomers (since nomenclature of these substances is not internationally standardized, compounds of these structures, regardless of numerical designation of atomic positions, are covered);
+     (2)  Naphthoylindoles; meaning any compound containing a 3-(1-naphthoyl)indole structure with substitution at the nitrogen atom of the indole ring by a alkyl, haloalkyl, alkenyl, cycloalkylmethyl,cycloalkylethyl, 1-(N-methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group, whether or not further substituted in the indole ring to any extent and whether or not substituted in the naphthyl ring to any extent;
+     (3)  Naphthylmethylindoles; meaning any compound containing a 1H-indol-3-yl-(1-naphthyl) methane structure with substitution at the nitrogen atom of the indole ring by a alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl) methyl or 2-(4-morpholinyl) ethyl group whether or not further substituted in the indole ring to any extent and whether or not substituted in the naphthyl ring to any extent;
+     (4)  Naphthoylpyrroles; meaning any compound containing a 3-(1-naphthoyl)pyrrole structure with substitution at the nitrogen atom of the pyrrole ring by a alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl)methyl or 2-(4-morpholinyl)ethyl group whether or not further substituted in the pyrrole ring to any extent, whether or not substituted in the naphthyl ring to any extent;
+     (5)  Naphthylmethylindenes; meaning any compound containing a naphthylideneindene structure with substitution at the 3-position of the indene ring by a alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl) methyl or 2-(4-morpholinyl) ethyl group whether or not further substituted in the indene ring to any extent, whether or not substituted in the naphthyl ring to any extent;
+     (6)  Phenylacetylindoles; meaning any compound containing a 3-phenylacetylindole structure with substitution at the nitrogen atom of the indole ring by a alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl) methyl or 2-(4-morpholinyl) ethyl group whether or not further substituted in the indole ring to any extent, whether or not substituted in the phenyl ring to any extent;
+     (7)  Cyclohexylphenols; meaning any compound containing a 2-(3-hydroxycyclohexyl) phenol structure with substitution at the 5-position of the phenolic ring by a alkyl, haloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl) methyl or 2-(4-morpholinyl) ethyl group whether or not substituted in the cyclohexyl ring to any extent;
+     (8)  Benzoylindoles; meaning any compound containing a 3-(benzoyl) indole structure with substitution at the nitrogen atom of the indole ring by a alkyl, aloalkyl, alkenyl, cycloalkylmethyl, cycloalkylethyl, 1-(N-methyl-2-piperidinyl) methyl or 2-(4-morpholinyl) ethyl group whether or not further substituted in the indole ring to any extent and whether or not substituted in the phenyl ring to any extent;
+     (9)  2,3-Dihydro-5-methyl-3-(4-morpholinylmethyl) pyrrolo[1,2,3-de]-1,4-benzoxazin-6-yl]-1-napthalenylmethanone (another trade name is WIN 55,212-2); and
+    (10)  (6a,10a)-9-(hydroxymethyl)-6, 6-dimethyl-3-(2-methyloctan-2-yl)-6a,7,10,10a-tetrahydrobenzo[c]chromen-1-ol (other trade names are: HU-210 and HU-211)."
+     SECTION 2.  Section 329-16, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  Any of the following opiates, including their isomers, esters, ethers, salts, and salts of isomers, whenever the existence of these isomers, esters, ethers, and salts is possible within the specific chemical designation:
+     (1)  Alfentanil;
+     (2)  Alphaprodine;
+     (3)  Anileridine;
+     (4)  Bezitramide;
+     (5)  Bulk Dextropropoxyphene (nondosage form);
+     (6) Carfentanil;
+     (7)  Dihydrocodeine;
+     (8)  Diphenoxylate;
+     (9)  Fentanyl;
+    (10)  Isomethadone;
+    (11)  Levo-alphacetylmethadol (LAAM);
+    (12)  Levomethorphan;
+    (13)  Levorphanol;
+    (14)  Metazocine;
+    (15)  Methadone;
+    (16)  Methadone-Intermediate, 4-cyano-2-dimethylamino-4, 4-diphenyl butane;
+    (17)  Moramide-Intermediate, 2-methyl-3-morpholino-1, 1-diphenyl-propane-carboxylic acid;
+    (18)  Pethidine (Meperidine);
+    (19)  Pethidine-Intermediate-A, 4-cyano-1-methyl-4-phenylpiperidine;
+    (20)  Pethidine-Intermediate-B, ethyl-4-phenylpiperidine-4-carboxylate;
+    (21)  Pethidine-Intermediate-C, 1-methyl-4-phenylpiperidine-4-carboxylic acid;
+    (22)  Phenazocine;
+    (23)  Piminodine;
+    (24)  Racemethorphan;
+    (25)  Racemorphan;
+    (26)  Remifentanil;
+    (27)  Sufentanil; and
+    (28)  Tapentadol[; and
+    (29)  4-anilino-N-phenethyl-4-piperidine (ANPP)]."
+     SECTION 3.  Section 329-16, Hawaii Revised Statutes, is amended by amending subsection (f) to read as follows:
+     "(f)  Immediate precursor.  Unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances:
+     (1)  Immediate precursor to amphetamine and methamphetamine:
+         (A)  Phenylacetone, phenyl-2-propanone(P2P), benzyl methyl ketone, methyl benzyl ketone [or];
+     (2)  Immediate precursors to phencyclidine (PCP):
+         (A)  1-phenylcyclohexylamine; and
+         (B)  1-piperidinocyclohexanecarbonitrile(PCC)[.]; or
+     (3)  Immediate precursor to Fentanyl:
+         (A)  4-anilino-N-Phenethyl-4-piperdine (ANPP)."
+     SECTION 4.  Section 329-32, Hawaii Revised Statutes, is amended by amending subsection (e) to read as follows:
+     "(e)  A separate registration shall be required at each principal place of business or professional practice where the applicant manufactures, distributes, prescribes, or dispenses controlled substances[,] or recommends the medical use of marijuana, except an office used by a practitioner (who is registered at another location) where controlled substances are prescribed but neither administered nor otherwise dispensed as a regular part of the professional practice of the practitioner at such office, and where no supplies of controlled substances are maintained."
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Controlled Substances
+ 
+Description:
+Updates chapter 329, Hawaii Revised Statutes, to make it consistent with federal laws on controlled substances; and amends section 329-32 relating to the registration requirements for physicians who utilize Hawaii's Medical Use of Marijuana Program.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

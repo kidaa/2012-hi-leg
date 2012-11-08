@@ -1,0 +1,68 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1957
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO HEALTH CARE INFORMATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that the privacy of patients' individually identifiable health information has been greatly enhanced by the Health Insurance Portability and Accountability Act of 1996, hereinafter referred to as "HIPAA", and related federal laws and regulations.  The federal regulatory scheme encourages the use of electronic transmission of individually identifiable health information in a more secure setting, such as through a health information exchange that allows health care information to be shared among health care providers in a more timely and secure manner, with important benefits for patients.  A secured health information exchange system will give Hawaii providers prompt access to vital health care information at the point of care, resulting in better treatment decisions, improved patient outcomes, reduced health care costs, and enhanced quality and oversight over health care.
+     The legislature believes that the safety and protection of the health care consumer is paramount, particularly with respect to consumer health care information.  At the same time, an ideal health care system requires an efficient exchange of information about patients' health care.  The Health Information Technology for Economic and Clinical Health Act promotes the development of statewide health care information architecture that allows health care providers to share health care information, improve health care consumer safety, and reduce redundant tests and procedures, thereby leading to an overall reduction of health care costs, while maintaining the privacy and confidentiality of information in accordance with federal law.
+     The legislature further finds that Hawaii's health care system is hampered from achieving the timely exchange of individually identifiable health information, in part because Hawaii has over fifty different laws and rules governing health care privacy restricting the exchange of health care information in the new settings.  This complex array of state laws and rules, created prior to the enactment of HIPAA, unduly burdens health care providers who attempt to share or access critical information at the point of care and imposes unnecessary administrative costs and a regulatory burden on Hawaii's health care system.  The legislature believes it is necessary to integrate the various laws and rules affecting Hawaii's health care into a well-coordinated scheme of state and federal privacy protections.
+     The legislature further finds that HIPAA and its related regulations provide a comprehensive regulatory scheme to protect the privacy of patients' individually identifiable health information, while allowing reasonable access by health care providers, health plans, and health-oversight agencies.
+     The purpose of this Act is to clarify that persons and entities governed by HIPAA, who use or disclose individually identifiable health information consistent with HIPAA regulations, shall be deemed to be in compliance with Hawaii's privacy laws and rules.
+     SECTION 2.  The Hawaii Revised Statutes is amended by adding a new chapter to be appropriately designated and to read as follows:
+"CHAPTER  
+HEALTH CARE PRIVACY HARMONIZATION ACT
+     §     -1  Short title.  This chapter shall be known as the "Health Care Privacy Harmonization Act".
+     §     -2  Definitions.  As used in this chapter:
+     "Business associate" means a business associate as defined by the Health Insurance Portability and Accountability Act (45 C.F.R. 160.103), or as may be amended.
+     "Covered entity" means a covered entity as defined by the Health Insurance Portability and Accountability Act (45 C.F.R. 160.103), or as may be amended.
+     "HIPAA" means the Health Insurance Portability and Accountability Act (42 U.S.C. 201 et seq.), or as may be amended.
+     "Individually identifiable health information" means individually identifiable health information as defined by the Health Insurance Portability and Accountability Act (45 C.F.R. 160.103).
+     Other capitalized terms used in this chapter shall have the same meaning as defined in HIPAA.
+     §     -3  Privacy of individually identifiable health information.  Notwithstanding any law to the contrary:
+(1)  Any use or disclosure of individually identifiable health information by any covered entity or business associate that is permitted by HIPAA regulations regarding privacy of individually identifiable health information under 45 C.F.R. Part 164, Subpart E, shall be deemed to be in compliance with all state laws and rules governing the use, disclosure, or confidentiality of such information;
+(2)  An authorization for release of individually identifiable health information that follows the structure under 45 C.F.R. 164.508 shall be deemed to be in compliance with all state laws and rules governing individual authorization; and
+(3)  Any notification of breach of unsecured protected health information that is provided in a complete and consistent manner with HIPAA regulations regarding notification of breach of unsecured protected health information under 45 C.F.R. Part 164, Subpart D, shall be deemed to be in compliance with all state laws and rules governing notice of breach for protected health information.
+     §     -4  Relationship to other laws.  (a)  Nothing in this chapter shall be construed to:
+(1)  Authorize the disclosure of individually identifiable health information to the extent that disclosure is restricted by federal law or regulations, including the confidentiality of alcohol and drug abuse patient records under 42 C.F.R. Part 2;
+(2)  Require the disclosure of individually identifiable health information that is not required by law to be disclosed;
+(3)  Require a written authorization for release of individually identifiable health information or de-identified information to the extent that HIPAA does not require such authorization;
+(4)  Limit or otherwise affect any state law or rules requiring a person or entity to report disease, injury, child and elder abuse, domestic violence, birth, or death;
+(5)  Limit or otherwise affect any state law or rules governing public health surveillance, investigation, or intervention;
+(6)  Limit or otherwise affect health plan reporting, such as for state-required management or financial audits; or
+(7)  Limit or otherwise affect any state law or rules requiring notification of other security or privacy breaches.
+(b)  No law enacted after         shall limit the applicability of this chapter unless the law expressly references and amends this chapter."
+SECTION 3.  The revisor of statutes shall insert the effective date of this Act in the appropriate place in section 2 of this Act.
+SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Health Care Information; Privacy
+ 
+Description:
+Clarifies that persons and entities governed by the Health Insurance Portability and Accountability Act, who use or disclose individually identifiable health information that is consistent with the Health Insurance Portability and Accountability Act regulations, shall be deemed to be in compliance with Hawaii's privacy laws and rules.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

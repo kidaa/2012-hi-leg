@@ -1,0 +1,278 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2503
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CAPTIVE INSURANCE COMPANIES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 431, Hawaii Revised Statutes, is amended by adding to part I of article 19 two new sections to be appropriately designated and to read as follows:
+     "§431:19-A  Rules for controlled unaffiliated business.  The commissioner may adopt rules pursuant to chapter 91 establishing standards to ensure that a parent or its affiliated entity is able to exercise control of the risk management function of any controlled unaffiliated business to be insured or reinsured by a pure captive insurance company; provided that, until such time as rules under this section are adopted, the commissioner may approve the coverage of such risks by a pure captive insurance company.
+     §431:19-B  Applicability of other laws to captive insurance companies writing direct workers' compensation insurance policies.  Captive insurance companies writing direct workers' compensation insurance policies shall be subject to article 15 and chapter 386.  Captive insurance companies writing direct workers' compensation insurance policies shall also be subject to the rules adopted, pursuant to chapter 91, by the commissioner to implement this section."
+     SECTION 2.  Section 431:19-101, Hawaii Revised Statutes, is amended as follows:
+     (1)  By adding nine new definitions to be appropriately inserted and to read as follows:
+     ""Administrator" means the captive insurance administrator established in section 431:19-101.5.
+     "Class 1 company" means a pure captive insurance company that is designated and licensed in this State to only write business as a reinsurer in this State.
+     "Class 2 company" means a pure captive insurance company that is designated and licensed in this State to write business as a direct insurer, or as a direct insurer and reinsurer.
+     "Class 3 company" means an association captive insurance company or risk retention captive insurance company that is designated and licensed in this State.
+     "Class 4 company" means a sponsored captive insurance company that is designated and licensed in this State.
+     "Class 5 company" means a reinsurance or excess insurance company that is a captive insurance company designated and licensed in this State pursuant to section 431:19-111.5.
+     "Controlled unaffiliated business" means, in the case of a pure captive insurance company, any person:
+     (1)  That is not in the corporate system of a parent and its affiliated entities;
+     (2)  That has an existing contractual relationship, or other direct or indirect relationship, with a parent or one of its affiliated entities; and
+     (3)  Whose risks are managed by the pure captive insurance company in accordance with section 431:19-A.
+     "Governing body" means the board of directors, subscriber's advisory committee, membership, or other entity responsible for the governance of a captive insurance company.
+     "Organizational document" means a captive insurance company's articles of association, articles of incorporation, articles of organization, subscribers' agreement, bylaws, operating agreement, or any other document that establishes the captive insurance company as a legal entity or prescribes its existence."
+     (2)  By amending the definitions of "affiliated entity", "association", "association captive insurance company", "captive insurance company", "outside captive insurance company", "participant", "protected cell", "pure captive insurance company", "risk retention captive insurance company", and "sponsored captive insurance company" to read as follows:
+     ""Affiliated entity" means any company, person, or other entity in the same corporate system as a parent or a member organization by virtue of common ownership, control, operation, or management[, or, in the case of a pure captive insurance company, whose risks insured by the pure captive insurance company are directly or indirectly controlled by the parent or an affiliate of the parent of a pure captive insurance company].
+     "Association" means any legal association of individuals, corporations, limited liability companies, partnerships, associations, or other entities, except labor organizations, the member organizations of which or which does itself, whether or not in conjunction with some or all of the member organizations:
+     (1)  Own, control, or hold with power to vote all of the outstanding voting securities of an association captive insurance company incorporated as a stock insurer;
+     (2)  Have complete voting control over an association captive insurance company incorporated as a mutual insurer; [or]
+     (3)  Constitute all of the subscribers of an association captive insurance company formed as a reciprocal insurer[.]; or
+     (4)  Have complete voting control over an association captive insurance company formed as a limited liability company.
+     "Association captive insurance company" means [any] a captive insurance company that insures risks of the member organizations of the association, and [their] that may also insure the risks of affiliated [companies.] entities of the member organizations and the risks of the association itself.
+     "Captive insurance company" means a class 1[,] company, class 2[,] company, class 3[,] company, class 4[,] company, or class 5 [captive insurance] company formed or authorized under this article.
+     "Outside captive insurance company" means an insurance company licensed under the laws of a jurisdiction other than this State and not otherwise admitted to do business as an insurance company in this State, that insures the risks of its parent or any affiliated [companies.] entities.
+     "Participant" means an entity that meets the requirements of section 431:19-305, and any [affiliates] affiliated entities thereof that are insured by a sponsored captive insurance company where the losses of the participant may be limited through a participant contract to the participant's pro rata share of the assets of one or more protected cells identified in the participant contract.
+     "Protected cell" means a separate account established by a sponsored captive insurance company formed or licensed under this [part] article in which assets are maintained for one or more participants in accordance with the terms of one or more participant contracts to fund the liability of the sponsored captive insurance company assumed on behalf of the participants as set forth in the participant contracts.
+     "Pure captive insurance company" means [any] a captive insurance company that only insures or reinsures risks of its parent and affiliated entities[.] or of a controlled unaffiliated business.
+     "Risk retention captive insurance company" means a captive insurance company [which] that is formed as a "risk retention group" as defined in chapter 431K.
+     "Sponsored captive insurance company" means [any] a captive insurance company [in]:
+     (1)  In which the minimum required capital and surplus is provided by one or more sponsors [and];
+     (2)  That is formed or licensed under this article[.  A sponsored captive insurance company];
+     (3)  That insures the risks only of its participants through separate participant contracts; and [may fund]
+     (4)  That may fund its liability to each participant through one or more protected cells.  A sponsored captive insurance company segregates the assets of each protected cell from the assets of other protected cells and from the assets of the sponsored captive insurance company's general account."
+     SECTION 3.  Section 431:19-101.2, Hawaii Revised Statutes, is amended to read as follows:
+     "§431:19-101.2  Confidential treatment.  (a)  Except as otherwise provided in [subsection (b),] this section, all nonpublic information in a captive insurance company's application for licensure, its business plan, or of its parent or the parent's member organizations, and all other nonpublic information disclosed to the commissioner pursuant to this article, shall be given confidential treatment and shall not be made public by the commissioner.
+     (b)  If the commissioner determines that the interest of the policyholders, shareholders, or the public will be served by making the information public, then after giving the captive insurance company and its parent or the parent's member organizations that would be affected thereby, three days written notice of intent, and unless otherwise contrary to law, the commissioner may make public all or any part of the nonpublic information in a manner that the commissioner deems appropriate; provided that the commissioner may disclose nonpublic information to courts of competent jurisdiction, and insurance departments or regulatory agencies of other competent jurisdictions without prior notification to the person to whom the information pertains.
+     (c)  This section shall not apply to risk retention captive insurance companies.  The confidentiality provisions of section 431:2-209 shall apply to risk retention captive insurance companies.
+     [(c)] (d)  For purposes of this section:
+     "Equity securities" means:
+     (1)  A share in a corporation, whether or not transferable or denominated a "stock", or similar security evidencing an ownership interest in the person;
+     (2)  The interest of a limited partner in a limited partnership;
+     (3)  The interest of a partner in a partnership, including a joint venture; or
+     (4)  A warrant or right, other than a right to convert, to purchase, sell, or subscribe to a share, security, or interest of a kind specified in paragraph (1), (2), or (3).
+     "Nonpublic information" means information that, prior to disclosure to the commissioner pursuant to this article is, or was:
+     (1)  Not a public record as defined in rule 1001(5) of section 626-1; or
+     (2)  Not a government record that must be disclosed under section 92F-12;
+provided that in the case of a person whose equity securities are collectively owned and held by thirty-six or more persons, "nonpublic information" does not include financial information disclosed to owners and holders of equity securities."
+     SECTION 4.  Section 431:19-101.5, Hawaii Revised Statutes, is amended to read as follows:
+     "§431:19-101.5  Captive insurance administrator.  [(a)] There shall be established within the [office of the commissioner,] insurance division a captive insurance administrator, who shall be solely responsible for assisting the commissioner in [the] monitoring, [regulation, and development of] regulating, and developing captive insurance companies under this article.  The commissioner, with the approval of the director of commerce and consumer affairs, shall appoint the administrator who shall be designated as a deputy commissioner and shall be exempt from chapter 76, notwithstanding section 431:2-105(b)[.] to the contrary.  The administrator shall serve at the pleasure of the director of commerce and consumer affairs and shall report directly to the commissioner.
+     [(b)  "Administrator", where used in this article, means the captive insurance administrator.]"
+     SECTION 5.  Section 431:19-101.8, Hawaii Revised Statutes, is amended as follows:
+     (1)  By amending subsection (a) to read as follows:
+     "(a)  The commissioner may establish a separate fund designated as the captive insurance administrative fund to be expended by the commissioner to carry out the commissioner's duties and obligations under this article [19 of chapter 431]."
+     (2)  By amending subsection (d) to read as follows:
+     "(d)  Sums from the fund expended by the commissioner shall be used to defray any administrative costs, including personnel costs[,] associated with the captive programs of the insurance division, and costs incurred by supporting offices, branches, divisions, and departments.  [Any] Notwithstanding any law to the contrary [notwithstanding], the commissioner may use the moneys in the fund to employ or retain, by contract or otherwise[,] and without regard to chapter 76, hearings officers, attorneys, investigators, accountants, examiners, and other necessary professional, technical, and support personnel to implement and carry out the purposes of this article [19 of chapter 431]; provided that any position, except any attorney position, that is subject to chapter 76 prior to July 1, 1999, shall remain subject to chapter 76."
+     SECTION 6.  Section 431:19-102, Hawaii Revised Statutes, is amended by amending subsections (a) through (f) to read as follows:
+     "(a)  [Any captive insurance company, when] When permitted by an applicant captive insurance company's [its articles of association, articles of incorporation, articles of organization, or other] organizational [document,] documents, the applicant captive insurance company may apply to the commissioner for a certificate of authority to do any and all insurance set forth in subsection (h); provided that:
+     (1)  No pure captive insurance company may insure or reinsure any risks other than those of its parent [and], affiliated entities[;], and controlled unaffiliated businesses;
+     (2)  No association captive insurance company may insure any risks other than those of [the member organizations of its association and their affiliated entities;] its association, those of the member organizations of its association, and those of a member organization's affiliated entities;
+     (3)  [No] Unless otherwise allowed under section 431:19-102.2, no captive insurance company may provide personal motor vehicle or homeowner's insurance coverage or any component thereof, other than as [employee]:
+         (A)  Employee benefits for the employees of a parent, association, or its members, and their respective affiliated entities; or [as reinsurance]
+         (B)  Reinsurance as may be allowed under this article; and
+     (4)  No captive insurance company may accept or cede insurance except as provided in section 431:19-111.
+     (b)  No captive insurance company shall do any insurance business in this State unless:
+     (1)  It first obtains from the commissioner a certificate of authority authorizing it to do insurance business in this State;
+     (2)  Its [board of directors, subscribers' advisory committee, or other] governing body holds at least one meeting each year in this State;
+     (3)  It maintains its principal place of business and registered office in this State, except that a branch captive insurance company need only maintain the principal place of a business unit in this State; and
+     (4)  It designates a registered resident agent in accordance with chapter 414, 414D, or 428, as applicable, to accept service of process and to otherwise act on its behalf in this State.  Whenever the registered resident agent cannot, with reasonable diligence, be found at the registered office of the captive insurance company, the commissioner shall be an agent of the captive insurance company upon whom any process, notice, or demand may be served in accordance with section 431:2-206.
+     (c)  Before [receiving] an applicant captive insurance company receives a certificate of authority, [a captive insurance company] the applicant captive insurance company shall file with the commissioner:
+     (1)  A certified copy of its organizational documents[, including but not limited to its articles of incorporation, articles of association, bylaws, subscribers' agreement, articles of organization, and operating agreement, as applicable];
+     (2)  A statement under oath of:
+         (A)  Any two of its principal officers;
+         (B)  Its attorney-in-fact in the case of a captive insurance company formed as a reciprocal insurer; or
+         (C)  The duly authorized representative of its governing body,
+          showing its financial condition; and
+     (3)  Any other statements or documents required by the commissioner.
+     (d)  In addition to the information required by subsection (c), each applicant captive insurance company shall file with the commissioner evidence of the following:
+     (1)  The amount and liquidity of its assets relative to the risks to be assumed;
+     (2)  The adequacy of the expertise, experience, and character of the person or persons who will manage it;
+     (3)  The overall soundness of its plan of operation[;], including the net retained risk on any one subject of insurance;
+     (4)  The adequacy of the loss prevention programs of its parent or member organizations as applicable; and
+     (5)  Any other factors deemed relevant by the commissioner in ascertaining whether the proposed captive insurance company will be able to meet its policy obligations.
+     (e)  Each [captive insurance company applying for a certificate of authority under this article] applicant captive insurance company shall pay to the commissioner a nonrefundable application fee for examining, investigating, and processing its application for the certificate of authority.  [In addition, each captive insurance company receiving a] Upon approval of the application for the certificate of authority, the applicant captive insurance company shall pay to the commissioner a license fee for the certificate of authority [from the commissioner shall pay an annual fee therefor for the year of registration and for each annual renewal thereafter].  Thereafter, the captive insurance company shall pay to the commissioner an annual renewal fee.  The amount of the nonrefundable application fee [and the annual certificate of authority fee], license fee, and renewal fee shall be set forth in rules adopted by the commissioner.  In addition, the commissioner may adopt rules with respect to fees for the issuance of other documents as may be deemed necessary or requested by captive insurance companies.
+     (f)  The commissioner may use independent advisors and consultants to assist in the review and analysis of a specific application or business plan amendment.  The independent advisory and consulting fee, to be paid by the [captive] applicant[,] captive insurance company, shall be a reasonable fee authorized by the commissioner pursuant to section 431:19‑114."
+     SECTION 7.  Section 431:19-102.2, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  [Notwithstanding the provisions of section 431:19-102(a), a] A captive insurance company may be licensed to provide personal lines coverage for unrelated risks if the commissioner deems that extraordinary circumstances exist [which make the provision of this] whereby coverage [by a captive insurance company] would be appropriate and in the best interest of the public.  In determining whether [such] extraordinary circumstances exist, the commissioner shall consider the following factors:
+     (1)  The extent to which the particular coverage is available in the voluntary market;
+     (2)  The existence of a relationship between the parent of the captive insurance company and the proposed policyholders other than that of insurer to insured;
+     (3)  Whether the captive insurance company has sufficient capitalization to insure the proposed risks; and
+     (4)  Any other factors [which] the commissioner deems appropriate."
+     SECTION 8.  Section 431:19-102.3, Hawaii Revised Statutes, is amended to read as follows:
+     "§431:19-102.3  Redomestication; approval as a domestic captive insurer.  (a)  Any foreign or alien captive insurance company may become a domestic captive insurance company by meeting the following requirements:
+     (1)  [Compliance] Comply with all of the requirements relating to the organization and licensing of a domestic captive insurance company of the same type, and any requirements that the commissioner may adopt by rule;
+     (2)  [The articles of incorporation or other] Amend and restate its organizational [document shall be amended] documents in compliance with the laws of this State [and restated in its entirety before submission to the commissioner.  Before the amended and restated articles of incorporation or other organizational document is transmitted to the department of commerce and consumer affairs, the foreign or alien captive insurance company shall petition], and submit the amended and restated organizational documents for the commissioner's review; and
+     (3)  Petition the commissioner to issue a certificate [setting] of general good, which sets forth the commissioner's finding that the redomestication and maintenance of the company will promote the general good of the State.  In arriving at the finding, the commissioner shall consider the factors set forth in section 431:19-106(b)[;].
+     [(3) The] (b)  Upon issuance of the certificate of general good by the commissioner pursuant to subsection (a)(3), the foreign or alien captive insurance company shall file the following [shall be transmitted to] with the department of commerce and consumer affairs [for filing]:
+    [(A)] (1)  Articles of redomestication[;], which shall set forth the following:
+         (A)  Name of the company;
+         (B)  Date and location of incorporation or organization;
+         (C)  Street address of the principal office in this State;
+         (D)  Names and titles of the:
+              (i)  Officers and directors of the company; or
+             (ii)  Members of the governing body;
+         (E)  A statement that the company is moving its domicile from its present state or country to this State;
+         (F)  A statement that redomestication will occur upon filing the articles of redomestication and that the company shall be subject to the laws of this State; and
+         (G)  A statement that copies of the articles of incorporation or other organizational document and any amendments certified by the proper officer of the state or country under the laws of which the company is incorporated or organized are attached; provided that if any of these documents are in a foreign language, a translation under oath of the translator shall accompany these documents;
+    [(B)] (2)  Certificate of general good issued [by the commissioner;] pursuant to subsection (a)(3);
+    [(C)] (3)  Certificate of good standing or comparable documentation [duly authenticated] certified by the proper officer of the [state or country] jurisdiction under [the laws of] which the foreign or alien captive insurance company is [incorporated;] incorporated or organized; provided that:
+         [(i)] (A)  The certificate or documentation shall be dated not earlier than thirty days prior to the [filing of the articles of redomestication;] date of the certificate of general good; and
+        [(ii)] (B)  If the certificate of good standing or documentation is in a foreign language, a translation under oath of the translator shall accompany the certificate or documentation;
+        [(D)  Amendments to the articles of incorporation or other organizational document in compliance with the laws of this State;
+         (E)  Restatement of the articles of incorporation or other organizational document in its entirety; and
+         (F)  Organization fee; and
+     (4)  The articles of redomestication shall set forth the following:
+         (A)  Name of the company;
+         (B)  Date and location of incorporation or organization;
+         (C)  Street address of the principal office in this State;
+         (D)  Names and titles of the:
+              (i)  Officers and directors of the company; or
+             (ii)  Members of the governing body;
+         (E)  A statement that the company is moving its domicile from its present state or country to this State;
+         (F)  A statement that redomestication will occur upon filing the articles of redomestication and that the company shall be subject to the laws of this State; and
+         (G)  A statement that copies of the articles of incorporation or other organizational document and any amendments certified by the proper officer of the state or country under the laws of which the company is incorporated or organized are attached; provided that if any of these documents are in a foreign language, a translation under oath of the translator shall accompany these documents].
+     (4)  The company's organizational documents, which shall be amended and restated in compliance with the laws of this State; and
+     (5)  Nonrefundable application fee.
+     [(b)  The] (c)  Upon payment of the license fee and annual renewal fees, the domestic captive insurance company shall be entitled to the necessary or appropriate certificates and licenses to do business in this State and shall be subject to the authority and jurisdiction of this State.  No captive insurance company redomesticating into this State need merge, consolidate, transfer assets, or otherwise engage in any other reorganization, other than as specified in this section.
+     [(c)] (d)  Upon redomestication in accordance with this section, the foreign or alien captive insurance company shall become a domestic captive insurance company organized under the laws of this State and shall have all the rights, privileges, immunities, and powers and be subject to all applicable laws, duties, and liabilities of a domestic captive insurance company of the same type.  The domestic captive insurance company shall possess all rights that it had prior to the redomestication to the extent permitted by the laws of this State and shall be responsible and liable for all the liabilities and obligations that it was subject to prior to the redomestication.  All outstanding policies of the captive insurance company shall remain in full force and effect."
+     SECTION 9.  Section 431:19-102.4, Hawaii Revised Statutes, is amended by amending subsections (b) through (d) to read as follows:
+     "(b)  Before transferring its domicile to any other jurisdiction and before the notice of change in domicile is transmitted to the department of commerce and consumer affairs, the domestic captive insurance company shall [deliver to the commissioner a notice of intent to transfer, along with payment of] submit a written request to the commissioner to redomesticate to another jurisdiction and a transfer fee of $300[, and petition the commissioner to issue a certificate of transfer].
+     (c)  [The notice of change in domicile, the certificate of transfer issued by the commissioner, the proof of redomestication,] Upon approval of the written request to redomesticate pursuant to subsection (b), the commissioner shall issue a certificate of transfer.  The domestic captive insurance company shall submit the certificate of transfer, a notice of change of domicile, and the filing fee [shall be transmitted] to the department of commerce and consumer affairs.  The notice of change in domicile shall set forth the following:
+     (1)  Name of the company;
+     (2)  Dates that notice of the company's intent to transfer domicile from this State was published pursuant to the publication requirements of section 1-28.5;
+     (3)  Date of the transfer of its domicile; and
+     (4)  State or country to which its domicile will be transferred.
+     (d)  [Upon any transfer authorized pursuant to this section, the captive insurance company shall cease to be domiciled in this State, and its corporate or other legal existence in this State shall cease upon the issuance of a certificate of discontinuance by the department of commerce and consumer affairs; provided that at the time of issuance of the certificate of discontinuance, the captive insurance company shall pay a certificate fee in accordance with chapter 414.] Upon meeting the requirements of subsection (c) and upon the issuance of a certificate of discontinuance by the department of commerce and consumer affairs, the captive insurance company shall cease to be domiciled in this State, and its corporate or other legal existence in this State shall cease.  The captive insurance company shall pay a certificate fee at the time the certificate of discontinuance is issued in accordance with chapter 414."
+     SECTION 10.  Section 431:19-104, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  Each captive insurance company licensed pursuant to this article shall possess and thereafter maintain unimpaired capital and surplus in the amount established by the commissioner; provided that:
+     (1)  The commissioner shall take into account the nature and volume of business transacted by each captive insurance company, and any other factors deemed appropriate by the commissioner;
+     (2)  Class 3 [captive insurance] companies shall be subject to other applicable provisions of this chapter that may require capital and surplus in excess of those established by the commissioner; and
+     (3)  Minimum capital and surplus established by the commissioner shall be no less than the following amounts:
+         (A)  Class 1[:] company:  $100,000;
+         (B)  Class 2[:] company:  $250,000;
+         (C)  Class 3[:] company:  $500,000;
+         (D)  Class 4[:] company:  $500,000; and
+         (E)  Class 5[:] company:  An amount as determined by the commissioner on a case by case basis."
+     SECTION 11.  Section 431:19-106, Hawaii Revised Statutes, is amended by amending subsection (e) to read as follows:
+     "(e)  Captive insurance companies formed under this article shall have the privileges and be subject to the general corporation law, nonprofit corporation law, or limited liability company law of this State as may be applicable, as well as this article.  In the event of conflict between any of the foregoing applicable laws of this State and this article, this article shall control."
+     SECTION 12.  Section 431:19-106.5, Hawaii Revised Statutes, is amended by amending subsections (b) and (c) to read as follows:
+     "(b)  A plan of conversion or merger shall be submitted to and be approved by the commissioner in advance of the proposed conversion or merger.  The commissioner shall not approve the plan unless:
+     (1)  The commissioner finds that it is fair, equitable, and consistent with law;
+     (2)  The plan has been approved[:
+         (A)  In the case of a stock corporation, by at least two-thirds of the shares entitled to vote at a duly called regular or special meeting of the shareholders at which a quorum is present, or by unanimous written consent of the shareholders;
+         (B)  In the case of a mutual insurer, by at least two-thirds of the voting interest of the members of the mutual insurer at a duly called regular or special meeting of the membership at which a quorum is present, or by unanimous written consent of the members of the mutual insurer;
+         (C)  In the case of a reciprocal insurer, by at least two-thirds of the voting interest of the subscribers of the reciprocal insurer at a duly called meeting of the subscribers of the reciprocal insurer, or by unanimous written consent of the subscribers;
+         (D)  In the case of a nonprofit corporation, by at least two-thirds of the voting interest of the members at a duly called meeting of the members of the corporation, or by unanimous written consent of the members; or
+         (E)  In the case of a limited liability company, by at least two-thirds of the voting interest of the members at a duly called meeting of the members of the limited liability company, or by unanimous written consent of the members;] by at least two-thirds of the voting interest or unanimous written consent of the voting interest of the captive insurance company;
+     (3)  The plan provides for:
+         (A)  The conversion of existing stockholder, member, or subscriber interests into equal or proportionate interests in the new converted or merged insurer, or such other method and basis for the conversion of the stockholder, member, or subscriber interests that is fair and equitable;
+         (B)  The purchase or other disposition of the shares of any nonconsenting shareholder of a stock insurer, policyholder interest of any nonconsenting member of a mutual insurer, membership interest of a limited liability company, or subscriber surplus account interest, if any, of a subscriber of a reciprocal insurer, in accordance with either an agreement with any nonconsenting stockholder, member, or subscriber or with the existing [articles or bylaws] organizational documents of the insurer relating to the buyback buyout, or the termination of the stockholder, member, or subscriber interests, if any, or if no such provisions exist, then in accordance with the laws of this State relating to the rights of dissenting shareholders; and
+         (C)  The novation, assignment, transfer, run-off, or other disposition of [in force] in-force policies insuring any nonconsenting shareholder, member, or subscriber;
+     (4)  The conversion or merger will leave the resulting converted insurer or surviving insurer of the merger with capital or surplus funds reasonably adequate to preserve the security of its policyholders and an ability to continue to transact business in the classes of insurance in which it is then authorized to transact; and
+     (5)  The commissioner finds that the conversion or merger will promote the general good of the State.
+     (c)  After approval of the plan of conversion or merger by the commissioner, the converting or merging insurer shall file with the director of commerce and consumer affairs, appropriate [articles of amendment, articles of conversion, or articles of merger, as the case may be; provided that in the case of the conversion of a reciprocal insurer or limited liability company insurer to a stock or mutual insurer, the existing reciprocal or limited liability company insurer shall file articles of incorporation to commence the corporate existence of the company in the form of a stock or mutual insurer.] organizational documents to commence the existence of the company in its converted or merged form.  Documents filed with the director of commerce and consumer affairs pursuant to this subsection shall comply with all applicable requirements for such documents as may be contained in this article and chapter 414, 414D, or 428, as to the extent that these laws are applicable to the conversion or merger."
+     SECTION 13.  Section 431:19-107, Hawaii Revised Statutes, is amended by amending subsections (a) and (b) to read as follows:
+     "(a)  Each captive insurance company other than a [class 3] risk retention captive insurance company shall submit to the commissioner financial statements reporting the financial condition and the results of operations of the insurer written according to generally accepted accounting principles, or other comprehensive basis of accounting as may be deemed appropriate by the commissioner, and audited by an independent certified public accountant, or other qualified professional as deemed appropriate by the commissioner, on or before the last day of the sixth month following the end of the company's fiscal year.
+     (b)  Each [class 3] risk retention captive insurance company shall annually file with the commissioner the following:
+     (1)  Annual statement and audit:
+         (A)  On or before March 1, or such day subsequent thereto as the commissioner upon request and for cause may specify, an annual statement using the National Association of Insurance Commissioners' annual statement blank plus any additional information required by the commissioner, which shall be a true statement of its financial condition, transactions, and affairs as of the immediately preceding December 31.  The reported information shall be verified by oaths of at least two of the captive's principal officers;
+         (B)  On or before June 1, or such day subsequent thereto as the commissioner upon request and for cause may specify, an audit by a designated independent certified public accountant or accounting firm of the financial statements reporting the financial condition and results of the operation of the captive; and
+         (C)  The annual statement and audit shall be prepared in accordance with the National Association of Insurance Commissioners' annual statement instructions, accounting practices and procedures manual, and rules adopted by the commissioner following the practices and procedures prescribed by the National Association of Insurance Commissioners; and
+     (2)  On or before each March 1, or such day subsequent thereto as the commissioner upon request and for cause may specify, a risk-based capital report in accordance with section 431:3-402; provided that [a class 3] an association captive insurance company shall not be required to file risk-based capital reports with the National Association of Insurance Commissioners."
+     SECTION 14.  Section 431:19-108, Hawaii Revised Statutes, is amended as follows:
+     (1)  By amending its title to read as follows:
+     "§431:19-108  Examinations [and], investigations[.], and financial surveillance."
+     (2)  By amending subsection (a) to read as follows:
+     "(a)  The commissioner or any authorized examiner may conduct an examination, investigation, or financial surveillance of any captive insurance company as often as the commissioner deems appropriate[,]; provided that unless the commissioner requires otherwise:
+     (1)  An examination shall be conducted at least once every five years for all captive insurance companies, except as provided in paragraph (2); and
+     (2)  An examination of a [class 3] risk retention captive insurance company shall be conducted no later than three years after its formation and at least once every five years thereafter.
+     The commissioner or any authorized examiner shall thoroughly inspect and examine the captive insurance company's affairs to ascertain its financial condition, its ability to fulfill its obligations, and whether it has complied with this article."
+     SECTION 15.  Section 431:19-109, Hawaii Revised Statutes, is amended to read as follows:
+     "§431:19-109  Grounds and procedures for suspension and revocation of certificate of authority[.]; fines.  (a)  The commissioner may suspend or revoke the certificate of authority of a captive insurance company to do business in this State [may be suspended or revoked by the commissioner] for any of the following reasons:
+     (1)  Insolvency or impairment of capital or surplus;
+(2)  Failure to meet the requirements of section 431:19-104;
+     (3)  Refusal or failure to submit an annual report, as required by section 431:19-107 or any other report or statement required by law or by lawful order of the commissioner;
+     (4)  Failure to comply with the provisions of its own [articles of incorporation, articles of association, or bylaws;] organizational documents;
+     (5)  Failure to submit to examination or any legal obligation relative thereto, as required by section 431:19-108;
+     (6)  Refusal or failure to pay the cost of examination pursuant to section 431:19-108;
+     (7)  Use of methods that, although not otherwise specifically prohibited by law, nevertheless render its operation detrimental or its condition unsound with respect to the public or to its policyholders;
+     (8)  Failure to maintain actuarially appropriate loss reserves as determined by the commissioner; provided that the commissioner shall issue at least one warning to the captive insurance company to correct the problem prior to suspending or revoking the certificate of authority; and
+     (9)  Failure otherwise to comply with the laws of this State.
+     (b)  [If] Notwithstanding any other law to the contrary, if the commissioner, upon examination, hearing, or other evidence, finds that any captive insurance company has committed any of the acts specified in subsection (a), the commissioner may suspend [or] the certificate of authority, revoke the certificate of authority, or impose a fine upon notice to remedy any violation, or any combination of these actions, if the commissioner deems it in the best interest of the public and the policyholders of such captive insurance company[, notwithstanding any other law]."
+     SECTION 16.  Section 431:19-110, Hawaii Revised Statutes, is amended by amending subsections (a) and (b) to read as follows:
+     "(a)  Except for [class 3] risk retention captive insurance companies, captive insurance companies licensed under this article shall be allowed to maintain investments in accordance with a strategic investment policy adopted and monitored by the captive insurance company's governing body, and approved by the commissioner; provided that in addition to the minimum capital and surplus requirements prescribed in section 431:19-104(b), [and the requirements prescribed in subsection (b),] each captive insurance company with an approved strategic investment policy shall maintain investments in one or more of the following forms, which aggregate not less than one hundred per cent of reserves as required by this [code] chapter or the commissioner:
+     (1)  Cash;
+     (2)  Irrevocable letter of credit issued by a bank chartered by this State or a member bank of the Federal Reserve System;
+     (3)  Investments in accordance with a strategic investment policy adopted and monitored by the captive insurance company’s governing body, and approved by the commissioner;
+     (4)  Premiums in the course of collection; or
+     (5)  Other forms approved by the commissioner.
+     (b)  Each captive insurance company that does not maintain a strategic investment policy as described in subsection (a) and [class 3] risk retention captive insurance companies shall be subject to the restrictions on allowable investments provided under sections 431:6-101 to 431:6-501; provided that the commissioner may approve other assets, investments, and investment provisions as the commissioner deems appropriate."
+     SECTION 17.  Section 431:19-111.5, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  A class 5 company under this article is one that is not a class 1[,] company, class 2[,] company, class 3[,] company, or class 4 company, and acts only as a reinsurer or excess insurer, or both.  Notwithstanding any other provision of this article, a class 5 company authorized under this article may reinsure or provide excess insurance, or both, for the risks and lines of insurance approved by the commissioner."
+     SECTION 18.  Section 431:19-113, Hawaii Revised Statutes, is amended to read as follows:
+     "§431:19-113  Exemption from compulsory associations.  No captive insurance company shall be permitted to join or contribute financially to any plan, pool, association, or guaranty or insolvency fund in this State, except as provided under chapter 386, nor shall any captive insurance company, its insured, or its parent or any affiliated [company,] entity, or any member organization of its association, receive any benefit from any such plan, pool, association, or guaranty or insolvency fund for claims arising out of the operations of such captive insurance company."
+     SECTION 19.  Section 431:19-115, Hawaii Revised Statutes, is amended to read as follows:
+     "§431:19-115  Laws applicable.  (a)  No insurance laws of this State other than those contained in this article, or contained in specific references contained in this section or article, shall apply to captive insurance companies [formed under this article.  In addition to this article, article 1, article 2, sections 431:3-302 to 431:3-304, section 431:3-307, article 4A, parts I and II of article 5, article 6, article 11, and article 15 of this chapter shall apply to captive insurance companies other than pure captive insurance companies and branch captive insurance companies, unless these other laws are inconsistent with this article or the commissioner by rule, regulation, or order determines, on a case by case basis that these other laws should not apply thereto.
+     In addition to this article, and except as otherwise provided in this article, article 1, article 2, article 6, article 11, and article 15 of this chapter shall apply to class 5 companies, unless these other laws are inconsistent with this article or the commissioner by rule, regulation, or order determines, on a case by case basis that these other laws should not apply thereto.
+     In addition to this article and the articles or portions thereof referenced in this section, chapter 431K shall apply to risk retention captive insurance companies authorized under this article.
+     (b)  The application of the foregoing provisions shall not diminish the commissioner's authority for exemption as may be contained therein or as may be deemed appropriate under the circumstances.
+     In addition, the commissioner may adopt rules pursuant to chapter 91 as the commissioner deems necessary in connection with the financial oversight and regulation of captive insurance companies].
+     (b)  In addition to the exceptions set forth in subsection (a):
+     (1)  Sections 431:3-302 to 431:3-304 and 431:3-307;
+     (2)  Articles 1, 2, 4A, 5, 6, 9A, 9B, 9C, 11, 11A, and 15; and
+     (3)  Chapter 431K,
+shall apply to risk retention captive insurance companies.
+     (c)  In addition to the exceptions set forth in subsection (a), articles 1, 2, 6, and 15 shall apply to class 5 companies.
+     (d)  If any of the laws specified in this section are inconsistent with this article, this article shall apply unless the commissioner by rule or order determines otherwise on a case-by-case basis.
+     (e)  The application of the foregoing provisions shall not diminish the commissioner's authority for exemption as may be contained therein or as may be deemed appropriate under the circumstances."
+     SECTION 20.  Section 431:19-203, Hawaii Revised Statutes, is amended as follows:
+     (1)  By amending the definition of "counterparty" to read as follows:
+     ""Counterparty" means the insurer that cedes risk to a special purpose financial captive insurance company which, unless otherwise approved by the commissioner, shall be the parent or an affiliated [company] entity of the special purpose financial captive insurance company."
+     (2)  By repealing the definition of "organizational document".
+     [""Organizational document" means the special purpose financial captive insurance company's articles of incorporation, articles of organization, bylaws, operating agreement, or any other document that establishes the special purpose financial captive insurance company as a legal entity or prescribes its existence."]
+     SECTION 21.  Section 431:19-308, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§431:19-308[]]  Applicable laws.  A sponsored captive insurance company shall be subject to this part and to part [II.] I.  If there is any conflict between this part and part [II,] I, this part shall control."
+     SECTION 22.  Section 431:19-309, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§431:19-309[]]  Existing licenses.  Except as otherwise determined by the commissioner, a captive insurance company that has been issued a certificate of authority by the commissioner pursuant to section 431:19-102 as of July 1, 2008, and is licensed as a class 4 [captive] company shall not be required to re-apply for a certificate of authority under this part, but shall otherwise be subject to this part as a sponsored captive insurance company; provided that the commissioner may by order require the captive insurance company to take any action that the commissioner determines is reasonably necessary to bring the captive insurance company into compliance with this part."
+     SECTION 23.  Section 431:19-101.3, Hawaii Revised Statutes, is repealed.
+     ["§431:19-101.3  Classes of captive insurance.  Each captive insurance company formed under this article shall be designated and licensed as one of the following classes of captive insurance companies:
+     (1)  A class 1 company shall be limited to a pure captive insurance company that only writes business as a reinsurer;
+     (2)  A class 2 company shall be limited to a pure captive insurance company that is not a class 1 company;
+     (3)  A class 3 company shall be any company formed under this article as an association captive insurance company or a risk retention captive insurance company;
+     (4)  A class 4 company shall be a sponsored captive insurance company formed under part III of this article; and
+     (5)  A class 5 company shall be a reinsurance or excess insurance company formed under this article."]
+     SECTION 24.  In codifying the new sections added by section 1 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 25.  Statutory material to be repealed is bracketed and stricken.  New material is underscored.
+     SECTION 26.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Captive Insurance Companies
+ 
+Description:
+Amends captive insurance company law (article 19, chapter 431, Hawaii Revised Statutes).
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

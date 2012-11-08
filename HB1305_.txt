@@ -1,0 +1,87 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1305
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CHECK CASHING.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 480F, Hawaii Revised Statutes, is amended by adding four new sections to be appropriately designated and to read as follows:
+     "§480F-     Registration required.  (a)  No check casher shall conduct business in this State, including deferred deposit transactions, without first registering with the department of commerce and consumer affairs under this chapter.
+     (b)  The director shall prescribe the form of the application for registration.  Each application shall be accompanied by the appropriate fee as prescribed by the director.
+     (c)  Check casher registration shall be updated annually and shall include the following:
+     (1)  The address of the principal office of the check casher;
+     (2)  The name and address of the check casher's agent for service of process in the State; and
+     (3)  Payment of the appropriate registration fees, as established by the director.
+     §480F-     Payment plans.  (a)  A check casher may enter into a payment plan with a non-default customer for a period of up to ninety days.  Under the payment plan, no interest may be charged; provided that an administrative fee of $30 may be added to any fees or sums already owed by the customer.  There shall be a thirty-day period after the completion of any payment plan during which no new payment plan with that customer shall commence.
+     (b)  A check casher shall offer an interest-free payment plan with a minimum term of sixty days to any customer who is in default.  Any collection letter written to a customer in default shall inform the customer of the option of interest-free payment.
+     (c)  A check casher shall offer an extended repayment plan option after any customer has entered into four or more consecutive transactions with the same check casher; provided that the customer requests the option within twenty-four hours of the customer's last payment due date.  For purposes of this subsection, "consecutive transactions" means entering into back to back agreements within twenty-four hours of the payment of a previous transaction.
+     §480F-     Records and reports.  Every check casher shall keep records and make reports with respect to the operation of business as provided in rules adopted by the director pursuant to chapter 91.
+     §480F-     Rules.  The director, pursuant to chapter 91, shall adopt rules necessary to implement this chapter."
+     SECTION 2.  Section 237-24.75, Hawaii Revised Statutes, is amended to read as follows:
+     "§237-24.75  Additional exemptions.  In addition to the amounts exempt under section 237-24, this chapter shall not apply to:
+     (1)  Amounts received as a beverage container deposit collected under chapter 342G, part VIII;
+     (2)  Amounts received by the operator of the Hawaii convention center for reimbursement of costs or advances made pursuant to a contract with the Hawaii tourism authority under section 201B‑7[[; and]
+   [](3)  Amounts received[]] by a professional employment organization from a client company equal to amounts that are disbursed by the professional employment organization for employee wages, salaries, payroll taxes, insurance premiums, and benefits, including retirement, vacation, sick leave, health benefits, and similar employment benefits with respect to assigned employees at a client company; provided that this exemption shall not apply to a professional employment organization upon failure of the professional employment organization to collect, account for, and pay over any income tax withholding for assigned employees or any federal or state taxes for which the professional employment organization is responsible.  As used in this paragraph, "professional employment organization", "client company", and "assigned employee" shall have the meanings provided in section  373K-1[.]; and
+     (4)  Amounts received in fees and interest by check cashers for deferred deposit transactions under chapter 480F."
+     SECTION 3.  Section 480F-1, Hawaii Revised Statutes, is amended by adding a new definition to be appropriately inserted and to read as follows:
+     ""Director" means the director of commerce and consumer affairs."
+     SECTION 4.  Section 480F-2, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§480F-2[]]  Posting and notice of fees charged.  Any person who cashes one or more checks for a fee shall:
+     (1)  Post in a conspicuous place in every location at which the person does business a notice that sets forth[:] in thirty-eight point type:
+         (A)  The fees charged for cashing a check, for selling or issuing a money order, [and] for the initial issuance of any membership or identification cards[; and], and the fees and annual percentage rate for deferred deposit transactions;
+         (B)  That consumer complaints about the check cashing business may be filed with the department of commerce and consumer affairs, and includes and identifies the telephone number and address of the consumer information service of the department of commerce and consumer affairs;
+         (C)  That deferred deposit transactions are not suitable for long-term borrowing;
+         (D)  That only one deferred deposit transaction can be opened from all sources;
+         (E)  Information on where to obtain financial education and credit counseling; and
+         (F)  A copy of the registration to do business as a check casher, as required by this chapter;
+     (2)  Provide written notice [to each customer of the fees charged for cashing checks] in sixteen point type to each customer, that is separate from and in addition to any posted notice[;], containing the following information:
+         (A)  The fees and annual percentage rate to be charged for a deferred deposit transaction;
+         (B)  That consumer complaints about the check cashing business may be filed with the department of commerce and consumer affairs, and the telephone number and address of the consumer information service of the department of commerce and consumer affairs;
+         (C)  That deferred deposit transactions are not suitable for long-term borrowing;
+         (D)  That only one deferred deposit transaction can be opened from all sources;
+         (E)  That an extended repayment plan option is available after any customer has entered into four or more consecutive transactions with the same check casher; provided that the customer requests the option within twenty-four hours of the customer's last payment due date.  For purposes of this subparagraph, "consecutive transactions" means back to back transactions occurring within twenty-four hours of each other;
+         (F)  The right to rescind a deferred deposit transaction within twenty-four hours of the transaction; and
+         (G)  Where to obtain financial education and credit counseling;
+     (3)  Obtain a written acknowledgment from the customer that written notice of [the fees charged for cashing checks] all information required to be provided by paragraph (2) was provided[;] to the customer; and
+     (4)  Provide each customer a receipt documenting any and all fees charged."
+     SECTION 5.  Section 480F-4, Hawaii Revised Statutes, is amended by amending subsections (c), (d), and (e) to read as follows:
+     "(c)  The face amount of the check shall not exceed $600 and the deposit of a personal check written by a customer pursuant to a deferred deposit transaction may be deferred for no more than thirty-two days.  A check casher may charge a fee for deferred deposit of a personal check in an amount not to exceed fifteen per cent of the face amount of the check.  The total amount of a transaction, including principal and fees, shall not exceed thirty-six per cent of the customer's net monthly income.  The annual percentage rate charged for a deferred deposit transaction shall not exceed thirty-six per cent.  Any fees charged for deferred deposit of a personal check in compliance with this section shall be exempt from chapter 478.
+     (d)  A check casher shall not enter into an agreement for deferred deposit with a customer during the period of time that an earlier agreement for a deferred deposit from any source for the same customer is in effect.  A deferred deposit transaction shall not be repaid, refinanced, or consolidated by or with the proceeds of another deferred deposit transaction.
+     (e)  A check casher who enters into a deferred deposit agreement and accepts a check passed on insufficient funds, or any assignee of that check casher, shall not be entitled to recover damages in excess of principal, interest, and out-of-pocket legal costs in any action brought pursuant to or governed by chapter 490.  No additional interest may be collected except the ten per cent allowed by law on uncollected judgments.  Instead, the check casher may charge and recover a fee for the return of a dishonored check in an amount not greater than [$20.] $30."
+     SECTION 6.  Section 480F-5, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§480F-5[]]  Exemptions.  This chapter shall not apply to[:
+     (1)  Any person who is principally engaged in the bona fide retail sale of goods or services, and who, either as incident to or independent of the retail sale or service, from time to time cashes items for a fee or other consideration, where not more than $2, or two per cent of the amount of the check, whichever is greater, is charged for the service; or
+     (2)  Any] any person authorized to engage in business as a bank, trust company, savings bank, savings and loan association, financial services loan company, or credit union under the laws of the United States, any state or territory of the United States, or the District of Columbia."
+     SECTION 7.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 8.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Check Cashing; Regulation
+ 
+Description:
+Requires the DCCA to regulate the check cashing industry through registration requirements.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

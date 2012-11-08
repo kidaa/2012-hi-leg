@@ -1,0 +1,64 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1367
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CIVIL PARTICIPATION IN GOVERNMENT.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 634F, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§634F-     Immunity for acts in furtherance of constitutional rights.  A person shall be immune from civil liability for any act committed in furtherance of the person's constitutional right to petition under the United States Constitution or the state constitution, including seeking relief, influencing action, informing, communicating, and otherwise participating in the process of government, regardless of intent or purpose, except where the act is not aimed at procuring any governmental or electoral action, result, or outcome."
+     SECTION 2.  Section 634F-1, Hawaii Revised Statutes, is amended by amending the definition of "SLAPP" to read as follows:
+     ""SLAPP" means a strategic lawsuit against public participation [and refers to a lawsuit] that [lacks]:
+     (1)  Lacks substantial justification or is interposed for delay or harassment; and [that is solely based on the party's public participation before a governmental body.]
+     (2)  Is brought against any person for an act committed in furtherance of the person's constitutional right to petition under the United States Constitution or the state constitution, including seeking relief, influencing action, informing, communicating, and otherwise participating in the process of government to procure any governmental or electoral action, result, or outcome."
+     SECTION 3.  Section 634F-2, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§634F-2[]]  Required procedures; motion.  Notwithstanding any law to the contrary, including rules of court, upon the filing of any motion to dispose of a claim in a judicial proceeding on the grounds that the claim is based on, relates to, [or involves public participation and is a SLAPP lawsuit:] or is in response to any act of the moving party in furtherance of the moving party's rights under section 634F-   :
+     (1)  The motion shall be treated as a motion for summary judgment [on the pleadings, matters outside the pleadings shall be excluded by the court], and the court shall expedite the hearing of the motion;
+     (2)  The moving party shall have a right:
+         (A)  To an immediate appeal from a court order denying the motion; and
+         (B)  To file an application for a writ of mandamus if the court fails to rule on the motion in an expedited fashion;
+     (3)  Discovery shall be suspended, pending decision on the motion and appeals;
+     (4)  The responding party shall:
+         (A)  Without leave of court, have seven days to amend its pleadings to be pled with specificity, and shall include such supporting particulars as are peculiarly within the supporting pleader's knowledge; and
+         (B)  Have the burden of proof, [and] including the burden of producing the evidence as well as the burden of persuasion on the motion;
+     (5)  The court shall make its determination based upon the allegations contained in the pleadings[;] and affidavits stating the facts upon which the liability or defense is based;
+     (6)  The court shall grant the motion and dismiss the judicial claim, unless the responding party has demonstrated that more likely than not, [the respondent's allegations do not constitute a SLAPP lawsuit as defined in section 634F-1;] the acts of the moving party are not excluded from civil liability pursuant to section 634F-   ;
+     (7)  Any governmental body to which the moving party's acts were directed or the attorney general in the case of a state governmental body, or the county attorney or corporation counsel in the case of a county governmental body may intervene to defend or otherwise support the moving party in the lawsuit;
+     (8)  The court shall award a moving party who prevails on the motion, without regard to any limits under state law:
+         (A)  Actual damages or $5,000, whichever is greater;
+         (B)  Costs of suit, including reasonable attorneys' and expert witness fees, incurred in connection with the motion; and
+         (C)  Such additional sanctions upon the responding party, its attorneys, or law firms as the court determines shall be sufficient to deter repetition of the conduct and comparable conduct by others similarly situated; and
+     (9)  Any person damaged or injured by reason of a claim filed in violation of their rights under this chapter may seek relief in the form of a claim for actual or compensatory damages, as well as punitive damages, attorneys' fees, and costs, from the person responsible."
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Anti-SLAPP; Citizen Participation in Government
+ 
+Description:
+Provides immunity from civil liability for actions by a person in furtherance of the constitutional right to petition to procure governmental or electoral action.  Amends SLAPP definition to add immunized act language.  Amends procedure for motion to dispose of a claim based on actions in furtherance of constitutional rights.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,99 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+560
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO FINANCE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 26-9, Hawaii Revised Statutes, is amended by amending subsection (o) to read as follows:
+     "(o)  Every person licensed under any chapter within the jurisdiction of the department of commerce and consumer affairs and every person licensed subject to chapter 485A or registered under chapter 467B shall pay upon issuance of a license, permit, certificate, or registration a fee and a subsequent annual fee to be determined by the director and adjusted from time to time to ensure that the proceeds, together with all other fines, income, and penalties collected under this section, do not surpass the annual operating costs of conducting compliance resolution activities required under this section.  The fees may be collected biennially or pursuant to rules adopted under chapter 91, and shall be deposited into the special fund established under this subsection.  Every filing pursuant to chapter 514E or section 485A-202(a)(26) shall be assessed, upon initial filing and at each renewal period in which a renewal is required, a fee that shall be prescribed by rules adopted under chapter 91, and that shall be deposited into the special fund established under this subsection.  Any unpaid fee shall be paid by the licensed person, upon application for renewal, restoration, reactivation, or reinstatement of a license, and by the person responsible for the renewal, restoration, reactivation, or reinstatement of a license, upon the application for renewal, restoration, reactivation, or reinstatement of the license.  If the fees are not paid, the director may deny renewal, restoration, reactivation, or reinstatement of the license.  The director may establish, increase, decrease, or repeal the fees when necessary pursuant to rules adopted under chapter 91.  The director may also increase or decrease the fees pursuant to section 92-28.
+     There is created in the state treasury a special fund to be known as the compliance resolution fund to be expended by the director's designated representatives as provided by this subsection.  Notwithstanding any law to the contrary, all revenues, fees, and fines collected by the department shall be deposited into the compliance resolution fund.  Unencumbered balances existing on June 30, 1999, in the cable television fund under chapter 440G, the division of consumer advocacy fund under chapter 269, the financial institution examiners' revolving fund, section 412:2-109, the special handling fund, section 414-13, and unencumbered balances existing on June 30, 2002, in the insurance regulation fund, section 431:2-215, shall be deposited into the compliance resolution fund.  This provision shall not apply to the drivers education fund underwriters fee, sections 431:10C-115 and 431:10G-107, insurance premium taxes and revenues, revenues of the workers' compensation special compensation fund, section 386-151, the captive insurance administrative fund, section 431:19-101.8, the insurance commissioner's education and training fund, section 431:2-214, the medical malpractice patients' compensation fund as administered under section 5 of Act 232, Session Laws of Hawaii 1984, and fees collected for deposit in the office of consumer protection restitution fund, section 487-14, the real estate appraisers fund, section 466K-1, the real estate recovery fund, section 467-16, the real estate education fund, section 467-19, the contractors recovery fund, section 444-26, the contractors education fund, section 444-29, and the condominium education trust fund, section 514B-71.  Any law to the contrary notwithstanding, the director may use the moneys in the fund to employ, without regard to chapter 76, hearings officers and attorneys.  All other employees may be employed in accordance with chapter 76.  Any law to the contrary notwithstanding, the moneys in the fund shall be used to fund the operations of the department[.]; provided that, beginning on July 1, 2011, the director of finance shall transfer moneys from the fund to retroactively fund all interest payments on general obligation bonds issued for the purposes of assisting the operations of the department of commerce and consumer affairs through infrastructure improvements and shall collect payment for the interest on the general obligation bonds from the fund each year thereafter.  The moneys in the fund may be used to train personnel as the director deems necessary and for any other activity related to compliance resolution.
+     As used in this subsection, unless otherwise required by the context, "compliance resolution" means a determination of whether:
+     (1)  Any licensee or applicant under any chapter subject to the jurisdiction of the department of commerce and consumer affairs has complied with that chapter;
+     (2)  Any person subject to chapter 485A has complied with that chapter;
+     (3)  Any person submitting any filing required by chapter 514E or section 485A-202(a)(26) has complied with chapter 514E or section 485A-202(a)(26);
+     (4)  Any person has complied with the prohibitions against unfair and deceptive acts or practices in trade or commerce; or
+     (5)  Any person subject to chapter 467B has complied with that chapter;
+and includes work involved in or supporting the above functions, licensing, or registration of individuals or companies regulated by the department, consumer protection, and other activities of the department.
+     The director shall prepare and submit an annual report to the governor and the legislature on the use of the compliance resolution fund.  The report shall describe expenditures made from the fund including non-payroll operating expenses."
+     SECTION 2.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 3.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+
+ 
+Report Title:
+Compliance Resolution Fund
+ 
+Description:
+Requires the Director of Finance to transfer funds from the Compliance Resolution Fund to fund all interest payments on General Obligation bonds issued on behalf of the Department of Commerce and Consumer Affairs and to annually collect funds from the Compliance Resolution Fund to pay the interest payments on the General Obligation bonds beginning on July 1, 2011.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+font-family:"Courier New";} p.ExtraSig, li.ExtraSig, div.ExtraSig {mso-style-name:"Extra Sig"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:243.0pt; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.ResolutionBody, li.ResolutionBody, div.ResolutionBody {mso-style-name:"Resolution Body"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} span.BillSectionNumber {mso-style-name:"Bill Section Number"; font-family:Courier;} p.XNotesHeading, li.XNotesHeading, div.XNotesHeading {mso-style-name:XNotesHeading; margin:0in; margin-bottom:.0001pt; text-align:center; font-size:12.0pt; font-family:"Courier New"; font-weight:bold;} p.XNotes, li.XNotes, div.XNotes {mso-style-name:XNotes; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Amend, li.Amend, div.Amend {mso-style-name:Amend; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.1ParagraphChar {mso-style-name:"\(1\)Paragraph Char"; mso-style-link:"\(1\)Paragraph"; font-family:"Courier New";} p.Effective, li.Effective, div.Effective {mso-style-name:Effective; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.BalloonTextChar {mso-style-name:"Balloon Text Char"; mso-style-link:"Balloon Text"; font-family:"Tahoma","sans-serif";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+560
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO FINANCE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 26-9, Hawaii Revised Statutes, is amended by amending subsection (o) to read as follows:
+     "(o)  Every person licensed under any chapter within the jurisdiction of the department of commerce and consumer affairs and every person licensed subject to chapter 485A or registered under chapter 467B shall pay upon issuance of a license, permit, certificate, or registration a fee and a subsequent annual fee to be determined by the director and adjusted from time to time to ensure that the proceeds, together with all other fines, income, and penalties collected under this section, do not surpass the annual operating costs of conducting compliance resolution activities required under this section.  The fees may be collected biennially or pursuant to rules adopted under chapter 91, and shall be deposited into the special fund established under this subsection.  Every filing pursuant to chapter 514E or section 485A-202(a)(26) shall be assessed, upon initial filing and at each renewal period in which a renewal is required, a fee that shall be prescribed by rules adopted under chapter 91, and that shall be deposited into the special fund established under this subsection.  Any unpaid fee shall be paid by the licensed person, upon application for renewal, restoration, reactivation, or reinstatement of a license, and by the person responsible for the renewal, restoration, reactivation, or reinstatement of a license, upon the application for renewal, restoration, reactivation, or reinstatement of the license.  If the fees are not paid, the director may deny renewal, restoration, reactivation, or reinstatement of the license.  The director may establish, increase, decrease, or repeal the fees when necessary pursuant to rules adopted under chapter 91.  The director may also increase or decrease the fees pursuant to section 92-28.
+     There is created in the state treasury a special fund to be known as the compliance resolution fund to be expended by the director's designated representatives as provided by this subsection.  Notwithstanding any law to the contrary, all revenues, fees, and fines collected by the department shall be deposited into the compliance resolution fund.  Unencumbered balances existing on June 30, 1999, in the cable television fund under chapter 440G, the division of consumer advocacy fund under chapter 269, the financial institution examiners' revolving fund, section 412:2-109, the special handling fund, section 414-13, and unencumbered balances existing on June 30, 2002, in the insurance regulation fund, section 431:2-215, shall be deposited into the compliance resolution fund.  This provision shall not apply to the drivers education fund underwriters fee, sections 431:10C-115 and 431:10G-107, insurance premium taxes and revenues, revenues of the workers' compensation special compensation fund, section 386-151, the captive insurance administrative fund, section 431:19-101.8, the insurance commissioner's education and training fund, section 431:2-214, the medical malpractice patients' compensation fund as administered under section 5 of Act 232, Session Laws of Hawaii 1984, and fees collected for deposit in the office of consumer protection restitution fund, section 487-14, the real estate appraisers fund, section 466K-1, the real estate recovery fund, section 467-16, the real estate education fund, section 467-19, the contractors recovery fund, section 444-26, the contractors education fund, section 444-29, and the condominium education trust fund, section 514B-71.  Any law to the contrary notwithstanding, the director may use the moneys in the fund to employ, without regard to chapter 76, hearings officers and attorneys.  All other employees may be employed in accordance with chapter 76.  Any law to the contrary notwithstanding, the moneys in the fund shall be used to fund the operations of the department[.]; provided that, beginning on July 1, 2011, the director of finance shall transfer moneys from the fund to retroactively fund all interest payments on general obligation bonds issued for the purposes of assisting the operations of the department of commerce and consumer affairs through infrastructure improvements and shall collect payment for the interest on the general obligation bonds from the fund each year thereafter.  The moneys in the fund may be used to train personnel as the director deems necessary and for any other activity related to compliance resolution.
+     As used in this subsection, unless otherwise required by the context, "compliance resolution" means a determination of whether:
+     (1)  Any licensee or applicant under any chapter subject to the jurisdiction of the department of commerce and consumer affairs has complied with that chapter;
+     (2)  Any person subject to chapter 485A has complied with that chapter;
+     (3)  Any person submitting any filing required by chapter 514E or section 485A-202(a)(26) has complied with chapter 514E or section 485A-202(a)(26);
+     (4)  Any person has complied with the prohibitions against unfair and deceptive acts or practices in trade or commerce; or
+     (5)  Any person subject to chapter 467B has complied with that chapter;
+and includes work involved in or supporting the above functions, licensing, or registration of individuals or companies regulated by the department, consumer protection, and other activities of the department.
+     The director shall prepare and submit an annual report to the governor and the legislature on the use of the compliance resolution fund.  The report shall describe expenditures made from the fund including non-payroll operating expenses."
+     SECTION 2.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 3.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+
+ 
+Report Title:
+Compliance Resolution Fund
+ 
+Description:
+Requires the Director of Finance to transfer funds from the Compliance Resolution Fund to fund all interest payments on General Obligation bonds issued on behalf of the Department of Commerce and Consumer Affairs and to annually collect funds from the Compliance Resolution Fund to pay the interest payments on the General Obligation bonds beginning on July 1, 2011.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

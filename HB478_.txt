@@ -1,0 +1,149 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+478
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PAYCHECK PROTECTION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 89-4, Hawaii Revised Statutes, is amended to read as follows:
+     "§89-4  Payroll deductions.  (a)  Consistent with the provisions set forth in chapter 388, no employer, or other person or entity responsible for the disbursement of funds for payment of wages or salaries, may withhold or divert a portion of an employee's wages or salaries for contributions to political committees for use as political contributions except upon the employee's specific written request.
+     (b) Upon receiving from an exclusive representative a written statement specifying the amount of regular dues required of its members in the appropriate bargaining unit, which the representative certifies will not be used for political purposes, the employer shall deduct this amount from the payroll of every member employee in the appropriate bargaining unit and remit the amount to the exclusive representative.  [Additionally, the employer shall deduct an amount equivalent to the regular dues from the payroll of every nonmember employee in the appropriate bargaining unit, and shall remit the amount to the exclusive representative; provided that the deduction from the payroll of every nonmember employee shall be made only for an exclusive representative which provides for a procedure for determining the amount of a refund to any employee who demands the return of any part of the deduction which represents the employee's pro rata share of expenditures made by the exclusive representative for activities of a political and ideological nature unrelated to terms and conditions of employment.  If a nonmember employee objects to the amount to be refunded, the nonmember employee may petition the board for review thereof within fifteen days after notice of the refund has been received.]  No such deductions may be made from nonmember employees without their specific written request.  If an employee organization is no longer the exclusive representative of the appropriate bargaining unit, the deduction from the payroll of members and nonmembers shall terminate.
+     [(b)] (c)  The employer shall, upon written authorization by an employee, executed at any time after the employee's joining an employee organization, deduct from the payroll of the employee the amount of membership dues, initiation fees, group insurance premiums, and other association benefits and shall remit the amount to the employee organization designated by the employee.
+     [(c)] (d)  The employer shall continue all payroll assignments authorized by an employee prior to July 1, 1970 and all assignments authorized under subsection [(b)] (c) until notification is submitted by an employee to discontinue the employee's assignments."
+     SECTION 2.  Section 388-6, Hawaii Revised Statutes, is amended to read as follows:
+     "§388-6  Withholding of wages.  No employer or other person or entity responsible for the disbursement of funds in payment of wages and salaries may withhold, divert, deduct, retain, or otherwise require to be paid, any part or portion of any compensation earned by any employee except where required by federal or state statute or by court process or when such withholdings, diversions, deductions or retentions are authorized in writing by the employee[,].  These prohibitions extend to any withholdings, diversions, deductions, or retentions of salary or wages for contributions to political committees or for use as political contributions.  This prohibition supercedes any other contrary statutory provision. [provided that the] Under no circumstances may the following [may not] be so authorized, or required to be borne by the employee:
+     (1)  Fines;
+     (2)  Cash shortage in a common money till, cash box, or register used by two or more persons; or cash shortage in a money till, cash box, or register under sole control if the employee is not given an opportunity to account for all moneys received at the start of a shift and all moneys turned in at the end of a shift;
+     (3)  Fines, penalties, or replacement costs for breakage;
+     (4)  Losses due to acceptance by an employee of checks which are subsequently dishonored if employee is given discretion to accept or reject any check;
+     (5)  Losses due to defective or faulty workmanship, lost or stolen property, damage to property, default of customer credit, or nonpayment for goods or services received by customer if such losses are not attributable to employee's wilful or intentional disregard of employer's interest; or
+     (6)  Medical or physical examination or medical report expenses which accrue due to services rendered to an employee or prospective employee, where such examination or report is requested or required by the employer or prospective employer or required by any law or regulation of federal, state or local governments or agencies thereof."
+     SECTION 3.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+
+
+ 
+Report Title:
+Paycheck protection
+ 
+Description:
+Protects employees from paycheck deductions or withholdings they do not specifically authorize in writing.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+ttom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.aSubsection, li.aSubsection, div.aSubsection {mso-style-name:"\(a\)Subsection"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.ASubparagraph, li.ASubparagraph, div.ASubparagraph {mso-style-name:"\(A\)Subparagraph"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.iClause, li.iClause, div.iClause {mso-style-name:"\(i\)Clause"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:2.0in; margin-bottom:.0001pt; text-indent:-2.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.ASubparagraphContd, li.ASubparagraphContd, div.ASubparagraphContd {mso-style-name:"\(A\)SubparagraphContd"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.1ParagraphContd, li.1ParagraphContd, div.1ParagraphContd {mso-style-name:"\(1\)ParagraphContd"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.ExtraSig, li.ExtraSig, div.ExtraSig {mso-style-name:"Extra Sig"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:243.0pt; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.BillSectionNumber {mso-style-name:"Bill Section Number"; font-family:Courier;} span.HRSSectionNumber {mso-style-name:"HRS Section Number"; font-family:Courier;} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} span.HRSReference {mso-style-name:"HRS Reference"; font-family:Courier;} span.EffectiveDate {mso-style-name:"Effective Date"; font-family:Courier;} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Clause, li.Clause, div.Clause {mso-style-name:Clause; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:2.0in; margin-bottom:.0001pt; text-indent:-2.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.XNotesHeading, li.XNotesHeading, div.XNotesHeading {mso-style-name:XNotesHeading; margin:0in; margin-bottom:.0001pt; text-align:center; font-size:12.0pt; font-family:"Courier New"; font-weight:bold;} p.XNotes, li.XNotes, div.XNotes {mso-style-name:XNotes; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+478
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PAYCHECK PROTECTION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 89-4, Hawaii Revised Statutes, is amended to read as follows:
+     "§89-4  Payroll deductions.  (a)  Consistent with the provisions set forth in chapter 388, no employer, or other person or entity responsible for the disbursement of funds for payment of wages or salaries, may withhold or divert a portion of an employee's wages or salaries for contributions to political committees for use as political contributions except upon the employee's specific written request.
+     (b) Upon receiving from an exclusive representative a written statement specifying the amount of regular dues required of its members in the appropriate bargaining unit, which the representative certifies will not be used for political purposes, the employer shall deduct this amount from the payroll of every member employee in the appropriate bargaining unit and remit the amount to the exclusive representative.  [Additionally, the employer shall deduct an amount equivalent to the regular dues from the payroll of every nonmember employee in the appropriate bargaining unit, and shall remit the amount to the exclusive representative; provided that the deduction from the payroll of every nonmember employee shall be made only for an exclusive representative which provides for a procedure for determining the amount of a refund to any employee who demands the return of any part of the deduction which represents the employee's pro rata share of expenditures made by the exclusive representative for activities of a political and ideological nature unrelated to terms and conditions of employment.  If a nonmember employee objects to the amount to be refunded, the nonmember employee may petition the board for review thereof within fifteen days after notice of the refund has been received.]  No such deductions may be made from nonmember employees without their specific written request.  If an employee organization is no longer the exclusive representative of the appropriate bargaining unit, the deduction from the payroll of members and nonmembers shall terminate.
+     [(b)] (c)  The employer shall, upon written authorization by an employee, executed at any time after the employee's joining an employee organization, deduct from the payroll of the employee the amount of membership dues, initiation fees, group insurance premiums, and other association benefits and shall remit the amount to the employee organization designated by the employee.
+     [(c)] (d)  The employer shall continue all payroll assignments authorized by an employee prior to July 1, 1970 and all assignments authorized under subsection [(b)] (c) until notification is submitted by an employee to discontinue the employee's assignments."
+     SECTION 2.  Section 388-6, Hawaii Revised Statutes, is amended to read as follows:
+     "§388-6  Withholding of wages.  No employer or other person or entity responsible for the disbursement of funds in payment of wages and salaries may withhold, divert, deduct, retain, or otherwise require to be paid, any part or portion of any compensation earned by any employee except where required by federal or state statute or by court process or when such withholdings, diversions, deductions or retentions are authorized in writing by the employee[,].  These prohibitions extend to any withholdings, diversions, deductions, or retentions of salary or wages for contributions to political committees or for use as political contributions.  This prohibition supercedes any other contrary statutory provision. [provided that the] Under no circumstances may the following [may not] be so authorized, or required to be borne by the employee:
+     (1)  Fines;
+     (2)  Cash shortage in a common money till, cash box, or register used by two or more persons; or cash shortage in a money till, cash box, or register under sole control if the employee is not given an opportunity to account for all moneys received at the start of a shift and all moneys turned in at the end of a shift;
+     (3)  Fines, penalties, or replacement costs for breakage;
+     (4)  Losses due to acceptance by an employee of checks which are subsequently dishonored if employee is given discretion to accept or reject any check;
+     (5)  Losses due to defective or faulty workmanship, lost or stolen property, damage to property, default of customer credit, or nonpayment for goods or services received by customer if such losses are not attributable to employee's wilful or intentional disregard of employer's interest; or
+     (6)  Medical or physical examination or medical report expenses which accrue due to services rendered to an employee or prospective employee, where such examination or report is requested or required by the employer or prospective employer or required by any law or regulation of federal, state or local governments or agencies thereof."
+     SECTION 3.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+
+
+ 
+Report Title:
+Paycheck protection
+ 
+Description:
+Protects employees from paycheck deductions or withholdings they do not specifically authorize in writing.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

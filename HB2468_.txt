@@ -1,0 +1,89 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2468
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO FALSE CLAIMS TO THE STATE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 661, Hawaii Revised Statutes, is amended by adding to part II a new section to be appropriately designated and to read as follows:
+     "§661-    Relief from retaliatory actions.  (a)  Notwithstanding any law to the contrary, any employee, contractor, or agent shall be entitled to all relief necessary to make that employee, contractor, or agent whole, if that employee, contractor, or agent is discharged, demoted, suspended, threatened, harassed, or in any other manner discriminated against in the terms and conditions of employment, contract, or agency relationship because of lawful acts done by the employee, contractor, agent or associated others in furtherance of an action under section 661-25 or other efforts to stop or address any conduct described in section 661-21(a).
+     (b)  Relief under subsection (a) shall include reinstatement with the same seniority status that the employee, contractor, or agent would have had but for the discrimination, two times the amount of back pay, interest on the back pay, and compensation for any special damages sustained as a result of the discrimination, including litigation costs and reasonable attorney's fees.  An action for relief from retaliatory actions under subsection (a) may be brought in the appropriate court of this State for the relief provided in this part.
+     (c)  An action for relief from retaliatory actions under subsection (a) must be brought within three years of the retaliatory conduct upon which the action is based."
+     SECTION 2.  Section 661-21, Hawaii Revised Statutes, is amended as follows:
+     (1)  By amending subsection (a) to read as follows:
+     "(a)  Notwithstanding section 661-7 to the contrary, any person who:
+     (1)  Knowingly presents, or causes to be presented, [to an officer or employee of the State] a false or fraudulent claim for payment or approval;
+     (2)  Knowingly makes, uses, or causes to be made or used, a false record or statement [to get a false or fraudulent claim paid or approved by the State;] material to a false or fraudulent claim;
+    [(3)  Conspires to defraud the State by getting a false or fraudulent claim allowed or paid;
+     (4)] (3)  Has possession, custody, or control of property or money used, or to be used, by the State and, intending to defraud the State or wilfully to conceal the property, delivers, or causes to be delivered, less property than the amount for which the person receives a certificate or receipt;
+    [(5)] (4)  Is authorized to make or deliver a document certifying receipt of property used, or to be used by the State and, intending to defraud the State, makes or delivers the receipt without completely knowing that the information on the receipt is true;
+    [(6)] (5)  Knowingly buys, or receives as a pledge of an obligation or debt, public property from any officer or employee of the State who may not lawfully sell or pledge the property;
+    [(7)] (6)  Knowingly makes, uses, or causes to be made or used, a false record or statement [to conceal, avoid, or decrease] material to an obligation to pay or transmit money or property to the State, or knowingly conceals, or knowingly and improperly avoids or decreases an obligation to pay or transmit money or property to the State; [or]
+    [(8)] (7)  Is a beneficiary of an inadvertent submission of a false claim to the State, who subsequently discovers the falsity of the claim, and fails to disclose the false claim to the State within a reasonable time after discovery of the false claim; or
+     (8)  Conspires to commit any of the conduct described in this subsection,
+shall be liable to the State for a civil penalty of not less than [$5,000] $5,500 and not more than [$10,000,] $11,000, plus three times the amount of damages that the State sustains due to the act of that person."
+     (2)  By amending subsection (e) to read as follows:
+     "(e)  For purposes of this section:
+     "Claim" [includes] means any request or demand, whether under a contract or otherwise, for money or property and whether or not the State has title to the money or property, that is presented to an officer, employee, or agent of the State or is made to a contractor, grantee, or other recipient, if the money or property is to be spent or used on the State's behalf or to advance a state program or interest, and if the State provides or has provided any portion of the money or property that is requested or demanded[, or if the government] or will reimburse the contractor, grantee, or other recipient for any portion of the money or property that is requested or demanded[.]; but "claim" does not include requests or demands for money or property that the State has paid to an individual as compensation for employment or as an income subsidy with no restrictions on that individual's use of the money or property.
+     "Knowing" and "knowingly" means that a person, with respect to information:
+     (1)  Has actual knowledge of the information;
+     (2)  Acts in deliberate ignorance of the truth or falsity of the information; or
+     (3)  Acts in reckless disregard of the truth or falsity of the information;
+and no proof of specific intent to defraud is required.
+     "Material" means having the natural tendency to influence, or be capable of influencing, the payment or receipt of money or property.
+     "Obligation" means an established duty, whether or not fixed, arising from an express or implied contractual, grantor-grantee, or licensor-licensee relationship, from a fee-based or similar relationship, from statute, regulation, or administrative rule, or from the retention of any overpayment."
+     SECTION 3.  Section 661-27, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§661-27[]]  Awards to qui tam plaintiffs.  (a)  If the State proceeds with an action brought by a person under section 661-25, the person shall receive at least fifteen per cent but not more than twenty-five per cent of the proceeds of the action or settlement of the claim, depending upon the extent to which the person substantially contributed to the prosecution of the action.  Where the action is one that the court finds to be based primarily on disclosures of specific information, other than information provided by the person bringing the action, relating to allegations or transactions in a criminal, civil, or administrative hearing, in a legislative or administrative report, hearing, audit, or investigation, or from the news media, the court may award sums as it considers appropriate, but in no case more than ten per cent of the proceeds, taking into account the significance of the information and the role of the person bringing the action in advancing the case to litigation.  Any payment to a person under this subsection shall be made from the proceeds.  [[]The[]] person shall also receive an amount for reasonable expenses that the court finds to have been necessarily incurred, plus reasonable attorneys' fees and costs.  All expenses, fees, and costs shall be awarded against the defendant.
+     (b)  If the State proceeds with an action brought under section 661-21, the State may file its own complaint or amend the complaint of a person who has brought an action under section 661-21 to clarify or add detail to the claims in which the State is intervening and to add any additional claims with respect to which the State contends it is entitled to relief. For statute of limitations purposes, any such state pleading shall relate back to the filing date of the complaint of the person who originally brought the action, to the extent that the claim of the State arises out of the conduct, transactions, or occurrences set forth, or attempted to be set forth, in the prior complaint of that person.
+     [(b)] (c)  If the State does not proceed with an action under this section, the person bringing the action or settling the claim shall receive an amount that the court decides is reasonable for collecting the civil penalty and damages.  The amount shall be not less than twenty-five per cent and not more than thirty per cent of the proceeds of the action or settlement and shall be paid out of the proceeds.  The person shall also receive an amount for reasonable expenses that the court finds to have been necessarily incurred, plus reasonable attorneys' fees and costs.  All expenses, fees, and costs shall be awarded against the defendant.
+     [(c)] (d)  Whether or not the State proceeds with the action, if the court finds that the action was brought by a person who planned and initiated the violation of section 661-21 upon which the action was brought, then the court may, to the extent the court considers appropriate, reduce the share of the proceeds of the action that the person would otherwise receive under subsection (a), taking into account the role of that person in advancing the case to litigation and any relevant circumstances pertaining to the violation.  If the person bringing the action is convicted of criminal conduct arising from the person's role in the violation of section 661-21, that person shall be dismissed from the civil action and shall not receive any share of the proceeds of the action.  The dismissal shall not prejudice the right of the State to continue the action.
+     [(d)] (e)  If the State does not proceed with the action and the person bringing the action conducts the action, the court may award to the defendant its reasonable attorneys' fees and expenses if the defendant prevails in the action and the court finds that the claim of the person bringing the action was frivolous, vexatious, or brought primarily for purposes of harassment.
+     [(e)] (f)  In no event may a person bring an action under section 661-25:
+     (1)  Against a member of the state senate or state house of representatives, a member of the judiciary, or an elected official in the executive branch of the State, if the action is based on evidence or information known to the State.  For purposes of this section, evidence or information known only to the person or persons against whom an action is brought shall not be considered to be known to the State;
+    [(2)  When the person is a present or former employee of the State and the action is based upon information discovered by the employee during the course of the employee's employment, unless the employee first, in good faith, exhausted any existing internal procedures for reporting and seeking recovery of the falsely claimed sums through official channels and the State failed to act on the information provided within a reasonable period of time;] or
+    [(3)] (2)  That is based upon allegations or transactions that are the subject of a [civil or criminal investigation by the State,] civil suit[,] or an administrative civil money penalty proceeding in which the State is already a party."
+     SECTION 4.  Section 661-28, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§661-28[]  Jurisdiction.  No court shall have jurisdiction over an action under this part based upon the public disclosure of allegations or transactions in a criminal, civil, or administrative hearing, in a legislative or administrative report, hearing, audit, or investigation, or from the news media,]  Certain Actions Barred.  (a)  In no event may a person bring an action under this part which is based upon allegations or transactions which are the subject of a civil suit or an administrative civil money penalty proceeding in which the State is already a party.
+     (b)  The court shall dismiss an action or claim under this part, unless opposed by the State, if substantially the same allegations or transactions as alleged in the action or claim were publicly disclosed:
+     (1)  In a State criminal, civil, or administrative hearing in which the State or its agent is a party;
+     (2)  In a State legislative or other State report, hearing, audit, or investigation; or
+     (3)  By the news media,
+unless the action is brought by the attorney general or the person bringing the action is an original source of the information.
+     (c)  For purposes of this section[:], "[O]original source" means an individual who [has direct and independent knowledge of the information on which the allegations are based and has voluntarily provided the information to the State before filing an action under this part that is based on the information, and whose information provided the basis or catalyst for the investigation, hearing, audit, or report that led to the public disclosure.]:
+     (1)  Prior to public disclosure under subsection (b), has voluntarily disclosed to the State the information on which the allegations or transactions in a claim are based; or
+     (2)  Has knowledge that is independent of and materially adds to the publicly disclosed allegations or transactions, and who has voluntarily provided the information to the State before filing an action under this part.
+     SECTION 5.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun, before the effective date of this Act.
+     SECTION 6.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 7.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+False Claims to the State
+ 
+Description:
+Brings the State's false claims law into compliance with the Federal False Claims Act in order to meet federal requirements that state laws provide the same or greater protections as those established under section 1909 of the Social Security Act.  By meeting the federal requirements, the State will be able to continue to retain an additional ten percent of civil recoveries in cases brought under the false claims law that involve federal programs.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,80 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+126
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO SEX OFFENDER REGISTRATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 846E-1, Hawaii Revised Statutes, is amended by amending the definition of "sexual offense" to read as follows:
+     ""Sexual offense" means an offense that is:
+     (1)  Set forth in section 707-730(1)(a), 707-730(1)(b), 707-730(1)(c), 707-730(1)(d) or (e), 707-731(1)(a), 707-731(1)(b), 707-731(1)(c), 707-732(1)(a), 707-732(1)(b), 707-732(1)(c), 707-732(1)(d), 707-732(1)(e), 707-732(1)(f), 707-733(1)(a), 707-733.6, 711-1110.9, 711-1111(1)(c), (f), or (i), or 712-1202(1)(b), [or 712-1203(1)(b),] but excludes conduct that is criminal only because of the age of the victim, as provided in section 707-730(1)(b), or section 707-732(1)(b) if the perpetrator is under the age of eighteen;
+     (2)  An act defined in section 707-720 if the charging document for the offense for which there has been a conviction alleged intent to subject the victim to a sexual offense;
+     (3)  An act that consists of:
+         (A)  Criminal sexual conduct toward a minor, including but not limited to an offense set forth in section 707-759;
+         (B)  Solicitation of a minor who is less than fourteen years old to engage in sexual conduct;
+         (C)  Use of a minor in a sexual performance;
+         (D)  Production, distribution, or possession of child pornography chargeable as a felony under section 707-750, 707-751, or 707-752;
+         (E)  Electronic enticement of a child chargeable under section 707-756 or 707-757 if the offense was committed with the intent to promote or facilitate the commission of another covered offense as defined in this section; or
+         (F)  Solicitation of a minor to practice prostitution;
+     (4)  A criminal offense that is comparable to or that exceeds a sexual offense as defined in paragraphs (1) through (3) [or any];
+     (5)  Any federal, military, or out-of-state conviction for [any]:
+         (A)  Any offense that under the laws of this State would be a sexual offense as defined in paragraphs (1) through (3); or
+         (B)  Any offense that subjected the offender to sex offender registration or public notification, or both, in the other state or jurisdiction of conviction, or would have if the offender had been a resident of that other state or jurisdiction; or
+    [(5)] (6)  An act, as described in chapter 705, that is an attempt, criminal solicitation, or criminal conspiracy to commit one of the offenses designated in paragraphs (1) through [(4).] (5)."
+     SECTION 2.  Section 846E-5, Hawaii Revised Statutes, is amended to read as follows:
+     "§846E-5  Periodic verification of registration information.  Unless the covered offender is incarcerated or has registered with a designated law enforcement agency after establishing residence in another state, on the first day of every ninety-day period following the covered offender's initial registration date:
+     (1)  The attorney general shall mail a nonforwardable verification form to the last reported address of the covered offender;
+     (2)  The covered offender shall sign the verification form and state that the covered offender still resides at the address last reported to the attorney general and that no other registration information has changed or shall provide the new information; and
+     (3)  The covered offender shall mail the signed and completed verification form to the attorney general within ten days after receipt of the form[; and
+     (4)  If the covered offender fails to mail the verification form to the attorney general within ten days after receipt of the form, the covered offender shall be in violation of this chapter, unless the covered offender proves that the covered offender has not changed the residence address].
+     This section shall become effective on July 1, 1998."
+     SECTION 3.  Section 846E-10, Hawaii Revised Statutes, is amended by amending subsections (c) and (d) to read as follows:
+     "(c)  Tier 2 offenses.  A covered offender who has maintained a clean record for the previous twenty-five years, excluding any time the offender was in custody or civilly committed, and who has substantially complied with the registration requirements of this chapter for the previous twenty-five years, or for the portion of that twenty-five years that this chapter has been applicable, and who is not a repeat covered offender may petition the court, in a civil proceeding, for termination of registration requirements; provided that the covered offender's most serious covered offense is one of the following:
+     (1)  Any offense set forth in section 707-730(1)(c), 707-731(1)(c), 707-732(1)(c), 707-750, 707-751, or 712-1202(1)(b)[, or 712-1203(1)(b)];
+     (2)  An offense set forth in section 707-720; provided that the charging document for the offense for which there has been a conviction alleged intent to subject the victim to a sexual offense;
+     (3)  An offense set forth in section 707-756 that includes an intent to promote or facilitate the commission of another felony covered offense as defined in section 846E-1;
+     (4)  An offense that is an attempt, criminal solicitation, or criminal conspiracy to commit any of the offenses in paragraph (1), (2), or (3);
+     (5)  Any criminal offense that is comparable to one of the offenses in paragraph (1), (2), (3), or (4); or
+     (6)  Any federal, military, or out-of-state offense that is comparable to one of the offenses in paragraph (1), (2), (3), or (4).
+     (d)  Tier 1 offenses.  A covered offender who has maintained a clean record for the previous ten years, excluding any time the offender was in custody or civilly committed, and who has substantially complied with the registration requirements of this chapter for the previous ten years, or for the portion of that ten years that this chapter has been applicable, and who is not a repeat covered offender may petition the court, in a civil proceeding, for termination of registration requirements; provided that the covered offender's most serious covered offense is one of the following:
+     (1)  Any offense set forth in section 707-732(1)(d) or (e), 707-733(1)(a), 707-752, 707-759[;], 711-1110.9, or 711-1111(1)(c), (f), or (i);
+     (2)  An offense set forth in section 707-721 or 707-722; provided that the offense involves unlawful imprisonment of a minor by someone other than a parent;
+     (3)  An offense set forth in section 707-757 that includes an intent to promote or facilitate the commission of another covered offense as defined in section 846E-1;
+     (4)  An offense that is an attempt, criminal solicitation, or criminal conspiracy to commit any of the offenses in paragraph (1), (2), or (3);
+     (5)  Any criminal offense that is comparable to one of the offenses in paragraph (1), (2), (3), or (4); [or]
+     (6)  Any federal, military, or out-of-state offense that is comparable to one of the offenses in paragraph (1), (2), (3), or (4)[.]; or
+     (7)  Any other covered offense that is not specified in subsections (a), (c), or (d)(1), (2), (3), (4), (5), or (6)."
+     SECTION 4.  Sections 1 and 3 of this Act shall apply to any acts committed prior to, on, or after the effective date of this Act.
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Sex Offender Registration; Violation of Privacy; Voyeurism
+ 
+Description:
+Amends the sex offender registration law to (1) include violation of privacy offenses, including voyeurism; (2) require registration for offenders who are subject to sex offender registration or notification in their jurisdiction of conviction; (3) repeal obsolete or unnecessary provisions; and (4) create a tier classification for covered offenses that are not expressly classified.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

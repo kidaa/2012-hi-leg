@@ -1,0 +1,133 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+321
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MORTGAGE FORECLOSURES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 514A, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§514A-    Mortgagee in possession of foreclosed property.  (a)  If a mortgagee takes possession of an apartment after a judicial or nonjudical power of sale foreclosure, the mortgagee shall remain liable to the association for the payment of all monthly common assessments, association fees, maintenance fees, property taxes, and any other fees or charges relating to the property for which a lien may be placed on the property.
+     (b)  While in possession of a foreclosed apartment, the mortgagee shall bring the apartment into adequate physical and aesthetic condition and maintain it so that the foreclosed apartment:
+     (1)  Does not increase costs or fees borne by the association or by individual owners;
+     (2)  Does not negatively impact the value of the condominium property or any apartment within the condominium property because of the foreclosed apartment's physical or aesthetic condition; and
+     (3)  Is maintained in a physical and aesthetic condition that conforms to all applicable association regulations, state laws, and county ordinances and permits the sale of the property at its highest reasonable market value.
+     (c)  A mortgagee's obligations under this section shall terminate upon transfer of the apartment to a subsequent purchaser; provided that the mortgagee shall not be obligated to retain possession of the apartment in order to comply with this section."
+     SECTION 2.  Chapter 514B, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§514B-    Mortgagee in possession of foreclosed property.  (a)  If a mortgagee takes possession of an apartment after a judicial or nonjudical power of sale foreclosure, the mortgagee shall remain liable to the association for the payment of all monthly common assessments, association fees, maintenance fees, property taxes, and any other fees or charges relating to the property for which a lien may be placed on the property.
+(b)  While in possession of a foreclosed apartment, the mortgagee shall bring the apartment into adequate physical and aesthetic condition and maintain it so that the foreclosed apartment:
+     (1)  Does not increase costs or fees borne by the association or by individual owners;
+     (2)  Does not negatively impact the value of the condominium property or any apartment within the condominium property because of the foreclosed apartment's physical or aesthetic condition; and
+     (3)  Is maintained in a physical and aesthetic condition that conforms to all applicable association regulations, state laws, and county ordinances and permits the sale of the property at its highest reasonable market value.
+     (c)  A mortgagee's obligations under this section shall terminate upon transfer of the apartment to a subsequent purchaser; provided that the mortgagee shall not be obligated to retain possession of the apartment in order to comply with this section."
+     SECTION 3.  Chapter 667, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§667-    Mortgagee in possession of foreclosed property.  (a)  If a mortgagee takes possession of residential real property after a judicial or nonjudical power of sale foreclosure, the mortgagee shall remain liable for the payment of all applicable common assessments, association fees, maintenance fees, property taxes, and any other fees or charges relating to the property for which a lien may be placed on the property.
+(b)  While in possession of a foreclosed residential real property, the mortgagee shall bring the property into adequate physical and aesthetic condition and maintain it so that the foreclosed property:
+     (1)  Does not increase costs or fees borne by any applicable homeowners association or by individual owners within the association;
+     (2)  Does not negatively impact the value of the property or any other surrounding property because of the foreclosed property's physical or aesthetic condition; and
+     (3)  Is maintained in a physical and aesthetic condition that conforms to all applicable association regulations, state laws, and county ordinances and permits the sale of the property at its highest reasonable market value.
+     (c)  A mortgagee's obligations under this section shall terminate upon transfer of the property to a subsequent purchaser; provided that the mortgagee shall not be obligated to retain possession of the property in order to comply with this section."
+     SECTION 4.  Section 514A-90, Hawaii Revised Statutes, is amended by amending subsection (h) to read as follows:
+     "(h)  The amount of the special assessment assessed under subsection (g) shall not exceed the total amount of unpaid regular monthly common assessments that were assessed during the six months immediately preceding the completion of the judicial or nonjudicial power of sale foreclosure.  [In no event shall] If a mortgagee of the subject apartment takes possession of the apartment after foreclosure, the mortgagee shall be liable for the total amount of unpaid regular monthly common assessments that were assessed during the six-month period immediately preceding the completion of the foreclosure.  If any party other than a mortgagee of the subject property takes possession of the apartment after foreclosure, the amount of the special assessment shall not exceed the sum of $3,600."
+     SECTION 5.  Section 514B-146, Hawaii Revised Statutes, is amended by amending subsection (h) to read as follows:
+     "(h)  The amount of the special assessment assessed under subsection (g) shall not exceed the total amount of unpaid regular monthly common assessments that were assessed during the six months immediately preceding the completion of the judicial or nonjudicial power of sale foreclosure.  [In no event shall] If a mortgagee of the subject apartment takes possession of the apartment after foreclosure, the mortgagee shall be liable for the total amount of unpaid regular monthly common assessments that were assessed during the six-month period immediately preceding the completion of the foreclosure.  If any party other than a mortgagee of the subject property takes possession of the apartment after foreclosure, the amount of the special assessment shall not exceed the sum of $3,600."
+     SECTION 6.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 7.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 8.  This Act shall take effect July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Mortgage Foreclosures; Mortgagee Obligations
+ 
+Description:
+Requires a mortgagee in possession of a foreclosed property to pay all costs or fees related to the property for which a lien may be placed and to maintain the foreclosed property in a certain condition until transfer to a subsequent purchaser; removes the cap on past-due association fees for a mortgagee that takes possession of a foreclosed condominium.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+ont-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; mso-style-link:"\#Regular Paragraphs Char"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.New, li.New, div.New {mso-style-name:New; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.BillSectionNumber {mso-style-name:"Bill Section Number"; font-family:Courier;} p.Amend, li.Amend, div.Amend {mso-style-name:Amend; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.1ParagraphChar {mso-style-name:"\(1\)Paragraph Char"; mso-style-link:"\(1\)Paragraph"; font-family:"Courier New";} span.RegularParagraphsChar {mso-style-name:"\#Regular Paragraphs Char"; mso-style-link:"\#Regular Paragraphs"; font-family:"Courier New";} p.Misc, li.Misc, div.Misc {mso-style-name:"Misc\."; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Ramseyer, li.Ramseyer, div.Ramseyer {mso-style-name:Ramseyer; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Effective, li.Effective, div.Effective {mso-style-name:Effective; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+321
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MORTGAGE FORECLOSURES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 514A, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§514A-    Mortgagee in possession of foreclosed property.  (a)  If a mortgagee takes possession of an apartment after a judicial or nonjudical power of sale foreclosure, the mortgagee shall remain liable to the association for the payment of all monthly common assessments, association fees, maintenance fees, property taxes, and any other fees or charges relating to the property for which a lien may be placed on the property.
+     (b)  While in possession of a foreclosed apartment, the mortgagee shall bring the apartment into adequate physical and aesthetic condition and maintain it so that the foreclosed apartment:
+     (1)  Does not increase costs or fees borne by the association or by individual owners;
+     (2)  Does not negatively impact the value of the condominium property or any apartment within the condominium property because of the foreclosed apartment's physical or aesthetic condition; and
+     (3)  Is maintained in a physical and aesthetic condition that conforms to all applicable association regulations, state laws, and county ordinances and permits the sale of the property at its highest reasonable market value.
+     (c)  A mortgagee's obligations under this section shall terminate upon transfer of the apartment to a subsequent purchaser; provided that the mortgagee shall not be obligated to retain possession of the apartment in order to comply with this section."
+     SECTION 2.  Chapter 514B, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§514B-    Mortgagee in possession of foreclosed property.  (a)  If a mortgagee takes possession of an apartment after a judicial or nonjudical power of sale foreclosure, the mortgagee shall remain liable to the association for the payment of all monthly common assessments, association fees, maintenance fees, property taxes, and any other fees or charges relating to the property for which a lien may be placed on the property.
+(b)  While in possession of a foreclosed apartment, the mortgagee shall bring the apartment into adequate physical and aesthetic condition and maintain it so that the foreclosed apartment:
+     (1)  Does not increase costs or fees borne by the association or by individual owners;
+     (2)  Does not negatively impact the value of the condominium property or any apartment within the condominium property because of the foreclosed apartment's physical or aesthetic condition; and
+     (3)  Is maintained in a physical and aesthetic condition that conforms to all applicable association regulations, state laws, and county ordinances and permits the sale of the property at its highest reasonable market value.
+     (c)  A mortgagee's obligations under this section shall terminate upon transfer of the apartment to a subsequent purchaser; provided that the mortgagee shall not be obligated to retain possession of the apartment in order to comply with this section."
+     SECTION 3.  Chapter 667, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§667-    Mortgagee in possession of foreclosed property.  (a)  If a mortgagee takes possession of residential real property after a judicial or nonjudical power of sale foreclosure, the mortgagee shall remain liable for the payment of all applicable common assessments, association fees, maintenance fees, property taxes, and any other fees or charges relating to the property for which a lien may be placed on the property.
+(b)  While in possession of a foreclosed residential real property, the mortgagee shall bring the property into adequate physical and aesthetic condition and maintain it so that the foreclosed property:
+     (1)  Does not increase costs or fees borne by any applicable homeowners association or by individual owners within the association;
+     (2)  Does not negatively impact the value of the property or any other surrounding property because of the foreclosed property's physical or aesthetic condition; and
+     (3)  Is maintained in a physical and aesthetic condition that conforms to all applicable association regulations, state laws, and county ordinances and permits the sale of the property at its highest reasonable market value.
+     (c)  A mortgagee's obligations under this section shall terminate upon transfer of the property to a subsequent purchaser; provided that the mortgagee shall not be obligated to retain possession of the property in order to comply with this section."
+     SECTION 4.  Section 514A-90, Hawaii Revised Statutes, is amended by amending subsection (h) to read as follows:
+     "(h)  The amount of the special assessment assessed under subsection (g) shall not exceed the total amount of unpaid regular monthly common assessments that were assessed during the six months immediately preceding the completion of the judicial or nonjudicial power of sale foreclosure.  [In no event shall] If a mortgagee of the subject apartment takes possession of the apartment after foreclosure, the mortgagee shall be liable for the total amount of unpaid regular monthly common assessments that were assessed during the six-month period immediately preceding the completion of the foreclosure.  If any party other than a mortgagee of the subject property takes possession of the apartment after foreclosure, the amount of the special assessment shall not exceed the sum of $3,600."
+     SECTION 5.  Section 514B-146, Hawaii Revised Statutes, is amended by amending subsection (h) to read as follows:
+     "(h)  The amount of the special assessment assessed under subsection (g) shall not exceed the total amount of unpaid regular monthly common assessments that were assessed during the six months immediately preceding the completion of the judicial or nonjudicial power of sale foreclosure.  [In no event shall] If a mortgagee of the subject apartment takes possession of the apartment after foreclosure, the mortgagee shall be liable for the total amount of unpaid regular monthly common assessments that were assessed during the six-month period immediately preceding the completion of the foreclosure.  If any party other than a mortgagee of the subject property takes possession of the apartment after foreclosure, the amount of the special assessment shall not exceed the sum of $3,600."
+     SECTION 6.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 7.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 8.  This Act shall take effect July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Mortgage Foreclosures; Mortgagee Obligations
+ 
+Description:
+Requires a mortgagee in possession of a foreclosed property to pay all costs or fees related to the property for which a lien may be placed and to maintain the foreclosed property in a certain condition until transfer to a subsequent purchaser; removes the cap on past-due association fees for a mortgagee that takes possession of a foreclosed condominium.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

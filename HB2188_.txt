@@ -1,0 +1,95 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2188
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO TAXATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that since 1980, the elderly population in Hawaii has steadily increased each year and according to the 2000 United States Census the elderly population in Hawaii comprised of 207,000 persons.  According to a May 2006 report prepared by the executive office on aging, Profile of Hawaii's Older Adults and Their Caregivers, by the year 2020, persons age sixty and older will constitute nearly one-third of Hawaii's adult population, and over one-third of this population is expected to have functional disabilities.  Moreover, the number of persons who are eighty-five years of age and older is projected to continue to increase dramatically, from 5,561 in 1980 to 33,800 in 2020.
+     These projections have proven remarkably accurate. According to the 2010 United States Census, over twenty-seven per cent of the State's population is over age sixty, and 30,238 are over age eighty-five.
+     The legislature further finds that providing support for caregivers of this population is critically important if individuals and families are to meet the multi‑faceted needs of older adults and those with disabilities.
+     The purpose of this Act is to provide support for caregivers of older adults and the disabled by establishing three new tax credits:
+     (1)  A small business tax credit for a percentage of the cost of providing a paid caregiver leave to an employee of the small business;
+     (2)  A caregiver tax credit based on a percentage of adjusted gross income of the caretaker; and
+     (3)  A caregiver educational costs tax credit.
+     SECTION 2.  Chapter 235, Hawaii Revised Statutes, is amended by adding three new sections to be appropriately designated and to read as follows:
+     "§235-    Small business caregiver leave tax credit.  (a)  There shall be allowed to each resident taxpayer subject to the tax imposed by this chapter who owns a small business, as defined in this section, a small business caregiver leave tax credit for a portion of the payroll cost of allowing an employee of the small business to serve as a caregiver.  The tax credit shall be deductible from the taxpayer's net income tax liability, if any, imposed by this chapter for the taxable year in which the credit is properly claimed.
+     (b)  The amount of the tax credit shall be equal to       per cent of the payroll cost of the employee of the small business on caregiver leave for the taxable year up to a maximum of $           in payroll costs per taxpayer in any taxable year.
+     (c)  The tax credit under this section, when claimed by:
+     (1)  Either an individual resident taxpayer or a husband and wife filing a joint return that own a small business; or
+     (2)  A small business that is a business entity;
+may be claimed only once in the taxable year with respect to the small business, regardless of the number of owners under paragraph (1) or the number of shareholders, partners, members, or other owners under paragraph (2); provided that a resident husband and wife filing separate tax returns for a taxable year for which a joint return could have been filed by them shall claim only the tax credit to which they would have been entitled under this section had a joint return been filed.
+     (d)  If the tax credit under this section exceeds the taxpayer's net income tax liability, the excess of credit over liability may be used as a tax credit against the taxpayer's net income tax liability in subsequent years until exhausted.  All claims, including any amended claims, for tax credits under this section shall be filed on or before the end of the twelfth month following the close of the taxable year for which the credit may be claimed.  Failure to comply with the foregoing provision shall constitute a waiver of the right to claim the credit.
+     (e)  The director of taxation shall prepare any forms that may be necessary to claim a credit under this section.  The director may also require the taxpayer to furnish information to ascertain the validity of the claims for credits made under this section and may adopt rules necessary to effectuate the purposes of this section pursuant to chapter 91.
+     (f)  For the purposes of this section:
+     "Caregiver" means any person who has undertaken the care, custody, or physical assistance of an elderly or disabled relative.
+     "Caregiver leave" means leave with pay of up to      weeks annually for an employee of the small business.
+     "Relative" means a spouse, child, parent, sibling, legal guardian, reciprocal beneficiaries as that term is defined in section 572C-3, a partner as that term is defined in section 572B-1, or any other person who is related to a qualified care recipient by blood, marriage, or adoption.
+     "Small business" means a for-profit enterprise that is a corporation, partnership, limited liability company, sole proprietorship, or other form of business entity having fewer than one hundred full-time or part-time employees.
+     §235‑    Caregiver tax credit.  (a)  There shall be allowed to each eligible taxpayer subject to the tax imposed by this chapter who is not claimed, and is not otherwise eligible to be claimed, as a dependent by another taxpayer for federal or Hawaii state individual income tax purposes a caregiver tax credit for the costs of providing care to a qualified care recipient.  The tax credit shall be deductible from the taxpayer's net income tax liability, if any, imposed by this chapter for the taxable year in which the credit is properly claimed.
+     (b)  The caregiver tax credit shall not exceed $          , based on the following schedule; provided that a husband and wife filing separate tax returns for a taxable year for which a joint return could have been filed by them shall claim only the tax credit to which they would have been entitled had a joint return been filed:
+TAX CREDIT SCHEDULE
+     Adjusted Gross Income        Tax Credit Percentage of $
+          Under $30,000                        per cent
+          $30,000 to under $50,000             per cent
+          $50,000 to under $75,000             per cent
+          $75,000 and over                     per cent
+     (c)  The credit allowed under this section shall be claimed against net income tax liability for the taxable year.  If the tax credit under this section exceeds the taxpayer's net income tax liability, the excess of credit over liability may be used as a tax credit against the taxpayer's net income tax liability in subsequent years until exhausted.  For the purpose of deducting this tax credit, "net income tax" liability means net income tax liability reduced by all other credits allowed to the eligible taxpayer under this chapter.
+     (d)  An eligible taxpayer may claim the tax credit for every taxable year or part thereof that the eligible taxpayer provides care to a qualified care recipient.  Only one eligible taxpayer per household may claim a tax credit for any qualified care recipient cared for in a taxable year.  An eligible taxpayer shall not claim multiple tax credits under this section in a taxable year, regardless of the number of qualified care recipients receiving care from the eligible taxpayer.
+     (e)  A maximum of $           of tax credits in the aggregate for all eligible taxpayers may be used in any one taxable year.
+     (f)  Every claim, including amended claims, for the tax credit under this section shall be filed on or before the end of the twelfth month following the close of the taxable year for which the tax credit may be claimed.  Failure to meet the filing requirements of this subsection shall constitute a waiver of the right to claim the tax credit.
+     (g)  The director of taxation shall prepare any forms that may be necessary to claim a credit under this section.  The director may also require the taxpayer to furnish information to ascertain the validity of the claims for credits made under this section and may adopt rules necessary to effectuate the purposes of this section pursuant to chapter 91.
+     (h)  As used in this section:
+     "Cognitive impairment" means a diminished mental capacity or a loss of the ability to process, learn, and remember information.
+     "Eligible taxpayer" means a caregiver or person who cares for a qualified care recipient.
+     "Qualified care recipient" means a person with a disability as that term is defined under section 515-2.  The term also means a person who is sixty years of age or older, a citizen or resident alien of the United States, and a relative of an eligible taxpayer who:
+     (1)  Has resided with the eligible taxpayer for at least six months of the taxable year for which the credit is claimed or has received more than fifty per cent of the qualified care recipient's financial support during the taxable year from the eligible taxpayer; and
+     (2)  Is certified by a physician licensed under chapter 453, or an advanced practice registered nurse licensed under chapter 457, as requiring one of the following:
+         (A)  Substantial supervision to protect the qualified care recipient's health or safety due to a cognitive impairment; or
+         (B)  Substantial assistance to perform at least two of the following activities of daily living:
+              (i)  Bathing;
+             (ii)  Eating;
+            (iii)  Using the toilet;
+             (iv)  Dressing; or
+              (v)  Transferring, such as from a bed to a wheelchair.
+     "Relative" means a spouse, child, parent, sibling, legal guardian, a reciprocal beneficiary as that term is defined in section 572C-3, a partner as that term is defined in section 572B-1, or any other person who is related to a qualified care recipient by blood, marriage, or adoption.
+     §235-    Caregiver educational cost tax credit.  (a)  There shall be allowed to each qualified taxpayer subject to the tax imposed by this chapter a caregiver educational cost tax credit which shall be deductible from the taxpayer's net income tax liability, if any, imposed by this chapter for the taxable year in which the credit is properly claimed.
+     (b)  The amount of the tax credit shall be equal to       per cent of the qualified educational costs incurred by the taxpayer during the taxable year up to a maximum of $           in qualified educational costs in any taxable year.
+     (c)  If the tax credit under this section exceeds the taxpayer's net income tax liability, the excess of credit over liability may be used as a tax credit against the taxpayer's net income tax liability in subsequent years until exhausted.  All claims for a tax credit under this section, including amended claims, shall be filed on or before the end of the twelfth month following the close of the taxable year for which the tax credit may be claimed.  Failure to comply with the foregoing provision shall constitute a waiver of the right to claim the tax credit.
+     (d)  The director of taxation shall prepare any forms that may be necessary to claim a credit under this section.  The director may also require the taxpayer to furnish information to ascertain the validity of the claim for the tax credit made under this section and may adopt rules necessary to effectuate the purposes of this section pursuant to chapter 91.
+     (e)  For the purposes of this section:
+     "Qualified educational costs" means tuition, fees, books, and other educational costs of caregiver courses or programs offered through the University of Hawaii system."
+     SECTION 3.  New statutory material is underscored.
+
+     SECTION 4.  This Act, upon its approval, shall apply to taxable years beginning after December 31, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Caregivers; Tax Credits
+ 
+Description:
+Establishes three new tax credits for caregivers:  small business caregiver leave tax credit; caregiver tax credit based on a percentage of adjusted gross income; caregiver educational cost tax credit.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

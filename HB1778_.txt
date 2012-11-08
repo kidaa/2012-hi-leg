@@ -1,0 +1,53 @@
+[HOUSE OF REPRESENTATIVES
+H.B. NO.
+1778
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO UNAUTHORIZED COMPUTER ACCESS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 708-895.5, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§708-895.5[]]  Unauthorized computer access in the first degree.  (1)  A person commits the offense of unauthorized computer access in the first degree if the person knowingly accesses a computer, computer system, or computer network without authorization and thereby obtains information, and:
+    (a)   The offense was committed for the purpose of commercial or private financial gain;
+    (b)   The offense was committed in furtherance of any other crime;
+    (c)   The value of the information obtained exceeds [$5,000;] $20,000; or
+    (d)   The information has been determined by statute or rule of court to require protection against unauthorized disclosure.
+     (2)  Unauthorized computer access in the first degree is a class [B] A felony."
+     SECTION 2.  Section 708-895.6, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§708-895.6[]]  Unauthorized computer access in the second degree.  (1)  A person commits the offense of unauthorized computer access in the second degree if the person knowingly accesses a computer, computer system, or computer network without authorization and thereby obtains information.
+     (2)  Unauthorized computer access in the second degree is a class [C] B felony."
+     SECTION 3.  Section 708-895.7, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§708-895.7[]]  Unauthorized computer access in the third degree.  (1)  A person commits the offense of unauthorized computer access in the third degree if the person knowingly accesses a computer, computer system, or computer network without authorization.
+     (2)  Unauthorized computer access in the third degree is a [misdemeanor.] class C felony."
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+By Request
+ 
+
+ 
+Report Title:
+Unauthorized Computer Access; Honolulu Prosecutor Package
+ 
+Description:
+Amends sections 708-895.5, 708-895.6, and 708-895.7, to increase unauthorized computer access in the first degree to a class A felony, increase unauthorized computer access in the second degree to a class B felony, and increase unauthorized computer access in the third degree to a class C felony; where unauthorized computer access in the first degree is charged based on the monetary value of information obtained, raises the minimum monetary value to $20,000.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

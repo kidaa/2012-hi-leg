@@ -1,0 +1,121 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+577
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CRIME.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 707, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows:
+"PART    .  LABOR TRAFFICKING
+     §707-A  Definitions.  As used in this part:
+     "Labor" means work of economic or financial value.
+     "Services" means a relationship between a person and the actor in which the person performs activities under the supervision of or for the benefit of the actor or a third party.
+     "Venture" means a business relationship between two or more parties to undertake economic activity together.
+     §707-B  Labor trafficking in the first degree.  (1)  A person commits the offense of labor trafficking in the first degree if the person knowingly provides or obtains or attempts to provide or obtain another person for labor or services, by any of the following means:
+    (a)   Extortion as defined in section 707-764;
+    (b)   Kidnapping as defined in section 707-720;
+    (c)   Unlawful imprisonment as defined in section 707-721 or 707-722;
+    (d)   Force, threat, or intimidation;
+    (e)   Deception, as defined in section 708-800, or fraud, which means making material false statements, misstatements, or omissions to induce or maintain the person to engage or continue to engage in the labor or services;
+    (f)   Requiring that labor be performed to retire, repay, or service a real or purported debt, if performing the labor or services is the exclusive method allowed to retire, repay, or service the debt and the indebted person is required to repay the debt with direct labor in place of currency; provided that this shall not include labor or services performed by a child for the child's parent or guardian;
+    (g)   Assault in violation of either section 707-710, 707‑711, or 707-712;
+    (h)   Withholding any of the trafficked person's government-issued identification documents with the intent to impede the movement of the person;
+    (i)   Using any scheme, plan, or pattern intended to cause the person to believe that if the person did not perform the labor or services, then the person or a friend or a member of the person's family would suffer serious harm, serious financial loss, or physical restraint; or
+    (j)   Using or threatening to use any form of domination, restraint, or control over the person which, given the totality of the circumstances, would have the reasonably foreseeable effect of causing the person to engage in or to remain engaging in the labor or services.
+     (2)  Labor trafficking in the first degree is a class A felony.
+     §707-C  Labor trafficking in the second degree.  (1)  A person commits the offense of labor trafficking in the second degree if the person knowingly:
+    (a)   Either acting as an individual or using a licensed business or business enterprise, aids another in a venture knowing that the other person in that venture is committing the offense of labor trafficking in the first degree; or
+    (b)   Benefits, financially or by receiving something of value, from participation in a venture knowing or in reckless disregard of the fact that another person has engaged in any act in violation of subsection (a) in the course of that venture or that another person in that venture is committing the offense of labor trafficking in the first degree.
+     (2)  Labor trafficking in the second degree is a class B felony; provided that if a violation of subsection (1) involves kidnapping or an attempt to kidnap, aggravated sexual abuse or the attempt to commit aggravated sexual abuse, or an attempt to cause the death of a person, or if a death results, the offense shall be a class A felony.
+     (3)  Upon conviction of a defendant under subsection (1), the court shall also order that any and all business licenses issued by the State be revoked for the business or enterprise that the defendant used to aid in the offense of labor trafficking in the second degree; provided that the court, in its discretion, may reinstate the business license upon petition to the court by any remaining owner or partner of the business or enterprise who was not convicted of an offense under this section.
+     §707-D  Additional sentencing considerations; victims held in servitude.  In addition to the factors set forth in sections 706-606 and 706-621, when determining the particular sentence to be imposed on a defendant convicted under section 707-B or 707‑C, the court shall consider:
+    (a)   The time in which the victim was held in servitude; and
+    (b)   The number of victims.
+     §707-E  Extended terms of imprisonment; labor trafficking offenses.  If a person is found guilty of a violation under section 707-B or 707-C and the victim suffered bodily injury, the person may be sentenced to an extended indeterminate term of imprisonment.  Subject to the procedures set forth in section 706-664, the court may impose, in addition to the indeterminate term of imprisonment provided for the grade of offense, an additional indeterminate term of imprisonment as follows:
+    (a)   Bodily injury – an additional two years of imprisonment;
+    (b)   Serious bodily injury – an additional five years of imprisonment;
+    (c)   Permanent or life-threatening bodily injury – an additional fifteen years of imprisonment; or
+    (d)   If death results, the defendant shall be sentenced in accordance with the homicide statute relevant for the level of criminal intent.
+When ordering an extended term sentence, the court shall impose the maximum length of imprisonment.  The minimum length of imprisonment for an extended term sentence under paragraphs (a), (b), (c), or (d) shall be determined by the Hawaii paroling authority in accordance with section 706-669.
+     §707-F  Restitution for victims of labor trafficking.  (1)  In addition to any other penalty, and notwithstanding a victim's failure to request restitution under section 706-646(2), the court shall order restitution to be paid to the victim, consisting of an amount that is the greater of:
+    (a)   The total gross income or value to the defendant of the victim's labor or services; or
+    (b)   The value of the victim's labor or services, as guaranteed under the minimum wage provisions of chapter 387 or the Fair Labor Standards Act of 1938, P.L. 75-718, 29 U.S.C. 201 - 219, inclusive, whichever is greater.
+     (2)  The return of the victim to the victim's home country or other absence of the victim from the jurisdiction shall not relieve the defendant of the defendant's restitution obligation.
+     (3)  For purposes of this section, "victim" means the person against whom an offense specified in section 707-B or 707-C has been committed.
+     §707-G  Nonpayment of wages.  (1)  A person commits the offense of nonpayment of wages if the person, in the capacity as an employer of an employee, wilfully or with intent to defraud fails or refuses to pay wages to the employee.  In addition to any other penalty, a person convicted of nonpayment of wages shall be fined not less than $2,000 nor more than $10,000 for each offense.
+     (2)  Nonpayment of wages is:
+    (a)   A class C felony, if the amount owed to the employee is equal to or greater than $2,000 or if the person convicted of nonpayment of wages falsely denies the amount or validity of the wages owed; or
+    (b)   A misdemeanor, if the amount owed to the employee is less than $2,000.
+     (3)  A person commits a separate offense under this section for each pay period during which the employee earned wages that the person failed or refused to pay the employee.  If no set pay periods were agreed upon between the person and the employee at the time the employee commenced the work, then each "pay period" shall be deemed to be bi-weekly.
+     (4)  In addition to any other penalty, the court shall order restitution to be paid to the employee, consisting of an amount that is the greater of:
+    (a)   The wages earned by the employee that were unpaid by the person convicted of nonpayment of wages; or
+    (b)   The value of the employee's labor or services, as guaranteed under the minimum wage provisions of chapter 387 or the Fair Labor Standards Act of 1938, P.L. 75-718, 29 U.S.C. 201 - 219, inclusive, whichever is greater.
+     (5)  An employee who is the victim of nonpayment of wages may bring a civil action to recover all wages owed by the person convicted of nonpayment of wages.
+     (6)  For purposes of this section:
+     "Employee" means any person working for another for hire, including but not limited to an individual employed in domestic service or at a family or person's home or any individual employed by the individual's parent or spouse, or independent contractors.
+     "Person" includes any individual, partnership, association, joint-stock company, trust, corporation, the personal representative of the estate of a deceased individual, or the receiver, trustee, or successor of any of the same, employing any persons, but shall not include the State or any political subdivision thereof or the United States.
+     "Wages" means compensation for labor or services rendered by an employee, whether the amount is determined on a time, task, piece, commission, or other basis of calculation.
+     §707-H  Unlawful conduct with respect to documents.  (1)  A person commits the unlawful conduct with respect to documents if the person knowingly destroys, conceals, removes, confiscates, or possesses any actual or purported government identification document of another person:
+    (a)   In the course of a violation or attempt to commit an offense under section 707-B or 707-C; or
+    (b)   To prevent or restrict, or in an attempt to prevent or restrict, without lawful authority, the ability of the other person to move or travel, in order to maintain the labor or services of the other person, when the person is or has been the victim of an offense under section 707-B or 707-C.
+     (2)  Unlawful conduct with respect to documents is a class C felony."
+     SECTION 2.  Section 712A-4, Hawaii Revised Statutes, is amended to read as follows:
+     "§712A-4  Covered offenses.  Offenses for which property is subject to forfeiture under this chapter are:
+    (a)   All offenses which specifically authorize forfeiture;
+    (b)   Murder, kidnapping, labor trafficking, gambling, criminal property damage, robbery, bribery, extortion, theft, unauthorized entry into motor vehicle, burglary, money laundering, trademark counterfeiting, insurance fraud, promoting a dangerous, harmful, or detrimental drug, commercial promotion of marijuana, unlawful methamphetamine trafficking, manufacturing of a controlled substance with a child present, promoting child abuse, or electronic enticement of a child which is chargeable as a felony offense under state law;
+    (c)   The manufacture, sale, or distribution of a controlled substance in violation of chapter 329, promoting detrimental drugs or intoxicating compounds, promoting pornography, promoting pornography for minors, or promoting prostitution, which is chargeable as a felony or misdemeanor offense, but not as a petty misdemeanor, under state law; and
+    (d)   The attempt, conspiracy, solicitation, coercion, or intimidation of another to commit any offense for which property is subject to forfeiture."
+     SECTION 3.  Section 803-44, Hawaii Revised Statutes, is amended to read as follows:
+     "§803-44  Application for court order to intercept wire, oral, or electronic communications.  The attorney general of this State, or a designated deputy attorney general in the attorney general's absence or incapacity, or the prosecuting attorney of each county, or a designated deputy prosecuting attorney in the prosecuting attorney's absence or incapacity, may make application to a designated judge or any other circuit court judge or district court judge, if a circuit court judge has not been designated by the chief justice of the Hawaii supreme court, or is otherwise unavailable, in the county where the interception is to take place, for an order authorizing or approving the interception of wire, oral, or electronic communications, and such court may grant in conformity with section 803-46 an order authorizing, or approving the interception of wire, oral, or electronic communications by investigative or law enforcement officers having responsibility for the investigation of the offense as to which the application is made, if the interception might provide or has provided evidence of:
+     (1)  Murder;
+     (2)  Kidnapping;
+     (3)  Labor trafficking in the first degree;
+     (4)  Labor trafficking in the second degree;
+    [(3)] (5)  Felony criminal property damage involving the danger of bodily injury as defined in section 707-700;
+    [(4)] (6)  Distribution of dangerous, harmful, or detrimental drugs; or
+    [(5)] (7)  Conspiracy to commit one or more of the above; or involving
+    [(6)] (8)  Organized crime and any of the following felony offenses:
+          (A)  Extortion;
+          (B)  Bribery of a juror, of a witness, or of a police officer;
+          (C)  Receiving stolen property; [and]
+          (D)  Gambling; and
+          (E)  Money laundering."
+     SECTION 4.  Section 842-1, Hawaii Revised Statutes, is amended by amending the definitions of "organized crime" and "racketeering activity" to read as follows:
+     ""Organized crime" means any combination or conspiracy to engage in criminal activity as a significant source of income or livelihood, or to violate, aid or abet the violation of criminal laws relating to prostitution, gambling, loan sharking, drug abuse, illegal drug distribution, counterfeiting, extortion, labor trafficking, or corruption of law enforcement officers or other public officers or employers.
+     "Racketeering activity" means any act or threat involving[,] but not limited to murder, kidnapping, gambling, criminal property damage, robbery, bribery, extortion, labor trafficking, theft, or prostitution, or any dealing in narcotic or other dangerous drugs which is chargeable as a crime under state law and punishable by imprisonment for more than one year."
+     SECTION 5.  In codifying the new sections added by section 1 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 6.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 7.  If any provision of this Act, or the application thereof to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of the Act, which can be given effect without the invalid provision or application, and to this end the provisions of this Act are severable.
+     SECTION 8.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 9.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+ 
+Report Title:
+Labor Trafficking; Nonpayment of Wages; Crimes
+ 
+Description:
+Establishes class A and B felony labor trafficking offenses, a nonpayment of wages offense, and an unlawful conduct with respect to documents offense.  Establishes provisions related to prosecution of the offenses.  Effective upon approval.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

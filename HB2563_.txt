@@ -1,0 +1,82 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2563
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE HAWAII IMMUNIZATION REGISTRY.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 325-121, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§325-121[]]  Definitions.  As used in this part:
+     "Health care provider" means a program, agency, clinic, health care center, physician licensed under the provisions of chapter 453, advanced practice registered nurse recognized under the provisions of chapter 457, pharmacist licensed under the provisions of chapter 461, physician's assistant licensed under the provisions of chapter 453, [or] person authorized to practice medicine as a physician or physician's assistant, or nursing as an advanced practice registered nurse, in federal facilities located in the State, that administers immunizations in Hawaii[.], or any other person authorized to prescribe vaccinations in Hawaii.
+     "Health organization" means a health insurance company, fraternal benefit society governed by chapter 432, mutual benefit society governed by chapter 432, health care service plan, health maintenance organization governed by chapter 432D, or any other entity delivering or issuing for delivery in the State health insurance as defined in section 431:1-205, Hawaii Revised Statutes.
+     "Immunization assessment report" means any registry-produced report designed to provide a detailed listing of the immunizations an individual has received as well as immunizations that are currently due or overdue.  Immunization assessment reports may also include aggregate reports produced to monitor and improve the health of a specific population or public health in general.
+"Post-secondary school" means any adult education school, business school, trade school, community college, college, or university enrolling or registering students above the age of compulsory attendance.
+     "Registry" means the Hawaii immunization registry.
+     "School" means any child care center, preschool, day care center, day nursery, head start program, group child care home, kindergarten, elementary, intermediate, middle, or secondary school that is responsible for ensuring student compliance with mandatory school immunization entrance requirements.
+     "Student" means any child or adult enrolled in any school or post-secondary school in the State."
+     SECTION 2.  Section 325-123, Hawaii Revised Statutes, is amended by amending subsections (b) and (c) to read as follows:
+     "(b)  Registry information shall be limited to patient name, demographic information, and contact information; information specific to immunizations or medications received by the patient, including types, manufacturers, lot numbers, expiration dates, anatomical sites of administration, routes of administration, vaccine information statement publication dates, doses, dates administered, the patient's history of vaccine-preventable diseases, and contraindications, precautions, adverse reactions to, or comments regarding immunizations or medications; and the name and contact information of the vaccination administrator or medication provider and the patient's health care provider.
+     (c)  The department of health shall adopt administrative, physical, and technical measures to ensure the security of the registry [to], protect the confidentiality, integrity, and availability of registry data, and prevent unauthorized access to registry information."
+     SECTION 3.  Section 325-124, Hawaii Revised Statutes, is amended to read as follows:
+"[[]§325-124[]]  Purposes for access to registry information; access not a disclosure.  (a)  Notwithstanding section 325-123, it shall not be a disclosure for the persons listed in subsections (b), (c), [and] (d), and (e) to have limited access to registry information for the purposes specified in each subsection.
+     (b)  Registry information regarding specific individuals in the registry may be accessed by authorized health care providers who are treating, have treated, or have been assigned to treat those individuals; by authorized employees of these health care providers; and by authorized department of health personnel assigned to monitor the immunization or health status of those individuals for the purposes of:
+     (1)  Recording the administration of any vaccination, including pandemic influenza vaccine;
+     (2)  Determining the immunization history of a patient to deliver health care treatment accordingly;
+     (3)  Notifying individuals or parents or legal guardians of the need to schedule a visit for an immunization;
+     (4)  Generating official immunization records;
+     (5)  Ensuring compliance with mandatory immunization requirements; [or]
+     (6)  Recording the distribution of prophylactic and treatment medications administered or dispensed in preparation for and in response to a potentially catastrophic disease threat[.]; or
+(7)  Complying with Hawaii vaccines for children and other state provided vaccine programs' vaccine ordering and accountability policies and procedures.
+     (c)  Registry information regarding specific individuals in the registry may be accessed by school and post-secondary school personnel authorized by the director of health, the superintendent of education, or the administrator of a private or post-secondary school for the purpose of ensuring compliance with mandatory student immunization requirements.
+     (d)  Registry information regarding specific individuals in the registry may be accessed by authorized health organizations that have been contracted to provide health insurance or health plan coverage for those individuals; provided that access is:  (1) limited to only the enrollees, members, subscribers, and insureds of the authorized health organization, and (2) for the purpose of producing immunization assessment reports by the authorized health organization.
+     [(d)] (e)  Registry information regarding specific individuals in the registry may be accessed by the department of health or agents of the department of health for the purposes of:
+     (1)  Ensuring compliance with mandatory immunization requirements;
+     (2)  Performing immunization-related quality improvement or quality assessment activities;
+     (3)  Complying with Hawaii vaccines for children [and teen vax ] and other state provided vaccine programs' vaccine ordering and accountability policies and procedures;
+     (4)  Producing aggregate immunization assessment reports to monitor and improve public health;
+     (5)  Supporting efforts to prevent and manage outbreaks of vaccine-preventable diseases, including pandemic influenza;
+     (6)  Assisting the department of health in the event of a public health emergency; or
+     (7)  Managing and maintaining the Hawaii immunization registry system.
+     [(e)] (f)  The use of registry information accessed pursuant to this section shall be limited to the purposes for which access is granted."
+SECTION 4.  Section 325-125, Hawaii Revised Statutes, is amended to read as follows:
+"[[]§325-125[]]  Registry record requirements; duration of retention.  (a)  The establishment of an individual's record in the registry shall not require the prior consent of a patient or the consent of a patient's parent or legal guardian in the case of a minor or dependent.
+     (b)  The department of health shall make available to the patient or the patient's parent or legal guardian in the case of a minor or dependent, via the patient's health care provider or birthing hospital, a written description of the purpose and benefits of the registry as well as the procedure for refusing inclusion in the registry.  [No registry information shall be established in the registry for any patient who in writing refuses, or, in the case of a minor or dependent, the patient's parent or legal guardian who in writing refuses to allow the information to be included in the registry.]
+     (c)  A patient's, or in the case of a minor, the minor's parent's or legal guardian's, choice to refuse inclusion in the registry shall be documented in writing on a form or in a format approved by the department of health.
+     (d)  Each health care provider or birthing hospital shall maintain the records of refusal of inclusion and shall report any refusal to the department of health in a manner specified by rule.
+     (e)  When a patient, or in the case of a minor, the minor's parent or legal guardian, chooses to refuse inclusion in the registry, minimal demographic information, including the patient's name and date of birth, shall be maintained within the registry system to identify the patient as having elected to refuse inclusion in the registry.  If the patient has an existing record in the registry at the time that the refusal documentation is submitted, all other patient demographic and immunization information shall be removed from the registry.
+[(b)] (f)  All registry authorized users shall make available for inspection by the department of health all medical records relating to patient demographic and immunization information recorded in the registry or documentation of the patient's, or in the case of a minor, the minor's parent's or legal guardian's refusal of inclusion in the registry for the purposes of performing registry-related quality improvement or quality assessment activities.
+(g)  Registry information for any individual included within the registry shall be retained as a part of the registry for twenty-five years after the last entry, except in the case of minors, whose records shall be retained during the period of minority plus twenty-five years after the minor reaches the age of majority.  At the conclusion of the retention period, the data stored in the registry for that individual shall be archived."
+     SECTION 5.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 6.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 7.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Hawaii Immunization Registry
+ 
+Description:
+Authorizes the Department of Health to allow limited health insurer access to the Hawaii Immunization Registry and authorizes the Hawaii Immunization Registry to store minimal demographic information for individuals who have elected to refuse inclusion in the Hawaii Immunization Registry.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

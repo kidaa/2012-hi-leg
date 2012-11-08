@@ -1,0 +1,60 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+566
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO TAXATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature supports the use of renewable energy technologies and understands the need to encourage greater use of renewable energy technology systems.  In 2003, an income tax credit was established to offset the cost of installing and placing renewable energy technology systems into service in Hawaii.  However, due to tight economic and fiscal conditions, measures must be taken to limit the State's tax credit liability and address the budget shortfall.
+     The purpose of this Act is to place an annual aggregate cap of $7,000,000 on the renewable energy technologies tax credit.
+     SECTION 2.  Section 235-12.5, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending subsection (b) to read:
+     "(b)  The amount of credit allowed for each eligible renewable energy technology system shall not exceed the applicable cap amount, which is determined as follows:
+     (1)  If the primary purpose of the solar energy system is to use energy from the sun to heat water for household use, then the cap amounts shall be:
+         (A)  $2,250 per system for single-family residential property;
+         (B)  $350 per unit per system for multi-family residential property; and
+         (C)  $250,000 per system for commercial property;
+     (2)  For all other solar energy systems, the cap amounts shall be:
+         (A)  $5,000 per system for single-family residential property; provided that if all or a portion of the system is used to fulfill the substitute renewable energy technology requirement pursuant to section 196-6.5(a)(3), the credit shall be reduced by thirty-five per cent of the actual system cost or $2,250, whichever is less;
+         (B)  $350 per unit per system for multi-family residential property; and
+         (C)  $500,000 per system for commercial property; and
+     (3)  For all wind-powered energy systems, the cap amounts shall be:
+         (A)  $1,500 per system for single-family residential property; provided that if all or a portion of the system is used to fulfill the substitute renewable energy technology requirement pursuant to section 196-6.5(a)(3), the credit shall be reduced by twenty per cent of the actual system cost or $1,500, whichever is less;
+         (B)  $200 per unit per system for multi-family residential property; and
+         (C)  $500,000 per system for commercial property.
+The total maximum allowed credits available to all taxpayers for eligible renewable energy technology systems that are installed and placed in service in the State shall not exceed $7,000,000 in any taxable year.  The credits over the aggregate annual limit of $7,000,000 may be claimed as provided in subsection (f)."
+     2.  By amending subsection (f) to read:
+     "(f)  If the tax credit under this section exceeds $7,000,000 for all qualified taxpayers for any taxable year or exceeds the taxpayer's income tax liability, the excess of the credit over liability may be [used as a credit] claimed against the taxpayer's income tax liability in subsequent years until exhausted, unless otherwise elected by the taxpayer pursuant to subsection (g) or (h).  All claims for the tax credit under this section, including amended claims, shall be filed on or before the end of the twelfth month following the close of the taxable year for which the credit may be claimed.  Failure to comply with this subsection shall constitute a waiver of the right to claim the credit."
+     SECTION 3.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 4.  This Act, upon its approval, shall apply to taxable years beginning after December 31, 2010.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Renewable Energy Technologies; Income Tax Credit; Aggregate Cap
+ 
+Description:
+Provides a $7,000,000 annual aggregate cap on the renewable energy technologies income tax credit.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

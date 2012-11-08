@@ -1,0 +1,85 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2207
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO RECORDKEEPING.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that rapid advances in electronic communications technologies, such as cellular telephones and computers connected to the internet, have resulted in the proliferation of crimes committed using such technologies.  Victims do not always discover immediately that a crime has been committed against them.  Therefore, the legislature finds that requiring electronic communication service providers to retain certain types of records will greatly assist law enforcement in the prosecution of such crimes.  The legislature further finds that most states and the federal government recommend that two years' worth of records should be kept.
+     SECTION 2.  Title 26, Hawaii Revised Statutes, is amended by adding a new chapter to be appropriately designated and to read as follows:
+"CHAPTER   .  ELECTRONIC COMMUNICATION SERVICE PROVIDERS
+     §   -1    Definitions.  For the purpose of this chapter:
+     "Domain name" means a case-insensitive alphabetical or alphanumeric sequence used to define the location of a website and used as a pointer to internet protocol addresses.
+     "Electronic communication" means communication that is facilitated by any wired or wireless technology via the Internet or any other electronic media, including but not limited to communication by telephone, text messaging, electronic mail, instant messaging, video conferencing, and web camera.
+"Electronic communication service provider" means any person, business, or entity that provides subscribers and other users with the ability to connect to electronic communication
+for a fee, or to such classes of users as to be effectively available to the public, regardless of the facilities used.
+"Host name" means a label that is assigned to a device connected to a computer network and that is used to identify the device in various forms of electronic communication such as the internet or electronic mail.
+     "Internet" means the global information system that is logically linked together by a globally unique address space based on the internet protocol (IP), or its subsequent extension; and that is able to support communications using the transmission control protocol/internet protocol (TCP/IP) suite, or its subsequent extension, or other IP-compatible protocols; and that provides, uses, or makes accessible, either publicly or privately, information to users.
+     "Internet protocol address" means a numerical label assigned to each device participating in a computer network that uses the internet protocol (IP) for communication and provides host or network interface identification and location addressing.
+     §   -2    Retention of certain records.  (a) Any electronic communication service provider that provides services in the State shall retain for a period of at least two years the following records:
+     (1) Information on the subscriber or user's:
+          (A) Name;
+          (B) Address;
+          (C) Local and long distance telephone connection records, or records of session times and durations;
+          (D) Length of service (including start date) and types of service utilized;
+          (E) Telephone or instrument number or other subscriber number or identity, including any temporarily assigned network address; and
+          (F) Means and source of payment for such service (including any credit card or bank account number).
+     (2) A log of the temporarily assigned network addresses the provider assigns to a subscriber to or user of such service that enables the identification of the corresponding subscriber or user information under subsection (a)(1) of this section; and
+     (3) A log of the subscriber or user's internet destination history information, including:
+          (A) Internet protocol address;
+          (B) Domain name; and
+          (C) Host name. 
+     §   -3    Disclosure of records pursuant to subpoena.  (a) Any electronic communication service provider that provides services in the State shall disclose the above records to a governmental entity, when the governmental entity makes a request for such records pursuant to a valid subpoena, warrant, or order issued by a Federal or State court. 
+(b)  Access to any record required to be retained under subsection (2) of this section shall not be compelled by any person or other entity that is not a governmental entity."
+     SECTION 3.  This Act shall take effect on January 1, 2013.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+
+ 
+Report Title:
+Recordkeeping; Electronic communication service providers
+ 
+Description:
+Requires electronic communication service providers to retain subscriber/user records and internet destination history information for at least 2 years.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,112 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1479
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO QUALIFIED DOMESTIC RELATIONS ORDERS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 88, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows:
+"PART   .  QUALIFIED DOMESTIC RELATIONS ORDERS
+     §88-A  Definitions.  As used in this part:
+     "Alternate payee means a spouse, former spouse, child or other dependent of a member or retirant who is recognized by a domestic relations order as having a right to receive all or a portion of the benefits payable by the retirement system with respect to that member or retirant.
+     "Benefits payable with respect to a member or retirant" means any payment made or required to be made to a member, retirant or beneficiary.
+     "Board" means the board of trustees of the employees' retirement system.
+     "Director" means the director of human resources development.
+     "Domestic relations order" means a judgment, decree, or order, including approval of a property settlement agreement, that:
+     (1)  Relates to the provision of child support, alimony payments or marital property rights to a spouse, former spouse, child or other dependent of a member or retirant; and
+     (2)  Is made pursuant to a domestic relations law of this State or another state.
+     "Member" means any person included in the membership of the system.
+     "Qualified domestic relations order" means a domestic relations order that:
+     (1)  Creates or recognizes the right of an alternate payee, or assigns to an alternate payee, the right to receive all or a portion of the benefits payable with respect to a member or retirant under the system; and
+     (2)  Directs the system to disburse benefits to the alternate payee.
+     "Retirant" means a member who has retired and becomes a beneficiary of the system.
+     "System" means the employees' retirement system of the State of Hawaii.
+     §88-B  Information to spouse.   Upon receipt of an attested copy of the complaint for divorce and a written request that identifies the member or retirant by name and social security number and states the date of the marriage, the system shall provide the spouse or former spouse of a member or retirant with the same information that would be provided to the member or retirant on the member's or retirant's account or benefits that is relevant to the spouse's or former spouse's interest in the member's or retirant's account or benefits.
+     §88-C  Payments by employees' retirement system.  (a)  The system shall make payments of death or retirement benefits or of refunded contributions only as directed by statutes and rules or by a qualified domestic relations order.
+     (b)  If benefits are payable pursuant to a qualified domestic relations order that meets the requirement of a domestic relations order as defined in section 414(p) of the Internal Revenue Code, then the applicable requirements of section 414(p) of the Internal Revenue Code shall be followed by the system.
+     §88-D  Submission of orders.  (a)  A person who wishes to have the system review a domestic relations order to establish whether it meets the requirements for a qualified domestic relations order shall submit to the system a written request for review and a copy of the domestic relations order.  The request may be made either before or after the order has been entered by the court.  The order shall be reviewed as provided by section 88-E.  If the order has been entered, it shall have been certified by the clerk of the court that entered the order.
+     (b)  Subject to review and approval by the board, the director shall establish and may revise from time to time a filing fee for the processing and review of orders.  The fee shall be based on the time required for processing and review of orders, reasonable, and not be set at a level that requires the system's members and employers as a whole to subsidize the cost of processing and review.  The fee in effect at the time that an order is first submitted, whether before or after entry by the court, shall be paid before the order is processed and reviewed.  In addition, the system shall charge for legal and actuarial services and provided by section 88-E(b).
+     (c)  If a domestic relations order is submitted for review after it has been entered by the court and is thereafter amended with the intention that it be a qualified domestic relations order, the member or retirant or the alternate payee shall submit a certified copy of the amended order to the system.  The system shall review any amended order that it receives according to the same rules applicable to all other orders.  A filing fee shall not be required with the submission of an amended order if the fee was paid with the initial submission of the order.
+     §88-E  Review of orders.  (a)  The director shall review the order for compliance with the requirements imposed by this part.  Upon completion of the review:
+     (1)  If the order has not been entered by the court, the director shall not issue a determination that the order is or is not a qualified domestic relations order but shall inform the person who submitted the order, in writing, whether the order meets the requirements for a qualified domestic relations order, identifying any provisions of this part that the order does not meet;
+     (2)  If the order has been entered by the court, the director shall notify the member or retirant and each alternate payee in writing of the determination that the order is or is not a qualified domestic relations order identifying any provisions of this part that the order does not meet.
+     (b)  In addition to the filing fee provided by section 88-D(b), the system shall charge for legal and actuarial services necessary in the review of an order at a rate to be determined by the director, based upon costs to the system.  These charges shall be paid before notification of determination on an order may be issued.  Before any legal or actuarial services are performed, the director shall notify the person who requested the review of the order that such services will be needed as part of the review.  The notification shall include an estimate of the extent of the services and the estimated costs relating to those services.  No charge shall be made for the first hour of legal or actuarial services or combination of both.
+     (c)  During any period, not to exceed eighteen months, in which a domestic relations order is under review to determine whether it is a qualified domestic relations order, or a determination that an order is not qualified is on appeal to the board or to court, the system shall identify and hold amounts that would have been paid to the alternate payee if the order had been determined to be a qualified domestic relations order and shall pay those amounts during or after the period as therein provided.
+     §88-F  Payment pursuant to qualified orders.  If the order is determined to be a qualified domestic relations order, the system, subject to the limitations of applicable statutes and this part, shall pay benefits in accordance with the order at the time benefits become payable to, or in the case of contributions are withdrawn by, the member.  Any determination that an order is a qualified domestic relations order is voidable or subject to modification if the system determines that the provisions of the order have been changed or that circumstances relevant to the determination have changed.
+     §88-G  Orders not qualified.  The director shall provide a written notice of any determination that an order is not a qualified domestic relations order, identifying the provisions of this part that the order does not meet.
+     (1)  The order shall provide for all possible distributions of benefits by the system for the member or retirant under plan provisions.  This requirement shall be deemed to have been met by a provision that:
+         (A)  Awards to the alternate payee a specific or clearly determinable percentage, rather than an amount, of each distribution by the system based on the member's account or retirant's benefit; or
+         (B)  Awards to the member or retirant, in accordance with plan provisions, all benefits payable with respect to a member or retirant not specifically awarded to the alternate payee.
+     (2)  The order shall provide for reducing the amount awarded if there is a reduction of the benefit based on the age of the member upon retirement, each reduction to be in proportion to the factors used to reduce the standard monthly benefit on the basis of the member's age below normal retirement age.  This requirement shall be deemed to have been met if:
+         (A)  The order awards a percentage of whatever monthly benefit is payable after all elections have been made by the member, or for death benefits, by the designated beneficiary;
+         (B)  The member or retirant has reached normal retirement age and, if a retirant, has retired without any reduction for early age retirement at the time of the determination as to whether the order is a qualified domestic relations order; or
+          (C)  The order reflects that the retirant is or will be receiving retirement benefits reduced for early age retirement and the award to the alternate payee has considered the reduced amount of the retirant's monthly benefit payments.
+     (3)  The order shall not:
+         (A)  Purport to require the designation by the member or retirant of a particular person and the recipient of benefits upon the death of the member or retirant;
+         (B)  Purport to require the selection of a particular benefit payment plan or option or to limit the benefit payment plans or options from which the member or beneficiary may select;
+         (C)  Require any action on the part of the system contrary to its governing laws or plan provisions other than the direct payment of the benefit awarded to an alternate payee;
+         (D)  Make the award to the alternate payee an interest which is contingent on any condition other than those conditions resulting in the liability of the system for payment under its plan provisions;
+         (E)  Purport to give to someone other than a member or retirant the right to designate a beneficiary or to choose any retirement plan or option available from the system;
+         (F)  Attach a lien to any part of amounts payable with respect to a member or retirant;
+         (G)  Award an alternate payee a portion of the benefits payable with respect to a member or retirant under the system and purport to require the system to make a lump sum payment of the awarded portion of the benefits to the alternate payee that are not payable in a lump sum; or
+         (H)  Purport to require the system, without action by the member, to terminate a member from membership or employment, to refund contributions, or to retire a member.
+     (4)  A qualified domestic relations order shall not provide for the award of a specific amount of a benefit, rather than a percentage of this benefit, to an alternate payee unless the order also provides for a reduction of the amount awarded if the benefits available to the retirant or member are reduced by law.  This requirement shall not apply to benefit waivers executed by the member.
+     (5)  The system shall divide future benefit increases provided by statute or act of the legislature between the member, retirant, or beneficiary and the alternate payee in the same proportion that the benefits are divided.
+     (6)  An order shall specify the date of the marriage, if the alternate payee is the member's or retirant's spouse or former spouse.
+     §88-H  Restoration to service.  For the purpose of calculating earnings limitations for retirants or recipients of disability retirement benefits who have been restored to service, the retirant's or recipient's retirement benefit or disability benefit shall be considered to be the amount that would have been paid if there had been no qualified domestic relations order.
+     §88-I  Amount of disability retirement benefit subject to qualified domestic relations order.  If the benefit of a recipient of a disability retirement benefit is reduced because of amounts received by the recipient as workers compensation or Social Security benefits, or both, the amount of the benefit subject to a qualified domestic relations order shall be the amount of benefit remaining after reduction for the workers compensation or the Social Security benefits or both.
+     §88-J  Benefits resulting from resumption of membership and reinstatement of service credit.  If a member terminates membership in the system by withdrawal of contributions, the system shall pay all or a portion of the amount withdrawn to any alternate payee as directed by a qualified domestic relations order.  If the former member later resumes membership in the system, the system shall pay to an alternate payee no portion of any benefits payable to the member or retirant that result from the resumption of membership, even if those benefits result in part from reinstatement of service credit initially credited during the marriage.
+     §88-K  Reinstatement of service credit.  In order to receive credit for all service represented by withdrawn or refunded contributions, a member who in reinstating service credit by repaying amounts previously withdrawn or refunded shall repay the entire amount withdrawn or refunded, regardless of whether a portion or all of the amount was paid to an alternate payee.
+     §88-L  Death of an alternate payee before commencement of payments under a qualified domestic relations order.  When the system has not yet begun to make payment to an alternate payee under section's and is provided with proof of the death of the alternate payee, benefits payable with respect to the member or retirant shall be paid without regard to the qualified domestic relations order.
+     §88-M  Form of payment to alternate payee; service retirement benefits.  (a)  When the interest awarded to an alternate payee by a qualified domestic relations order's distributed as a portion of a service retirement benefit, the system shall pay the alternate payee an amount that is the actuarial equivalent of that interest in the form of an annuity payable in equal monthly installments for the life of the alternate payee when:
+     (1)  The qualified domestic relations order arises in or because of divorce;
+     (2)  The qualified domestic relations order divides service retirement benefits between a member and the member's former spouse; and
+     (3)  The determination that the order is a qualified domestic relations order is made prior to the member's retirement.
+     (b)  Payment under this subsection shall be determined as follows:
+     (1)  As of the date payment to the alternate payee is scheduled to begin, the system shall determine the single life annuity value of the retirement benefit payable to the member;
+     (2)  If the portion of the benefit awarded to the alternate payee by the order is not clearly stated as a percentage of full benefits, the system shall determine the percentage of full benefits that is the equivalent to the benefit awarded to the alternate payee;
+     (3)  The single life annuity value determined by the system shall be multiplied by the percentage of full benefits awarded to the alternate payee.  The result of this calculation shall be actuarially converted to a single life annuity payable to the alternate payee for the lifetime of the alternate payee;
+     (4)  The benefit payable to the member shall be reduced by an amount equivalent to the value of the benefit payable to the alternate payee; payment by the system of the alternate payee's interest as provided by this section shall have no effect on the right of a member to name a beneficiary or the right of a member to choose an optional method of payment upon retirement; and
+     (5)  Payment of the alternate payee's interest under this subsection will be effective as of the same date benefit payments are effective for the member.
+     (c)  When the interest awarded to an alternate payee by a qualified domestic relations order is distributed as a portion of a service retirement benefit and the determination that the order is a qualified domestic relations order is made subsequent to the member's retirement, the interest awarded the alternate payee by the qualified domestic relations order shall be paid as a portion of the service retirement benefit the retirant is receiving as follows:
+     (1)  If the alternate payee is already a named beneficiary under any option elected by the retirant at retirement, the total monthly benefit to which the retirant is entitled without regard to the qualified domestic relations order, whether payable to the retirant only or as divided between the retirant and the alternate payee beneficiary, shall be apportioned between the retirant and the alternate payee according to the terms of the qualified domestic relations order.  Upon the death of the retirant or the alternate payee beneficiary, the benefit amount to be paid to the survivor shall be that required under the option elected by the retirant at retirement, as though no qualified domestic relations order had existed; or
+     (2)  If the alternate payee is not a named beneficiary under the option elected by the retirant at retirement, the benefit to which the retirant is entitled without regard to the qualified domestic relations order, shall be apportioned between the retirant and the alternate payee according to the terms of the qualified domestic relations order.  If the retirant predeceases the alternate payee, payments to the alternate payee shall cease and payments to the retirant's named beneficiary or beneficiaries shall be made as required under the option elected by the retirant at retirement, as though no qualified domestic relations order had existed.  If the alternate payee predeceases the retirant, the benefit then being paid to the retirant shall be increased by the amount of the benefit that was being paid to the alternate payee at time of death.
+Payment according to the terms of the qualified domestic relations order under this subsection shall commence as of the first day of the month following the date upon which the order is determined to be qualified, unless the parties jointly direct that payment is to commence at a later date.
+     §88-N  Payments made in error.  (a)  If a member or retirant, or the beneficiary or estate of either, receives any amount of a distribution that has been awarded to an alternate payee, the recipient shall be designated a constructive trustee for the amount received and shall immediately transmit that amount to the alternate payee.
+     (b)  If a alternate payee or the estate, heirs, or legatees of the alternate payee receives any amount of a distribution that should have been paid to a member or retirant, or the estate, heirs, or legatees of either, the recipient shall be designated a constructive trustee for the amount received and shall immediately transmit that amount to the member or retirant or other person to whom the amount should have been paid.
+     (c)  If a member, retirant, or the beneficiary, estate, heirs, or legatees of either, receive any amount of a distribution that should not have been paid by the system, the recipient shall be designated a constructive trustee for the amount received and shall immediately transmit that amount to the system."
+     SECTION 2.  This Act shall take effect upon its approval; provided that:
+    (a)   After July 1, 2011, the employees' retirement system shall review domestic relations orders issued on and after January 1, 2011, to determine whether they are qualified domestic relations orders; and
+    (b)   Any domestic relations order issued before January 1, 2011, shall be reviewed after July 1, 2011, upon receipt by the employees' retirement system of the order and a written declaration signed by both parties
+          that each consents to the application of this Act to the order.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Qualified Domestic Relations Orders
+ 
+Description:
+Establishes qualified domestic relations orders by which the employees' retirement system is required to make payments to an alternate payee of benefits payable to a retirant or member.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

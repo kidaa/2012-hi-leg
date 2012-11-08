@@ -1,0 +1,175 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+626
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE HAWAII UNIFORM COLLABORATIVE LAW ACT.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The Hawaii Revised Statutes is amended by adding a new chapter to be appropriately designated and to read as follows:
+"CHAPTER
+HAWAII UNIFORM COLLABORATIVE LAW ACT
+     §   -1  Short title.  This chapter shall be known and may be cited as the "Hawaii Uniform Collaborative Law Act".
+     §   -2  Definitions.  As used in this chapter:
+     "Collaborative law communication" means a statement, whether oral or in a record, or verbal or nonverbal, that:
+     (1)  Is made to conduct, participate in, continue, or reconvene a collaborative law process; and
+     (2)  Occurs after the parties sign a collaborative law participation agreement and before the collaborative law process is concluded.
+     "Collaborative law participation agreement" means an agreement by persons to participate in a collaborative law process.
+     "Collaborative law process" means a procedure intended to resolve a collaborative matter without intervention by a tribunal in which persons:
+     (1)  Sign a collaborative law participation agreement; and
+     (2)  Are represented by collaborative lawyers.
+     "Collaborative lawyer" means a lawyer who represents a party in a collaborative law process.
+     "Collaborative matter" means a dispute, transaction, claim, problem, or issue for resolution including a dispute, claim, or issue in a proceeding which is described in a collaborative law participation agreement.
+     "Law firm" means:
+     (1)  Lawyers who practice law together in a partnership, professional corporation, sole proprietorship, limited liability company, or association;
+     (2)  Lawyers employed in a legal services organization;
+     (3)  Lawyers employed in the legal department of a corporation or other organization; or
+     (4)  Lawyers employed in the legal department of a government or governmental subdivision, agency, or instrumentality.
+     "Nonparty participant" means a person, other than a party and the party's collaborative lawyer, that participates in a collaborative law process.
+     "Party" means a person that signs a collaborative law participation agreement and whose consent is necessary to resolve a collaborative matter.
+     "Person" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, public corporation, government or governmental subdivision, agency, or instrumentality, or any other legal or commercial entity.
+     "Proceeding" means:
+     (1)  A judicial, administrative, arbitral, or other adjudicative process before a tribunal, including related prehearing and post-hearing motions, conferences, and discovery; or
+     (2)  A legislative hearing or similar process.
+     "Prospective party" means a person that discusses with a prospective collaborative lawyer the possibility of signing a collaborative law participation agreement.
+     "Record" means information that is inscribed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form.
+     "Related to a collaborative matter" means involving the same parties, transaction or occurrence, nucleus of operative fact, dispute, claim, or issue as the collaborative matter.
+     "Sign" means, with present intent to authenticate or adopt a record:
+     (1)  To execute or adopt a tangible symbol; or
+     (2)  To attach to or logically associate with the record an electronic symbol, sound, or process.
+     "Tribunal" means:
+     (1)  A court, arbitrator, administrative agency, or other body acting in an adjudicative capacity which, after presentation of evidence or legal argument, has jurisdiction to render a decision affecting a party's interests in a matter; or
+     (2)  A legislative body conducting a hearing or similar process.
+     §   -3  Applicability.  This chapter applies to a collaborative law participation agreement that meets the requirements of section    -4 signed after the effective date of this chapter.
+     §   -4  Collaborative law participation agreement; requirements.  (a)  A collaborative law participation agreement must:
+     (1)  Be in a record;
+     (2)  Be signed by the parties;
+     (3)  State the parties' intention to resolve a collaborative matter through a collaborative law process under this chapter;
+     (4)  Describe the nature and scope of the matter;
+     (5)  Identify the collaborative lawyer who represents each party in the process; and
+     (6)  Contain a statement by each collaborative lawyer confirming the lawyer's representation of a party in the collaborative law process.
+     (b)  Parties may agree to include in a collaborative law participation agreement additional provisions not inconsistent with this chapter.
+     §   -5  Beginning and concluding a collaborative law process.  (a)  A collaborative law process begins when the parties sign a collaborative law participation agreement.
+     (b)  A tribunal may not order a party to participate in a collaborative law process over that party's objection.
+     (c)  A collaborative law process is concluded by:
+     (1)  The resolution of a collaborative matter as evidenced by a signed record;
+     (2)  The resolution of a part of the collaborative matter, evidenced by a signed record, in which the parties agree that the remaining parts of the matter will not be resolved in the process; or
+     (3)  The termination of the process.
+     (d)  A collaborative law process terminates:
+     (1)  When a party gives notice to other parties in a record that the process is ended; or
+     (2)  When a party:
+         (A)  Begins a proceeding related to a collaborative matter without the agreement of all parties; or
+         (B)  In a pending proceeding related to the matter:
+              (i)  Initiates a pleading, motion, order to show cause, or request for a conference with the tribunal;
+             (ii)  Requests that the proceeding be put on the tribunal's active calendar; or
+            (iii)  Takes similar action requiring notice to be sent to the parties; or
+     (3)  Except as otherwise provided by subsection (e), when a party discharges a collaborative lawyer or a collaborative lawyer withdraws from further representation of a party.
+     (e)  A party's collaborative lawyer shall give prompt notice to all other parties in a record of a discharge or withdrawal.
+     (f)  A party may terminate a collaborative law process with or without cause.
+     (g)  Notwithstanding the discharge or withdrawal of a collaborative lawyer, a collaborative law process continues, if not later than thirty days after the date that the notice of the discharge or withdrawal of a collaborative lawyer required by subsection (d)(3) is sent to the parties:
+     (1)  The unrepresented party engages a successor collaborative lawyer; and
+     (2)  In a signed record:
+         (A)  The parties consent to continue the process by reaffirming the collaborative law participation agreement;
+         (B)  The agreement is amended to identify the successor collaborative lawyer; and
+         (C)  The successor collaborative lawyer confirms the lawyer's representation of a party in the collaborative process.
+     (h)  A collaborative law process does not conclude if, with the consent of the parties, a party requests a tribunal to approve a resolution of the collaborative matter or any part thereof as evidenced by a signed record.
+     (i)  A collaborative law participation agreement may provide additional methods of concluding a collaborative law process.
+     §   -6  Proceedings pending before tribunal; status report.  (a)  Persons in a proceeding pending before a tribunal may sign a collaborative law participation agreement to seek to resolve a collaborative matter related to the proceeding.  The parties shall file promptly with the tribunal a notice of the agreement after it is signed.  Subject to subsection (c) and sections     ‑7 and    -8, the filing operates as an application for a stay of the proceeding.
+     (b)  The parties shall file promptly with the tribunal notice in a record when a collaborative law process concludes.  The stay of the proceeding under subsection (a) is lifted when the notice is filed.  The notice may not specify any reason for termination of the process.
+     (c)  A tribunal in which a proceeding is stayed under subsection (a) may require the parties and collaborative lawyers to provide a status report on the collaborative law process and the proceeding. A status report may include only information on whether the process is ongoing or concluded. It may not include a report, assessment, evaluation, recommendation, finding, or other communication regarding a collaborative law process or collaborative law matter.
+     (d)  A tribunal may not consider a communication made in violation of subsection (c).
+     (e)  A tribunal shall provide parties notice and an opportunity to be heard before dismissing a proceeding in which a notice of collaborative process is filed based on delay or failure to prosecute.
+     §   -7  Emergency order.  During a collaborative law process, a tribunal may issue emergency orders to protect the health, safety, welfare, or interest of a party or family or household member as defined in section 586-1.
+     §   - 8  Approval of agreement by tribunal.  A tribunal may approve an agreement resulting from a collaborative law process.
+     §   -9  Disqualification of collaborative lawyer and lawyers in associated law firm.  (a)  Except as otherwise provided in subsection (c), a collaborative lawyer is disqualified from appearing before a tribunal to represent a party in a proceeding related to the collaborative matter.
+     (b)  Except as otherwise provided in subsection (c) and sections    -10 and    -11, a lawyer in a law firm with which the collaborative lawyer is associated is disqualified from appearing before a tribunal to represent a party in a proceeding related to the collaborative matter if the collaborative lawyer is disqualified from doing so under subsection (a).
+     (c)  A collaborative lawyer or a lawyer in a law firm with which the collaborative lawyer is associated may represent a party:
+     (1)  To ask a tribunal to approve an agreement resulting from the collaborative law process; or
+     (2)  To seek or defend an emergency order to protect the health, safety, welfare, or interest of a party, or family or household member as defined in section 586-1 if a successor lawyer is not immediately available to represent that person.  In that event, subsections (a) and (b) apply when the party, or family or household member is represented by a successor lawyer or reasonable measures are taken to protect the health, safety, welfare, or interest of that person.
+     §   -10  Low income parties.  (a)  The disqualification of section    -9(a) applies to a collaborative lawyer representing a party with or without fee.
+     (b)  After a collaborative law process concludes, another lawyer in a law firm with which a collaborative lawyer disqualified under section   -9(a) is associated may represent a party without fee in the collaborative matter or a matter related to the collaborative matter if:
+     (1)  The party has an annual income that qualifies the party for free legal representation under the criteria established by the law firm for free legal representation;
+     (2)  The collaborative law participation agreement so provides; and
+     (3)  The collaborative lawyer is isolated from any participation in the collaborative matter or a matter related to the collaborative matter through procedures within the law firm which are reasonably calculated to isolate the collaborative lawyer from that participation.
+     §    -11  Governmental entity as party.  (a)  The disqualification of section    -9(a) applies to a collaborative lawyer representing a party that is a government or governmental subdivision, agency, or instrumentality.
+     (b)  After a collaborative law process concludes, another lawyer in a law firm with which the collaborative lawyer is associated may represent a government or governmental subdivision, agency, or instrumentality in the collaborative matter or a matter related to the collaborative matter if:
+     (1)  The collaborative law participation agreement so provides; and
+     (2)  The collaborative lawyer is isolated from any participation in the collaborative matter or a matter related to the collaborative matter through procedures within the law firm which are reasonably calculated to isolate the collaborative lawyer from that participation.
+     §    -12  Disclosure of information.  Except as provided by law other than this chapter, during the collaborative law process, on the request of another party, a party shall make timely, full, candid, and informal disclosure of information related to the collaborative matter without formal discovery.  A party also shall update promptly previously disclosed information that has materially changed.  The parties may define the scope of disclosure during the collaborative law process.
+     §   -13  Standards of professional responsibility and mandatory reporting not affected.  This chapter does not affect:
+     (1)  The professional responsibility obligations and standards applicable to a lawyer or other licensed professional; or
+     (2)  The obligation of a person to report abuse or neglect, abandonment, or exploitation of a child or adult under the law of this State.
+     §    -14  Appropriateness of collaborative law process.  Before a prospective party signs a collaborative law participation agreement, a prospective collaborative lawyer shall:
+     (1)  Assess with the prospective party factors the lawyer reasonably believes relate to whether a collaborative law process is appropriate for the prospective party's matter;
+     (2)  Provide the prospective party with information that the lawyer reasonably believes is sufficient for the party to make an informed decision about the material benefits and risks of a collaborative law process as compared to the material benefits and risks of other reasonably available alternatives for resolving the proposed collaborative matter, such as litigation, mediation, arbitration, or expert evaluation; and
+     (3)  Advise the prospective party that:
+         (A)  After signing an agreement if a party initiates a proceeding or seeks tribunal intervention in a pending proceeding related to the collaborative matter, the collaborative law process terminates;
+         (B)  Participation in a collaborative law process is voluntary and any party has the right to terminate unilaterally a collaborative law process with or without cause; and
+         (C)  The collaborative lawyer and any lawyer in a law firm with which the collaborative lawyer is associated may not appear before a tribunal to represent a party in a proceeding related to the collaborative matter, except as authorized by section    -9(c),    -10(b), or    -11(b).
+     §   -15  Coercive or violent relationship.  (a)  Before a prospective party signs a collaborative law participation agreement, a prospective collaborative lawyer  shall make reasonable inquiry whether the prospective party has a history of a coercive or violent relationship with another prospective party.
+     (b)  Throughout a collaborative law process, a collaborative lawyer reasonably and continuously shall assess whether the party the collaborative lawyer represents has a history of a coercive or violent relationship with another party.
+     (c)  If a collaborative lawyer reasonably believes that the party the lawyer represents or the prospective party who consults the lawyer has a history of a coercive or violent relationship with another party or prospective party, the lawyer may not begin or continue a collaborative law process unless:
+     (1)  The party or the prospective party requests beginning or continuing a process; and
+     (2)  The collaborative lawyer reasonably believes that the safety of the party or prospective party can be protected adequately during a process.
+     §   -16  Confidentiality of collaborative law communication.  A collaborative law communication is confidential to the extent agreed by the parties in a signed record or as provided by law of this state other than this chapter.
+     §   -17  Privilege against disclosure for collaborative law communication; admissibility; discovery.  (a)  Subject to sections   -18 and   -19, a collaborative law communication is privileged under subsection (b), is not subject to discovery, and is not admissible in evidence.
+     (b)  In a proceeding, the following privileges apply:
+     (1)  A party may refuse to disclose, and may prevent any other person from disclosing, a collaborative law communication.
+     (2)  A nonparty participant may refuse to disclose, and may prevent any other person from disclosing, a collaborative law communication of the nonparty participant.
+     (c)  Evidence or information that is otherwise admissible or subject to discovery does not become inadmissible or protected from discovery solely because of its disclosure or use in a collaborative law process.
+     §   -18  Waiver and preclusion of privilege.  (a)  A privilege under section   -17 may be waived in a record or orally during a proceeding if it is expressly waived by all parties and, in the case of the privilege of a nonparty participant, it is also expressly waived by the nonparty participant.
+     (b)  A person that makes a disclosure or representation about a collaborative law communication which prejudices another person in a proceeding may not assert a privilege under section    -17, but this preclusion applies only to the extent necessary for the person prejudiced to respond to the disclosure or representation.
+     §   -19  Limits of privilege.  (a)  There is no privilege under section    -17 for a collaborative law communication that is:
+     (1)  Available to the public under chapter 92 or made during a session of a collaborative law process that is open, or is required by law to be open, to the public;
+     (2)  A threat or statement of a plan to inflict bodily injury or commit a crime of violence;
+     (3)  Intentionally used to plan a crime, commit or attempt to commit a crime, or conceal an ongoing crime or ongoing criminal activity; or
+     (4)  In an agreement resulting from the collaborative law process, evidenced by a record signed by all parties to the agreement.
+     (b)  The  privilege under section    -17 for a collaborative law communication  does not apply to the extent that a communication is:
+     (1)  Sought or offered to prove or disprove a claim or complaint of professional misconduct or malpractice arising from or related to a collaborative law process; or
+     (2)  Sought or offered to prove or disprove abuse, neglect, abandonment, or exploitation of a child or adult, unless the agencies of the department of human of human services responsible for child protective services or adult protective services is a party to or otherwise participates in the process.
+     (c)  There is no privilege under section    -17 if a tribunal finds, after a hearing in camera, that the party seeking discovery or the proponent of the evidence has shown the evidence is not otherwise available, the need for the evidence substantially outweighs the interest in protecting confidentiality, and the collaborative law communication is sought or offered in:
+     (1)  A court proceeding involving a felony or misdemeanor; or
+     (2)  A proceeding seeking rescission or reformation of a contract arising out of the collaborative law process or in which a defense to avoid liability on the contract is asserted.
+     (d)  If a collaborative law communication is subject to an exception under subsection (b) or (c), only the part of the communication necessary for the application of the exception may be disclosed or admitted.
+     (e)  Disclosure or admission of evidence excepted from the privilege under subsection (b) or (c) does not make the evidence or any other collaborative law communication discoverable or admissible for any other purpose.
+     (f)  The privileges under section    -17 do not apply if the parties agree in advance in a signed record, or if a record of a proceeding reflects agreement by the parties, that all or part of a collaborative law process is not privileged.  this subsection does not apply to a collaborative law communication made by a person that did not receive actual notice of the agreement before the communication was made.
+     §   -20  Authority of tribunal in case of noncompliance.  (a)  If an agreement fails to meet the requirements of section    -4, or a lawyer fails to comply with section   -14 or  -15, a tribunal may nonetheless find that the parties intended to enter into a collaborative law participation agreement if they:
+     (1)  Signed a record indicating an intention to enter into a collaborative law participation agreement; and
+     (2)  Reasonably believed they were participating in a collaborative law process.
+     (b)  If a tribunal makes the findings specified in subsection (a), and the interests of justice require, the tribunal may:
+     (1)  Enforce an agreement evidenced by a record resulting from the process in which the parties participated;
+     (2)  Apply the disqualification provisions of sections     ‑5,   -6,   -9,   -10, and   -11; and
+     (3)  Apply the  privilege under section   -17.
+     §   -21  Uniformity of application and construction.  In applying and construing this uniform act, consideration must be given to the need to promote uniformity of the law with respect to its subject matter among states that enact it.
+     §   -22  Relation to electronic signatures in global and national commerce act.  This chapter modifies, limits, and supersedes the federal Electronic Signatures in Global and National Commerce Act, 15 U.S.C.A. section 7001 et seq. (2009), but does not modify, limit, or supersede section 101(c) of that act, 15 U.S.C.A. section 7001(c), or authorize electronic delivery of any of the notices described in section 103(b) of that act, 15 U.S.C.A. section 7003(b).
+     SECTION 2.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Uniform Collaborative Law Act
+ 
+Description:
+Enacts Uniform Collaborative Law Act, which authorizes disputants to enter into collaborative law participation agreements signifying interest to resolve the dispute without intervention of a tribunal (court or other third party decision maker).  Requires parties to a collaborative law process to disclose information fully, candidly, and informally without formal discovery.  Subject to certain exceptions, disqualifies attorneys in the collaborative process (and their law firms) from appearing before a tribunal to represent a party in a proceeding related to the collaborative matter.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

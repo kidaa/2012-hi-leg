@@ -1,0 +1,52 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1746
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CONDOMINIUMS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that many older condominium projects in Hawaii operate with only a single meter measuring the consumption of utilities, such as gas, water, and electricity, for all units within the condominium.  Consequently, utility expenses are paid for as a common expense based on each unit's undivided interest in the condominium, rather than individual units paying for the units' actual utility usage.
+     The legislature finds that this method of apportioning utility costs is unfair to both unit owners and the condominium association.  A unit owner faces no consequences for wasteful energy consumption, such as leaving lights or air conditioning on at all times.  Unit owners with vacant units, such as part-time residents or owners of unoccupied rental units, are also at a disadvantage.  For example, a three-bedroom unit with a higher undivided interest than a studio apartment will pay a higher utility cost, regardless of whether the unit is occupied or vacant.  The legislature further finds that wasteful or excessive utility use results in higher costs for the association when utility costs are paid for as a common expense.
+     The legislature also finds that the patent unfairness of common utility metering in condominium associations was addressed by Act 176, Session Laws of Hawaii 1977, and Act 93, Session Laws of Hawaii 2005, which added new sections to chapters 514A and 514B, Hawaii Revised Statutes, respectively, to require individual metering of condominium units.  However, these requirements only apply to projects for which construction commenced from 1978.  Condominiums constructed before 1978 are unable to benefit from those laws.  The legislature finds that modern technology permits the individual metering of utilities in many instances for a reasonable cost regardless of the age or construction design of the condominium project.
+     The purpose of this Act is to permit a condominium board of directors to authorize the installation of utility meters to determine utility use by individual units, provided that the condominium association bears the cost of installing the utility meters.
+     SECTION 2.  Section 514A-15.5, Hawaii Revised Statutes, is amended to read as follows:
+     "§514A-15.5  Metering of utilities.  (a)  Notwithstanding the provisions of section 514A-15, commercial apartments in mixed-use projects containing apartments for both residential and commercial use, the construction of which commences after December 31, 1977, shall have a separate meter, or calculations shall be made, or both, to determine the use by the commercial apartments of utilities, including electricity, water, gas, fuel, oil, sewerage, and drainage and the cost of [such] the utilities shall be paid by the owners of [such] the commercial units; provided that the apportionment of [such] the charges among owners of commercial apartments shall be done in a fair and equitable manner as set forth in the declaration or bylaws.
+     Notwithstanding any provision to the contrary in this chapter or in a project's declaration or bylaws of an association of apartment owners, the board of directors may authorize the installation of separate meters to determine the use by each of the residential and commercial apartments of utilities, including electricity, water, gas, fuel, oil, sewerage, and drainage; provided that the cost of installing the meters shall be paid by the association.
+     (b)  [Subject to] Notwithstanding any approval requirements and spending limits contained in the declaration or bylaws of an association of apartment owners, the board of directors may authorize the installation of meters to determine the use by the residential and commercial apartments of utilities, including electricity, water, gas, fuel, oil, sewerage, and drainage[.]; provided that the cost of installing the meters shall be paid by the association.  The cost of metered utilities shall be paid by the owners of [such] the apartments based on actual consumption and may be collected in the same manner as common expense assessments.  Owners' maintenance fees shall be adjusted as necessary to avoid any duplication of charges to these owners for the cost of metered utilities."
+     SECTION 3.  Section 514B-42, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§514B-42[]]  Metering of utilities.  (a)  Units in a project that includes units designated for both residential and nonresidential use shall have separate meters, or calculations shall be made, or both, as may be practicable, to determine the use by the nonresidential units of utilities, including electricity, water, gas, fuel, oil, sewerage, air conditioning, chiller water, and drainage, and the cost of [such] the utilities shall be paid by the owners of the nonresidential units; provided that the apportionment of the charges among owners of nonresidential units shall be done in a fair and equitable manner as set forth in the declaration or bylaws.  The requirements of this subsection shall not apply to projects for which construction commenced before January 1, 1978.
+     Notwithstanding any provision to the contrary in this chapter or in a project's declaration or bylaws the board may authorize the installation of separate meters to determine the use by each of the residential and commercial units of utilities, including electricity, water, gas, fuel, oil, sewerage, and drainage; provided that the cost of installing the meters shall be paid by the association.
+     (b)  [Subject to] Notwithstanding any approval requirements and spending limits contained in a project's declaration or bylaws, a board may authorize the installation of meters to determine the use by the individual units of utilities, including electricity, water, gas, fuel, oil, sewerage, air conditioning, chiller water, and drainage[.]; provided that the cost of installing the meters shall be paid by the association.  The cost of metered utilities shall be paid by the owners of the units based on actual consumption and, to the extent not billed directly to the unit owner by the utility provider, may be collected in the same manner as common expense assessments.  Owners' maintenance fees shall be adjusted as necessary to avoid any duplication of charges to owners for the cost of metered utilities."
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Condominiums; Metering of Utilities
+ 
+Description:
+Allows a condominium board to authorize the installation of separate utility meters, notwithstanding the provisions of a project's declaration or association's bylaws, provided that the association pays the cost of installing the meters.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

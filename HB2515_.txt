@@ -1,0 +1,75 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2515
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CRIME.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  In June 2011, the Governor, Chief Justice, Senate President, House Speaker and Department of Public Safety Director joined together to begin developing a data-driven justice reinvestment strategy to bring out-of-state prisoners back to Hawaii, reduce spending on corrections, and reinvest savings generated in strategies that would reduce recidivism and crime, and increase public safety.  To this end, they sought assistance from the Bureau of Justice Assistance, a division of the U.S. Department of Justice, and the Pew Center on the States.  The state leaders established a bipartisan, inter-branch Justice Reinvestment Working Group comprising leading state and local officials to receive intensive technical assistance from the Council of State Governments (CSG) Justice Center.  The CSG Justice Center assisted the working group in analyzing data from every aspect of Hawaii's criminal justice and corrections systems.
+     Overall, the analysis found that crime and victimization rates have declined, as have arrests and felony convictions for violent and property crime.
+     While crime rates have declined, the population under probation supervision and incarcerated has not declined, and in some cases has increased.  From FY 2000 to FY 2011, the state's prison and jail population grew 18 percent, from 5,118 to 6,043. During the same period, expenditures for the Corrections Division of the Department of Public Safety increased 70 percent, from $112 million in FY 2000 to $190 million in FY 2011.  Approximately one-third of Hawaii's prison population is housed in out-of-state facilities on the mainland.  The cost of housing these offenders out-of-state was $45 million in FY 2011.
+     Analysis of the data from Hawaii's criminal justice and corrections systems identified three areas for improvement: sentencing of felony drug offenders, terms of probation, and felony theft.
+     Under Section 706-622.5, Hawaii Revised Statutes, the court may impose a probation sentence for a felony drug possession offense if it is the offender's first felony conviction for a drug possession offense.  If an offender faces his or her second felony conviction for drug possession and is subject to the repeat offender statute, the court must impose a prison sentence.  The purpose of this part of the bill is to amend section 706-622.5 to allow, but not require, the court to impose a probation sentence upon a second conviction.
+     Probation terms for Class B and C felons in Hawaii average five years compared with the national average of three years.  The risk of recidivism is most likely during the first and second year of probation.  Therefore, the public safety benefit of supervising offenders for the third, fourth, and fifth year is much less significant.  Besides offering little benefit, supervising offenders for such long periods requires resources that otherwise could be spent supervising offenders who pose a higher risk or have recently been placed on probation much more closely.  Section 706-623, Hawaii Revised Statutes, is amended to modify the probation terms for Class B and C offenders to no more than three years.  Language is added to the section to create an incentive time credit for persons on probation to comply with the conditions of supervision.  The new language permits the court to reduce the probation term upon the recommendation of the probation officer based on specific criteria set forth in the new language.
+     The threshold for what constitutes a Class C felony theft offense is currently $300 and has not been adjusted since 1986.  Felony theft thresholds in states across the country vary, but the average is more than $700.  The purpose of this part of the bill is to amend section 708-831, Hawaii Revised Statutes, to adjust the felony theft threshold from $300 to $750 to adjust for inflation and bring Hawaii more in line with other state statutes.
+     SECTION 2.  Section 706-622.5, Hawaii Revised Statutes, is amended by amending the title to read as follows:
+     "§706-622.5  Sentencing for [first-time] drug offenders; expungement."
+     SECTION 3.  Section 706-622.5. Hawaii Revised Statutes, is amended by amending subsection (1) to read as follows:
+     "(1)  Notwithstanding section 706-620(3), a person convicted for the first or second time for any offense under section 329-43.5 involving the possession or use of drug paraphernalia or any felony offense under part IV of chapter 712 involving the possession or use of any dangerous drug, detrimental drug, harmful drug, intoxicating compound, marijuana, or marijuana concentrate, as defined in section 712-1240, but not including any offense under part IV of chapter 712 involving the distribution or manufacture of any such drugs or substances and not including any methamphetamine trafficking offenses under sections 712-1240.7 and 712-1240.8, is eligible to be sentenced to probation under subsection (2) if the person meets the following criteria:
+(a)    (a)   The court has determined that the person is nonviolent after reviewing the person's criminal history, the factual circumstances of the offense for which the person is being sentenced, and any other relevant information;
+(b)    (b)   The person has been assessed by a certified substance abuse counselor to be in need of substance abuse treatment due to dependency or abuse under the applicable Diagnostic and Statistical Manual and Addiction Severity Index; and
+(c)    (c)   Except for those persons directed to substance abuse treatment under the supervision of the drug court, the person presents a proposal to receive substance abuse treatment in accordance with the treatment plan prepared by a certified substance abuse counselor through a substance abuse treatment program that includes an identified source of payment for the treatment program."
+     SECTION 4.  Section 706-622.5, Hawaii Revised Statutes, is amended by amending subsection (4) to read as follows:
+     "(4)  The court, upon written application from a person sentenced under this part, shall issue a court order to expunge the record of conviction for that particular offense; provided that a person has successfully completed the substance abuse treatment program and complied with other terms and conditions of probation.  A person sentenced to probation under this section who has not previously been sentenced under this statute shall be eligible for one time only for expungement under this subsection."
+     SECTION 5.  Section 706-623, Hawaii Revised Statutes, is amended to read as follows:
+     "(1)  When the court has sentenced a defendant to be placed on probation, the period of probation shall be as follows, unless the court enters the reason therefor on the record and sentences the defendant to a shorter period of probation:
+(a)    (a)   Ten years upon conviction of a class A felony;
+(b)    (b)   Five years upon conviction of a class B or class C felony[;] under parts V or VI of chapter 707, and three years upon conviction of any other class B or C felony;
+(c)    (c)   One year upon conviction of a misdemeanor; except that upon a conviction under section 586-4, 586-11, or 709-906, the court may sentence the defendant to a period of probation not exceeding two years; or
+(d)    (d)   Six months upon conviction of a petty misdemeanor; provided that up to one year may be imposed upon a finding of good cause.
+     The court, on application of a probation officer, on application of the defendant, or on its own motion, may discharge the defendant at any time.  Prior to granting early discharge, the court shall afford the prosecuting attorney an opportunity to be heard.  The terms of probation provided in this part, other than in this section, shall not apply to sentences of probation imposed under section 706-606.3.
+     (2)  When a defendant who is sentenced to probation has previously been detained in any state or county correctional or other institution following arrest for the crime for which sentence is imposed, the period of detention following arrest shall be deducted from the term of imprisonment if the term is given as a condition of probation.  The pre-sentence report shall contain a certificate showing the length of such detention of the defendant prior to sentence in any state or county correctional or other institution, and the certificate shall be annexed to the official records of the defendant's sentence.
+     (3)  The court may adjust the period of a probationer's supervised probation on the recommendation of an adult probation officer for incentive time credit.  Incentive time credit equals an additional twenty days earned for every thirty days that a probationer does all of the following:
+    (a)   Exhibits positive progression toward the goals and treatment of the probationer's case plan;
+    (b)   Is current on payments for court ordered restitution and other financial obligations; and,
+    (c)   Is current in completing community service.
+Any incentive time credit awarded pursuant to this section shall be revoked if a probationer is found in violation of a condition of probation.  This section has no effect on the ability of the court to terminate the period of probation pursuant to section (1) at a time earlier than originally imposed."
+     SECTION 6.  Section 708-831, Hawaii Revised Statutes, is amended by amending section (1) to read as follows:
+     "(1)  A person commits the offense of theft in the second degree if the person commits theft:
+    (a)   Of property from the person of another;
+    (b)   Of property or services the value of which exceeds [$300] $750;
+    (c)   Of an agricultural product or part thereof from premises that is fenced or enclosed in a manner designed to exclude intruders or there is prominently displayed on the premises a sign or signs sufficient to give notice and reading as follows:  "Private Property"; or
+    (d)   Of agricultural equipment, supplies, or products, or part thereof, the value of which exceeds $100 but does not exceed $20,000, or of agricultural products that exceed twenty-five pounds, from premises that are fenced, enclosed, or secured in a manner designed to exclude intruders or there is prominently displayed on the premises a sign or signs sufficient to give notice and reading as follows:  "Private Property".  The sign or signs, containing letters not less than two inches in height, shall be placed along the boundary line of the land in a manner and in such position as to be clearly noticeable from outside the boundary line.  Possession of agricultural products without ownership and movement certificates, when a certificate is required pursuant to chapter 145, is prima facie evidence that the products are or have been stolen."
+     SECTION 7.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 8.  This Act shall take effect for those committing offenses on or after July 1, 2012 except for the following section.  Section 5 shall take effect for those committing offenses on or after January 1, 2013.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Relating to Crime.
+ 
+Description:
+To promulgate law effecting implementation of criminal justice system policies and practices that would address inefficiencies in processing pretrial defendants, improve the targeting and allocation of resources aimed at reducing recidivism, and strengthening accountability by offenders.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

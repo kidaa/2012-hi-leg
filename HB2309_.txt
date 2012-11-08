@@ -1,0 +1,46 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2309
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PERSONAL INFORMATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 487R, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§487R-    Unlawful use of certificate of identification or driver's license.  (a)  No person shall scan the machine-readable zone of an individual's certificate of identification or driver's license to use or retain any information contained therein, except for the following purposes:
+     (1)  To verify the age of the individual who possesses the certificate of identification or driver's license;
+     (2)  To verify the authenticity of the certificate of identification or driver's license;
+     (3)  To record, retain, or transmit information as required by law;
+     (4)  To transmit information to a check service company for the purpose of approving negotiable instruments, electronic funds transfers, or similar methods of payments; provided that only the name and identification number from the certificate of identification or driver's license may be used or retained by the check service company; or
+     (5)  To collect or disclose personal information that is required to report, investigate, or prevent fraud, abuse, or material misrepresentation.
+     (b)  Any person who violates this section shall be guilty of a misdemeanor, punishable by a fine of no more than $2,000, or imprisonment of no more than one year, or both; provided that each violation of this section shall constitute a separate offense.
+     (c)  As used in this section, "certificate of identification" means the certificate of identification described under part II of chapter 846."
+     SECTION 2.  New statutory material is underscored.
+     SECTION 3.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+
+ 
+Report Title:
+Personal Information; Unlawful Use of Certificate of Identification or Driver's License
+ 
+Description:
+Allows the scanning and retention of personal information contained in a state identification card or driver's license for only limited purposes.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,81 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2138
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+RELATING TO MEDICAID.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that waste, fraud, and abuse cost state medicaid programs an estimated $18 billion per year nationwide.  In most states, the common practice is to pay claims and thereafter attempt to recover payments for claims that are later found to be illegitimate.  This "pay and chase" model is extremely inefficient because it is more difficult to recover payments than it is to deny illegitimate claims before payments are made.  One way to combat this problem is to implement modern screening and prevention solutions to detect fraud and abuse before illegitimate claims are paid.
+     The legislature also finds that implementing measures to detect and prevent waste, fraud, and abuse in the State's medicaid and children's health insurance programs will improve the department of human services' ability to effectively administer the programs and reduce costs.  The measures will also comply with program integrity provisions of the federal Patient Protection and Affordable Care Act and the Health Care and Education Reconciliation Act of 2010, promulgated in the Centers for Medicare and Medicaid Services Final Rule 6028.
+     The purpose of this Act is to require the department of human services to use modern claim screening solutions to detect fraud and abuse before payments of illegitimate claims are made under the medicaid managed care, medicaid, and children's health insurance programs.
+     SECTION 2.  Chapter 346, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows:
+"PART   .  INSURANCE MONITORING AND ACCOUNTABILITY
+     §346-     Definitions.  Unless the context otherwise requires, the following definitions apply in this part:
+     "Children's health insurance program" means the children's health insurance program established under Title XXI of the Social Security Act, 42 United States Code section 1397aa et seq.
+     "Department" means the department of human services.
+     "Enrollee" means an individual who is eligible to receive benefits and is enrolled in either the medicaid or children's health insurance program.
+     "Medicaid" means the program to provide grants to states for medical assistance programs established under Title XIX of the Social Security Act, 42 United States Code section 1396 et seq.
+     "Secretary" means the United States Secretary of Health and Human Services, acting through the Administrator of the Centers for Medicare and Medicaid Services.
+     §346-     Applicability of part.  This part shall apply to the medicaid managed care, medicaid, and children's health insurance programs administered by the department of human services.
+     §346-     Duties of the department.  The department shall implement:
+     (1)  Provider data verification and provider screening technology solutions to check health care billing and provider data against a continually maintained provider information database, in order to automate reviews and identify and prevent inappropriate payments to providers with expired licenses, providers that are deceased, sanctioned, or retired, or confirmed wrong addresses;
+     (2)  State-of-the-art clinical code editing technology to further automate claims resolution and increase cost savings by improving claim accuracy and appropriate code correction.  The technology shall identify and prevent errors or potential overbilling based upon widely accepted and transparent protocols such as those of the American Medical Association and the Centers for Medicare and Medicaid Services.  The editing shall be performed automatically before claims are adjudicated.  The editing shall increase the rate of processing claims, reduce the number of pending or rejected claims, and help ensure a more consistent and transparent adjudication process and fewer delays in provider reimbursement;
+     (3)  State-of-the-art predictive modeling and analytics technologies to provide a comprehensive and accurate view of providers, beneficiaries, and geographies within the medicaid and children's health insurance programs in order to:
+          (A)  Identify and analyze billing or utilization patterns that represent a high risk of fraudulent activity;
+          (B)  Be integrated into existing medicaid and children's health insurance programs claims workflow;
+          (C)  Undertake and automate the analysis before payment is made to minimize disruptions to workflow and speed claim resolution;
+          (D)  Prioritize identified transactions for additional review before payment is made based on likelihood of potential waste, fraud, or abuse;
+          (E)  Capture outcome information from adjudicated claims that will allow the predictive analytics technologies based on historical data and algorithms to be refined; and
+          (F)  Prevent the payment of reimbursement claims that are identified as potentially wasteful, fraudulent, or abusive until the claims have been automatically verified as valid;
+     (4)  Fraud investigative services that combine retrospective claims analysis and prospective waste, fraud, or abuse detection techniques.  The services shall:
+         (A)  Include analysis of historical claims data, medical records, suspect provider databases, high-risk identification lists, and direct patient and provider interviews; and
+         (B)  Emphasize educating providers and ensuring that providers have the opportunity to review and correct any identified problems prior to adjudication; and
+     (5)  Medicaid and children's health insurance programs claims audit and recovery services to identify improper payments resulting from nonfraudulent issues, audit claims, obtain provider sign-off on audit results, and recover validated overpayments.  Post-payment reviews shall ensure the accuracy and validity of the diagnoses and procedure codes based on supporting physician documentation in medical records.  Basic categories of reviews may include transfers, readmissions, payment errors, and billing errors, as well as any others deemed appropriate by the department."
+     SECTION 3.  The department of human services may contract with the Cooperative Purchasing Network to issue a request for proposal to select a contractor or the department may use the procurement process prescribed by chapter 103D, Hawaii Revised Statutes, to select a contractor for the first year of implementation of this Act.  The department shall enter into a contract with an entity under this Act only if the entity:
+     (1)  Is able to show appropriate technical, analytica1, and clinical knowledge and experience to carry out the functions required by this Act; or has a contract or will enter into a contract with another entity that meets the criteria in this paragraph; and
+     (2)  Complies with the ethical procurement requirements of section 103D-101, Hawaii Revised Statutes.
+The department may include subsequent implementation years and may issue additional requests for proposals for subsequent implementation years.
+     SECTION 4.  The department of human services shall provide entities with a contract under this Act with appropriate access to data necessary for each entity to carry out its duties under the contract, including current and historical medicaid and children's health insurance programs claims and provider database information, and facilitate public-private data sharing, including across multiple medicaid managed care entities.
+     SECTION 5.  Not later than three months after the completion of the first implementation year and after any subsequent implementation year, the department of human services shall submit to the legislature and make available to the public a report that includes the following:
+     (1)  A description of the implementation and use of technologies pursuant to this Act during each implementation year;
+     (2)  A certification by the department that specifies the actual and projected savings to the medicaid and children's health insurance programs that resulted from the technologies implemented, including estimates of the cost savings regarding improper payments recovered and avoided;
+     (3)  The actual and projected savings to the medicaid and children's health insurance programs that result from the technologies relative to the return on investment for the technologies and in comparison to other strategies or technologies used to prevent and detect waste, fraud, and abuse;
+     (4)  Any modifications needed to increase the amount of actual or projected savings or mitigate any adverse impact on medicare beneficiaries or providers;
+     (5)  An analysis of the successful prevention and detection of waste, fraud, or abuse in the medicaid and children's health insurance programs based upon the use of the technologies;
+     (6)  An analysis of whether the technologies affected access to, or the quality of, services or items provided to medicaid and children's health insurance programs beneficiaries;
+     (7)  An analysis of the effect, if any, using the technologies had on medicaid and children's health insurance programs providers, including provider education efforts and documentation of processes for providers to review and correct identified problems; and
+     (8)  Any additional information deemed necessary by the department.
+     SECTION 6.  The legislature intends that the savings achieved by this Act will fund the cost of implementing it.  To the extent possible, technology services employed to carry out this Act shall be obtained using a shared savings model, so that the State's only direct cost will be a percentage of actual savings achieved.  A percentage of achieved savings may be used to fund expenditures under this Act.
+     SECTION 7.  The department of human services shall submit a report to the legislature no later than twenty days prior to the convening of the regular session of 2013 on its progress in implementing this Act.
+     SECTION 8.  If any provision of this Act, or the application thereof to any person or circumstance, is held invalid, the invalidity does not affect other provisions or applications of the Act that can be given effect without the invalid provision or application, and to this end the provisions of this Act are severable.
+SECTION 9.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Medicaid; Children's Health Insurance Program; Fraud Prevention and Detection
+ 
+Description:
+Requires the DHS to implement state-of-the-art technologies in its medicaid and children's health insurance programs to increase the department's ability to detect and prevent waste, fraud, and abuse in the programs.  Report to 2013 legislature.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,101 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2274
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO LONG-TERM CARE FACILITIES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Long-term care facilities in the State face major financial challenges in providing quality health care for Hawaii residents.  These challenges are largely the result of payments to medicaid enrollees for care that do not cover the actual costs of care.  The legislature finds that federal funding to help sustain Hawaii's long-term care facilities financially may be accessed through a provider fee.
+     Provider fees exist in forty-six states and the District of Columbia as a means of drawing down federal funds to sustain their medicaid programs due to rising state budget deficits, increasing health care costs, and expanding medicaid rolls.  Implementation of a provider fee in Hawaii would help stabilize declining medicaid payments to facilities and slow the erosion of access to care for beneficiaries served by the program.
+     Medicaid is jointly financed by the federal and state government, but by statutory formula, the federal government pays between fifty per cent and seventy-six per cent of medicaid costs incurred by states for care delivered to their medicaid beneficiaries.  Federal assistance percentages vary by state, with states that have lower per capita incomes receiving higher federal matching rates.  Under federal rules, the state share must be public funds that are not federal funds.
+Provider fees, which are collected from specific categories of health care providers that agree to the fee, may be imposed on nineteen different classes of health care services, including inpatient and outpatient hospital and nursing facility services.  However, there are limitations on the way provider fees are structured.  The Medicaid Voluntary Contribution and Provider-Specific Tax Amendments of 1991 (P.L. 102-234), passed by Congress in 1991, imposes the following requirements:
+(1)  Broad-based.  To be considered broad-based, a provider fee must be imposed on all health care items or services furnished by all non-federal, non-public providers in the class in the State.  Provider fee programs may exclude public facilities without violating federal law;
+(2)  Uniformly imposed.  In general, a provider fee is uniformly imposed if it is the same amount or rate for each provider in the class; and
+(3)  Hold harmless prohibition.  States may not hold providers harmless.  A provider fee is considered to hold the provider harmless if the providers paying the fee receive, directly or indirectly, a non-medicaid payment from the state or any offset or waiver that guarantees to hold the provider harmless for all or a portion of the fee.  A provider fee is also considered to hold the provider harmless if the medicaid payments to the provider vary based only on the amount of the fees paid by the provider.
+The maximum provider fee a state may receive is currently six per cent of net patient revenue.  A number of proposals have been made, but not implemented, to eliminate medicaid provider fee programs in order to reduce the federal deficit.  However, since provider fees are used by so many states, many of those who are knowledgeable about this subject view elimination of provider fees as unlikely due to strong political support for the fees.  A more realistic expectation is a reduction of the provider fee maximum, as proposed by President Barack Obama’s fiscal year 2012 budget, which would reduce the maximum to three and one-half per cent in 2017.  This proposal recognizes that provider fees are essential for most states to maintain a stable, functioning medicaid program.
+In Hawaii, a provider fee would increase medicaid payments at a time when constraints on the State's budget have forced a reduction in payments and benefits.  The additional federal funds obtained via the fee program would reduce the amount of losses incurred by nursing facilities.  As such, the provider fee would help preserve access to health care for the medicaid population and sustain the State's entire health care system.
+The purpose of this Act is to ensure access to health care for medicaid recipients by establishing a nursing facility sustainability fee and a special fund to receive moneys from the nursing facility sustainability fee in order to receive federal medicaid matching funds under the QUEST expanded medicaid section 1115 demonstration waiver.
+     SECTION 2.  The Hawaii Revised Statutes is amended by adding a new chapter to be appropriately designated and to read as follows:
+"CHAPTER    
+NURSING FACILITY SUSTAINABILITY PROGRAM
+     §   -1  Title.  This chapter shall be known and may be cited as the "Nursing Facility Sustainability Program Act".
+     §   -2  Findings and declaration of necessity.  It is the intent of the legislature to encourage the maximum drawdown of federal medicaid funds by establishing a special fund within the state treasury to receive revenue from the nursing facility sustainability fee and to use it to receive federal medicaid matching funds under the section 1115 waiver.
+     §   -3  Definitions.  As used in this chapter:
+     "Department" means the department of human services.
+     "Medicare resident days" means those resident days funded by the medicare program, a medicare advantage or special needs plan, a medicare cost plan, or the medicare hospice program.
+"Net patient service revenue" means gross inpatient revenues from services provided to nursing facility patients less reductions from gross inpatient revenue resulting from an inability to collect payment of charges.  Inpatient service revenue excludes non-patient care revenues, such as revenues from beauty and barber services, vending income, interest and contributions, revenues from sale of meals, and all outpatient revenues.  Reductions from gross revenue include bad debt; contractual adjustments; uncompensated care; administrative, courtesy, and policy discounts and adjustments; and other such revenue deductions.
+"Nursing facility" means any facility licensed pursuant to chapter 11-94.1, Hawaii administrative rules.
+"Resident day" means a calendar day of care provided to a nursing facility resident, including the day of admission and excluding the day of discharge; provided that one resident day shall be deemed to exist when admission and discharge occur on the same day.  A resident day includes a day on which a bed is held for a patient and for which the facility receives compensation for holding the bed.
+§   -4  Nursing facility sustainability program special fund.  (a)  There is created in the state treasury the nursing facility sustainability program special fund to be administered by the department into which shall be deposited all moneys collected under this chapter.
+(b)  Moneys in the special fund shall consist of:
+(1)  All revenues collected or received by the department from the nursing facility sustainability fee required by this chapter;
+(2)  All federal matching funds received by the department as a result of expenditures made by the department that are attributable to moneys deposited into the special fund;
+(3)  Any interest or penalties levied in conjunction with the administration of this chapter; and
+(4)  Any appropriations, federal funds, donations, gifts, or moneys from any other sources.
+(c)  Revenue from the nursing facility sustainability fee shall be used exclusively as follows:
+(1)  No less than ninety-five per cent of the revenue from the nursing facility sustainability fee shall be used to match federal medicaid funds, with the combined total to be used to enhance capitated rates to the QUEST and QUEST expanded access plans for the purpose of increasing medicaid nursing facility payments to the maximum permitted by federal law; and
+(2)  An amount not to exceed five per cent of the revenue from the nursing facility sustainability fee shall be used to pay administrative expenses.
+§   -5  Nursing facility sustainability fee.  (a)  Effective July 1, 2012, the department shall charge and collect a provider fee on health care items or services provided by nursing facilities.
+(b)  The nursing facility sustainability fee shall be based on the net patient service revenue of all nursing facilities that are subject to the sustainability fee.
+(c)  The nursing facility sustainability fee shall not exceed three per cent of net patient service revenue and shall be calculated and paid on a per resident day basis exclusive of medicare part A resident days.  The per resident day fee shall be the same amount for each affected facility, except as prescribed in subsection (d)(2).
+(d)  In accordance with the redistribution method set forth in title 42 Code of Federal Regulations section 433.68(e)(1) and (2), the department shall seek a waiver of the broad-based and uniform provider fee requirements under federal law to exclude certain nursing facilities from the sustainability fee and to permit certain high volume medicaid nursing facilities or facilities with a high number of total annual patient days to pay the sustainability fee at a lesser amount per non-medicare resident day, as follows:
+(1)  The department shall exempt the following nursing facility providers from the nursing facility sustainability fee subject to federal approval under title 42 Code of Federal Regulations section 433.68(e)(2):
+(A)  Nursing facilities with forty-six or fewer beds; and
+(B)  Nursing facilities owned or operated by the federal government; and
+(2)  The department shall reduce the fee for high volume medicaid nursing facilities and facilities with high patient volumes that meet the redistributive tests of title 42 Code of Federal Regulations section 433.68(e)(2).
+§   -6  Nursing facility sustainability fee assessment.  (a)  Nursing facilities shall pay the nursing facility sustainability fee to the nursing facility sustainability program special fund in accordance with this chapter.
+(b)  The department shall determine, in conjunction with the Healthcare Association of Hawaii and the Hawaii Long-Term Care Association, the fee rate prospectively for the applicable fiscal year on a per-resident-day basis, exclusive of medicare resident days.
+(c)  The department shall collect, and each nursing facility shall pay, the nursing facility sustainability fee on a calendar quarter basis, subject to the terms of this section.  The fee shall be due quarterly with the initial payment due within forty-five days after the state plan has been approved by the Centers for Medicare and Medicaid Services.  Subsequent quarterly payments are due no later than forty-five days after the end of the calendar quarter.
+§   -7  Federal approval.  The department shall seek a broad-based and uniformity waiver and other approvals from the Centers for Medicare and Medicaid Services that may be necessary to implement the nursing facility sustainability program.
+§   -8  Multifacility locations.  If an entity conducts, operates, or maintains more than one nursing facility, the entity shall pay the nursing facility sustainability fee for each nursing facility separately.
+§   -9  Penalties for failure to pay nursing facility sustainability fee.  (a)  If a nursing facility fails to pay the full amount of the nursing facility sustainability fee when due, there shall be added to the fee, unless waived by the department for reasonable cause, a penalty equal to five per cent of the fee that was not paid when due.  Any subsequent payments shall be credited first to unpaid fee amounts rather than to penalty or interest amounts, beginning with the most delinquent installment.
+(b)  In addition to the penalty identified in this section, the department may seek any of the following remedies for failure of any nursing facility to pay its fee when due:
+(1)  Withholding any medical assistance reimbursement payments until such time as the fee amount is paid in full;
+(2)  Suspension or revocation of the nursing facility license; or
+(3)  Development of a plan that requires the nursing facility to pay any delinquent fee in installments.
+§   -10  Enhanced rates to QUEST and QUEST expanded access plans.  (a)  In accordance with title 42 Code of Federal Regulations section 438, the department shall use revenues from the nursing facility sustainability fee and federal matching funds to enhance the capitated rates paid to the QUEST and QUEST expanded access plans for the subject fiscal year consistent with the following objectives:
+(1)    The rate enhancement shall be used exclusively for increasing nursing facility reimbursements to support the availability of services and to ensure access to care to QUEST and QUEST expanded access enrollees;
+(2)    The rate enhancement shall be made part of the monthly capitated rates by the department to the QUEST and QUEST expanded access plans, which shall provide documentation to the department certifying that the revenues received under paragraph (1) are used in accordance with this section;
+(3)    The QUEST and QUEST expanded access plans shall use the rate enhancement to reimburse nursing facilities based on the inpatient use of their QUEST and QUEST expanded access enrollees, as follows:
+(A)  First, to cover the QUEST and QUEST expanded access share of the nursing facility sustainability fee paid by the facilities; and
+(B)  Second, to cover the inpatient use of their QUEST and QUEST expanded access enrollees; and
+(4)    The rate enhancement shall be actuarially sound and approved by the federal government for federal fund participation.
+§   -11  Termination.  (a)  Collection of the nursing facility sustainability fee under section   -5 of this chapter shall be discontinued if:
+(1)  The nursing facility sustainability program or the waiver in section   -5 of this chapter is not approved by the Centers for Medicare and Medicaid Services;
+(2)  The department reduces funding for nursing facility services below the state appropriation in effect on June 30, 2012;
+(3)  The department or any other state agency uses the money in the special fund for any use other than the uses permitted pursuant to this chapter; or
+(4)  Federal financial participation to match the nursing facility sustainability fee becomes unavailable under federal law.  In such case, the department shall terminate the collection of the fee beginning on the effective date of the federal statutory, regulatory, or interpretive change.
+(b)  If collection of the nursing facility sustainability fee is discontinued as provided in this section, all money in the special fund shall be returned to the nursing facilities from which the fee was collected on the same basis as the fee was assessed.
+§   -12  Severability.  If any provision of this chapter or the application thereof to any person or circumstances is held invalid, the invalidity shall not affect other provisions or applications of the chapter which can be given effect without the invalid provision or application, and to this end the provisions of this chapter are severable."
+     SECTION 3.  This Act shall take effect on July 1, 2012, and shall be repealed on June 30, 2013.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Long-Term Care Facilities; Nursing Sustainability Fee; Nursing Facility Sustainability Program Special Fund
+ 
+Description:
+Establishes the Nursing Facility Sustainability Program Special fund into which nursing facility sustainability fees shall be deposited.  Requires the department of human services to charge and collect a provider fee on health care items or services provided by nursing facilities.  Effective July 1, 2012, and repealed on June 30, 2013.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

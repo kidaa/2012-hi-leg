@@ -1,0 +1,115 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+481
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO GAS PIPELINE SYSTEMS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  On September 9, 2010, a gas pipeline ruptured in San Bruno, California, which caused an explosion and fire that killed eight people and destroyed thirty-seven homes.  This tragic loss of life and damage to property shines a light on the need to ensure that Hawaii does all it can to ensure the safety of its gas pipelines and its people.
+     The legislature finds that Hawaii is one of only two states without state oversight of natural gas pipeline safety.  As a result, the federal Office of Pipeline Safety, under the U.S. Department of Transportation, is the only agency responsible for conducting safety checks of all gas pipelines in the State.  However, congressional hearings revealed that there are only about 100 federal inspectors to check all of the nation's gas pipelines.  This leaves the State in a compromised position because it does not conduct its own inspections in addition to those conducted by the federal government.
+     The purpose of this bill is to give the public utilities commission oversight authority for the State's gas pipelines.
+     SECTION 2.  Chapter 269, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows:
+"PART   .  GAS PIPELINE SYSTEMS
+     §269-A  Definitions.  As used in this part, unless the context otherwise requires:
+     "Commission" means the public utilities commission.
+     "Gas" means manufactured gas, hydrocarbon gas, mixture of manufactured and hydrocarbon gas, flammable gas, or gas that is toxic or corrosive or both.
+     "Master meter system" means a pipeline system, not owned or operated by a public utility, for distributing gas within a definable area, including but not limited to a mobile home park, a housing project, and an apartment complex, where the operator of the system purchases gas from an outside source for resale through the pipeline system to an ultimate consumer or ultimate consumers at a metered or flat rate or at a price determined in any other manner.
+     "Pipeline" or "pipeline system" means all parts of those physical facilities through which gas moves in transmission, including pipes, valves and other appurtenances attached to pipes, compressor units, metering stations, regulator stations, delivery stations, holders, and fabricated assemblies.
+     "Operator" means a person who engages in the transmission of gas.
+     §269-B  Master meter system; operators; compliance.  (a)  The commission, by rule, shall establish safety standards consistent with the regulations adopted by the United States Office of Pipeline Safety for pipelines and master meter systems.  Standards may be established for, among other things:  the design, installation, construction, inspection, testing, extension, operation, replacement, and maintenance of pipeline facilities; emergency plans and procedures; and reporting requirements.  The standards affecting the design, installation, construction, initial inspection, and initial testing of pipeline facilities shall not apply to those master meter systems in existence on the date the standards are adopted.
+     (b)  All operators of master meter systems shall comply with the commission's rules adopted pursuant to subsection (a).  Any person violating the rules shall be subject to the penalties provided in section 269-28.
+     §269-C  Inspection.  Officers, employees, or agents authorized by the commission, upon presenting appropriate credentials, may enter upon, inspect, and examine at reasonable times or in times of an emergency the records and properties of any operator to determine compliance by the operator with the commission's rules governing pipelines and master meter systems.
+     §269-D  Enforcement.  In addition to the penalties that may be imposed under section 269-28, the commission, if in its judgment there is a hazardous condition in a pipeline or master meter system and a likelihood of serious harm to life or property, may request the attorney general to bring an action in an appropriate court for necessary or appropriate relief, including mandatory or prohibitory injunctive relief."
+     SECTION 3.  There is appropriated out of the general revenues of the State of Hawaii the sum of $        or so much thereof as may be necessary for fiscal year 2011-2012 and the same sum or so much thereof as may be necessary for fiscal year 2012-2013 to carry out the purposes of this Act, including the hiring of necessary staff.
+     The sums appropriated shall be expended by the public utilities commission for the purposes of this Act.
+     SECTION 4.  In codifying the new sections added by section 2 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 5.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Public Utilities Commission; Gas Pipeline Inspections
+ 
+Description:
+Authorizes the public utilities commission to establish, inspect, and enforce safety standards consistent with federal safety standards for gas pipelines.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+, li.ExtraSig, div.ExtraSig {mso-style-name:"Extra Sig"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:243.0pt; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.ResolutionBody, li.ResolutionBody, div.ResolutionBody {mso-style-name:"Resolution Body"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} span.BillSectionNumber {mso-style-name:"Bill Section Number"; font-family:Courier;} p.XNotesHeading, li.XNotesHeading, div.XNotesHeading {mso-style-name:XNotesHeading; margin:0in; margin-bottom:.0001pt; text-align:center; font-size:12.0pt; font-family:"Courier New"; font-weight:bold;} p.XNotes, li.XNotes, div.XNotes {mso-style-name:XNotes; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Amend, li.Amend, div.Amend {mso-style-name:Amend; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.regularparagraphs0, li.regularparagraphs0, div.regularparagraphs0 {mso-style-name:regularparagraphs; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Effective, li.Effective, div.Effective {mso-style-name:Effective; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.BalloonTextChar {mso-style-name:"Balloon Text Char"; mso-style-link:"Balloon Text"; font-family:"Tahoma","sans-serif";} p.Appropriation, li.Appropriation, div.Appropriation {mso-style-name:Appropriation; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Misc, li.Misc, div.Misc {mso-style-name:"Misc\."; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+481
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO GAS PIPELINE SYSTEMS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  On September 9, 2010, a gas pipeline ruptured in San Bruno, California, which caused an explosion and fire that killed eight people and destroyed thirty-seven homes.  This tragic loss of life and damage to property shines a light on the need to ensure that Hawaii does all it can to ensure the safety of its gas pipelines and its people.
+     The legislature finds that Hawaii is one of only two states without state oversight of natural gas pipeline safety.  As a result, the federal Office of Pipeline Safety, under the U.S. Department of Transportation, is the only agency responsible for conducting safety checks of all gas pipelines in the State.  However, congressional hearings revealed that there are only about 100 federal inspectors to check all of the nation's gas pipelines.  This leaves the State in a compromised position because it does not conduct its own inspections in addition to those conducted by the federal government.
+     The purpose of this bill is to give the public utilities commission oversight authority for the State's gas pipelines.
+     SECTION 2.  Chapter 269, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows:
+"PART   .  GAS PIPELINE SYSTEMS
+     §269-A  Definitions.  As used in this part, unless the context otherwise requires:
+     "Commission" means the public utilities commission.
+     "Gas" means manufactured gas, hydrocarbon gas, mixture of manufactured and hydrocarbon gas, flammable gas, or gas that is toxic or corrosive or both.
+     "Master meter system" means a pipeline system, not owned or operated by a public utility, for distributing gas within a definable area, including but not limited to a mobile home park, a housing project, and an apartment complex, where the operator of the system purchases gas from an outside source for resale through the pipeline system to an ultimate consumer or ultimate consumers at a metered or flat rate or at a price determined in any other manner.
+     "Pipeline" or "pipeline system" means all parts of those physical facilities through which gas moves in transmission, including pipes, valves and other appurtenances attached to pipes, compressor units, metering stations, regulator stations, delivery stations, holders, and fabricated assemblies.
+     "Operator" means a person who engages in the transmission of gas.
+     §269-B  Master meter system; operators; compliance.  (a)  The commission, by rule, shall establish safety standards consistent with the regulations adopted by the United States Office of Pipeline Safety for pipelines and master meter systems.  Standards may be established for, among other things:  the design, installation, construction, inspection, testing, extension, operation, replacement, and maintenance of pipeline facilities; emergency plans and procedures; and reporting requirements.  The standards affecting the design, installation, construction, initial inspection, and initial testing of pipeline facilities shall not apply to those master meter systems in existence on the date the standards are adopted.
+     (b)  All operators of master meter systems shall comply with the commission's rules adopted pursuant to subsection (a).  Any person violating the rules shall be subject to the penalties provided in section 269-28.
+     §269-C  Inspection.  Officers, employees, or agents authorized by the commission, upon presenting appropriate credentials, may enter upon, inspect, and examine at reasonable times or in times of an emergency the records and properties of any operator to determine compliance by the operator with the commission's rules governing pipelines and master meter systems.
+     §269-D  Enforcement.  In addition to the penalties that may be imposed under section 269-28, the commission, if in its judgment there is a hazardous condition in a pipeline or master meter system and a likelihood of serious harm to life or property, may request the attorney general to bring an action in an appropriate court for necessary or appropriate relief, including mandatory or prohibitory injunctive relief."
+     SECTION 3.  There is appropriated out of the general revenues of the State of Hawaii the sum of $        or so much thereof as may be necessary for fiscal year 2011-2012 and the same sum or so much thereof as may be necessary for fiscal year 2012-2013 to carry out the purposes of this Act, including the hiring of necessary staff.
+     The sums appropriated shall be expended by the public utilities commission for the purposes of this Act.
+     SECTION 4.  In codifying the new sections added by section 2 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 5.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Public Utilities Commission; Gas Pipeline Inspections
+ 
+Description:
+Authorizes the public utilities commission to establish, inspect, and enforce safety standards consistent with federal safety standards for gas pipelines.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

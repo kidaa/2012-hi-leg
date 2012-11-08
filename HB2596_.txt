@@ -1,0 +1,125 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2596
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO OPEN GOVERNMENT.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 92F, Hawaii Revised Statutes, is amended by adding to part IV a new section to be appropriately designated and to read as follows:
+     "§92F-     Agency appeal of a decision by the office of information practices.  An agency may not appeal a decision by the office of information practices made under this chapter or part I of chapter 92, except as provided in this section.  An agency may seek judicial review of a decision rendered by the office of information practices under this chapter or part I of chapter 92, by filing a complaint to initiate a special proceeding in the circuit court of the judicial circuit where the request for access to a record was made, or the act the office determined was prohibited under part I of chapter 92 occurred.  The agency shall give notice of the suit to the office of information practices and the person who requested the decision for which the agency seeks judicial review, by serving a copy of the complaint on them respectively; provided that neither the office of information practices nor the person who requested the decision shall be required to participate in the proceeding; and provided further that the court shall proceed to review the decision pursuant to the rules applicable to a special proceeding, upon the expiration of time that an answer to the complaint would otherwise need to be filed under the rules of court by the office or the person upon whom the complaint was served.  The office of information practices or the person who requested the decision may intervene in the proceeding.  The office of information practices, within 30 days of service of the complaint upon it, shall file a certified copy of the record that it compiled to make its decision, in the circuit court, and mail a copy of the index to that record to the agency.  The circuit court's review shall be limited to the record that was before the office of information practices when it rendered the decision, unless the circuit court finds that extraordinary circumstances justify discovery and admission of additional evidence.  The circuit court shall uphold a decision of the office of information practices unless it concludes that the decision was palpably erroneous."
+     SECTION 2.  Section 92-12, Hawaii Revised Statutes, is amended to read as follows:
+     "§92-12  Enforcement.  (a)  The attorney general and the prosecuting attorney shall enforce this part.
+     (b)  The circuit courts of the State shall have jurisdiction to enforce the provisions of this part by injunction or other appropriate remedy.
+     (c)  Any person may commence a suit in the circuit court of the circuit in which a prohibited act occurs for the purpose of requiring compliance with or preventing violations of this part or to determine the applicability of this part to discussions or decisions of the public body.  The court may order payment of reasonable [attorney] attorney's fees and costs to the prevailing party in a suit brought under this section.
+     (d)  Opinions and rulings of the office of information practices shall be admissible in an action brought under this part and shall be considered as precedent unless found to be palpably erroneous.
+     [(d)] (e)  The proceedings for review shall not stay the enforcement of any agency decisions; but the reviewing court may order a stay if the following criteria have been met:
+     (1)  There is likelihood that the party bringing the action will prevail on the merits;
+     (2)  Irreparable damage will result if a stay is not ordered;
+     (3)  No irreparable damage to the public will result from the stay order; and
+     (4)  Public interest will be served by the stay order."
+     SECTION 3.  Section 92F-15, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  In an action to compel disclosure, the circuit court shall hear the matter de novo.  Opinions and rulings of the office of information practices shall be admissible[.] and shall be considered as precedent unless found to be palpably erroneous, except that in an action to compel disclosure brought by an aggrieved person after the office of information practices upheld the agency's denial of access to the person as provided in section 92F-15.5(b), the opinion or ruling upholding the agency's denial of access shall be reviewed de novo.  The circuit court may examine the government record at issue, in camera, to assist in determining whether it, or any part of it, may be withheld."
+     SECTION 4.  Section 92F-27, Hawaii Revised Statutes, is amended to read as follows:
+     "§92F-27  Civil actions and remedies.  (a)  An individual may bring a civil action against an agency in a circuit court of the State whenever an agency fails to comply with any provision of this part, and after appropriate administrative remedies under sections 92F-23, 92F-24, and 92F-25 have been exhausted.
+     (b)  Opinions and rulings of the office of information practices shall be admissible and shall be considered as precedent unless found to be palpably erroneous, except that the opinion or ruling upholding the agency's denial of access to the aggrieved person shall be reviewed de novo.  The circuit court may examine the record at issue, in camera, to assist in determining whether it, or any part of it, may be withheld.
+     [(b)] (c)  In any action brought under this section the court may order the agency to correct or amend the complainant's personal record, to require any other agency action, or to enjoin such agency from improper actions as the court may deem necessary and appropriate to render substantial relief.
+     [(c)] (d)  In any action brought under this section in which the court determines that the agency knowingly or intentionally violated a provision of this part, the agency shall be liable to the complainant in an amount equal to the sum of:
+     (1)  Actual damages sustained by the complainant as a result of the failure of the agency to properly maintain the personal record, but in no case shall a complainant (individual) entitled to recovery receive less than the sum of $1,000; and
+     (2)  The costs of the action together with reasonable attorney's fees as determined by the court.
+     [(d)] (e)  The court may assess reasonable attorney's fees and other litigation costs reasonably incurred against the agency in any case in which the complainant has substantially prevailed, and against the complainant where the charges brought against the agency were frivolous.
+     [(e)] (f)  An action may be brought in the circuit court where the complainant resides, the complainant's principal place of business is situated, or the complainant's relevant personal record is situated.  No action shall be brought later than two years after notification of the agency denial, or where applicable, the date of receipt of the final determination of the office of information practices."
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect on January 1, 2013.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Sunshine Law; Uniform Information Practices Act; Appeals
+Description:
+Creates a process for an agency to obtain judicial review of Office of Information Practices decisions made under either part I of chapter 92 or chapter 92F, Hawaii Revised Statutes, and clarifies standard of review.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+iv.ExtraSig {mso-style-name:"Extra Sig"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:243.0pt; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.New, li.New, div.New {mso-style-name:New; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Constitution, li.Constitution, div.Constitution {mso-style-name:Constitution; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.PCa, li.PCa, div.PCa {mso-style-name:"PC\(a\)"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Misc, li.Misc, div.Misc {mso-style-name:"Misc\."; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.BodyTextIndentChar {mso-style-name:"Body Text Indent Char"; mso-style-link:"Body Text Indent"; font-family:Courier;} p.Effective, li.Effective, div.Effective {mso-style-name:Effective; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2596
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO OPEN GOVERNMENT.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 92F, Hawaii Revised Statutes, is amended by adding to part IV a new section to be appropriately designated and to read as follows:
+     "§92F-     Agency appeal of a decision by the office of information practices.  An agency may not appeal a decision by the office of information practices made under this chapter or part I of chapter 92, except as provided in this section.  An agency may seek judicial review of a decision rendered by the office of information practices under this chapter or part I of chapter 92, by filing a complaint to initiate a special proceeding in the circuit court of the judicial circuit where the request for access to a record was made, or the act the office determined was prohibited under part I of chapter 92 occurred.  The agency shall give notice of the suit to the office of information practices and the person who requested the decision for which the agency seeks judicial review, by serving a copy of the complaint on them respectively; provided that neither the office of information practices nor the person who requested the decision shall be required to participate in the proceeding; and provided further that the court shall proceed to review the decision pursuant to the rules applicable to a special proceeding, upon the expiration of time that an answer to the complaint would otherwise need to be filed under the rules of court by the office or the person upon whom the complaint was served.  The office of information practices or the person who requested the decision may intervene in the proceeding.  The office of information practices, within 30 days of service of the complaint upon it, shall file a certified copy of the record that it compiled to make its decision, in the circuit court, and mail a copy of the index to that record to the agency.  The circuit court's review shall be limited to the record that was before the office of information practices when it rendered the decision, unless the circuit court finds that extraordinary circumstances justify discovery and admission of additional evidence.  The circuit court shall uphold a decision of the office of information practices unless it concludes that the decision was palpably erroneous."
+     SECTION 2.  Section 92-12, Hawaii Revised Statutes, is amended to read as follows:
+     "§92-12  Enforcement.  (a)  The attorney general and the prosecuting attorney shall enforce this part.
+     (b)  The circuit courts of the State shall have jurisdiction to enforce the provisions of this part by injunction or other appropriate remedy.
+     (c)  Any person may commence a suit in the circuit court of the circuit in which a prohibited act occurs for the purpose of requiring compliance with or preventing violations of this part or to determine the applicability of this part to discussions or decisions of the public body.  The court may order payment of reasonable [attorney] attorney's fees and costs to the prevailing party in a suit brought under this section.
+     (d)  Opinions and rulings of the office of information practices shall be admissible in an action brought under this part and shall be considered as precedent unless found to be palpably erroneous.
+     [(d)] (e)  The proceedings for review shall not stay the enforcement of any agency decisions; but the reviewing court may order a stay if the following criteria have been met:
+     (1)  There is likelihood that the party bringing the action will prevail on the merits;
+     (2)  Irreparable damage will result if a stay is not ordered;
+     (3)  No irreparable damage to the public will result from the stay order; and
+     (4)  Public interest will be served by the stay order."
+     SECTION 3.  Section 92F-15, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  In an action to compel disclosure, the circuit court shall hear the matter de novo.  Opinions and rulings of the office of information practices shall be admissible[.] and shall be considered as precedent unless found to be palpably erroneous, except that in an action to compel disclosure brought by an aggrieved person after the office of information practices upheld the agency's denial of access to the person as provided in section 92F-15.5(b), the opinion or ruling upholding the agency's denial of access shall be reviewed de novo.  The circuit court may examine the government record at issue, in camera, to assist in determining whether it, or any part of it, may be withheld."
+     SECTION 4.  Section 92F-27, Hawaii Revised Statutes, is amended to read as follows:
+     "§92F-27  Civil actions and remedies.  (a)  An individual may bring a civil action against an agency in a circuit court of the State whenever an agency fails to comply with any provision of this part, and after appropriate administrative remedies under sections 92F-23, 92F-24, and 92F-25 have been exhausted.
+     (b)  Opinions and rulings of the office of information practices shall be admissible and shall be considered as precedent unless found to be palpably erroneous, except that the opinion or ruling upholding the agency's denial of access to the aggrieved person shall be reviewed de novo.  The circuit court may examine the record at issue, in camera, to assist in determining whether it, or any part of it, may be withheld.
+     [(b)] (c)  In any action brought under this section the court may order the agency to correct or amend the complainant's personal record, to require any other agency action, or to enjoin such agency from improper actions as the court may deem necessary and appropriate to render substantial relief.
+     [(c)] (d)  In any action brought under this section in which the court determines that the agency knowingly or intentionally violated a provision of this part, the agency shall be liable to the complainant in an amount equal to the sum of:
+     (1)  Actual damages sustained by the complainant as a result of the failure of the agency to properly maintain the personal record, but in no case shall a complainant (individual) entitled to recovery receive less than the sum of $1,000; and
+     (2)  The costs of the action together with reasonable attorney's fees as determined by the court.
+     [(d)] (e)  The court may assess reasonable attorney's fees and other litigation costs reasonably incurred against the agency in any case in which the complainant has substantially prevailed, and against the complainant where the charges brought against the agency were frivolous.
+     [(e)] (f)  An action may be brought in the circuit court where the complainant resides, the complainant's principal place of business is situated, or the complainant's relevant personal record is situated.  No action shall be brought later than two years after notification of the agency denial, or where applicable, the date of receipt of the final determination of the office of information practices."
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect on January 1, 2013.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Sunshine Law; Uniform Information Practices Act; Appeals
+Description:
+Creates a process for an agency to obtain judicial review of Office of Information Practices decisions made under either part I of chapter 92 or chapter 92F, Hawaii Revised Statutes, and clarifies standard of review.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

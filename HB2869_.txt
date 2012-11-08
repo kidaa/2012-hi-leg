@@ -1,0 +1,114 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2869
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE ECONOMY.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The purpose of this Act is to amend the motion picture, digital media, and film production income tax credit.  Specifically, this Act:
+     (1)  Extends the credit to January 1, 2031, from January 1, 2016;
+     (2)  Increases the credit ceiling per qualified production to $10,000,000 from $8,000,000; and
+     (3)  Provides for the separate calculation of the credit amount on wages and salaries included in qualified production costs.  The credit amount is calculated at fifteen per cent of the wages and salaries, no matter the location of the qualified production, plus an additional five per cent of the wages and salaries paid to state residents.
+     SECTION 2.  Section 235-17, Hawaii Revised Statutes, is amended to read as follows:
+     "§235‑17  Motion picture, digital media, and film production income tax credit.  (a)  Any law to the contrary notwithstanding, there shall be allowed to each taxpayer subject to the taxes imposed by this chapter, an income tax credit which shall be deductible from the taxpayer's net income tax liability, if any, imposed by this chapter for the taxable year in which the credit is properly claimed.
+     The amount of the credit shall be[:] the sum of all of the applicable of the following:
+     (1)  Fifteen per cent of the qualified production costs, other than wages and salaries of cast, crew, and musicians, incurred by a qualified production in any county of the State with a population of over seven hundred thousand; [or]
+     (2)  Twenty per cent of the qualified production costs, other than wages and salaries of cast, crew, and musicians, incurred by a qualified production in any county of the State with a population of seven hundred thousand or less[.];
+     (3)  Fifteen per cent of the wages and salaries of all cast, crew, and musicians that are included in the qualified production costs incurred by a qualified production in the State; and
+     (4)  Five per cent of the wages and salaries of cast, crew, and musicians:
+         (A)  Who are residents of the State; and
+         (B)  That are included in the qualified production costs incurred by a qualified production in the State.
+A qualified production occurring in more than one county may prorate its expenditures based upon the amounts spent in each county, if the population bases differ enough to change the percentage of tax credit.
+     In the case of a partnership, S corporation, estate, or trust, the tax credit allowable is for qualified production costs incurred by the entity for the taxable year.  The cost upon which the tax credit is computed shall be determined at the entity level.  Distribution and share of credit shall be determined by rule.
+     If a deduction is taken under section 179 (with respect to election to expense depreciable business assets) of the Internal Revenue Code of 1986, as amended, no tax credit shall be allowed for those costs for which the deduction is taken.
+     The basis for eligible property for depreciation of accelerated cost recovery system purposes for state income taxes shall be reduced by the amount of credit allowable and claimed.
+     (b)  The credit allowed under this section shall be claimed against the net income tax liability for the taxable year.  For the purposes of this section, "net income tax liability" means net income tax liability reduced by all other credits allowed under this chapter.
+     (c)  If the tax credit under this section exceeds the taxpayer's income tax liability, the excess of credits over liability shall be refunded to the taxpayer; provided that no refunds or payment on account of the tax credits allowed by this section shall be made for amounts less than $1.  All claims, including any amended claims, for tax credits under this section shall be filed on or before the end of the twelfth month following the close of the taxable year for which the credit may be claimed.  Failure to comply with the foregoing provision shall constitute a waiver of the right to claim the credit.
+     (d)  To qualify for this tax credit, a production shall:
+     (1)  Meet the definition of a qualified production specified in subsection [(l);] (m);
+     (2)  Have qualified production costs totaling at least $200,000;
+     (3)  Provide the State, at a minimum, a shared-card, end-title screen credit, where applicable;
+     (4)  Provide evidence of reasonable efforts to hire local talent and crew; and
+     (5)  Provide evidence of financial or in-kind contributions or educational or workforce development efforts, in partnership with related local industry labor organizations, educational institutions, or both, toward the furtherance of the local film and television and digital media industries.
+     (e)  On or after July 1, 2006, no qualified production cost that has been financed by investments for which a credit was claimed by any taxpayer pursuant to section 235-110.9 is eligible for credits under this section.
+     (f)  To receive the tax credit, the taxpayer shall first prequalify the production for the credit by registering with the department of business, economic development, and tourism during the development or preproduction stage.  To prequalify for the credit amount under subsection (a)(4), the taxpayer shall submit a written pledge of the intent to comply with the requirement to receive that credit amount.  Failure to comply with this provision may constitute a waiver of the right to claim the credit.
+     (g)  The director of taxation shall prepare forms as may be necessary to claim a credit under this section.  The director may also require the taxpayer to furnish information to ascertain the validity of the claim for credit made under this section and may adopt rules necessary to effectuate the purposes of this section pursuant to chapter 91.
+     (h)  Every taxpayer claiming a tax credit under this section for a qualified production, no later than ninety days following the end of each taxable year in which qualified production costs were expended, shall submit a written, sworn statement to the department of business, economic development, and tourism, identifying:
+     (1)  All qualified production costs as provided by subsection (a), if any, incurred in the previous taxable year;
+     (2)  The amount of tax credits claimed pursuant to this section, if any, in the previous taxable year; and
+     (3)  The number of total hires versus the number of local hires by category (i.e., department) and by county.
+     (i)  The department of business, economic development, and tourism shall:
+     (1)  Maintain records of the names of the taxpayers and qualified productions thereof claiming the tax credits under subsection (a);
+     (2)  Obtain and total the aggregate amounts of all qualified production costs per qualified production and per qualified production per taxable year; and
+     (3)  Provide a letter to the director of taxation specifying the amount of the tax credit per qualified production for each taxable year that a tax credit is claimed and the cumulative amount of the tax credit for all years claimed.
+     Upon each determination required under this subsection, the department of business, economic development, and tourism shall issue a letter to the taxpayer, regarding the qualified production, specifying the qualified production costs and the tax credit amount qualified for in each taxable year a tax credit is claimed.  The taxpayer for each qualified production shall file the letter with the taxpayer's tax return for the qualified production to the department of taxation.  Notwithstanding the authority of the department of business, economic development, and tourism under this section, the director of taxation may audit and adjust the tax credit amount to conform to the information filed by the taxpayer.
+     (j)  The department of business, economic development, and tourism shall submit a report to the governor and legislature not less than twenty days prior to the convening of the regular sessions of 2015, 2020, 2025, and 2030 on the economic impact of the tax credit of this section.  The reports shall include an estimate of the following for each year since 2012 or the last year covered by the preceding report, as applicable:
+     (1)  Capital from out-of-state expended in the State on qualified production costs;
+     (2)  Total expenditures for qualified production costs in the State;
+     (3)  Total full-time equivalent jobs created by qualified productions in the State;
+     (4)  Number of those full-time equivalent jobs filled by residents of the State;
+     (5)  Total wages and salaries paid in the State for qualified productions;
+     (6)  Amount of the total wages and salaries paid in the State to residents of the State for qualified productions; and
+     (7)  Any other information that the department deems necessary.
+     [(j)] (k)  Total tax credits claimed per qualified production shall not exceed [$8,000,000.] $10,000,000.
+     [(k)] (l)  Qualified productions shall comply with subsections (d), (e), (f), and (h).
+     [(l)] (m)  For the purposes of this section:
+     "Commercial":
+     (1)  Means an advertising message that is filmed using film, videotape, or digital media, for dissemination via television broadcast or theatrical distribution;
+     (2)  Includes a series of advertising messages if all parts are produced at the same time over the course of six consecutive weeks; and
+     (3)  Does not include an advertising message with [Internet‑only] internet-only distribution.
+     "Digital media" means production methods and platforms directly related to the creation of cinematic imagery and content, specifically using digital means, including but not limited to digital cameras, digital sound equipment, and computers, to be delivered via film, videotape, interactive game platform, or other digital distribution media (excluding [Internet-only] internet-only distribution).
+     "Post production" means production activities and services conducted after principal photography is completed, including but not limited to editing, film and video transfers, duplication, transcoding, dubbing, subtitling, credits, closed captioning, audio production, special effects (visual and sound), graphics, and animation.
+     "Production" means a series of activities that are directly related to the creation of visual and cinematic imagery to be delivered via film, videotape, or digital media and to be sold, distributed, or displayed as entertainment or the advertisement of products for mass public consumption, including but not limited to scripting, casting, set design and construction, transportation, videography, photography, sound recording, interactive game design, and post production.
+     "Qualified production":
+     (1)  Means a production, with expenditures in the State, for the total or partial production of a feature-length motion picture, short film, made-for-television movie, commercial, music video, interactive game, television series pilot, single season (up to twenty‑two episodes) of a television series regularly filmed in the State (if the number of episodes per single season exceeds twenty‑two, additional episodes for the same season shall constitute a separate qualified production), television special, single television episode that is not part of a television series regularly filmed or based in the State, national magazine show, or national talk show.  For the purposes of subsections (d) and [(j),] (k), each of the aforementioned qualified production categories shall constitute separate, individual qualified productions; and
+     (2)  Does not include: daily news; public affairs programs; non-national magazine or talk shows; televised sporting events or activities; productions that solicit funds; productions produced primarily for industrial, corporate, institutional, or other private purposes; and productions that include any material or performance prohibited by chapter 712.
+     "Qualified production costs" means the costs incurred by a qualified production within the State that are subject to the general excise tax under chapter 237 or income tax under this chapter and that have not been financed by any investments for which a credit was or will be claimed pursuant to section 235‑110.9.  Qualified production costs include but are not limited to:
+     (1)  Costs incurred during preproduction such as location scouting and related services;
+     (2)  Costs of set construction and operations, purchases or rentals of wardrobe, props, accessories, food, office supplies, transportation, equipment, and related services;
+     (3)  Wages or salaries of cast, crew, and musicians;
+     (4)  Costs of photography, sound synchronization, lighting, and related services;
+     (5)  Costs of editing, visual effects, music, other post-production, and related services;
+     (6)  Rentals and fees for use of local facilities and locations;
+     (7)  Rentals of vehicles and lodging for cast and crew;
+     (8)  Airfare for flights to or from Hawaii, and interisland flights;
+     (9)  Insurance and bonding;
+    (10)  Shipping of equipment and supplies to or from Hawaii, and interisland shipments; and
+    (11)  Other direct production costs specified by the department in consultation with the department of business, economic development, and tourism.
+     "Resident of the State" means the same as "resident" defined in section 103B-1."
+     SECTION 3.  Act 88, Session Laws of Hawaii 2006, is amended by amending section 4 to read as follows:
+     "SECTION 4.  This Act shall take effect on July 1, 2006; provided that:
+     (1)  Section 2 of this Act shall apply to qualified production costs incurred on or after July 1, 2006, and before January 1, [2016;] 2031; and
+     (2)  This Act shall be repealed on January 1, [2016,] 2031, and section 235-17, Hawaii Revised Statutes, shall be reenacted in the form in which it read on the day before the effective date of this Act."
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 5.  This Act, upon its approval, shall apply to taxable years beginning after December 31, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+ 
+Report Title:
+Film Tax Credit; Amendments
+ 
+Description:
+Extends the motion picture, digital media, and film production tax credit until 01/01/31 from 01/01/16.  Raises the qualified production credit ceiling to $10 million from $8 million.  Separates the calculation of the credit amount based on wages and salaries from the credit amount based on other qualified production costs.  Provides that the credit amount includes 15% of the wages and salaries paid to all cast, crew, and musicians of the qualified production, plus an additional 5% credit amount on wages and salaries of cast, crew, and musicians who are state residents.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

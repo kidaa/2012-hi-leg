@@ -1,0 +1,206 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+576
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CRIME.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 712, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows:
+"PART      .  SEX TRAFFICKING
+     §712-A  Definitions.  For purposes of this part:
+     "Advances", with respect to prostitution, occurs if a person, acting other than a prostitute or a patron of a prostitute, knowingly causes or aids a person to commit or engage in prostitution; procures or solicits patrons for prostitution; provides persons for prostitution purposes; permits premises to be regularly used for prostitution purposes; operates or assists in the operation of a house of prostitution or a prostitution enterprise; or engages in any other conduct designed to institute, aid, or facilitate an act or enterprise of prostitution.
+     "Profits" with respect to prostitution, as applicable, means, if, acting other than as a prostitute, receiving compensation for personally-rendered prostitution services, as applicable, the person accepts or receives money or other property, in any form or manner, pursuant to an agreement or understanding with any other person whereby the person participates or is to participate in the proceeds of prostitution.
+     "Prostitution" means the activity of engaging in, or agreeing or offering to engage in, sexual conduct with another person for a fee.
+     §712-B  Sex trafficking in the first degree.  (1)  A person commits the offense of sex trafficking in the first degree if the person knowingly:
+    (a)   Advances or profits from the prostitution of an individual who is less than eighteen years of age; or
+    (b)   Advances the prostitution of an individual by the use of any of the following against or to the individual:
+         (i)  Extortion in violation of section 707-764;
+        (ii)  Kidnapping in violation of section 707-720;
+       (iii)  Unlawful imprisonment in violation of either section 707-721 or 707-722;
+        (iv)  Making material false statements, misstatements, or omissions to induce or maintain the person being prostituted to engage in or continue to engage in prostitution;
+         (v)  Requiring that prostitution be performed to retire, repay, or service a real or purported debt;
+        (vi)  Assault in violation of either section 707-710, 707-711, or 707-712; or
+       (vii)  Unlawfully providing to the prostituted person with intent to impair said person's judgment any "dangerous drugs", "detrimental drugs", "harmful drugs", or "intoxicating liquor" as defined in section 712-1240.
+     (2)  In a prosecution under subsection (1)(a) where it is alleged that the person performing prostitution was under eighteen years of age, the prosecution need not prove that the defendant knew the person performing prostitution was under eighteen years of age.
+     (3)  Sex trafficking in the first degree is a class A felony.
+     §712-C  Sex trafficking in the second degree.  (1)  A person commits the offense of sex trafficking in the second degree if the person advances or profits from prostitution by managing, supervising, controlling, or owning, either alone or in association with others, a house of prostitution or prostitution business or enterprise involving the prostitution of an individual, knowing that the prostitution activity of the individual was obtained, maintained, or advanced by any of the methods set forth in section 712-B(1)(b)(i) through (vii) against or to the individual.
+     (2)  Sex trafficking in the second degree is a class B felony.
+     §712-D  Rights of alleged trafficking victims.  It shall be a complete defense to a charge under section 712-B, 712-C, or 712-1200, that the act alleged to have been committed by the accused was obtained, maintained, or advanced by any of the methods set forth in section 712-B(1)(b)(i) through (vii) against or to the accused."
+     SECTION 2.  Section 28-101, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  The attorney general shall establish a statewide witness program through which the attorney general may fund or provide for the security and protection of a government witness or a potential government witness in an official proceeding or investigation where the attorney general determines that an offense such as those described in sections 710-1071 (intimidating a witness), 710-1072 (tampering with a witness), or 710-1072.2 (retaliating against a witness) is likely to be committed or which involves great public interest.  The attorney general may also fund or provide for the security and protection of the immediate family of, or a person otherwise closely associated with, such witness or potential witness if the family or person may also be endangered.  In determining whether such security and protection or funds are to be provided, the attorney general shall give greatest priority to official proceedings or investigations involving pending or potential organized crime, racketeering activity, sex trafficking, or career criminal prosecutions."
+     SECTION 3.  Section 351-32, Hawaii Revised Statutes, is amended to read as follows:
+     "§351-32  Violent crimes.  The crimes to which part III of this chapter applies are the following and no other:
+     (1)  Murder in the first degree (section 707-701);
+     (2)  Murder in the second degree (section 707-701.5);
+     (3)  Manslaughter (section 707-702);
+     (4)  Negligent homicide in the first degree (section 707‑702.5);
+     (5)  Negligent homicide in the second degree (section 707‑703);
+     (6)  Negligent injury in the first degree (section 707‑705);
+     (7)  Negligent injury in the second degree (section 707‑706);
+     (8)  Assault in the first degree (section 707-710);
+     (9)  Assault in the second degree (section 707-711);
+    (10)  Assault in the third degree (section 707-712);
+    (11)  Kidnapping (section 707-720);
+    (12)  Sexual assault in the first degree (section 707-730);
+    (13)  Sexual assault in the second degree (section 707-731);
+    (14)  Sexual assault in the third degree (section 707-732);
+    (15)  Sexual assault in the fourth degree (section 707-733);
+    (16)  Abuse of family [[]or[]] household member (section 709-906); [and]
+    (17)  Sex trafficking in the first degree (section 712-B);
+    (18)  Sex trafficking in the second degree (section 712-C); and
+   [(17)] (19)  Terrorism, as defined in Title 18 United States Code section 2331."
+     SECTION 4.  Section 663J-2, Hawaii Revised Statutes, is amended by amending the definition of "promoting prostitution" to read as follows:
+     "Promoting prostitution" means promoting prostitution in the first [or second] degree, as provided in [sections 712-1202 and] section 712-1203[, respectively]."
+     SECTION 5.  Section 706-606.5, Hawaii Revised Statutes, is amended by amending subsection (1) to read as follows:
+     "(1)  Notwithstanding section 706-669 and any other law to the contrary, any person convicted of murder in the second degree, any class A felony, any class B felony, or any of the following class C felonies:  section 188-23 relating to possession or use of explosives, electrofishing devices, and poisonous substances in state waters; section 386-98(d)(1) relating to fraud violations and penalties; section 431:2‑403(b)(2) relating to insurance fraud; section 707-703 relating to negligent homicide in the second degree; section 707-711 relating to assault in the second degree; section 707‑713 relating to reckless endangering in the first degree; section 707-716 relating to terroristic threatening in the first degree; section 707-721 relating to unlawful imprisonment in the first degree; section 707-732 relating to sexual assault or rape in the third degree; section 707-752 relating to promoting child abuse in the third degree; section 707-757 relating to electronic enticement of a child in the second degree; section 707-766 relating to extortion in the second degree; section 708‑811 relating to burglary in the second degree; section 708‑821 relating to criminal property damage in the second degree; section 708-831 relating to theft in the first degree as amended by Act 68, Session Laws of Hawaii 1981; section 708-831 relating to theft in the second degree; section 708-835.5 relating to theft of livestock; section 708-836 relating to unauthorized control of propelled vehicle; section 708-839.8 relating to identity theft in the third degree; section 708-839.55 relating to unauthorized possession of confidential personal information; section 708-852 relating to forgery in the second degree; section 708-854 relating to criminal possession of a forgery device; section 708-875 relating to trademark counterfeiting; section 710-1071 relating to intimidating a witness; section 711-1103 relating to riot; section 712-1203 relating to promoting prostitution in the [second] first degree; section 712-1221 relating to gambling in the first degree; section 712-1224 relating to possession of gambling records in the first degree; section 712-1243 relating to promoting a dangerous drug in the third degree; section 712-1247 relating to promoting a detrimental drug in the first degree; section 846E-9 relating to failure to comply with covered offender registration requirements; section 134-7 relating to ownership or possession of firearms or ammunition by persons convicted of certain crimes; section 134-8 relating to ownership, etc., of prohibited weapons; section 134-9 relating to permits to carry, or who is convicted of attempting to commit murder in the second degree, any class A felony, any class B felony, or any of the class C felony offenses enumerated above and who has a prior conviction or prior convictions for the following felonies, including an attempt to commit the same: murder, murder in the first or second degree, a class A felony, a class B felony, any of the class C felony offenses enumerated above, or any felony conviction of another jurisdiction, shall be sentenced to a mandatory minimum period of imprisonment without possibility of parole during such period as follows:
+    (a)   One prior felony conviction:
+         (i)  Where the instant conviction is for murder in the second degree or attempted murder in the second degree--ten years;
+        (ii)  Where the instant conviction is for a class A felony--six years, eight months;
+       (iii)  Where the instant conviction is for a class B felony--three years, four months; and
+        (iv)  Where the instant conviction is for a class C felony offense enumerated above--one year, eight months;
+    (b)   Two prior felony convictions:
+         (i)  Where the instant conviction is for murder in the second degree or attempted murder in the second degree--twenty years;
+        (ii)  Where the instant conviction is for a class A felony--thirteen years, four months;
+       (iii)  Where the instant conviction is for a class B felony--six years, eight months; and
+        (iv)  Where the instant conviction is for a class C felony offense enumerated above--three years, four months;
+    (c)   Three or more prior felony convictions:
+         (i)  Where the instant conviction is for murder in the second degree or attempted murder in the second degree--thirty years;
+        (ii)  Where the instant conviction is for a class A felony--twenty years;
+       (iii)  Where the instant conviction is for a class B felony--ten years; and
+        (iv)  Where the instant conviction is for a class C felony offense enumerated above--five years."
+     SECTION 6.  Section 712-1201, Hawaii Revised Statutes, is amended to read as follows:
+     "§712-1201  Promoting prostitution; definition of terms.  In sections [712-1202,] 712-1203 and 712-1204:
+     (1)  A person "advances prostitution" if, acting other than as a prostitute or a patron of a prostitute, he knowingly causes or aids a person to commit or engage in prostitution, procures or solicits patrons for prostitution, provides persons for prostitution purposes, permits premises to be regularly used for prostitution purposes, operates or assists in the operation of a house of prostitution or a prostitution enterprise, or engages in any other conduct designed to institute, aid, or facilitate an act or enterprise of prostitution.
+     (2)  A person "profits from prostitution" if, acting other than as a prostitute receiving compensation for personally-rendered prostitution services, he accepts or receives money or other property pursuant to an agreement or understanding with any person whereby he participates or is to participate in the proceeds of prostitution activity."
+     SECTION 7.  Section 712-1203, Hawaii Revised Statutes, is amended to read as follows:
+     "§712-1203  Promoting prostitution in the [second] first degree.  (1)  A person commits the offense of promoting prostitution in the [second] first degree if the person knowingly advances or profits from prostitution by managing, supervising, controlling, or owning, either alone or in association with others, a house of prostitution or a prostitution business or enterprise involving prostitution activity by two or more prostituted persons.
+     (2)  Promoting prostitution in the [second] first degree is a class C felony."
+     SECTION 8.  Section 712-1204, Hawaii Revised Statutes, is amended to read as follows:
+     "§712-1204  Promoting prostitution in the [third] second degree.  (1)  A person commits the offense of promoting prostitution in the [third] second degree if the person knowingly advances or profits from prostitution.
+     (2)  Promoting prostitution in the [third] second degree is a misdemeanor."
+     SECTION 9.  Section 712A-4, Hawaii Revised Statutes, is amended to read as follows:
+     "§712A-4  Covered offenses.  Offenses for which property is subject to forfeiture under this chapter are:
+    (a)   All offenses which specifically authorize forfeiture;
+    (b)   Murder, kidnapping, gambling, criminal property damage, robbery, bribery, extortion, theft, unauthorized entry into motor vehicle, burglary, money laundering, trademark counterfeiting, insurance fraud, promoting a dangerous, harmful, or detrimental drug, commercial promotion of marijuana, unlawful methamphetamine trafficking, manufacturing of a controlled substance with a child present, promoting child abuse, sex trafficking, or electronic enticement of a child which is chargeable as a felony offense under state law;
+    (c)   The manufacture, sale, or distribution of a controlled substance in violation of chapter 329, promoting detrimental drugs or intoxicating compounds, promoting pornography, promoting pornography for minors, or promoting prostitution, which is chargeable as a felony or misdemeanor offense, but not as a petty misdemeanor, under state law; and
+    (d)   The attempt, conspiracy, solicitation, coercion, or intimidation of another to commit any offense for which property is subject to forfeiture."
+     SECTION 10.  Section 803-44, Hawaii Revised Statutes, is amended to read as follows:
+     "§803-44  Application for court order to intercept wire, oral, or electronic communications.  The attorney general of this State, or a designated deputy attorney general in the attorney general's absence or incapacity, or the prosecuting attorney of each county, or a designated deputy prosecuting attorney in the prosecuting attorney's absence or incapacity, may make application to a designated judge or any other circuit court judge or district court judge, if a circuit court judge has not been designated by the chief justice of the Hawaii supreme court, or is otherwise unavailable, in the county where the interception is to take place, for an order authorizing or approving the interception of wire, oral, or electronic communications, and such court may grant in conformity with section 803-46 an order authorizing, or approving the interception of wire, oral, or electronic communications by investigative or law enforcement officers having responsibility for the investigation of the offense as to which the application is made, if the interception might provide or has provided evidence of:
+     (1)  Murder;
+     (2)  Kidnapping;
+     (3)  Sex trafficking in the first degree;
+     (4)  Sex trafficking in the second degree;
+    [(3)] (5)  Felony criminal property damage involving the danger of bodily injury as defined in section 707-700;
+    [(4)] (6)  Distribution of dangerous, harmful, or detrimental drugs; or
+    [(5)] (7)  Conspiracy to commit one or more of the above; or involving
+    [(6)] (8)  Organized crime and any of the following felony offenses:
+          (A)  Extortion;
+          (B)  Bribery of a juror, of a witness, or of a police officer;
+          (C)  Receiving stolen property; [and]
+          (D)  Gambling; and
+          (E)  Money laundering."
+     SECTION 11.  Section 842-1, Hawaii Revised Statutes, is amended by amending the definitions of "organized crime" and "racketeering activity" to read as follows:
+     ""Organized crime" means any combination or conspiracy to engage in criminal activity as a significant source of income or livelihood, or to violate, aid or abet the violation of criminal laws relating to prostitution, gambling, loan sharking, drug abuse, illegal drug distribution, counterfeiting, extortion, sex trafficking, corruption of law enforcement officers or other public officers or employers.
+     "Racketeering activity" means any act or threat involving, but not limited to, murder, kidnapping, gambling, criminal property damage, robbery, bribery, extortion, sex trafficking, theft or prostitution, or any dealing in narcotic or other dangerous drugs which is chargeable as a crime under state law and punishable by imprisonment for more than one year."
+     SECTION 12.  Section 846E-1, Hawaii Revised Statutes, is amended by amending the definition of "sexual offense" to read as follows:
+     ""Sexual offense" means an offense that is:
+     (1)  Set forth in section 707-730(1)(a), 707-730(1)(b), 707-730(1)(c), 707-730(1)(d) or (e), 707-731(1)(a), 707-731(1)(b), 707-731(1)(c), 707-732(1)(a), 707‑732(1)(b), 707-732(1)(c), 707-732(1)(d), 707‑732(1)(e), 707-732(1)(f), 707-733(1)(a), 707‑733.6, [712-1202(1)(b), or] 712-1203(1)(b), 712‑1204, 712-B, or 712-C, but excludes conduct that is criminal only because of the age of the victim, as provided in section 707-730(1)(b), or section 707‑732(1)(b) if the perpetrator is under the age of eighteen;
+     (2)  An act defined in section 707-720 if the charging document for the offense for which there has been a conviction alleged intent to subject the victim to a sexual offense;
+     (3)  An act that consists of:
+         (A)  Criminal sexual conduct toward a minor, including but not limited to an offense set forth in section 707-759;
+         (B)  Solicitation of a minor who is less than fourteen years old to engage in sexual conduct;
+         (C)  Use of a minor in a sexual performance;
+         (D)  Production, distribution, or possession of child pornography chargeable as a felony under section 707-750, 707-751, or 707-752;
+         (E)  Electronic enticement of a child chargeable under section 707-756 or 707-757 if the offense was committed with the intent to promote or facilitate the commission of another covered offense as defined in this section; or
+         (F)  Solicitation of a minor to practice prostitution;
+     (4)  A criminal offense that is comparable to or that exceeds a sexual offense as defined in paragraphs (1) through (3) or any federal, military, or out-of-state conviction for any offense that under the laws of this State would be a sexual offense as defined in paragraphs (1) through (3); or
+     (5)  An act, as described in chapter 705, that is an attempt, criminal solicitation, or criminal conspiracy to commit one of the offenses designated in paragraphs (1) through (4)."
+     SECTION 13.  Section 853-4, Hawaii Revised Statutes, is amended to read as follows:
+     "§853-4  Chapter not applicable; when.  This chapter shall not apply when:
+     (1)  The offense charged involves the intentional, knowing, reckless, or negligent killing of another person;
+     (2)  The offense charged is:
+         (A)  A felony that involves the intentional, knowing, or reckless bodily injury, substantial bodily injury, or serious bodily injury of another person; or
+         (B)  A misdemeanor or petty misdemeanor that carries a mandatory minimum sentence and that involves the intentional, knowing, or reckless bodily injury, substantial bodily injury, or serious bodily injury of another person;
+     (3)  The offense charged involves a conspiracy or solicitation to intentionally, knowingly, or recklessly kill another person or to cause serious bodily injury to another person;
+     (4)  The offense charged is a class A felony;
+     (5)  The offense charged is nonprobationable;
+     (6)  The defendant has been convicted of any offense defined as a felony by the Hawaii Penal Code or has been convicted for any conduct that if perpetrated in this State would be punishable as a felony;
+     (7)  The defendant is found to be a law violator or delinquent child for the commission of any offense defined as a felony by the Hawaii Penal Code or for any conduct that if perpetrated in this State would constitute a felony;
+     (8)  The defendant has a prior conviction for a felony committed in any state, federal, or foreign jurisdiction;
+     (9)  A firearm was used in the commission of the offense charged;
+    (10)  The defendant is charged with the distribution of a dangerous, harmful, or detrimental drug to a minor;
+    (11)  The defendant has been charged with a felony offense and has been previously granted deferred acceptance of guilty plea status for a prior offense, regardless of whether the period of deferral has already expired;
+    (12)  The defendant has been charged with a misdemeanor offense and has been previously granted deferred acceptance of guilty plea status for a prior felony, misdemeanor, or petty misdemeanor for which the period of deferral has not yet expired;
+    (13)  The offense charged is:
+         (A)  Escape in the first degree;
+         (B)  Escape in the second degree;
+         (C)  Promoting prison contraband in the first degree;
+         (D)  Promoting prison contraband in the second degree;
+         (E)  Bail jumping in the first degree;
+         (F)  Bail jumping in the second degree;
+         (G)  Bribery;
+         (H)  Bribery of or by a witness;
+         (I)  Intimidating a witness;
+         (J)  Bribery of or by a juror;
+         (K)  Intimidating a juror;
+         (L)  Jury tampering;
+         (M)  Promoting prostitution in the first degree;
+         (N)  Promoting prostitution in the second degree;
+        [(O)  Promoting prostitution in the third degree;
+        (P)]  (O)  Abuse of family or household members;
+       [(Q)]  (P)  Sexual assault in the second degree;
+       [(R)]  (Q)  Sexual assault in the third degree;
+       [(S)]  (R)  A violation of an order issued pursuant to chapter 586;
+       [(T)]  (S)  Promoting child abuse in the second degree;
+       [(U)]  (T)  Promoting child abuse in the third degree;
+       [(V)]  (U)  Electronic enticement of a child in the first degree;
+       [(W)]  (V)  Electronic enticement of a child in the second degree; [or]
+       [(X)]  (W)  An offense under part IV, chapter 291E;
+         (X)  Sex trafficking in the first degree; or
+         (Y)  Sex trafficking in the second degree;
+    (14)  The defendant has been charged with:
+         (A)  Knowingly or intentionally falsifying any report required under chapter 11, subpart B of part XII, with the intent to circumvent the law or deceive the campaign spending commission; or
+         (B)  Violating section 11-201 or 11-202; or
+    (15)  The defendant holds a commercial driver's license and has been charged with violating a traffic control law, other than a parking law, in connection with the operation of any type of motor vehicle.
+     The court may adopt by rule other criteria in this area."
+     SECTION 14.  Section 712-1202, Hawaii Revised Statutes, is repealed.
+     ["§712-1202  Promoting prostitution in the first degree.  (1)  A person commits the offense of promoting prostitution in the first degree if the person knowingly:
+    (a)   Advances prostitution by compelling a person by force, threat, or intimidation to engage in prostitution, or profits from such coercive conduct by another; or
+    (b)   Advances or profits from prostitution of a person less than eighteen years old.
+     (2)  Promoting prostitution in the first degree is a class B felony.
+     (3)  As used in this section, "threat" means any of the actions listed in section 707-764(1)."]
+     SECTION 15.  In codifying the new sections added by section 1 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 16.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 17.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 18.  This Act shall take effect upon approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+ 
+Report Title:
+Sex Trafficking Offenses; Crime
+ 
+Description:
+Establishes class A and B felony sex trafficking offenses and provisions related to prosecution of the offenses.  Effective upon approval.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,177 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+366
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO ECONOMIC DEVELOPMENT.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  In 2003, the State of Utah, facing a shortage of venture capital resources and the relocation out-of-state of a number of Utah's technology companies, successfully responded by enacting the Utah fund of funds program.  Iowa, Michigan, Oklahoma, and Ohio each implemented similar programs to improve the capital availability within their respective states and as a means to generate revenue.
+     The $300,000,000 in financing for the Utah fund of funds program is invested in venture capital firms.  To ensure profitable investments and the continued success of the program, the fund does not require investments in Utah companies or that venture capital firms be located in Utah.  Instead, the fund invests in venture capital firms looking for investment opportunities in Utah to commit their senior staff to work closely with Utah companies and entrepreneurs.
+     Financing for the Utah fund of funds program was provided by a large institutional bank and is backed by refundable, transferable, contingent tax credits approved by the Utah legislature.  The program is structured to be financially self-sustaining, with profits from investments paid back to those financing the program.  Only in the case of a shortfall would the state of Utah be required to place tax credit funds into the Utah fund of funds.
+     To date, twenty-eight Utah companies have received investments from funds in the Utah fund of funds portfolio, resulting in over one thousand high-paying jobs.  These companies have raised over $385,000,000 from investors, $135,000,000 of which comes directly from funds in the Utah fund of funds portfolio.  Finally, over three hundred seventy-five Utah companies have had the opportunity to work with venture capital firms in the Utah fund of funds portfolio.
+     This Act is based on the Utah fund of funds model and amends the state private investment fund, chapter 211G, Hawaii Revised Statutes, to more closely conform to key aspects of the Utah model.  Important components of this Act include:
+     (1)  The deferral of state liability for the cost of the program.  Program capital will be obtained from investors or from loans, and state tax credits will be used as collateral and as a guarantee of investment or loan obligations;
+     (2)  The minimization of potential state liability for the program.  The private-sector focus in investment is retained, allowing diversification and profitability of investments;
+     (3)  The requirement that individuals or entities overseeing and managing the program possess expertise in venture capital investment, investment management, and supervision of investment managers and investment funds;
+     (4)  Giving state private investment fund managers the flexibility to invest for profit by giving priority to investments in high-quality venture capital firms that have demonstrated a commitment to the State;
+     (5)  Ensuring that Hawaii's companies are exposed to high-level managers of funds in the state private investment fund portfolio and learn to become good fundraisers; and
+     (6)  Using private venture capital firms to vet and select potentially successful businesses in which to invest.
+     The purpose of this Act is to increase the availability of venture capital for the State's emerging industries while minimizing state liability for the program.
+     SECTION 2.  Chapter 211G, Hawaii Revised Statutes, is amended by adding four new sections to be appropriately designated and to read as follows:
+     "§211G‑A  State private investment fund.  (a)  There is established a state private investment fund to be administered by the corporation.  The state private investment fund shall invest in private seed and venture capital partnerships or entities to:
+     (1)  Encourage the availability of equity and near-equity capital partnerships in diversified industries, with an emphasis on the State's emerging high technology industry;
+     (2)  Promote the private-sector philosophy of focusing on the rate of return in the investment process;
+     (3)  Secure the services of high-quality managers in the venture capital industry; and
+     (4)  Enhance the venture capital culture and infrastructure in the state to increase and promote venture capital investments in the State;
+and accomplish the foregoing in a return-driven manner while minimizing the transfer of tax credits.
+     (b)  The state private investment fund shall be organized as a limited partnership or limited liability company under Hawaii law with the corporation as the general partner or manager to provide for:
+     (1)  Equity interests for designated investors that provide for a scheduled rate of return and scheduled redemption; and
+     (2)  Loans by or the issuance of debt obligations to investors that provide for payments of principal, interest, or an interest equivalent.
+     (c)  Public money shall not be invested in the state private investment fund.  Moneys raised or arranged by the corporation pursuant to this chapter shall be invested in seed capital and venture capital investments by the state private investment fund.
+     (d)  The state private investment fund shall be governed by the fund board, which shall be exempt from section 26-34.  The fund board shall consist of six members; provided that:
+     (1)  Three members shall be appointed by the corporation board and shall be selected on the basis of their knowledge of, or skill and experience in, venture or seed capital investment, investment management, or supervision of investment managers and investment funds;
+(2)  The president of the corporation, the chief investment officer of the State of Hawaii employees' retirement system, and the executive director of the state private investment fund shall serve as ex-officio voting members of the fund board; provided that if the state private investment fund does not employ an executive director, an additional voting member shall be appointed by the corporation board according to the criteria in paragraph (1);
+     (3)  Appointed fund board members shall serve four-year terms, shall continue in office until their respective successors have been appointed, and may serve successive terms.  Any vacancy in the appointed membership of the fund board shall be filled in the same manner as the original appointment;
+     (4)  A majority of the fund board members may remove a fund board member for cause;
+     (5)  Three members of the fund board shall represent a quorum for the transaction of business;
+     (6)  Members of the fund board:
+         (A)  Shall be subject to any restrictions on conflicts of interest specified in the organizational documents of the state private investment fund; and
+         (B)  May have no interest in any:
+              (i)  Venture capital investment fund allocation manager selected by the fund board under this chapter; or
+             (ii)  Investments made by the state private investment fund; and
+     (7)  Members of the fund board shall serve without compensation but shall be reimbursed for expenses, including travel expenses necessary for the performance of their duties.
+     (e)  The state private investment fund may enter into and execute any contract, execute any document, charge reasonable fees for services rendered, perform any act, or enter into any financial or other transaction necessary to carry out its mission.  The state private investment fund, without regard to chapter 76, may employ a discretionary investment manager, executive director, and other staff as necessary to properly implement this chapter, manage its assets, or perform any function authorized or required by this chapter necessary to accomplish any of its functions.  Staff shall be selected based upon knowledge and leadership in the field in which they will be performing.
+     (f)  If the state private investment fund purchases any security pursuant to an agreement with an investor group, the state private investment fund shall acquire the securities and may invest, manage, transfer, or dispose of the securities in accordance with policies for the management of assets adopted by the corporation.
+     (g)  In carrying out the mission of the state private investment fund, the corporation, state private investment fund, and their board members, officers, and employees shall not be considered to be broker-dealers, agents, investment advisors, or investment adviser representatives under chapter 485A.  Tax credits issued or transferred pursuant to this chapter shall not be considered securities under chapter 485A.
+     (h)  Startup costs for the state private investment fund other than investment capital shall be funded by the corporation.
+     §211G‑B  Investment capital; guarantees.  (a)  Pursuant to section 211G-19, the corporation shall adopt rules pursuant to chapter 91 to extend one or more guarantees and secure the performance of the guarantees in the form of a put option, as well as other arrangements selected by the corporation.
+     Without limiting the foregoing, the corporation may guarantee loans, lines of credit, and other indebtedness and equity investments and may arrange for, pledge, and assign put options, as well as other agreements to purchase tax credits on terms as the corporation board may approve from time to time; provided that:
+     (1)  The guarantee of loans, lines of credit, and other indebtedness may extend up to the principal amount plus interest over the term of the guarantee at a rate set by corporation board resolution from time to time, in a manner consistent with this chapter;
+     (2)  The guarantee of equity capital may extend up to the amount of the investment plus a rate of return set by corporation board resolution from time to time in a manner consistent with this chapter; and
+(3)  Any agreement for the purchase of tax credits shall not provide for the transfer of such credits out of the corporation before July 1,      .
+     (b)  Guarantees, in whatever form negotiated by the corporation, may be made for any period of time, but no term shall expire prior to January 1,      .  The corporation may charge a reasonable fee for their costs and expenses and the fair compensation of risks associated with its guarantee.  The contractual guarantee obligation of the corporation may be satisfied by proceeds from the sale of any tax credits.  The corporation may enter into contracts as necessary to protect the interests of the State.
+     (c)  The guarantees extended by the corporation shall be payable solely from revenues of the state private investment fund, and shall be secured solely by those revenues and by the pledges and assignments authorized by this chapter.  No holders of guarantees issued under this chapter are authorized to exercise any taxing power of the State to pay the guarantees, and no moneys other than the revenues of the state private investment fund shall be applied to pay the guarantees.  Each guarantee issued under this chapter shall recite in substance that the guarantee is not a general obligation of the State and is payable solely from revenues pledged for its payment, and that the guarantee is not secured directly or indirectly by the full faith and credit or the general credit of the State or by any revenues or taxes of the State other than the revenues specifically pledged for its payment.
+     §211G‑C  Investments by the state private investment fund.  (a)  Moneys raised or arranged by the corporation pursuant to this chapter shall be invested by the state private investment fund in seed capital and venture capital investments.  In making investments, the state private investment fund shall comply with best practices standards.
+     The following limitations on investments shall apply:
+     (1)  The state private investment fund shall not make direct investments;
+     (2)  Not more than        per cent of the investments of the fund shall be in seed capital investments;
+     (3)  Not more than ten per cent of the state private investment fund may be invested in a single fund; and
+     (4)  The state private investment fund's capital commitment to a single fund shall not exceed twenty per cent of the total capital committed to that fund.
+     (b)  The state private investment fund shall invest funds principally in high-quality venture capital entities that have:
+     (1)  Experienced managers or management teams that have demonstrated expertise and a successful history in the investment of venture capital funds; and
+     (2)  A demonstrated ability to advise and mentor entrepreneurs and facilitate follow-on investments.
+The state private investment fund shall establish a target for investments in Hawaii-based businesses of thirty per cent of the investments of the fund.
+     §211G‑D  Protection of trade secrets and confidential business information.  The state private investment fund shall protect trade secrets and confidential business information from public disclosure.  The fund board, or any committee thereof, may discuss trade secrets or confidential business information in executive meetings in accordance with the procedures required for executive meetings under part I of chapter 92, and may protect state private investment fund documents containing this information from disclosure as provided in chapter 92F."
+     SECTION 3.  Section 211F-3, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  The governing body of the corporation shall be a board of directors consisting of twelve members to be appointed by the governor for staggered terms pursuant to section 26-34 as follows:
+     (1)  Three to be appointed directly by the governor;
+     (2)  Three to be appointed from a list of nominees from the general public submitted by the president of the senate; and
+     (3)  Three to be appointed from a list of nominees from the general public submitted by the speaker of the house of representatives,
+and shall be selected on the basis of their knowledge, skill, and experience in the scientific, business, or financial fields[.]; provided that three of the members appointed shall have knowledge of, or skill and experience in, venture or seed capital investment, investment management, or supervision of investment managers and investment funds.  The director of business, economic development, and tourism, a member from the board of the high technology development corporation appointed by the governor, and a member from the board of the natural energy laboratory of Hawaii authority appointed by the governor, or their designated representatives, shall serve as ex officio voting members.  Not more than two of the six members of the board appointed from the lists of nominees submitted by the president of the senate and the speaker of the house of representatives, during their term of office on the board, shall be employees of the State.  All appointed members of the board shall continue in office until their respective successors have been appointed."
+     SECTION 4.  Section 211G-1, Hawaii Revised Statutes, is amended as follows:
+     1.  By adding the definitions of "corporation board", "direct investment", "enterprise", "fund board", "Hawaii-based business", "seed capital", and "venture capital investment" to be appropriately inserted and to read:
+     ""Corporation board" means the board of directors of the Hawaii strategic development corporation.
+     "Direct investment" means an investment by the state private investment fund in qualified securities of an enterprise to provide capital to an enterprise.
+     "Enterprise" means the same as defined in section 211F-1.
+     "Fund board" means the board of directors of the state private investment fund.
+     "Hawaii-based business" means a business:
+     (1)  Having its principal office located within the State; and
+     (2)  Where at least thirty-five per cent of its employees reside in the State.
+     "Seed capital" means financing provided for the earliest stage of business development, including developing a working prototype, preparing a business plan, performing an initial market analysis, or organizing a management team.
+     "Venture capital investment" means any of the following investments in a business:
+(1)  Common or preferred stock and equity securities without a repurchase requirement for at least five years;
+(2)  A right to purchase stock or equity securities;
+(3)  Any debenture or loan, whether or not convertible or having stock purchase rights, which are subordinated, together with security interests against the assets of the borrower, by their terms to all borrowings of the borrower from other institutional lenders, and that is for a term of not less than three years, and that has no part amortized during the first three years; and
+(4)  General or limited partnership interests."
+     2.  By amending the definitions of "tax credits" and "taxpayer" to read:
+     ""Tax credits" means tax credits issued or transferred pursuant to this chapter and available against liabilities imposed by chapter 235 or 241[.], or section 431:7-202.
+     "Taxpayer" means a person subject to a tax imposed by chapter 235 or 241[.], or section 431:7-202."
+     3.  By repealing the definition of "board":
+     [""Board" means the board of directors of the corporation."]
+     SECTION 5.  Section 211G-4, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§211G-4[]]  Mission of the corporation[.] and state private investment fund.  The mission of the corporation[,] and state private investment fund pursuant to this chapter and in addition to those set forth in chapter 211F, shall be to mobilize equity and near-equity capital for investment in such a manner that will result in a significant potential to diversify and stabilize the economy of the State.  Notwithstanding anything to the contrary in chapter 211F or otherwise, the corporation shall carry out the purposes, mission, and provisions of this chapter."
+     SECTION 6.  Section 211G-11, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§211G-11[]]  Business plan.  [To fulfill its mission as the mobilizer of equity and near-equity capital, the] The implementation of this chapter by the corporation shall be subject to the supervision of the corporation board.  The [corporation] fund board shall develop an annual business plan for the implementation of this chapter.  The business plan shall be submitted to the corporation board for its approval and shall be included in [its] the corporation's annual report, which shall be published as provided in section 211G-15."
+     SECTION 7.  Section 211G-12, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§211G-12[]]  Tax credits.  (a)  The State shall issue tax credits to the corporation that may be transferred or otherwise used to reduce the tax liability of any taxpayer pursuant to chapter 235 or 241[.], or section 431:7-202.  The total amount of tax credits that may be issued[,] and [which] that may be transferred pursuant to this chapter by the corporation is [$36,000,000.] $              .
+     (b)  [Upon compliance with subsection [(b), the] Tax credits issued to the corporation shall be freely transferable by the corporation to transferees and by transferees to subsequent transferees; [however, the] provided that:
+(1)  Agreements entered into by the corporation to transfer tax credits shall not provide for the transfer of the tax credits out of the corporation before July 1,      ; and
+(2)  The tax credits [so] transferred by the corporation shall not be exercisable before July 1, [2005,]        , nor after July 1, [2030.  The corporation shall not transfer tax credits except in conjunction with a legitimate call on a corporation guarantee.]          .
+The corporation shall immediately notify the president of the senate, the speaker of the house of representatives, and the governor in writing if any tax credit is transferred by the corporation [in conjunction with a legitimate call on a corporation guarantee]; provided that the corporation shall not be required to make that notification for transfers to subsequent transferees.
+     [(b)  Subject to the annual authorization by the legislature, the corporation may transfer tax credits under this section up to the annual amount allowed under subsection (c).  Legislative authorization for the tax credits shall be by a separate legislative act.]
+     (c)  The corporation shall determine the amount of individual tax credits to be transferred pursuant to this chapter and may negotiate for the sale of those credits subject only to the limits imposed by this chapter.  The corporation shall limit the [transfer of] tax credits that may be claimed and used to reduce the tax otherwise imposed by chapter 235 or 241, or section 431:7-202 for one fiscal year (including any tax credits that are carried over by a taxpayer from a prior fiscal year and used to reduce taxes otherwise imposed in the current fiscal year, as permitted in subsection [(g))] (h)) to not more than an aggregate total of [$12,000,000] $              per fiscal year.  The corporation board shall clearly indicate on the face of the certificate or other document transferring the tax credit the principal amount of the tax credit and the taxable year or years for which the credit may be claimed.
+     (d)  The corporation, in conjunction with the department of taxation, shall develop a system for registration of any tax credits issued or transferred by the corporation pursuant to this chapter and a system of certificates that permits verification that any tax credit claimed upon a tax return is validly issued, properly taken in the year of claim, and that any transfers of the tax credit by the corporation are made in accordance with this chapter.
+     (e)  The corporation may pay a fee and provide other consideration in connection with the purchase by the corporation of a put option or other agreement pursuant to which a transfer of tax credits authorized by this chapter may be made.
+     (f)  The tax credits issued or transferred pursuant to this chapter, upon election by the taxpayer at time of use, shall be treated as a payment or prepayment in lieu of taxes imposed under chapter 235 or 241[.], or section 431:7-202.  Tax credits used pursuant to this chapter shall be claimed as a payment of tax or estimated tax for the purposes of chapter 235 or 241, or section 431:7-202.
+     (g)  The tax credits issued or transferred pursuant to this chapter shall be refundable.
+     [(g)] (h)  If the tax credits under this section exceed the taxpayer's income tax liability under chapter 235 or 241, or section 431:7-202 for any taxable year, or for any other reason [is] are not claimed by a taxpayer in whole or in part in any taxable year, the excess of the tax credit over liability, or the amount of the unclaimed tax credit, as the case may be, may be carried over and used as a credit against the taxpayer's income tax liability in any subsequent year until exhausted, subject to:
+     (1)  The deadline for the exercise of tax credits imposed by subsection [(a);] (b); and
+     (2)  The monetary limit imposed by subsection (c)."
+     SECTION 8.  Section 211G-13, Hawaii Revised Statutes, is amended to read as follows:
+     "§211G-13  Investment [of capital.] manager.  [(a)] The [corporation] fund board may solicit investment plans from investor groups for the investment of capital in accordance with this chapter.  The [corporation] fund board shall establish criteria for the selection of persons, firms, corporations, or other entities.  The criteria shall include the applicant's level of experience, quality of management, investment philosophy and process, probability of success in fundraising, plan for achieving the purposes of this chapter, and such other investment criteria as may be used in professional portfolio management that the [corporation] fund board deems appropriate.  If the [corporation] fund board decides to engage one or more investor groups to deploy or generate capital, it shall consider and select one or more investment plans and investor groups that the [corporation] fund board deems qualified to:
+     (1)  Generate capital for investment with the most effective and efficient use of the guarantee;
+     (2)  Invest the capital in private seed and venture capital entities in a manner mobilizing a wide variety of equity and near-equity investments in ventures promoting the economic development of the State; and
+     (3)  Help build a significant, fiscally strong, and permanent resource to serve the objectives expressed in this chapter.
+     An investor group engaged by the [corporation] fund board shall have a manager who is experienced in design and implementation, as well as the management of seed and venture capital investment programs and in capital formation.  The [corporation] fund board may remove and replace any investor group that has been engaged and effect the assignment of assets, liabilities, guarantees, and other contracts of this program to a new investor group, subject to such terms and conditions as may be set forth in the terms of engagement.
+     [(b)  With legislative approval pursuant to section 211G-14, the corporation may extend one or more guarantees and secure the performance of such guarantees in the form of a put option, as well as other arrangements selected by the corporation.  Without limiting the foregoing:
+     (1)  The corporation may guarantee loans, lines of credit, and other indebtedness and equity investments and may arrange for, pledge, and assign put options, as well as other agreements to purchase tax credits on such terms as the board may approve from time to time, in order to generate funds to deploy in a manner consistent with this chapter;
+     (2)  The guarantees of loans, lines of credit, and other indebtedness may extend up to the principal amount plus interest over the term of the guarantee at a rate set by board resolution from time to time, a guarantee of a loan, lines of credit, or other indebtedness in a manner consistent with this chapter; and
+     (3)  Guarantees of equity capital may extend up to the amount of the investment plus a rate of return set by board resolution from time to time in a manner consistent with this chapter.
+     Guarantees, in whatever form negotiated by the corporation, may be made for any period of time, but no term shall expire prior to January 1, 2006.  The corporation may charge a reasonable fee for costs and the fair compensation of risks associated with its guarantee.  Proceeds from the sale of any tax credits may be used to satisfy the contractual guarantee obligation of the corporation.  The corporation may contract freely to protect the interest of the State.
+     (c)  If the corporation purchases any security pursuant to an agreement with an investor group, the corporation shall acquire the securities and may invest, manage, transfer, or dispose of the securities in accordance with policies for the management of assets adopted by the corporation.
+     (d)  The corporation may make any contract, execute any document, charge reasonable fees for services rendered, perform any act or enter into any financial or other transaction necessary to carry out its mission.  The corporation may employ necessary staff as may be required for the proper implementation of this chapter, the management of its assets, or the performance of any function authorized or required by this chapter necessary for the accomplishment of any such function.  Staff shall be selected by the corporation based upon outstanding knowledge and leadership in the field for which the person performs services for the board.
+     (e)  In carrying out the mission of the corporation, as authorized in this chapter, neither the corporation nor its officers, board members, or employees shall be considered to be broker-dealers, agents, investment advisors, or investment adviser representatives under chapter 485A.  The tax credits issued or transferred pursuant to this chapter shall not be considered securities under chapter 485A.
+     (f)  Funds raised or arranged by the corporation pursuant to this chapter shall be invested in seed capital and venture capital investments, as such terms are defined in chapter 211F, which, to the extent consistent with this chapter, shall be governed by applicable provisions of chapter 211F.
+     (g)  The guarantees extended by the fund shall be payable solely from revenues of the fund and shall be secured solely by those revenues and by the pledges and assignments authorized by this chapter.  No holders of guarantees issued under this chapter shall have a right to compel any exercise of the taxing power of the State to pay the guarantees and no moneys other than the revenues of the fund shall be applied to payment thereof.  Each guarantee issued under this chapter shall recite in substance that the guarantee is not a general obligation of the State and is payable solely from revenues pledged to the payment thereof, and that such guarantee is not secured directly or indirectly by the full faith and credit or the general credit of the State or by any revenues or taxes of the State other than the revenues specifically pledged thereto.]"
+     SECTION 9.  Section 211G-15, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  Seven years after the [corporation] state private investment fund has begun operations under this chapter, the corporation shall review, analyze, and evaluate the extent to which the corporation [has] and the state private investment fund have achieved [its] their statutory mission.  The evaluation shall include[,] but not be limited to[,] an examination of quantified results of the corporation's programs and plans."
+     SECTION 10.  Section 211G-16, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§211G-16[]]  Capital formation revolving fund.  (a) There is established a revolving fund [for the corporation] to be designated as the capital formation revolving fund[.  The following shall be deposited into the capital formation revolving fund, all moneys:] and administered by the state private investment fund.  All moneys:
+     (1)  Appropriated by the legislature;
+     (2)  Received as repayment of loans;
+     (3)  Earned on investments;
+     (4)  Received pursuant to a venture agreement;
+     (5)  Received as royalties;
+     (6)  Received as premiums or fees charged by the corporation; or
+     (7)  Otherwise received by the corporation[.] or the state private investment fund,
+under this chapter shall be deposited into the capital formation revolving fund.
+     (b)  The capital formation revolving fund shall be used for all expenses incurred in the administration of this chapter by the state private investment fund and the corporation and to make investments, repay indebtedness, or redeem equity interests.  Any returns in excess of operating costs and moneys payable to investors shall be deposited in the redemption reserve and held by the state private investment fund as a first priority reserve for the redemption of tax credits issued to the corporation pursuant to section 211G-12(a).  On June 30 of each year, any moneys in excess of these amounts shall be deposited into the general fund."
+     SECTION 11.  Section 211G-17, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§211G-17[]]  Audit[; state auditor].  The books and records of the state private investment fund shall be audited every year by [the state auditor.] an independent auditor."
+     SECTION 12.  Section 211G-14, Hawaii Revised Statutes, is repealed.
+     ["[§211G-14]  Indebtedness; legislative approval.  The corporation shall not incur any indebtedness without legislative approval.  Legislative approval for the corporation to incur indebtedness shall be by means of a separate legislative act."]
+     SECTION 13.  The Hawaii strategic development corporation is authorized to issue and transfer $           in tax credits pursuant to chapter 211G, Hawaii Revised Statutes.
+     SECTION 14.  If any provision of this Act, or the application thereof to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of the Act that can be given effect without the invalid provision or application, and to this end the provisions of this Act are severable.
+     SECTION 15.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 16.  This Act shall take effect upon approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+ 
+Report Title:
+State Private Investment Fund; Venture Capital; High Technology
+ 
+Description:
+Amends the state private investment fund program to establish a managing fund board.  Authorizes insurance tax credits to be used as a fund guarantee.  Establishes investment limits.  Requires investments in successful venture capital firms with experienced managers and an ability to mentor entrepreneurs.  Sets a target of 30% of investments in Hawaii-based businesses.  Directs that returns exceeding fund expenses, debts, and investor equity interests be deposited into the general fund.  Effective upon approval.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

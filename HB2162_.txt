@@ -1,0 +1,465 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2162
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO UNIFORM COMMERCIAL CODE ARTICLE 9.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+SECTION 1.  Chapter 490, Hawaii Revised Statutes, is amended by adding to article 9 a new part to be designated and to read as follows: 
+"PART 8
+TRANSITION PROVISIONS FOR 2010 AMENDMENTS
+     §490:9-801  Effective date.  This Act takes effect on July 1, 2013.
+     §490:9-802  Savings clause.  (a)  Except as otherwise provided in this part, this Act applies to a transaction or lien within its scope, even if the transaction or lien was entered into or created before this Act takes effect.
+     (b)  This Act does not affect an action, case, or proceeding commenced before this Act takes effect.
+     §490:9-803  Security interest perfected before effective date.  (a)  A security interest that is a perfected security interest immediately before this Act takes effect is a perfected security interest under article 9 as amended by this Act if, when this Act takes effect, the applicable requirements for attachment and perfection under article 9 as amended by this Act are satisfied without further action.
+     (b)  Except as otherwise provided in section 490:9-805, if, immediately before this Act takes effect, a security interest is a perfected security interest, but the applicable requirements for perfection under article 9 as amended by this Act are not satisfied when this Act takes effect, the security interest remains perfected thereafter only if the applicable requirements for perfection under article 9 as amended by this Act are satisfied within one year after this Act takes effect.
+     §490:9-804  Security interest unperfected before effective date.  A security interest that is an unperfected security interest immediately before this Act takes effect becomes a perfected security interest:
+     (1)  Without further action, when this Act takes effect if the applicable requirements for perfection under article 9 as amended by this Act are satisfied before or at that time; or
+     (2)  When the applicable requirements for perfection are satisfied if the requirements are satisfied after that time.
+     §490:9-805  Effectiveness of action taken before effective date.  (a)  The filing of a financing statement before this Act takes effect is effective to perfect a security interest to the extent the filing would satisfy the applicable requirements for perfection under article 9 as amended by this Act.
+`(b)  This Act does not render ineffective an effective financing statement that, before this Act takes effect, is filed and satisfies the applicable requirements for perfection under the law of the jurisdiction governing perfection as provided in article 9 as it existed before amendment.  However, except as otherwise provided in subsections (c) and (d) and section 490:9-806, the financing statement ceases to be effective:
+     (1)  If the financing statement is filed in this State, at the time the financing statement would have ceased to be effective had this Act not taken effect; or
+     (2)  If the financing statement is filed in another jurisdiction, at the earlier of:
+         (A)  The time the financing statement would have ceased to be effective under the law of that jurisdiction; or
+         (B)  June 30, 2018.
+     (c)  The filing of a continuation statement after this Act takes effect does not continue the effectiveness of a financing statement filed before this Act takes effect.  However, upon the timely filing of a continuation statement after this Act takes effect and in accordance with the law of the jurisdiction governing perfection as provided in article 9 as amended by this Act, the effectiveness of a financing statement filed in the same office in that jurisdiction before this Act takes effect continues for the period provided by the law of that jurisdiction.
+     (d)  Subsection (b)(2)(B) applies to a financing statement that, before this Act takes effect, is filed against a transmitting utility and satisfies the applicable requirements for perfection under the law of the jurisdiction governing perfection as provided in article 9 as it existed before amendment, only to the extent that article 9 as amended by this Act provides that the law of a jurisdiction other than the jurisdiction in which the financing statement is filed governs perfection of a security interest in collateral covered by the financing statement.
+     (e)  A financing statement that includes a financing statement filed before this Act takes effect and a continuation statement filed after this Act takes effect is effective only to the extent that it satisfies the requirements of part 5 as amended by this Act for an initial financing statement.  A financing statement that indicates that the debtor is a decedent's estate indicates that the collateral is being administered by a personal representative within the meaning of section 490:9‑503(a)(2) as amended by this Act.  A financing statement that indicates that the debtor is a trust or is a trustee acting with respect to property held in trust indicates that the collateral is held in a trust within the meaning of section 490:9-503(a)(3) as amended by this Act.
+     §490:9-806  When initial financing statement suffices to continue effectiveness of financing statement.  (a)  The filing of an initial financing statement in the office specified in section 490:9-501 continues the effectiveness of a financing statement filed before this Act takes effect if:
+     (1)  The filing of an initial financing statement in that office would be effective to perfect a security interest under article 9 as amended by this Act;
+     (2)  The pre-effective-date financing statement was filed in an office in another state; and
+     (3)  The initial financing statement satisfies subsection (c).
+     (b)  The filing of an initial financing statement under subsection (a) continues the effectiveness of the pre-effective-date financing statement:
+     (1)  If the initial financing statement is filed before this Act takes effect, for the period provided in unamended section 490:9-515 with respect to an initial financing statement; and
+     (2)  If the initial financing statement is filed after this Act takes effect, for the period provided in section 490:9-515 as amended by this Act with respect to an initial financing statement.
+     (c)  To be effective for purposes of subsection (a), an initial financing statement must:
+     (1)  Satisfy the requirements of part 5 as amended by this Act for an initial financing statement;
+     (2)  Identify the pre-effective-date financing statement by indicating the office in which the financing statement was filed and providing the dates of filing and file numbers, if any, of the financing statement and of the most recent continuation statement filed with respect to the financing statement; and
+     (3)  Indicate that the pre-effective-date financing statement remains effective.
+     §490:9-807  Amendment of pre-effective-date financing statement.  (a)  In this section, "pre-effective-date financing statement" means a financing statement filed before this Act takes effect.
+     (b)  After this Act takes effect, a person may add or delete collateral covered by, continue or terminate the effectiveness of, or otherwise amend the information provided in, a pre-effective-date financing statement only in accordance with the law of the jurisdiction governing perfection as provided in article 9 as amended by this Act.  However, the effectiveness of a pre-effective-date financing statement also may be terminated in accordance with the law of the jurisdiction in which the financing statement is filed.
+     (c)  Except as otherwise provided in subsection (d), if the law of this State governs perfection of a security interest, the information in a pre-effective-date financing statement may be amended after this Act takes effect only if:
+     (1)  The pre-effective-date financing statement and an amendment are filed in the office specified in section 490:9-501;
+     (2)  An amendment is filed in the office specified in section 490:9-501 concurrently with, or after the filing in that office of, an initial financing statement that satisfies section 490:9-806(c); or
+     (3)  An initial financing statement that provides the information as amended and satisfies section 490:9‑806(c) is filed in the office specified in section 490:9-501.
+     (d)  If the law of this State governs perfection of a security interest, the effectiveness of a pre-effective-date financing statement may be continued only under section 490:9‑805(c) and (e) or 490:9-806.
+     (e)  Whether or not the law of this State governs perfection of a security interest, the effectiveness of a pre-effective-date financing statement filed in this State may be terminated after this Act takes effect by filing a termination statement in the office in which the pre-effective-date financing statement is filed, unless an initial financing statement that satisfies section 490:9-806(c) has been filed in the office specified by the law of the jurisdiction governing perfection as provided in article 9 as amended by this Act as the office in which to file a financing statement.
+     §490:9-808  Person entitled to file initial financing statement or continuation statement.  A person may file an initial financing statement or a continuation statement under this part if:
+     (1)  The secured party of record authorizes the filing; and
+     (2)  The filing is necessary under this part:
+         (A)  To continue the effectiveness of a financing statement filed before this Act takes effect; or
+         (B)  To perfect or continue the perfection of a security interest.
+     §490:9‑809  Priority.  This Act determines the priority of conflicting claims to collateral.  However, if the relative priorities of the claims were established before this Act takes effect, article 9 as it existed before amendment determines priority."
+     SECTION 2.  Section 490:9-102, Hawaii Revised Statutes, is amended as follows:
+     1.  By adding a new definition to be appropriately inserted and to read:
+     ""Public organic record" means a record that is available to the public for inspection and is:
+     (1)  A record consisting of the record initially filed with or issued by a state or the United States to form or organize an organization and any record filed with or issued by the state or the United States that amends or restates the initial record;
+     (2)  An organic record of a business trust consisting of the record initially filed with a state and any record filed with the state that amends or restates the initial record, if a statute of the state governing business trusts requires that the record be filed with the state; or
+     (3)  A record consisting of legislation enacted by the legislature of a state or the Congress of the United States that forms or organizes an organization, any record amending the legislation, and any record filed with or issued by the state or the United States that amends or restates the name of the organization."
+     2.  By amending the definitions of "authenticate", "certificate of title", "jurisdiction of organization", and "registered organization" to read:
+     ""Authenticate" means:
+     (1)  To sign; or
+     (2)  [To execute or otherwise adopt a symbol, or encrypt or similarly process a record in whole or in part, with the present intent of the authenticating person to identify the person and adopt or accept a record.] With present intent to adopt or accept a record, to attach or to logically associate with the record an electronic sound, symbol, or process.
+     "Certificate of title" means a certificate of title with respect to which a statute provides for the security interest in question to be indicated on the certificate as a condition or result of the security interest's obtaining priority over the rights of a lien creditor with respect to the collateral.  The term includes another record maintained as an alternative to a certificate of title by the governmental unit that issues certificates of title if a statute permits the security interest in question to be indicated on the record as a condition or result of the security interest's obtaining priority over the rights of a lien creditor with respect to the collateral.
+     "Jurisdiction of organization", with respect to a registered organization, means the jurisdiction under whose law the organization is formed or organized.
+     "Registered organization" means an organization formed or organized solely under the law of a single state or the United States [and as to which the state or the United States must maintain a public record showing the organization to have been organized.] by the filing of a public organic record with, the issuance of a public organic record by, or the enactment of legislation by the state or the United States.  The term includes a business trust that is formed or organized under the law of a single state if a statute of the state governing business trusts requires that the business trust's organic record be filed with the state."
+     SECTION 3.  Section 490:9-105, Hawaii Revised Statutes, is amended to read as follows:
+     "§490:9-105  Control of electronic chattel paper.  (a)  A secured party has control of electronic chattel paper if a system employed for evidencing the transfer of interests in the chattel paper reliably establishes the secured party as the person to which the chattel paper was assigned.  
+     (b)  A system satisfies subsection (a) if the record or records comprising the chattel paper are created, stored, and assigned in such a manner that:
+     (1)  A single authoritative copy of the record or records exists which is unique, identifiable and, except as otherwise provided in paragraphs (4), (5), and (6), unalterable;
+     (2)  The authoritative copy identifies the secured party as the assignee of the record or records;
+     (3)  The authoritative copy is communicated to and maintained by the secured party or its designated custodian;
+     (4)  Copies or [revisions] amendments that add or change an identified assignee of the authoritative copy can be made only with the [participation] consent of the secured party;
+     (5)  Each copy of the authoritative copy and any copy of a copy is readily identifiable as a copy that is not the authoritative copy; and
+     (6)  Any [revision] amendment of the authoritative copy is readily identifiable as [an] authorized or unauthorized [revision]."
+     SECTION 4.  Section 490:9-307, Hawaii Revised Statutes, is amended by amending subsection (f) to read as follows:
+     "(f)  Except as otherwise provided in subsection (i), a registered organization that is organized under the law of the United States and a branch or agency of a bank that is not organized under the law of the United States or a state are located:
+     (1)  In the state that the law of the United States designates, if the law designates a state of location;
+     (2)  In the state that the registered organization, branch, or agency designates, if the law of the United States authorizes the registered organization, branch, or agency to designate its state of location[;], including by designating its main office, home office, or other comparable office; or
+     (3)  In the District of Columbia, if neither paragraph (1) nor paragraph (2) applies."
+     SECTION 5.  Section 490:9-311, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  Except as otherwise provided in subsection (d), the filing of a financing statement is not necessary or effective to perfect a security interest in property subject to:
+     (1)  A statute, regulation, or treaty of the United States whose requirements for a security interest's obtaining priority over the rights of a lien creditor with respect to the property preempt section 490:9-310(a);
+     (2)  Chapter 286; or
+     (3)  A [certificate-of-title] statute of another jurisdiction which provides for a security interest to be indicated on [the] a certificate of title as a condition or result of the security interest's obtaining priority over the rights of a lien creditor with respect to the property."
+     SECTION 6.  Section 490:9-316, Hawaii Revised Statutes, is amended to read as follows:
+     "§490:9-316  [Continued perfection of security interest following] Effect of change in governing law.  (a)  A security interest perfected pursuant to the law of the jurisdiction designated in section 490:9-301(1) or 490:9-305(c) remains perfected until the earliest of:
+     (1)  The time perfection would have ceased under the law of that jurisdiction;
+     (2)  The expiration of four months after a change of the debtor's location to another jurisdiction; or
+     (3)  The expiration of one year after a transfer of collateral to a person that thereby becomes a debtor and is located in another jurisdiction.
+     (b)  If a security interest described in subsection (a) becomes perfected under the law of the other jurisdiction before the earliest time or event described in that subsection, it remains perfected thereafter.  If the security interest does not become perfected under the law of the other jurisdiction before the earliest time or event, it becomes unperfected and is deemed never to have been perfected as against a purchaser of the collateral for value.
+     (c)  A possessory security interest in collateral, other than goods covered by a certificate of title and as-extracted collateral consisting of goods, remains continuously perfected if:
+     (1)  The collateral is located in one jurisdiction and subject to a security interest perfected under the law of that jurisdiction;
+     (2)  Thereafter the collateral is brought into another jurisdiction; and
+     (3)  Upon entry into the other jurisdiction, the security interest is perfected under the law of the other jurisdiction.
+     (d)  Except as otherwise provided in subsection (e), a security interest in goods covered by a certificate of title which is perfected by any method under the law of another jurisdiction when the goods become covered by a certificate of title from this State remains perfected until the security interest would have become unperfected under the law of the other jurisdiction had the goods not become so covered.
+     (e)  A security interest described in subsection (d)  becomes unperfected as against a purchaser of the goods for value and is deemed never to have been perfected as against a purchaser of the goods for value if the applicable requirements for perfection under section 490:9-311(b) or 490:9-313 are not satisfied before the earlier of:
+     (1)  The time the security interest would have become unperfected under the law of the other jurisdiction had the goods not become covered by a certificate of title from this State; or
+     (2)  The expiration of four months after the goods had become so covered.
+     (f)  A security interest in deposit accounts, letter-of-credit rights, or investment property which is perfected under the law of the bank's jurisdiction, the issuer's jurisdiction, a nominated person's jurisdiction, the securities intermediary's jurisdiction, or the commodity intermediary's jurisdiction, as applicable, remains perfected until the earlier of:
+     (1)  The time the security interest would have become unperfected under the law of that jurisdiction; or
+     (2)  The expiration of four months after a change of the applicable jurisdiction to another jurisdiction.
+     (g)  If a security interest described in subsection (f) becomes perfected under the law of the other jurisdiction before the earlier of the time or the end of the period described in that subsection, it remains perfected thereafter.  If the security interest does not become perfected under the law of the other jurisdiction before the earlier of that time or the end of that period, it becomes unperfected and is deemed never to have been perfected as against a purchaser of the collateral for value.
+     (h)  The following rules apply to collateral to which a security interest attaches within four months after the debtor changes its location to another jurisdiction:
+     (1)  A financing statement filed before the change pursuant to the law of the jurisdiction designated in section 490:9-301(1) or 490:9-305(c) is effective to perfect a security interest in the collateral if the financing statement would have been effective to perfect a security interest in the collateral had the debtor not changed its location; and
+     (2)  If a security interest perfected by a financing statement that is effective under paragraph (1) becomes perfected under the law of the other jurisdiction before the earlier of the time the financing statement would have become ineffective under the law of the jurisdiction designated in section 490:9-301(1) or 490:9-305(c) or the expiration of the four-month period, it remains perfected thereafter.  If the security interest does not become perfected under the law of the other jurisdiction before the earlier time or event, it becomes unperfected and is deemed never to have been perfected as against a purchaser of the collateral for value.
+     (i)  If a financing statement naming an original debtor is filed pursuant to the law of the jurisdiction designated in section 490:9-301(1) or 490:9-305(c) and the new debtor is located in another jurisdiction, the following rules apply:
+     (1)  The financing statement is effective to perfect a security interest in collateral acquired by the new debtor before, and within four months after, the new debtor becomes bound under section 490:9-203(d), if the financing statement would have been effective to perfect a security interest in the collateral had the collateral been acquired by the original debtor; and
+     (2)  A security interest perfected by the financing statement and that becomes perfected under the law of the other jurisdiction before the earlier of the time the financing statement would have become ineffective under the law of the jurisdiction designated in section 490:9-301(1) or 490:9-305(c) or the expiration of the four-month period remains perfected thereafter.  A security interest that is perfected by the financing statement but that does not become perfected under the law of the other jurisdiction before the earlier time or event becomes unperfected and is deemed never to have been perfected as against a purchaser of the collateral for value."
+     SECTION 7.  Section 490:9-317, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending subsection (b) to read:
+     "(b)  Except as otherwise provided in subsection (e), a buyer, other than a secured party, of tangible chattel paper, tangible documents, goods, instruments, or [a security certificate] certificated security takes free of a security interest or agricultural lien if the buyer gives value and receives delivery of the collateral without knowledge of the security interest or agricultural lien and before it is perfected."
+     2.  By amending subsection (d) to read:
+     "(d)  A licensee of a general intangible or a buyer, other than a secured party, of [accounts, electronic chattel paper, electronic documents, general intangibles, or investment property] collateral other than tangible chattel paper, tangible documents, goods, instruments, or a certificated security takes free of a security interest if the licensee or buyer gives value without knowledge of the security interest and before it is perfected."
+     SECTION 8.  Section 490:9-326, Hawaii Revised Statutes, is amended to read as follows:
+     "§490:9-326  Priority of security interests created by new debtor.  (a)  Subject to subsection (b), a security interest that is created by a new debtor [which is] in collateral in which the new debtor has or acquires rights and is perfected solely by a filed financing statement that [is effective solely under section 490:9-508 in collateral in which a new debtor has or acquires rights] would be ineffective to perfect the security interest but for the application of section 490:9-316(i)(1) or 490:9-508 is subordinate to a security interest in the same collateral which is perfected other than by such a filed financing statement [that is effective solely under section 490:9-508].
+     (b)  The other provisions of this part determine the priority among conflicting security interests in the same collateral perfected by filed financing statements [that are effective solely under section 490:9-508.] described in subsection (a).  However, if the security agreements to which a new debtor became bound as debtor were not entered into by the same original debtor, the conflicting security interests rank according to priority in time of the new debtor's having become bound."
+     SECTION 9.  Section 490:9-406, Hawaii Revised Statutes, is amended by amending subsection (e) to read as follows:
+     "(e)  Subsection (d) does not apply to the sale of a payment intangible or promissory note[.], other than a sale pursuant to a disposition under section 490:9-610 or an acceptance of collateral under section 490:9-620."
+     SECTION 10.  Section 490:9-408, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  Subsection (a) applies to a security interest in a payment intangible or promissory note only if the security interest arises out of a sale of the payment intangible or promissory note[.], other than a sale pursuant to a disposition under section 490:9-610 or an acceptance of collateral under section 490:9-620."
+     SECTION 11.  Section 490:9-502, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  A record of a mortgage is effective, from the date of recording, as a financing statement filed as a fixture filing or as a financing statement covering as-extracted collateral or timber to be cut only if:
+     (1)  The record indicates the goods or accounts that it covers;
+     (2)  The goods are or are to become fixtures related to the real property described in the record or the collateral is related to the real property described in the record and is as-extracted collateral or timber to be cut;
+     (3)  The record satisfies with the requirements for a financing statement in this section [other than an indication], but:
+         (A)  The record need not indicate that it is to be filed in the real property records; and
+         (B)  The record sufficiently provides the name of a debtor who is an individual if it provides the individual name of the debtor or the surname and first personal name of the debtor, even if the debtor is an individual to whom section 490:9-503(a)(4) applies; and
+     (4)  The record is duly recorded."
+     SECTION 12.  Section 490:9-503, Hawaii Revised Statutes, is amended to read as follows:
+     "§490:9-503  Name of debtor and secured party.  (a)  A financing statement sufficiently provides the name of the debtor:
+     (1)  [If] Except as otherwise provided in paragraph (3), if the debtor is a registered organization or the collateral is held in a trust that is a registered organization, only if the financing statement provides the name [of the debtor indicated] that is stated to be the registered organization's name on the public organic record [of] most recently filed with or issued or enacted by the [debtor's] registered organization's  jurisdiction of organization which [shows the debtor to have been organized;] purports to state, amend, or restate the registered organization's name;
+     (2)  [If] Subject to subsection (f), if the [debtor is a decedent's estate,] collateral is being administered by the personal representative of a decedent, only if the financing statement provides, as the name of the debtor, the name of the decedent and, in a separate part of the financing statement, indicates that the [debtor is an estate;] collateral is being administered by a personal representative;
+     (3)  If the [debtor is a trust or a trustee acting with respect to property held in trust, only if the financing statement:
+         (A)  Provides the name specified for the trust in its organic documents or, if no name is specified, provides the name of the settlor and additional information sufficient to distinguish the debtor from other trusts having one or more of the same settlors; and
+         (B)  Indicates, in the debtor's name or otherwise, that the debtor is a trust or is a trustee acting with respect to property held in trust; and]
+          collateral is held in a trust that is not a registered organization, only if the financing statement:
+         (A)  Provides, as the name of the debtor:
+              (i)  If the organic record of the trust specifies a name for the trust, the name specified; or
+             (ii)  If the organic record of the trust does not specify a name for the trust, the name of the settlor or testator; and
+         (B)  In a separate part of the financing statement:
+              (i)  If the name is provided in accordance with subparagraph (A)(i), indicates that the collateral is held in a trust; or
+             (ii)  If the name is provided in accordance with subparagraph (A)(ii), provides additional information sufficient to distinguish the trust from other trusts having one or more of the same settlors or the same testator and indicates that the collateral is held in a trust, unless the additional information so indicates;
+     (4)  Subject to subsection (g), if the debtor is an individual to whom this State has issued a driver's license or non-driver identification card that has not expired, only if the financing statement provides the name of the individual that is indicated on the driver's license or non-driver identification card;
+     (5)  If the debtor is an individual to whom paragraph (4) does not apply, only if the financing statement provides the individual name of the debtor or the surname and first personal name of the debtor; and
+    [(4)] (6)  In other cases:
+         (A)  If the debtor has a name, only if [it] the financing statement provides the [individual or] organizational name of the debtor; and
+         (B)  If the debtor does not have a name, only if it provides the names of the partners, members, associates, or other persons comprising the debtor[.], in a manner that each name provided would be sufficient if the person named were the debtor.
+     (b)  A financing statement that provides the name of the debtor in accordance with subsection (a) is not rendered ineffective by the absence of:
+     (1)  A trade name or other name of the debtor; or
+     (2)  Unless required under subsection [(a)(4)(B),] (a)(6)(B), names of partners, members, associates, or other persons comprising the debtor.
+     (c)  A financing statement that provides only the debtor's trade name does not sufficiently provide the name of the debtor.
+     (d)  Failure to indicate the representative capacity of a secured party or representative of a secured party does not affect the sufficiency of a financing statement.
+     (e)  A financing statement may provide the name of more than one debtor and the name of more than one secured party.
+     (f)  The name of the decedent indicated on the order appointing the personal representative of the decedent issued by the court having jurisdiction over the collateral is sufficient as the "name of the decedent" under subsection (a)(2).
+     (g)  If this State has issued to an individual more than one driver's license or non-driver identification card of a kind described in subsection (a)(4), the one that was issued most recently is the one to which subsection (a)(4) refers.
+     (h)  In this section, the "name of the settlor or testator" means:
+     (1)  If the settlor is a registered organization, the name that is stated to be the settlor's name on the public organic record filed most recently with or issued or enacted by the settlor's jurisdiction of organization that purports to state, amend, or restate the settlor's name; or
+     (2)  In other cases, the name of the settlor or testator indicated in the trust's organic record."
+     SECTION 13.  Section 490:9-507, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  If [a debtor so changes its] the name that a filed financing statement provides for a debtor becomes insufficient as the name of the debtor under section 490:9-503(a) so that the financing statement becomes seriously misleading under section 490:9-506:
+     (1)  The financing statement is effective to perfect a security interest in collateral acquired by the debtor before, or within four months after, the [change;] filed financing statement becomes seriously misleading; and
+     (2)  The financing statement is not effective to perfect a security interest in collateral acquired by the debtor more than four months after the [change,] filed financing statement becomes seriously misleading, unless an amendment to the financing statement which renders the financing statement not seriously misleading is filed within four months after [the change.] the financing statement became seriously misleading."
+     SECTION 14.  Section 490:9-515, Hawaii Revised Statutes, is amended by amending subsection (f) to read as follows:
+     "(f)  If a debtor is a transmitting utility and a filed initial financing statement so indicates, the financing statement is effective until a termination statement is filed."
+     SECTION 15.  Section 490:9-516, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  Filing does not occur with respect to a record that a filing office refuses to accept because:
+     (1)  The record is not communicated by a method or medium of communication authorized by the filing office;
+     (2)  An amount equal to or greater than the applicable filing fee is not tendered;
+     (3)  The filing office is unable to index the record because:
+         (A)  In the case of an initial financing statement, the record does not provide a name for the debtor;
+         (B)  In the case of an amendment or [correction] information statement, the record:
+              (i)  Does not identify the initial financing statement as required by section 490:9-512 or 490:9-518, as applicable; or
+             (ii)  Identifies an initial financing statement whose effectiveness has lapsed under section 490:9-515;
+         (C)  In the case of an initial financing statement that provides the name of a debtor identified as an individual or an amendment that provides a name of a debtor identified as an individual which was not previously provided in the financing statement to which the record relates, the record does not identify the debtor's [last name;] surname; or
+         (D)  In the case of a record filed in the filing office described in section 490:9-501(a)(1), the record does not provide a sufficient description of the real property to which it relates;
+     (4)  In the case of an initial financing statement or an amendment that adds a secured party of record, the record does not provide a name and mailing address for the secured party of record;
+     (5)  In the case of an initial financing statement or an amendment that provides a name of a debtor which was not previously provided in the financing statement to which the amendment relates, the record does not:
+         (A)  Provide a mailing address for the debtor; or
+         (B)  Indicate whether the name provided as the name of the debtor is the name of an individual or an organization; [or
+         (C)  If the financing statement indicates that the debtor is an organization, provide:
+              (i)  A type of organization for the debtor;
+             (ii)  A jurisdiction of organization for the debtor; or
+            (iii)  An organizational identification number for the debtor or indicate that the debtor has none;]
+     (6)  In the case of an assignment reflected in an initial financing statement under section 490:9-514(a) or an amendment filed under section 490:9-514(b), the record does not provide a name and mailing address for the assignee; or
+     (7)  In the case of a continuation statement, the record is not filed within the six-month period prescribed by section 490:9-515(d)."
+     SECTION 16.  Section 490:9-518, Hawaii Revised Statutes, is amended to read as follows:
+     "§490:9-518  Claim concerning inaccurate or wrongfully filed record.  (a)  A person may file in the filing office [a correction] an information statement with respect to a record indexed there under the person's name if the person believes that the record is inaccurate or was wrongfully filed.
+     [(b)  A correction statement must:
+     (1)  Identify the record to which it relates by the file number assigned to the initial financing statement to which the record relates;
+     (2)  Indicate that it is a correction statement; and
+     (3)  Provide the basis for the person's belief that the record is inaccurate and indicate the manner in which the person believes the record should be amended to cure any inaccuracy or provide the basis for the person's belief that the record was wrongfully filed.]
+     (b)  An information statement under subsection (a) shall:
+     (1)  Identify the record to which it relates by the file number assigned to the initial financing statement to which the record relates;
+     (2)  Indicate that it is an information statement; and
+     (3)  Provide the basis for the person's belief that the record is inaccurate and indicate the manner in which the person believes the record should be amended to cure any inaccuracy or provide the basis for the person's belief that the record was wrongfully filed.
+     (c)  A person may file in the filing office an information statement with respect to a record filed there if the person is a secured party of record with respect to the financing statement to which the record relates and believes that the person that filed the record was not entitled to do so under section 490:9-509(d).
+     (d)  An information statement under subsection (c) shall:
+     (1)  Identify the record to which it relates by the file number assigned to the initial financing statement to which the record relates;
+     (2)  Indicate that it is an information statement; and
+     (3)  Provide the basis for the person's belief that the person that filed the record was not entitled to do so under section 490:9-509(d).
+     [(c)] (e)  The filing of [a correction] an information statement does not affect the effectiveness of an initial financing statement or other filed record."
+SECTION 17.  Section 490:9-521, Hawaii Revised Statutes, is amended to read as follows: 
+     "§490:9-521  Uniform form of written financing statement and amendment.  (a)  A filing office that accepts written records for filing may not refuse to accept a written initial financing statement in the following form, except for a reason set forth in section 490:9-516(b):
+UCC FINANCING STATEMENT
+FOLLOW INSTRUCTIONS
+ 
+A.    NAME & PHONE OF CONTACT AT FILER (optional)
+_____________________________________________
+B.     E-MAIL CONTACT AT FILER (optional)
+____________________________________________
+C.     SEND ACKNOWLEDGMENT TO: (Name and Address)
+______________________________________________
+ 
+THE ABOVE SPACE IS FOR
+FILING OFFICE USE ONLY
+ 
+1.    DEBTOR'S NAME - provide only one Debtor name (1a or 1b)  (use exact, full name; do not omit, modify, or abbreviate any word in the Debtor's name) 
+1a.  ORGANIZATION'S NAME
+________________________________________________________________
+OR
+1b.  INDIVIDUAL'S SURNAME     FIRST PERSONAL NAME
+_________________________    _____________________________________
+ADDITIONAL NAME(S)/INITIAL(S) THAT ARE PART OF THE NAME OF THIS DEBTOR        SUFFIX
+___________________________________________________    _____
+1c.  MAILING ADDRESS
+__________________________________________________________________________
+CITY                  STATE POSTAL CODE  COUNTRY
+_____________________________  _______ ______________ ____________
+2.    DEBTOR'S NAME -  provide only one Debtor name (2a or 2b) (use exact, full name; do not omit, modify, or abbreviate any word in the Debtor's name)
+ 
+2a. ORGANIZATION'S NAME
+__________________________________________________________________________
+OR
+2b. INDIVIDUAL'S SURNAME      FIRST PERSONAL NAME
+__________________________________    ____________________________________
+ADDITIONAL NAME(S)/INITIAL(S) THAT ARE PART OF THE NAME OF THIS DEBTOR        SUFFIX
+___________________________________________________    _____
+2c. MAILING ADDRESS
+__________________________________________________________________________
+CITY                  STATE POSTAL CODE  COUNTRY
+_____________________________  _______ ______________ ____________
+3.    SECURED PARTY'S NAME (or NAME of ASSIGNEE of ASSIGNOR SECURED PARTY) -  provide only one Secured Party name (3a or 3b)
+3a.  ORGANIZATION'S NAME
+______________________________________________________________________
+OR
+3b.  INDIVIDUAL'S SURNAME FIRST PERSONAL NAME
+__________________________________    ____________________________________
+ADDITIONAL NAME(S)/INITIAL(S)                                SUFFIX
+___________________________________________________    _____
+3c.  MAILING ADDRESS
+________________________________________________________________________
+CITY                  STATE POSTAL CODE  COUNTRY
+_____________________________  _______ ______________ ____________
+4.     COLLATERAL: This financing statement covers the following collateral:
+_______________________________________________________________________
+5.    Check only if applicable and check only one box: 
+Collateral is     9 held in a Trust (see Instructions)
+9 being administered by a Decedent's Personal Representative.
+6a.   Check only if applicable and check only one box:
+9 Public-Finance Transaction   9 Manufactured-Home Transaction
+9 A Debtor is a Transmitting Utility
+6b.    Check only if applicable and check only one box:
+9 Agricultural Lien     9 Non-UCC Filing
+7.    ALTERNATIVE DESIGNATION (if applicable):  9 Lessee/Lessor      9 Consignee/Consignor       9 Seller/Buyer
+ 9 Bailee/Bailor     9 Licensee/Licensor
+8.    OPTIONAL FILER REFERENCE DATA
+_______________________________________________________________________
+[UCC FINANCING STATEMENT (Form UCC1)]
+ 
+UCC FINANCING STATEMENT ADDENDUM
+FOLLOW INSTRUCTIONS
+9.    NAME OF FIRST DEBTOR (same as item 1a or 1b on Financing Statement)
+9a.  ORGANIZATION'S NAME
+_______________________________________________________________
+OR
+9b.  INDIVIDUAL'S SURNAME    
+________________________________________________________________________
+FIRST PERSONAL NAME
+________________________________________________________________________
+ADDITIONAL NAME(S)/INITIAL(S)                                SUFFIX
+___________________________________________________    _____
+THE ABOVE SPACE IS FOR
+FILING OFFICE USE ONLY
+ 
+10.   ADDITIONAL DEBTOR'S NAME - provide only one Debtor name (10a or 10b) (use exact, full name; do not omit, modify, or abbreviate any word in the Debtor's name)
+10a.  ORGANIZATION'S NAME
+_______________________________________________________________________
+OR
+10b.  INDIVIDUAL'S SURNAME          FIRST PERSONAL NAME
+____________________________________  _______________________
+ADDITIONAL NAME(S)/INITIAL(S) THAT ARE PART OF THE NAME OF THIS DEBTOR        SUFFIX
+___________________________________________________    _____
+10c.  MAILING ADDRESS
+______________________________________________________________________
+CITY                  STATE POSTAL CODE  COUNTRY
+_____________________________  _______ ______________ ____________
+ 
+11.   9 ADDITIONAL SECURED PARTY'S NAME or  9 ASSIGNOR SECURED PARTY'S NAME  - provide only one name (11a or 11b)
+11a.  ORGANIZATION'S NAME    
+______________________________________________________________________
+OR
+11b.  INDIVIDUAL'S SURNAME     FIRST PERSONAL NAME
+__________________________________    ____________________________________
+ADDITIONAL NAME(S)/INITIAL(S)                                 SUFFIX
+___________________________________________________    _____
+11c.  MAILING ADDRESS
+_______________________________________________________________________
+CITY                  STATE POSTAL CODE  COUNTRY
+_____________________________  _______ ______________ ____________
+12.    ADDITIONAL SPACE FOR ITEM 4 (Collateral)
+___________________________________________________________________________
+ 
+13.   9 This FINANCING STATEMENT is to be filed [for record] (or recorded) in the REAL ESTATE RECORDS (if applicable)
+14.   This FINANCING STATEMENT:
+9 covers timber to be cut   9 covers as-extracted collateral  9 is filed as a fixture filing
+15.   Name and address of a RECORD OWNER of real estate described in item 16 (if Debtor does not have a record interest):
+_______________________________________________________________________
+16.   Description of real estate:
+_______________________________________________________________________
+17.     MISCELLANEOUS:
+________________________________________________________________________
+[UCC FINANCING STATEMENT ADDENDUM (Form UCC1Ad)]
+(b)  A filing office that accepts written records for filing may not refuse to accept a written financing statement amendment in the following form, except for a reason set forth in section 490:9-516(b):
+UCC FINANCING STATEMENT AMENDMENT
+FOLLOW INSTRUCTIONS
+A.    NAME & PHONE OF CONTACT AT FILER (optional)
+_______________________________________________________________________
+B.     E-MAIL CONTACT AT FILER (optional)
+_______________________________________________________________________
+C.     SEND ACKNOWLEDGMENT TO: (Name and Address)
+_______________________________________________________________________
+THE ABOVE SPACE IS FOR
+FILING OFFICE USE ONLY
+ 
+1a.  INITIAL FINANCING STATEMENT FILE NUMBER
+_______________________________________________________________________
+1b. 9 This FINANCING STATEMENT AMENDMENT is to be filed [for record] (or recorded) in the REAL ESTATE RECORDS.
+Filer: attach Amendment Addendum (Form UCC3Ad) and provide Debtor's name in item 13.
+2.     9 TERMINATION: Effectiveness of the Financing Statement identified above is terminated with respect to the security interest(s) of Secured Party authorizing this Termination Statement
+3.     9 ASSIGNMENT (full or partial): Provide name of Assignee in item 7a or 7b, and address of Assignee in item 7c and name of Assignor in item 9. For partial assignment, complete items 7 and 9 and also indicate affected collateral in item 8
+4.     9 CONTINUATION: Effectiveness of the Financing Statement identified above with respect to the security interest(s) of Secured
+Party authorizing this Continuation Statement is continued for the additional period provided by applicable law
+5.     9 PARTY INFORMATION CHANGE:
+Check one of these two boxes:
+This Change affects 9 Debtor or 9 Secured Party of record.
+AND
+Check one of these three boxes to:
+9 CHANGE name and/or address: Complete item 6a or 6b, and item 7a or 7b and item 7c.
+9 ADD name: Complete item 7a or 7b, and item 7c.
+9 DELETE name: Give record name to be deleted in item 6a or 6b.
+6.    CURRENT RECORD INFORMATION: Complete for Party Information Change - provide only one name (6a or 6b)  (use exact, full name; do not omit, modify, or abbreviate any word in the Debtor's name)
+6a. ORGANIZATION'S NAME
+_______________________________________________________________________
+OR
+6b. INDIVIDUAL'S SURNAME      FIRST PERSONAL NAME
+__________________________________    ____________________________________
+ADDITIONAL NAME(S)/INITIAL(S)                       SUFFIX
+_______________________________________________________________ ________________
+7.    CHANGED OR ADDED INFORMATION: Complete for Assignment or Party Information Change - provide only one name (7a or 7b)  (use exact full name; do not omit, modify, or abbreviate any word in the Debtor's name)
+7a. ORGANIZATION'S NAME
+_______________________________________________________________________
+OR
+7b. INDIVIDUAL'S SURNAME      FIRST PERSONAL NAME
+__________________________________    ____________________________________
+ADDITIONAL NAME(S)/INITIAL(S) THAT ARE PART OF THE NAME OF THIS DEBTOR        SUFFIX
+_______________________________________________________________          ____________
+7c. MAILING ADDRESS
+______________________________________________________________________
+CITY                  STATE POSTAL CODE  COUNTRY
+_____________________________  _______ ______________ ____________
+8.    9 COLLATERAL CHANGE:
+Also check one of these four boxes:
+9 ADD collateral     9 DELETE collateral     9 RESTATE covered collateral
+9 ASSIGN collateral
+Indicate collateral:
+9.    NAME OF SECURED PARTY OF RECORD AUTHORIZING THIS AMENDMENT - provide only one name (9a or 9b) (name of  Assignor, if this is an Assignment)
+If this is an Amendment authorized by a DEBTOR, check here 9 and provide name of authorizing Debtor
+9a. ORGANIZATION'S NAME
+______________________________________________________________________
+OR
+9b. INDIVIDUAL'S SURNAME      FIRST PERSONAL NAME
+__________________________________    ____________________________________
+ADDITIONAL NAME(S)/INITIAL(S)                       SUFFIX
+_______________________________________________________________ ____________
+10.   OPTIONAL FILER REFERENCE DATA
+______________________________________________________________________
+[UCC FINANCING STATEMENT AMENDMENT (Form UCC3)]
+ 
+ 
+UCC FINANCING STATEMENT AMENDMENT ADDENDUM
+FOLLOW INSTRUCTIONS
+11.   INITIAL FINANCING STATEMENT FILE NUMBER (same as item 1a on Amendment form)
+______________________________________________________________________
+12.   NAME OF PARTY AUTHORIZING THIS AMENDMENT (same as item 9 on Amendment form)
+12a. ORGANIZATION'S NAME
+_______________________________________________________________________
+OR
+12b. INDIVIDUAL'S SURNAME FIRST PERSONAL NAME
+__________________________________    ____________________________________
+ADDITIONAL NAME(S)/INITIAL(S)                  SUFFIX
+______________________________________________________ _____________
+THE ABOVE SPACE IS FOR
+FILING OFFICE USE ONLY
+ 
+13.   Name of DEBTOR on related financing statement (Name of a current Debtor of record required for indexing purposes only in some  filing offices - see Instruction for item 13 - insert only one Debtor name (13a or 13b)  (use exact, full name; do not omit, modify, or abbreviate any word in the Debtor's name)
+13a. ORGANIZATION'S NAME
+_______________________________________________________________________
+OR
+13b. INDIVIDUAL'S SURNAME FIRST PERSONAL NAME
+__________________________________    ____________________________________
+ADDITIONAL NAME(S)/INITIAL(S)                  SUFFIX
+______________________________________________________ ___________
+14.     ADDITIONAL SPACE FOR ITEM 8 (Collateral)
+________________________________________________________________________
+15.   This FINANCING STATEMENT AMENDMENT:     9 covers timber to be cut
+9 covers as-extracted collateral     9 is filed as a fixture filing
+16.   Name and address of a RECORD OWNER of real estate described in item 17 (if Debtor does not have a record interest):
+_______________________________________________________________________
+17.   Description of real estate
+_______________________________________________________________________
+18.     MISCELLANEOUS:
+________________________________________________________________________
+ 
+[UCC FINANCING STATEMENT AMENDMENT ADDENDUM (Form UCC3Ad) ]
+ 
+(c)  A form that a filing office may not refuse to accept under subsection (a) or (b) must conform to the format prescribed for the form by the National Conference of Commissioners on Uniform State Laws."
+     SECTION 18.  Section 490:9-607, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  If necessary to enable a secured party to exercise under subsection (a)(3) the right of a debtor to enforce a mortgage nonjudicially, the secured party may record in the office in which a record of the mortgage is recorded:
+     (1)  A copy of the security agreement that creates or provides for a security interest in the obligation secured by the mortgage; and
+     (2)  The secured party's sworn affidavit in recordable form stating that:
+         (A)  A default has occurred[;] with respect to the obligation secured by the mortgage; and
+         (B)  The secured party is entitled to enforce the mortgage nonjudicially."
+     SECTION 19.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 20.  This Act shall take effect on July 1, 2013.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+         
+ 
+
+ 
+Report Title:
+Uniform Commercial Code; Secured Transactions
+ 
+Description:
+Implements the amendments to Article 9 of the Uniform Commercial Code, relating to secured transactions, set forth by the Uniform Law Commission.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

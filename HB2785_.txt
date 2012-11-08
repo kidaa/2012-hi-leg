@@ -1,0 +1,274 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2785
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO TAXATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 235-51, Hawaii Revised Statutes, is amended by amending subsections (a), (b), and (c) to read as follows:
+     "(a)  There is hereby imposed on the taxable income of (1) every taxpayer who files a joint return under section 235-93; and (2) every surviving spouse a tax determined in accordance with the following table:
+     In the case of any taxable year beginning after December 31, 2001:
+          If the taxable income is:    The tax shall be:
+          Not over $4,000              1.40% of taxable income
+          Over $4,000 but              $56.00 plus 3.20% of
+            not over $8,000              excess over $4,000
+          Over $8,000 but              $184.00 plus 5.50% of
+            not over $16,000             excess over $8,000
+          Over $16,000 but             $624.00 plus 6.40% of
+            not over $24,000             excess over $16,000
+          Over $24,000 but             $1,136.00 plus 6.80% of
+            not over $32,000             excess over $24,000
+          Over $32,000 but             $1,680.00 plus 7.20% of
+            not over $40,000             excess over $32,000
+          Over $40,000 but             $2,256.00 plus 7.60% of
+            not over $60,000             excess over $40,000
+          Over $60,000 but             $3,776.00 plus 7.90% of
+            not over $80,000             excess over $60,000
+          Over $80,000                 $5,356.00 plus 8.25% of
+                                         excess over $80,000.
+     In the case of any taxable year beginning after December 31, 2006:
+          If the taxable income is:    The tax shall be:
+          Not over $4,800              1.40% of taxable income
+          Over $4,800 but              $67.00 plus 3.20% of
+            not over $9,600              excess over $4,800
+          Over $9,600 but              $221.00 plus 5.50% of
+            not over $19,200             excess over $9,600
+          Over $19,200 but             $749.00 plus 6.40% of
+            not over $28,800             excess over $19,200
+          Over $28,800 but             $1,363.00 plus 6.80% of
+            not over $38,400             excess over $28,800
+          Over $38,400 but             $2,016.00 plus 7.20% of
+            not over $48,000             excess over $38,400
+          Over $48,000 but             $2,707.00 plus 7.60% of
+            not over $72,000             excess over $48,000
+          Over $72,000 but             $4,531.00 plus 7.90% of
+            not over $96,000             excess over $72,000
+          Over $96,000                 $6,427.00 plus 8.25% of
+                                         excess over $96,000.
+     In the case of any taxable year beginning after December 31, 2008:
+          If the taxable income is:    The tax shall be:
+          Not over $4,800              1.40% of taxable income
+          Over $4,800 but              $67.00 plus 3.20% of
+            not over $9,600              excess over $4,800
+          Over $9,600 but              $221.00 plus 5.50% of
+            not over $19,200             excess over $9,600
+          Over $19,200 but             $749.00 plus 6.40% of
+            not over $28,800             excess over $19,200
+          Over $28,800 but             $1,363.00 plus 6.80% of
+            not over $38,400             excess over $28,800
+          Over $38,400 but             $2,016.00 plus 7.20% of
+            not over $48,000             excess over $38,400
+          Over $48,000 but             $2,707.00 plus 7.60% of
+            not over $72,000             excess over $48,000
+          Over $72,000 but             $4,531.00 plus 7.90% of
+            not over $96,000             excess over $72,000
+          Over $96,000 but             $6,427.00 plus 8.25% of
+            not over $300,000            excess over $96,000
+          Over $300,000 but            $23,257.00 plus 9.00% of
+            not over $350,000            excess over $300,000
+          Over $350,000 but            $27,757.00 plus 10.00% of
+            not over $400,000            excess over $350,000
+          Over $400,000                $32,757.00 plus 11.00% of
+                                         excess over $400,000.
+     In the case of any taxable year beginning after December 31, 2011:
+          If the taxable income is:    The tax shall be:
+          Not over $24,000             1.00% of taxable income
+          Over $24,000 but             $240.00 plus 3.20% of
+            not over $63,500             excess over $24,000
+          Over $63,500 but             $1,504.00 plus 4.60% of
+            not over $100,000            excess over $63,500
+          Over $100,000 but            $3,183.00 plus 5.90% of
+            not over $140,000            excess over $100,000
+          Over $140,000 but            $5,543.00 plus 6.90% of
+            not over $200,000            excess over $140,000
+          Over $200,000                $9,683.00 plus 8.25% of
+                                         excess over $200,000.
+     (b)  There is hereby imposed on the taxable income of every head of a household a tax determined in accordance with the following table:
+     In the case of any taxable year beginning after December 31, 2001:
+          If the taxable income is:    The tax shall be:
+          Not over $3,000              1.40% of taxable income
+          Over $3,000 but              $42.00 plus 3.20% of
+            not over $6,000              excess over $3,000
+          Over $6,000 but              $138.00 plus 5.50% of
+            not over $12,000             excess over $6,000
+          Over $12,000 but             $468.00 plus 6.40% of
+            not over $18,000             excess over $12,000
+          Over $18,000 but             $852.00 plus 6.80% of
+            not over $24,000             excess over $18,000
+          Over $24,000 but             $1,260.00 plus 7.20% of
+            not over $30,000             excess over $24,000
+          Over $30,000 but             $1,692.00 plus 7.60% of
+            not over $45,000             excess over $30,000
+          Over $45,000 but             $2,832.00 plus 7.90% of
+            not over $60,000             excess over $45,000
+          Over $60,000                 $4,017.00 plus 8.25% of
+                                         excess over $60,000.
+     In the case of any taxable year beginning after December 31, 2006:
+          If the taxable income is:    The tax shall be:
+          Not over $3,600              1.40% of taxable income
+          Over $3,600 but              $50.00 plus 3.20% of
+            not over $7,200              excess over $3,600
+          Over $7,200 but              $166.00 plus 5.50% of
+            not over $14,400             excess over $7,200
+          Over $14,400 but             $562.00 plus 6.40% of
+            not over $21,600             excess over $14,400
+          Over $21,600 but             $1,022.00 plus 6.80% of
+            not over $28,800             excess over $21,600
+          Over $28,800 but             $1,512.00 plus 7.20% of
+            not over $36,000             excess over $28,800
+          Over $36,000 but             $2,030.00 plus 7.60% of
+            not over $54,000             excess over $36,000
+          Over $54,000 but             $3,398.00 plus 7.90% of
+            not over $72,000             excess over $54,000
+          Over $72,000                 $4,820.00 plus 8.25% of
+                                        excess over $72,000.
+     In the case of any taxable year beginning after December 31, 2008:
+          If the taxable income is:    The tax shall be:
+          Not over $3,600              1.40% of taxable income
+          Over $3,600 but              $50.00 plus 3.20% of
+            not over $7,200              excess over $3,600
+          Over $7,200 but              $166.00 plus 5.50% of
+            not over $14,400             excess over $7,200
+          Over $14,400 but             $562.00 plus 6.40% of
+            not over $21,600             excess over $14,400
+          Over $21,600 but             $1,022.00 plus 6.80% of
+            not over $28,800             excess over $21,600
+          Over $28,800 but             $1,512.00 plus 7.20% of
+            not over $36,000             excess over $28,800
+          Over $36,000 but             $2,030.00 plus 7.60% of
+            not over $54,000             excess over $36,000
+          Over $54,000 but             $3,398.00 plus 7.90% of
+            not over $72,000             excess over $54,000
+          Over $72,000 but             $4,820.00 plus 8.25% of
+            not over $225,000            excess over $72,000
+          Over $225,000 but            $17,443.00 plus 9.00% of
+            not over $262,500            excess over $225,000
+          Over $262,500 but            $20,818.00 plus 10.00% of
+            not over $300,000            excess over $262,500
+          Over $300,000                $24,568.00 plus 11.00% of
+                                         excess over $300,000.
+     In the case of any taxable year beginning after December 31, 2011:
+          If the taxable income is:    The tax shall be:
+          Not over $18,000             1.00% of taxable income
+          Over $18,000 but             $180.00 plus 3.20% of
+            not over $47,625             excess over $18,000
+          Over $47,625 but             $1,128.00 plus 4.60% of
+            not over $75,000             excess over $47,625
+          Over $75,000 but             $2,387.25 plus 5.90% of
+            not over $90,000             excess over $75,000
+          Over $90,000 but             $3,272.25 plus 6.90% of
+            not over $120,000            excess over $90,000
+          Over $120,000 but            $5,342.00 plus 7.90% of
+            not over $150,000            excess over $120,000
+          Over $150,000                $7,712.00 plus 8.25% of
+                                         excess over $150,000.
+     (c)  There is hereby imposed on the taxable income of (1) every unmarried individual (other than a surviving spouse, or the head of a household) and (2) on the taxable income of every married individual who does not make a single return jointly with the individual's spouse under section 235-93 a tax determined in accordance with the following table:
+     In the case of any taxable year beginning after December 31, 2001:
+          If the taxable income is:    The tax shall be:
+          Not over $2,000              1.40% of taxable income
+          Over $2,000 but              $28.00 plus 3.20% of
+            not over $4,000              excess over $2,000
+          Over $4,000 but              $92.00 plus 5.50% of
+            not over $8,000              excess over $4,000
+          Over $8,000 but              $312.00 plus 6.40% of
+            not over $12,000             excess over $8,000
+          Over $12,000 but             $568.00 plus 6.80% of
+            not over $16,000             excess over $12,000
+          Over $16,000 but             $840.00 plus 7.20% of
+            not over $20,000             excess over $16,000
+          Over $20,000 but             $1,128.00 plus 7.60% of
+            not over $30,000             excess over $20,000
+          Over $30,000 but             $1,888.00 plus 7.90% of
+            not over $40,000             excess over $30,000
+          Over $40,000                 $2,678.00 plus 8.25% of
+                                         excess over $40,000.
+     In the case of any taxable year beginning after December 31, 2006:
+          If the taxable income is:    The tax shall be:
+          Not over $2,400              1.40% of taxable income
+          Over $2,400 but              $34.00 plus 3.20% of
+            not over $4,800              excess over $2,400
+          Over $4,800 but              $110.00 plus 5.50% of
+            not over $9,600              excess over $4,800
+          Over $9,600 but              $374.00 plus 6.40% of
+            not over $14,400             excess over $9,600
+          Over $14,400 but             $682.00 plus 6.80% of
+            not over $19,200             excess over $14,400
+          Over $19,200 but             $1,008.00 plus 7.20% of
+            not over $24,000            excess over $19,200
+          Over $24,000 but             $1,354.00 plus 7.60% of
+            not over $36,000             excess over $24,000
+          Over $36,000 but             $2,266.00 plus 7.90% of
+            not over $48,000             excess over $36,000
+          Over $48,000                 $3,214.00 plus 8.25% of
+                                         excess over $48,000.
+     In the case of any taxable year beginning after December 31, 2008:
+          If the taxable income is:    The tax shall be:
+          Not over $2,400              1.40% of taxable income
+          Over $2,400 but              $34.00 plus 3.20% of
+            not over $4,800              excess over $2,400
+          Over $4,800 but              $110.00 plus 5.50% of
+            not over $9,600              excess over $4,800
+          Over $9,600 but              $374.00 plus 6.40% of
+            not over $14,400             excess over $9,600
+          Over $14,400 but             $682.00 plus 6.80% of
+            not over $19,200             excess over $14,400
+          Over $19,200 but             $1,008.00 plus 7.20% of
+            not over $24,000             excess over $19,200
+          Over $24,000 but             $1,354.00 plus 7.60% of
+            not over $36,000             excess over $24,000
+          Over $36,000 but             $2,266.00 plus 7.90% of
+            not over $48,000             excess over $36,000
+          Over $48,000 but             $3,214.00 plus 8.25% of
+            not over $150,000            excess over $48,000
+          Over $150,000 but            $11,629.00 plus 9.00% of
+            not over $175,000            excess over $150,000
+          Over $175,000 but            $13,879.00 plus 10.00% of
+            not over $200,000            excess over $175,000
+          Over $200,000                $16,379.00 plus 11.00% of
+                                         excess over $200,000.
+     In the case of any taxable year beginning after December 31, 2011:
+          If the taxable income is:    The tax shall be:
+          Not over $12,000             1.00% of taxable income
+          Over $12,000 but             $120.00 plus 3.20% of
+            not over $31,750             excess over $12,000
+          Over $31,750 but             $752.00 plus 4.60% of
+            not over $50,000             excess over $31,750
+          Over $50,000 but             $1,591.50 plus 5.90% of
+            not over $70,000             excess over $50,000
+          Over $70,000 but             $2,771.50 plus 6.90% of
+            not over $100,000            excess over $70,000
+          Over $100,000                $4,841.50 plus 8.25% of
+                                         excess over $100,000."
+     SECTION 2.  New statutory material is underscored.
+     SECTION 3.  This Act, upon its approval, shall apply to taxable years beginning after December 31, 2011 provided that the amendments made to section 235-51, Hawaii Revised Statutes, shall not be repealed when that section is reenacted on December 31, 2015, pursuant to section 6(3) of Act 60, Session Laws of Hawaii 2009, as amended by section 4 of Act 97, Session Laws of Hawaii 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Taxation; Individual Income Tax; Rates
+ 
+Description:
+Amends tax brackets and rates for the individual income tax.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

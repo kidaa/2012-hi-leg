@@ -1,0 +1,94 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1738
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MENTAL HEALTH.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 334-1, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending the definitions of "dangerous to others", "dangerous to self", and "gravely disabled" to read:
+     ""Dangerous to others" means [likely to do substantial physical or emotional injury on another, as evidenced by a recent act, attempt or threat.] there is a substantial likelihood that a person in the reasonably foreseeable future will inflict or attempt to inflict serious physical harm to another.
+     "Dangerous to self" means [the person recently has threatened or attempted suicide or serious bodily harm; or the person recently has behaved in such a manner as to indicate that the person is unable, without supervision and the assistance of others, to satisfy the need for nourishment, essential medical care, shelter or self-protection, so that it is probable that death, substantial bodily injury, or serious physical debilitation or disease will result unless adequate treatment is afforded.] there is a substantial likelihood that a person in the reasonably foreseeable future will threaten or attempt suicide or serious bodily harm.  Evidence of substantial likelihood may include information about patterns of behavior that historically have resulted in serious harm to the person.
+     "Gravely disabled" means [a condition in which] a person [as a result of a mental disorder, (1) is unable to provide for that individual's basic personal needs for food, clothing, or shelter; (2) is unable to make or communicate rational or responsible decisions concerning the individual's personal welfare; and (3) lacks the capacity to understand that this is so.] is incapable of making an informed treatment decision and has behaved in such a manner as to indicate that the person is unlikely, without supervision and the assistance of others, to satisfy the need for nourishment, personal or medical care, shelter, or self-protection, so that it is probable that substantial bodily harm, serious psychiatric or physical deterioration, or serious illness will result unless adequate treatment is afforded."
+     2.  By deleting the definition of "obviously ill".
+     [""Obviously ill" means a condition in which a person's current behavior and previous history of mental illness, if known, indicate a disabling mental illness, and the person is incapable of understanding that there are serious and highly probable risks to health and safety involved in refusing treatment, the advantages of accepting treatment, or of understanding the advantages of accepting treatment and the alternatives to the particular treatment offered, after the advantages, risks, and alternatives have been explained to the person."]
+     SECTION 2.  Section 334-59, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending subsections (a) and (b) to read:
+     "(a)  Initiation of proceedings.  An emergency admission may be initiated as follows:
+     (1)  If a [police] law enforcement officer has reason to believe that a person is [imminently] dangerous to self or others[,] or is gravely disabled[, or is obviously ill], the officer shall call for assistance from the mental health emergency workers designated by the director.  Upon determination by the mental health emergency workers that the person is [imminently] dangerous to self or others[,] or is gravely disabled[, or is obviously ill], the person shall be transported by ambulance or other suitable means, to a licensed psychiatric facility for further evaluation and possible emergency hospitalization.  A [police] law enforcement officer may also take into custody and transport to any facility designated by the director any person threatening or attempting suicide.  The officer shall make application for the examination, observation, and diagnosis of the person in custody.  The application shall state or shall be accompanied by a statement of the circumstances under which the person was taken into custody and the reasons therefor which shall be transmitted with the person to a physician or psychologist at the facility.
+     (2)  Upon written or oral application of any licensed physician, psychologist, attorney, member of the clergy, health or social service professional, or any state or county employee in the course of employment, a judge may issue an ex parte order orally, but shall reduce the order to writing by the close of the next court day following the application, stating that there is probable cause to believe the person is mentally ill or suffering from substance abuse, is [imminently] dangerous to self or others, or is gravely disabled[, or is obviously ill], and in need of care or treatment, or both, giving the findings on which the conclusion is based, and directing that a police officer or other suitable individual take the person into custody and deliver the person to the nearest facility designated by the director for emergency examination and treatment.  The ex parte order shall be made a part of the patient's clinical record.  If the application is oral, the person making the application shall reduce the application to writing and shall submit the same by noon of the next court day to the judge who issued the oral ex parte order.  The written application shall be executed subject to the penalties of perjury but need not be sworn to before a notary public.
+     (3)  Any licensed physician, physician assistant, or psychologist who has examined a person and has reason to believe the person is:
+         (A)  Mentally ill or suffering from substance abuse;
+         (B)  [Imminently dangerous] Dangerous to self or others[,] or is gravely disabled[, or is obviously ill]; and
+         (C)  In need of care or treatment;
+          may direct transportation, by ambulance or other suitable means, to a licensed psychiatric facility for further evaluation and possible emergency hospitalization.  A licensed physician or physician assistant may administer treatment as is medically necessary, for the person's safe transportation.  A licensed psychologist may administer treatment as is psychologically necessary.
+     (b)  Emergency examination.  A patient who is delivered for emergency examination and treatment to a facility designated by the director shall be examined by a licensed physician without unnecessary delay, and may be given such treatment as is indicated by good medical practice.  A psychiatrist or psychologist may further examine the patient to diagnose the presence or absence of a mental disorder, assess the risk that the patient may be dangerous to self or others[,] or is gravely disabled[, or is obviously ill], and assess whether or not the patient needs to be hospitalized."
+     2.  By amending subsection (d) to read:
+     "(d)  Emergency hospitalization.  If the physician or the psychologist who performs the emergency examination has reason to believe that the patient is:
+     (1)  Mentally ill or suffering from substance abuse;
+     (2)  [Imminently dangerous] Dangerous to self or others[,] or is gravely disabled[, or is obviously ill]; and
+     (3)  In need of care or treatment, or both;
+the physician or the psychologist may direct that the patient be hospitalized on an emergency basis or cause the patient to be transferred to another psychiatric facility for emergency hospitalization, or both.  The patient shall have the right immediately upon admission to telephone the patient's guardian or a family member including a reciprocal beneficiary, or an adult friend and an attorney.  If the patient declines to exercise that right, the staff of the facility shall inform the adult patient of the right to waive notification to the family including a reciprocal beneficiary, and shall make reasonable efforts to ensure that the patient's guardian or family including a reciprocal beneficiary, is notified of the emergency admission but the patient's family including a reciprocal beneficiary, need not be notified if the patient is an adult and requests that there be no notification.  The patient shall be allowed to confer with an attorney in private."
+     SECTION 3.  Section 334-60.2, Hawaii Revised Statutes, is amended to read as follows:
+     "§334-60.2  Involuntary hospitalization criteria.  A person may be committed to a psychiatric facility for involuntary hospitalization, if the court finds:
+     (1)  That the person is mentally ill or suffering from substance abuse;
+     (2)  That the person is [imminently] dangerous to self or others[,] or is gravely disabled [or is obviously ill]; and
+     (3)  That the person is in need of care or treatment, or both, and there is no suitable alternative available through existing facilities and programs which would be less restrictive than hospitalization."
+     SECTION 4.  Section 334-121, Hawaii Revised Statutes, is amended to read as follows:
+     "§334-121  Criteria for involuntary outpatient treatment.  A person may be ordered to obtain involuntary outpatient treatment if the family court finds that:
+     (1)  The person is suffering from a severe mental disorder or from substance abuse; and
+     (2)  The person is capable of surviving safely in the community with available supervision from family, friends, or others; and
+     (3)  The person, at some time in the past:  (A) has received inpatient hospital treatment for a severe mental disorder or substance abuse, or (B) has been [imminently] dangerous to self or others, or is gravely disabled, as a result of a severe mental disorder or substance abuse; and
+     (4)  The person, based on the person's treatment history and current behavior, is now in need of treatment in order to prevent a relapse or deterioration which would predictably result in the person becoming [imminently] dangerous to self or others; and
+     (5)  The person's current mental status or the nature of the person's disorder limits or negates the person's ability to make an informed decision to voluntarily seek or comply with recommended treatment; and
+     (6)  There is a reasonable prospect that the outpatient treatment ordered will be beneficial to the person."
+     SECTION 5.  Section 334-142, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§334-142[]]  Petition.  Any family member may petition the family court for an order requiring a respondent to enter into an outpatient treatment program for substance abuse.  The petition shall be in writing under penalty of perjury and include facts relating to:
+     (1)  The conduct of the respondent that indicates substance abuse or addiction;
+     (2)  The respondent's history of substance abuse, treatment, and relapse;
+     (3)  The effects of the respondent's conduct on the family;
+     (4)  The petitioner's good faith belief that the respondent [poses an imminent danger] will become dangerous to self or to others if the respondent does not receive treatment;
+     (5)  The availability of treatment and financial resources to pay for treatment; and
+     (6)  Any other reason for seeking court intervention."
+     SECTION 6.  Section 334-144, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  The court may grant the petition if it finds clear and convincing evidence that:
+     (1)  The respondent has a history of substance abuse and refuses to enter treatment voluntarily;
+     (2)  The respondent has a family support system that will encourage and participate in the respondent's treatment program;
+     (3)  The respondent can benefit from outpatient treatment and is capable of surviving safely in the community with the family support system and if outpatient treatment is received;
+     (4)  The respondent or the petitioner has financial resources to pay for the outpatient treatment program;
+     (5)  The respondent [poses an imminent danger] will become dangerous to self or to others if treatment is not received; and
+     (6)  The respondent understands the nature of the proceeding and the effect of the court order to enter into outpatient treatment."
+     SECTION 7.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+
+     SECTION 8.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Mental Health; Involuntary Hospitalization; Treatment
+ 
+Description:
+Amends various provisions relating to emergency examination and hospitalization and involuntary treatment.  Broadens the definitions of "dangerous to others" and "dangerous to self" to include a substantial likelihood of harm in the reasonably foreseeable future, and amends the definition of "gravely disabled".
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

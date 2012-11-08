@@ -1,0 +1,70 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1346
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO ENERGY EFFICIENCY.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that modern televisions account for the fastest growing source of residential energy use in the State.  Hawaii is particularly vulnerable in its dependence on imported energy.  Therefore, the legislature has a special interest in ensuring the energy conservation and efficiency to secure the future well-being of the State and its people.  As part of this policy, the State implemented the Hawaii clean energy initiative to ensure the State's energy security. 
+     In accordance with the goals of the clean energy initiative, the purpose of this Act is to reduce and limit the amount of energy consumed by televisions in the State.
+     SECTION 2.  Chapter 196, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows:
+"PART      .  TELEVISION ENERGY EFFICIENCY STANDARDS
+     §196-A   Definitions.  As used in this part, unless the context otherwise requires:
+     "Combination television" means a system in which a television or television monitor and an additional device or devices, including a digital video disc player or video cassette recorder, are combined into a single unit in which the additional devices are included in the television casing.
+     "Component television" means a television composed of two or more separate components (e.g., separate display device and tuner) marketed and sold as a television under one model or system designation.  The system may have more than one power cord.
+     "Computer monitor" means an analog or digital device that is designed primarily for the display of computer generated signals and that is not marketed for use as a television.
+     "On mode" means the product is connected to a power source and produces sound and a picture.  The power requirement in this mode is typically greater than the power requirement in standby-passive and download-acquisition mode.
+     "Recreational vehicle" means a motor vehicle that is equipped with living quarters and household amenities.
+     "Screen size" means the diagonal length from one corner to the corner furthest away of the viewable screen area of a television, measured in inches.
+     "Standby-passive mode" or "standby-active mode" means the television is connected to a power source and produces neither sound nor picture but can be switched into another mode with the remote control unit or via an internal signal.
+     "Television" means any analog or digital device primarily designed for the display and reception of a terrestrial, satellite, cable, internet protocol television, or other broadcast or recorded transmission of analog or digital video and audio signals, including combination televisions, television monitors, component televisions, and any unit that is marketed or sold to the consumer as a television.  "Television" does not include computer monitors.
+     "Viewable screen area" means the continuous total area of a television in square inches that displays a digital or analog video signal and that is viewable to a consumer.
+          §196-B   Scope and application.  (a)  This part shall apply to all new televisions offered for sale or installed in the State after July 1, 2013, whether they are sold, offered for sale, or installed as stand-alone products or as components of other products.
+     (b)  This part shall not apply to:
+(1)  New products manufactured in the State and sold outside the State;
+(2)  New products manufactured outside the State and sold at wholesale inside the State for final retail sale and installation outside the State; and
+(3)  Products designed expressly for installation and use in recreational vehicles.
+     §196-C   Television efficiency standards.  (a)  Televisions manufactured on or after July 1, 2013, with a screen size less than or equal to one thousand four hundred square inches must:
+(1)  Enter television standby-passive mode or standby-active mode after a maximum of fifteen minutes without video or audio input on the selected input mode;
+(2)  Enter television standby-passive mode when turned off by a remote or integrated button or switch;
+(3)  Use no more than 0.12 times the viewable screen area plus twenty-five watts in on mode;
+(4)  Use no more than one watt in standby mode;
+(5)  Have a peak luminance in the preset mode designed for typical home use and for the default mode as shipped that is no less than sixty-five per cent of the peak luminance at the brightest setting; and
+(6)  Have a minimum power factor of 0.9 when power is greater than or equal to one hundred watts.
+     (b)  Televisions covered under subsection (a) must be tested in accordance with the methods specified in the California Code of Regulations, Title 20, Section 1604, in effect as of July 1, 2013, if these test methods are not preempted by federal law.
+     §196-D  Sale of televisions; compliance.  No new television with a screen size less than or equal to one thousand four hundred square inches, if manufactured on or after July 1, 2013, may be sold or offered in the State unless the efficiency standards of the new product meet or exceed the efficiency standards set forth in section 196-C."
+     SECTION 3.  If any provision of this Act, or the application thereof to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of the Act, which can be given effect without the invalid provision or application, and to this end the provisions of this Act are severable.
+     SECTION 4.  In codifying the new sections added by section 2 of this Act, the revisor of statutes shall substitute appropriate section number for the letters used in designating the new sections in this Act.
+     SECTION 5.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect upon approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Television; Energy-efficiency Standards
+ 
+Description:
+Establishes minimum energy efficiency standards for televisions one thousand four hundred square inches or smaller sold or installed in the State.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

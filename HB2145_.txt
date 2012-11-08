@@ -1,0 +1,107 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2145
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO ECONOMIC DEVELOPMENT.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The purpose of this Act is to address economic development by establishing, as state policy, an intent to complete or facilitate the completion of a list of ten specific projects within the next ten-year period.
+     SECTION 2.  Chapter 226, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows:
+"PART   .  PROJECTS TO BE COMPLETED BY DECEMBER 31, 2023
+     §226-     Ten projects to be completed by December 31, 2023.  It is the policy of the State to complete or facilitate the completion of the following projects by December 31, 2023:
+     (1)  Broadband infrastructure that provides coverage for one hundred per cent of the following land areas in the State: land zoned for business, commercial, industrial, hotel, or resort use and land used for higher education instruction or research;
+     (2)  The airport modernization project of the department of transportation, as planned as of the effective date of this section;
+     (3)  The harbor modernization project of the department of transportation, as planned as of the effective date of this section;
+     (4)  The thirty-meter telescope on Mauna Kea;
+     (5)  A regional bio-hazard laboratory under the University of Hawaii;
+     (6)  The Diamond Head culinary institute on the slope of Diamond Head;
+     (7)  The 690 Pohukaina street mixed use transit oriented development project;
+     (8)  The locally preferred alternative mass transit system of the city and county of Honolulu;
+     (9)  Renewable energy production facilities that are sufficient to meet the goals of the first decade of the Hawaii clean energy initiative; and
+    (10)  A community college campus in West Hawaii."
+     SECTION 3.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Economic Development; Specific Ten-Year Projects
+ 
+Description:
+Expresses as state policy an intent to complete or facilitate the completion of a list of 10 projects by 12/31/23.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+g, li.ExtraSig, div.ExtraSig {mso-style-name:"Extra Sig"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:243.0pt; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.ResolutionBody, li.ResolutionBody, div.ResolutionBody {mso-style-name:"Resolution Body"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} span.BillSectionNumber {mso-style-name:"Bill Section Number"; font-family:Courier;} p.XNotesHeading, li.XNotesHeading, div.XNotesHeading {mso-style-name:XNotesHeading; margin:0in; margin-bottom:.0001pt; text-align:center; font-size:12.0pt; font-family:"Courier New"; font-weight:bold;} p.XNotes, li.XNotes, div.XNotes {mso-style-name:XNotes; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Amend, li.Amend, div.Amend {mso-style-name:Amend; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.PCa, li.PCa, div.PCa {mso-style-name:"PC\(a\)"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Misc, li.Misc, div.Misc {mso-style-name:"Misc\."; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Effective, li.Effective, div.Effective {mso-style-name:Effective; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.BalloonTextChar {mso-style-name:"Balloon Text Char"; mso-style-link:"Balloon Text"; font-family:"Tahoma","sans-serif";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2145
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO ECONOMIC DEVELOPMENT.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The purpose of this Act is to address economic development by establishing, as state policy, an intent to complete or facilitate the completion of a list of ten specific projects within the next ten-year period.
+     SECTION 2.  Chapter 226, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows:
+"PART   .  PROJECTS TO BE COMPLETED BY DECEMBER 31, 2023
+     §226-     Ten projects to be completed by December 31, 2023.  It is the policy of the State to complete or facilitate the completion of the following projects by December 31, 2023:
+     (1)  Broadband infrastructure that provides coverage for one hundred per cent of the following land areas in the State: land zoned for business, commercial, industrial, hotel, or resort use and land used for higher education instruction or research;
+     (2)  The airport modernization project of the department of transportation, as planned as of the effective date of this section;
+     (3)  The harbor modernization project of the department of transportation, as planned as of the effective date of this section;
+     (4)  The thirty-meter telescope on Mauna Kea;
+     (5)  A regional bio-hazard laboratory under the University of Hawaii;
+     (6)  The Diamond Head culinary institute on the slope of Diamond Head;
+     (7)  The 690 Pohukaina street mixed use transit oriented development project;
+     (8)  The locally preferred alternative mass transit system of the city and county of Honolulu;
+     (9)  Renewable energy production facilities that are sufficient to meet the goals of the first decade of the Hawaii clean energy initiative; and
+    (10)  A community college campus in West Hawaii."
+     SECTION 3.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Economic Development; Specific Ten-Year Projects
+ 
+Description:
+Expresses as state policy an intent to complete or facilitate the completion of a list of 10 projects by 12/31/23.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,63 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1916
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO HEALTH.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+PART I
+     SECTION 1.  Hawaii's health care system consists of myriad services that must be coordinated and integrated to ensure access to quality care at the appropriate level for all of Hawaii's residents.  An individual often has multiple health care providers delivering different products and services, and may transition from one level of health care to another over time.  It is important to effectively manage patient transition to facilities providing the appropriate level of care to maintain the availability of services at all levels, more accurately address patient needs, and ensure efficient and cost-effective service delivery.
+     Patient transition from acute care hospitals to long-term care facilities is particularly difficult.  Often, patients who no longer need hospitalization but still require medical services are waitlisted for long-term care facilities due to a shortage of available space.  The unfortunate consequence is a corresponding shortage of available space and service delivery at acute care hospitals.  Additionally, acute care hospitals are facing a financial crisis due to the manner in which medicaid reimbursements are allocated.
+     When a medicaid patient receives treatment at an acute care hospital, medicaid pays a rate based upon the level of care needed by the patient.  When the patient is well enough to be transferred to long-term care, the medicaid reimbursement is reduced to a rate that is twenty to thirty per cent of the actual cost of acute care hospitalization.  If the hospital is not able to transfer the patient to long-term care, it must absorb the financial loss.  This creates an unnecessary fiscal burden on acute care hospitals as their cost of care is generally more fixed due to stringent regulatory and quality-control requirements.
+     At any particular time, a total of about two hundred patients in Hawaii's hospitals are waiting to be transferred to long-term care.  Patients with certain conditions have been waitlisted for up to a year.  Hawaii hospitals lost an estimated $72,500,000 in 2008 due to delays in discharging patients waitlisted for long-term care.
+     Underpayments by medicaid and its contracted health plans constitute a significant portion of a hospital's financial losses.  Medicaid is, in effect, a public-private partnership in which the public sector provides funding for private-sector services.  Unfortunately, medicaid reimbursements seldom cover the actual cost of provided services, resulting in fiscally weakened health care facilities and an unstable health care system.
+     In the past, acute care hospitals were able to absorb medicaid losses using payments from commercial and other payers to offset underfunded medicaid reimbursements.  But as the cost of health care has increased and significant developments in medical technology have required acute care hospitals to increase capital investments, even these payments are no longer enough to bridge the fiscal gap.  The result for many hospitals is financial failure.  For example, without annexation by the Hawaii health systems corporation, which is subsidized by the State, Kahuku hospital would have ceased operations due to bankruptcy.  Underpayment by medicaid was cited as one of the major reasons for Kahuku hospital's financial difficulties.
+     Long-term care facilities are also facing financial hardship as a result of inappropriate medical reimbursements.  Payments for patients with complex medical conditions requiring additional care should be cost-based rather than acuity-based to address the disparities in the cost of services and service delivery.
+     The purpose of this Act is to provide more equitable compensation to acute care hospitals for services provided to medicaid patients who have been treated for acute illnesses and injuries but have recovered sufficiently enough to be transferred to long-term care if long-term care was available.  In addition, this Act begins the process of providing more equitable compensation to long-term care facilities for patients with medically complex conditions when their level of care changes from acute to long-term care.
+     SECTION 2.  Chapter 346, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§346-    Medicaid reimbursements; waitlist.  Beginning July 1, 2013, reimbursements by medicaid to hospitals shall be at least equal to the rate paid for subacute care services for patients who:
+     (1)  Are medicaid recipients;
+     (2)  Occupy acute care licensed beds; and
+     (3)  Are on a waitlist for a long-term care facility."
+     SECTION 3.  Section 346D-1.5, Hawaii Revised Statutes, is amended to read as follows:
+     "§346D-1.5  Medicaid reimbursement equity.  Not later than [July 1, 2008,] July 1, 2013, there shall be no distinction between hospital-based and nonhospital-based reimbursement rates for institutionalized long-term care under medicaid.  Reimbursement for institutionalized intermediate care facilities and institutionalized skilled nursing facilities shall be based solely on the level of care rather than the location.  This section shall not apply to critical access hospitals[.] or to reimbursements made in accordance with section 346-  ."
+PART II
+     SECTION 4.  To ensure that health care providers in Hawaii are able to plan for the future needs of patients and continue to provide access to care, Hawaii medicaid, Hawaii QUEST, and any contractors or successors (collectively "medicaid") shall refrain from modifying reimbursement policies adopted by medicaid or any agent thereof, whether formally or informally, in writing or orally, without providing a thirty-day prior written notice of the change to any affected health care provider.  In no event shall any modification be applied if it would have the effect of reducing reimbursements previously made and prior approval for reimbursement was obtained through medicaid.  Notwithstanding the foregoing, nothing in this section shall be deemed as limiting in any way the ability of medicaid or its contractors to recover payments made to a health care provider as a result of any fraudulent conduct.
+PART III
+     SECTION 5.  The department of human services shall collaborate with the Healthcare Association of Hawaii, the Hawaii Long Term Care Association, nursing facility providers, and home and community-based service providers, including adult residential care homes and foster family homes, to develop a revised methodology for determining the level of acuity of nursing facility residents who are medicaid recipients, including those with complex medical conditions, to set reimbursements at levels that are fair and equitable.  The department of human services and the collaborating organizations and providers shall submit to the legislature a joint report containing recommendations and an implementation plan no later than twenty days prior to the convening of the regular session of 2013.
+PART IV
+     SECTION 6.  The department of human services shall collaborate with the Healthcare Association of Hawaii, the Hawaii Long Term Care Association, and nursing facility providers to improve the efficiency of the nursing facility level of care determination process, including items such as DHS Form 1147, Level of Care Evaluation, and other related forms.  The improved process shall be consistent with the requirements of the federal Patient Protection and Affordable Care Act and other federal requirements.  The department of human services and the collaborating organizations and providers shall submit to the legislature a joint report containing recommendations and an implementation plan no later than twenty days prior to the convening of the regular session of 2013.
+PART V
+     SECTION 7.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 8.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Health; Medicaid Reimbursements
+ 
+Description:
+Beginning July 1, 2013, requires rates for medicaid reimbursements to hospitals for acute-care patients waitlisted for long-term care to be equal to rates for subacute care services.  Prohibits modifications of medicaid reimbursement policies without prior written notice to affected health care providers and prohibits reductions of reimbursements previously made.  Requires DHS and collaborating organizations and providers to report to the Legislature their recommendations and implementation plans regarding revised methodologies of determining the level of acuity of medicaid nursing facility residents and improvements to the nursing facility level of care determination process.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,63 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2195
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO BACKGROUND CHECKS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that private employers and individuals need access to department of human services records in order to conduct child and vulnerable adult abuse perpetrator checks for employment, volunteer, licensure, or certification purposes.  While this information is available to private employers and individuals, the current process is often time consuming and onerous.
+     The purpose of this Act is to require the department of human services to allow persons to conduct child and vulnerable adult abuse perpetrator checks on the department's website as part of background checks for employment, volunteer, licensure, or certification purposes.
+     SECTION 2.  Chapter 346, Hawaii Revised Statutes, is amended by adding a new section to part X to be appropriately designated and to read as follows:
+     "§346‑    Adult abuse perpetrator checks; online access.  (a)  The department shall allow public access to the department's website to conduct adult abuse perpetrator checks as part of background checks for employment, volunteer, licensure, or certification purposes; provided that:
+     (1)  Any information released about a perpetrator shall be limited to confirmed reports of abuse or neglect;
+     (2)  The name or other identifying information of a vulnerable adult who is the victim of any abuse or neglect shall not be made available;
+     (3)  Requesters of the information may be required to register with the department in exchange for access to this information through the department's website; and
+     (4)  The department shall be immune from civil liability to any individual who obtains information from the department pursuant to this section.
+     (b)  For purposes of this section:
+     "Adult abuse perpetrator check" means a search to determine whether an individual is known to the department as a perpetrator of abuse, as defined in section 346-222, by means of a search of the individual's name and birth date in the department's central registry of reported vulnerable adult abuse.
+     "Perpetrator" means the person identified by a reporter of vulnerable adult abuse or the department as the person who, by acts or omissions, has abused a vulnerable adult."
+     SECTION 3.  Chapter 350, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§350‑    Child abuse perpetrator checks; online access.  (a)  The department shall allow public access to the department's website to conduct child abuse perpetrator checks as part of background checks for employment, volunteer, licensure, or certification purposes; provided that:
+     (1)  Any information released about a perpetrator shall be limited to confirmed reports of abuse or neglect;
+     (2)  The name or other identifying information of a child who is the victim of any abuse or neglect shall not be made available;
+     (3)  Requesters of the information may be required to register with the department in exchange for access to this information through the department's website; and
+     (4)  The department shall be immune from civil liability to any individual who obtains information from the department pursuant to this subsection.
+     (b)  For purposes of this section:
+     "Child abuse perpetrator check" means a search to determine whether an individual is known to the department as a perpetrator of child abuse or neglect, as defined in section 350‑1, by means of a search of the individual's name and birth date in the department's central registry of reported child abuse.
+     "Perpetrator" means the person identified by a reporter of child abuse or by the department as the person who, by acts or omissions, has abused or neglected a child."
+     SECTION 4.  Section 346-225, Hawaii Revised Statutes, is amended to read as follows:
+     "§346-225  Confidentiality of reports.  A report made pursuant to this part, including the identity of the reporting person and all records of the report, shall be confidential, unless otherwise required to be disclosed by law or rule, and any person who makes an unauthorized disclosure of a report or records of a report shall be guilty of a misdemeanor. 
+     The director may adopt, amend, or repeal rules, pursuant to chapter 91, to provide for the confidentiality of reports and records, and for the authorized disclosure of reports and records."
+     SECTION 5.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Child Abuse; Adult Abuse; Background Checks
+ 
+Description:
+Requires the department of human services to allow persons to conduct child and vulnerable adult abuse perpetrator checks on the department's website as part of background checks for employment, volunteer, licensure, or certification purposes.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,46 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1661
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO NEGOTIABLE INSTRUMENTS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Negotiable instruments have been abused, endorsed in bank, lost, or not timely assigned to trusts; and where negotiable instruments are not recorded for public records, an electronic copy is sufficient evidence that the person holding a "copy" is the actual holder.  Advanced printing technology can make copies that are almost perfect where only a forensics examiner can tell the difference.  Digital system copies are not reliable sources of actual ownership.
+     SECTION 2.  Section 490:1-201, Hawaii Revised Statutes, is amended by amending the definition of "holder" to read as follows:
+     ""Holder" means:
+     (1)  The person in possession of a negotiable instrument that is payable either to bearer or to an identified person that is the person in possession; or
+     (2)  The person in possession of a negotiable tangible document of title if the goods are deliverable either to bearer or to the order of the person in possession[; or].
+    [(3)  The person in control of a negotiable electronic document of title.]"
+     SECTION 3.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Negotiable Instruments; Holder Definition
+ 
+Description:
+Amends the definition of holder to exclude the person in control of a negotiable electronic document of title.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

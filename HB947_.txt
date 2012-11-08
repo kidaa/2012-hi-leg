@@ -1,0 +1,143 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+947
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO AGRICULTURE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Global natural farming is an agricultural methodology developed and refined over the past fifty years by Han Kyu Cho of the Republic of Korea.  Cho's techniques have been demonstrated world-wide in more than thirty countries as a viable method of agricultural production without the use of conventional and imported pesticides and fertilizers.
+     Cho's global natural farming is a distinctive approach to organic farming that utilizes local natural farm resources and indigenous microorganisms.  It involves the propagation of mycorrhizae along with protocols for adding specific nutritional inputs during critical growth stages of plants.  The inputs are not only safe for the environment, but they actually rehabilitate the ecology.
+     In addition to the promotion of environmental protection, global natural farming has numerous, more tangible benefits.  There are currently six acres of land in Waianae, Oahu being used for the natural farming of Vietnamese taro and Thai basil.  Since the natural farming project was commenced in June 2010, product quality has been improved, product yields have increased, and production costs and water consumption have been reduced.
+     The purpose of this Act is to require the department of agriculture to establish a program to award grants to farmers who implement natural farming.
+     SECTION 2.  The Hawaii Revised Statutes is amended by adding a new chapter to be appropriately designated and to read as follows:
+"CHAPTER
+NATURAL FARMING GRANT PROGRAM
+     §   -1  Definitions.  As used in this chapter:
+     "Agricultural producer" has the same meaning as defined in section 155-5.6.
+     "Department" means the department of agriculture.
+     §   -2  Natural farming grant program established.  The department shall establish a natural farming grant program, under which the department shall award grants to qualified agricultural producers who utilize the Cho global natural farming methodology.  The department shall accept applications, on forms prescribed and prepared by the department, from agricultural producers to qualify for receipt of the grants, provided that:
+     (1)  The applicant is an agricultural producer;
+     (2)  The applicant has implemented or demonstrates to the department's satisfaction that the applicant intends to implement the Cho global natural farming methodology;
+     (3)  The grant shall not exceed     per cent of the applicant's total agricultural production costs or exceed $       in any year; and
+     (4)  The department may request that an applicant provide any information, including general excise and income tax returns, it deems necessary to verify the agricultural production costs incurred by any applicant in any year.
+     §   -3  Rules.  The department shall adopt rules, pursuant to chapter 91, to implement this chapter.
+     §   -4  Exemption from chapter 42F.  The provisions of chapter 42F shall not apply to the grants made pursuant to this chapter, but all grants shall be made only in accordance with standards and conditions specified in section    -2."
+     SECTION 3.  Section 42F-102, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§42F-102[]]  Applications for grants and subsidies.  [Requests] Except for grants awarded under chapter     , requests for grants and subsidies shall be submitted to the appropriate standing committees of the legislature at the start of each regular session of the legislature.  Each request shall state:
+     (1)  The name of the requesting organization;
+     (2)  The public purpose for the grant or subsidy;
+     (3)  The services to be supported by the grant or subsidy;
+     (4)  The target group; and
+     (5)  The cost of the grant or subsidy and the budget."
+     SECTION 4.  Section 42F-103, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  [Grants] Except for grants awarded under chapter     , grants and subsidies shall be awarded only to individuals who, and organizations that:
+     (1)  Are licensed or accredited, in accordance with federal, state, or county statutes, rules, or ordinances, to conduct the activities or provide the services for which a grant or subsidy is awarded;
+     (2)  Comply with all applicable federal and state laws prohibiting discrimination against any person on the basis of race, color, national origin, religion, creed, sex, age, sexual orientation, or disability;
+     (3)  Agree not to use state funds for entertainment or lobbying activities; and
+     (4)  Allow the state agency to which funds for the grant or subsidy were appropriated for expenditure, legislative committees and their staff, and the auditor full access to their records, reports, files, and other related documents and information for purposes of monitoring, measuring the effectiveness, and ensuring the proper expenditure of the grant or subsidy."
+     SECTION 5.  There is appropriated out of the general revenues of the State of Hawaii the sum of $500,000 or so much thereof as may be necessary for fiscal year 2011-2012 and the same sum or so much thereof as may be necessary for fiscal year 2012-2013 for the natural farming grant program established by this Act.
+     The sums appropriated shall be expended by the department of agriculture for the purposes of this Act.
+     SECTION 6.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+ 
+Report Title:
+Agriculture; Natural Farming; Grants
+ 
+Description:
+Requires the department of agriculture to establish a program to award grants to agricultural producers who implement natural farming, including methods such as Cho global.  Makes an appropriation.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+, li.ExtraSig, div.ExtraSig {mso-style-name:"Extra Sig"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:243.0pt; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.New, li.New, div.New {mso-style-name:New; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Appropriation, li.Appropriation, div.Appropriation {mso-style-name:Appropriation; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Effective, li.Effective, div.Effective {mso-style-name:Effective; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.BalloonTextChar {mso-style-name:"Balloon Text Char"; mso-style-link:"Balloon Text"; font-family:"Tahoma","sans-serif";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+947
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO AGRICULTURE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Global natural farming is an agricultural methodology developed and refined over the past fifty years by Han Kyu Cho of the Republic of Korea.  Cho's techniques have been demonstrated world-wide in more than thirty countries as a viable method of agricultural production without the use of conventional and imported pesticides and fertilizers.
+     Cho's global natural farming is a distinctive approach to organic farming that utilizes local natural farm resources and indigenous microorganisms.  It involves the propagation of mycorrhizae along with protocols for adding specific nutritional inputs during critical growth stages of plants.  The inputs are not only safe for the environment, but they actually rehabilitate the ecology.
+     In addition to the promotion of environmental protection, global natural farming has numerous, more tangible benefits.  There are currently six acres of land in Waianae, Oahu being used for the natural farming of Vietnamese taro and Thai basil.  Since the natural farming project was commenced in June 2010, product quality has been improved, product yields have increased, and production costs and water consumption have been reduced.
+     The purpose of this Act is to require the department of agriculture to establish a program to award grants to farmers who implement natural farming.
+     SECTION 2.  The Hawaii Revised Statutes is amended by adding a new chapter to be appropriately designated and to read as follows:
+"CHAPTER
+NATURAL FARMING GRANT PROGRAM
+     §   -1  Definitions.  As used in this chapter:
+     "Agricultural producer" has the same meaning as defined in section 155-5.6.
+     "Department" means the department of agriculture.
+     §   -2  Natural farming grant program established.  The department shall establish a natural farming grant program, under which the department shall award grants to qualified agricultural producers who utilize the Cho global natural farming methodology.  The department shall accept applications, on forms prescribed and prepared by the department, from agricultural producers to qualify for receipt of the grants, provided that:
+     (1)  The applicant is an agricultural producer;
+     (2)  The applicant has implemented or demonstrates to the department's satisfaction that the applicant intends to implement the Cho global natural farming methodology;
+     (3)  The grant shall not exceed     per cent of the applicant's total agricultural production costs or exceed $       in any year; and
+     (4)  The department may request that an applicant provide any information, including general excise and income tax returns, it deems necessary to verify the agricultural production costs incurred by any applicant in any year.
+     §   -3  Rules.  The department shall adopt rules, pursuant to chapter 91, to implement this chapter.
+     §   -4  Exemption from chapter 42F.  The provisions of chapter 42F shall not apply to the grants made pursuant to this chapter, but all grants shall be made only in accordance with standards and conditions specified in section    -2."
+     SECTION 3.  Section 42F-102, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§42F-102[]]  Applications for grants and subsidies.  [Requests] Except for grants awarded under chapter     , requests for grants and subsidies shall be submitted to the appropriate standing committees of the legislature at the start of each regular session of the legislature.  Each request shall state:
+     (1)  The name of the requesting organization;
+     (2)  The public purpose for the grant or subsidy;
+     (3)  The services to be supported by the grant or subsidy;
+     (4)  The target group; and
+     (5)  The cost of the grant or subsidy and the budget."
+     SECTION 4.  Section 42F-103, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  [Grants] Except for grants awarded under chapter     , grants and subsidies shall be awarded only to individuals who, and organizations that:
+     (1)  Are licensed or accredited, in accordance with federal, state, or county statutes, rules, or ordinances, to conduct the activities or provide the services for which a grant or subsidy is awarded;
+     (2)  Comply with all applicable federal and state laws prohibiting discrimination against any person on the basis of race, color, national origin, religion, creed, sex, age, sexual orientation, or disability;
+     (3)  Agree not to use state funds for entertainment or lobbying activities; and
+     (4)  Allow the state agency to which funds for the grant or subsidy were appropriated for expenditure, legislative committees and their staff, and the auditor full access to their records, reports, files, and other related documents and information for purposes of monitoring, measuring the effectiveness, and ensuring the proper expenditure of the grant or subsidy."
+     SECTION 5.  There is appropriated out of the general revenues of the State of Hawaii the sum of $500,000 or so much thereof as may be necessary for fiscal year 2011-2012 and the same sum or so much thereof as may be necessary for fiscal year 2012-2013 for the natural farming grant program established by this Act.
+     The sums appropriated shall be expended by the department of agriculture for the purposes of this Act.
+     SECTION 6.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+ 
+Report Title:
+Agriculture; Natural Farming; Grants
+ 
+Description:
+Requires the department of agriculture to establish a program to award grants to agricultural producers who implement natural farming, including methods such as Cho global.  Makes an appropriation.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

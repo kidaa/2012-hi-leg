@@ -1,0 +1,79 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2841
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE UNIFORM INTERSTATE DEPOSITIONS AND DISCOVERY ACT.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The Hawaii Revised Statutes is amended by adding a new chapter to be appropriately designated and to read as follows:
+"CHAPTER
+UNIFORM INTERSTATE DEPOSITIONS AND DISCOVERY ACT
+     §   ‑1  Short title.  This chapter may be cited as the Uniform Interstate Depositions and Discovery Act.
+     §   -2  Definitions.  In this chapter:
+     "Foreign jurisdiction" means a state other than this State.
+     "Foreign subpoena" means a subpoena issued under authority of a court of record of a foreign jurisdiction.
+     "Person" means an individual, corporation, business trust, estate, trust, partnership, limited liability company, association, joint venture, public corporation, government or governmental subdivision, agency or instrumentality, or any other legal or commercial entity.
+     "State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands, a federally recognized Indian tribe, or any territory or insular possession subject to the jurisdiction of the United States.
+     "Subpoena" means a document, however denominated, issued under authority of a court of record requiring a person to:
+     (1) Attend and give testimony at a deposition;
+     (2) Produce and permit inspection and copying of designated books, documents, records, electronically stored information, or tangible things in the possession, custody, or control of the person; or
+     (3) Permit inspection of premises under the control of the person.
+     §   -3  Issuance of subpoena.  (a)  To request issuance of a subpoena under this section, a party shall submit a foreign subpoena to a clerk of court in the circuit in which discovery is sought to be conducted in this State.  A request for the issuance of a subpoena under this chapter does not constitute an appearance in the courts of this State.
+     (b)  When a party submits a foreign subpoena to a clerk of court in this State, the clerk, in accordance with that court's procedure, shall promptly issue a subpoena for service upon the person to which the foreign subpoena is directed.
+     (c)  A subpoena under subsection (b) shall:
+     (1) Incorporate the terms used in the foreign subpoena; and
+     (2) Contain or be accompanied by the names, addresses, and telephone numbers of all counsel of record in the proceeding to which the subpoena relates and of any party not represented by counsel.
+     §   -4  Service of subpoena.  A subpoena issued by a clerk of court under section    ‑3 shall be served in compliance with rule 45(c) of the Hawaii rules of civil procedure.
+     §   -5  Deposition, production, and inspection.  Rules 26, 27, 28, 29, 30, 31, 34(c), and 45 of the Hawaii rules of civil procedure shall apply to subpoenas issued under section    ‑3.
+     §   -6  Application to court.  A motion to the court for a protective order or to enforce, quash, or modify a subpoena issued by a clerk of court under section    ‑3 shall comply with the rules of court and statutes of this State and be submitted to the court in the circuit in which discovery is to be conducted.
+     §   -7  Application to pending actions.  This chapter applies to requests for discovery in cases pending on the effective date of this chapter."
+     SECTION 2.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+Report Title:
+Uniform Interstate Depositions and Discovery Act
+ 
+Description:
+Enacts the Uniform Interstate Depositions and Discovery Act.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

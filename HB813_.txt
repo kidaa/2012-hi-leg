@@ -1,0 +1,109 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+813
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO UNEMPLOYMENT COMPENSATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that unemployed persons spend all or most of their unemployment compensation within the State.  The legislature also finds that the benefit of those expenditures will be maximized by temporarily exempting unemployment compensation from state income taxation.
+     The purpose of this Act is to promote economic revitalization within the State by temporarily exempting, from state income taxation, unemployment compensation received by certain persons.
+     SECTION 2.  Chapter 235, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§235-     Unemployment compensation; exclusion.  (a)  Except as otherwise provided under subsection (b), the gross income, adjusted gross income, and taxable income of an individual taxpayer during a taxable year shall exclude any unemployment compensation received by the taxpayer during that taxable year.
+     (b)  The exclusion under subsection (a) shall not apply to an individual taxpayer's gross income, adjusted gross income, or taxable income during a taxable year in which:
+     (1)  The individual taxpayer receives more than $28,800 in gross income from sources other than unemployment compensation;
+     (2)  The individual taxpayer's spouse receives more than $48,000 in gross income from sources other than unemployment compensation, whether or not they file individual returns or a joint return; or
+     (3)  Both subsections (a) and (b) occur.
+     (c)  For the purpose of this section, "unemployment compensation" means the same as defined under section 85 of the Internal Revenue Code.
+     (d)  This section shall apply to taxable years beginning after December 31, 2010, and shall end with the taxable year beginning after December 31, 2014."
+     SECTION 3.  Section 235-2.3, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  The following Internal Revenue Code subchapters, parts of subchapters, sections, subsections, and parts of subsections shall not be operative for the purposes of this chapter, unless otherwise provided:
+     (1)  Subchapter A (Sections 1 to 59A) (with respect to determination of tax liability), except Section 1(h)(2) (relating to net capital gain reduced by the amount taken into account as investment income), except Sections 2(a), 2(b), and 2(c) (with respect to the definition of "surviving spouse" and "head of household"), except Section 41 (with respect to the credit for increasing research activities), except Section 42 (with respect to low-income housing credit), except Sections 47 and 48, as amended, as of December 31, 1984 (with respect to certain depreciable tangible personal property), and except Section 48(d)(3), as amended, as of February 17, 2009 (with respect to the treatment of United States Department of Treasury grants made under Section 1603 of the American Recovery and Reinvestment Tax Act of 2009).  For treatment, see sections 235-110.91, 235-110.7, and 235-110.8;
+     (2)  Section 78 (with respect to dividends received from certain foreign corporations by domestic corporations choosing foreign tax credit);
+     (3)  Section 85 (with respect to unemployment compensation), from the taxable year beginning after December 31, 2010, and ending with the taxable year beginning after December 31, 2014.  For treatment, see section 235-   ;
+    [(3)] (4)  Section 86 (with respect to social security and tier 1 railroad retirement benefits);
+    [(4)] (5)  Section 103 (with respect to interest on state and local bonds).  For treatment, see section 235-7(b);
+    [(5)] (6)  Section 114 (with respect to extraterritorial income).  For treatment, any transaction as specified in the transitional rule for 2005 and 2006 as specified in the American Jobs Creation Act of 2004 Section 101(d) and any transaction that has occurred pursuant to a binding contract as specified in the American Jobs Creation Act of 2004 Section 101(f) are inoperative;
+    [(6)] (7)  Section 120 (with respect to amounts received under qualified group legal services plans).  For treatment, see section 235-7(a)(9) to (11);
+    [(7)] (8)  Section 122 (with respect to certain reduced uniformed services retirement pay).  For treatment, see section 235-7(a)(3);
+    [(8)] (9)  Section 135 (with respect to income from United States savings bonds used to pay higher education tuition and fees).  For treatment, see section 235-7(a)(1);
+    [(9)] (10)  Section 139C (with respect to COBRA premium assistance);
+   [(10)] (11)  Subchapter B (Sections 141 to 150) (with respect to tax exemption requirements for state and local bonds);
+   [(11)] (12)  Section 151 (with respect to allowance of deductions for personal exemptions).  For treatment, see section 235-54;
+   [(12)] (13)  Section 179B (with respect to expensing of capital costs incurred in complying with Environmental Protection Agency sulphur regulations);
+   [(13)] (14)  Section 181 (with respect to special rules for certain film and television productions);
+   [(14)] (15)  Section 196 (with respect to deduction for certain unused investment credits);
+   [(15)] (16)  Section 199 (with respect to the U.S. production activities deduction);
+   [(16)] (17)  Section 222 (with respect to qualified tuition and related expenses);
+   [(17)] (18)  Sections 241 to 247 (with respect to special deductions for corporations).  For treatment, see section 235-7(c);
+   [(18)] (19)  Section 280C (with respect to certain expenses for which credits are allowable).  For treatment, see section 235-110.91;
+   [(19)] (20)  Section 291 (with respect to special rules relating to corporate preference items);
+   [(20)] (21)  Section 367 (with respect to foreign corporations);
+   [(21)] (22)  Section 501(c)(12), (15), (16) (with respect to exempt organizations);
+   [(22)] (23)  Section 515 (with respect to taxes of foreign countries and possessions of the United States);
+   [(23)] (24)  Subchapter G (sections 531 to 565) (with respect to corporations used to avoid income tax on shareholders);
+   [(24)] (25)  Subchapter H (sections 581 to 597) (with respect to banking institutions), except Section 584 (with respect to common trust funds).  For treatment, see chapter 241;
+   [(25)] (26)  Section 642(a) and (b) (with respect to special rules for credits and deductions applicable to trusts).  For treatment, see sections 235-54(b) and 235-55;
+   [(26)] (27)  Section 646 (with respect to tax treatment of electing Alaska Native settlement trusts);
+   [(27)] (28)  Section 668 (with respect to interest charge on accumulation distributions from foreign trusts);
+   [(28)] (29)  Subchapter L (sections 801 to 848) (with respect to insurance companies).  For treatment, see sections 431:7-202 and 431:7-204;
+   [(29)] (30)  Section 853 (with respect to foreign tax credit allowed to shareholders).  For treatment, see section 235-55;
+   [(30)] (31)  Section 853A (with respect to credits from tax credit bonds allowed to shareholders);
+   [(31)] (32)  Subchapter N (Sections 861 to 999) (with respect to tax based on income from sources within or without the United States), except Sections 985 to 989 (with respect to foreign currency transactions).  For treatment, see sections 235-4, 235-5, and 235-7(b), and 235-55;
+   [(32)] (33)  Section 1042(g) (with respect to sales of stock in agricultural refiners and processors to eligible farm cooperatives);
+   [(33)] (34)  Section 1055 (with respect to redeemable ground rents);
+   [(34)] (35)  Section 1057 (with respect to election to treat transfer to foreign trust, etc., as taxable exchange);
+   [(35)] (36)  Sections 1291 to 1298 (with respect to treatment of passive foreign investment companies);
+   [(36)] (37)  Subchapter Q (sections 1311 to 1351) (with respect to readjustment of tax between years and special limitations);
+   [(37)] (38)  Subchapter R (sections 1352 to 1359) (with respect to election to determine corporate tax on certain international shipping activities using per ton rate);
+   [(38)] (39)  Subchapter U (Sections 1391 to 1397F) (with respect to designation and treatment of empowerment zones, enterprise communities, and rural development investment areas).  For treatment, see chapter 209E;
+   [(39)] (40)  Subchapter W (Sections 1400 to 1400C) (with respect to District of Columbia enterprise zone);
+   [(40)] (41)  Section 1400O (with respect to education tax benefits);
+   [(41)] (42)  Section 1400P (with respect to housing tax benefits);
+   [(42)] (43)  Section 1400R (with respect to employment relief);
+   [(43)] (44)  Section 1400T (with respect to special rules for mortgage revenue bonds);
+   [(44)] (45)  Section 1400U-1 (with respect to allocation of recovery zone bonds);
+   [(45)] (46)  Section 1400U-2 (with respect to recovery zone economic development bonds); and
+   [(46)] (47)  Section 1400U-3 (with respect to recovery zone facility bonds)."
+     SECTION 4.  Section 235-2.4, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  Section 85 (with respect to unemployment compensation) of the Internal Revenue Code shall be operative for purposes of this chapter, except that Section 85(c) shall not be operative for purposes of this chapter[.]; provided that from the taxable year beginning after December 31, 2010, and ending with the taxable year beginning after December 31, 2014, section 85 shall not be operative for the purposes of this chapter."
+     SECTION 5.  Section 383-163.6, Hawaii Revised Statutes, is amended by amending the title and subsection (a) to read as follows:
+     "[[]§383-163.6[]]  Voluntary deduction and withholding of federal and state or local income taxes.  (a)  An individual filing a new claim for unemployment compensation [shall], at the time of filing the claim, shall be advised that:
+     (1)  Unemployment compensation is subject to federal [and state] income tax[;] and may be subject to state or local income tax;
+     (2)  Requirements exist pertaining to estimated tax payments;
+     (3)  The individual may elect to have federal income tax deducted and withheld from the individual's payment of unemployment compensation at the amount specified in the federal Internal Revenue Code;
+     (4)  The individual may elect to have state income tax deducted and withheld from the individual's payment of unemployment compensation at the amount specified in section 235-69;
+     (5)  The individual may elect to have state and local income taxes deducted and withheld from the individual's payment of unemployment compensation for other states and localities outside this State at the percentage established by the state or locality, if the department by agreement with the other state or locality is authorized to deduct and withhold income tax; and
+     (6)  The individual shall be permitted to change a previously elected withholding status no more than once during a benefit year."
+     SECTION 6.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 7.  This Act, upon its approval, shall apply to taxable years beginning after December 31, 2010.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Unemployment Compensation; Income Tax Exemption
+ 
+Description:
+Temporarily exempts unemployment compensation from the Hawaii income tax for certain taxpayers.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,99 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2275
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO HOSPITALS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Hospitals in the State face major financial challenges in providing quality health care for Hawaii residents.  These challenges are largely the result of payments to medicaid enrollees for care, the payments of which do not cover the actual costs of care.  The legislature finds that federal funding to help sustain Hawaii’s hospitals financially may be accessed through a provider fee.
+     Provider fees exist in forty-six states and the District of Columbia as a means of drawing down federal funds to sustain their medicaid programs due to rising state budget deficits, increasing health care costs, and expanding medicaid rolls.  Implementation of a provider fee in Hawaii would help stabilize declining medicaid payments to facilities and slow the erosion of access to care for beneficiaries served by the program.
+     Medicaid is jointly financed by the federal and state government, but by statutory formula, the federal government pays between fifty per cent and seventy-six per cent of medicaid costs incurred by states for care delivered to their medicaid beneficiaries.  Federal assistance percentages vary by state, with states that have lower per capita incomes receiving higher federal matching rates.  Under federal rules, the state share must be public funds that are not federal funds.
+Provider fees, which are collected from specific categories of health care providers that agree to the fee, may be imposed on nineteen different classes of health care services, including inpatient and outpatient hospital and nursing facility services.  However, there are limitations on the way provider fees are structured.  The Medicaid Voluntary Contribution and Provider-Specific Tax Amendments of 1991 (P.L. 102-234), passed by Congress in 1991, imposes the following requirements:
+(1)  Broad-based.  To be considered broad-based, a provider fee must be imposed on all health care items or services furnished by all non-federal, non-public providers in the class in the State.  Provider fee programs may exclude public facilities without violating federal law.
+(2)  Uniformly imposed.  In general, a provider fee is uniformly imposed if it is the same amount or rate for each provider in the class.
+(3)  Hold harmless prohibition.  States may not hold providers harmless.  A provider fee is considered to hold the provider harmless if the providers paying the fee receive, directly or indirectly, a non-medicaid payment from the state or any offset or waiver that guarantees to hold the provider harmless for all or a portion of the fee.  A provider fee is also considered to hold the provider harmless if the medicaid payments to the provider vary based only on the amount of the fees paid by the provider.
+The maximum provider fee a state may receive is currently six per cent of net patient revenue.  A number of proposals have been made, but not implemented, to eliminate medicaid provider fee programs to reduce the federal deficit.  However, since provider fees are used by so many states, many of those who are knowledgeable about this subject view elimination of provider fees as unlikely due to their strong political support.  A more realistic expectation is a reduction of the provider fee maximum, as proposed by President Barack Obama’s fiscal year 2012 budget, which would reduce the maximum to three and one-half per cent in 2017.  This proposal recognizes that provider fees are essential for most states to maintain a stable, functioning medicaid program.
+In Hawaii, a provider fee would increase medicaid payments at a time when constraints on the State's budget have forced a reduction in payments and benefits.  The additional federal funds obtained via the fee program would reduce the amount of losses incurred by hospitals.  As such, the provider fee would help preserve access to health care for the medicaid population and sustain the State's entire health care system.
+The purpose of this Act is to ensure access to health care for medicaid recipients by establishing a hospital sustainability fee assessed on provider fees on health care items or services provided by hospitals and by establishing a hospital sustainability program special fund to receive moneys from the hospital sustainability fee to receive federal medicaid matching funds under the QUEST Expanded Medicaid Section 1115 Demonstration Waiver.
+     SECTION 2.  The Hawaii Revised Statutes is amended by adding a new chapter to be appropriately designated and to read as follows:
+
+"CHAPTER
+HOSPITAL SUSTAINABILITY PROGRAM
+     §   -1  Title.  This chapter shall be known and may be cited as the "Hospital Sustainability Program Act".
+     §   -2  Findings and declaration of necessity.  It is the intent of the legislature to encourage the maximum drawdown of federal medicaid funds by establishing a fund within the state treasury to receive revenue from the hospital sustainability fee and to use the fee to receive federal medicaid matching funds under the Section 1115 waiver.
+     §   -3  Definitions.  As used in this chapter:
+     "Acute care day" means a calendar day of care provided to a hospital patient, including the day of admission and excluding the day of discharge of the patient.
+     "Department" means the department of human services.
+     "Fiscal year" means a twelve-month period from July 1 of a particular calendar year to June 30 of the following calendar year, inclusive.
+"Hospital" means a facility as defined and licensed pursuant to chapter 11-93.1, Hawaii administrative rules.
+"Inpatient care" means the care of patients whose conditions require admission to a hospital.
+"Net patient service revenue" means gross revenue from inpatient and outpatient care provided to hospital patients, less reductions from gross revenue resulting from an inability to collect payment of charges.  Inpatient and outpatient care revenue excludes non-patient care revenues, such as beauty and barber services, parking, rental income, vending income, interest and contributions, and revenues from the sale of meals.  Reductions from gross revenue include bad debt; contractual adjustments; uncompensated care; administrative, courtesy, and policy discounts and adjustments; and other similar revenue deductions.
+"Outpatient care" means all services furnished by hospitals to patients who are registered as hospital outpatients.
+"Section 1115 waiver" means the QUEST Expanded Medicaid Section 1115 Demonstration Waiver (Number 11-W-00001/9).
+§   -4  Hospital sustainability program special fund.  (a) There is created in the state treasury the hospital sustainability program special fund into which shall be deposited all moneys collected under this chapter.
+(b)  Moneys in the hospital sustainability program special fund shall consist of:
+(1)  All revenue received by the department from the hospital sustainability fee;
+(2)  All federal medicaid funds received by the department as a result of matching revenue from the hospital sustainability fee;
+(3)  Any interest or penalties levied in conjunction with the administration of this chapter; and
+(4)  Any appropriations, federal funds, donations, gifts, or moneys from any other sources.
+(c)  Revenue from the hospital sustainability fee shall be used exclusively as follows:
+(1)  No less than ninety-five per cent of the revenue from the hospital sustainability fee shall be used for either or both of the following:
+(A)  To match federal medicaid funds, with the combined total to be used to enhance capitated rates to the QUEST and QUEST expanded access plans for increasing medicaid hospital payments to the maximum permitted by federal law; or
+(B)  To match any additional federal medicaid funds available for uncompensated care authorized by any Section 1115 waiver effective after June 30, 2013; and
+(2)  An amount not to exceed five per cent of the revenue from the hospital sustainability fee shall be used to pay the administrative expenses of the State.
+§   -5  Hospital sustainability fee.  (a) Effective July 1, 2012, the department shall charge and collect a provider fee on health care items or services provided by hospitals.
+(b)  The hospital sustainability fee shall be based on the net patient service revenue of all hospitals that are subject to the hospital sustainability fee.
+(c)  The hospital sustainability fee shall not exceed three per cent of net patient service revenue; provided that certain hospitals shall be exempted from the fee or pay a reduced fee, as determined by the department and the Healthcare Association of Hawaii or its successor organization within the broad-based and uniformity waiver requirements imposed by federal law.
+§   -6  Hospital sustainability fee assessments.  (a) Hospitals shall pay the hospital sustainability fee to the department in accordance with this chapter.
+(b)  The department shall collect, and each hospital shall pay, the hospital sustainability fee on a calendar quarter basis subject to the terms of this subsection.  The fee shall be due quarterly, with the initial payment due within forty-five days after approval by the Centers for Medicare and Medicaid Services.  Subsequent quarterly payments shall be due no later than forty-five days after the end of the calendar quarter.
+§   -7  Federal approval.  The department shall seek the necessary broad-based or uniformity waiver and any additional approvals from the Centers for Medicare and Medicaid Services that may be necessary to implement the hospital sustainability program.
+§   -8  Multifacility locations.  If an entity conducts, operates, or maintains more than one hospital licensed by the department of health, the entity shall pay the hospital sustainability fee for each hospital separately.
+§   -9  Penalties for failure to pay hospital sustainability fee.  (a)  If a hospital fails to pay the full amount of the hospital sustainability fee when due, there shall be added to the fee, unless waived by the department for reasonable cause, a penalty equal to five per cent of the fee that was not paid when due.  Any subsequent payments shall be credited first to unpaid fee amounts rather than to penalty or interest amounts, beginning with the most delinquent installment.
+(b)  In addition to the penalty identified in this section, the department may seek any of the following remedies for the failure of any hospital to pay its fee when due:
+(1)  Withholding any medical assistance reimbursement payments until such time as the fee amount is paid in full;
+(2)  Suspension or revocation of the hospital license; or
+(3)  Development of a plan that requires the hospital to pay any delinquent fee in installments.
+§   -10  Enhanced rates to QUEST and QUEST Expanded Access plans.  (a)  In accordance with title 42 Code of Federal Regulations section 438, the department shall use revenue from the hospital sustainability fee and federal matching funds to enhance the capitated rates paid to the QUEST and QUEST expanded access plans for the subject fiscal year, consistent with the following objectives:
+(1)    The rate enhancement shall be used exclusively for increasing hospital reimbursements to support the availability of hospital services and to ensure access for medicaid beneficiaries;
+(2)    The rate enhancement shall be made part of the monthly capitated rates by the department to the QUEST and QUEST expanded access plans, which shall provide documentation to the department certifying that those funds received in this manner are used in accordance with this section;
+(3)    The QUEST and QUEST expanded access plans shall use the rate enhancement to reimburse hospitals based on the inpatient and outpatient use of their QUEST and QUEST expanded access enrollees; and
+(4)    The rate enhancement shall be actuarially sound and approved by the federal government for federal fund participation.
+§   -11  Termination.  (a)  Collection of the hospital sustainability fee created in section   -5 shall be discontinued if:
+(1)  The hospital sustainability program waiver in section   -5 or section   -7 is not approved by the Centers for Medicare and Medicaid Services;
+(2)  The department reduces funding for hospital services below the state appropriation in effect as of the effective date of this chapter;
+(3)  The department or any other state agency uses the money in the hospital sustainability program special fund for any use other than the uses permitted pursuant to this chapter; or
+(4)  If federal financial participation to match the revenue from the hospital sustainability fee becomes unavailable under federal law.  In such case, the department shall terminate the imposition of the hospital sustainability fee beginning on the date the federal statutory, regulatory, or interpretive change takes effect.
+(b)  If collection of the hospital sustainability fee is discontinued as provided in this section, all money in the special fund shall be distributed to the hospitals on the same basis as the hospital sustainability fee was assessed.
+§   -12  Severability.  If any provision of this chapter or the application thereof to any person or circumstances is held invalid, the invalidity shall not affect other provisions or applications of the chapter which can be given effect without the invalid provision or application, and to this end the provisions of this chapter are severable."
+SECTION 3.  This Act shall take effect on July 1, 2012, and shall be repealed on June 30, 2013.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Hospital Sustainability Fee; Hospital Sustainability Program Special Fund
+ 
+Description:
+Establishes the Hospital Sustainability Program into which hospital sustainability fees shall be deposited.  Requires the Department of Human Services to charge and collect a provider fee on health care items or services provided by hospitals.  Effective July 1, 2012, and repealed on June 30, 2013.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

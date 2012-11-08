@@ -1,0 +1,302 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2020
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MORTGAGE FORECLOSURES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 514A-90, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending subsection (b) to read:
+     "(b)  Except as provided in subsection (g), when the mortgagee of a mortgage of record or other purchaser of an apartment obtains title to the apartment as a result of foreclosure of the mortgage, the acquirer of title and the acquirer's successors and assigns shall not be liable for the share of the common expenses or assessments by the association of apartment owners chargeable to the apartment which became due prior to the acquisition of title to the apartment by the acquirer.  The unpaid share of common expenses or assessments shall be deemed to be common expenses collectible from all of the apartment owners, including the acquirer and the acquirer's successors and assigns.  The mortgagee of record or other purchaser of the apartment shall be deemed to acquire title and shall be required to pay the apartment's share of common expenses and assessments beginning:
+     (1)  Thirty-six days after the order confirming the sale to the purchaser has been filed with the court;
+     (2)  Sixty days after the hearing at which the court grants the motion to confirm the sale to the purchaser; or
+    [(3)  Thirty days after the public sale in a nonjudicial power of sale foreclosure pursuant to section 667-5; or
+     (4)] (3)  Upon the recording of the instrument of conveyance,
+whichever occurs first; provided that the mortgagee of record or other purchaser of the apartment shall not be deemed to acquire title under paragraph (1)[,] or (2)[, or (3)], if transfer of title is delayed past the thirty-six days specified in paragraph (1)[,] or the sixty days specified in paragraph (2)[, or the thirty days specified in paragraph (3)], when a person who appears at the hearing on the motion or a party to the foreclosure action requests reconsideration of the motion or order to confirm sale, objects to the form of the proposed order to confirm sale, appeals the decision of the court to grant the motion to confirm sale, or the debtor or mortgagor declares bankruptcy or is involuntarily placed into bankruptcy.  In any such case, the mortgagee of record or other purchaser of the apartment shall be deemed to acquire title upon recordation of the instrument of conveyance."
+     2.  By amending subsection (i) to read:
+     "(i)  For purposes of subsections (g) and (h), the following definitions shall apply:
+     "Completion" means:
+     (1)  In a nonjudicial power of sale foreclosure, when the affidavit [required under section 667-5] is filed; and
+     (2)  In a judicial foreclosure, when a purchaser is deemed to acquire title pursuant to subsection (b)."
+     SECTION 2.  Section 514B-146, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending subsection (b) to read:
+     "(b)  Except as provided in subsection (g), when the mortgagee of a mortgage of record or other purchaser of a unit obtains title to the unit as a result of foreclosure of the mortgage, the acquirer of title and the acquirer's successors and assigns shall not be liable for the share of the common expenses or assessments by the association chargeable to the unit which became due prior to the acquisition of title to the unit by the acquirer.  The unpaid share of common expenses or assessments shall be deemed to be common expenses collectible from all of the unit owners, including the acquirer and the acquirer's successors and assigns.  The mortgagee of record or other purchaser of the unit shall be deemed to acquire title and shall be required to pay the unit's share of common expenses and assessments beginning:
+     (1)  Thirty-six days after the order confirming the sale to the purchaser has been filed with the court;
+     (2)  Sixty days after the hearing at which the court grants the motion to confirm the sale to the purchaser; or
+    [(3)  Thirty days after the public sale in a nonjudicial power of sale foreclosure pursuant to section 667‑5; or
+     (4)] (3)  Upon the recording of the instrument of conveyance;
+whichever occurs first; provided that the mortgagee of record or other purchaser of the unit shall not be deemed to acquire title under paragraph (1)[,] or (2)[, or (3)], if transfer of title is delayed past the thirty-six days specified in paragraph (1)[,] or the sixty days specified in paragraph (2)[, or the thirty days specified in paragraph (3)], when a person who appears at the hearing on the motion or a party to the foreclosure action requests reconsideration of the motion or order to confirm sale, objects to the form of the proposed order to confirm sale, appeals the decision of the court to grant the motion to confirm sale, or the debtor or mortgagor declares bankruptcy or is involuntarily placed into bankruptcy.  In any such case, the mortgagee of record or other purchaser of the unit shall be deemed to acquire title upon recordation of the instrument of conveyance."
+     2.  By amending subsection (i) to read:
+     "(i)  For purposes of subsections (g) and (h), the following definitions shall apply:
+     "Completion" means:
+     (1)  In a nonjudicial power of sale foreclosure, when the affidavit [required under section 667-5] is filed; and
+     (2)  In a judicial foreclosure, when a purchaser is deemed to acquire title pursuant to subsection (b)."
+     SECTION 3.  Chapter 667, part II, Hawaii Revised Statutes, is amended by amending the title to read as follows:
+"[[]PART II.[]  ALTERNATE]  POWER OF SALE FORECLOSURE PROCESS"
+     SECTION 4.  Section 667-21, Hawaii Revised Statutes, is amended to read as follows:
+     §667-21  [Alternate power] Power of sale process; definitions.  [(a)  The process in this part is an alternative power of sale process to the foreclosure by action and the foreclosure by power of sale in part I.
+     (b)]  As used in this part:
+     "Approved budget and credit counselor" means a budget and credit counseling agency that has received approval from a United States trustee or bankruptcy administrator to provide instructional courses concerning personal financial management pursuant to Title 11 United States Code, section 111.
+     "Approved housing counselor" means a housing counseling agency that has received approval from the United States Department of Housing and Urban Development to provide housing counseling services pursuant to section 106(a)(2) of the Housing and Urban Development Act of 1968, Title 12 United States Code, section 1701x.
+     "Association" has the same meaning as the term is defined in section 514B-3.
+     "Borrower" means the borrower, maker, cosigner, or guarantor under a mortgage agreement.
+     "Foreclosing mortgagee" means the mortgagee that intends to conduct a power of sale foreclosure; provided that the mortgagee is a federally insured bank, a federally insured savings and loan association, a federally insured savings bank, a depository financial services loan company, a nondepository financial services loan company, a credit union insured by the National Credit Union Administration, a bank holding company, a foreign lender as defined in section 207-11, or an institutional investor as defined in section 454-1.
+     Unless the context clearly indicates otherwise, as used in this part, a "foreclosing mortgagee" shall encompass all of the following entities:
+     (1)  The foreclosing mortgagee;
+     (2)  Any person that has an ownership interest in the promissory note on the mortgage agreement or a security interest represented by the mortgage for the subject property;
+     (3)  Any mortgage servicer, who services the mortgage loan of the mortgagor; and
+     (4)  The agents, employees, trustees, and representatives of a lender, the foreclosing mortgagee, a mortgagee, and a mortgage servicer.
+     "Mailed" means to be sent by regular mail, postage prepaid, and by certified, registered, or express mail, postage prepaid and return receipt requested.
+     "Mortgage" means a mortgage, security agreement, or other document under which property is mortgaged, encumbered, pledged, or otherwise rendered subject to a lien for the purpose of securing the payment of money or the performance of an obligation.
+     "Mortgage agreement" includes the mortgage, the note or debt document, or any document amending any of the foregoing.
+     "Mortgaged property" means the property that is subject to the lien of the mortgage.
+     "Mortgagee" means the current holder of record of the mortgagee's or the lender's interest under the mortgage, or the current mortgagee's or lender's duly authorized agent.
+     "Mortgagor" means the mortgagor or borrower named in the mortgage and, unless the context otherwise indicates, includes the current owner of record of the mortgaged property whose interest is subject to the mortgage.
+     "Nonjudicial foreclosure" means foreclosure under power of sale.
+     "Open house" means a public showing of the mortgaged property during a scheduled time period.
+     "Owner-occupant" means a person, at the time that a notice of default and intention to foreclose is served on the mortgagor under the power of sale:
+     (1)  Who owns an interest in the residential property, and the interest is encumbered by the mortgage being foreclosed; and
+     (2)  For whom the residential property is and has been the person's primary residence for a continuous period of not less than two hundred days immediately preceding the date on which the notice is served.
+     "Power of sale" or "power of sale foreclosure" means a nonjudicial foreclosure under this part when the mortgage contains, authorizes, permits, or provides for a power of sale, a power of sale foreclosure, a power of sale remedy, or a nonjudicial foreclosure.
+     "Property" means property (real, personal, or mixed), an interest in property (including fee simple, leasehold, life estate, reversionary interest, and any other estate under applicable law), or other interests that can be subject to the lien of a mortgage.
+     "Record" or "recorded" means a document is recorded or filed with the office of the assistant registrar of the land court under chapter 501 or recorded with the registrar of conveyances under chapter 502, or both, as applicable.
+     "Residential property" means real property that is improved and used for residential purposes.
+     "Served" means to have service of the notice of default and intention to foreclose made in accordance with the service of process or the service of summons under the Hawaii rules of civil procedure, and under sections 634-35 and 634-36."
+     SECTION 5.  Section 667-50, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§667-50[]]  Definitions.  For purposes of this chapter, "foreclosure notice" shall mean [notice of intention to foreclose given pursuant to section 667-5 or] notice of default and intention to foreclose prepared pursuant to section 667-22."
+     SECTION 6.  Section 667-53, Hawaii Revised Statutes, is amended by amending the title and subsection (a) to read as follows:
+     "[[]§667-53[]]  Conversion to judicial foreclosure; residential property; conditions.  (a)  An owner-occupant of a residential property that is subject to nonjudicial foreclosure under part [I or] II may convert the action to a judicial foreclosure provided that:
+     (1)  A petition conforming to section 667-54 shall be filed with the circuit court in the circuit where the residential property is located, stating that the owner-occupant of the property elects to convert the nonjudicial foreclosure to a judicial foreclosure proceeding no later than thirty days after the foreclosure notice is served on the owner-occupant as required by section [667-5 or] 667-22;
+     (2)  Within forty-five days of the filing of the petition, all owner-occupants and mortgagors of an interest in the residential property whose interests are pledged or otherwise encumbered by the mortgage that is being foreclosed and all persons who have signed the promissory note or other instrument evidencing the debt secured by the mortgage that is being foreclosed, including without limitation co-obligors and guarantors, shall file a statement in the circuit court action that they agree to submit themselves to the judicial process and the jurisdiction of the circuit court; provided further that if this condition is not satisfied, the circuit court action may be dismissed with prejudice as to the right of any owner-occupant to convert the action to a judicial proceeding, and the mortgagee may proceed nonjudicially;
+     (3)  Filing a petition pursuant to paragraph (1) shall automatically stay the nonjudicial foreclosure action unless and until the judicial proceeding has been dismissed;
+     (4)  The person filing the petition pursuant to paragraph (1) shall have an affirmative duty to promptly notify the Hawaii attorney who is handling the nonjudicial foreclosure about the filing of the complaint for conversion;
+     (5)  All parties joined in the converted judicial proceeding may assert therein any claims and defenses that they could have asserted had the action originally been commenced as a judicial foreclosure action; and
+     (6)  Notwithstanding chapter 607, the fee for filing the petition shall be not more than $525, of which $250 shall be deposited into the mortgage foreclosure dispute resolution special fund established under section 667‑86; provided that if the mortgage foreclosure dispute resolution program under part V has not yet been implemented, the filing fee shall be not more than $300."
+     SECTION 7.  Section 667-54, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§667-54[]]  Petition for conversion; residential property; required contents.  (a)  A petition filed pursuant to section 667‑53 shall contain at a minimum:
+     (1)  A caption setting forth the name of the court, the title of the action, and the file number; provided that the title of the action shall include the names of the filing party as petitioner and the foreclosing party as the respondent;
+     (2)  The name, mailing address, and telephone number of the filing party;
+     (3)  The address or tax map key number and the certificate of title or transfer certificate of title number if within the land court's jurisdiction, of the property subject to the foreclosure action;
+     (4)  A statement identifying all other owner-occupants and mortgagors of the property whose interests are pledged or otherwise encumbered by the mortgage that is being foreclosed and all persons who have signed the promissory note or other instrument evidencing the debt secured by the mortgage that is being foreclosed, including without limitation co-obligors and guarantors;
+     (5)  A certification under penalty of perjury that the filing party is an owner-occupant of the subject property and seeks to convert the nonjudicial foreclosure to a judicial proceeding;
+     (6)  A statement certifying that the filing party served a copy of the petition on the attorney identified in the foreclosure notice under section [667-5 or] 667-22 either by personal delivery at, or by postage prepaid United States mail to, the address of the attorney as set forth in the foreclosure notice under section [667-5 or] 667-22; and
+     (7)  A copy of the foreclosure notice that was served on the filing party pursuant to section [667-5 or] 667-22 and for which the filing party is seeking to convert to a judicial proceeding.
+     (b)  The assignment of parties in the petition for conversion pursuant to subsection (a) shall relate to the petition for conversion only and shall not be construed to affect the assignment of parties in a nonjudicial power of sale foreclosure converted to a judicial foreclosure pursuant to this part."
+     SECTION 8.  Section 667-55, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§667-55[]]  Notice of default and intention to foreclose; residential property; required statement on conversion.  (a)  The foreclosure notice that is served as required under section [667-5 or] 667-22 shall include, in addition to the contents required under section [667-5 or] 667-22, a statement printed in not less than fourteen-point font as follows:
+"IF THE PROPERTY BEING FORECLOSED IS IMPROVED AND USED FOR RESIDENTIAL PURPOSES, AN OWNER-OCCUPANT OF THE PROPERTY (DEFINED IN CHAPTER 667 OF THE HAWAII REVISED STATUTES AS A PERSON WHO, AT THE TIME THIS NOTICE IS SERVED, OWNS AN INTEREST IN THE RESIDENTIAL PROPERTY THAT IS SUBJECT TO THE MORTGAGE BEING FORECLOSED AND THE RESIDENTIAL PROPERTY HAS BEEN THE PRIMARY RESIDENCE CONTINUOUSLY FOR NOT LESS THAN TWO HUNDRED DAYS) HAS THE RIGHT TO CONVERT A NONJUDICIAL FORECLOSURE PROCEEDING TO A JUDICIAL FORECLOSURE WHERE CLAIMS AND DEFENSES MAY BE CONSIDERED BY A COURT OF LAW.  TO EXERCISE THIS RIGHT, THE OWNER-OCCUPANT SHALL COMPLETE AND FILE THE ATTACHED FORM WITH THE CIRCUIT COURT IN THE CIRCUIT WHERE THE PROPERTY IS LOCATED WITHIN THIRTY DAYS AFTER SERVICE OF THIS NOTICE.
+IN ADDITION, ALL OWNER-OCCUPANTS AND MORTGAGORS OF THE RESIDENTIAL PROPERTY WHOSE INTERESTS HAVE BEEN PLEDGED OR OTHERWISE ENCUMBERED BY THE MORTGAGE THAT IS BEING FORECLOSED AND ALL PERSONS WHO HAVE SIGNED THE PROMISSORY NOTE OR OTHER INSTRUMENT EVIDENCING THE DEBT SECURED BY THE MORTGAGE THAT IS BEING FORECLOSED, INCLUDING, WITHOUT LIMITATION, CO-OBLIGORS AND GUARANTORS, SHALL FILE A STATEMENT IN THE CIRCUIT COURT ACTION THAT THEY AGREE TO SUBMIT TO THE JUDICIAL PROCESS AND THE JURISDICTION OF THE CIRCUIT COURT WITHIN FORTY-FIVE DAYS OF THE FILING OF THE ATTACHED FORM.  FAILURE TO SATISFY THIS CONDITION MAY RESULT IN DISMISSAL OF THE CIRCUIT COURT ACTION WITH PREJUDICE.
+AN OWNER-OCCUPANT SHALL PROMPTLY NOTIFY THE HAWAII ATTORNEY LISTED IN THIS NOTICE ABOUT THE FILING OF THE CONVERSION FORM.
+MORTGAGE FORECLOSURE DISPUTE RESOLUTION MAY BE AVAILABLE IN NONJUDICIAL FORECLOSURE ACTIONS AS AN ALTERNATIVE FOR OWNER-OCCUPANTS ATTEMPTING TO AVOID FORECLOSURE OR TO MITIGATE THE EFFECTS OF FORECLOSURE ON AN OWNER-OCCUPANT.  HOWEVER, IF AN OWNER-OCCUPANT FILES FOR CONVERSION, DISPUTE RESOLUTION MAY NOT BE AVAILABLE UNLESS ORDERED BY A JUDGE.
+A FORECLOSING LENDER WHO COMPLETES A NONJUDICIAL FORECLOSURE OF RESIDENTIAL PROPERTY SHALL BE PROHIBITED UNDER HAWAII LAW FROM PURSUING A DEFICIENCY JUDGMENT AGAINST A MORTGAGOR UNLESS THE DEBT IS SECURED BY OTHER COLLATERAL, OR AS OTHERWISE PROVIDED BY LAW.  IF THIS ACTION IS CONVERTED TO A JUDICIAL PROCEEDING, HOWEVER, THEN ALL REMEDIES AVAILABLE TO A LENDER MAY BE ASSERTED, INCLUDING THE RIGHT TO SEEK A DEFICIENCY JUDGMENT.
+     (b)  The statement required by this section shall not be required to be included in the [notice of sale published pursuant to 667-5(a)(1) or the] public notice of public sale published pursuant to section 667-27."
+     SECTION 9.  Section 667-57, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§667-57[]]  Suspension of foreclosure action by junior lienholders.  (a)  Upon initiation of a foreclosure action pursuant to [part I or] part II by a foreclosing mortgagee as defined in section 667-21(b), no junior lienholder shall be permitted to initiate or continue a nonjudicial foreclosure [pursuant to part I] until the foreclosure initiated by the foreclosing mortgagee has been concluded by [a judgment issued by a court pursuant to section 667-1,] the recording of an affidavit after public sale pursuant to section [667-5 or] 667-33[,] or the filing of a settlement document under the mortgage foreclosure dispute resolution provisions of section 667-81.
+     (b)  Upon initiation of a foreclosure action pursuant to [part I or] part II by a foreclosing mortgagee as defined in section 667-21(b), no junior lienholder shall be permitted to initiate a nonjudicial foreclosure pursuant to part II during the pendency of a stay pursuant to section 667-83; provided that a junior lienholder may initiate or continue with a nonjudicial foreclosure pursuant to part II if the junior lien foreclosure was initiated before the foreclosure action by the foreclosing mortgagee."
+     SECTION 10.  Section 667-71, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  This part shall apply to nonjudicial foreclosures conducted by power of sale under [parts I and] part II, of residential real property that is occupied by one or more mortgagors who are owner-occupants."
+     SECTION 11.  Section 667-74, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§667-74[]]  Availability of dispute resolution required before foreclosure.  Before a public sale may be conducted pursuant to section [667-5 or] 667-25 for a residential property that is occupied by an owner-occupant as a primary residence, the foreclosing mortgagee shall, at the election of the owner-occupant, participate in the mortgage foreclosure dispute resolution program under this part to attempt to negotiate an agreement that avoids foreclosure or mitigates damages in cases where foreclosure is unavoidable."
+     SECTION 12.  Section 667-75, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  A foreclosure notice served pursuant to section [667-5 or] 667-22(e) shall include notice that the mortgagee is required, at the election of an owner-occupant, to participate in the mortgage foreclosure dispute resolution program pursuant to this part to attempt to avoid foreclosure or to mitigate damages where foreclosure is unavoidable."
+     SECTION 13.  Section 667-76, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  Within three days after a mortgagee serves a foreclosure notice on an owner-occupant pursuant to section [667‑5 or] 667-22, the mortgagee shall file the foreclosure notice with the department and pay a filing fee of $250, which shall be deposited into the mortgage foreclosure dispute resolution special fund established under section 667-86."
+     SECTION 14.  Section 667-77, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§667-77[]]  Notification to mortgagor by department.  Within ten days after the mortgagee's filing of a notice of default and intention to foreclose with the department, the department shall mail a written notification by registered or certified mail to the mortgagor that a notice of default and intention to foreclose has been filed with the department.  The notification shall inform the mortgagor of an owner-occupant's right to elect to participate in the foreclosure dispute resolution program and shall include:
+     (1)  Information about the mortgage foreclosure dispute resolution program;
+     (2)  A form for an owner-occupant to elect or to waive participation in the mortgage foreclosure dispute resolution program pursuant to this part that shall contain instructions for the completion and return of the form to the department and the department's mailing address;
+     (3)  A statement that the mortgagor electing to participate in the mortgage foreclosure dispute resolution program shall provide a certification under penalty of perjury to the department that the mortgagor is an owner-occupant of the subject property, including a description of acceptable supporting documentation as required by section 667-78(a)(2);
+     (4)  A statement that the owner-occupant shall elect to participate in the mortgage foreclosure dispute resolution program pursuant to this part no later than thirty days after the department's mailing of the notice or the owner-occupant shall be deemed to have waived the option to participate in the mortgage foreclosure dispute resolution program;
+     (5)  A description of the information required under section 667-80(c)(2) that the owner-occupant shall provide to the mortgagee and the neutral assigned to the dispute resolution;
+     (6)  A statement that the owner-occupant shall consult with an approved housing counselor or approved budget and credit counselor at least thirty days prior to the first day of a scheduled dispute resolution session;
+     (7)  Contact information for all local approved housing counselors;
+     (8)  Contact information for all local approved budget and credit counselors; and
+     (9)  Contact information for the department.
+The notification shall be mailed to the subject property address and any other addresses for the mortgagor as provided in the mortgagee's notice of dispute resolution under [[]section[]] 667-75 and the foreclosure notice under section [667-5 or] 667-22(a)."
+     SECTION 15.  Section 667-78, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  If the owner-occupant does not elect to participate in dispute resolution pursuant to this part, the department shall notify the mortgagee within ten days of receiving an election form indicating nonelection or the termination of the thirty-day time period for election.  After receiving the department's notification, the mortgagee may proceed with the nonjudicial foreclosure process according to the process provided in [part I or] part II of this chapter[, as applicable]."
+     SECTION 16.  Chapter 667, part I, Hawaii Revised Statutes, is repealed.
+     SECTION 17.  Act 48, Session Laws of Hawaii 2011, is amended by amending section 45 to read as follows:
+     "SECTION 45. This Act shall take effect upon its approval; provided that:
+     (1)  The mortgage foreclosure dispute resolution program established by section 1 of this Act shall be operative no later than October 1, 2011;
+     (2)  Sections 1, 13, and 14 shall be repealed on September 30, 2014, and sections 514A-90(h) and 514B‑146(h), Hawaii Revised Statutes, shall be reenacted in the form in which they read on the day before the effective date of this Act;
+     (3)  Section 10 shall take effect on July 1, 2012;
+    [(4)  Section 5 shall be repealed on December 31, 2012;
+     (5)] (4)  Section 7 shall be repealed on September 30, 2014, and section 26-9(o), Hawaii Revised Statutes, shall be reenacted in the form in which it read on the day before the effective date of this Act; and
+    [(6)] (5)  Upon the repeal of section 1, all moneys remaining in the mortgage foreclosure dispute resolution special fund established under section 667-P, Hawaii Revised Statutes, shall be transferred to the compliance resolution fund established under section 26-9(o), Hawaii Revised Statutes."
+     SECTION 18.  Act 48, Session Laws of Hawaii 2011, is amended by repealing section 40.
+     ["SECTION 40.  There shall be a moratorium on all new nonjudicial foreclosure actions under part I of chapter 667, Hawaii Revised Statutes, for property located in this State to begin on the effective date of this Act and to end on July 1, 2012.  No foreclosure by power of sale pursuant to section 667‑5, Hawaii Revised Statutes, shall be initiated and the registrar of the bureau of conveyances shall not record an affidavit or notice of sale pursuant to section 667-5, Hawaii Revised Statutes, for a power of sale foreclosure under section 667-5, Hawaii Revised Statutes, initiated during the moratorium period established by this Act."]
+     SECTION 19.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 20.  This Act shall take effect on July 1, 2012; provided that sections 6 to 8 shall be repealed on December 12, 2012.
+ 
+
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Mortgage Foreclosure
+ 
+Description:
+Repeals part I of chapter 667, HRS, relating to foreclosure by action or foreclosure by power of sale.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+ser of an apartment obtains title to the apartment as a result of foreclosure of the mortgage, the acquirer of title and the acquirer's successors and assigns shall not be liable for the share of the common expenses or assessments by the association of apartment owners chargeable to the apartment which became due prior to the acquisition of title to the apartment by the acquirer.  The unpaid share of common expenses or assessments shall be deemed to be common expenses collectible from all of the apartment owners, including the acquirer and the acquirer's successors and assigns.  The mortgagee of record or other purchaser of the apartment shall be deemed to acquire title and shall be required to pay the apartment's share of common expenses and assessments beginning:
+
+     (1)  Thirty-six days after the order confirming the sale to the purchaser has been filed with the court;
+     (2)  Sixty days after the hearing at which the court grants the motion to confirm the sale to the purchaser; or
+    [(3)  Thirty days after the public sale in a nonjudicial power of sale foreclosure pursuant to section 667-5; or
+     (4)] (3)  Upon the recording of the instrument of conveyance,
+whichever occurs first; provided that the mortgagee of record or other purchaser of the apartment shall not be deemed to acquire title under paragraph (1)[,] or (2)[, or (3)], if transfer of title is delayed past the thirty-six days specified in paragraph (1)[,] or the sixty days specified in paragraph (2)[, or the thirty days specified in paragraph (3)], when a person who appears at the hearing on the motion or a party to the foreclosure action requests reconsideration of the motion or order to confirm sale, objects to the form of the proposed order to confirm sale, appeals the decision of the court to grant the motion to confirm sale, or the debtor or mortgagor declares bankruptcy or is involuntarily placed into bankruptcy.  In any such case, the mortgagee of record or other purchaser of the apartment shall be deemed to acquire title upon recordation of the instrument of conveyance."
+     2.  By amending subsection (i) to read:
+     "(i)  For purposes of subsections (g) and (h), the following definitions shall apply:
+     "Completion" means:
+     (1)  In a nonjudicial power of sale foreclosure, when the affidavit [required under section 667-5] is filed; and
+     (2)  In a judicial foreclosure, when a purchaser is deemed to acquire title pursuant to subsection (b)."
+     SECTION 2.  Section 514B-146, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending subsection (b) to read:
+     "(b)  Except as provided in subsection (g), when the mortgagee of a mortgage of record or other purchaser of a unit obtains title to the unit as a result of foreclosure of the mortgage, the acquirer of title and the acquirer's successors and assigns shall not be liable for the share of the common expenses or assessments by the association chargeable to the unit which became due prior to the acquisition of title to the unit by the acquirer.  The unpaid share of common expenses or assessments shall be deemed to be common expenses collectible from all of the unit owners, including the acquirer and the acquirer's successors and assigns.  The mortgagee of record or other purchaser of the unit shall be deemed to acquire title and shall be required to pay the unit's share of common expenses and assessments beginning:
+     (1)  Thirty-six days after the order confirming the sale to the purchaser has been filed with the court;
+     (2)  Sixty days after the hearing at which the court grants the motion to confirm the sale to the purchaser; or
+    [(3)  Thirty days after the public sale in a nonjudicial power of sale foreclosure pursuant to section 667‑5; or
+     (4)] (3)  Upon the recording of the instrument of conveyance;
+whichever occurs first; provided that the mortgagee of record or other purchaser of the unit shall not be deemed to acquire title under paragraph (1)[,] or (2)[, or (3)], if transfer of title is delayed past the thirty-six days specified in paragraph (1)[,] or the sixty days specified in paragraph (2)[, or the thirty days specified in paragraph (3)], when a person who appears at the hearing on the motion or a party to the foreclosure action requests reconsideration of the motion or order to confirm sale, objects to the form of the proposed order to confirm sale, appeals the decision of the court to grant the motion to confirm sale, or the debtor or mortgagor declares bankruptcy or is involuntarily placed into bankruptcy.  In any such case, the mortgagee of record or other purchaser of the unit shall be deemed to acquire title upon recordation of the instrument of conveyance."
+     2.  By amending subsection (i) to read:
+     "(i)  For purposes of subsections (g) and (h), the following definitions shall apply:
+     "Completion" means:
+     (1)  In a nonjudicial power of sale foreclosure, when the affidavit [required under section 667-5] is filed; and
+     (2)  In a judicial foreclosure, when a purchaser is deemed to acquire title pursuant to subsection (b)."
+     SECTION 3.  Chapter 667, part II, Hawaii Revised Statutes, is amended by amending the title to read as follows:
+"[[]PART II.[]  ALTERNATE]  POWER OF SALE FORECLOSURE PROCESS"
+     SECTION 4.  Section 667-21, Hawaii Revised Statutes, is amended to read as follows:
+     §667-21  [Alternate power] Power of sale process; definitions.  [(a)  The process in this part is an alternative power of sale process to the foreclosure by action and the foreclosure by power of sale in part I.
+     (b)]  As used in this part:
+     "Approved budget and credit counselor" means a budget and credit counseling agency that has received approval from a United States trustee or bankruptcy administrator to provide instructional courses concerning personal financial management pursuant to Title 11 United States Code, section 111.
+     "Approved housing counselor" means a housing counseling agency that has received approval from the United States Department of Housing and Urban Development to provide housing counseling services pursuant to section 106(a)(2) of the Housing and Urban Development Act of 1968, Title 12 United States Code, section 1701x.
+     "Association" has the same meaning as the term is defined in section 514B-3.
+     "Borrower" means the borrower, maker, cosigner, or guarantor under a mortgage agreement.
+     "Foreclosing mortgagee" means the mortgagee that intends to conduct a power of sale foreclosure; provided that the mortgagee is a federally insured bank, a federally insured savings and loan association, a federally insured savings bank, a depository financial services loan company, a nondepository financial services loan company, a credit union insured by the National Credit Union Administration, a bank holding company, a foreign lender as defined in section 207-11, or an institutional investor as defined in section 454-1.
+     Unless the context clearly indicates otherwise, as used in this part, a "foreclosing mortgagee" shall encompass all of the following entities:
+     (1)  The foreclosing mortgagee;
+     (2)  Any person that has an ownership interest in the promissory note on the mortgage agreement or a security interest represented by the mortgage for the subject property;
+     (3)  Any mortgage servicer, who services the mortgage loan of the mortgagor; and
+     (4)  The agents, employees, trustees, and representatives of a lender, the foreclosing mortgagee, a mortgagee, and a mortgage servicer.
+     "Mailed" means to be sent by regular mail, postage prepaid, and by certified, registered, or express mail, postage prepaid and return receipt requested.
+     "Mortgage" means a mortgage, security agreement, or other document under which property is mortgaged, encumbered, pledged, or otherwise rendered subject to a lien for the purpose of securing the payment of money or the performance of an obligation.
+     "Mortgage agreement" includes the mortgage, the note or debt document, or any document amending any of the foregoing.
+     "Mortgaged property" means the property that is subject to the lien of the mortgage.
+     "Mortgagee" means the current holder of record of the mortgagee's or the lender's interest under the mortgage, or the current mortgagee's or lender's duly authorized agent.
+     "Mortgagor" means the mortgagor or borrower named in the mortgage and, unless the context otherwise indicates, includes the current owner of record of the mortgaged property whose interest is subject to the mortgage.
+     "Nonjudicial foreclosure" means foreclosure under power of sale.
+     "Open house" means a public showing of the mortgaged property during a scheduled time period.
+     "Owner-occupant" means a person, at the time that a notice of default and intention to foreclose is served on the mortgagor under the power of sale:
+     (1)  Who owns an interest in the residential property, and the interest is encumbered by the mortgage being foreclosed; and
+     (2)  For whom the residential property is and has been the person's primary residence for a continuous period of not less than two hundred days immediately preceding the date on which the notice is served.
+     "Power of sale" or "power of sale foreclosure" means a nonjudicial foreclosure under this part when the mortgage contains, authorizes, permits, or provides for a power of sale, a power of sale foreclosure, a power of sale remedy, or a nonjudicial foreclosure.
+     "Property" means property (real, personal, or mixed), an interest in property (including fee simple, leasehold, life estate, reversionary interest, and any other estate under applicable law), or other interests that can be subject to the lien of a mortgage.
+     "Record" or "recorded" means a document is recorded or filed with the office of the assistant registrar of the land court under chapter 501 or recorded with the registrar of conveyances under chapter 502, or both, as applicable.
+     "Residential property" means real property that is improved and used for residential purposes.
+     "Served" means to have service of the notice of default and intention to foreclose made in accordance with the service of process or the service of summons under the Hawaii rules of civil procedure, and under sections 634-35 and 634-36."
+     SECTION 5.  Section 667-50, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§667-50[]]  Definitions.  For purposes of this chapter, "foreclosure notice" shall mean [notice of intention to foreclose given pursuant to section 667-5 or] notice of default and intention to foreclose prepared pursuant to section 667-22."
+     SECTION 6.  Section 667-53, Hawaii Revised Statutes, is amended by amending the title and subsection (a) to read as follows:
+     "[[]§667-53[]]  Conversion to judicial foreclosure; residential property; conditions.  (a)  An owner-occupant of a residential property that is subject to nonjudicial foreclosure under part [I or] II may convert the action to a judicial foreclosure provided that:
+     (1)  A petition conforming to section 667-54 shall be filed with the circuit court in the circuit where the residential property is located, stating that the owner-occupant of the property elects to convert the nonjudicial foreclosure to a judicial foreclosure proceeding no later than thirty days after the foreclosure notice is served on the owner-occupant as required by section [667-5 or] 667-22;
+     (2)  Within forty-five days of the filing of the petition, all owner-occupants and mortgagors of an interest in the residential property whose interests are pledged or otherwise encumbered by the mortgage that is being foreclosed and all persons who have signed the promissory note or other instrument evidencing the debt secured by the mortgage that is being foreclosed, including without limitation co-obligors and guarantors, shall file a statement in the circuit court action that they agree to submit themselves to the judicial process and the jurisdiction of the circuit court; provided further that if this condition is not satisfied, the circuit court action may be dismissed with prejudice as to the right of any owner-occupant to convert the action to a judicial proceeding, and the mortgagee may proceed nonjudicially;
+     (3)  Filing a petition pursuant to paragraph (1) shall automatically stay the nonjudicial foreclosure action unless and until the judicial proceeding has been dismissed;
+     (4)  The person filing the petition pursuant to paragraph (1) shall have an affirmative duty to promptly notify the Hawaii attorney who is handling the nonjudicial foreclosure about the filing of the complaint for conversion;
+     (5)  All parties joined in the converted judicial proceeding may assert therein any claims and defenses that they could have asserted had the action originally been commenced as a judicial foreclosure action; and
+     (6)  Notwithstanding chapter 607, the fee for filing the petition shall be not more than $525, of which $250 shall be deposited into the mortgage foreclosure dispute resolution special fund established under section 667‑86; provided that if the mortgage foreclosure dispute resolution program under part V has not yet been implemented, the filing fee shall be not more than $300."
+     SECTION 7.  Section 667-54, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§667-54[]]  Petition for conversion; residential property; required contents.  (a)  A petition filed pursuant to section 667‑53 shall contain at a minimum:
+     (1)  A caption setting forth the name of the court, the title of the action, and the file number; provided that the title of the action shall include the names of the filing party as petitioner and the foreclosing party as the respondent;
+     (2)  The name, mailing address, and telephone number of the filing party;
+     (3)  The address or tax map key number and the certificate of title or transfer certificate of title number if within the land court's jurisdiction, of the property subject to the foreclosure action;
+     (4)  A statement identifying all other owner-occupants and mortgagors of the property whose interests are pledged or otherwise encumbered by the mortgage that is being foreclosed and all persons who have signed the promissory note or other instrument evidencing the debt secured by the mortgage that is being foreclosed, including without limitation co-obligors and guarantors;
+     (5)  A certification under penalty of perjury that the filing party is an owner-occupant of the subject property and seeks to convert the nonjudicial foreclosure to a judicial proceeding;
+     (6)  A statement certifying that the filing party served a copy of the petition on the attorney identified in the foreclosure notice under section [667-5 or] 667-22 either by personal delivery at, or by postage prepaid United States mail to, the address of the attorney as set forth in the foreclosure notice under section [667-5 or] 667-22; and
+     (7)  A copy of the foreclosure notice that was served on the filing party pursuant to section [667-5 or] 667-22 and for which the filing party is seeking to convert to a judicial proceeding.
+     (b)  The assignment of parties in the petition for conversion pursuant to subsection (a) shall relate to the petition for conversion only and shall not be construed to affect the assignment of parties in a nonjudicial power of sale foreclosure converted to a judicial foreclosure pursuant to this part."
+     SECTION 8.  Section 667-55, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§667-55[]]  Notice of default and intention to foreclose; residential property; required statement on conversion.  (a)  The foreclosure notice that is served as required under section [667-5 or] 667-22 shall include, in addition to the contents required under section [667-5 or] 667-22, a statement printed in not less than fourteen-point font as follows:
+"IF THE PROPERTY BEING FORECLOSED IS IMPROVED AND USED FOR RESIDENTIAL PURPOSES, AN OWNER-OCCUPANT OF THE PROPERTY (DEFINED IN CHAPTER 667 OF THE HAWAII REVISED STATUTES AS A PERSON WHO, AT THE TIME THIS NOTICE IS SERVED, OWNS AN INTEREST IN THE RESIDENTIAL PROPERTY THAT IS SUBJECT TO THE MORTGAGE BEING FORECLOSED AND THE RESIDENTIAL PROPERTY HAS BEEN THE PRIMARY RESIDENCE CONTINUOUSLY FOR NOT LESS THAN TWO HUNDRED DAYS) HAS THE RIGHT TO CONVERT A NONJUDICIAL FORECLOSURE PROCEEDING TO A JUDICIAL FORECLOSURE WHERE CLAIMS AND DEFENSES MAY BE CONSIDERED BY A COURT OF LAW.  TO EXERCISE THIS RIGHT, THE OWNER-OCCUPANT SHALL COMPLETE AND FILE THE ATTACHED FORM WITH THE CIRCUIT COURT IN THE CIRCUIT WHERE THE PROPERTY IS LOCATED WITHIN THIRTY DAYS AFTER SERVICE OF THIS NOTICE.
+IN ADDITION, ALL OWNER-OCCUPANTS AND MORTGAGORS OF THE RESIDENTIAL PROPERTY WHOSE INTERESTS HAVE BEEN PLEDGED OR OTHERWISE ENCUMBERED BY THE MORTGAGE THAT IS BEING FORECLOSED AND ALL PERSONS WHO HAVE SIGNED THE PROMISSORY NOTE OR OTHER INSTRUMENT EVIDENCING THE DEBT SECURED BY THE MORTGAGE THAT IS BEING FORECLOSED, INCLUDING, WITHOUT LIMITATION, CO-OBLIGORS AND GUARANTORS, SHALL FILE A STATEMENT IN THE CIRCUIT COURT ACTION THAT THEY AGREE TO SUBMIT TO THE JUDICIAL PROCESS AND THE JURISDICTION OF THE CIRCUIT COURT WITHIN FORTY-FIVE DAYS OF THE FILING OF THE ATTACHED FORM.  FAILURE TO SATISFY THIS CONDITION MAY RESULT IN DISMISSAL OF THE CIRCUIT COURT ACTION WITH PREJUDICE.
+AN OWNER-OCCUPANT SHALL PROMPTLY NOTIFY THE HAWAII ATTORNEY LISTED IN THIS NOTICE ABOUT THE FILING OF THE CONVERSION FORM.
+MORTGAGE FORECLOSURE DISPUTE RESOLUTION MAY BE AVAILABLE IN NONJUDICIAL FORECLOSURE ACTIONS AS AN ALTERNATIVE FOR OWNER-OCCUPANTS ATTEMPTING TO AVOID FORECLOSURE OR TO MITIGATE THE EFFECTS OF FORECLOSURE ON AN OWNER-OCCUPANT.  HOWEVER, IF AN OWNER-OCCUPANT FILES FOR CONVERSION, DISPUTE RESOLUTION MAY NOT BE AVAILABLE UNLESS ORDERED BY A JUDGE.
+A FORECLOSING LENDER WHO COMPLETES A NONJUDICIAL FORECLOSURE OF RESIDENTIAL PROPERTY SHALL BE PROHIBITED UNDER HAWAII LAW FROM PURSUING A DEFICIENCY JUDGMENT AGAINST A MORTGAGOR UNLESS THE DEBT IS SECURED BY OTHER COLLATERAL, OR AS OTHERWISE PROVIDED BY LAW.  IF THIS ACTION IS CONVERTED TO A JUDICIAL PROCEEDING, HOWEVER, THEN ALL REMEDIES AVAILABLE TO A LENDER MAY BE ASSERTED, INCLUDING THE RIGHT TO SEEK A DEFICIENCY JUDGMENT.
+     (b)  The statement required by this section shall not be required to be included in the [notice of sale published pursuant to 667-5(a)(1) or the] public notice of public sale published pursuant to section 667-27."
+     SECTION 9.  Section 667-57, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§667-57[]]  Suspension of foreclosure action by junior lienholders.  (a)  Upon initiation of a foreclosure action pursuant to [part I or] part II by a foreclosing mortgagee as defined in section 667-21(b), no junior lienholder shall be permitted to initiate or continue a nonjudicial foreclosure [pursuant to part I] until the foreclosure initiated by the foreclosing mortgagee has been concluded by [a judgment issued by a court pursuant to section 667-1,] the recording of an affidavit after public sale pursuant to section [667-5 or] 667-33[,] or the filing of a settlement document under the mortgage foreclosure dispute resolution provisions of section 667-81.
+     (b)  Upon initiation of a foreclosure action pursuant to [part I or] part II by a foreclosing mortgagee as defined in section 667-21(b), no junior lienholder shall be permitted to initiate a nonjudicial foreclosure pursuant to part II during the pendency of a stay pursuant to section 667-83; provided that a junior lienholder may initiate or continue with a nonjudicial foreclosure pursuant to part II if the junior lien foreclosure was initiated before the foreclosure action by the foreclosing mortgagee."
+     SECTION 10.  Section 667-71, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  This part shall apply to nonjudicial foreclosures conducted by power of sale under [parts I and] part II, of residential real property that is occupied by one or more mortgagors who are owner-occupants."
+     SECTION 11.  Section 667-74, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§667-74[]]  Availability of dispute resolution required before foreclosure.  Before a public sale may be conducted pursuant to section [667-5 or] 667-25 for a residential property that is occupied by an owner-occupant as a primary residence, the foreclosing mortgagee shall, at the election of the owner-occupant, participate in the mortgage foreclosure dispute resolution program under this part to attempt to negotiate an agreement that avoids foreclosure or mitigates damages in cases where foreclosure is unavoidable."
+     SECTION 12.  Section 667-75, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  A foreclosure notice served pursuant to section [667-5 or] 667-22(e) shall include notice that the mortgagee is required, at the election of an owner-occupant, to participate in the mortgage foreclosure dispute resolution program pursuant to this part to attempt to avoid foreclosure or to mitigate damages where foreclosure is unavoidable."
+     SECTION 13.  Section 667-76, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  Within three days after a mortgagee serves a foreclosure notice on an owner-occupant pursuant to section [667‑5 or] 667-22, the mortgagee shall file the foreclosure notice with the department and pay a filing fee of $250, which shall be deposited into the mortgage foreclosure dispute resolution special fund established under section 667-86."
+     SECTION 14.  Section 667-77, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§667-77[]]  Notification to mortgagor by department.  Within ten days after the mortgagee's filing of a notice of default and intention to foreclose with the department, the department shall mail a written notification by registered or certified mail to the mortgagor that a notice of default and intention to foreclose has been filed with the department.  The notification shall inform the mortgagor of an owner-occupant's right to elect to participate in the foreclosure dispute resolution program and shall include:
+     (1)  Information about the mortgage foreclosure dispute resolution program;
+     (2)  A form for an owner-occupant to elect or to waive participation in the mortgage foreclosure dispute resolution program pursuant to this part that shall contain instructions for the completion and return of the form to the department and the department's mailing address;
+     (3)  A statement that the mortgagor electing to participate in the mortgage foreclosure dispute resolution program shall provide a certification under penalty of perjury to the department that the mortgagor is an owner-occupant of the subject property, including a description of acceptable supporting documentation as required by section 667-78(a)(2);
+     (4)  A statement that the owner-occupant shall elect to participate in the mortgage foreclosure dispute resolution program pursuant to this part no later than thirty days after the department's mailing of the notice or the owner-occupant shall be deemed to have waived the option to participate in the mortgage foreclosure dispute resolution program;
+     (5)  A description of the information required under section 667-80(c)(2) that the owner-occupant shall provide to the mortgagee and the neutral assigned to the dispute resolution;
+     (6)  A statement that the owner-occupant shall consult with an approved housing counselor or approved budget and credit counselor at least thirty days prior to the first day of a scheduled dispute resolution session;
+     (7)  Contact information for all local approved housing counselors;
+     (8)  Contact information for all local approved budget and credit counselors; and
+     (9)  Contact information for the department.
+The notification shall be mailed to the subject property address and any other addresses for the mortgagor as provided in the mortgagee's notice of dispute resolution under [[]section[]] 667-75 and the foreclosure notice under section [667-5 or] 667-22(a)."
+     SECTION 15.  Section 667-78, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  If the owner-occupant does not elect to participate in dispute resolution pursuant to this part, the department shall notify the mortgagee within ten days of receiving an election form indicating nonelection or the termination of the thirty-day time period for election.  After receiving the department's notification, the mortgagee may proceed with the nonjudicial foreclosure process according to the process provided in [part I or] part II of this chapter[, as applicable]."
+     SECTION 16.  Chapter 667, part I, Hawaii Revised Statutes, is repealed.
+     SECTION 17.  Act 48, Session Laws of Hawaii 2011, is amended by amending section 45 to read as follows:
+     "SECTION 45. This Act shall take effect upon its approval; provided that:
+     (1)  The mortgage foreclosure dispute resolution program established by section 1 of this Act shall be operative no later than October 1, 2011;
+     (2)  Sections 1, 13, and 14 shall be repealed on September 30, 2014, and sections 514A-90(h) and 514B‑146(h), Hawaii Revised Statutes, shall be reenacted in the form in which they read on the day before the effective date of this Act;
+     (3)  Section 10 shall take effect on July 1, 2012;
+    [(4)  Section 5 shall be repealed on December 31, 2012;
+     (5)] (4)  Section 7 shall be repealed on September 30, 2014, and section 26-9(o), Hawaii Revised Statutes, shall be reenacted in the form in which it read on the day before the effective date of this Act; and
+    [(6)] (5)  Upon the repeal of section 1, all moneys remaining in the mortgage foreclosure dispute resolution special fund established under section 667-P, Hawaii Revised Statutes, shall be transferred to the compliance resolution fund established under section 26-9(o), Hawaii Revised Statutes."
+     SECTION 18.  Act 48, Session Laws of Hawaii 2011, is amended by repealing section 40.
+     ["SECTION 40.  There shall be a moratorium on all new nonjudicial foreclosure actions under part I of chapter 667, Hawaii Revised Statutes, for property located in this State to begin on the effective date of this Act and to end on July 1, 2012.  No foreclosure by power of sale pursuant to section 667‑5, Hawaii Revised Statutes, shall be initiated and the registrar of the bureau of conveyances shall not record an affidavit or notice of sale pursuant to section 667-5, Hawaii Revised Statutes, for a power of sale foreclosure under section 667-5, Hawaii Revised Statutes, initiated during the moratorium period established by this Act."]
+     SECTION 19.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 20.  This Act shall take effect on July 1, 2012; provided that sections 6 to 8 shall be repealed on December 12, 2012.
+ 
+
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Mortgage Foreclosure
+ 
+Description:
+Repeals part I of chapter 667, HRS, relating to foreclosure by action or foreclosure by power of sale.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

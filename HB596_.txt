@@ -1,0 +1,62 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+596
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO HEALTH.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that it is in the State's best interest to ensure that patients who are waitlisted for long-term care or other types of care receive appropriate medical care by authorizing the department of human services to apply medicaid presumptive eligibility to qualified waitlisted patients.  Action based on presumptive eligibility means that the department of human services shall make a preliminary or "presumptive" determination to authorize medical assistance in the interval between application for assistance and the final medicaid eligibility determination based on the likelihood that the applicant will be eligible.
+     On average, there are at any given time one hundred fifty patients in acute care hospital settings across the State who are waitlisted for long-term care.  Waitlisted patients are those who are deemed medically ready for discharge and are no longer in need of acute care services, but who cannot be discharged due to various barriers, such as delays in medicaid eligibility determinations, and therefore must remain in the higher-cost hospital setting.  Discharge timeframes for waitlisted patients range from a few days to over one year.  This situation creates a poor quality of life for the patient, presents an often insurmountable dilemma for providers and patients, and causes a serious drain on the financial resources of acute care hospitals, with ripple effects felt throughout other health care service sectors.
+     Regulatory and government mandates create barriers to transferring waitlisted patients.  One such barrier is the delay in completing medicaid eligibility determinations for waitlisted patients.  Senate Concurrent Resolution No. 198, adopted by the legislature in 2007, requested the Healthcare Association of Hawaii to conduct a study of patients in acute care hospitals who are waitlisted for long-term care, and to propose solutions to the problem.  The following is an excerpt from the resulting 2008 report to the legislature addressing the critical problem of waitlisted patients and the regulatory barrier of medicaid eligibility determinations:
+     "Hawaii State Medicaid eligibility/re-eligibility determinations:
+    (a)   Presumptive eligibility/re-eligibility:  The task force is very concerned about the amount of time it takes to complete the Medicaid eligibility and re-eligibility process.  Staff within hospitals, nursing facilities, etc. report spending a significant amount of time assisting families with Medicaid applications, following up with families to ensure their compliance in submitting the required documentation to support the application, hand carrying applications to the Medicaid eligibility office, following up with eligibility workers on the status of applications, etc.  They report that hand-carried applications are often misplaced, the time clock for eligibility does not start until the completed application is located within the DHS, family members may be non-compliant in completing the necessary paperwork since the patient is being cared for safely and the facility has no option for discharging the patient, and the providers believe that they have taken on a beneficiary services role of assisting consumers that should be assumed by DHS.  The Medicaid eligibility and re-eligibility application process in Hawaii is obsolete and unable to handle the current volume.  It relies on a paper-driven system that receives a high volume of applications per day.  Delays in processing applications in a timely manner translates to delays in access to care for Medicaid beneficiaries.  Acute care hospitals report that in many cases they have not been able to transfer patients to long term care because the delay in making a determination of Medicaid eligibility resulted in too long a delay in placement in a nursing facility or home and community based setting.  By the time the Medicaid eligibility was approved, the bed in the long-term care facility/setting was taken.  The direct labor hours involved in following up on the process negatively impact providers across the continuum.  Many have hired outside contractors to assist in the application process...
+    (b)   Shifting responsibility for consumer assistance in completing the Medicaid application from the provider of service to the state department of human services:  Providers have taken on the role of consumer services representatives when patients/families need to submit applications for Medicaid eligibility or to reapply for eligibility.  Often, providers end up spending hours to days "tracking down" required documentation to include with the Medicaid application and it has become labor intensive.  Many have hired external organizations to assist in this process.  Delays by patients/families in completing Medicaid applications result in bad debt and charity care incurred by providers and they have no recourse but to hold the family members accountable and/or discharge the patient due to non-payment.
+    (c)   Non-compliance by family members/guardians in completing Medicaid eligibility/re-eligibility applications:  In other states (ex:  Nevada), legislation has been passed to impose financial penalties on family members/guardians who did not actively participate in completing/submitting documentation for Medicaid eligibility/re-eligibility determinations when fraudulent activity was suspected."
+     The purpose of this Act is to require the department of human services to provide medicaid presumptive eligibility to patients who have been waitlisted for long-term care.
+     This Act also begins the process of developing a long-term solution to severe problems associated with processing medicaid applications that include extended application processing times and misplaced applications.  The existing application process is obsolete because it is paper-based.  A computer-based system would be much more efficient.  This Act requires the department of human services to conduct a study of a computerized medicaid applications system.
+     SECTION 2.  Chapter 346, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§346‑    Presumptive eligibility under medicaid for waitlisted patients.  (a)  The department shall presume that a waitlisted patient applying for medicaid is eligible for coverage; provided that the applicant is able to show:
+     (1)  Proof of an annual income at or below the maximum level allowed under federal law or under a waiver approved for Hawaii under Title 42 United States Code Section 1396n, as applicable;
+     (2)  Verification of assets;
+     (3)  Confirmation of waitlisted status as certified by a health care provider licensed in Hawaii; and
+     (4)  Proof of meeting the level of care requirement for institutional or home- and community-based long-term care as determined by a physician licensed in Hawaii.
+The department shall notify the applicant and the facility of the presumptive eligibility on the date of receipt of the application.  The applicant shall submit the remaining documents necessary to qualify for medicaid coverage within ten business days after the applicant's receipt of notification of presumptive eligibility from the department.  The department shall notify the applicant of eligibility within five business days of receipt of the completed application for medicaid coverage.
+     Waitlisted patients who are presumptively covered by medicaid shall be eligible for services and shall be processed for coverage under the State's qualifying medicaid program.
+     (b)  If the waitlisted patient is later determined to be ineligible for medicaid after receiving services during the period of presumptive eligibility, the department shall disenroll the patient and notify the provider and the plan, if applicable, of disenrollment by facsimile transmission or electronic mail.  The department shall provide reimbursement to the provider or the plan for the time during which the waitlisted patient was enrolled."
+     SECTION 3.  The department of human services shall submit a report to the legislature no later than twenty days prior to the convening of the regular sessions of 2012 through 2016, inclusive, of findings and recommendations, including proposed legislation, regarding the costs and other issues related to medicaid presumptive eligibility.
+     SECTION 4.  The department of human services shall conduct a study for a potential computerized system for processing medicaid applications.  The study shall consider different alternatives, assess each alternative, and recommend the best alternative.  The study shall consider the requirements of Hawaii's medicaid program, the ability of each alternative to meet these requirements, and costs.  The department of human services shall submit a report of its findings and recommendations, including proposed legislation, to the legislature no later than twenty days prior to the convening of the regular session of 2012.
+     SECTION 5.  There is appropriated out of the general revenues of the State of Hawaii the sum of $200,000 or so much thereof as may be necessary for fiscal year 2011-2012 to cover the cost of any reimbursements made to providers or plans for services provided during the time that waitlisted patients are enrolled but eventually determined to be ineligible.
+     The sum appropriated shall be expended by the department of human services for the purposes of this Act.
+     SECTION 6.  New statutory material is underscored.
+     SECTION 7.  This Act shall take effect on July 1, 2011; provided that section 2 of this Act shall be repealed on July 1, 2016.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Health; Medicaid Eligibility; Appropriation
+ 
+Description:
+Creates presumptive medicaid eligibility for waitlisted patients.  Repeals 7/1/2016.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

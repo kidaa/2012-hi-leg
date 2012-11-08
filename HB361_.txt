@@ -1,0 +1,71 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+361
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO ANIMALS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The Hawaii Revised Statutes is amended by adding a new chapter to be appropriately designated and to read as follows:
+"CHAPTER
+REGISTRATION OF ANIMAL ABUSERS
+     §   -1  Definitions.  As used in this chapter:
+     "Conviction" means a judgment on the verdict, or a finding of guilt after a plea of guilty or nolo contendere, excluding the adjudication of a minor.
+     "Covered offender" means a person who is or has been convicted at any time of a covered offense.
+     "Covered offense" means an offense that is set forth in section 711-1108.5 or 711-1109.3.
+     "Registration information" means the information specified in section    -2(c) and (d).
+     §   -2  Registration requirements.  (a)  A covered offender that remains in the State for more than ten consecutive days before the end of the eleventh day in the State, shall register with the chief of police of the county in which the covered offender resides or is present.
+     (b)  A previously-registered covered offender shall reregister with the chief of police where the covered offender is located no later than ten days after moving to a new location within the State.
+     (c)  Registration for each covered offender shall include a signed statement by the covered offender containing:
+     (1)  The name, all prior names, nicknames and pseudonyms, and all aliases used by the covered offender or under which the covered offender has been known;
+     (2)  The date of birth of the covered offender;
+     (3)  The social security number of the covered offender;
+     (4)  The actual address and telephone number of the covered offender's residence or any current, temporary address where the covered offender resides, or if an address is not available, a description of the place or area in which the covered offender resides for at least thirty nonconsecutive days within a sixty-day period, and for each address or place where the covered offender resides, how long the covered offender has resided there;
+     (5)  The actual address or description of the place or area, the actual length of time of the stay, and telephone number where the covered offender is staying for a period of more than ten days, if other than the stated residence;
+     (6)  Names and, if known, actual business addresses of current and known future employers, including information for any place where the covered offender works as a volunteer or otherwise works without remuneration, and the starting and ending dates of any such employment; and
+     (7)  All covered offenses for which the covered offender has been convicted, along with the date and place of the conviction.
+     (d)  The following information shall also be included in the registry for each covered offender:
+     (1)  A current photograph of the covered offender;
+     (2)  Digitized fingerprints and palm prints of the covered offender; and
+     (3)  A physical description of the covered offender, including a description of particular identifying characteristics such as scars or tattoos.
+In addition to any other requirement to register under this section, each covered offender shall annually renew the covered offender's registration with the chief of police prior to December 31 of each subsequent calendar year for a period of fifteen years from the date of conviction.
+     §   -3  Failure to comply with covered offender registration requirements.  A covered offender commits a class C felony by intentionally or knowingly:
+     (1)  Failing to comply with the registration requirements under this chapter; or
+     (2)  Providing false information when complying with the registration requirements under this chapter.
+     §   -4  Chief of police; duties.  (a)  Each chief of police shall maintain a local registry of covered offenders in the chief's jurisdiction required to register under this chapter.
+     (b)  Each chief of police shall forward all registration information obtained under this chapter to the attorney general.
+     (c)  Within ten days of receiving initial registration information from a covered offender, the chief of police shall contact every residence, school, humane society, animal shelter, and any other business within a half mile radius of the covered offender's residence or location and provide them with the covered offender's registration information, with the exception of the covered offender's social security number.
+     §   -5  Attorney general; duties; public access.  (a)  The attorney general shall maintain a central registry of all covered offenders required to register under this chapter; provided that records of each covered offender's registration shall be maintained for the duration of the fifteen year period in which the covered offender is required to be registered.
+     (b)  All information contained in the central registry, with the exception of the covered offender's social security number, shall be made available to the public through internet access, telephone access, written access, and on-site access; provided that on-site public access shall be provided for each covered offender at the Hawaii criminal justice data center and at one or more designated police stations in each county, to be designated by the attorney general, between the hours of 8:00 a.m. and 4:30 p.m. on weekdays, excluding holidays."
+     SECTION 2.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 3.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Animal Abuse; Registry
+ 
+Description:
+Creates registry of felony animal abusers and authorizes public access to the registry.  Establishes criminal penalties for violation of registration requirements.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

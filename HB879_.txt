@@ -1,0 +1,112 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+879
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MORTGAGE FORECLOSURES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that Act 162, Session Laws of Hawaii 2010, created a mortgage foreclosure task force to undertake a study to develop both general and specific policies and procedures necessary to improve the manner in which mortgage foreclosures are conducted in the State.  The legislature further finds that the Act directed the task force to submit two reports, a preliminary report for the regular session of 2011 and a final report for the regular session of 2012.
+     The legislature finds that in the preliminary report for the regular session of 2011, the task force recommended proposed legislation that amends the old nonjudicial foreclosure process, which is established as the foreclosure by power of sale process under part I of chapter 667, Hawaii Revised Statutes.  The legislature further finds that implementing the task force recommendations will help modernize the present law, by providing it with increased clarity, certainty, efficiency, and fairness to both borrowers and lenders.
+     The purpose of this Act is to implement the recommendations for proposed legislation that were adopted by the mortgage foreclosure task force and submitted in the preliminary report to the legislature for the regular session of 2011.
+     More specifically, the purpose of this Act is to accomplish the following:
+     (1)  Require that for a foreclosure under power of sale, the notice of intent to foreclose be served, not less than twenty-one days before the date of sale, on all persons entitled to notice in the same manner as the service of a civil complaint under chapter 634, Hawaii Revised Statutes, and the Hawaii rules of civil procedure;
+     (2)  Prohibit a mortgagee who completes a foreclosure under power of sale upon a mortgage on residential property from subsequently pursuing or obtaining a deficiency judgment against certain owner-occupants of that residential property;
+     (3)  Authorize an owner-occupant of residential property that is being subjected to a foreclosure under power of sale to convert the action into a foreclosure by action;
+     (4)  Authorize the mortgagee conducting a foreclosure under power of sale to record with the land court or the bureau of conveyances a copy of the notice of intent to foreclose, and to furthermore give the recorded copy of the notice the same effect as a notice of pendency of action in a civil action, such as the foreclosure by action;
+     (5)  Authorize the land court to record the notice of intent to foreclose; and
+     (6)  Adopt a portion of the 2005 ruling of the United States Bankruptcy Court for the District of Hawaii in In re Hoopai, 2005 WL 1156091 (Bankr. D. Hawaii January 12, 2005) (No. 04-02511), order affirmed by In re Hoopai, 2005 WL 2864748 (D. Hawaii October 14, 2005) (No. CV.05-00186 DAE-KSC, CV.05-00187 HG-BMK), by specifying that for a foreclosure under power of sale, the mortgagor's interest is extinguished upon the recordation of the affidavit in the bureau of conveyances or in the land court, as the case may be, within thirty days of the date of sale.
+     SECTION 2.  Chapter 667, Hawaii Revised Statutes, is amended by adding five new sections to part I to be appropriately designated and to read as follows:
+     "§667-A  Definitions.  As used in this part, unless the context requires otherwise:
+     "Association" has the same meaning as the term is defined in section 514B-3.
+     "Nonjudicial foreclosure" means foreclosure under power of sale.
+     "Owner-occupant" means a person who, at the time that a notice is served of the intent to foreclose under the power of sale:
+     (1)  Owns an interest in the residential property, and the interest is encumbered by the mortgage being foreclosed; and
+     (2)  The residential property is and has been the person's primary residence for a continuous period of not less than one-hundred eighty days immediately preceding the date on which the notice is served.
+     "Residential property" means real property that is improved and used for residential purposes.
+     §667-B  Conversion; residential property; conditions.  (a)  An owner-occupant of a residential property that is being foreclosed nonjudicially under this part may convert the action to a judicial foreclosure under the following conditions:
+     (1)  A complaint conforming to section 667-C shall be filed with the circuit court in the circuit where the residential property is located, stating that the owner-occupant of the property elects to convert the nonjudicial foreclosure to a judicial foreclosure proceeding;
+     (2)  The complaint described in paragraph (1) shall be filed with the circuit court no later than twenty days after the notice of the nonjudicial foreclosure action is served on the owner-occupant as required by section 667-5(a)(1)(A);
+     (3)  Within ninety days of the filing of the complaint, all owners of an interest in the residential property whose interests are pledged or otherwise encumbered by the mortgage that is being foreclosed and all persons who have signed the promissory note or other instrument evidencing the debt secured by the mortgage that is being foreclosed, including without limitation co-obligors and guarantors, shall file a statement in the circuit court action that they agree to submit themselves to the judicial process and the jurisdiction of the circuit court.  If this condition is not satisfied, the circuit court action shall be dismissed with prejudice as to the right of any owner-occupant to convert the action to a judicial proceeding, and the mortgagee may proceed nonjudicially;
+     (4)  The filing of the complaint shall automatically stay the nonjudicial foreclosure action unless and until the judicial proceeding has been dismissed;
+     (5)  The person filing the complaint shall have an affirmative duty to promptly notify the Hawaii attorney who is handling the nonjudicial foreclosure about the filing of the conversion;
+     (6)  All parties joined in the converted judicial proceeding may assert therein any claims and defenses that they could have asserted had the action originally been commenced as a judicial foreclosure action; and
+     (7)  Notwithstanding chapter 607, the fee for filing the complaint shall be not more than $      .
+     (b)  This section shall not apply to nonjudicial foreclosures of association liens that arise under a declaration filed pursuant to chapters 514A or 514B.
+     §667-C  Complaint; residential property; required contents.  The complaint authorized under section 667-B shall contain at a minimum the following:
+     (1)  A caption setting forth the name of the court, the title of the action, and the file number.  The title of the action shall include the names of the filing party as plaintiff and the foreclosing party as the defendant;
+     (2)  The name, mailing address, and telephone number of the filing party;
+     (3)  The address or tax map key number of the property subject to the foreclosure action;
+     (4)  A statement identifying all other owners of an interest in the residential property whose interests are pledged or otherwise encumbered by the mortgage that is being foreclosed and all persons who have signed the promissory note or other instrument evidencing the debt secured by the mortgage that is being foreclosed, including without limitation co-obligors and guarantors;
+     (5)  A certification under penalty of perjury that the filing party is an owner-occupant of the subject property and seeks to convert the nonjudicial foreclosure to a judicial proceeding;
+     (6)  A statement certifying that the filing party served a copy of the complaint on the attorney identified in the notice of intent to foreclose either by personal delivery at, or by postage prepaid United States mail to, the address of the attorney as set forth in the notice of intent to foreclose; and
+     (7)  A copy of the notice of intent to foreclose that was served on the filing party and for which the filing party is seeking to convert to a judicial proceeding.
+     §667-D  Notice of intent to foreclose; residential property; required statement on conversion.  (a)  The notice of intent to foreclose nonjudicially that is served and posted as required under sections 667-5(a)(1)(A) and 667-5(b)(2) shall include, in addition to the contents required under section 667-7, a statement printed in not less than 14-point font as follows:
+"IF THE PROPERTY BEING FORECLOSED IS IMPROVED AND USED FOR RESIDENTIAL PURPOSES, AN OWNER-OCCUPANT OF THE PROPERTY (DEFINED UNDER PART I OF CHAPTER 667 OF THE HAWAII REVISED STATUTES, AS A PERSON WHO, AT THE TIME THIS NOTICE IS SERVED, OWNS AN INTEREST IN THE RESIDENTIAL PROPERTY THAT IS SUBJECT TO THE MORTGAGE BEING FORECLOSED AND THE RESIDENTIAL PROPERTY HAS BEEN THE PRIMARY RESIDENCE CONTINUOUSLY FOR NOT LESS THAN ONE-HUNDRED EIGHTY DAYS) HAS THE RIGHT TO CONVERT A NONJUDICIAL FORECLOSURE PROCEEDING TO A JUDICIAL FORECLOSURE WHERE CLAIMS AND DEFENSES MAY BE CONSIDERED BY A COURT OF LAW.  TO EXERCISE THIS RIGHT, THE OWNER-OCCUPANT SHALL COMPLETE AND FILE THE ATTACHED FORM WITH THE CIRCUIT COURT IN THE CIRCUIT WHERE THE PROPERTY IS LOCATED WITHIN TWENTY DAYS AFTER SERVICE OF THIS NOTICE.
+IN ADDITION, ALL OWNERS OF AN INTEREST IN THE RESIDENTIAL PROPERTY WHOSE INTERESTS HAVE BEEN PLEDGED OR OTHERWISE ENCUMBERED BY THE MORTGAGE THAT IS BEING FORECLOSED AND ALL PERSONS WHO HAVE SIGNED THE PROMISSORY NOTE OR OTHER INSTRUMENT EVIDENCING THE DEBT SECURED BY THE MORTGAGE THAT IS BEING FORECLOSED, INCLUDING, WITHOUT LIMITATION, CO-OBLIGORS AND GUARANTORS, SHALL FILE A STATEMENT IN THE CIRCUIT COURT ACTION THAT THEY AGREE TO SUBMIT THEMSELVES TO THE JUDICIAL PROCESS AND THE JURISDICTION OF THE CIRCUIT COURT WITHIN NINETY DAYS OF THE FILING OF THE ATTACHED FORM.  FAILURE TO SATISFY THIS CONDITION WILL RESULT IN DISMISSAL OF THE CIRCUIT COURT ACTION.
+AN OWNER-OCCUPANT SHALL PROMPTLY NOTIFY THE HAWAII ATTORNEY LISTED IN THIS NOTICE ABOUT THE FILING OF THE CONVERSION FORM.
+A FORECLOSING LENDER WHO COMPLETES A NONJUDICIAL FORECLOSURE OF RESIDENTIAL PROPERTY SHALL BE PROHIBITED UNDER HAWAII LAW FROM PURSUING A DEFICIENCY JUDGMENT AGAINST AN OWNER-OCCUPANT WHO DOES NOT OWN A FEE SIMPLE OR LEASEHOLD INTEREST IN ANY OTHER RESIDENTIAL REAL PROPERTY.  IF THIS ACTION IS CONVERTED TO A JUDICIAL PROCEEDING, HOWEVER, THEN ALL REMEDIES AVAILABLE TO A LENDER MAY BE ASSERTED, INCLUDING THE RIGHT TO SEEK A DEFICIENCY JUDGMENT."
+     (b)  The statement required by this section shall not be required to be included in the notice of sale published pursuant to section 667-5(a)(1)(B).  Nothing in this section shall be construed to set a minimum font size for the published notice of sale.
+     §667-E  Recordation of notice of intent to foreclose.  The foreclosing mortgagee may record a copy of the notice of intent to foreclose with the assistant registrar of the land court or the bureau of conveyances, as the case may be, in a manner similar to recordation of notices of pendency of action under section 501-151 or section 634-51, or both, as applicable.  The recorded notice shall have the same effect as a notice of pendency of action.  From and after the recordation of the notice, any person who becomes a purchaser or encumbrancer of the mortgaged property shall be deemed to have constructive notice of the power of sale foreclosure and shall be bound by the foreclosure."
+     SECTION 3.  Section 501-151, Hawaii Revised Statutes, is amended to read as follows:
+     "§501-151  Pending actions, judgments; recording of, notice.  No writ of entry, action for partition, or any action affecting the title to real property or the use and occupation thereof or the buildings thereon, and no judgment, nor any appeal or other proceeding to vacate or reverse any judgment, shall have any effect upon registered land as against persons other than the parties thereto, unless a full memorandum thereof, containing also a reference to the number of certificate of title of the land affected is filed or recorded and registered.  Except as otherwise provided, every judgment shall contain or have endorsed on it the State of Hawaii general excise taxpayer identification number, the federal employer identification number, or the last four digits only of the social security number for persons, corporations, partnerships, or other entities against whom the judgment is rendered.  If the judgment debtor has no social security number, State of Hawaii general excise taxpayer identification number, or federal employer identification number, or if that information is not in the possession of the party seeking registration of the judgment, the judgment shall be accompanied by a certificate that provides that the information does not exist or is not in the possession of the party seeking registration of the judgment.  Failure to disclose or disclosure of an incorrect social security number, State of Hawaii general excise taxpayer identification number, or federal employer identification number shall not in any way adversely affect or impair the lien created upon recording of the judgment.  This section does not apply to attachments, levies of execution, or to proceedings for the probate of wills, or for administration in a probate court; provided that in case notice of the pendency of the action has been duly registered it is sufficient to register the judgment in the action within sixty days after the rendition thereof.
+     As used in this chapter "judgment" includes an order or decree having the effect of a judgment.
+     Notice of the pendency of an action in a United States District Court, as well as a court of the State of Hawaii, may be recorded.
+     A notice of intent to foreclose as provided in section 667-E may be recorded.
+     The party seeking registration of a judgment shall redact the first five digits of any social security number by blocking the numbers out on the copy of the judgment to be filed or recorded."
+     SECTION 4.  Section 667-3, Hawaii Revised Statutes, is amended to read as follows:
+     "§667-3  Proceeds, how applied.  Mortgage and other creditors shall be entitled to payment according to the priority of their liens, and not pro rata; and judgments of foreclosure and foreclosures under power of sale that are conducted in compliance with this part and for which an affidavit is recorded as required under section 667-5 shall operate to extinguish the liens of subsequent mortgages and liens of the same property, without forcing prior mortgagees or lienors to their right of recovery.  The surplus after payment of the mortgage foreclosed, shall be applied pro tanto to the next junior mortgage[,] or lien, and so on to the payment, wholly or in part, of mortgages and liens junior to the one assessed."
+     SECTION 5.  Section 667-5, Hawaii Revised Statutes, is amended to read as follows:
+     "§667-5  Foreclosure under power of sale; notice; affidavit after sale[.]; deficiency judgments.  (a)  When a power of sale is contained in a mortgage, and where the mortgagee, the mortgagee's successor in interest, or any person authorized by the power to act in the premises, desires to foreclose under power of sale upon breach of a condition of the mortgage, the mortgagee, successor, or person shall be represented by an attorney who is licensed to practice law in the State and is physically located in the State.  The attorney shall:
+     (1)  Give notice of the mortgagee's, successor's, or person's intention to foreclose the mortgage and of the sale of the mortgaged property[, by] as follows:
+         (A)  By serving, not less than twenty-one days before the date of sale, written notice of the intent to foreclose on all persons entitled to notice under this part in the same manner as service of a civil complaint under chapter 634 and the Hawaii rules of civil procedure, as they may be amended from time to time; and
+         (B)  By publication of the notice once in each of three successive weeks (three publications), the last publication to be not less than fourteen days before the day of sale, in a newspaper having a general circulation in the county in which the mortgaged property lies; and
+     (2)  Give any notices and do all acts as are authorized or required by the power contained in the mortgage.
+     (b)  Copies of the notice required under subsection (a) shall be:
+     (1)  Filed with the state director of taxation; and
+     (2)  Posted on the premises not less than twenty-one days before the day of sale.
+     (c)  Upon the request of any person entitled to notice pursuant to this section and sections 667-5.5 and 667-6, the attorney, the mortgagee, successor, or person represented by the attorney shall disclose to the requestor the following information:
+     (1)  The amount to cure the default, together with the estimated amount of the foreclosing mortgagee's attorneys' fees and costs, and all other fees and costs estimated to be incurred by the foreclosing mortgagee related to the default prior to the auction within five business days of the request; and
+     (2)  The sale price of the mortgaged property once auctioned.
+     (d)  Any sale, of which notice has been given as aforesaid, may be postponed from time to time by public announcement made by the mortgagee or by some person acting on the mortgagee's behalf.  Upon request made by any person who is entitled to notice pursuant to section 667-5.5 or 667-6, or this section, the mortgagee or person acting on the mortgagee's behalf shall provide the date and time of a postponed auction, or if the auction is canceled, information that the auction was canceled.  The mortgagee within thirty days after selling the property in pursuance of the power, shall file a copy of the notice of sale and the mortgagee's affidavit, setting forth the mortgagee's acts in the premises fully and particularly, in the bureau of conveyances.
+     (e)  The mortgagee or other person who completes, pursuant to this part, the nonjudicial foreclosure of a mortgage or other lien on residential property shall not be entitled to pursue or obtain a deficiency judgment against an owner-occupant of the residential property who, at the time the notice of intent to foreclose is served, does not have a fee simple or leasehold ownership interest in any other residential real property; provided, however, that nothing herein shall prohibit any other mortgagee or person who holds a lien on the residential property subject to the nonjudicial foreclosure, whose lien is subordinate to the mortgage being foreclosed and is extinguished by the nonjudicial foreclosure sale, from pursuing a monetary judgment against that owner-occupant.
+    [(e)] (f)  The affidavit and copy of the notice shall be recorded and indexed by the registrar, in the manner provided in chapter 501 or 502, as the case may be.
+    [(f)] (g)  This section is inapplicable if the mortgagee is foreclosing as to personal property only."
+     SECTION 6.  Section 667-8, Hawaii Revised Statutes, is amended to read as follows:
+     "§667-8  Affidavit as evidence, when.  If it appears by the affidavit that the affiant has in all respects complied with the requirements of the power of sale and the statute, in relation to all things to be done by the affiant before selling the property, and has sold the same in the manner required by the power, the affidavit, or a duly certified copy of the record thereof, shall be admitted as evidence that the power of sale was duly executed.  The interests of the mortgagor, and all those claiming under, by, or through the mortgagor, in the property being foreclosed by exercise of a power of sale under this part, including land whose title is not registered in the land court under chapter 501, shall be deemed extinguished upon the recordation of the affidavit in the bureau of conveyances or in the office of the assistant registrar, as the case may be, within thirty days of the date of sale of the property at public auction."
+     SECTION 7.  This Act shall apply only to foreclosure proceedings initiated after the effective date of this Act.
+     SECTION 8.  Upon the effective date of this Act, the judiciary is requested to consider creating and adopting a form for the conversion complaint established under section 2 of this Act.
+     SECTION 9.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 10.  In codifying the new sections added by section 2 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 11.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 12.  This Act shall take effect on                .
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Mortgage Foreclosures; Task Force
+ 
+Description:
+Implements recommendations of the mortgage foreclosure task force relating to service of notice, conversion from nonjudicial to judicial foreclosure, bar against deficiency judgments, notice of pendency of action, and extinguishment of a mortgagor's interest.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

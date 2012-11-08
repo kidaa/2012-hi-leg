@@ -1,0 +1,435 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+163
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PERSONAL RELATIONSHIPS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+PART I
+     SECTION 1.  Section 87A-1, Hawaii Revised Statutes, is amended by amending the definitions of "dependent-beneficiary", "employee-beneficiary", and "qualified beneficiary" to read as follows:
+     ""Dependent-beneficiary" means an employee-beneficiary's:
+     (1)  Spouse;
+     (2)  Reciprocal beneficiary;
+    [(2)] (3)  Unmarried child deemed eligible by the board, including a legally adopted child, stepchild, foster child, or recognized natural child who lives with the employee-beneficiary; and
+    [(3)  Unmarried child] (4)  Child, who is not married or not in a reciprocal beneficiary relationship regardless of age who is incapable of self-support because of a mental or physical incapacity[, which] that existed prior to the [unmarried] child's reaching the age of nineteen years.
+     "Employee-beneficiary" means:
+     (1)  An employee;
+     (2)  The beneficiary of an employee who is killed in the performance of the employee's duty;
+     (3)  An employee who retired prior to 1961;
+     (4)  The beneficiary of a retired member of the employees' retirement system; a county pension system; or a police, firefighters, or bandsmen pension system of the State or a county, upon the death of the retired member;
+     (5)  The surviving child of a deceased retired employee, if the child is unmarried or not in a reciprocal beneficiary relationship and under the age of nineteen; [or]
+     (6)  The surviving spouse of a deceased retired employee, if the surviving spouse does not subsequently remarry[;], or enter into a reciprocal beneficiary relationship; or
+     (7)  The surviving reciprocal beneficiary of a deceased retired employee, if the surviving party does not subsequently marry or enter into a reciprocal beneficiary relationship;
+provided that the employee, the employee's beneficiary, or the beneficiary of the deceased retired employee is deemed eligible by the board to participate in a health benefits plan or long-term care benefits plan under this chapter.
+     "Qualified-beneficiary" means, for purposes of the long-term care benefits plan, a former employee or an employee who is not eligible for benefits due to a reduction in work hours, including the spouse, divorced spouse, reciprocal beneficiary, former reciprocal beneficiary, parents, grandparents, in-law parents, [and] parents of a reciprocal beneficiary, in-law grandparents, and grandparents of a reciprocal beneficiary of an employee or retiree; provided that the beneficiary was enrolled in the plan before the employee or former employee became ineligible for benefits."
+     SECTION 2.  Section 87A-18, Hawaii Revised Statutes, is amended by amending subsections (a) and (b) to read as follows:
+     "(a)  The board may establish a long-term care benefits plan or plans for employee-beneficiaries; the spouses, reciprocal beneficiaries,  parents, parents of a reciprocal beneficiary, grandparents, in-law parents, [and] in-law parents of a reciprocal beneficiary, in-law grandparents, and in-law grandparents of a reciprocal beneficiary of employee-beneficiaries; and qualified-beneficiaries.  The plan or plans shall be at no cost to employers and shall comply with article 10H of chapter 431.
+     (b)  Notwithstanding any other law to the contrary, long-term care benefits shall be available only to:
+     (1)  Employee-beneficiaries and their spouses, reciprocal beneficiaries, parents, and grandparents;
+     (2)  Employee-beneficiary in-law parents and grandparents[;], and the parents and grandparents of parties in a reciprocal beneficiary relationship; and
+     (3)  Qualified-beneficiaries who enroll between the ages of twenty and eighty-five,
+who comply with the plan's age, enrollment, medical underwriting, and contribution requirements."
+     SECTION 3.  Section 87A-23, Hawaii Revised Statutes, is amended to read as follows:
+     "§87A-23  Health benefits plan supplemental to medicare.  The board shall establish a health benefits plan, which takes into account benefits available to an employee-beneficiary and spouse or reciprocal beneficiary under medicare, subject to the following conditions:
+     (1)  There shall be no duplication of benefits payable under medicare.  The plan under this section, which shall be secondary to medicare, when combined with medicare and any other plan to which the health benefits plan is subordinate under the National Association of Insurance Commissioners' coordination of benefit rules, shall provide benefits that approximate those provided to a similarly situated beneficiary not eligible for medicare;
+     (2)  The State, through the department of budget and finance, and the counties, through their respective departments of finance, shall pay to the fund a contribution equal to an amount not less than the medicare part B premium, for each of the following who are enrolled in the medicare part B medical insurance plan:  (A) an employee-beneficiary who is a retired employee, (B) an employee-beneficiary's spouse or reciprocal beneficiary while the employee-beneficiary is living, and (C) an employee-beneficiary's spouse[,] or reciprocal beneficiary, after the death of the employee-beneficiary, if the spouse or reciprocal beneficiary qualifies as an employee-beneficiary.  For purposes of this section, a "retired employee" means retired members of the employees' retirement system; county pension system; or a police, firefighters, or bandsmen pension system of the State or a county as set forth in chapter 88.  If the amount reimbursed by the fund under this section is less than the actual cost of the medicare part B medical insurance plan due to an increase in the medicare part B medical insurance plan rate, the fund shall reimburse each employee-beneficiary and employee-beneficiary's spouse or reciprocal beneficiary for the cost increase within thirty days of the rate change.  Each employee-beneficiary and employee-beneficiary's spouse or reciprocal beneficiary who becomes entitled to reimbursement from the fund for medicare part B premiums after July 1, 2006, shall designate a financial institution account into which the fund shall be authorized to deposit reimbursements.  This method of payment may be waived by the fund if another method is determined to be more appropriate;
+     (3)  The benefits available under this plan, when combined with benefits available under medicare or any other coverage or plan to which this plan is subordinate under the National Association of Insurance Commissioners' coordination of benefit rules, shall approximate the benefits that would be provided to a similarly situated employee-beneficiary not eligible for medicare;
+     (4)  All employee-beneficiaries or dependent-beneficiaries who are eligible to enroll in the medicare part B medical insurance plan shall enroll in that plan as a condition of receiving contributions and participating in benefits plans under this chapter.  This paragraph shall apply to retired employees, their spouses[,] or reciprocal beneficiaries, and the surviving spouses or reciprocal beneficiaries of deceased retirees and employees killed in the performance of duty; and
+     (5)  The board shall determine which of the employee-beneficiaries and dependent-beneficiaries, who are not enrolled in the medicare part B medical insurance plan, may participate in the plans offered by the fund."
+     SECTION 4.  Section 87A-32, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  The State, through the department of budget and finance, and the counties, through their respective departments of finance, shall pay to the fund a monthly contribution equal to the amount established under chapter 89C or specified in the applicable public sector collective bargaining agreements, whichever is appropriate, for each of their respective employee-beneficiaries and employee-beneficiaries with dependent-beneficiaries, which shall be used toward the payment of costs of a health benefits plan; provided that:
+     (1)  The monthly contribution shall be a specified dollar amount;
+     (2)  The monthly contribution shall not exceed the actual cost of a health benefits plan;
+     (3)  If both husband and wife or reciprocal beneficiaries are employee-beneficiaries, the total contribution by the State or the county shall not exceed the monthly contribution for a family plan; and
+     (4)  If the State or any of the counties establish cafeteria plans in accordance with Title 26, United States Code section 125, the Internal Revenue Code of 1986, as amended, and part II of chapter 78, the monthly contribution for those employee-beneficiaries who participate in a cafeteria plan shall be made through the cafeteria plan, and the payments made by the State or counties shall include their respective contributions to the fund and their employee-beneficiary's share of the cost of the employee-beneficiary's health benefits plan."
+     SECTION 5.  Section 87A-33, Hawaii Revised Statutes, is amended by amending subsections (b) and (c) to read as follows:
+     "(b)  Effective July 1, 2003, there is established a base monthly contribution for health benefit plans that the State, through the department of budget and finance, and the counties, through their respective departments of finance, shall pay to the fund, up to the following:
+     (1)  $218 for each employee-beneficiary enrolled in supplemental medicare self plans;
+     (2)  $671 for each employee-beneficiary enrolled in supplemental medicare family plans;
+     (3)  $342 for each employee-beneficiary enrolled in non-medicare self plans; and
+     (4)  $928 for each employee-beneficiary enrolled in non-medicare family plans.
+     The monthly contribution by the State or county shall not exceed the actual cost of the health benefits plan or plans.  If both husband and wife or reciprocal beneficiaries are employee-beneficiaries, the total contribution by the State or county shall not exceed the monthly contribution for a supplemental medicare family or non-medicare family plan, as appropriate.
+     (c)  Effective July 1, 2004, there is established a base monthly contribution for health benefit plans that the State, through the department of budget and finance, and the counties, through their respective departments of finance, shall pay to the fund, up to the following:
+     (1)  $254 for each employee-beneficiary enrolled in supplemental medicare self plans;
+     (2)  $787 for each employee-beneficiary enrolled in supplemental medicare family plans;
+     (3)  $412 for each employee-beneficiary enrolled in non-medicare self plans; and
+     (4)  $1,089 for each employee-beneficiary enrolled in non-medicare family plans.
+     The monthly contribution by the State or county shall not exceed the actual cost of the health benefit plan or plans and shall not be required to cover increased benefits above those initially contracted for by the fund for plan year 2004-2005.  If both husband and wife or reciprocal beneficiaries are employee-beneficiaries, the total contribution by the State or county shall not exceed the monthly contribution for a supplemental medicare family or non-medicare family plan, as appropriate."
+     SECTION 6.  Section 87A-34, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  The State, through the department of budget and finance, and the counties, through their respective departments of finance, shall pay to the fund a monthly contribution equal to one-half of the base monthly contribution set forth under section 87A-33(b) for retired employees enrolled in medicare or non-medicare health benefits plans. If both husband and wife or reciprocal beneficiaries are employee-beneficiaries, the total contribution by the State or county shall not exceed the monthly contribution for supplemental medicare family or non-medicare family plan, as appropriate."
+     SECTION 7.  Section 87A-35, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  The State, through the department of budget and finance, and the counties, through their respective departments of finance, shall pay to the fund:
+     (1)  For retired employees enrolled in medicare or non-medicare health benefit plans with ten or more years but fewer than fifteen years of service, a monthly contribution equal to one-half of the base monthly contribution set forth under section 87A-33(b); and
+     (2)  For retired employees enrolled in medicare or non-medicare health benefit plans with at least fifteen but fewer than twenty-five years of service, a monthly contribution of seventy-five per cent of the base monthly contribution set forth under section 87A-33(b).
+If both husband and wife or reciprocal beneficiaries are employee-beneficiaries, the total contribution by the State or county shall not exceed the monthly contribution for a supplemental medicare family or non-medicare family plan, as appropriate."
+     SECTION 8.  Section 87A-36, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  The State, through the department of budget and finance, and the counties, through their respective departments of finance, shall pay to the fund:
+     (1)  For retired employees based on the self plan with ten or more years but fewer than fifteen years of service, a monthly contribution equal to one-half of the base medicare or non-medicare monthly contribution set forth under section 87A-33(b);
+     (2)  For retired employees based on the self plan with at least fifteen but fewer than twenty-five years of service, a monthly contribution equal to seventy-five per cent of the base medicare or non-medicare monthly contribution set forth under section 87A-33(b);
+     (3)  For retired employees based on the self plan with twenty-five or more years of service, a monthly contribution equal to [one-hundred] one hundred per cent of the base medicare or non-medicare monthly contribution set forth under section 87A-33(b); and
+     (4)  One-half of the monthly contributions for the employee-beneficiary or employee-beneficiary with dependent-beneficiaries upon the death of the employee, as defined in paragraph (1)(E) of the definition of "employee" in section 87A-1.
+     If both husband and wife or reciprocal beneficiaries are employee-beneficiaries, the total contribution by the State or county shall not exceed the monthly contribution for two supplemental medicare self or non-medicare self plans, as appropriate."
+     SECTION 9.  Section 231-57, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§231-57[]]  Apportionment of joint refunds.  In the case of a setoff against a joint income tax refund, the State may make separate refunds of withheld taxes upon request by a husband or wife or a reciprocal beneficiary who has filed the joint return.  The refund payable to each spouse or reciprocal beneficiary shall be proportioned to the gross earnings of each shown by the information returns filed by the employer or otherwise shown to the satisfaction of the State."
+     SECTION 10.  Section 235-1, Hawaii Revised Statutes, is amended by adding two new definitions to be appropriately inserted and to read as follows:
+     ""Reciprocal beneficiary" or "reciprocal beneficiaries" has the same meaning as in section 572C-3.
+"Reciprocal beneficiary relationship" means a relationship that meets the requisites specified in section 572C-4."
+     SECTION 11.  Section 235-2.4, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  Section 63 (with respect to taxable income defined) of the Internal Revenue Code shall be operative for the purposes of this chapter, subject to the following:
+     (1)  Sections 63(c)(1)(B) (relating to the additional standard deduction), 63(c)(1)(C) (relating to the real property tax deduction), 63(c)(1)(D) (relating to the disaster loss deduction), 63(c)(1)(E) (relating to the motor vehicle sales tax deduction, 63(c)(4) (relating to inflation adjustments), 63(c)(7) (defining the real property tax deduction), 63(c)(8) (defining the disaster loss deduction), 63(c)(9) (defining the motor vehicle sales tax deduction), and 63(f) (relating to additional amounts for the aged or blind) of the Internal Revenue Code shall not be operative for purposes of this chapter;
+     (2)  Section 63(c)(2) (relating to the basic standard deduction) of the Internal Revenue Code shall be operative, except that the standard deduction amounts provided therein shall instead mean:
+         (A)  $4,000 in the case of:
+              (i)  A joint return as provided by section 235-93; or
+             (ii)  A surviving spouse (as defined in Section 2(a) of the Internal Revenue Code)[;] or surviving reciprocal beneficiary;
+         (B)  $2,920 in the case of a head of household (as defined in Section 2(b) of the Internal Revenue Code);
+         (C)  $2,000 in the case of an individual who is not married or in a reciprocal beneficiary relationship and who is not a surviving spouse, surviving reciprocal beneficiary, or head of household; or
+         (D)  $2,000 in the case of a married individual or reciprocal beneficiary filing a separate return;
+     (3)  Section 63(c)(5) (limiting the basic standard deduction in the case of certain dependents) of the Internal Revenue Code shall be operative, except that the limitation shall be the greater of $500 or such individual's earned income; and
+     (4)  The standard deduction amount for nonresidents shall be calculated pursuant to section 235-5."
+     SECTION 12.  Section 235-4, Hawaii Revised Statutes, is amended by amending subsections (b) and (c) to read as follows:
+     "(b)  Nonresidents.  In the case of a nonresident, the tax applies to the income received or derived from property owned, personal services performed, trade, or business carried on, and any and every other source in the State.
+     In the case of a nonresident spouse or reciprocal beneficiary filing a joint return with a resident spouse[,] or reciprocal beneficiary, the tax applies to the entire income of the nonresident spouse or reciprocal beneficiary, computed without regard to source in the State.
+     (c)  Change of status.  Except where a joint return is filed, when the status of a taxpayer changes during the taxable year from resident to nonresident, or from nonresident to resident, the tax imposed by this chapter applies to the entire income earned during the period of residence in the manner provided in subsection (a) [of this section] and during the period of nonresidence the tax shall apply upon the income received or derived as a nonresident in the manner provided in subsection (b) [of this section;]; provided that if it cannot be determined whether income was received or derived during the period of residence or during the period of nonresidence, there shall be attributed to the State such portion of the income as is determined by applying to such income for the whole taxable year the ratio which the period of residence in the State bears to the whole taxable year, unless the taxpayer shows to the satisfaction of the department of taxation that the result is to attribute to the state income, dependent upon residence, received or derived during the period of nonresidence, in which event the amount of income as to which such showing is made shall be excluded.
+     The apportionment of income provided by this subsection shall not apply where one spouse or reciprocal beneficiary is a resident of this State and a joint return is filed with the nonresident spouse or reciprocal beneficiary in which event the tax shall be computed on their aggregate income in the manner provided in section 235-52 without regard to source in the State.  Where, however, both spouses or parties in a reciprocal beneficiary relationship change their status from resident to nonresident or from nonresident to resident, their income shall be apportioned in the manner provided in this subsection."
+     SECTION 13.  Section 235-5.5, Hawaii Revised Statutes, is amended as follows:
+     1.   By amending subsections (a) and (b) to read:
+     "(a)  There shall be allowed as a deduction from gross income the amount, not to exceed $5,000, paid in cash during the taxable year by an individual taxpayer to an individual housing account established for the individual's benefit to provide funding for the purchase of the individual's first principal residence.  A deduction not to exceed $10,000 shall be allowed for a married couple or parties in a reciprocal beneficiary relationship filing a joint return.  No deduction shall be allowed on any amounts distributed less than three hundred sixty-five days from the date on which a contribution is made to the account.  Any deduction claimed for a previous taxable year for amounts distributed less than three hundred sixty-five days from the date on which a contribution was made shall be disallowed and the amount deducted shall be included in the previous taxable year's gross income and the tax reassessed.  The interest paid or accrued within the taxable year on the account shall not be included in the individual's gross income.  For purposes of this section, the term "first principal residence" means a residential property purchased with the payment or distribution from the individual housing account which shall be owned and occupied as the only home by an individual who did not have any interest in, individually, or whose spouse or reciprocal beneficiary did not have any interest in, if the individual is married[,] or in a reciprocal beneficiary relationship, a residential property within the last five years of opening the individual housing account.
+     In the case of a married couple [filing] or parties in a reciprocal beneficiary relationship who file separate returns, the sum of the deductions allowable to each of them for the taxable year shall not exceed $5,000, or $10,000 for a joint return, for amounts paid in cash, excluding interest paid or accrued thereon.
+     The amounts paid in cash allowable as a deduction under this section to an individual for all taxable years shall not exceed $25,000, excluding interest paid or accrued.  In the case of married individuals or reciprocal beneficiaries having separate individual housing accounts, the sum of the separate accounts and the deduction under this section shall not exceed $25,000, excluding interest paid or accrued thereon.
+     (b)  For purposes of this section, the term "individual housing account" means a trust created or organized in Hawaii for the exclusive benefit of an individual, or, in the case of a married individual[,] or party to a reciprocal beneficiary relationship, for the exclusive benefit of the individual and spouse or reciprocal beneficiary jointly, but only if the written governing instrument creating the trust meets the following requirements:
+     (1)  Contributions shall not be accepted for the taxable year in excess of $5,000 (or $10,000 in the case of a joint return) or in excess of $25,000 for all taxable years, exclusive of interest paid or accrued;
+     (2)  The trustee is a bank, a savings and loan association, a credit union, or a depository financial services loan company, chartered, licensed, or supervised under federal or state law, whose accounts are insured by the Federal Deposit Insurance Corporation, the National Credit Union Administration, or any agency of this State or any federal agency established for the purpose of insuring accounts in these financial institutions.  The financial institution must actively make residential real estate mortgage loans in Hawaii;
+     (3)  The assets of the trust shall be invested only in fully insured savings or time deposits.  Funds held in the trust may be commingled for purposes of investment, but individual records shall be maintained by the trustee for each individual housing account holder which show all transactions in detail;
+     (4)  The entire interest of an individual [or], married couple, or reciprocal beneficiaries for whose benefit the trust is maintained shall be distributed to the individual [or], couple, or reciprocal beneficiaries not later than one hundred twenty months after the date on which the first contribution is made to the trust;
+     (5)  Except as provided in subsection (g), the trustee shall not distribute the funds in the account unless it (A) verifies that the money is to be used for the purchase of a first principal residence located in Hawaii, and provides that the instrument of payment is payable to the mortgagor, construction contractor, or other vendor of the property purchased; or (B) withholds an amount equal to ten per cent of the amount withdrawn from the account and remits this amount to the director within ten days after the date of the withdrawal.  The amount so withheld shall be applied to the liability of the taxpayer under subsections (c) and (e); and
+     (6)  If any amounts are distributed before the expiration of three hundred sixty-five days from the date on which a contribution is made to the account, the trustee shall so notify in writing the taxpayer and the director.  If the trustee makes the verification required in paragraph (5)(A), then the department shall disallow the deduction under subsection (a) and subsections (c), (e), and (f) shall not apply to that amount.  If the trustee withholds an amount under paragraph (5)(B), then the department shall disallow the deduction under subsection (a) and subsection (e) shall apply, but subsection (c) shall not apply."
+      2.  By amending subsections (g) and (h) to read:
+      "(g)  No tax liability shall be imposed under this section if:
+     (1)  The payment or distribution is attributable to the individual dying or becoming totally disabled; or
+     (2)  Residential property subject to subsection (f) is transferred by will or by operation of law or sold due to the death or total disability of an individual or an individual's spouse[,] or reciprocal beneficiary,
+subject to the following:
+     An individual shall not be considered to be totally disabled unless proof is furnished of the total disability in the form and manner as the director may require.
+     Upon the death of an individual for whose benefit an individual housing account has been established, the funds in the account shall be payable to the estate of the individual; provided that if the account was held jointly by the decedent and a spouse or reciprocal beneficiary of the decedent, the account shall terminate and be paid to the surviving spouse[;] or reciprocal beneficiary; or, if the surviving spouse or reciprocal beneficiary so elects, the spouse or reciprocal beneficiary may continue the account as an individual housing account.  Upon the total disability of an individual for whose benefit an individual housing account has been established, the individual or the individual's authorized representative may elect to continue the account or terminate the account and be paid the assets; provided that if the account was held jointly by a totally disabled person and a spouse or reciprocal beneficiary of that person, then the spouse or reciprocal beneficiary, or an authorized representative of the spouse or reciprocal beneficiary may elect to continue the account or terminate the account and be paid the assets.
+     (h)  If the individual for whose benefit the individual housing account was established subsequently marries a person or enters into a reciprocal beneficiary relationship with a person who has or has had any interest in residential property, the individual's housing account shall be terminated, the funds therein shall be distributed to the individual, and the amount of the funds shall be includable in the individual's gross income for the taxable year in which such marriage took place; provided that the tax liability defined under subsection (f) shall not be imposed."
+     SECTION 14.  Section 235-7, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  There shall be excluded from gross income, adjusted gross income, and taxable income:
+     (1)  Income not subject to taxation by the State under the Constitution and laws of the United States;
+     (2)  Rights, benefits, and other income exempted from taxation by section 88-91, having to do with the state retirement system, and the rights, benefits, and other income, comparable to the rights, benefits, and other income exempted by section 88-91, under any other public retirement system;
+     (3)  Any compensation received in the form of a pension for past services;
+     (4)  Compensation paid to a patient affected with Hansen's disease employed by the State or the United States in any hospital, settlement, or place for the treatment of Hansen's disease;
+     (5)  Except as otherwise expressly provided, payments made by the United States or this State, under an act of Congress or a law of this State, which by express provision or administrative regulation or interpretation are exempt from both the normal and surtaxes of the United States, even though not so exempted by the Internal Revenue Code itself;
+     (6)  Any income expressly exempted or excluded from the measure of the tax imposed by this chapter by any other law of the State, it being the intent of this chapter not to repeal or supersede any express exemption or exclusion;
+     (7)  Income received by each member of the reserve components of the Army, Navy, Air Force, Marine Corps, or Coast Guard of the United States of America, and the Hawaii national guard as compensation for performance of duty, equivalent to pay received for forty-eight drills (equivalent of twelve weekends) and fifteen days of annual duty, at an:
+         (A)  E-1 pay grade after eight years of service; provided that this subparagraph shall apply to taxable years beginning after December 31, 2004;
+          (B)  E-2 pay grade after eight years of service; provided that this subparagraph shall apply to taxable years beginning after December 31, 2005;
+         (C)  E-3 pay grade after eight years of service; provided that this subparagraph shall apply to taxable years beginning after December 31, 2006;
+         (D)  E-4 pay grade after eight years of service; provided that this subparagraph shall apply to taxable years beginning after December 31, 2007; and
+         (E)  E-5 pay grade after eight years of service; provided that this subparagraph shall apply to taxable years beginning after December 31, 2008;
+     (8)  Income derived from the operation of ships or aircraft if the income is exempt under the Internal Revenue Code pursuant to the provisions of an income tax treaty or agreement entered into by and between the United States and a foreign country; provided that the tax laws of the local governments of that country reciprocally exempt from the application of all of their net income taxes, the income derived from the operation of ships or aircraft that are documented or registered under the laws of the United States;
+     (9)  The value of legal services provided by a prepaid legal service plan to a taxpayer, the taxpayer's spouse[,] or reciprocal beneficiary, and the taxpayer's dependents;
+    (10)  Amounts paid, directly or indirectly, by a prepaid legal service plan to a taxpayer as payment or reimbursement for the provision of legal services to the taxpayer, the taxpayer's spouse[,] or reciprocal beneficiary, and the taxpayer's dependents;
+    (11)  Contributions by an employer to a prepaid legal service plan for compensation (through insurance or otherwise) to the employer's employees for the costs of legal services incurred by the employer's employees, their spouses, their reciprocal beneficiaries, and their dependents;
+    (12)  Amounts received in the form of a monthly surcharge by a utility acting on behalf of an affected utility under section 269-16.3 shall not be gross income, adjusted gross income, or taxable income for the acting utility under this chapter.  Any amounts retained by the acting utility for collection or other costs shall not be included in this exemption; and
+    (13)  One hundred per cent of the gain realized by a fee simple owner from the sale of a leased fee interest in units within a condominium project, cooperative project, or planned unit development to the association of owners under chapter 514A or 514B, or the residential cooperative corporation of the leasehold units.
+          For purposes of this paragraph:
+              "Fee simple owner" shall have the same meaning as provided under section 516-1; provided that it shall include legal and equitable owners;
+              "Legal and equitable owner", and "leased fee interest" shall have the same meanings as provided under section 516-1; and
+              "Condominium project" and "cooperative project" shall have the same meanings as provided under section 514C-1."
+     SECTION 15.  Section 235-7.5, Hawaii Revised Statutes, is amended by amending subsection (e) to read as follows:
+     "(e)  For purposes of this section, the parent whose taxable income shall be taken into account shall be:
+     (1)  In the case of parents who are not married (within the meaning of section 235-93), the custodial parent (within the meaning of section 152(e) (with respect to the support test in case of child of divorced parents, etc.) of the Internal Revenue Code) of the child, and
+     (2)  In the case of married individuals or reciprocal beneficiaries filing separately, the individual with the greater taxable income."
+     SECTION 16.  Section 235-51, Hawaii Revised Statutes, is amended as follows:
+     1.   By amending subsection (a) to read:
+"(a)  There is hereby imposed on the taxable income of (1) every taxpayer who files a joint return under section 235-93; and (2) every surviving spouse or reciprocal beneficiary a tax determined in accordance with the following table:
+     In the case of any taxable year beginning after December 31, 2001:
+          If the taxable income is:    The tax shall be:
+          Not over $4,000              1.40% of taxable income
+          Over $4,000 but              $56.00 plus 3.20% of
+            not over $8,000              excess over $4,000
+          Over $8,000 but              $184.00 plus 5.50% of
+            not over $16,000             excess over $8,000
+          Over $16,000 but             $624.00 plus 6.40% of
+            not over $24,000             excess over $16,000
+          Over $24,000 but             $1,136.00 plus 6.80% of
+            not over $32,000             excess over $24,000
+          Over $32,000 but             $1,680.00 plus 7.20% of
+            not over $40,000             excess over $32,000
+          Over $40,000 but             $2,256.00 plus 7.60% of
+          not over $60,000               excess over $40,000
+          Over $60,000 but             $3,776.00 plus 7.90% of
+          not over $80,000               excess over $60,000
+          Over $80,000                 $5,356.00 plus 8.25% of
+                                         excess over $80,000.
+     In the case of any taxable year beginning after December 31, 2006:
+          If the taxable income is:    The tax shall be:
+          Not over $4,800              1.40% of taxable income
+          Over $4,800 but              $67.00 plus 3.20% of
+            not over $9,600              excess over $4,800
+          Over $9,600 but              $221.00 plus 5.50% of
+            not over $19,200             excess over $9,600
+          Over $19,200 but             $749.00 plus 6.40% of
+            not over $28,800             excess over $19,200
+          Over $28,800 but             $1,363.00 plus 6.80% of
+            not over $38,400             excess over $28,800
+          Over $38,400 but             $2,016.00 plus 7.20% of
+            not over $48,000             excess over $38,400
+          Over $48,000 but             $2,707.00 plus 7.60% of
+            not over $72,000             excess over $48,000
+          Over $72,000 but             $4,531.00 plus 7.90% of
+       not over $96,000            excess over $72,000
+          Over $96,000                 $6,427.00 plus 8.25% of
+                                        excess over $96,000.
+     In the case of any taxable year beginning after December 31, 2008:
+          If the taxable income is:    The tax shall be:
+          Not over $4,800              1.40% of taxable income
+          Over $4,800 but              $67.00 plus 3.20% of
+            not over $9,600              excess over $4,800
+          Over $9,600 but              $221.00 plus 5.50% of
+            not over $19,200             excess over $9,600
+          Over $19,200 but             $749.00 plus 6.40% of
+            not over $28,800             excess over $19,200
+          Over $28,800 but             $1,363.00 plus 6.80% of
+            not over $38,400             excess over $28,800
+          Over $38,400 but             $2,016.00 plus 7.20% of
+            not over $48,000             excess over $38,400
+          Over $48,000 but             $2,707.00 plus 7.60% of
+            not over $72,000             excess over $48,000
+          Over $72,000 but             $4,531.00 plus 7.90% of
+       not over $96,000             excess over $72,000
+          Over $96,000 but             $6,427.00 plus 8.25% of
+            not over $300,000            excess over $96,000
+     Over $300,000 but            $23,257.00 plus 9.00% of
+            not over $350,000            excess over $300,000
+          Over $350,000 but            $27,757.00 plus 10.00% of
+            not over $400,000            excess over $350,000
+          Over $400,000                $32,757.00 plus 11.00% of
+                                         excess over $400,000."
+     2.   By amending subsection (c) to read:
+     "(c)  There is hereby imposed on the taxable income of (1) every unmarried individual (other than a surviving spouse, surviving reciprocal beneficiary, or the head of a household) and (2) on the taxable income of every married individual or reciprocal beneficiary who does not make a single return jointly with the individual's spouse or reciprocal beneficiary under section 235-93 a tax determined in accordance with the following table:
+     In the case of any taxable year beginning after December 31, 2001:
+          If the taxable income is:    The tax shall be:
+          Not over $2,000              1.40% of taxable income
+          Over $2,000 but              $28.00 plus 3.20% of
+            not over $4,000              excess over $2,000
+          Over $4,000 but              $92.00 plus 5.50% of
+            not over $8,000              excess over $4,000
+          Over $8,000 but              $312.00 plus 6.40% of
+            not over $12,000             excess over $8,000
+          Over $12,000 but             $568.00 plus 6.80% of
+            not over $16,000             excess over $12,000
+          Over $16,000 but             $840.00 plus 7.20% of
+            not over $20,000             excess over $16,000
+          Over $20,000 but             $1,128.00 plus 7.60% of
+            not over $30,000             excess over $20,000
+          Over $30,000 but             $1,888.00 plus 7.90% of
+            not over $40,000            excess over $30,000
+          Over $40,000                 $2,678.00 plus 8.25% of
+                                         excess over $40,000.
+     In the case of any taxable year beginning after December 31, 2006:
+          If the taxable income is:    The tax shall be:
+          Not over $2,400              1.40% of taxable income
+          Over $2,400 but              $34.00 plus 3.20% of
+            not over $4,800              excess over $2,400
+          Over $4,800 but              $110.00 plus 5.50% of
+            not over $9,600              excess over $4,800
+          Over $9,600 but              $374.00 plus 6.40% of
+            not over $14,400             excess over $9,600
+          Over $14,400 but             $682.00 plus 6.80% of
+            not over $19,200             excess over $14,400
+          Over $19,200 but             $1,008.00 plus 7.20% of
+            not over $24,000             excess over $19,200
+          Over $24,000 but             $1,354.00 plus 7.60% of
+            not over $36,000             excess over $24,000
+          Over $36,000 but             $2,266.00 plus 7.90% of
+            not over $48,000             excess over $36,000
+          Over $48,000                 $3,214.00 plus 8.25% of
+                                         excess over $48,000.
+     In the case of any taxable year beginning after December 31, 2008:
+          If the taxable income is:    The tax shall be:
+          Not over $2,400              1.40% of taxable income
+          Over $2,400 but              $34.00 plus 3.20% of
+            not over $4,800              excess over $2,400
+          Over $4,800 but              $110.00 plus 5.50% of
+            not over $9,600              excess over $4,800
+          Over $9,600 but              $374.00 plus 6.40% of
+            not over $14,400             excess over $9,600
+          Over $14,400 but             $682.00 plus 6.80% of
+            not over $19,200             excess over $14,400
+          Over $19,200 but             $1,008.00 plus 7.20% of
+            not over $24,000             excess over $19,200
+          Over $24,000 but             $1,354.00 plus 7.60% of
+            not over $36,000             excess over $24,000
+          Over $36,000 but             $2,266.00 plus 7.90% of
+            not over $48,000             excess over $36,000
+          Over $48,000 but             $3,214.00 plus 8.25% of
+            not over $150,000            excess over $48,000
+          Over $150,000 but            $11,629.00 plus 9.00% of
+            not over $175,000            excess over $150,000
+          Over $175,000 but            $13,879.00 plus 10.00% of
+            not over $200,000            excess over $175,000
+          Over $200,000                $16,379.00 plus 11.00% of
+                                         excess over $200,000."
+     SECTION 17.  Section 235-52, Hawaii Revised Statutes, is amended to read as follows:
+     "§235-52  Tax in case of joint return or return of surviving spouse[.] or surviving reciprocal beneficiary.  In the case of a joint return of a husband and wife or parties to a reciprocal beneficiary relationship under section 235-93, the tax imposed, as near as may be, by this chapter shall be twice the tax which would be imposed if the taxable income were cut in half.  For purposes of this section and section 235-53, a return of a surviving spouse, as defined in the Internal Revenue Code, or surviving reciprocal beneficiary shall be treated as a joint return of a husband and wife under section 235-93."
+     SECTION 18.  Section 235-54, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  In computing the taxable income personal exemptions allowed by the Internal Revenue Code of 1986, as amended, and except as provided in subsection (c), personal exemptions computed as follows:  Ascertain the number of exemptions which the individual can lawfully claim under the Internal Revenue Code, add an additional exemption for the taxpayer or the taxpayer's spouse or reciprocal beneficiary who is sixty-five years of age or older within the taxable year, and multiply that number by $1,040, for taxable years beginning after December 31, 1984.  A nonresident shall prorate the personal exemptions on account of income from sources outside the State as provided in section 235-5.  In the case of an individual with respect to whom an exemption under this section is allowable to another taxpayer for a taxable year beginning in the calendar year in which the individual's taxable year begins, the personal exemption amount applicable to such individual under this subsection for such individual's taxable year shall be zero."
+     SECTION 19.  Section 235-55.6, Hawaii Revised Statutes, is amended as follows:
+     1.   By amending subsection (b) to read:
+     "(b)  Definitions of qualifying individual and employment- related expenses.  For purposes of this section:
+     (1)  Qualifying individual.  The term "qualifying individual" means:
+         (A)  A dependent of the taxpayer who is under the age of thirteen and with respect to whom the taxpayer is entitled to a deduction under section 235-54(a),
+         (B)  A dependent of the taxpayer who is physically or mentally incapable of caring for oneself, or
+         (C)  The spouse or reciprocal beneficiary of the taxpayer, if the spouse or reciprocal beneficiary is physically or mentally incapable of caring for oneself.
+     (2)  Employment-related expenses.
+         (A)  In general.  The term "employment-related expenses" means amounts paid for the following expenses, but only if such expenses are incurred to enable the taxpayer to be gainfully employed for any period for which there are one or more qualifying individuals with respect to the taxpayer:
+              (i)  Expenses for household services, and
+             (ii)  Expenses for the care of a qualifying individual.
+              Such term shall not include any amount paid for services outside the taxpayer's household at a camp where the qualifying individual stays overnight.
+         (B)  Exception.  Employment-related expenses described in subparagraph (A) which are incurred for services outside the taxpayer's household shall be taken into account only if incurred for the care of:
+              (i)  A qualifying individual described in paragraph (1)(A), or
+             (ii)  A qualifying individual (not described in paragraph (1)(A)) who regularly spends at least eight hours each day in the taxpayer's household.
+         (C)  Dependent care centers.  Employment-related expenses described in subparagraph (A) which are incurred for services provided outside the taxpayer's household by a dependent care center (as defined in subparagraph (D)) shall be taken into account only if:
+              (i)  Such center complies with all applicable laws, rules, and regulations of this State, if the center is located within the jurisdiction of this State; or
+             (ii)  Such center complies with all applicable laws, rules, and regulations of the jurisdiction in which the center is located, if the center is located outside the State; and
+            (iii)  The requirements of subparagraph (B) are met.
+         (D)  Dependent care center defined.  For purposes of this paragraph, the term "dependent care center" means any facility which:
+              (i)  Provides care for more than six individuals (other than individuals who reside at the facility), and
+             (ii)  Receives a fee, payment, or grant for providing services for any of the individuals (regardless of whether such facility is operated for profit)."
+     2.  By amending subsections (d) and (e) to read:
+     "(d)  Earned income limitation.
+     (1)  In general.  Except as otherwise provided in this subsection, the amount of the employment-related expenses incurred during any taxable year which may be taken into account under subsection (a) shall not exceed:
+         (A)  In the case of an individual who is not married or not in a reciprocal beneficiary relationship at the close of such year, such individual's earned income for such year, or
+         (B)  In the case of an individual who is married or in a reciprocal beneficiary relationship at the close of such year, the lesser of [such] the individual's earned income or the earned income of the individual's spouse or reciprocal beneficiary for such year.
+     (2)  Special rule for spouse or reciprocal beneficiary who is a student or incapable of caring for oneself.  In the case of a spouse or reciprocal beneficiary who is a student or a qualified individual described in subsection (b)(1)(C), for purposes of paragraph (1), [such] the spouse or reciprocal beneficiary shall be deemed for each month during which [such] the spouse or reciprocal beneficiary is a full-time student at an educational institution, or is [such] a qualifying individual, to be gainfully employed and to have earned income of not less than:
+         (A)  $200 if subsection (c)(1) applies for the taxable year, or
+         (B)  $400 if subsection (c)(2) applies for the taxable year.
+          In the case of any husband and wife, or parties in a reciprocal beneficiary relationship, this paragraph shall apply with respect to only one spouse or reciprocal beneficiary for any one month.
+     (e)  Special rules.  For purposes of this section:
+     (1)  Maintaining household.  An individual shall be treated as maintaining a household for any period only if over half the cost of maintaining the household for the period is furnished by the individual (or, if the individual is married or a party in a reciprocal beneficiary relationship during the period, is furnished by the individual and the individual's spouse[).] or reciprocal beneficiary).
+     (2)  Married couples [must] and parties in a reciprocal beneficiary relationship shall file joint return.  If the taxpayer is married or a party in a reciprocal beneficiary relationship at the close of the taxable year, the credit shall be allowed under subsection (a) only if the taxpayer and the taxpayer's spouse or reciprocal beneficiary file a joint return for the taxable year.
+     (3)  Marital status.  An individual legally separated from the individual's spouse under a decree of divorce or of separate maintenance shall not be considered as married.
+     (4)  Certain married individuals living apart.  If:
+         (A)  An individual who is married and who files a separate return:
+              (i)  Maintains as the individual's home a household that constitutes for more than one- half of the taxable year the principal place of abode of a qualifying individual, and
+             (ii)  Furnishes over half of the cost of maintaining the household during the taxable year, and
+         (B)  During the last six months of the taxable year the individual's spouse is not a member of the household,
+          the individual shall not be considered as married.
+     (5)  Special dependency test in case of divorced parents, etc.  If:
+         (A)  Paragraph (2) or (4) of section 152(e) of the Internal Revenue Code of 1986, as amended, applies to any child with respect to any calendar year, and
+         (B)  The child is under age thirteen or is physically or mentally incompetent of caring for the child's self,
+          in the case of any taxable year beginning in the calendar year, the child shall be treated as a qualifying individual described in subsection (b)(1)(A) or (B) (whichever is appropriate) with respect to the custodial parent (within the meaning of section 152(e)(1) of the Internal Revenue Code of 1986, as amended), and shall not be treated as a qualifying individual with respect to the noncustodial parent.
+     (6)  Payments to related individuals.  No credit shall be allowed under subsection (a) for any amount paid by the taxpayer to an individual:
+         (A)  With respect to whom, for the taxable year, a deduction under section 151(c) of the Internal Revenue Code of 1986, as amended (relating to deduction for personal exemptions for dependents) is allowable either to the taxpayer or the taxpayer's spouse[,] or reciprocal beneficiary; or
+         (B)  Who is a child of the taxpayer (within the meaning of section 151(c)(3) of the Internal Revenue Code of 1986, as amended) who has not attained the age of nineteen at the close of the taxable year.
+          For purposes of this paragraph, the term "taxable year" means the taxable year of the taxpayer in which the service is performed.
+     (7)  Student.  The term "student" means an individual who, during each of five calendar months during the taxable year, is a full-time student at an educational organization.
+     (8)  Educational organization.  The term "educational organization" means a school operated by the department of education under chapter 302A, an educational organization described in section 170(b)(1)(A)(ii) of the Internal Revenue Code of 1986, as amended, or a university, college, or community college.
+     (9)  Identifying information required with respect to service provider.  No credit shall be allowed under subsection (a) for any amount paid to any person unless:
+         (A)  The name, address, taxpayer identification number, and general excise tax license number of the person are included on the return claiming the credit,
+         (B)  If the person is located outside the State, the name, address, and taxpayer identification number, if any, of the person and a statement indicating that the service provider is located outside the State and that the general excise tax license and, if applicable, the taxpayer identification numbers are not required, or
+         (C)  If the person is an organization described in section 501(c)(3) of the Internal Revenue Code and exempt from tax under section 501(a) of the Internal Revenue Code, the name and address of the person are included on the return claiming the credit.
+          In the case of a failure to provide the information required under the preceding sentence, the preceding sentence shall not apply if it is shown that the taxpayer exercised due diligence in attempting to provide the information so required."
+     SECTION 20.  Section 235-55.7, Hawaii Revised Statutes, is amended by amending subsection (e) to read as follows:
+     "(e)  The tax credits shall be deductible from the taxpayer's individual net income tax for the tax year in which the credits are properly claimed; provided that a husband and wife or parties in a reciprocal beneficiary relationship filing separate returns for a taxable year for which a joint return could have been made by them shall claim only the tax credits to which they would have been entitled had a joint return been filed.  In the event the allowed tax credits exceed the amount of the income tax payments due from the taxpayer, the excess of credits over payments due shall be refunded to the taxpayer; provided that allowed tax credits properly claimed by an individual who has no income tax liability shall be paid to the individual; and provided further that no refunds or payments on account of the tax credits allowed by this section shall be made for amounts less than $1."
+     SECTION 21.  Section 235-55.85, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  Each resident individual taxpayer may claim a refundable food/excise tax credit multiplied by the number of qualified exemptions to which the taxpayer is entitled in accordance with the table below; provided that a husband and wife or parties in a reciprocal beneficiary relationship filing separate tax returns for a taxable year for which a joint return could have been filed by them shall claim only the tax credit to which they would have been entitled had a joint return been filed.
+     Adjusted gross income       Credit per exemption
+     Under $5,000                         $85
+     $5,000 under $10,000                  75
+     $10,000 under $15,000                 65
+     $15,000 under $20,000                 55
+     $20,000 under $30,000                 45
+     $30,000 under $40,000                 35
+     $40,000 under $50,000                 25
+     $50,000 and over                         0."
+     SECTION 22.  Section 235-61, Hawaii Revised Statutes, is amended to read as follows:
+     1.  By amending subsection (c) to read:
+     "(c)  For each withholding period (whether weekly, biweekly, monthly, or otherwise) the amount of tax to be withheld under this section shall be at a rate which, for the taxable year, will yield the tax imposed by section 235-51 upon each employee's annual wage, as estimated from the employee's current wage in any withholding period, but for the purposes of this subsection of the rates provided by section 235-51 the maximum to be taken into consideration shall be eight per cent.  The tax for the taxable year shall be calculated upon the following assumptions:
+     (1)  That the employee's annual wage, as estimated from the employee's current wage in the withholding period, will be the employee's sole income for the taxable year;
+     (2)  That there will be no deductions therefrom in determining adjusted gross income;
+     (3)  That in determining taxable income there shall be a standard deduction allowance which shall be an amount equal to one exemption (or more than one exemption if so prescribed by the director) unless (A) the taxpayer is married or a party to a reciprocal beneficiary relationship and the taxpayer's spouse or reciprocal beneficiary is an employee receiving wages subject to withholding, or (B) the taxpayer has withholding exemption certificates in effect with respect to more than one employer.  For the purposes of this section, any standard deduction allowance under this paragraph shall be treated as if it were denominated a withholding exemption;
+     (4)  That in determining taxable income there also will be deducted the amount of exemptions and withholding allowances granted to the employee in the computation of taxable income, as shown by a certificate to be filed with the employer as provided by subsection (f); and
+     (5)  If it appears from the certificate filed pursuant to subsection (f) that the employee, under section 235-93, is entitled to make a joint return, that the employee and the employee's spouse or reciprocal beneficiary will so elect."
+      2.  By amending subsections (f) and (g) to read:
+     "(f)  On or before the date of the commencement of employment with an employer, the employee shall furnish the employer with a signed certificate relating to the number of exemptions which the employee claims, which shall in no event exceed the number to which the employee is entitled on the basis of the existing facts, and also showing whether the employee is married or a party to a reciprocal beneficiary relationship and is, under section 235-93, entitled to make a joint return.  The certificate shall be in such form and contain such information as may be prescribed by the department.
+     If, on any day during the calendar year, there is a change in the employee's marital or reciprocal beneficiary status and the employee no longer is entitled to make a joint return, or the number of exemptions to which the employee is entitled is less than the number of exemptions claimed by the employee on the certificate then in effect with respect to the employee, the employee shall within ten days thereafter furnish the employer with a new certificate showing the employee's present marital or reciprocal beneficiary status, or relating to the number of exemptions which the employee then claims, which shall in no event exceed the number to which the employee is entitled on the basis of the existing facts.  If, on any day during the calendar year, there is a change in the employee's marital or reciprocal beneficiary status and though previously not entitled to make a joint return the employee now is so entitled, or the number of exemptions to which the employee is entitled is greater than the number of exemptions claimed, the employee may furnish the employer with a new certificate showing the employee's present marital status, or relating to the number of exemptions which the employee then claims, which shall in no event exceed the number to which the employee is entitled on the basis of the existing facts.
+     Such certificate shall take effect at the times set forth in the Internal Revenue Code.
+     (g)  In determining the deduction allowed by subsection (c)(4) an employee shall be entitled to withholding allowances or additional reductions in withholding under this subsection.  In determining the number of additional withholding allowances or the amount of additional reductions in withholding under this subsection, the employee may take into account (to the extent and in the manner provided by rules) estimated itemized deductions and tax credits allowable under this chapter; and such additional deductions and other items as may be specified by the director in rules.  For the purposes of this subsection a fractional number shall not be taken into account unless it amounts to one-half or more, in which case it shall be increased to the next whole number.
+     (1)  As used in this subsection, unless the context otherwise requires:
+         (A)  "Estimated itemized deductions" means the aggregate amount which the employee reasonably expects will be allowed as deductions under sections 235-2.3, 235-2.4, 235-2.45, and 235-7, other than the deductions referred to in Internal Revenue Code section 151 and those deductions required to be taken into account in determining adjusted gross income under Internal Revenue Code section 62(a) (with the exception of paragraph 10 thereof) for the estimation year.  In no case shall the aggregate amount be greater than the sum of:
+              (i)  The amount of the deductions reflected in the employee's net income tax return for the taxable year preceding the estimation year of (if a return has not been filed for the preceding taxable year at the time the withholding exemption certificate is furnished the employer) the second taxable year preceding the estimation year; or
+             (ii)  The amount of estimated itemized deductions and tax credits allowable under this chapter and any additional deductions to which entitled; and
+            (iii)  The amount of the employee's determinable additional deductions for the estimation year.
+         (B)  "Estimated wages" means the aggregate amount which the employee reasonably expects will constitute wages for the estimation year;
+         (C)  "Determinable additional deductions" means those estimated itemized deductions which:
+              (i)  Are in excess of the deductions referred to in subparagraph (A) reflected on the employee's net income tax return for the taxable year preceding the estimation year; and
+             (ii)  Are demonstrably attributable to an identifiable event during the estimation year or the preceding taxable year which can reasonably be expected to cause an increase in the amount of such deductions on the net income tax return for the estimation year.
+         (D)  "Estimation year", in the case of an employee who files the employee's return on the basis of a calendar year, means the calendar year in which the wages are paid; provided that in the case of an employee who files the employee's return on a basis other than the calendar year, the employee's estimation year, and the amounts deducted and withheld to be governed by the estimation year, shall be determined under rules prescribed by the director of taxation.
+     (2)  Under this subsection, the following special rules shall apply:
+         (A)  Married individuals[.] or parties in a reciprocal beneficiary relationship.  The number of withholding allowances to which a husband and wife or reciprocal beneficiaries are entitled under this subsection shall be determined on the basis of their combined wages and deductions.  This subparagraph shall not apply to a husband and wife or reciprocal beneficiaries who filed separate returns for the taxable year preceding the estimation year and who reasonably expect to file separate returns for the estimation year;
+         (B)  Limitation.  In the case of employees whose estimated wages are at levels at which the amounts deducted and withheld under this chapter generally are insufficient (taking into account a reasonable allowance for deductions and exceptions) to offset the liability for tax under this chapter with respect to the wages from which the amounts are deducted and withheld, the director may by rule reduce the withholding allowances to which those employees would, but for this subparagraph, be entitled under this subsection;
+         (C)  Treatment of allowances.  For purposes of this chapter, any withholding allowance under this subsection shall be treated as if it were denominated a withholding exemption.
+     (3)  The director may prescribe tables by rule under chapter 91 pursuant to which employees shall determine the number of withholding allowances to which they are entitled under this subsection."
+     SECTION 23.  Section 235-93, Hawaii Revised Statutes, is amended by amending subsection (a) and (b) to read as follows:
+     "(a)  A husband and wife, having that status for purposes of the Internal Revenue Code and entitled to make a joint federal return for the taxable year, and reciprocal beneficiaries who entered into the reciprocal beneficiary relationship during or prior to the taxable year may make a single return jointly of taxes under this chapter for the taxable year.  In that case the tax shall be computed on their aggregate income as provided in section 235-52, and the liability with respect to the tax shall be joint and several.  For purposes of this chapter "aggregate income" means the income of both spouses or reciprocal beneficiaries without regard to source in the State.
+     (b)  If an individual has filed a separate return for a taxable year for which a joint return could have been made by the taxpayer and the taxpayer's spouse[,] or reciprocal beneficiary, an election thereafter to make a joint return for the taxable year shall be made only upon compliance with rules of the department of taxation, which may limit the election and prescribe the terms and provisions applicable in such cases as nearly as may be in conformity with the Internal Revenue Code."
+     SECTION 24.  Section 235-102.5, Hawaii Revised Statutes, is amended to read as follows:
+     "§235-102.5  Income check-off authorized.  (a)  Any individual whose state income tax liability for any taxable year is $3 or more may designate $3 of the liability to be paid over to the Hawaii election campaign fund, any other law to the contrary notwithstanding, when submitting a state income tax return to the department.  In the case of a joint return of a husband and wife or reciprocal beneficiaries having a state income tax liability of $6 or more, each spouse or reciprocal beneficiary may designate that $3 be paid to the fund.  The director of taxation shall revise the individual state income tax form to allow the designation of contributions to the fund on the face of the tax return and immediately above the signature lines.  An explanation shall be included which clearly states that the check-off does not constitute an additional tax liability.  If no designation was made on the original tax return when filed, a designation may be made by the individual on an amended return filed within twenty months and ten days after the due date for the original return for such taxable year.  A designation once made whether by an original or amended return may not be revoked.
+     (b)  Notwithstanding any law to the contrary, any individual whose state income tax refund for any taxable year is $2 or more may designate $2 of the refund to be deposited into the school-level minor repairs and maintenance special fund established by section 302A-1504.5, when submitting a state income tax return to the department.  In the case of a joint return of a husband and wife or parties in a reciprocal beneficiary relationship having a state income tax refund of $4 or more, each spouse or reciprocal beneficiary may designate that $2 be deposited into the special fund.  The director of taxation shall revise the individual state income tax return form to allow the designation of contributions to the special fund on the face of the tax return and immediately above the signature lines.  If no designation was made on the original tax return when filed, a designation may be made by the individual on an amended return filed within twenty months and ten days after the due date for the original return for such taxable year.  A designation once made, whether by an original or amended return, may not be revoked.
+     (c)  Notwithstanding any law to the contrary, any individual whose state income tax refund for any taxable year is $2 or more may designate $2 of the refund to be paid over to the libraries special fund established by section 312-3.6, when submitting a state income tax return to the department.  In the case of a joint return of a husband and wife or parties in a reciprocal beneficiary relationship having a state income tax refund of $4 or more, each spouse or reciprocal beneficiary may designate that $2 be deposited into the special fund.  The director of taxation shall revise the individual state income tax form to allow the designation of contributions to the fund on the face of the tax return and immediately above the signature lines.  If no designation was made on the original tax return when filed, a designation may be made by the individual on an amended return filed within twenty months and ten days after the due date for the original return for such taxable year.  A designation once made, whether by an original or amended return, may not be revoked.
+     (d)  Notwithstanding any law to the contrary, any individual whose state income tax refund for any taxable year is $5 or more may designate $5 of the refund to be paid over as follows:
+     (1)  One-third to the Hawaii children's trust fund under section 350B-2; and
+     (2)  Two-thirds to be divided equally among:
+         (A)  The domestic violence and sexual assault special fund under the department of health in section 321-1.3;
+         (B)  The spouse and child abuse special account under the department of human services in section 346‑7.5; and
+         (C)  The spouse and child abuse special account under the judiciary in section 601-3.6.
+When designated by a taxpayer submitting a state income tax return to the department, the department of budget and finance shall allocate the moneys among the several funds as provided in this subsection.  In the case of a joint return of a husband and wife or parties in a reciprocal beneficiary relationship having a state income tax refund of $10 or more, each spouse or reciprocal beneficiary may designate that $5 be paid over as provided in this subsection.  The director of taxation shall revise the individual state income tax form to allow the designation of contributions pursuant to this subsection on the face of the tax return and immediately above the signature lines.  If no designation was made on the original tax return when filed, a designation may be made by the individual on an amended return filed within twenty months and ten days after the due date for the original return for such taxable year.  A designation once made, whether by an original or amended return, may not be revoked."
+     SECTION 25.  Section 235-110.6, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  The tax credit claimed under this section by the principal operator shall be deductible from the principal operator's individual or corporate income tax liability, if any, for the tax year in which the credit is properly claimed; provided that a husband and wife or parties in a reciprocal beneficiary relationship filing separate returns for a taxable year for which a joint return could have been made by them shall claim only the tax credit to which they would have been entitled had a joint return been filed.  If the tax credit claimed by the principal operator under this section exceeds the amount of the income tax payments due from the principal operator, the excess of credit over payments due shall be refunded to the principal operator from the state highway fund; provided that the tax credit properly claimed by a principal operator who has no income tax liability shall be paid to the principal operator from the state highway fund; and provided further no refunds or payments on account of the tax credit allowed by this section shall be made for amounts less than $1."
+     SECTION 26.  Part XIV, chapter 346, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§346-     Community care foster family homes; reciprocal beneficiaries.  Any law to the contrary notwithstanding, two, private-pay clients who are in a reciprocal beneficiary relationship with each other may be cared for in the same community care foster family home if:
+     (1)  The community care foster family home is certified for three beds;
+     (2)  Operators of three-bed community care foster family homes shall provide written notice to the department of any vacancy within five business days of the vacancy;
+     (3)  The community care foster family home has had a vacancy in the third bed for at least six consecutive months; provided that this requirement may be waived under conditions established by the department;
+     (4)  One of the individuals in the reciprocal beneficiary relationship has been in residence at the community care foster family home for less than five consecutive years; and
+     (5)  The reciprocal beneficiary resident provides medical documentation that a medical condition prevents the individual from being moved from the community care foster family home."
+PART II
+     SECTION 27.  Section 572-1.5, Hawaii Revised Statutes, is amended to read as follows:"
+     "[[]§572-1.5[]]  Definition of marriage.  Whenever used in the statutes or other laws of Hawaii, "marriage" means the union of one man and one woman as husband and wife who are licensed under section 572-1."
+     SECTION 28.  If any provision of this Act, or the application thereof to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of the Act, which can be given effect without the invalid provision or application, and to this end the provisions of this Act are severable.
+     SECTION 29.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 30.  This Act shall take effect upon its approval, provided that:
+     (1)  The amendments made to section 235-7, Hawaii Revised Statutes, by section 14 of this Act shall not be repealed when section 235-7, Hawaii Revised Statutes, is reenacted on January 1, 2013, pursuant to section 3 of Act 166, Session Laws of Hawaii 2007; and
+     (2)  Sections 9 through 25 of this Act shall apply to taxable years beginning after December 31, 2010.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+ 
+Report Title:
+Personal Relationships; Marriage; Reciprocal Beneficiaries; Rights and Benefits
+ 
+Description:
+Extends benefits under the Hawaii employer-union benefit trust fund to reciprocal beneficiaries and allows reciprocal beneficiaries to jointly file state income tax returns.  Allows reciprocal beneficiaries to live in the same community care foster family home.  Amends definition of marriage.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

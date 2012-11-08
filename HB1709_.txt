@@ -1,0 +1,62 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1709
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO OFFENSES AGAINST PUBLIC ORDER.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 711, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§711-A  Aggravated harassment by impersonation.  (1)  A person commits the offense of aggravated harassment by impersonation if that person:
+    (a)   Has been convicted of harassment by impersonation under section 711-1106.6 within five years of the instant offense; or
+    (b)   Poses as another person, without the express authorization of the other person, and makes or causes to be made, either directly or indirectly, a transmission of any personal information of the other person to another by any oral statement, any written statement, or any statement conveyed by any electronic communication means; and:
+         (A)  The offense was committed with the intent to harm;
+         (B)  The offense causes substantial harm;
+         (C)  The offense was committed with the intent to solicit a response by public safety agency personnel; or
+         (D)  The offense causes a response by public safety agency personnel.
+     (2)  For the purposes of this section:
+     "Electronic communication" has the same meaning as defined in section 711-1111(2) and includes:  online chat, instant messaging, and postings; web pages; and social networking web sites.
+     "Harm" has the same meaning as defined in section 710-1000;
+     "Personal information" has the same meaning as defined in section 711-1106.4;
+     "Pose" has the same meaning as defined in section 711-1106.4; and
+     "Public safety agency" has the same meaning as defined in section 710-1014.5.
+     (3)  Aggravated harassment by impersonation is a class C felony."
+     SECTION 2.  Section 711-1106.6, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§711-1106.6[]]  Harassment by impersonation.  (1)  A person commits the offense of harassment by impersonation if that person poses as another person, without the express authorization of [that] the other person, and makes or causes to be made, either directly or indirectly, a transmission of any personal information of the other person to another by any oral statement, any written statement, or any statement conveyed by any electronic communication means, with the intent to harass, annoy, or alarm any person.  For the purposes of this subsection, "electronic communication" has the same meaning as defined in section 711-1111(2) and includes:  online chat, instant messaging, and posting; web pages; and social networking web sites.
+     (2)  Harassment by impersonation is a misdemeanor.
+     (3)  For the purposes of this section:
+     "Personal information" means information associated with an actual person that is a name, an address, an internet domain address, a telephone number, or an electronic mail address.
+     "Pose" means to falsely represent oneself, directly or indirectly, as another person or persons."
+SECTION 3.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect upon approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Aggravated Harassment by Impersonation
+ 
+Description:
+Creates a new class C felony offense, aggravated harassment by impersonation.  Clarifies that "electronic communication," when used to commit the offense of harassment by impersonation, includes:  online chat, instant messaging, and postings; web pages; and social networking web sites.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

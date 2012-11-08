@@ -1,0 +1,49 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1850
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PERSONAL INFORMATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that third parties, including hotels, liquor establishments, and retail stores often scan driver's licenses and identification cards to determine identity and age.  Some of these third parties retain the scanned personal information for other purposes.  Law-enforcement officers scan driver's licenses to retrieve data and to issue electronic citations.  Third parties, with the exception of use by law-enforcement officers for solely official purposes, should not be allowed to retain personally identifiable information stored in the machine-readable zone of a scanned driver's license or identification card without the express consent of the holder of the driver's license or identification card.  The Department of Homeland Security concurs that states should adopt a law limiting retention of personally identifiable information scanned from driver's license and identification cards.
+     SECTION 2.  Chapter 846, Hawaii Revised Statutes, is amended by adding a new section to part II to be appropriately designated and to read as follows:
+     "§846-    Unlawful use of certificate of identification.  No person shall scan and retain personally identifiable information stored in the machine-readable zone of an individual's certificate of identification, without the express consent of the holder of the certificate of identification, unless the use is by law-enforcement officers for solely official purposes."
+     SECTION 3.  Section 286-131, Hawaii Revised Statutes, is amended to read as follows:
+     "§286-131  Unlawful use of driver's license.  No person shall:
+     (1)  Display or permit to be displayed or have in the person's possession any canceled, revoked, suspended, fictitious, or fraudulently altered driver's license;
+     (2)  Lend the person's driver's license to any other person or knowingly permit the use thereof by another;
+     (3)  Display or represent as one's own any driver's license not issued to the person;
+     (4)  Fail or refuse to surrender to the examiner of drivers, upon the examiner's lawful demand, any driver's license that has been suspended, revoked, or canceled;
+     (5)  Use a false or fictitious name in any application for a driver's license or knowingly make a false statement or knowingly conceal a material fact, or otherwise commit a fraud in any such application;
+     (6)  Use or have in the person's possession any reproduction, imitation, or facsimile of any driver's license or any identification with the appearance of a driver's license; or
+     (7)  Scan and retain personally identifiable information stored in the machine-readable zone of a driver's license, without the express consent of the holder of the driver's license, unless the use is by law-enforcement officers for solely official purposes."
+     SECTION 4.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+Report Title:
+Driver's License; State Identification Card; Data; Unlawful Use
+ 
+Description:
+Prohibits the scanning and retention of personally identifiable information stored in the machine-readable zone of the Hawaii driver's license and identification card without the express consent of the holder of the driver's license or identification card unless the use is by law-enforcement officers for solely official purposes.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

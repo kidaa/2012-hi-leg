@@ -1,0 +1,86 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1774
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CRIMINAL PROCEDURE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 805, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§805-     Dismissal.  (a)  By prosecutor.  The prosecutor, by leave of court, may dismiss a charge and the prosecution shall thereupon terminate.  Such a dismissal may not be filed during the trial without the consent of the defendant.
+     (b)  By court.  Except in the case of traffic offenses that are not punishable by imprisonment, the court, on motion of the defendant, shall dismiss the charge, with or without prejudice in its discretion, if trial is not commenced within six months:
+     (1)  From the date of arrest if bail is set or from the filing of the charge, whichever is sooner, on any offense based on the same conduct or arising from the same criminal episode for which the arrest or charge was made;
+     (2)  From the date of re-arrest or re-filing of the charge, in cases where an initial charge was dismissed upon motion of the defendant; or
+     (3)  From the date of mistrial, order granting a new trial or remand, in cases where such events require a new trial.
+Subsection (b)(1) and (b)(2) shall not be applicable to any offense for which the arrest was made or the charge was filed before the effective date of this Act.
+     (c)  Excluded periods.  The following periods shall be excluded in computing the time for trial commencement:
+     (1)  Periods that delay the commencement of trial and are caused by collateral or other proceedings concerning the defendant, including but not limited to penal irresponsibility examinations and periods during which the defendant is incompetent to stand trial, pretrial motions, interlocutory appeals, and trials of other charges;
+     (2)  Periods that delay the commencement of trial and are caused by congestion of the trial docket when the congestion is attributable to exceptional circumstances;
+     (3)  Periods that delay the commencement of trial and are caused by a continuance granted at the request or with the consent of the defendant or defendant's counsel;
+     (4)  Periods that delay the commencement of trial and are caused by a continuance granted at the request of the prosecutor if:
+         (A)  The continuance is granted because of the unavailability of evidence material to the prosecution's case, when the prosecutor has exercised due diligence to obtain such evidence and there are reasonable grounds to believe that such evidence will be available at a later date; or
+         (B)  The continuance is granted to allow the prosecutor additional time to prepare the prosecutor's case and additional time is justified because of the exceptional circumstances of the case;
+     (5)  Periods that delay the commencement of trial and are caused by the absence or unavailability of the defendant;
+     (6)  The period between a dismissal of the charge by the prosecutor to the time of arrest or filing of a new charge, whichever is sooner, for the same offense or an offense required to be joined with that offense;
+     (7)  A reasonable period of delay when the defendant is joined for trial with a codefendant as to whom the time for trial has not run and there is good cause for not granting a severance; and
+     (8)  Other periods of delay for good cause.
+     (d)  Per se excludable and includable periods of time for purposes of subsection (c)(1).
+     (1)  For purposes of subsection (c)(1), the period of time, from the filing through the prompt disposition of the following motions filed by a defendant, shall be deemed to be periods of delay resulting from collateral or other proceedings concerning the defendant: motions to dismiss, to suppress, for voluntariness hearing heard before trial, to sever counts or defendants, for disqualification of the prosecutor, for withdrawal of counsel including the time period for appointment of new counsel if so ordered, for mental examination, to continue trial, for transfer to the circuit court, for remand from the circuit court, for change of venue, to secure the attendance of a witness by a material witness order, and to secure the attendance of a witness from without the state.
+     (2)  For purposes of subsection (c)(1), the period of time, from the filing through the prompt disposition of the following motions or court papers, shall be deemed not to be excluded in computing the time for trial commencement: notice of alibi, requests/motions for discovery, and motions in limine, for voluntariness hearing heard at trial, for bail reduction, for release pending trial, for bill of particulars, to strike surplusage from the charge, for return of property, for discovery sanctions, for litigation expenses and for depositions.
+     (3)  The criteria provided in subsection (c) shall be applied to motions that are not listed in subsection (d)(1) and (d)(2) in determining whether the associated periods of time may be excluded in computing the time for trial commencement.
+     (e)  This section shall not apply to section 709-906."
+     SECTION 2.  Chapter 806, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§806-     Dismissal.  (a)  By prosecutor.  The prosecutor may, by leave of court, file a dismissal of a charge and the prosecution shall thereupon terminate. Such a dismissal may not be filed during the trial without the consent of the defendant.
+     (b)  By court.  Except in the case of traffic offenses that are not punishable by imprisonment, the court, on motion of the defendant, shall dismiss the charge, with or without prejudice in its discretion, if trial is not commenced within 6 months:
+     (1)  From the date of arrest if bail is set or from the filing of the charge, whichever is sooner, on any offense based on the same conduct or arising from the same criminal episode for which the arrest or charge was made;
+     (2)  From the date of re-arrest or re-filing of the charge, in cases where an initial charge was dismissed upon motion of the defendant; or
+     (3)  From the date of mistrial, order granting a new trial or remand, in cases where such events require a new trial.
+Subsection (b)(1) and (b)(2) shall not be applicable to any offense for which the arrest was made or the charge was filed before the effective date of this Act.
+     (c)  Excluded periods.  The following periods shall be excluded in computing the time for trial commencement:
+     (1)  Periods that delay the commencement of trial and are caused by collateral or other proceedings concerning the defendant, including but not limited to penal irresponsibility examinations and periods during which the defendant is incompetent to stand trial, pretrial motions, interlocutory appeals, and trials of other charges;
+     (2)  Periods that delay the commencement of trial and are caused by congestion of the trial docket when the congestion is attributable to exceptional circumstances;
+     (3)  Periods that delay the commencement of trial and are caused by a continuance granted at the request or with the consent of the defendant or defendant's counsel;
+     (4)  Periods that delay the commencement of trial and are caused by a continuance granted at the request of the prosecutor if:
+         (A)  The continuance is granted because of the unavailability of evidence material to the prosecution's case, when the prosecutor has exercised due diligence to obtain such evidence and there are reasonable grounds to believe that such evidence will be available at a later date; or
+         (B)  The continuance is granted to allow the prosecutor additional time to prepare the prosecutor's case and additional time is justified because of the exceptional circumstances of the case;
+     (5)  Periods that delay the commencement of trial and are caused by the absence or unavailability of the defendant;
+     (6)  The period between a dismissal of the charge by the prosecutor to the time of arrest or filing of a new charge, whichever is sooner, for the same offense or an offense required to be joined with that offense;
+     (7)  A reasonable period of delay when the defendant is joined for trial with a codefendant as to whom the time for trial has not run and there is good cause for not granting a severance; and
+     (8)  Other periods of delay for good cause.
+     (d)  Per se excludable and includable periods of time for purposes of subsection (c)(1).
+     (1)  For purposes of subsection (c)(1), the period of time, from the filing through the prompt disposition of the following motions filed by a defendant, shall be deemed to be periods of delay resulting from collateral or other proceedings concerning the defendant:  motions to dismiss, to suppress, for voluntariness hearing heard before trial, to sever counts or defendants, for disqualification of the prosecutor, for withdrawal of counsel including the time period for appointment of new counsel if so ordered, for mental examination, to continue trial, for transfer to the circuit court, for remand from the circuit court, for change of venue, to secure the attendance of a witness by a material witness order, and to secure the attendance of a witness from without the state.
+     (2)  For purposes of subsection (c)(1), the period of time, from the filing through the prompt disposition of the following motions or court papers, shall be deemed not to be excluded in computing the time for trial commencement: notice of alibi, requests for discovery, motions for discovery, and motions in limine, for voluntariness hearing heard at trial, for bail reduction, for release pending trial, for bill of particulars, to strike surplusage from the charge, for return of property, for discovery sanctions, for litigation expenses and for depositions.
+     (3)  The criteria provided in subsection (c) shall be applied to motions that are not listed in paragraphs (d)(1) and (d)(2) in determining whether the associated periods of time may be excluded in computing the time for trial commencement.
+     (e)  This section shall not apply to section 709-906."
+SECTION 3.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+By Request
+ 
+
+ 
+Report Title:
+Criminal Procedure; Dismissal; Abuse of Family or Household Member; Honolulu Prosecutor's Package
+ 
+Description:
+Codifies dismissals pursuant to Rule 48, Hawaii rules of penal procedure.  Exempts cases for abuse of family or household members charges from the dismissal rule.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

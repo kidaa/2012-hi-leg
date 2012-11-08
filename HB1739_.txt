@@ -1,0 +1,96 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1739
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MENTAL HEALTH.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+PART I
+     SECTION 1.  Section 334-59, Hawaii Revised Statutes, is amended by amending subsections (a) and (b) to read as follows:
+     "(a)  Initiation of proceedings.  An emergency admission may be initiated as follows:
+     (1)  If a [police] law enforcement officer has reason to believe that a person is imminently dangerous to self or others, or is gravely disabled, or is obviously ill, the officer shall call for assistance from the mental health emergency workers designated by the director.  Upon determination by the mental health emergency workers that the person is imminently dangerous to self or others, or is gravely disabled, or is obviously ill, the person shall be transported by ambulance or other suitable means, to a licensed psychiatric facility for further evaluation and possible emergency hospitalization.  A [police] law enforcement officer may also take into custody and transport to any facility designated by the director any person threatening or attempting suicide.  The officer shall make application for the examination, observation, and diagnosis of the person in custody.  The application shall state or shall be accompanied by a statement of the circumstances under which the person was taken into custody and the reasons therefor which shall be transmitted with the person to a physician or psychologist at the facility.
+     (2)  Upon written or oral application of any licensed physician, psychologist, attorney, member of the clergy, health or social service professional, or any state or county employee in the course of employment, a judge may issue an ex parte order orally, but shall reduce the order to writing by the close of the next court day following the application, stating that there is probable cause to believe the person is mentally ill or suffering from substance abuse, is imminently dangerous to self or others, or is gravely disabled, or is obviously ill, and in need of care or treatment, or both, giving the findings on which the conclusion is based, and directing that a [police] law enforcement officer or other suitable individual take the person into custody and deliver the person to the nearest facility designated by the director for emergency examination and treatment.  The ex parte order shall be made a part of the patient's clinical record.  If the application is oral, the person making the application shall reduce the application to writing and shall submit the same by noon of the next court day to the judge who issued the oral ex parte order.  The written application shall be executed subject to the penalties of perjury but need not be sworn to before a notary public.
+     (3)  Any interested person may file a written petition for emergency admission alleging that a person located in the county meets the criteria for commitment to a psychiatric facility.  The petition for emergency admission shall be executed subject to the penalties of perjury but need not be sworn to before a notary public.  The petition shall state with particularity any facts personally known to the petitioner that establish probable cause to believe that the person sought to be admitted on an emergency basis is imminently dangerous to self or others, or is gravely disabled, or is obviously ill.  The petition may be accompanied by any relevant information, including medical records, arrest records, or a certificate from a licensed physician or psychologist stating why the person meets the criteria for emergency admission.  When a petition for emergency admission is filed, the petitioner shall appear before a judge in the county where the subject of the petition is located.  The judge shall conduct an ex parte hearing to determine if there is probable cause to believe that the subject of the petition meets the criteria for involuntary admission.  Upon a finding of probable cause that the subject of the petition is mentally ill or suffering from substance abuse, is imminently dangerous to self or others, or is gravely disabled, or is obviously ill, and in need of care or treatment, or both, the judge shall issue a written order, giving the findings on which the probable cause is based and directing a law enforcement officer or other suitable individual to take the person into custody and deliver the person to the nearest facility designated by the director for emergency examination and treatment.  The ex parte order shall be made a part of the patient's clinical record.
+    [(3)] (4)  Any licensed physician, physician assistant, or psychologist who has examined a person and has reason to believe the person is:
+         (A)  Mentally ill or suffering from substance abuse;
+         (B)  Imminently dangerous to self or others, or is gravely disabled, or is obviously ill; and
+         (C)  In need of care or treatment;
+          may direct transportation, by ambulance or other suitable means, to a licensed psychiatric facility for further evaluation and possible emergency hospitalization.  A licensed physician or physician assistant may administer treatment as is medically necessary, for the person's safe transportation.  A licensed psychologist may administer treatment as is psychologically necessary.
+     (b)  Emergency examination.  A patient who is delivered for emergency examination and treatment to a facility designated by the director shall be examined by a licensed physician without unnecessary delay, and may be given such treatment as is indicated by good medical practice.  [A psychiatrist or psychologist may further] If the licensed physician, physician assistant, or psychologist who has directed transportation of a person to a licensed psychiatric facility for further evaluation and possible emergency hospitalization is not an employee or agent of the licensed psychiatric facility, a psychiatrist or psychologist at the licensed psychiatric facility shall independently examine the patient to diagnose the presence or absence of a mental disorder, assess the risk that the patient may be dangerous to self or others, or is gravely disabled, or is obviously ill, and assess whether or not the patient needs to be hospitalized."
+     SECTION 2.  Section 334-60.5, Hawaii Revised Statutes, is amended by amending subsection (i) to read as follows:
+     "(i)  If after hearing all relevant evidence, including the result of any diagnostic examination ordered by the court, the court finds that an individual is not a person requiring medical, psychiatric, psychological, or other rehabilitative treatment or supervision, the court shall order that the individual be discharged if the individual has been hospitalized prior to the hearing.  If the court finds that the criteria for involuntary hospitalization under section 334-60.2(1) has been met beyond a reasonable doubt and that the criteria under sections 334-60.2(2) and 334-60.2(3) have been met by clear and convincing evidence, the court may issue an order to any [police] law enforcement officer to deliver the subject to a facility that has agreed to admit the subject as an involuntary patient, or if the subject is already a patient in a psychiatric facility, authorize the facility to retain the patient for treatment for a period of ninety days unless sooner discharged.  An order of commitment shall specify which of those persons served with notice pursuant to section 334-60.4, together with such other persons as the court may designate, shall be entitled to receive any subsequent notice of intent to discharge, transfer, or recommit."
+PART II
+     SECTION 3.  (a)  The department of health, in cooperation with licensed psychiatric facilities, shall establish a two year crisis response pilot program in a county with a population greater than five hundred thousand to provide integrated crisis response and involuntary treatment to persons who are imminently dangerous to self or others or gravely disabled.
+     (b)  The department shall establish designated crisis responders who are authorized to conduct investigations and detain persons up to seventy-two hours in the proper facility.  A designated crisis responder shall receive training provided by the department and be either a:
+     (1)  Psychiatrist licensed in accordance with chapter 453, Hawaii Revised Statutes;
+     (2)  Advanced practice registered nurse licensed in accordance with chapter 457, Hawaii Revised Statutes;
+     (3)  Psychologist licensed in accordance with chapter 465, Hawaii Revised Statutes; or
+     (4)  Licensed clinical social worker licensed in accordance with chapter 467E, Hawaii Revised Statutes.
+     SECTION 4.  As used in this part:
+     "Court" means any duly constituted court and includes proceedings and hearings of per diem judges as authorized by law.
+     "Dangerous to others" means likely to do substantial physical or emotional injury on another, as evidenced by a recent act, attempt or threat.
+     "Dangerous to self" means the person recently has threatened or attempted suicide or serious bodily harm; or the person recently has behaved in such a manner as to indicate that the person is unable, without supervision and the assistance of others, to satisfy the need for nourishment, essential medical care, shelter or self-protection, so that it is probable that death, substantial bodily injury, or serious physical debilitation or disease will result unless adequate treatment is afforded.
+     "Department" means the department of health.
+     "Designated crisis responder" means a psychiatrist, psychologist, or licensed clinical social worker designated by the department who is authorized to conduct investigations and detain persons up to seventy-two hours at a licensed psychiatric facility for a diagnostic examination and evaluation.
+     "Gravely disabled" means a condition in which a person, as a result of a mental disorder, is unable to provide for that individual's basic personal needs for food, clothing, or shelter; is unable to make or communicate rational or responsible decisions concerning the individual's personal welfare; and lacks the capacity to understand that this is so.
+     "Judge" means any judge of the family court or per diem judge appointed by the chief justice as provided in section 604-2, Hawaii Revised Statutes.
+     "Mentally ill person" means a person having a psychiatric disorder or other disease that substantially impairs the person's mental health and necessitates treatment or supervision.
+     "Psychiatric facility" means a public or private hospital or part thereof that provides inpatient or outpatient care, custody, diagnosis, treatment, or rehabilitation services for mentally ill persons or for persons habituated to the excessive use of drugs or alcohol or for intoxicated persons.
+     SECTION 5.  (a)  If a designated crisis responder has examined a person and after investigation and evaluation of the specific facts alleged and of the reliability and credibility of the person or persons providing the information, the designated crisis responder has reason to believe that a person is imminently dangerous to self or others or gravely disabled, the designated crisis responder may take or cause the person by oral or written order, to be taken into emergency custody to a licensed psychiatric facility for not more than seventy-two hours pursuant to this part.
+     (b)  The licensed psychiatric facility shall then evaluate the person's condition and admit, detain, transfer, or discharge the person in accordance with this part.  The licensed psychiatric facility shall notify the court and the designated crisis responder in writing of the date and time of the initial detention of each person involuntarily detained so that a probable cause hearing will be held no later than seventy-two hours after detention.
+     (c)  Nothing in this section limits the power of a law enforcement officer to initiate emergency admission proceedings under section 334-59, Hawaii Revised Statutes.
+     SECTION 6.  (a)  When a designated crisis responder receives information alleging that a person is imminently dangerous to self or others or gravely disabled, the designated crisis responder shall:
+     (1)  Personally interview the person, unless the person refuses an interview, and determine whether the person will voluntarily receive appropriate evaluation and treatment at a licensed psychiatric facility;
+     (2)  Investigate and evaluate the specific facts alleged and make a determination regarding the reliability and credibility of any person providing information to initiate detention; and
+     (3)  File a petition for initial detention, if satisfied that the allegations are true and the person will not voluntarily seek appropriate treatment.
+     (b)  Upon written application of a designated crisis responder, a judge may issue an order to detain a person at a licensed psychiatric facility for a seventy-two hour diagnostic examination and evaluation if there is probable cause to support the petition and the person has voluntarily refused or failed to accept appropriate evaluation and treatment.
+     (c)  The petition for initial detention shall be executed subject to the penalties of perjury but need not be sworn to before a notary public, and may be considered by the court in determining whether there are sufficient grounds for issuing the order.
+     (d)  The order shall designate retained counsel or, if counsel is appointed from a list provided by the court, the name, business address, and telephone number of the attorney appointed to represent the person.
+     (e)  A copy of the order to appear and a petition for initial detention shall be served personally on the subject of the petition and served personally or by certified or registered mail, return receipt requested, deliverable to the addressee only, on the subject's spouse or reciprocal beneficiary, legal parents, adult children, and legal guardian, if one has been appointed.  After service on the person, the designated crisis responder shall file the return of service in court and provide copies of all papers in the court file to the evaluation and treatment facility and the designated attorney, if any.  The designated crisis responder shall notify the court and the prosecuting attorney that a probable cause hearing will be held within seventy-two hours of the date and time of outpatient evaluation or admission to the evaluation and treatment facility.
+     (f)  The hearing may be postponed for a period not to exceed forty-eight hours if requested by the subject of the petition or the subject's attorney.  The hearing may be continued for a period not to exceed twenty-four hours upon showing of good cause by the subject of the petition or the subject's attorney.
+     (g)  The subject of the petition may be accompanied to the place of evaluation by the subject's attorney, subject's spouse or reciprocal beneficiary, legal guardian, or personal physician.  An attorney accompanying the person to the place of evaluation shall be permitted to be present during the admission evaluation.  Any other person accompanying the person may be present during the admission evaluation.  The facility may exclude any person whose presence would present a safety risk, delay the proceedings, or otherwise interfere with the evaluation.
+     SECTION 7.  (a)  If the evaluation and treatment facility admits the person, it may detain the person for evaluation and treatment for a period not to exceed seventy-two hours from the time of acceptance.  The time period for evaluation and treatment shall exclude Saturdays, Sundays, and holidays.
+     (b)  Whenever a person is detained for initial evaluation and treatment under this part, chapter 334, Hawaii Revised Statutes, shall apply.
+     SECTION 8.  The department may adopt rules pursuant to chapter 91, Hawaii Revised Statutes, as may be necessary for the purposes of this part.
+     SECTION 9.  The department shall submit a report to the legislature no later than twenty days prior to the convening of the regular session of 2015.  The report shall assess the pilot program and determine whether to continue the crisis response pilot program based on the results of the department's assessment.
+     SECTION 10.  There is appropriated out of the general revenues of the State of Hawaii the sum of $           or so much thereof as may be necessary for fiscal year 2012-2013 for the establishment and administration of the crisis response pilot program; provided that:
+     (1)  No funds appropriated under this section shall be expended unless the department of human services receives authorization to receive a federal medicaid reimbursement for the maximum federal match;
+     (2)  The funds appropriated under this section shall be transferred to the department of health to establish and administer the crisis response pilot program;
+     (3)  The department of health collaborates with the department of human services to obtain a federal medicaid reimbursement; and
+     (4)  The department of human services begins seeking a federal medicaid reimbursement for the establishment and administration of the crisis response pilot program within three months of commencement of the program.
+     SECTION 11.  There is appropriated out of federal medicaid funds the sum of $           or so much thereof as may be necessary for the establishment and administration of the crisis response pilot program as a federal match.
+     The sum appropriated shall be expended by the department of human services for the purposes of this part.
+PART III
+     SECTION 12.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 13.  This Act shall take effect upon its approval; provided that part II of this Act shall be repealed on June 30, 2014.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Department of Health; Involuntary Hospitalization; Crisis Response Pilot Program; Mental Health; Appropriation
+ 
+Description:
+Permits any interested person, as defined under section 334-1, HRS, to file a written petition for emergency admission.  Requires an independent evaluation of a patient admitted to a licensed psychiatric facility for involuntary hospitalization in certain circumstances.  Requires the department of health to establish and implement the crisis response pilot program, under which designated crisis responders will be authorized to conduct investigations and detain persons who are imminently dangerous to self or others or gravely disabled for up to seventy-two hours in a proper facility.  Seeks a federal medicaid reimbursement for the maximum federal match to appropriate funds to the department of human services, which is to be transferred to the department of health to establish and administer the crisis response pilot program.  Part II repeals 6/30/2014.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

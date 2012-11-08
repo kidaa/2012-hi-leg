@@ -1,0 +1,79 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+349
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO SENTENCING OF REPEAT OFFENDERS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The current law on sentencing of repeat offenders, which is found in section 706-606.5, Hawaii Revised Statutes, and provides for mandatory minimum sentences, was originally enacted by Act 181, Session Laws of Hawaii 1976.  With respect to this legislation, the Committee on Conference stated:  "Your Committee finds that the high incidence of repeated offenses by previously convicted persons within the State of Hawaii presents a clear danger to its citizens.  In particular, your Committee concurs that necessary steps should be taken so that any person convicted of some of the most serious and reprehensible felonies as defined by the Hawaii Penal Code be sentenced, for each conviction after the first conviction to a mandatory sentence without possibility of parole."  While Act 181 identified ten felonies deemed to justify the imposition of its mandatory sentencing requirements, section 706-606.5, Hawaii Revised Statutes, now specifies more than thirty-four felonies.
+     The results of a 2008 poll released by Families Against Mandatory Minimums shows widespread support for ending mandatory minimum sentences for nonviolent offenses.  Seventy-eight per cent of Americans or nearly eight in ten Americans agree that courts, not Congress, should determine an individual's prison sentence.  Fifty-nine per cent of Americans, or nearly six in ten, oppose mandatory minimum sentences for nonviolent offenders.  Fifty-seven per cent of Americans polled would likely vote for a candidate for Congress who would eliminate all mandatory minimum sentencing for nonviolent crimes.  Based upon the poll, Families Against Mandatory Minimums concluded that mandatory minimum sentences have not discouraged drug use; have not reduced drug trafficking; have created soaring state and federal corrections costs; impose substantial indirect costs on families by imprisoning spouses, parents, and breadwinners for lengthy periods of time; are not applied evenly, thus disproportionately impacting minorities and resulting in vastly different sentences for equally blameworthy offenders; and usurp judicial discretion.
+     The current sentencing system in Hawaii has a disparate impact on native Hawaiians and Pacific islanders, who are incarcerated at a rate disproportionate to their percentage of the population.  Mandatory minimum sentences imposed upon nonviolent offenders are helping to fuel the racial disparities in Hawaii's prison population.  Mandatory minimum sentences have also fueled a dramatic increase in the incarceration of women.
+     The American Bar Association's Justice Kennedy Commission, in a 2003 Report to the House of Delegates, recommended, among other things, that:
+     (1)  Lengthy periods of incarceration should be reserved for offenders who pose the greatest danger to the community and who commit the most serious offenses;
+     (2)  Alternatives to incarceration should be provided when offenders pose minimum risk to the community and appear likely to benefit from rehabilitation efforts; and
+     (3)  Mandatory minimum sentencing statutes should be repealed.
+     The legislature believes that a better, more cost-effective alternative sentencing approach would be to treat nonviolent offenses in the same manner as other serious felonies, meaning that sentences would be determined by a judge with access to the offender's criminal record and knowledge of the circumstances involved in the offense.
+     Clearly, some offenders will reenter the prison system upon release despite the best intentions of state agencies, law enforcement, nonprofit service providers, faith-based initiatives, and the offenders themselves.  However, the alternative sentencing approach would provide judges with the authority to use discretion when sentencing offenders.  Additionally, alternative sentencing would make available an array of programs, strategies, and tactics to help offenders become successful members of society.
+     Alternative sentencing also reduces the cost of corrections.  Diverting individuals away from prison saves money and in many cases provides a better solution to offenders and society because it makes available effective services that enable offenders to become productive citizens.
+     The purpose of this Act is to make mandatory minimum sentencing of repeat offenders discretionary.
+     SECTION 2.  Section 706-606.5, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending subsection (1) to read:
+     "(1)  Notwithstanding section 706-669 and any other law to the contrary, any person convicted of murder in the second degree, any class A felony, any class B felony, or any of the following class C felonies:  section 188-23 relating to possession or use of explosives, electrofishing devices, and poisonous substances in state waters; section 386-98(d)(1) relating to fraud violations and penalties; section 431:2-403(b)(2) relating to insurance fraud; section 707-703 relating to negligent homicide in the second degree; section 707-711 relating to assault in the second degree; section 707-713 relating to reckless endangering in the first degree; section 707-716 relating to terroristic threatening in the first degree; section 707-721 relating to unlawful imprisonment in the first degree; section 707-732 relating to sexual assault or rape in the third degree; section 707-752 relating to promoting child abuse in the third degree; section 707-757 relating to electronic enticement of a child in the second degree; section 707-766 relating to extortion in the second degree; section 708-811 relating to burglary in the second degree; section 708-821 relating to criminal property damage in the second degree; section 708-831 relating to theft in the first degree as amended by Act 68, Session Laws of Hawaii 1981; section 708-831 relating to theft in the second degree; section 708-835.5 relating to theft of livestock; section 708-836 relating to unauthorized control of propelled vehicle; section 708-839.8 relating to identity theft in the third degree; section 708-839.55 relating to unauthorized possession of confidential personal information; section 708-852 relating to forgery in the second degree; section 708-854 relating to criminal possession of a forgery device; section 708-875 relating to trademark counterfeiting; section 710-1071 relating to intimidating a witness; section 711-1103 relating to riot; section 712-1203 relating to promoting prostitution in the second degree; section 712-1221 relating to gambling in the first degree; section 712-1224 relating to possession of gambling records in the first degree; section 712-1243 relating to promoting a dangerous drug in the third degree; section 712-1247 relating to promoting a detrimental drug in the first degree; section 846E-9 relating to failure to comply with covered offender registration requirements; section 134-7 relating to ownership or possession of firearms or ammunition by persons convicted of certain crimes; section 134-8 relating to ownership, etc., of prohibited weapons; section 134-9 relating to permits to carry, or who is convicted of attempting to commit murder in the second degree, any class A felony, any class B felony, or any of the class C felony offenses enumerated above and who has a prior conviction or prior convictions for the following felonies, including an attempt to commit the same: murder, murder in the first or second degree, a class A felony, a class B felony, any of the class C felony offenses enumerated above, or any felony conviction of another jurisdiction, [shall] may be sentenced to a mandatory minimum period of imprisonment without possibility of parole during such period as follows:
+    (a)   One prior felony conviction:
+         (i)  Where the instant conviction is for murder in the second degree or attempted murder in the second degree--ten years;
+        (ii)  Where the instant conviction is for a class A felony--six years, eight months;
+       (iii)  Where the instant conviction is for a class B felony--three years, four months; and
+        (iv)  Where the instant conviction is for a class C felony offense enumerated above--one year, eight months;
+    (b)   Two prior felony convictions:
+         (i)  Where the instant conviction is for murder in the second degree or attempted murder in the second degree--twenty years;
+        (ii)  Where the instant conviction is for a class A felony--thirteen years, four months;
+       (iii)  Where the instant conviction is for a class B felony--six years, eight months; and
+        (iv)  Where the instant conviction is for a class C felony offense enumerated above--three years, four months;
+    (c)   Three or more prior felony convictions:
+         (i)  Where the instant conviction is for murder in the second degree or attempted murder in the second degree--thirty years;
+        (ii)  Where the instant conviction is for a class A felony--twenty years;
+       (iii)  Where the instant conviction is for a class B felony--ten years; and
+        (iv)  Where the instant conviction is for a class C felony offense enumerated above--five years."
+     2.  By amending subsection (4) to read:
+     "(4)  Notwithstanding any other law to the contrary, any person convicted of any of the following misdemeanor offenses:
+    (a)   Section 707-712 relating to assault in the third degree;
+    (b)   Section 707-717 relating to terroristic threatening in the second degree;
+    (c)   Section 707-733 relating to sexual assault in the fourth degree;
+    (d)   Section 708-822 relating to criminal property damage in the third degree;
+    (e)   Section 708-832 relating to theft in the third degree; and
+    (f)   Section 708-833.5(2) relating to misdemeanor shoplifting,
+and who has been convicted of any of the offenses enumerated above on at least three prior and separate occasions within three years of the date of the commission of the present offense, [shall] may be sentenced to no less than nine months of imprisonment.  Whenever a court sentences a defendant under this subsection for an offense under section 707-733, the court shall order the defendant to participate in a sex offender assessment and, if recommended based on the assessment, participate in the sex offender treatment program established by chapter 353E."
+     SECTION 3.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Sentencing; Mandatory Minimum Terms
+ 
+Description:
+Changes the mandatory minimum sentencing of repeat offenders from mandatory to discretionary.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

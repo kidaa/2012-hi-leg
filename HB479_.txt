@@ -1,0 +1,131 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+479
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE DEPARTMENT OF EDUCATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+SECTION 1.  The legislature finds that the Department of Education receives nearly a quarter of the State's entire operating budget, the largest amount of any state agency, and that the department's appropriations, in fiscal years 2003 through 2008, increased nearly sixty-four per cent from $1.5 billion to $2.4 billion, while enrollment has stayed roughly the same, but that Hawai`i's public schools' test scores repeatedly rank among the lowest in the nation despite the increased funding.
+     The legislature also finds that according to the January 2007 Department of Budget and Finance report on the adequacy of federal funding for the implementation of the No Child Left Behind Act, although, in the school years, 2005 through 2006 approximately 85 percent of the public schools did not meet various NCLB performance standards, the Department of Education spent less than half the federal school improvement grant money it received", and that the available federal grants allotted to by the No Child Left Behind Act.  Further, during the period of FY 1999 through FY 2009, the Department of Education did not obligate or expend all of its available appropriations, resulting in substantial carryover balances of $230 million.  Also, in a 2005 independent audit of Department of Education programs conducted by PriceWaterhouseCoopers LLP, the audit concluded that "the lack of transparency made it difficult, and in some cases, impossible, to determine whether many public-school programs were achieving their objectives and whether taxpayer dollars were being spent wisely".  The audit went on to state that "roughly one-third of the department's 278 state-funded programs had inadequate systems in place to monitor their effectiveness and at least one in five suffered from insufficient oversight of program spending and many programs completely lacked either."
+     The legislature further finds that the last comprehensive audit of the entire organization, management processes, and personnel administration of the Department of Education occurred in 1973.  Therefore, the purpose of this Act is to mandate periodic comprehensive audits of the Department of Education in order to assist the Department, the Legislature, and the Executive Branch in making the needed changes to improve the delivery of public education services.
+     SECTION 2.  Starting with 2011, the Office of the Auditor shall contract with an independent, certified audit firm to conduct a comprehensive review of the Department of Education's operations.  This review shall be conducted every five years to determine if, as now structured, it can effectively carry out its responsibilities under the federal No Child Left Behind Act and the State's Reinventing Education Act (Act 51, Session Laws of Hawaii 2004, as amended).  The comprehensive review shall, at a minimum, consist of a full management and financial audit of the Department of Education, including an examination of the uses and outcomes of expenditure of state general funds, state special funds, federal funds, capital improvement funds, revolving funds, and all other accounts within the department or within other state agencies that exist to fund operations of the department, including those funds in the department of budget and finance that relate to employee benefit costs and risk management.
+     SECTION 3.  The comprehensive review shall be compiled into a report and shall be submitted to the Hawaii State Legislature at least twenty days prior to the beginning of the 2012 legislative session.  Subsequent reviews shall be compiled into reports and shall be reported to the Hawaii State Legislature at least twenty days prior to the beginning of the regular session in the year following a comprehensive review.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+
+
+ 
+Report Title:
+Department of Education
+ 
+Description:
+Mandates a periodic comprehensive review of the Department of Education, consisting of, at a minimum, a full management and financial audit of the Department of Education.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+ttom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.aSubsection, li.aSubsection, div.aSubsection {mso-style-name:"\(a\)Subsection"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.ASubparagraph, li.ASubparagraph, div.ASubparagraph {mso-style-name:"\(A\)Subparagraph"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.iClause, li.iClause, div.iClause {mso-style-name:"\(i\)Clause"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:2.0in; margin-bottom:.0001pt; text-indent:-2.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.ASubparagraphContd, li.ASubparagraphContd, div.ASubparagraphContd {mso-style-name:"\(A\)SubparagraphContd"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.1ParagraphContd, li.1ParagraphContd, div.1ParagraphContd {mso-style-name:"\(1\)ParagraphContd"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.ExtraSig, li.ExtraSig, div.ExtraSig {mso-style-name:"Extra Sig"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:243.0pt; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.BillSectionNumber {mso-style-name:"Bill Section Number"; font-family:Courier;} span.HRSSectionNumber {mso-style-name:"HRS Section Number"; font-family:Courier;} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} span.HRSReference {mso-style-name:"HRS Reference"; font-family:Courier;} span.EffectiveDate {mso-style-name:"Effective Date"; font-family:Courier;} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Clause, li.Clause, div.Clause {mso-style-name:Clause; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:2.0in; margin-bottom:.0001pt; text-indent:-2.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+479
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE DEPARTMENT OF EDUCATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+SECTION 1.  The legislature finds that the Department of Education receives nearly a quarter of the State's entire operating budget, the largest amount of any state agency, and that the department's appropriations, in fiscal years 2003 through 2008, increased nearly sixty-four per cent from $1.5 billion to $2.4 billion, while enrollment has stayed roughly the same, but that Hawai`i's public schools' test scores repeatedly rank among the lowest in the nation despite the increased funding.
+     The legislature also finds that according to the January 2007 Department of Budget and Finance report on the adequacy of federal funding for the implementation of the No Child Left Behind Act, although, in the school years, 2005 through 2006 approximately 85 percent of the public schools did not meet various NCLB performance standards, the Department of Education spent less than half the federal school improvement grant money it received", and that the available federal grants allotted to by the No Child Left Behind Act.  Further, during the period of FY 1999 through FY 2009, the Department of Education did not obligate or expend all of its available appropriations, resulting in substantial carryover balances of $230 million.  Also, in a 2005 independent audit of Department of Education programs conducted by PriceWaterhouseCoopers LLP, the audit concluded that "the lack of transparency made it difficult, and in some cases, impossible, to determine whether many public-school programs were achieving their objectives and whether taxpayer dollars were being spent wisely".  The audit went on to state that "roughly one-third of the department's 278 state-funded programs had inadequate systems in place to monitor their effectiveness and at least one in five suffered from insufficient oversight of program spending and many programs completely lacked either."
+     The legislature further finds that the last comprehensive audit of the entire organization, management processes, and personnel administration of the Department of Education occurred in 1973.  Therefore, the purpose of this Act is to mandate periodic comprehensive audits of the Department of Education in order to assist the Department, the Legislature, and the Executive Branch in making the needed changes to improve the delivery of public education services.
+     SECTION 2.  Starting with 2011, the Office of the Auditor shall contract with an independent, certified audit firm to conduct a comprehensive review of the Department of Education's operations.  This review shall be conducted every five years to determine if, as now structured, it can effectively carry out its responsibilities under the federal No Child Left Behind Act and the State's Reinventing Education Act (Act 51, Session Laws of Hawaii 2004, as amended).  The comprehensive review shall, at a minimum, consist of a full management and financial audit of the Department of Education, including an examination of the uses and outcomes of expenditure of state general funds, state special funds, federal funds, capital improvement funds, revolving funds, and all other accounts within the department or within other state agencies that exist to fund operations of the department, including those funds in the department of budget and finance that relate to employee benefit costs and risk management.
+     SECTION 3.  The comprehensive review shall be compiled into a report and shall be submitted to the Hawaii State Legislature at least twenty days prior to the beginning of the 2012 legislative session.  Subsequent reviews shall be compiled into reports and shall be reported to the Hawaii State Legislature at least twenty days prior to the beginning of the regular session in the year following a comprehensive review.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+
+
+ 
+Report Title:
+Department of Education
+ 
+Description:
+Mandates a periodic comprehensive review of the Department of Education, consisting of, at a minimum, a full management and financial audit of the Department of Education.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

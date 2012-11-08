@@ -1,0 +1,70 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2054
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO TAXATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature find that the Hawaii electric vehicle ready program was administered by the department of business, economic development, and tourism using federal funds, the department provided rebates to Hawaii residents who purchased new electric vehicles and electric vehicle charging units.  With the expiration of the program, it is in the State's interest to provide other incentives to encourage the purchase of electric vehicles.
+     The purpose of this Act is to establish a tax credit for the purchase of new electric vehicles and electric vehicle charging units.
+     SECTION 2.  Chapter 235, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§235-     New electric vehicle and electric vehicle charging unit tax credit.  (a)  Any taxpayer subject to the tax imposed by this chapter may claim a tax credit under this section against the Hawaii state individual or corporate net income tax.  The tax credit may be claimed for every new electric vehicle or electric vehicle charging unit purchased by a taxpayer during the taxable year.  The tax credit may be claimed as follows:
+     (1)  For each new electric vehicle:  twenty per cent of the cost of the new electric vehicle or the cap amount determined in subsection (b), whichever is less; or
+     (2)  For each electric vehicle charging unit:  thirty per cent of the cost of the electric vehicle charging unit, including installation costs, or the cap amount determined in subsection (b), whichever is less;
+provided that multiple owners of a single electric vehicle or charging unit shall be entitled to a single tax credit; and provided further that the tax credit shall be apportioned between the owners in proportion to their contribution to the cost of the electric vehicle or charging unit.
+     In the case of a partnership, S corporation, estate, or trust, the tax credit allowable is for every new electric vehicle or electric vehicle charging unit purchased by the entity.  The cost upon which the tax credit is computed shall be determined at the entity level.  Distribution and share of credit shall be determined pursuant to section 235-110.7(a).
+     (b)  The amount of credit allowed for each new electric vehicle or electric vehicle charging unit purchased shall not exceed the applicable cap amount, which is determined as follows:
+     (1)  $4,500 for each new electric vehicle; or
+     (2)  $500 for each electric vehicle charging unit.
+     (c)  The director of taxation shall prepare any forms that may be necessary to claim a tax credit under this section.  The director may also require the taxpayer to furnish reasonable information to ascertain the validity of the claim for credit made under this section and may adopt rules necessary to effectuate the purposes of this section pursuant to chapter 91.
+     (d)  If the tax credit under this section exceeds the taxpayer's income tax liability, the excess of the credit over liability may be used as a credit against the taxpayer's income tax liability in subsequent years until exhausted.  All claims for the tax credit under this section, including amended claims, shall be filed on or before the end of the twelfth month following the close of the taxable year for which the credit may be claimed.  Failure to comply with this subsection shall constitute a waiver of the right to claim the credit.
+     (e)  No taxpayer shall be allowed a credit under this section for the purchase of a new electric vehicle of electric vehicle charging unit if the taxpayer received a rebate for the purchase of the electric vehicle or electric vehicle charging unit pursuant to the Hawaii electric vehicle ready program administered by the department of business, economic development, and tourism.
+     (f)  For the purposes of this section:
+     "Battery capacity" means the quantity of electricity that a battery is capable of storing, expressed in kilowatt hours, as measured from a one hundred per cent state of charge to a zero per cent state of charge.
+     "Electric vehicle charging unit" means a device used to recharge electric vehicle batteries that contains a plug that connects electric vehicle batteries to an electrical source, providing the batteries with electrical energy.  An electric vehicle charging unit shall be:
+     (1)  In compliance with article 625 of the National Electrical Code;
+     (2)  Tested and certified by a nationally recognized testing laboratory; and
+     (3)  Installed in compliance with all applicable federal, state, and county laws, codes, and regulations.
+     "Nationally recognized testing laboratory" means an independent laboratory recognized by the United States Department of Labor's Occupational Safety and Health Administration to test products to the specifications of applicable product safety standards.
+     "New electric vehicle" means a motor vehicle:
+     (1)  The original use of which commences with the taxpayer;
+     (2)  That is acquired for use or lease by the taxpayer and not for resale;
+     (3)  That is made by a manufacturer;
+     (4)  That is treated as a motor vehicle for purposes of Title II of the Clean Air Act, Public Law 88-206;
+     (5)  That has a gross vehicle weight rating of less than 14,000 pounds; and
+     (6)  That is propelled to a significant extent by an electric motor that draws electricity from a battery that:
+         (A)  Has a capacity of not less than four kilowatt hours; and
+         (B)  Is capable of being recharged from an external source of electricity."
+     SECTION 3.  New statutory material is underscored.
+     SECTION 4.  This Act, upon its approval, shall apply to taxable years beginning after December 31, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+New Electric Vehicle and Electric Vehicle Charging Unit Tax Credit
+ 
+Description:
+Establishes a tax credit for the purchase of a new electric vehicle or an electric vehicle charging unit.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

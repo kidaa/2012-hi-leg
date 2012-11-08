@@ -1,0 +1,47 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2042
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO ENERGY.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 269-91, Hawaii Revised Statutes, is amended by adding a new definition to be appropriately inserted and to read as follows:
+     ""Locally produced" means made, manufactured, or produced in the State."
+     SECTION 2.  Section 269-92, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  The public utilities commission may establish standards for each utility that prescribe what portion of the renewable portfolio standards shall be met by specific types of renewable energy resources; provided that:
+     (1)  Prior to January 1, 2015, at least fifty per cent of the renewable portfolio standards shall be met by electrical energy generated using renewable energy as the source, and after December 31, 2014, the entire renewable portfolio standard shall be met by electrical generation from renewable energy sources;
+     (2)  Beginning January 1, 2015, electrical energy savings shall not count toward renewable energy portfolio standards;
+     (3)  Where electrical energy is generated or displaced by a combination of renewable and nonrenewable means, the proportion attributable to the renewable means shall be credited as renewable energy; [and]
+     (4)  Where fossil and renewable fuels are co-fired in the same generating unit, the unit shall be considered to generate renewable electrical energy (electricity) in direct proportion to the percentage of the total heat input value represented by the heat input value of the renewable fuels[.]; and
+     (5)  If the renewable energy source is biogas, biomass, biofuel, or hydrogen that biogas, biomass, biofuel, or hydrogen shall be locally produced."
+     SECTION 3.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+
+ 
+Report Title:
+Energy; Renewable Portfolio Standards
+ 
+Description:
+Requires that the renewable portfolio standards shall be met by requiring that renewable energy whose sources are biogas, biomass, biofuels, or hydrogen shall be locally produced.  Defines "locally produced".
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

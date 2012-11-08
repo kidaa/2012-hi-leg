@@ -1,0 +1,121 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2526
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO REPORTING REQUIREMENTS FOR TELECOMMUNICATIONS AND CABLE TELEVISION PROVIDERS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The State of Hawaii recognizes that advanced broadband capability is essential infrastructure required to drive innovation, the economy, and job creation in the twenty-first century.  High speed broadband services at affordable prices are essential for the advancement of education, health, public safety, research and innovation, civic participation, e-government, economic development and diversification, and public safety and services.  The State of Hawaii also recognizes the evolution in the manner in which communications and information services are delivered to the consumer, including by wireline, wireless, cable television, and satellite infrastructures, and that the voice, video, and data services provided by these infrastructures are converging.  The telecommunications industry is thus an essential element of Hawaii's economy and vital to the health and welfare of all people in the State of Hawaii.
+     A complete and thorough understanding of the operations of the telecommunications industry and the cable television industry is required by state government to develop and administer effective policies to support and grow a competitive, stable, and robust industry for the benefit of the State's economy and consumers, and for the well-being of the public at large.  Information and data concerning all aspects of the telecommunications industry and cable industry, such as capacity, availability, service level, infrastructure, prices, distribution, and demand are essential to this understanding.  Information collected will also aid the State in obtaining information necessary to identify and qualify for federal grant and loan programs for the benefit of the State, consumers, residents, and telecommunications and cable television providers.
+     SECTION 2.  The Hawaii Revised Statutes is amended by adding a new chapter to be appropriately designated and to read as follows:
+"CHAPTER
+TELECOMMUNICATIONS AND CABLE INDUSTRY INFORMATION REPORTING
+     §   -1  Definitions.  As used in this chapter, unless the context otherwise requires:
+     "Broadband" means an "always on" service that combines computer processing capabilities, information provision, and computing interactivity with data transport, enabling end users to access the internet and use a variety of applications, at minimum speeds set by the director.
+     "Cable operator" has the same meaning as the term is defined in section 440G-3.
+     "Data center" means any facility used to manage and house computer network systems and associated components, such as computer network routers, switches, security devices, and network monitoring systems.
+     "Data communications technology" means the type of technology utilized in the transmission system to transfer data between points in the delivery of broadband services to a subscriber.
+     "Department" means the department of commerce and consumer affairs.
+     "Director" means the director of commerce and consumer affairs.
+     "Facility" includes all real property, antenna, poles, supporting structures, wires, cables, conduits, amplifiers, instruments, appliances, fixtures, and other personal property used by a cable operator or telecommunications carrier to provide service.
+     "Internal action levels" means the level at which the provider has predetermined that action must be taken to bring a specific measure of quality or performance to acceptable levels in order to maintain subscriber services.
+     "Internet service provider" means any company that provides connectivity between a data center and the internet.
+     "Minimum service levels" means the lowest level of service that a provider sets for each level of telecommunications service offered to subscribers.
+     "Network" means a data network that is capable of carrying integrated traffic, including but not limited to voice, video, and data.
+     "Network availability" means the amount of time, expressed as a percentage, that a network is available for processing data.  It is calculated by multiplying the network uptime by one hundred then dividing that number by the sum of the network's uptime and downtime.
+     "Network latency" means the length of time it takes for a data packet to travel through a network to a given destination and to return to the original location.
+     "Network node" means a redistribution point that provides the connectivity from a data center to the subscriber premises.
+     "Peak bandwidth utilization" means the maximum network capacity, expressed as a percentage, that can be used at a network's highest output level.  It is calculated by multiplying the network's peak utilization rate by one hundred then dividing that number by the network's available bandwidth.
+     "Peak capacity" means the maximum data rate, in bits per second, that connection to a network is capable of carrying.
+     "Person" means an individual, corporation, partnership, association, limited liability company, any other form of business entity, trust, or governmental agency.
+     "Provider" means any cable operator, telecommunications carrier, or telecommunications common carrier.
+     "Quality of service" means a measure of service quality provided to a subscriber that quantifies the overall quality of network performance, which includes but is not limited to measurements for reliability, capacity, effectiveness, and consistency.
+     "Subscriber" means any person who receives services from a provider.
+     "Subscriber connection" means the connection between a subscriber's premises and a network node.
+     "Telecommunications" means the transmission, between or among points specified by a user, of information of the user's choosing, without change in the form or content of the information as sent and received.
+     "Telecommunications carrier" or "telecommunications common carrier" means any person that owns, operates, manages, or controls any facility used to furnish telecommunications services for profit to the public, or to classes of users as to be effectively available to the public, engaged in the provision of services.
+     "Telecommunications service" means the offering of telecommunications for a fee directly to the public, or to such classes of users as to be effectively available directly to the public, regardless of the facilities used.
+     §   -2  Providers to register.  Every provider shall register with the department pursuant to this chapter on a form prescribed by the director.
+     §   -3  Statements.  (a)  On reporting dates established by the director, every provider shall file with the department, separately for each county in which the provider offers services, the following information:
+     (1)  All data center locations;
+     (2)  For each internet service provider used to connect the provider's network to the internet, the internet service provider's name, carrier tier, number of connections supplied, bandwidth of each connection supplied, and upstream backhaul provider;
+     (3)  The provider's alternate internet service provider and alternate transpacific backhaul partner, if any;
+     (4)  The names of the provider's fail-over and continuity of operations partners, and the terms of the provider's fail-over agreement with each partner;
+     (5)  The network map of the provider, which includes all connection information, number of network nodes, and network node locations;
+     (6)  The bandwidth of connections from the provider's data center to each network node, and the up and down connection speeds;
+     (7)  The maximum number of subscriber connections that can be made per network node;
+     (8)  The current number of subscriber connections per network node;
+     (9)  The connection medium between the network nodes and subscribers; and
+    (10)  The data communications technology used for subscriber connection, including applicable protocols.
+     (b)  The department may request that a provider submit additional information to the department when the department deems it necessary to perform its responsibilities under this chapter.
+     §   -4  Informational reports.  (a)  On reporting dates established by the director, every provider shall file separately for each county reports with the department in such form as the director shall prescribe and include the following:
+     (1)  For each major network node in the provider's network:
+         (A)  The peak capacities;
+         (B)  The average overall network availability over the most recent thirty day period;
+         (C)  The peak bandwidth utilization over the most recent thirty day period; and
+         (D)  Information on the frequency and duration of peak bandwidth utilization over the most recent thirty day period;
+     (2)  For each internet service provider used to connect the provider's network to the internet:
+         (A)  The internet service provider's name;
+         (B)  The number of connections provided;
+         (C)  The peak capacity of each connection;
+         (D)  The average network availability of each connection over the most recent thirty day period; and
+         (E)  The peak bandwidth utilization of each connection over the most recent thirty day period;
+     (3)  The network performance measurements used by the provider to monitor quality of service, including the provider's internal action levels related to those network performance measurements, and customer service quality measurements prescribed by the director.  The network performance measurements reported should include but not be limited to measurements for network availability, network latency for connections made within the provider's network, network latency for connections made outside of the State, bandwidth utilization during peak time, and connection speeds (upstream and downstream) during peak time;
+     (4)  Operational information, including the following:
+         (A)  The total numbers of subscribers, the numbers of subscribers for each service and rate category offered by the provider, and the number of subscribers added and dropped during the reporting period;
+         (B)  The total number of installation requests and completions for the reporting period, and other information concerning the installations as required by the director; and
+         (C)  The percentage of time service is provided above minimum service levels and the network availability during the reporting period; and
+     (5)  Financial information, including the following:
+         (A)  On a periodic basis as requested by the director, the provider's income statement, balance sheet, and statement of cash flow; and
+         (B)  On an annual basis, an independent audit report and accompanying audited financial reports, management letter, and responses to the management letter.
+     (b)  The department may request that a provider submit additional information to the department when the department deems it necessary to perform its responsibilities under this chapter.
+     §   -5  Public reports.  In addition to the reports to be filed under section    -4, each provider shall file with the director, in a form and on the time schedule prescribed by the director, reports of the provider's ownership and its financial, technical, and operational conditions that shall be kept on file open to the public.  The information included in these public reports shall be determined by the director.
+     §   -6  Confidential information.  (a)  Notwithstanding chapter 92F, statements and reports provided to the department pursuant to sections    -3 and    -4, and the data contained therein, shall be deemed confidential, except to the extent that the provider has made the information or data public, or the director has required the information or data to be made public pursuant to section    -5.
+     (b)  All information and data collected by the department may be shared with the attorney general, the consumer advocate, and the department of business, economic development, and tourism if the information and data are necessary for the performance of the agency's duties and functions and are also:
+     (1)  Compatible with the purpose for which the information was collected or obtained; or
+     (2)  Consistent with the conditions or reasonable expectations of use and disclosure under which the information was provided.
+     (c)  Unless otherwise provided by law, with respect to the data or information made confidential under subsection (a), neither the department nor any agency permitted access under subsection (b) may do any of the following:
+     (1)  Use the information furnished or obtained for any purpose other than the purposes for which it is supplied;
+     (2)  Make any publication whereby the data furnished by any person can be identified; or
+     (3)  Permit any person other than the department, the attorney general, the consumer advocate, the department of business, economic development, and tourism, and the authorized representatives and employees of each to examine the individual reports or statements provided.
+     §   -7  Confidential information obtained by another state agency.  Any confidential information specified in sections    ‑3 and    -4 or pertinent to the responsibilities of the department that is obtained by another state agency, including the attorney general and the consumer advocate, shall be available to the attorney general, the department of business, economic development, and tourism, and the department to the extent such disclosure is consistent with the terms set forth in section    -6(b).
+     §   -8  Waiver of reporting requirements.  The director may waive all or any part of the reporting requirements under this chapter, or may exempt a provider from compliance with this chapter, if the director deems it appropriate.
+     §   -9  Failure to timely provide information; failure to make and file statements; false statements; penalties; referral to the attorney general.  (a)  The department shall notify those persons who have failed to timely provide the information specified in section    -3 or    -4 or requested by the department under section    -3 or    -4.  If, within five business days after being notified of the failure to provide the specified or requested information, the person fails to supply the specified or requested information, the person shall be subject to a civil penalty of not more than $2,500 per day for each day the submission of information is refused or delayed.
+     (b)  Any person, or any employee of any person, who willfully makes any false statement, representation, or certification in any record, report, plan, or other document filed with the department shall be subject to a civil penalty not to exceed $50,000 and shall be deemed to have committed an unfair or deceptive act or practice in the conduct of a trade or commerce and subject to the penalties specified in chapters 480 and 486B.
+     (c)  The department shall refer any matter under subsection (a) or (b) to the attorney general, who may exercise any appropriate legal or equitable remedies that may be available to the State.
+     (d)  For the purposes of this section, "person" means, in addition to the definition contained in section    -1, any responsible corporate officer.
+     (e)  All penalties collected under this subsection shall be deposited in the compliance resolution fund established pursuant to section 26-9(o).
+     §   -10  Rules.  The director shall adopt rules pursuant to chapter 91 for the purposes of this chapter."
+     SECTION 3.  Conflict with provisions of this Act.  All acts passed by the legislature during this regular session of 2012, whether enacted before or after the effective date of this Act, shall be amended to conform to this Act unless such acts specifically provide that this Act is being amended.
+     SECTION 4.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Telecommunications and Cable Television Providers; Reporting Requirements
+ 
+Description:
+Requires reporting by telecommunications and cable television providers to the Department of Commerce and Consumer Affairs and provides confidentiality for certain information and reports submitted.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

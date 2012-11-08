@@ -1,0 +1,68 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+60
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO WIRELESS ENHANCED 911 SERVICE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 138-3, Hawaii Revised Statutes, is amended to read as follows:
+     "§138-3  Wireless enhanced 911 fund.  There is established outside the state treasury a special fund, to be known as the wireless enhanced 911 fund, to be administered by the board.  [The fund shall consist of amounts collected under section 138-4.]  The board shall place the funds in an interest-bearing account at any federally insured financial institution, separate and apart from the general fund of the State.  Moneys in the fund shall be expended exclusively by the board for the purposes of ensuring adequate cost recovery for the deployment of phase I and phase II wireless enhanced 911 service and for expenses of administering the fund.  Any funds that accumulate in the wireless enhanced 911 fund shall be retained in the fund unless determined by the legislature to be in excess.  The fund shall cease to exist once all moneys in the fund have been expended."
+     SECTION 2.  Section 138-6, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§138-6[]]  Report to the legislature.  The board shall submit an annual report to the legislature, including:
+     (1)  The total aggregate surcharge collected by the State in the last fiscal year;
+     (2)  The amount of disbursement from the fund;
+     (3)  The recipient of each disbursement and a description of the project for which the money was disbursed;
+     (4)  The conditions, if any, placed by the board on disbursements from the fund;
+     (5)  The planned expenditures from the fund in the next fiscal year[;] and each fiscal year until all moneys in the fund have been expended;
+     (6)  The amount of any unexpended funds carried forward for the next fiscal year;
+    [(7)  A cost study to guide the legislature towards necessary adjustments to the fund and the monthly surcharge;] and
+    [(8)] (7)  A progress report of jurisdictional readiness for wireless E911 services, including public safety answering points, wireless providers, and wireline providers.  The report shall include the status of requirements outlined in the Federal Communications Commission Order 94-102 and subsequent supporting orders related to phase I and phase II wireless 911 services."
+     SECTION 3.  Section 138-4, Hawaii Revised Statutes, is repealed.
+     ["[§138-4]  Surcharge.  (a)  A monthly wireless enhanced 911 surcharge, subject to this chapter, shall be imposed upon each commercial mobile radio service connection.
+     (b)  The effective date of the surcharge shall be July 1, 2004.  The rate of the surcharge shall be set at 66 cents per month for each commercial mobile radio service connection.  The surcharge shall have uniform application and shall be imposed on each commercial mobile radio service connection operating within the State except:
+     (1)  Connections billed to federal, state, and county government entities; and
+     (2)  Prepaid connections.
+     (c)  All wireless providers and resellers shall bill to and collect from each of their customers a monthly surcharge at the rate established for each commercial mobile radio service connection.  The wireless provider or reseller may list the surcharge as a separate line item on each bill.  If a wireless provider or reseller receives a partial payment for a monthly bill from a commercial mobile radio service customer, the wireless provider or reseller shall apply the payment against the amount the customer owes the wireless provider or reseller, before applying the partial payment against the surcharge.
+     (d)  A wireless provider that:
+     (1)  Is collecting the surcharge and remitting appropriate portions of the surcharge to the fund pursuant to this chapter; and
+     (2)  Has been requested by a public safety answering point to provide phase I or phase II wireless enhanced 911 service in a particular county or counties,
+may recover wireless enhanced 911 commercial mobile radio service costs as provided in this chapter.
+     (e)  Each wireless provider or reseller may retain two per cent of the amount of surcharges collected to offset administrative expenses associated with billing and collecting the surcharge.
+     (f)  A wireless provider or reseller shall remit to the wireless enhanced 911 fund, within sixty days after the end of the calendar month in which the surcharge is collected, an amount that represents the surcharges collected less amounts retained for administrative expenses incurred by the wireless provider or reseller, as provided in subsection (e).
+     (g)  The surcharges collected by the wireless provider or reseller pursuant to this section shall not be subject to any tax, fee, or assessment, nor are they considered revenue of the provider or reseller.
+     (h)  Each customer who is subject to this chapter shall be liable to the State for the surcharge until it has been paid to the wireless provider.  Wireless providers shall have no liability to remit surcharges that have not been paid by customers.  A wireless provider or reseller shall have no obligation to take any legal action to enforce the collection of the surcharge for which any customer is billed.  However, the board may initiate a collection action against the customer.  If the board prevails in such a collection action, reasonable attorney's fees and costs shall be awarded.
+     (i)  At any time the members deem it necessary and appropriate, the board may meet to make recommendations to the legislature as to whether the surcharge and fund should be discontinued, continued as is, or amended.
+     (j)  When considering whether to discontinue, continue as is, or amend the fund or surcharge, the board's recommendations shall be based on the latest available information concerning costs associated with providing wireless enhanced 911 service in accordance with the Federal Communications Commission order."]
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Wireless Enhanced 911; Surcharge
+ 
+Description:
+Eliminates the $0.66 monthly surcharge on wireless telephone accounts and terminates the wireless enhanced 911 fund once all moneys in the fund are expended.  Effective 7/1/2011.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

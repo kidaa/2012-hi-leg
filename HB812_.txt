@@ -1,0 +1,156 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+812
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO UNEMPLOYMENT COMPENSATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that unemployed persons spend all or most of the unemployment compensation within the local economy.  The legislature also finds that the benefit of those expenditures will be maximized by temporarily exempting unemployment benefit from income taxation.
+The purpose of this Act is to promote economic revitalization by temporarily exempting income from unemployment compensation from state income taxation.
+     SECTION 2.  Section 235-2.3, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  The following Internal Revenue Code subchapters, parts of subchapters, sections, subsections, and parts of subsections shall not be operative for the purposes of this chapter, unless otherwise provided:
+     (1)  Subchapter A (sections 1 to 59A) (with respect to determination of tax liability), except section 1(h)(2) (relating to net capital gain reduced by the amount taken into account as investment income), except sections 2(a), 2(b), and 2(c) (with respect to the definition of "surviving spouse" and "head of household"), except section 41 (with respect to the credit for increasing research activities), except section 42 (with respect to low-income housing credit), except sections 47 and 48, as amended, as of December 31, 1984 (with respect to certain depreciable tangible personal property), and except section 48(d)(3), as amended, as of February 17, 2009 (with respect to the treatment of United States Department of Treasury grants made under section 1603 of the American Recovery and Reinvestment Tax Act of 2009).  For treatment, see sections 235-110.91, 235-110.7, and 235-110.8;
+     (2)  Section 78 (with respect to dividends received from certain foreign corporations by domestic corporations choosing foreign tax credit);
+     (3)  Section 85 (with respect to unemployment compensation);
+    [(3)] (4)  Section 86 (with respect to social security and tier 1 railroad retirement benefits);
+    [(4)] (5)  Section 103 (with respect to interest on state and local bonds).  For treatment, see section 235-7(b);
+    [(5)] (6)  Section 114 (with respect to extraterritorial income).  For treatment, any transaction as specified in the transitional rule for 2005 and 2006 as specified in the American Jobs Creation Act of 2004 section 101(d) and any transaction that has occurred pursuant to a binding contract as specified in the American Jobs Creation Act of 2004 section 101(f) are inoperative;
+    [(6)] (7)  Section 120 (with respect to amounts received under qualified group legal services plans).  For treatment, see section 235-7(a)(9) to (11);
+    [(7)] (8)  Section 122 (with respect to certain reduced uniformed services retirement pay).  For treatment, see section 235-7(a)(3);
+    [(8)] (9)  Section 135 (with respect to income from United States savings bonds used to pay higher education tuition and fees).  For treatment, see section 235-7(a)(1);
+    [(9)] (10)  Section 139C (with respect to COBRA premium assistance);
+   [(10)] (11)  Subchapter B (sections 141 to 150) (with respect to tax exemption requirements for state and local bonds);
+   [(11)] (12)  Section 151 (with respect to allowance of deductions for personal exemptions).  For treatment, see section 235-54;
+   [(12)] (13)  Section 179B (with respect to expensing of capital costs incurred in complying with Environmental Protection Agency sulphur regulations);
+   [(13)] (14)  Section 181 (with respect to special rules for certain film and television productions);
+   [(14)] (15)  Section 196 (with respect to deduction for certain unused investment credits);
+   [(15)] (16)  Section 199 (with respect to the U.S. production activities deduction);
+   [(16)] (17)  Section 222 (with respect to qualified tuition and related expenses);
+   [(17)] (18)  Sections 241 to 247 (with respect to special deductions for corporations).  For treatment, see section 235-7(c);
+   [(18)] (19)  Section 280C (with respect to certain expenses for which credits are allowable).  For treatment, see section 235-110.91;
+   [(19)] (20)  Section 291 (with respect to special rules relating to corporate preference items);
+   [(20)] (21)  Section 367 (with respect to foreign corporations);
+   [(21)] (22)  Section 501(c)(12), (15), (16) (with respect to exempt organizations);
+   [(22)] (23)  Section 515 (with respect to taxes of foreign countries and possessions of the United States);
+   [(23)] (24)  Subchapter G (sections 531 to 565) (with respect to corporations used to avoid income tax on shareholders);
+   [(24)] (25)  Subchapter H (sections 581 to 597) (with respect to banking institutions), except section 584 (with respect to common trust funds).  For treatment, see chapter 241;
+   [(25)] (26)  Section 642(a) and (b) (with respect to special rules for credits and deductions applicable to trusts).  For treatment, see sections 235-54(b) and 235-55;
+   [(26)] (27)  Section 646 (with respect to tax treatment of electing Alaska Native settlement trusts);
+   [(27)] (28)  Section 668 (with respect to interest charge on accumulation distributions from foreign trusts);
+   [(28)] (29)  Subchapter L (sections 801 to 848) (with respect to insurance companies).  For treatment, see sections 431:7-202 and 431:7-204;
+   [(29)] (30)  Section 853 (with respect to foreign tax credit allowed to shareholders).  For treatment, see section 235-55;
+   [(30)] (31)  Section 853A (with respect to credits from tax credit bonds allowed to shareholders);
+   [(31)] (32)  Subchapter N (sections 861 to 999) (with respect to tax based on income from sources within or without the United States), except sections 985 to 989 (with respect to foreign currency transactions).  For treatment, see sections 235-4, 235-5, and 235-7(b), and 235-55;
+   [(32)] (33)  Section 1042(g) (with respect to sales of stock in agricultural refiners and processors to eligible farm cooperatives);
+   [(33)] (34)  Section 1055 (with respect to redeemable ground rents);
+   [(34)] (35)  Section 1057 (with respect to election to treat transfer to foreign trust, etc., as taxable exchange);
+   [(35)] (36)  Sections 1291 to 1298 (with respect to treatment of passive foreign investment companies);
+   [(36)] (37)  Subchapter Q (sections 1311 to 1351) (with respect to readjustment of tax between years and special limitations);
+   [(37)] (38)  Subchapter R (sections 1352 to 1359) (with respect to election to determine corporate tax on certain international shipping activities using per ton rate);
+   [(38)] (39)  Subchapter U (sections 1391 to 1397F) (with respect to designation and treatment of empowerment zones, enterprise communities, and rural development investment areas).  For treatment, see chapter 209E;
+   [(39)] (40)  Subchapter W (sections 1400 to 1400C) (with respect to District of Columbia enterprise zone);
+   [(40)] (41)  Section 1400O (with respect to education tax benefits);
+   [(41)] (42)  Section 1400P (with respect to housing tax benefits);
+   [(42)] (43)  Section 1400R (with respect to employment relief);
+   [(43)] (44)  Section 1400T (with respect to special rules for mortgage revenue bonds);
+   [(44)] (45)  Section 1400U-1 (with respect to allocation of recovery zone bonds);
+   [(45)] (46)  Section 1400U-2 (with respect to recovery zone economic development bonds); and
+   [(46)] (47)  Section 1400U-3 (with respect to recovery zone facility bonds)."
+     SECTION 3.  Section 235-2.4, Hawaii Revised Statutes, is amended to read as follows:
+     "§235-2.4  Operation of certain Internal Revenue Code provisions; sections 63 to 530.  (a)  Section 63 (with respect to taxable income defined) of the Internal Revenue Code shall be operative for the purposes of this chapter, subject to the following:
+     (1)  Sections 63(c)(1)(B) (relating to the additional standard deduction), 63(c)(1)(C) (relating to the real property tax deduction), 63(c)(1)(D) (relating to the disaster loss deduction), 63(c)(1)(E) (relating to the motor vehicle sales tax deduction), 63(c)(4) (relating to inflation adjustments), 63(c)(7) (defining the real property tax deduction), 63(c)(8) (defining the disaster loss deduction), 63(c)(9) (defining the motor vehicle sales tax deduction), and 63(f) (relating to additional amounts for the aged or blind) of the Internal Revenue Code shall not be operative for purposes of this chapter;
+     (2)  Section 63(c)(2) (relating to the basic standard deduction) of the Internal Revenue Code shall be operative, except that the standard deduction amounts provided therein shall instead mean:
+         (A)  $4,400 in the case of:
+              (i)  A joint return as provided by section 235-93; or
+             (ii)  A surviving spouse (as defined in section 2(a) of the Internal Revenue Code);
+         (B)  $3,212 in the case of a head of household (as defined in section 2(b) of the Internal Revenue Code);
+         (C)  $2,200 in the case of an individual who is not married and who is not a surviving spouse or head of household; or
+         (D)  $2,200 in the case of a married individual filing a separate return;
+     (3)  Section 63(c)(5) (limiting the basic standard deduction in the case of certain dependents) of the Internal Revenue Code shall be operative, except that the limitation shall be the greater of $500 or such individual's earned income; and
+     (4)  The standard deduction amount for nonresidents shall be calculated pursuant to section 235-5.
+     (b)  Section 72 (with respect to annuities; certain proceeds of endowment and life insurance contracts) of the Internal Revenue Code shall be operative for purposes of this chapter and be interpreted with due regard to section 235-7(a), except that the ten per cent additional tax on early distributions from retirement plans in section 72(t) shall not be operative for purposes of this chapter.
+     [(c)  Section 85 (with respect to unemployment compensation) of the Internal Revenue Code shall be operative for purposes of this chapter, except that section 85(c) shall not be operative for purposes of this chapter.
+     (d)] (c)  Section 108 (with respect to income from discharge of indebtedness) of the Internal Revenue Code shall be operative for purposes of this chapter, except that section 108(i) (relating to deferral and ratable inclusion of income arising from business indebtedness discharged by the reacquisition of a debt instrument) shall not be operative for purposes of this chapter.
+     [(e)] (d)  Section 121 (with respect to exclusion of gain from sale of principal residence) of the Internal Revenue Code shall be operative for purposes of this chapter, except that for the election under section 121(f), a reference to section 1034 treatment means a reference to section 235-2.4(s) in effect for taxable year 1997.
+     [(f)] (e)  Section 132 (with respect to certain fringe benefits) of the Internal Revenue Code shall be operative for purposes of this chapter, except that the provision in section 132(f)(2) that equalizes the dollar amounts for sections 132(f)(2)(A) and (B) after February 17, 2009, until January 1, 2011, shall not be operative and except that section 132(n) shall not apply to United States Department of Defense Homeowners Assistance Program payments authorized by the American Recovery and Reinvestment Act of 2009.
+     [(g)] (f)  Section 163 (with respect to interest) of the Internal Revenue Code shall be operative for the purposes of this chapter, except that provisions in section 163(d)(4)(B) (defining net investment income to exclude dividends), section 163(e)(5)(F) (suspension of applicable high-yield discount obligation (AHYDO) rules) and section 163(i)(1) as it applies to debt instruments issued after January 1, 2010, (defining AHYDO) shall not be operative for the purposes of this chapter.
+     [(h)] (g)  Section 164 (with respect to taxes) of the Internal Revenue Code shall be operative for the purposes of this chapter, except that sections 164(a)(6) and 164(b)(6) shall not be operative for the purposes of this chapter.
+     [(i)] (h)  Section 165 (with respect to losses) of the Internal Revenue Code shall be operative for purposes of this chapter, except that the amount prescribed by sections 165(h)(1) (relating to the limitation per casualty) of the Internal Revenue Code shall be a $100 limitation per casualty, and sections 165(h)(3)(A) and 165(h)(3)(B) (both of which relate to special rules for personal casualty gains and losses in federally declared disasters) of the Internal Revenue Code shall not be operative for the purposes of this chapter.  Section 165 as operative for this chapter shall also apply to losses sustained from the sale of stocks or other interests issued through the exercise of the stock options or warrants granted by a qualified high technology business as defined in section 235-7.3.
+     [(j)] (i)  Section 168 (with respect to the accelerated cost recovery system) of the Internal Revenue Code shall be operative for purposes of this chapter, except that sections 168(j) (relating to property on Indian reservations), 168(k) (relating to the special allowance for certain property acquired during the period specified therein), 168(m) (relating to the special allowance for certain reuse and recycling property), and 168(n) (relating to the special allowance for qualified disaster assistance property) of the Internal Revenue Code shall not be operative for purposes of this chapter.
+     [(k)] (j)  Section 172 (with respect to net operating loss deductions) of the Internal Revenue Code shall be operative for purposes of this chapter, as further provided in section 235-7(d), except that sections 172(b)(1)(J) and 172(j) (both of which relate to qualified disaster losses) of the Internal Revenue Code shall not be operative for purposes of this chapter.
+     [(l)] (k)  Section 179 (with respect to the election to expense certain depreciable business assets) of the Internal Revenue Code shall be operative for purposes of this chapter, except that provisions relating to:
+     (1)  The increase of the maximum deduction to $100,000 for taxable years beginning after 2002 and before 2008, and the increase of the maximum deduction to $125,000 for taxable years beginning after 2006 and before 2011, in section 179(b)(1);
+     (2)  The increase of the qualifying investment amount to $400,000 for taxable years beginning after 2002 and before 2008, and the increase of the qualifying investment amount to $500,000 for taxable years beginning after 2006 and before 2011, in section 179(b)(2);
+     (3)  The increase of the maximum deduction to $250,000 and the increase of the qualifying investment amount to $800,000 for taxable years beginning in 2008 or 2009, in section 179(b)(7);
+     (4)  Defining section 179 property to include computer software in section 179(d)(1);
+     (5)  Inflation adjustments in section 179(b)(5);
+     (6)  Irrevocable election in section 179(c)(2); and
+     (7)  Special rules for qualified disaster assistance property in section 179(e),
+shall not be operative for the purposes of this chapter.
+     [(m)] (l)  Section 198A (with respect to the expensing of qualified disaster assistances expenses) of the Internal Revenue Code shall not be operative for purposes of this chapter.
+     [(n)] (m)  Section 219 (with respect to retirement savings) of the Internal Revenue Code shall be operative for the purpose of this chapter.  For the purpose of computing the limitation on the deduction for active participants in certain pension plans for state income tax purposes, adjusted gross income as used in section 219 as operative for this chapter means federal adjusted gross income.
+     [(o)] (n)  Section 220 (with respect to medical savings accounts) of the Internal Revenue Code shall be operative for the purpose of this chapter, but only with respect to medical services accounts that have been approved by the Secretary of the Treasury of the United States.
+     [(p)] (o)  Section 265 (with respect to expenses and interest relating to tax-exempt income) of the Internal Revenue Code shall be operative for purposes of this chapter; except that sections 265(b)(3)(G) and 265(b)(7) shall not be operative and that section 265 shall not apply to expenses for royalties and other income derived from any patents, copyrights, and trade secrets by an individual or a qualified high technology business as defined in section 235-7.3.  Such expenses shall be deductible.
+     [(q)] (p)  Section 382 (with respect to limitation on net operating loss carryforwards and certain built-in losses following ownership change) of the Internal Revenue Code shall be operative for the purposes of this chapter, except that section 382(n) shall not be operative for purposes of this chapter.
+     [(r)] (q)  Section 408A (with respect to Roth Individual Retirement Accounts) of the Internal Revenue Code shall be operative for the purposes of this chapter, except that section 408A(d)(3)(A)(iii) shall not be operative for purposes of this chapter.  For the purposes of determining the aggregate amount of contributions to a Roth Individual Retirement Account or qualified rollover contribution to a Roth Individual Retirement Account from an individual retirement plan other than a Roth Individual Retirement Account, adjusted gross income as used in section 408A as operative for this chapter means federal adjusted gross income.
+     [(s)] (r)  In administering the provisions of sections 410 to 417 (with respect to special rules relating to pensions, profit sharing, stock bonus plans, etc.), sections 418 to 418E (with respect to special rules for multiemployer plans), and sections 419 and 419A (with respect to treatment of welfare benefit funds) of the Internal Revenue Code, the department of taxation shall adopt rules under chapter 91 relating to the specific requirements under such sections and to such other administrative requirements under those sections as may be necessary for the efficient administration of sections 410 to 419A.
+     In administering sections 401 to 419A (with respect to deferred compensation) of the Internal Revenue Code, Public Law 93-406, section 1017(i), shall be operative for the purposes of this chapter.
+     In administering section 402 (with respect to the taxability of beneficiary of employees' trust) of the Internal Revenue Code, the tax imposed on lump sum distributions by section 402(e) of the Internal Revenue Code shall be operative for the purposes of this chapter and the tax imposed therein is hereby imposed by this chapter at the rate determined under this chapter.
+     [(t)] (s)  In administering section 403 (with respect to taxation of employee annuities) of the Internal Revenue Code, any funds that represent pre-tax employee deferrals or contributions that are distributed from the annuity and used solely to obtain retirement credits under the state employees' retirement system shall not be treated as a rollover for purposes of section 403(b)(8)(A) of the Internal Revenue Code, and such funds shall be subject to income tax under this chapter.
+     [(u)] (t)  Section 451 (which provides general rules for taxable year of inclusion) of the Internal Revenue Code shall be operative, except that the provisions of sections 451(i)(3) and 451(i)(6), as they relate to a qualified electric utility, shall not be operative for purposes of this chapter.
+     [(v)] (u)  In administering section 457 (with respect to compensation plans of state and local governments and tax-exempt organizations) of the Internal Revenue Code, any funds that represent pre-tax employee deferrals or contributions that are distributed from the deferred compensation plan and used solely to obtain retirement credits under the state employees' retirement system shall not be treated as a rollover for purposes of section 457(e)(16)(A) of the Internal Revenue Code and such funds shall be subject to income tax under this chapter.
+     [(w)] (v)  Section 468B (with respect to special rules for designated settlement funds) of the Internal Revenue Code shall be operative for the purposes of this chapter and the tax imposed therein is hereby imposed by this chapter at a rate equal to the maximum rate in effect for the taxable year imposed on estates and trusts under section 235-51.
+     [(x)] (w)  Section 469 (with respect to passive activities and credits limited) of the Internal Revenue Code shall be operative for the purposes of this chapter.  For the purpose of computing the offset for rental real estate activities for state income tax purposes, adjusted gross income as used in section 469 as operative for this chapter means federal adjusted gross income.
+     [(y)] (x)  Sections 512 to 514 (with respect to taxation of business income of certain exempt organizations) of the Internal Revenue Code shall be operative for the purposes of this chapter as provided in this subsection.
+     "Unrelated business taxable income" means the same as in the Internal Revenue Code, except that in the computation thereof sections 235-3 to 235-5, and 235-7 (except subsection (c)), shall apply, and in the determination of the net operating loss deduction there shall not be taken into account any amount of income or deduction that is excluded in computing the unrelated business taxable income.  Unrelated business taxable income shall not include any income from a prepaid legal service plan.
+     For a person described in section 401 or 501 of the Internal Revenue Code, as modified by section 235-2.3, the tax imposed by section 235-51 or 235-71 shall be imposed upon the person's unrelated business taxable income.
+     [(z)] (y)  Section 521 (with respect to cooperatives) and subchapter T (sections 1381 to 1388, with respect to cooperatives and their patrons) of the Internal Revenue Code shall be operative for the purposes of this chapter as to any cooperative fully meeting the requirements of section 421-23, except that Internal Revenue Code section 521 cooperatives need not be organized in Hawaii.
+     [(aa)] (z)  Sections 527 (with respect to political organizations) and 528 (with respect to certain homeowners associations) of the Internal Revenue Code shall be operative for the purposes of this chapter and the taxes imposed in each section are hereby imposed by this chapter at the rates determined under section 235-71.
+     [(bb)] (aa)  Section 529 (with respect to qualified tuition programs) shall be operative for the purposes of this chapter, except that sections 529(c)(6) and 529(e)(3)(A)(iii) shall not be operative.
+     [(cc)] (bb)  Section 530 (with respect to education individual retirement accounts) of the Internal Revenue Code shall be operative for the purposes of this chapter.  For the purpose of determining the maximum amount that a contributor could make to an education individual retirement account for state income tax purposes, modified adjusted gross income as used in section 530 as operative for this chapter means federal modified adjusted gross income as defined in section 530."
+     SECTION 4.  Section 383-163.6, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§383-163.6[]]  Voluntary deduction and withholding of federal and other state or local income taxes.  (a)  An individual filing a new claim for unemployment compensation shall, at the time of filing the claim, be advised that:
+     (1)  Unemployment compensation is subject to federal [and state] income tax[;] and may be subject to another state's or locality's income tax;
+     (2)  Requirements exist pertaining to estimated tax payments;
+     (3)  The individual may elect to have federal income tax deducted and withheld from the individual's payment of unemployment compensation at the amount specified in the federal Internal Revenue Code;
+    [(4)  The individual may elect to have state income tax deducted and withheld from the individual's payment of unemployment compensation at the amount specified in section 235-69;
+     (5)] (4)  The individual may elect to have state and local income taxes deducted and withheld from the individual's payment of unemployment compensation for other states and localities outside this State at the percentage established by the state or locality, if the department by agreement with the other state or locality is authorized to deduct and withhold income tax; and
+    [(6)] (5)  The individual shall be permitted to change a previously elected withholding status no more than once during a benefit year.
+     (b)  Amounts deducted and withheld from unemployment compensation shall remain in the unemployment compensation fund until transferred to the federal[,] tax authority or the tax authority of another state[,] or [local taxing authority] locality as a payment of income tax.
+     (c)  The director shall follow all procedures specified by the United States Department of Labor[,] and the [federal] Internal Revenue Service[, and the state department of taxation,] pertaining to the deducting and withholding of income tax.
+     (d)  Amounts shall be deducted and withheld under this section only after any other amounts allowed under chapter 383 are deducted and withheld."
+     SECTION 5.  Section 235-69, Hawaii Revised Statutes, is repealed.
+     ["[§235-69]  Voluntary deduction and withholding of state income tax from unemployment compensation.  An individual receiving unemployment compensation benefits under chapter 383 may elect to have state income tax deducted and withheld from the individual's payment of unemployment compensation at the rate of five per cent in accordance with section 383-163.6."]
+     SECTION 6.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 7.  This Act, upon its approval, shall apply to taxable years beginning after December 31, 2010, and shall be repealed on December 31, 2015; provided that sections 235-2.3(b), 235-2.4, 235-69, and 383-163.6, Hawaii Revised Statutes, shall be reenacted on January 1, 2016, in the form in which they existed on the date before the effective date of this Act.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Unemployment Compensation; Income Tax Exemption
+ 
+Description:
+Temporarily exempts unemployment compensation from the Hawaii income tax.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

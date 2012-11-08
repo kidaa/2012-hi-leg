@@ -1,0 +1,57 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1337
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO INFORMATION PRIVACY.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Identity theft affects millions of Americans and costs more than $54 billion each year.  The legislature finds that unauthorized disclosures of personal information are a leading source of identity theft.  To mitigate the effects of these security breaches, the legislature passed Act 135, Session Laws of Hawaii 2006, which requires consumers and businesses to be notified when a security breach occurs.  However, Act 135 required only limited information in the notice of a security breach and did not provide for any consumer or small business remedies.
+     The purpose of this Act is to require that victims of a security breach receive more specific information about the breach and how to respond to it.  This Act also establishes a private cause of action for consumers and businesses that are victims of security breaches to pursue statutory or actual damages, whichever is greater, and includes as an element of damages the cost of services to mitigate future damages, such as credit monitoring and identity theft insurance.
+     SECTION 2.  Section 487N-1, Hawaii Revised Statutes, is amended by adding a new definition to be appropriately inserted and to read as follows:
+     ""Identity theft" means the unauthorized use of another person's identifying information to obtain credit, goods, services, money, or property, or to commit an unlawful act."
+     SECTION 3.  Section 487N-1, Hawaii Revised Statutes, is amended by amending the definition of "security breach" to read as follows:
+     ""Security breach" means an incident of unauthorized [access to and acquisition] disclosure of unencrypted or unredacted records or data containing personal information [where illegal use of the personal information has occurred, or is reasonably likely to occur and that creates a risk of harm to a person].  Any incident of unauthorized [access to and acquisition] disclosure of encrypted records or data containing personal information along with the confidential process or key constitutes a security breach.  Good faith acquisition of personal information by an employee or agent of the business for a legitimate purpose is not a security breach; provided that the personal information is not used for a purpose other than a lawful purpose of the business and is not subject to further unauthorized disclosure."
+     SECTION 4.  Section 487N-2, Hawaii Revised Statutes, is amended by amending subsection (d) to read as follows:
+     "(d)  The notice shall be clear and conspicuous.  The notice shall include a description of the following:
+     (1)  The incident [in general terms;], including the distribution medium and method of the security breach, and the duration of time the information was exposed;
+     (2)  The type of personal information that was subject to the unauthorized access and acquisition;
+     (3)  The types of fraudulent activities that could result pursuant to a breach of that nature, and any remedial actions that the individual can take;
+     (4)  A statement of the individual's legal rights pursuant to the breach, and the legal responsibilities of the business or government, if any;
+    [(3)] (5)  The general acts of the business or government agency to protect the personal information from further unauthorized access;
+    [(4)] (6)  A telephone number that the person may call for further information and assistance, if one exists; and
+    [(5)] (7)  Advice that directs the person to remain vigilant by reviewing account statements and monitoring free credit reports."
+     SECTION 5.  Section 487N-3, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  In addition to any penalty provided for in subsection (a), [any business that violates any provision of this chapter shall be liable to the injured party in an amount equal to the sum of any actual damages sustained by the injured party as a result of the violation.  The court in any action brought under this section may award reasonable attorneys' fees to the prevailing party.] any person who is affected by a security breach that creates a risk of harm of identity theft may sue for damages sustained by the person.  If a judgment is obtained by the plaintiff, the court shall award the plaintiff a sum of not less than $        or threefold damages sustained by the plaintiff, whichever sum is greater, and reasonable attorney's fees and costs.  Damages sustained by the person shall include actions taken to mitigate injury from future identity theft, including actual or future purchase of credit report monitoring and identity theft insurance.  No such action may be brought against a government agency."
+     SECTION 6.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 7.  This Act, upon its approval, shall apply retroactively to July 1, 2009.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Identity Theft; Cause of Action
+ 
+Description:
+Provides a private cause of action for a victim who, as a result of an information security breach, suffers a risk of harm from identity theft.  Amends the type of notice that must be given to a person affected by a security breach.  Defines identity theft.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

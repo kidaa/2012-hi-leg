@@ -1,0 +1,149 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1638
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PUBLIC BENEFIT CORPORATIONS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The Hawaii Revised Statutes is amended by adding a new chapter to be appropriately designated and to read as follows:
+"CHAPTER
+PUBLIC BENEFIT CORPORATIONS
+     §   ‑1  Purpose and findings.  This chapter authorizes the organization of a form of business corporation that offers entrepreneurs and investors the option to build and invest in businesses that operate in a socially and environmentally responsible manner.  Enforcement of those responsibilities comes not from governmental oversight, but rather from new provisions on transparency and accountability included in this chapter.
+     §   ‑2  Definitions.  As used in this chapter:
+     "Benefit director" means the director designated as the benefit director of a public benefit corporation under section    ‑8.
+     "Benefit enforcement proceeding" means a claim or action brought directly by a public benefit corporation, or derivatively on behalf of a public benefit corporation, against a director or officer for:
+     (1)  Failure to pursue the general public benefit purpose of the public benefit corporation or any specific public benefit purpose set forth in its articles; or
+     (2)  Violation of a duty or standard of conduct under this chapter.
+     "Benefit officer" means the individual designated as the benefit officer of a public benefit corporation under section    ‑10.
+     "General public benefit" means a material positive impact on society and the environment, taken as a whole and as measured by a third-party standard, from the business and operations of a public benefit corporation.
+     "Independent" means that a person has no material relationship with a public benefit corporation or any of its subsidiaries.  Serving as a benefit director or benefit officer shall not deem a person independent.  A material relationship between a person and a public benefit corporation or any of its subsidiaries shall be conclusively presumed to exist if any of the following apply:
+     (1)  The person is, or has been within the last three years, an employee of the public benefit corporation or any of its subsidiaries, other than as a benefit officer;
+     (2)  An immediate family member of the person is, or has been within the last three years, an executive officer of the public benefit corporation or any of its subsidiaries, other than as a benefit officer; or
+     (3)  There is a beneficial or record ownership of five per cent or more of the outstanding shares of the public benefit corporation by:
+         (A)  The person; or
+         (B)  An association:
+              (i)  Of which the person is a director, an officer, or a manager; or
+             (ii)  In which the person owns beneficially or of record five per cent or more of the outstanding equity interests.
+A percentage of ownership in an association shall be calculated as if all outstanding rights to acquire equity interests in the association had been exercised.
+     "Minimum status vote" means that in addition to any other approval or vote required by this chapter or a bylaw adopted by the shareholders:
+     (1)  The holders of shares of every class or series shall be entitled to vote on the corporate action regardless of any limitation stated in the articles of incorporation or bylaws on the voting rights of any class or series; and
+     (2)  The corporate action must be approved by vote of the shareholders of each class or series entitled to cast at least two-thirds of the votes that all shareholders of the class or series are entitled to cast thereon.
+     "Public benefit corporation" means a domestic corporation, as defined in section 414-3, that has elected to become subject to this chapter and whose status as a public benefit corporation has not been terminated as provided in this chapter.
+     "Specific public benefit" includes:
+     (1)  Providing low-income or underserved individuals or communities with beneficial products or services;
+     (2)  Promoting economic opportunity for individuals or communities beyond the creation of jobs in the normal course of business;
+     (3)  Preserving the environment;
+     (4)  Improving human health;
+     (5)  Promoting the arts, sciences, or advancement of knowledge;
+     (6)  Increasing the flow of capital to entities with a public benefit purpose; and
+     (7)  The accomplishment of any other particular benefit for society or the environment.
+     "Subsidiary" of a person means an association in which the person owns beneficially or of record fifty per cent or more of the outstanding equity interests.  A percentage of ownership in an association shall be calculated as if all outstanding rights to acquire equity interests in the association had been exercised.
+     "Third-party standard" means a standard for defining, reporting, and assessing overall corporate social and environmental performance that is:
+     (1)  Comprehensive in that it assesses the effect of the business and its operations upon the interest listed in section    ‑7(a);
+     (2)  Developed by an organization that is independent of the public benefit corporation;
+     (3)  Credible because the standard is developed by an organization that:
+         (A)  Has access to necessary expertise to assess overall corporate social and environmental performance; and
+         (B)  Uses a balanced multi-stakeholder approach including a public comment period of at least thirty days to develop the standard; and
+     (4)  Transparent because the following information is publicly available:
+         (A)  The criteria considered when measuring the overall social and environmental performance of a business, as well as the relative weightings of those criteria;
+         (B)  The identity of the directors, officers, any material owners, and the governing body of the organization that developed and controls revisions to the standard;
+         (C)  The process by which revisions to the standard are made;
+         (D)  The process by which changes to the membership of the governing body of the organization that developed and controls revisions to the standard are made; and
+         (E)  An accounting of the sources of financial support for the organization that developed and controls revisions to the standard, with sufficient detail to disclose any relationships that could reasonably be considered to present a potential conflict of interest.
+     §   ‑3  Formation of public benefit corporations.  A public benefit corporation shall be formed in accordance with the domestic corporation organizational requirements of chapter 414, except that its articles shall also state that it is a public benefit corporation.
+     §   ‑4  Election of an existing domestic corporation to become a public benefit corporation.  (a)  An existing domestic corporation may become a public benefit corporation under this chapter by amending its articles so that they contain, in addition to the requirements of chapter 414, part XI, a statement that the corporation is a public benefit corporation.  The amendment shall not be effective unless it is adopted by at least the minimum status vote.
+     (b)  If a corporation that is not a public benefit corporation is a party to a merger, consolidation, or division, or is the exchanging corporation in a share exchange and the surviving, new, or any resulting corporation in the merger, consolidation, division, or share exchange is to be a public benefit corporation, then the plan of merger, consolidation, division, or share exchange shall not be effective unless it is adopted by the corporation by at least the minimum status vote.
+     §   ‑5  Termination of public benefit corporation status.  (a)  A public benefit corporation may terminate its status as such and cease to be subject to this chapter by amending its articles to delete the statement that the corporation is a public benefit corporation, as required by section   -3.  The amendment shall not be effective unless it is adopted by at least the minimum status vote.
+     (b)  If a plan of merger, consolidation, division, or share exchange would have the effect of terminating the status of a business corporation as a public benefit corporation, the plan shall not be effective unless it is adopted by at least the minimum status vote.
+     §   ‑6  Corporate purposes.  (a)  Every public benefit corporation shall have the purpose of creating a general public benefit.  This purpose is in addition to its purpose as specified pursuant to section 414-41.
+     (b)  In addition to its purpose under section 414-41 and subsection (a), the articles of a public benefit corporation may identify one or more specific public benefits for which the public benefit corporation was created.  The identification of a specific public benefit under this subsection does not limit the obligation of a public benefit corporation to create a general public benefit.
+     (c)  The creation of general and specific public benefits as provided in subsections (a) and (b) of this section shall be in the best interests of the public benefit corporation.
+     (d)  A public benefit corporation may amend its articles to add, amend, or delete the identification of a specific public benefit for which the public benefit corporation was created.  The amendment shall not be effective unless it is adopted by at least the minimum status vote.
+     §   ‑7  Standard of conduct for directors.  (a)  In discharging the duties of their respective positions, the board of directors, committees of the board, and individual directors of a public benefit corporation, in considering the best interests of the public benefit corporation:
+     (1)  Shall consider the effects of any action upon:
+         (A)  The shareholders of the public benefit corporation;
+         (B)  The employees and workforce of the public benefit corporation and its subsidiaries and suppliers;
+         (C)  The interests of customers as beneficiaries of the general or specific public benefit purposes of the public benefit corporation;
+         (D)  Community and societal considerations, including those of any community in which offices or facilities of the public benefit corporation or its subsidiaries or suppliers are located;
+         (E)  The local and global environment;
+         (F)  The short-term and long-term interests of the public benefit corporation, including benefits that may accrue to the public benefit corporation from its long-term plans and the possibility that these interests may be best served by the continued independence of the public benefit corporation; and
+         (G)  The ability of the public benefit corporation to accomplish its general public benefit purpose and any specific public benefit purpose;
+     (2)  May consider:
+         (A)  The resources, intent, and conduct of any person seeking to acquire control of the corporation; and
+         (B)  Any other pertinent factors or the interests of any other group that they deem appropriate; and
+     (3)  Shall not be required to give priority to the interests of any particular person or group referred to in paragraphs (1) or (2) over the interests of any other person or group unless the public benefit corporation has stated its intention to give priority to interests related to a specific public benefit purpose identified in its articles.
+     (b)  The consideration of interests and factors in the manner required by subsection (a) shall not constitute a violation of a director's fiduciary duties.
+     (c)  A director shall not be personally liable for monetary damages for any action taken as a director if the director performed the duties of the director's office in compliance with the general standards of conduct pursuant to section 414-221 and this section or for failure of the public benefit corporation to create a general public benefit or a specific public benefit.
+     (d)  A director shall not have a fiduciary duty to a person that is a beneficiary of the general or specific public benefit purposes of a public benefit corporation arising from the status of the person as a beneficiary.
+     §   ‑8  Benefit director.  (a)  The board of directors of a public benefit corporation shall include one director who shall be designated the "benefit director" and shall have, in addition to all of the powers, duties, rights, and immunities of the other directors of the public benefit corporation, the powers, duties, rights, and immunities provided in this section.
+     (b)  The benefit director shall be elected and may be removed in the manner provided by sections 414-198 and 414‑199, and shall be an individual who is independent.  The benefit director may serve concurrently as the benefit officer.  The articles or bylaws of a public benefit corporation may prescribe additional qualifications of the benefit director, provided that the qualifications are consistent with this subsection.
+     (c)  The benefit director shall prepare, and the public benefit corporation shall include in the annual benefit report to shareholders required by this chapter, a statement whether, in the opinion of the benefit director, the public benefit corporation acted in accordance with its general, and any specific, public benefit purpose in all material respects during the period covered by the report and whether the directors and officers complied with sections    ‑7(a) and    ‑9(a), respectively.  If in the opinion of the benefit director the public benefit corporation or its directors or officers failed to act accordingly, then the statement of the benefit director shall include a description of the ways in which the public benefit corporation or its directors or officers failed to act accordingly.
+     (d)  For all purposes, the acts of an individual in the capacity of a benefit director shall constitute acts of that individual in the capacity of a director of the public benefit corporation.
+     (e)  If the bylaws of a public benefit corporation provide that the powers and duties conferred or imposed upon the board of directors shall be exercised or performed by a person or persons other than the directors or if the bylaws of a statutory close corporation that is a public benefit corporation provide that the business and affairs of the corporation shall be managed by or under the direction of the shareholders, then the bylaws of the public benefit corporation shall provide that the person, persons, or shareholders who perform the duties of the board of directors shall include a person with the powers, duties, rights, and immunities of a benefit director.
+     (f)  Regardless of whether the bylaws of a public benefit corporation include a provision eliminating or limiting the personal liability of directors, a benefit director shall not be personally liable for any act or omission committed in the capacity of a benefit director unless the act or omission constitutes self-dealing, wilful misconduct, or a knowing violation of law.
+     §   ‑9  Standard of conduct for officers.  (a)  Each officer of a public benefit corporation shall consider the interests and factors described in section    -7(a) in the manner provided in that section when:
+     (1)  The officer has discretion to act with respect to a matter; and
+     (2)  It reasonably appears to the officer that the matter may have a material effect on:
+         (A)  The creation of general or specific public benefit by the public benefit corporation; or
+         (B)  Any of the interests or factors referred to in section    -7(a).
+     (b)  The consideration of interests and factors pursuant to subsection (a) shall not constitute a violation of the officer's fiduciary duties.
+     (c)  An officer shall not be personally liable for monetary damages for any action taken as an officer if the officer performed the duties of the position in compliance with the general standards of conduct pursuant to section 414-233 and this section or for failure of the public benefit corporation to create a general or specific public benefit.
+     (d)  An officer shall not have a fiduciary duty to a person that is a beneficiary of the general or specific public benefit purposes of a public benefit corporation arising from the status of the person as a beneficiary.
+     §   ‑10  Benefit officer.  A public benefit corporation may have an officer designated the "benefit officer" who shall have the authority and shall perform the duties in the management of the public benefit corporation relating to the purpose of the corporation to create general or specific public benefit as may be provided by or pursuant to the bylaws or, in the absence of controlling provisions in the bylaws, as may be determined by or pursuant to resolutions or orders of the board of directors.  If a public benefit corporation has a benefit officer, the duties of the benefit officer shall include preparing the benefit report required by section    -12.
+     §   ‑11  Right of action.  (a)  Except as provided in sections    -12(e) and    -12(f), the duties of directors and officers under this chapter, and the general and any specific public benefit purpose of a public benefit corporation, shall be enforced only in a benefit enforcement proceeding.  Except as provided in section    -12(e) and    -12(f), no person may bring an action or assert a claim against a public benefit corporation or its directors or officers with respect to the duties of directors and officers under this chapter and the general and any specific public benefit purpose of the public benefit corporation, except in a benefit enforcement proceeding.
+     (b)  A benefit enforcement proceeding may be commenced or maintained only:
+     (1)  Directly by the public benefit corporation; or
+     (2)  Derivatively by:
+         (A)  A shareholder;
+         (B)  A director;
+         (C)  A person or group of persons that owns beneficially or of record five per cent or more of the equity interests in an association of which the public benefit corporation is a subsidiary; or
+         (D)  Any other persons as may be specified in the articles or bylaws of the public benefit corporation.
+     §   ‑12  Annual benefit report.  (a)  A public benefit corporation shall deliver to each shareholder an annual benefit report including:
+     (1)  A narrative description of:
+         (A)  The ways in which the public benefit corporation pursued general public benefits during the year and the extent to which general public benefit was created;
+         (B)  The ways in which the public benefit corporation pursued any specific public benefit that the articles state as a purpose of the public benefit corporation and the extent to which that specific public benefit was created; and
+         (C)  Any circumstances that have hindered the creation by the public benefit corporation of general or specific public benefits;
+     (2)  An assessment of the overall social and environmental performance of the public benefit corporation, prepared in accordance with a third-party standard applied consistently with any application of that standard in prior benefit reports or accompanied by an explanation of the reasons for any inconsistent application;
+     (3)  The name of the benefit director and the benefit officer, if any, and the address to which correspondence to each of them may be directed;
+     (4)  The compensation paid by the public benefit corporation during the year to each director in that capacity;
+     (5)  The name of each person that owns five per cent or more of the outstanding shares of the public benefit corporation either beneficially, to the extent known to the public benefit corporation without independent investigation, or of record;
+     (6)  The statement of the benefit director described in section    -8(c); and
+     (7)  A statement of any connection to the third party standard, or its directors, officers, or material owners from the public benefit corporation, or its directors, officers, and material owners, including any financial or governance relationship that might materially affect the credibility of the objective assessment of the third party standard.
+     (b)  The benefit report shall be sent annually to each shareholder within one hundred twenty days following the end of the fiscal year of the public benefit corporation.
+     (c)  A public benefit corporation shall post its most recent benefit report on the public portion of its website, if any, except that the compensation paid to directors and any financial or proprietary information included in the benefit report may be omitted from the benefit report as posted.
+     (d)  Concurrently with the delivery of the benefit report to shareholders pursuant to subsection (b), the public benefit corporation shall deliver a copy of the benefit report to the department of commerce and consumer affairs for filing, except that the compensation paid to directors and any financial or proprietary information included in the benefit report may be omitted from the benefit report as filed under this section.  The department of commerce and consumer affairs shall charge a fee of $70 for filing a benefit report.
+     (e)  In addition to the penalties set forth in section 414‑473, each public benefit corporation that fails or refuses to file its benefit report for any year shall be subject to a forfeiture of an amount to be determined by the director of commerce and consumer affairs not to exceed $100 for every violation, neglect, or failure, to be recovered by action brought in the name of the State by the director.  A continuance of a failure to file the required report shall be a separate offense for each thirty days of the continuance.  The director of commerce and consumer affairs, for good cause shown, may reduce or waive the penalty imposed by this section.
+     (f)  In addition to the grounds for administrative dissolution set forth in section 414-401, the director of commerce and consumer affairs may commence a proceeding under section 414-402 to administratively dissolve a public benefit corporation if the public benefit corporation fails to file its annual benefit report for a period of two years."
+
+     SECTION 2.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Public Benefit Corporations; Organization
+ 
+Description:
+Establishes an organizational and regulatory framework for public benefit corporations.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

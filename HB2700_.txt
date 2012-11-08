@@ -1,0 +1,99 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2700
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CAMPAIGN SPENDING.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Act 244, Session Laws of Hawaii 2008, is amended by adding a new section to be appropriately designated and to read as follows:
+     "SECTION 7A.  Matching payments for qualified small dollar contributions.  (a)  Notwithstanding any other law or provision to the contrary, the commission shall pay to each participating candidate an amount equal to four hundred per cent of the amount of qualified small dollar contributions received by the candidate from individuals who are registered voters who, at the time the contribution is given, reside in the district in which the participating candidate is seeking nomination or election.
+     (b)  The maximum payment under this section shall be two hundred per cent of the base amount of public funding for a primary election or general election, as applicable, as determined pursuant to section 12.
+     (c)  The commission shall make payments under this section not later than five business days after the receipt of a report filed pursuant to subsection (d).
+     (d)  Each participating candidate shall file a report of receipts of qualified small dollar contributions no more frequently than:
+     (1)  Once every week during the period from sixty days before the primary election until the twenty one days before the primary election; and
+     (2)  Once every other day during the period from twenty one days before the primary election until one day before the general election."
+     SECTION 2.  Act 244, Session Laws of Hawaii 2008, section 2 is amended as follows:
+     1.  By adding a new definition to read:
+     ""Qualified small dollar contribution" means any contribution to a comprehensive publicly funded candidate that:
+     (1)  Is not a qualifying contribution;
+     (2)  Is received by the candidate during the period from sixty days before the primary election until one day before the general election; and
+     (3)  The aggregate amount of which does not exceed $20."
+
+      2.  By amending the definition of "qualifying period" to read:
+     ""Qualifying period" means the period [in a general election year,] beginning [January 1] November 15 of the year prior to the general election and ending on the deadline for filing candidate nomination papers for the general election during which a candidate may collect qualifying contributions to qualify for comprehensive public funding under this part; provided the commission has determined that the Hawaii election campaign fund has sufficient funds to make payments to comprehensive publicly funded candidates during the election period."
+     3.  By repealing the definition of "equalizing funds".
+     [""Equalizing funds" means additional public funds released by the commission to a comprehensive publicly funded candidate to allow the publicly funded candidate to stay financially competitive with a nonparticipating candidate in a contested election and to penalize a nonparticipating candidate for filing false or late reports."]
+     SECTION 3.  Act 244, Session Laws of Hawaii 2008, section 4, is amended by amending subsection (a) to read as follows:
+     "(a)  A candidate may seek comprehensive public funding for the primary election campaign period if the candidate:
+     (1)  Resides in the district from which election is sought as of the date of the filing of nomination papers for the primary election in the general election year in which the candidate seeks to be nominated or elected;
+     (2)  Is a registered voter in the district from which election is sought;
+     (3)  Files a declaration of intent to seek comprehensive public funding with the commission between [January 1 of] November 15 of the year prior to the election year and thirty days before the closing date to file nomination papers to run for the office for which the candidate intends to seek election;
+     (4)  Collects a $5 qualifying contribution in accordance with section 7;
+     (5)  Accepts only the following contributions prior to applying for certification as a comprehensive publicly funded candidate:
+         (A)  Seed money contributions until the candidate files a declaration of intent to seek comprehensive public funding; and
+         (B)  Qualifying contributions that may be accepted only after filing the declaration of intent to seek comprehensive public funding; and
+     (6)  Files an application for certification for comprehensive public funding with the commission."
+     SECTION 4.  Act 244, Session Laws of Hawaii 2008, section 7, is amended by amending subsection (b) to read as follows:
+     "(b)  No candidate shall collect a qualifying contribution [shall be collected] prior to [a candidate] filing a declaration of intent to seek comprehensive public funding with the commission[.] or later than sixty days prior to the primary election."
+     SECTION 5.  Act 244, Session Laws of Hawaii 2008, section 12, is amended as follows:
+     1.  By amending subsections (a) and (b) to read:
+     "(a)  The commission shall not distribute comprehensive public funding [to certified candidates] that exceeds the total amount of [$300,000] $350,000 for all candidates subject to this part in any given election year in which this part is operative.
+     (b)  Beginning January 1 of a general election year and ending with the deadline to submit applications for certification, the commission shall post on its website a monthly report stating, by district:
+     (1)  The number of declarations of intent to seek comprehensive public funding received;
+     (2)  The number of applications for certification received;
+     (3)  The number of candidates who have been certified for comprehensive public funding;
+     (4)  The amount of public funding committed to certified candidates; and
+     (5)  The amount of public funding available for additional certified candidates.
+     Notwithstanding any other provisions [in] of this part, if the commission determines that [the] revenues are insufficient to meet distributions to certified candidates under this section or if [$300,000] $350,000 is distributed[,] in a single election year, the commission shall permit certified candidates to accept and spend contributions, subject to the campaign contribution limitations set forth in section 11-204, Hawaii Revised Statutes, up to the applicable amounts, including [equalizing funds] matching payments for qualified small dollar contributions the certified candidate would have received from comprehensive public funding."
+     2.  By amending subsection (d) to read:
+     "(d) For general elections subject to this part, the base amount of public funding shall be the average of the amount spent by the winning candidates in the previous two county council general elections of the same district[,] when a general election was actually held, reduced by ten per cent."
+     3.  By amending subsection (f) to read:
+     "(f)  Public funds, including [equalizing funds,] matching payments for qualified small dollar contributions, shall be paid to a certified candidate by the comptroller in the manner prescribed in section 11-222, Hawaii Revised Statutes."
+     SECTION 6.  Act 244, Session Laws of Hawaii 2008, is amended by repealing section 3.
+     ["SECTION 3.  Sufficiency of funding for comprehensive public funding.  On September 1 of each odd-numbered year before the general election years of 2010, 2012, and 2014, the commission shall determine whether there is a minimum of $3,500,000 in the Hawaii election campaign fund established under section 11-217, Hawaii Revised Statutes, to certify participating candidates during the next election and provide funding for comprehensive public funding for elections under this part.
+     If the commission determines that there is sufficient funding, then within five business days, the commission shall publish notice statewide, pursuant to section 1-28.5, Hawaii Revised Statutes, that the comprehensive public funding program shall become effective on January 1 of the following year.  If there is insufficient funding, then this part shall be inoperative.
+     If this part is inoperative, candidates may seek public funding as provided under subpart B of part XII of chapter 11, Hawaii Revised Statutes."]
+     SECTION 7.  Act 244, Session Laws of Hawaii 2008, is amended by repealing section 13.
+     ["SECTION 13.  Equalizing funds; sufficiency of funds.  (a)  Equalizing funds, subject to the expenditure cap in section 12(a), shall be disbursed in the amounts provided in this section to a certified candidate in a contested election whenever that candidate is outspent by an opposing nonparticipating candidate.
+     (b)  An opposing nonparticipating candidate is deemed to have outspent a certified candidate when the campaign report filed pursuant to this subpart shows that the nonparticipating candidate's committee's expenditures or contributions, whichever is greater, added to any independent expenditures made in support of that nonparticipating candidate or against the opposing certified candidate reported by any person, minus any independent expenditures made in support of the certified candidate or against the nonparticipating candidate reported by any person exceeds one hundred per cent of the base amount for the certified candidate.
+     (c)  In a contested election, the aggregate amount of equalizing funds shall be limited to an amount equal to the base amount allotted to the certified candidate regardless of the amount of contributions received or expenditures made by an opposing nonparticipating candidate; independent expenditures made in support of that nonparticipating candidate or against the opposing certified candidate; or the failure to file an excess report on or before the due date by the nonparticipating candidate or filing of a false excess report.
+     Twenty-five per cent of the base amount shall be paid to the certified participating candidate in the manner prescribed in section 11-222, Hawaii Revised Statutes, if the commission determines that the nonparticipating candidate's committee's expenditures or contributions, whichever is greater, added to any independent expenditures made in support of that nonparticipating candidate or against the opposing certified candidate reported by any person, minus any independent expenditures made in support of the certified candidate or against the nonparticipating candidate reported by any person:
+     (1)  Exceeds one hundred per cent but is less than one hundred twenty five per cent;
+     (2)  Is equal to or exceeds one hundred twenty give per cent but is less than one hundred fifty per cent;
+     (3)  Is equal to or exceeds one hundred fifty per cent but is less than one hundred seventy give per cent; or
+     (4)  Is equal to or exceeds one hundred seventy five per cent
+of the certified candidate's base amount."]
+     SECTION 8.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 9.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Campaign Spending; Hawaii County Council Public Funding Pilot Program
+ 
+ 
+Description:
+Amends public funding pilot project for county of Hawaii county council elections to raise the program cap, repeal the requirement of a minimum fund amount, extend the period for signature collection, clarify provision of matching funds, and to clarify that the formula to determine the amount of funds given to a publicly funded candidate is based on the prior two general elections actually held for the county council seat in that district.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

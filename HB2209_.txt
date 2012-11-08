@@ -1,0 +1,72 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2209
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO UNAUTHORIZED COMPUTER ACCESS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 708-895.5, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§708-895.5[]]  Unauthorized computer access in the first degree.  (1)  A person commits the offense of unauthorized computer access in the first degree if the person knowingly accesses a computer, computer system, or computer network without authorization and thereby obtains information, and:
+    (a)   The offense was committed for the purpose of commercial or private financial gain;
+    (b)   The offense was committed in furtherance of any other crime;
+    (c)   The value of the information obtained exceeds [$5,000;] $20,000; or
+    (d)   The information has been determined by statute or rule of court to require protection against unauthorized disclosure.
+     (2)  Unauthorized computer access in the first degree is a class [B] A felony."
+     SECTION 2.  Section 708-895.6, Hawaii Revised Statutes, is amended by amending subsection (2) to read as follows:
+     "(2)  Unauthorized computer access in the second degree is a class [C] B felony."
+     SECTION 3.  Section 708-895.7, Hawaii Revised Statutes, is amended by amending subsection (2) to read as follows:
+     "(2)  Unauthorized computer access in the third degree is a [misdemeanor.] class C felony."
+     SECTION 4.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+
+ 
+Report Title:
+Unauthorized Computer Access; Penalties
+ 
+ 
+Description:
+Increases the penalties for unauthorized computer access in the first, second, and third degrees to class A, B, and C felonies, respectively; raises the minimum monetary value to $20,000 when unauthorized computer access in the first degree is based on monetary value of the information obtained.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

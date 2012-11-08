@@ -1,0 +1,81 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+791
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO BIOFUELS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that Hawaii depends upon imported fuel to meet over eighty-five per cent of its electricity generation needs and one hundred per cent of its transportation fuel requirements.  Hawaii used to produce more than thirty per cent of its electricity from direct combustion of biomass in the form of sugarcane bagasse, the primary co-product of commercial sugar producers.  Because the sugarcane industry has been affected by lower-cost competition from foreign sugar producers, the acreage used for sugarcane production in Hawaii has declined dramatically.  This has hurt Hawaii's ability to generate electricity from renewable sources.  The Hawaii sugarcane industry once employed over twenty-two thousand workers, including one thousand six hundred workers on the island of Oahu.  Building agriculturally-based biofuel refineries in Hawaii has the potential to reinvigorate Hawaii's struggling agriculture industry while also helping to meet the renewable energy goals of Hawaii's clean energy initiative.  This initiative aims to reduce Hawaii's reliance on petroleum by forty per cent by the end of year 2030.
+     The legislature finds that a relatively small investment by the State in biofuel production projects will result in larger private sector investments in those biofuel projects.  For example, if a fifteen per cent tax credit were authorized for a $200,000,000 biofuel plant in Hawaii, the State would incur a liability of $30,000,000 for that tax credit, but the private sector will have invested $170,000,000 in the project.  This equates to a seven-to-one increase in local economic activity that will generate tax revenue for the State.
+     The legislature finds that the construction of biofuel production facilities is an investment in Hawaii's workforce that will pay dividends with the training, employment, and development of skilled local workers.  Eleven jobs are created for every $1,000,000 spent on construction in the State.  In addition, the development of biofuel production facilities will create numerous jobs in biofeedstock agriculture and related industries for the life of a plant, which is twenty to thirty years.  In addition, jobs will be created for the workers who will operate and maintain the biofuel production facilities.
+     Finally, the legislature finds that it is desirable to provide incentives to encourage the development and construction of biofuel production facilities because these facilities will:
+     (1)  Attract investments in Hawaii's economy that will be spread across many communities and businesses;
+     (2)  Create jobs in agriculture, construction, and biofuel refinery operations; and
+     (3)  Assist the State to become energy self-sufficient, reduce imports of foreign oil, and improve energy security.
+     The purpose of this Act to encourage the development and construction of biofuel production facilities in Hawaii by creating an income tax credit for investments in the construction and development of biofuel production facilities in the State.
+     SECTION 2.  Chapter 235, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§235‑    Biofuel production facility income tax credit.  (a)  There shall be allowed to each taxpayer subject to the taxes imposed by this chapter, a biofuel production facility income tax credit that shall be deducted from the taxpayer's net income tax liability, if any, imposed by this chapter for the taxable year in which the credit is properly claimed.  The amount of the credit shall be fifteen per cent of the qualified development and construction costs of a biofuel production facility.
+     In the case of a partnership, S corporation, estate, or trust, the tax credit allowable shall be for qualified production costs incurred by the entity for the taxable year.  The cost upon which the tax credit is computed shall be determined at the entity level.  Distribution and share of the tax credit shall be determined by rule adopted by the director of taxation.
+     If a deduction is taken under section 179 (with respect to election to expense depreciable business assets) of the Internal Revenue Code, no tax credit shall be allowed for those costs for which the deduction is taken.
+     The basis for eligible property for depreciation of accelerated cost recovery system purposes for state income taxes shall be reduced by the amount of credit allowable and claimed.
+     (b)  The credit allowed under this section shall be claimed against the net income tax liability for the taxable year.  For purposes of this section, "net income tax liability" means net income tax liability reduced by all other credits allowed under this chapter.
+     (c)  No taxpayer that claims the credit under this section shall claim any other tax credit under this chapter for the same taxable year.
+     (d)  If the tax credit under this section exceeds the taxpayer's income tax liability, the excess of credits over liability shall be refunded to the taxpayer; provided that no refunds or payment on account of the tax credits allowed by this section shall be made for amounts less than $1.  All claims, including any amended claims, for tax credits under this section shall be filed on or before the end of the twelfth month following the close of the taxable year for which the credit may be claimed.  Failure to properly claim the credit shall constitute a waiver of the right to claim the credit.
+     (e)  To qualify for this credit, the biofuel production facility shall:
+(1)  Be located within the State and use locally grown feedstock for at least seventy-five per cent of its production output;
+     (2)  Meet the definition of a qualified biofuel production facility;
+     (3)  Have a biofuel production capacity of no less than ten million gallons;
+     (4)  Have qualified development and construction costs totaling at least $10,000,000; and
+     (5)  Be in production on or before January 1, 2017.
+     (f)  To receive the tax credit, the taxpayer shall first prequalify a biofuel production facility for the credit by registering with the department of business, economic development, and tourism during the development or construction stage.  Failure to comply with this provision may constitute a waiver of the right to claim the credit.
+     (g)  The director of taxation shall prepare forms as may be necessary to claim a credit under this section.  The director may also require the taxpayer to furnish information to ascertain the validity of the claim for credit made under this section and may adopt rules necessary to effectuate the purposes of this section pursuant to chapter 91.
+     (h)  Every taxpayer claiming a tax credit under this section for a qualified biofuel production facility, no later than ninety days following the end of each taxable year in which qualified costs were expended, shall submit a written, sworn statement to the department of business, economic development, and tourism, identifying:
+     (1)  All qualified development and construction costs as provided by subsection (a), if any, incurred in the previous taxable year;
+     (2)  The amount of tax credits claimed pursuant to this section, if any, in the previous taxable year; and
+     (3)  The number of hires related to the development or construction of the qualified biofuel production facility in the taxable year.
+     (i)  The department of business, economic development, and tourism shall:
+     (1)  Maintain records of the names of the taxpayers and qualified biofuel production facilities claiming the tax credits under this section;
+     (2)  Obtain and total the aggregate amounts of all qualified development and construction costs for each qualified biofuel production facility and for each qualified biofuel production facility for each taxable year; and
+     (3)  Provide a letter to the director of taxation specifying the amount of the tax credit for each qualified biofuel production facility for each taxable year that a tax credit is claimed and the cumulative amount of the tax credit for all years claimed.
+     Upon each determination required under this subsection, the department of business, economic development, and tourism shall issue a letter to the taxpayer specifying the qualified development and construction costs and the tax credit amount qualified for in each taxable year a tax credit is claimed.  The taxpayer for each qualified biofuel production facility shall file the letter with the taxpayer's tax return for the qualified biofuel production facility to the department of taxation.  Notwithstanding the authority of the department of business, economic development, and tourism under this section, the director of taxation may audit and adjust the tax credit amount to conform to the information filed by the taxpayer.
+     (j)  Total tax credits claimed per qualified biofuel production facility shall not exceed $60,000,000.
+     (k)  Qualified biofuel production facilities shall comply with this section.
+     (l)  As used in this section:
+     "Qualified biofuel production facility" means a facility that produces liquid or gaseous fuels from organic sources such as biomass crops, agricultural residues, and oil crops,  including palm, canola, soybean, and waste cooking oils; grease; food wastes; locally produced municipal solid wastes and industrial wastes; and animal residues and wastes that can be used to generate energy.
+     "Qualified development and construction cost" means a capital expenditure related to the development and construction of any qualified biofuel production facility, including costs for agricultural infrastructure, design, processing equipment, waste treatment systems, pipelines, and liquid storage tanks at the facility or remote locations, including expansions or modifications, interest accrued during construction if the project is not capitalized and not expensed, and utility costs incurred during construction if the utility costs are capitalized and not expensed.  Capital expenditures shall be those certain direct and indirect costs determined in accordance with section 263A of the Internal Revenue Code, relating to uniform capitalization costs, but shall not include expenses for compensation paid to officers of the taxpayer, pension and other related costs, rent for land, the costs of repairing and maintaining the equipment or facilities, training of operating personnel, property taxes, costs relating to negotiation of commercial agreements not related to development or construction, or service costs that can be identified specifically with a service department or function or that directly benefit or are incurred by reason of a service department or function.  For the purposes of determining a capital expenditure under this section, the provisions of section 263A of the Internal Revenue Code shall apply as it read on March 1, 2004.  For purposes of this section, investment excludes land costs and includes any investment for which the taxpayer is at risk, as that term is used in section 465 of the Internal Revenue Code (with respect to deductions limited to amount at risk)."
+     SECTION 3.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect on July 1, 2011; provided that this Act shall:
+     (1)  Apply to taxable years beginning after December 31, 2010;
+     (2)  Apply to qualified development and construction costs of qualified biofuel production facilities incurred on or after July 1, 2010, and before January 1, 2017; and
+     (3)  Be repealed on January 1, 2017; provided that any qualified development and construction costs of qualified biofuel production facilities incurred before January 1, 2017, shall be eligible for the tax credit established by this Act in the immediately following taxable year if not claimed in a prior taxable year or before the repeal of this Act.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Biofuel Production Facility; Tax Credit
+ 
+Description:
+Creates an income tax credit for development and construction costs for qualifying biofuel production facilities.  Repeals 1/1/2017.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,81 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1689
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO LONG-TERM CARE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The Hawaii Revised Statutes is amended by adding a new chapter to be appropriately designated and to read as follows:
+"CHAPTER
+HAWAII PARTNERSHIP FOR LONG-TERM CARE PROGRAM
+     §   ‑1  Purpose.  The purpose of the Hawaii partnership for long-term care program is to combine funds from private long-term care insurance and medicaid, or its successor program, to finance long-term care.  Under the program, an individual may purchase a certified long-term care insurance partnership policy in an amount commensurate with the individual's assets.  Notwithstanding any other law to the contrary, assets of the individual purchasing a certified long-term care insurance partnership policy shall not be considered by the department in making a determination of the individual's eligibility for medicaid, or its successor program, or for any other long-term care services administered by the department.  The program is intended to reduce future medicaid costs for long-term care by delaying or eliminating dependence on medicaid by providing incentives for individuals to insure against the potentially high costs of long-term care.
+     §   ‑2  Definitions.  For the purposes of this chapter:
+     "Assets" means real and personal property, income, and any other economic resources owned, earned, or attributable to an individual.
+     "Certified long-term care insurance partnership policy" means a policy provided by a producer in accordance with chapter 431 and approved by the department that:
+     (1)  Meets all of the requirements of a qualified long-term care insurance contract as defined in section 7702B(b) of the Internal Revenue Code; and
+     (2)  Was issued not earlier than the effective date of this chapter to cover an insured who was a resident of Hawaii when coverage first became effective under the policy.
+     "Department" means the department of human services.
+     "Medicaid" means the program for medical assistance established under 42 United States Code chapter 7, subchapter XIX, or any successor program.
+     "Partnership" means a cooperative agreement between the State and an approved long-term care insurance producer to provide long-term care coverage to eligible individuals.
+     "State plan amendment" means the state medicaid plan amendment made to the federal department of health and human services that provides for the disregard of any assets in an amount equal to the insurance benefit payments that are made to or on the behalf of an individual who is a beneficiary under a certified long-term care insurance policy.
+     §   ‑3  Hawaii partnership for long-term care program established.  (a)  The department shall establish a partnership for long-term care program that enables an individual who has assets that would otherwise disqualify the individual from receiving medicaid benefits to continue receiving medicaid benefits; provided that the individual purchases and maintains long-term care insurance that is in compliance with this chapter.
+     (b)  All long-term care insurance plans authorized under this chapter shall include a provision that specifies that the long-term care insurance plan shall be the primary payer of long-term care costs and that medicaid shall be the secondary payer.
+     §   ‑4  Eligibility for long-term care benefits under medicaid; assets not considered.  (a)  An individual shall purchase a certified long-term care insurance partnership policy that provides long-term care services in an amount equal to or greater than the minimum level of coverage set by the department pursuant to section    ‑7.
+     (b)  Notwithstanding any other law to the contrary, an individual who purchases a certified long-term care insurance partnership policy and has assets above the eligibility levels for receipt of medicaid benefits shall be eligible to receive medicaid benefits and any other long-term care services specified by the department without regard to the individual's assets.
+     §   ‑5  Amendments to medicaid rules and state plan.  (a)  The department shall prepare a state plan amendment to seek appropriate amendments to its medicaid rules and state plan to allow protection of assets pursuant to section    ‑4.  The protection shall be provided to the extent approved by the federal Centers for Medicare and Medicaid Services for any purchaser of a certified long-term care insurance partnership policy and shall last for the life of the purchaser.  The protection shall be provided under the medicaid program.  Any purchaser of a certified long-term care insurance partnership policy shall be guaranteed coverage under the medicaid program if the individual meets all other applicable eligibility requirements for the receipt of medicaid benefits that are not related to the individual's assets.
+     (b)  The department shall seek any federal waivers and approvals necessary to accomplish the purposes of this chapter.
+     §   ‑6  Certification of policies or plans.  The department shall certify a policy as a certified long-term care insurance partnership policy only if it meets the requirements of chapter 431, 42 United States Code 1396p, and section 7702B(b) of the Internal Revenue Code.
+     §   ‑7  Rules.  The department shall adopt rules pursuant to chapter 91 to implement this chapter, including but not limited to rules establishing:
+     (1)  The population and age groups eligible to participate in the long-term care partnership program;
+     (2)  The minimum level of long-term care insurance or long-term care coverage included in health care service plan contracts required to be purchased to determine eligibility as provided in section    ‑4;
+     (3)  The amount and types of services that long-term care insurance shall include to be considered a certified long-term care insurance partnership policy;
+     (4)  The reporting requirements for producers of certified long-term care insurance partnership policies; and
+     (5)  The percentage, if any, of an individual's assets that may be considered to determine eligibility as provided in section    ‑4.
+     §   ‑8  Long-term care partnership program outreach.  The department shall establish an outreach program to educate consumers about the need for long-term care, the mechanisms for financing long-term care, the availability of long-term care insurance, and asset protection provided under this chapter.  The department shall coordinate with the executive office on aging to establish the program."
+     SECTION 2.  Section 431:10H-221, Hawaii Revised Statutes, is amended to read as follows:
+     "§431:10H-221  Requirements for application forms and replacement coverage.  (a)  Application forms shall include questions designed to elicit information as to whether, as of the date of application, the applicant has another long-term care insurance policy or certificate in force or whether a long-term care policy or certificate is intended to replace any other accident and health or sickness or long-term care policy or certificate presently in force.  A supplementary application or other form to be signed by the applicant and producer, except where the coverage is sold without a producer, containing the questions may be used.  With regard to a replacement policy issued to a group defined by paragraph (1) under the definition of "group long-term care insurance" in section 431:10H-104, the following questions may be modified only to the extent necessary to elicit information about accident and health or sickness and long-term care insurance policies other than the group policy being replaced; provided that the certificate holder has been notified of the replacement:
+     (1)  Do you have another long-term care insurance policy or certificate in force (including a health care service contract or health maintenance organization contract)?
+     (2)  Did you have another long-term care insurance policy or certificate in force during the last twelve months?
+         (A)  If so, with which company?
+         (B)  If that policy lapsed, when did it lapse?
+     (3)  Are you covered by medicaid?
+     (4)  Do you intend to replace any of your medical or accident and health or sickness insurance coverage with this policy (certificate)?
+     (b)  Producers shall list any other accident and health or sickness insurance policies they have sold to the applicant, and the producer shall list policies sold that are still in force and list policies sold in the past five years that are no longer in force.
+     (c)  Upon determining that a sale will involve replacement, an insurer, other than an insurer using direct response solicitation methods, or its producer, shall furnish the applicant, prior to issuance or delivery of the individual long-term care insurance policy, a notice regarding replacement of accident and health or sickness or long-term care coverage.  One copy of the notice shall be retained by the applicant and an additional copy signed by the applicant shall be retained by the insurer.  The required notice shall be provided in the same manner as shown in section 14C of the April, 2002, NAIC Long-Term Care Insurance Model Regulation.
+     (d)  Insurers using direct response solicitation methods shall deliver a notice regarding replacement of accident and health or sickness or long-term care coverage to the applicant upon issuance of the policy.  The required notice shall be provided in the same manner as shown in section 14D of the April, 2002, NAIC Long-Term Care Insurance Model Regulation.
+     (e)  Where replacement is intended, the replacing insurer shall notify, in writing, the existing insurer of the proposed replacement.  The existing policy shall be identified by the insurer, name of the insured, and policy number or address including zip code.  Notice shall be made within five working days from the date the application is received by the insurer or the date the policy is issued, whichever is sooner.
+     (f)  Life insurance policies that accelerate benefits for long-term care shall comply with this section if the policy being replaced is a long-term care insurance policy.  If the policy being replaced is a life insurance policy, the insurer shall comply with the replacement requirements for life insurance policies.  If a life insurance policy that accelerates benefits for long-term care is replaced by another policy, the replacing insurer shall comply with both the long-term care and the life insurance replacement requirements.
+     (g)  If authorized by federal law or a federal waiver is granted with respect to the long-term care partnership program as provided under chapter    , issuers of long-term care policies may voluntarily exchange a current long-term care insurance policy for a long-term care partnership policy that meets the requirements of 42 United States Code section 1396p after the effective date of the state plan amendment implementing the partnership program in the State."
+     SECTION 3.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Long-Term Care Partnership Program
+ 
+Description:
+Implements the long-term care partnership program, allowing individuals to qualify for medicaid coverage for continued long-term care prior to exhausting their assets.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

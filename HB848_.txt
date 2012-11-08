@@ -1,0 +1,59 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+848
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE GENERAL EXCISE TAX.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The purpose of this Act is to expand the general excise exemption for a common paymaster.
+     SECTION 2.  Section 237-23.5, Hawaii Revised Statutes, is amended to read as follows:
+     "§237-23.5  Related entities; common paymaster; certain exempt transactions.  (a)  This chapter shall not apply to amounts received, charged, or attributable to services furnished by one related entity under section 267 of the Internal Revenue Code, as amended, to another related entity under section 267 of the Internal Revenue Code, as amended, or to imputed or stated interest attributable to loans, advances, or use of capital between related entities.
+     As used in this subsection:
+     "Related entities" means:
+     (1)  An affiliated group of corporations within the meaning of section 1504 (with respect to affiliated group defined) of the federal Internal Revenue Code of 1986, as amended;
+     (2)  A controlled group of corporations within the meaning of section 1563 (with respect to definitions and special rules) of the federal Internal Revenue Code of 1986, as amended;
+     (3)  Those entities connected through ownership of at least eighty per cent of the total value and at least eighty per cent of the total voting power of each such entity (or combination thereof), including partnerships, associations, trusts, S corporations, nonprofit corporations, limited liability partnerships, or limited liability companies; and
+     (4)  Any group or combination of the entities described in paragraph (3) constituting a unitary business for income tax purposes;
+whether or not the entity is located within or without the State or licensed under this chapter.
+     "Services" means legal and accounting services, maintenance services, reimbursable repairs and maintenance expenses paid on behalf of affiliates, the use of computer software and hardware, information technology services, database management, and those managerial and administrative services performed by an employee, officer, partner, trustee, sole proprietor, member, or manager in the person's capacity as an employee, officer, partner, trustee, sole proprietor, member, or manager of one of the related entities and shall include overhead costs attributable to those services.
+     (b)  This chapter shall not apply to amounts received by common paymasters which are disbursed as remuneration to employees of two or more related corporations where the common paymaster is making such remunerations on behalf of such corporations.  Such amounts received or disbursed by the common paymaster shall include payments of payroll taxes and employee benefits which the common paymaster is making on behalf of related corporations and which payments are related to the employees being remunerated.  [The] For this subsection only, the definitions of related corporations, common paymaster, multiple common paymasters, and concurrent employment contained in 26 Code of Federal Regulations, section 31.3121(s)-1(b) are incorporated and made a part of this subsection.
+     To the extent not covered by subsection (a), the exemption allowed by this subsection shall not apply to the cost of services, or reimbursements of such cost by one corporation to another corporation, of an employee disbursing the amounts exempted under this subsection.  Each related corporation using a common paymaster or multiple common paymaster shall keep separate payroll records and other documentation required to prove the existence of concurrent employment.  Such records and documents shall be available for inspection by the director of taxation during normal business hours.
+     (c)  This chapter shall not apply to amounts received by a common paymaster that are disbursed as remuneration to employees of two or more related persons where the common paymaster is making the remunerations on behalf of the related persons.  The amounts received or disbursed by the common paymaster shall include payments of payroll taxes and employee benefits that the common paymaster is making on behalf of the related persons and which payments are for the employees being remunerated.
+     To the extent not covered by subsection (a), the exemption allowed by this subsection shall not apply to the cost of services or reimbursements of the cost by one related person to another related person, of an employee disbursing the amounts exempted under this subsection.
+     Each related person using a common paymaster or multiple common paymaster shall keep separate payroll records and other documentation required to prove the existence of concurrent employment.  The records and documents shall be available for inspection by the director of taxation during normal business hours.
+     For the purpose of this subsection only:
+     "Common paymaster" means a person that disburses remuneration to employees of two or more related persons to the common paymaster on their behalf and that is responsible for keeping books and records for the payroll with respect to those employees.
+     "Related persons" mean persons related to a common paymaster within a relationship under section 267 (with respect to losses, expenses, and interest with respect to transactions between related taxpayers) of the federal Internal Revenue Code."
+     SECTION 3.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Common Paymaster for Related Persons; GET Exemption
+ 
+Description:
+Exempts from the GET the amounts received by a common paymaster to pay the remuneration for related persons to the common paymaster.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

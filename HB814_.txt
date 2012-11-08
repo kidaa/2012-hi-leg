@@ -1,0 +1,86 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+814
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PUBLIC EMPLOYMENT.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The purpose of this Act is to amend provisions relating to group life insurance for active and retired public employees.  More specifically, this Act:
+     (1)  Limits the Hawaii employer-union health benefits trust fund to providing group life insurance benefits only to retired employees who retired before July 1, 2011;
+     (2)  Repeals the annual adjustment provision for public employers' monthly contributions for group life insurance benefits of retired employees; and
+     (3)  Repeals provisions pertaining to the negotiation of group life insurance contributions for active employees.
+     SECTION 2.  Section 87A-17, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§87A-17[]]  Group life insurance benefits or group life insurance program.  The board [may] shall provide benefits under a group life insurance benefits program or group life insurance program to retired employees[.] who retired before July 1, 2011.
+     The board shall not provide or make available group life insurance benefits to active employees or retired employees who retire after June 30, 2011."
+     SECTION 3.  Section 87A-31, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  The fund [may] shall be used to provide group life insurance benefits to retired employees [to the extent that contributions are provided for group life insurance benefits in sections 87A-32 and 87A-37.] in accordance with section 87A-17."
+     SECTION 4.  Section 87A-32, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§87A-32[]]  State and county contributions; active employees.  [(a)]  The State, through the department of budget and finance, and the counties, through their respective departments of finance, shall pay to the fund a monthly contribution equal to the amount established under chapter 89C or specified in the applicable public sector collective bargaining agreements, whichever is appropriate, for each of their respective employee-beneficiaries and employee-beneficiaries with dependent-beneficiaries, which shall be used toward the payment of costs of a health benefits plan; provided that:
+     (1)  The monthly contribution shall be a specified dollar amount;
+     (2)  The monthly contribution shall not exceed the actual cost of a health benefits plan;
+     (3)  If both husband and wife are employee-beneficiaries, the total contribution by the State or the county shall not exceed the monthly contribution for a family plan; and
+     (4)  If the State or any of the counties establish cafeteria plans in accordance with Title 26, United States Code section 125, the Internal Revenue Code of 1986, as amended, and part II of chapter 78, the monthly contribution for those employee-beneficiaries who participate in a cafeteria plan shall be made through the cafeteria plan, and the payments made by the State or counties shall include their respective contributions to the fund and their employee-beneficiary's share of the cost of the employee-beneficiary's health benefits plan.
+     [(b)  The State, through the department of budget and finance, and the counties, through their respective departments of finance, shall pay to the fund a monthly contribution equal to the amount established under chapter 89C or specified in the applicable public sector collective bargaining agreement, whichever is applicable, for each of their respective employees, to be used toward the payment of group life insurance benefits for each employee.]"
+     SECTION 5.  Section 87A-37, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§87A-37[]]  Group life insurance benefits plans for retired employees; contributions.  (a)  The State, through the department of budget and finance, and the counties, through their respective departments of finance, shall pay to the fund a monthly contribution for each retired employee who retired before July 1, 2011, and is enrolled in the fund's group life insurance benefits plan [under section 87A-34, 87A-35, and 87A-36].
+     (b)  Effective July 1, 2003, there is established a base monthly contribution of $4.16 for each retired employee who retired before July 1, 2011, and is enrolled in a group life insurance plan; provided that the monthly contribution shall not exceed the actual cost of the group life insurance benefits plan.  [The base composite monthly contribution shall be adjusted annually beginning July 1, 2004.  The adjusted base composite monthly contribution for each new plan year shall be calculated by increasing or decreasing the base composite monthly contribution in effect through the end of the previous plan year by the percentage increase or decrease in the medicare part B premium rate for those years.  The percentage shall be calculated by dividing the medicare part B premium rate in effect at the beginning of the new plan year by the rate in effect through the end of the previous plan year.
+     As used in this subsection, "medicare part B premium rate" means the rate published in the Federal Register each year on November 1 or on the business day closest to November 1 of each year after the medicare part B premium rate has been established by the Secretary of Health and Human Services and approved by the United States Congress.]"
+     SECTION 6.  Section 89-2, Hawaii Revised Statutes, is amended as follows:
+     1.  By adding a new definition of "health benefits plan" to be appropriately inserted and to read:
+     ""Health benefits plan" mean a health benefits plan, as defined under section 87A-1, that is offered by the Hawaii employer-union health benefits trust fund."
+     2.  By amending the definition of "collective bargaining" to read:
+     ""Collective bargaining" means the performance of the mutual obligations of the public employer and an exclusive representative to meet at reasonable times, to confer and negotiate in good faith, and to execute a written agreement with respect to wages, hours, amounts of contributions by the State [and] or counties [to the Hawaii public employees health fund,] for health benefits plans, and other terms and conditions of employment, except that by any such obligation neither party shall be compelled to agree to a proposal, or be required to make a concession.  For the purposes of this definition, "wages" includes the number of incremental and longevity steps, the number of pay ranges, and the movement between steps within the pay range and between the pay ranges on a pay schedule under a collective bargaining agreement."
+     3.  By amending the definition of "employee organization" to read:
+     ""Employee organization" means any organization of any kind in which public employees participate and which exists for the primary purpose of dealing with public employers concerning grievances, labor disputes, wages, hours, amounts of contributions by the State [and] or counties [to the Hawaii public employees health fund,] for health benefits plans, and other terms and conditions of employment of public employees."
+     SECTION 7.  Section 89-9, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending subsection (a) to read:
+     "(a)  The employer and the exclusive representative shall meet at reasonable times, including meetings sufficiently in advance of the February 1 impasse date under section 89-11, and shall negotiate in good faith with respect to wages, hours, the amounts of contributions by the State and respective counties [to the Hawaii employer-union health benefits trust fund] for health benefits plans to the extent allowed in subsection (e), and other terms and conditions of employment [which] that are subject to collective bargaining and [which] that are to be embodied in a written agreement as specified in section 89-10, but such obligation does not compel either party to agree to a proposal or make a concession[; provided that the parties may not negotiate with respect to cost items as defined by section 89-2 for the biennium 1999 to 2001, and the cost items of employees in bargaining units under section 89-6 in effect on June 30, 1999, shall remain in effect until July 1, 2001]."
+     2.  By amending subsections (d) and (e) to read:
+     "(d)  Excluded from the subjects of negotiations are matters of classification, reclassification, benefits of but not contributions [to the Hawaii employer-union health benefits trust fund,] for health benefits plans, recruitment, examination, initial pricing, and retirement benefits except as provided in section 88-8(h).  The employer and the exclusive representative shall not agree to any proposal which would be inconsistent with the merit principle or the principle of equal pay for equal work pursuant to section 76-1 or [which] would interfere with the rights and obligations of a public employer to:
+     (1)  Direct employees;
+     (2)  Determine qualifications, standards for work, and the nature and contents of examinations;
+     (3)  Hire, promote, transfer, assign, and retain employees in positions;
+     (4)  Suspend, demote, discharge, or take other disciplinary action against employees for proper cause;
+     (5)  Relieve an employee from duties because of lack of work or other legitimate reason;
+     (6)  Maintain efficiency and productivity, including maximizing the use of advanced technology, in government operations;
+     (7)  Determine methods, means, and personnel by which the employer's operations are to be conducted; and
+     (8)  Take such actions as may be necessary to carry out the missions of the employer in cases of emergencies.
+     This subsection shall not be used to invalidate provisions of collective bargaining agreements in effect on and after June 30, 2007, and shall not preclude negotiations over the procedures and criteria on promotions, transfers, assignments, demotions, layoffs, suspensions, terminations, discharges, or other disciplinary actions as a permissive subject of bargaining during collective bargaining negotiations or negotiations over a memorandum of agreement, memorandum of understanding, or other supplemental agreement.
+     Violations of the procedures and criteria so negotiated may be subject to the grievance procedure in the collective bargaining agreement.
+     (e)  Negotiations relating to contributions to the Hawaii employer-union health benefits trust fund shall be for the purpose of agreeing upon the amounts [which] that the State [and] or counties shall contribute under [section 87-4,] section 87A-32 toward the payment of the costs for a health benefits plan, as defined in section [87-1(8), and group life insurance benefits, and the] 89-2.  The parties shall not be bound by the amounts contributed under prior agreements; provided that section 89-11 for the resolution of disputes by way of arbitration shall not be available to resolve impasses or disputes relating to the amounts the State and counties shall contribute [to the Hawaii employer-union health benefits fund.] for health benefits plans."
+     SECTION 8.  Section 89-11, Hawaii Revised Statutes, is amended by amending subsection (g) to read as follows:
+     "(g)  The decision of the arbitration panel shall be final and binding upon the parties on all provisions submitted to the arbitration panel.  If the parties have reached agreement with respect to the amounts of contributions by the State and counties [to Hawaii employer-union health benefits trust fund] for health benefits plans by the tenth working day after the arbitration panel issues its decision, the final and binding agreement of the parties on all provisions shall consist of the panel's decision and the amounts of contributions agreed to by the parties.  If the parties have not reached agreement with respect to the amounts of contributions by the State and counties [to the Hawaii employer-union health benefits trust fund] for health benefits plans by the close of business on the tenth working day after the arbitration panel issues its decision, the parties shall have five days to submit their respective recommendations for such contributions to the legislature, if it is in session, and if the legislature is not in session, the parties shall submit their respective recommendations for such contributions to the legislature during the next session of the legislature.  In such event, the final and binding agreement of the parties on all provisions shall consist of the panel's decision and the amounts of contributions established by the legislature by enactment, after the legislature has considered the recommendations for such contributions by the parties.  It is strictly understood that no member of a bargaining unit subject to this subsection shall be allowed to participate in a strike on the issue of the amounts of contributions by the State and counties [to the Hawaii employer-union health benefits trust fund.] for health benefits plans.  The parties shall take whatever action is necessary to carry out and effectuate the final and binding agreement.  The parties [may], at any time and by mutual agreement, may amend or modify the panel's decision.
+     Agreements reached pursuant to the decision of an arbitration panel and the amounts of contributions by the State and counties [to the Hawaii employer-union health benefits trust fund] for health benefits plans, as provided herein, shall not be subject to ratification by the employees concerned.  All items requiring any moneys for implementation, including employers' contributions for health benefits plans, shall be subject to appropriations by the appropriate legislative bodies [and the employer].  The employers shall submit all such items within ten days after the date on which the agreement is entered into as provided herein, to the appropriate legislative bodies."
+     SECTION 9.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 10.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Public Employment; Group Life Insurance
+ 
+Description:
+Limits the EUTF to providing group life insurance benefits only to retired employees who retired before 07/01/2011.  Maintains the flat dollar contribution for the group life benefit of retired employees and repeals the annual adjustment.  Repeals provisions pertaining to the negotiation of group life insurance contributions for active employees.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,53 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2605
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CONFORMITY OF THE HAWAII INCOME TAX LAW TO THE INTERNAL REVENUE CODE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The purpose of this Act is to conform Hawaii income tax law to the Internal Revenue Code.
+     SECTION 2.  Section 235-2.3, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  For all taxable years beginning after December 31, [2010,] 2011, as used in this chapter, except as provided in section 235-2.35, "Internal Revenue Code" means subtitle A, chapter 1, of the federal Internal Revenue Code of 1986, as amended as of December 31, [2010,] 2011, as it applies to the determination of gross income, adjusted gross income, ordinary income and loss, and taxable income, except those provisions of the Internal Revenue Code and federal public laws which, pursuant to this chapter, do not apply or are otherwise limited in application and except for the provisions of Public Law 109-001 which apply to section 170 of the Internal Revenue Code.  The provisions of Public Law 109-001 to accelerate the deduction for charitable cash contributions for the relief of victims of the 2004 Indian Ocean tsunami are applicable for the calendar year that ended December 31, 2004, and the calendar year ending December 31, 2005.
+     Sections 235-2, 235-2.1, and 235-2.2 shall continue to be used to determine:
+     (1)  The basis of property, if a taxpayer first determined the basis of property in a taxable year to which such sections apply, and if such determination was made before January 1, 1978; and
+     (2)  Gross income, adjusted gross income, ordinary income and loss, and taxable income for a taxable year to which such sections apply where such taxable year begins before January 1, 1978."
+     SECTION 3.  Section 235-2.35, Hawaii Revised Statutes, is amended to read as follows:
+     "§235-2.35  Operation of certain Internal Revenue Code provisions not operative under section 235-2.3.  The following sections of the federal Internal Revenue Code of 1986, as amended, shall be operative for purposes of this chapter:
+    [(1)  Section 6041 as applicable to persons under section 6041(h) (with respect to information returns at the source for certain corporations);]
+    [(2)] (1)  Section 6038D (with respect to information with respect to foreign financial assets).  With respect to persons required to report information under this section, section 6662(j) (with respect to imposition of accuracy-related penalties on underpayments) and section 6501(e)(1)(A)(ii) (with respect to limitations on assessment and collection) shall also be operative for purposes of this chapter and shall be applied consistently with the correlating provisions of sections 231-36.6 and 235-111;
+    [(3)] (2)  Section 6045B (with respect to returns relating to actions affecting basis in securities); and
+    [(4)] (3)  Section 6050W (with respect to returns relating to payments made in settlement of payment card and third party network transactions)."
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Income Tax; Conformity to the Internal Revenue Code for 2011
+ 
+Description:
+Provides a measure for conforming amendments to the Hawaii income tax law based upon amendments to the Internal Revenue Code made in calendar year 2011.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

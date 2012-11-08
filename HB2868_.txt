@@ -1,0 +1,73 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2868
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO BAIL.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 804, Hawaii Revised Statutes, is amended by adding a new part to read as follows:
+"PART    .  COMPENSATED SURETIES
+     §804-    Prohibited compensated sureties; recording.  (a)  The judiciary shall create a board for recording and disseminating the names of those compensated sureties who are prohibited from posting bail bonds in the state due to any unpaid judgment as set forth in this part.
+     (b)  The ineligibility of a compensated surety to write bonds because the name of the compensated surety has been placed on the board pursuant to this section shall not be a defense to liability on any appearance bond accepted by a court.
+     (c)  If the name of a bail bonding agent is placed on the board, and remains on the board for the same forfeiture for more than forty-five consecutive days, the court that placed the name of the bail bonding agent on the board shall disqualify the bail bonding agent, after hearing pursuant to this part, until such time as all forfeitures and judgments ordered and entered against the bail bonding agent have been certified as paid or vacated by order of a court of record.  If the bail forfeiture judgment is not paid within fifteen days after the name of a bail insurance company has been placed on the board, the court shall also order the bail insurance company on the bond to pay the judgment after notice and hearing.
+     §804-    Jurisdiction.  By entering into a bond, each obligor, including the bond principal and the compensated surety, submits to the jurisdiction of the court and consents to the forfeiture procedures set forth in this part.
+          §804-    Enforcement of bonds.  (a)  Liability of bond obligors on bonds issued by compensated sureties may be enforced, without the necessity of an independent action, as follows:
+     (1)  In the event a defendant does not appear before the court and is in violation of the primary condition of an appearance bond, the court may declare the bond forfeited; and
+     (2)  If a bond is declared forfeited by the court, notice of the bail forfeiture order shall be served on the compensated surety by certified mail and on the bail insurance company by regular mail within ten days after the entry of the forfeiture.  Service of notice of the bail forfeiture on the defendant is not required.
+     (b)  The notice shall include, but not be limited to:
+     (1)  A statement intended to inform the compensated surety of the entry of forfeiture;
+     (2)  An advisement that the compensated surety has the right to request a show cause hearing fifteen days after receipt of notice of forfeiture, by procedures set by the court; and
+     (3)  An advisement that if the compensated surety does not request a show cause hearing, judgment shall be entered upon expiration of thirty days following the entry of forfeiture.
+     (c)  A compensated surety, upon whom notice of a bail forfeiture order has been served, shall have fifteen days after receipt of notice of such forfeiture to request a hearing to show cause why judgment on the forfeiture should not be entered for the State against the compensated surety.  Such request shall be granted by the court and a hearing shall be set within thirty days after entry of forfeiture or at the court's earliest convenience.  At the conclusion of the hearing requested by the compensated surety, if any, the court may enter judgment for the State against the compensated surety, or the court may in its discretion order further hearings.  Upon expiration of thirty days after the entry of forfeiture, the court shall enter judgment for the State against the compensated surety if the compensated surety did not request within fifteen days after receipt of notice of such forfeiture a hearing to show cause.
+     (d)  If such a show cause hearing was timely set but the hearing did not occur within thirty days after the entry of forfeiture, no entry of judgment at the conclusion of the hearing against the compensated surety shall be vacated on the grounds that the matter was not timely heard.  If judgment is entered against a compensated surety upon the conclusion of a requested show cause hearing, and such hearing did not occur within thirty days after the entry of forfeiture, execution upon the judgment shall be automatically stayed for no more than one hundred twenty days after entry of forfeiture.
+     (e)  If at any time prior to the entry of judgment, the defendant appears in court, either voluntarily or in custody after surrender or arrest, the court shall on its own motion direct that the bail forfeiture be set aside and the bond exonerated at the time the defendant first appears in court; provided that if the State extradites such defendant, all necessary and actual costs associated with such extradition shall be borne by the compensated surety up to the amount of the bond.
+     (f)  If, at any time prior to the entry of judgment, the compensated surety provides proof to the court that the defendant is in custody within the State, the court shall on its own motion direct that the bail forfeiture be set aside and the bond exonerated; provided that if the court extradites the defendant, all necessary and actual costs associated with the extradition shall be borne by the surety up to the amount of the bond.  If the court elects to extradite the defendant, any forfeiture will be stayed until such time the defendant appears in the court where the bond returns.
+     §804-    Exoneration.  A compensated surety shall be exonerated from liability upon the bond by satisfaction of the bail forfeiture judgment, surrender of the defendant, or order of the court.  If the surety provides proof to the court that the defendant is in custody within the State, within ninety days after the entry of judgment, the court shall on its own motion direct that the bail forfeiture judgment be vacated and the bond exonerated; provided that if the court extradites the defendant, all necessary and actual costs associated with the extradition shall be borne by the surety up to the amount of the bond.  If the court elects to extradite the defendant, any judgment will be stayed until the time the defendant appears in the court where the bond returns.
+     §804-    Execution of bail.  (a)  Execution upon a bail forfeiture judgment shall be automatically stayed for ninety days from the date of entry of judgment; provided that if judgment is entered against a compensated surety upon the conclusion of a requested show cause hearing, and such hearing did not occur within thirty days after the entry of forfeiture, the judgment shall be automatically stayed as set forth in accordance with this section.
+     (b)  Upon the expiration of the stay of execution described in this section, the bail forfeiture judgment shall be paid forthwith by the compensated surety, if not previously paid, unless the defendant appears in court, either voluntarily or in custody after surrender or arrest, or the court enters an order granting an additional stay of execution or otherwise vacates the judgment.
+     (c)  If a bail forfeiture judgment is not paid on or before the expiration date of the stay of execution described in this section, the name of the bonding agent shall be placed on the board of the court that entered the judgment.  The bonding agent shall be prohibited from executing any further bail bonds in this State until the judgment giving rise to placement on the board is satisfied, vacated, or otherwise discharged by order of the court.
+     (d)  If a bail forfeiture judgment remains unpaid for thirty days after the name of the bonding agent is placed on the board, the court shall send notice by certified mail to the bail insurance company for whom the bonding agent has executed the bond that if the judgment is not paid within fifteen days after the date of mailing of the notice, the name of the bail insurance company shall be placed on the board and such company shall be prohibited from executing any further bail bonds in this State until the judgment giving rise to placement on the board is satisfied, vacated, or otherwise discharged by order of the court.
+     (e)  A compensated surety shall be removed forthwith from the board only after every judgment for which the compensated surety was placed on the board is satisfied, vacated, or discharged or stayed by entry of an additional stay of execution.  No compensated surety shall be placed on the board in the absence of the notice required by this section.
+     (f)  The automatic stay of execution upon a bail forfeiture judgment as described in this part shall expire pursuant to its terms unless the defendant appears and surrenders to the court having jurisdiction or satisfies the court that appearance and surrender by the defendant was impossible and without fault by such defendant.  The court may order that a forfeiture be set aside and judgment vacated as set forth in this part.
+          §804-    Judgment set aside or vacated; when.  (a)  The court may order that a bail forfeiture judgment be vacated and set aside or that execution thereon be stayed upon such conditions as the court may impose, if it appears that justice so requires.
+     (b)  Acts of God, the State, or of law relieve a surety from liability.  A trial court has no jurisdiction to relieve the surety from liability on a bail bond except on grounds generally recognized by the law as excusing the performance of the undertaking, and such grounds exist only when the appearance of accused is made impossible by an act of God, an act of the State which is the beneficiary of the bond, or an act of law.      (c)  It shall be deemed an act of God where the principal in a bail bond dies before the day of performance or is prevented by illness from appearing.  It shall be deemed an act of state where the principal in a bail bond is in prison within the State, pursuant to a judgment of a court of competent jurisdiction of the State.  It shall be deemed an act of law where the party has been turned over to the federal court within the State by a prior bondsman and is serving a sentence by that court, or if the party has been arrested in the State where the obligation is given and sent out of the State by the governor upon requisition from another state or foreign jurisdiction.
+     §804-    Risk to compensated surety; effect.  When a compensated surety enters into a surety agreement, the compensated surety undertakes a calculated risk, so that events which materially increase that risk have the effect of terminating the surety obligation.
+     §804-    Exoneration; additional circumstances.  A compensated surety shall be exonerated from liability upon a bond by satisfaction of the bail forfeiture judgment, surrender of the defendant, or by order of the court.  The defendant shall appear at each place, and upon each date, to which the proceeding is transferred or continued, until a plea of guilty, nolo contender, or conviction is entered in response the charges.
+     §804-    Appearance after judgment.  (a)  If the defendant appears in court, either voluntarily or in custody after surrender or arrest, within ninety days after the entry of judgment, the court, at the time the defendant first appears in court, shall on its own motion direct that the bail forfeiture judgment be vacated and the bond exonerated; provided that if the state extradites such defendant, all necessary and actual costs associated with such extradition shall be borne by the surety up to the amount of the bond.
+     §804-    Exoneration of bail bond.  (a)  Any person executing a bail bond as principal or as surety shall be exonerated as follows:
+     (1)  When the condition of the bond has been satisfied; or
+     (2)  If, within one year after payment of the bail forfeiture judgment, the compensated surety effects the apprehension or surrender of the defendant and provides reasonable notice to the court to which the bond returns that the defendant is available for extradition, the court shall vacate the judgment and order a remission of the amount paid on the bond less any necessary and actual costs incurred by the State and the sheriff who has actually extradited the defendant.
+     §804-    Bond valid.  Bail bonds shall be deemed valid notwithstanding the fact that a bond may have been written by a compensated surety who has been placed on the board pursuant to this part and is otherwise prohibited from writing bail bonds."
+     SECTION 2.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 3.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Bail Bonds; Compensated Surety; Enforcement
+ 
+Description:
+Establishes a board to list and disseminate the names of compensated sureties who are prohibited from posting bail bonds.  Creates a process for the court to handle compensated sureties with forfeited bonds when the terms of bail have been violated, including the process under which the court may collect from compensated sureties for the forfeited bonds. 
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

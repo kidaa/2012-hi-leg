@@ -1,0 +1,46 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+881
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CAPTIVE INSURANCE COMPANIES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 431:19-101, Hawaii Revised Statutes, is amended by amending the definitions of "affiliated entity" and "parent" to read as follows:
+     ""Affiliated entity" means any company, person, or other entity in the same corporate system as a parent or a member organization by virtue of common ownership, control, operation, or management, or, in the case of a pure captive insurance company, that maintains a working relationship with, and whose risks insured by the pure captive insurance company are [directly or indirectly controlled by the parent or an affiliate of the parent of a pure captive insurance company.] similar or related to the other risks of, the parent insured by the pure captive insurance company.
+     "Parent" means a corporation, limited liability company, partnership, other entity, or individual, that [directly or indirectly owns, controls, or holds with power to vote more than fifty per cent of the outstanding voting interests of a pure captive insurance company organized as a stock corporation, nonprofit corporation, or limited liability company.] directly or indirectly controls, and has the power to direct or cause the direction of the management and policies of, the pure captive insurance company through the ownership of voting interest or securities."
+     SECTION 2.  Section 431:19-115, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  No insurance laws of this State other than those contained in this article, or contained in specific references contained in this section or article, shall apply to captive insurance companies formed under this article.  In addition to this article, article 1, article 2, sections 431:3-302 to 431:3-304, section 431:3-307, article 4A, parts I and II of article 5, article 6, [article 11,] and article 15 of this chapter, and chapter 431K, shall apply to [captive insurance companies other than pure captive insurance companies and branch captive insurance companies,] risk retention captive insurance companies, unless these other laws are inconsistent with this article or the commissioner by rule, regulation, or order determines, on a case by case basis that these other laws should or should not apply thereto.
+     [In addition to this article, and except as otherwise provided in this article, article 1, article 2, article 6, article 11, and article 15 of this chapter shall apply to class 5 companies, unless these other laws are inconsistent with this article or the commissioner by rule, regulation, or order determines, on a case by case basis that these other laws should not apply thereto.
+     In addition to this article and the articles or portions thereof referenced in this section, chapter 431K shall apply to risk retention captive insurance companies authorized under this article.]"
+     SECTION 3.  Section 431:19-308, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§431:19-308[]]  Applicable laws.  A sponsored captive insurance company shall be subject to this part and to part [II.] I.  If there is any conflict between this part and part [II,] I, this part shall control."
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+
+ 
+Report Title:
+Captive Insurance Companies
+ 
+Description:
+Provides greater flexibility in determining the types of related entities that may be affiliated with and insured by a pure captive insurance company.  Streamlines and simplifies exceptions applicable to various classes of captive insurance companies.  Makes other housekeeping amendments.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

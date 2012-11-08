@@ -1,0 +1,80 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2863
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO EMPLOYMENT.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The State recognizes that Hawaii has felt the adverse impacts of national and global economies that have seen rising unemployment, business closures, personal and business bankruptcies, and contraction of economic activity worldwide.  Hawaii's unemployment rate has risen from 3.0 per cent in January 2008 to 6.5 per cent in November 2011.
+     The purpose of this Act is to spur economic growth by encouraging businesses to hire recently laid-off employees through the provision of a tax credit for hiring those employees.  The credit shall be equal to a fraction of the Federal Insurance Contributions Act taxes that businesses will pay on the newly-hired employees.
+     SECTION 2.  Chapter 235, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§235-    Hiring incentive tax credit.  (a) There shall be allowed to each taxpayer that qualifies as an eligible business subject to taxes imposed by this chapter a hiring incentive tax credit that shall be deductible from the eligible business's net income tax liability, if any, for the taxable year in which the credit is properly claimed.
+     (b)  The amount of the hiring incentive tax credit shall be calculated as follows:
+     (1)  For each eligible employee that the eligible business hired above the base employment level into a full-time permanent position after January 24, 2012, and before June 1, 2012, and was continuously employed for the minimum qualifying term of employment from the date of hire, two-thirds of the eligible business's total taxes imposed on the eligible business during the minimum qualifying term of employment pursuant to title 26 United States Code section 3111 for that eligible employee; and
+     (2)  For each eligible employee that the eligible business hired above the base employment level into a full-time permanent position after May 31, 2012, and before January 1, 2013, and was continuously employed for the minimum qualifying term of employment from the date of hire, one-third of the eligible business's total taxes imposed on the eligible business during the minimum qualifying term of employment pursuant to title 26 United States Code section 3111 for that eligible employee.
+     (c)  The hiring incentive tax credit provided under this section shall be only be applied to the taxable year during which the eligible employee's minimum qualifying term of employment ended, except as provided in subsection (e).
+     (d)  Upon hiring the eligible employee, the eligible business must continue to employ, on average, at least the number of full-time employees that the eligible business had as a result of hiring the eligible employee.  If the business fails to comply with the foregoing provision during the eligible employee's minimum qualifying term of employment, the business will be ineligible to claim the tax credit for hiring the eligible employee.
+     (e)  The hiring incentive tax credit shall be taken against the net income tax liability of the eligible business after all other tax credits have been taken.  Any tax credit that exceeds the eligible business's income tax liability may be used as a credit against the eligible business's income tax liability for up to five subsequent taxable years.
+     (f)  Claims for tax credits under this section, including amended claims, shall be filed on or before the end of the twelfth month following the taxable year for which the tax credit may be claimed.  Failure to file within the twelve-month period shall constitute a waiver of the right to claim the credit.
+     (g)  When claiming the credits authorized in this section, the eligible business shall submit to the department an affidavit signed under penalty of perjury, stating:
+     (1)  The eligible business's name;
+(2)  The eligible business's federal employer identification number or social security number;
+     (3)  The number of eligible employees hired;
+     (4)  The date each eligible employee was hired;
+     (5)  The base employment level;
+     (6)  The factual basis upon which each eligible employee is declared to be an eligible employee;
+     (7)  That each eligible employee was retained by the eligible business for a minimum qualifying term of employment;
+     (8)  The reason, if applicable, why any eligible employee's minimum qualifying term of employment was less than one full year;
+     (9)  That during each eligible employee's minimum term of employment, the eligible business continued to employ, on average, at least the number of full-time employees that the eligible business had as a result of hiring the eligible employee; and
+     (10) That without the tax credit allowed in this section, the eligible business would not have hired the eligible employee during the calendar year of 2012.
+     (h)  The director may prepare any additional forms and procedures that may be necessary to claim a credit under this section. The director may also require the eligible business to furnish additional information to ascertain the validity of the claims for credit made under this section and may adopt, pursuant to chapter 91, rules necessary to effectuate the purposes of this section.
+     (i)  A eligible business applying for a tax credit under this section shall be ineligible to claim a tax credit or use an exemption under sections 209E-10, 209E-11, or 235-55.91.
+     (l)  Any eligible business receiving credit under this section must maintain substantial operations in the State for at least two years beyond the term of its last receipt of income tax credits.  Failure to comply with the foregoing provision shall result in recapture of fifty per cent of the credit claim under this section in all prior taxable years.  In determining whether a eligible business is maintaining substantial business operation in the State, the department of taxation may consider:
+     (1)  The number and wages of employees in the business;
+     (2)  The revenues of the business; and
+     (3)  Other factors as determined by rule.
+     (m)  Notwithstanding any other law to the contrary limiting the disclosure of tax returns or return information, the department of business, economic development, and tourism, and the department of labor and industrial relations shall be entitled to inspect and receive tax returns and return information in the administration of this credit.
+     (n)  As used in this section:
+     "Base employment level" means the number of persons employed by an eligible business on the effective date of enactment of this Act as evidenced by payroll records submitted as part of the business's monthly remittance of unemployment tax payments to the State.
+     "Eligible business" means any business firm that is a corporation, partnership, subchapter S corporation, limited liability company, or sole proprietorship registered to do business in the State with the department of commerce and consumer affairs and the department of taxation, subject to the taxes imposed under this chapter; provided that this definition shall exclude any business firm that laid off any employee after October 31, 2011, and before February 1, 2012.
+     "Eligible employee" means an individual who resides in the
+State, and who, solely as the result of a layoff, lost employment on a date occurring after October 31, 2011, and before February 1, 2012, and who was not employed from the date of layoff to the date the eligible business hired the employee into a full-time permanent position.
+     "Laid off" or "Layoff" means a separation from a position for lack of funds or lack of work; provided that this definition shall exclude a separation due to termination for cause, voluntary separation, or retirement.
+     "Minimum qualifying term of employment" means one full year from a eligible business's initial date of hire of an eligible employee; provided that if the eligible employee dies or is terminated for cause prior to serving the eligible business for one full year, then the term "minimum qualifying term of employment" means the length of time the employee served until the employee's date of death of termination for cause.
+     "Permanent full-time position" means a job of indefinite duration at a eligible business located within the State and requiring either:
+     (1)  A minimum of thirty-five hours of an employee’s time a week for the entire taxable year of the eligible business where the taxable year consists of not less than forty-eight weeks or a portion thereof when the employee was initially hired by the eligible business; or
+     (2)  A minimum of one thousand six hundred eighty hours a year of employment, or the pro-rata share from the initial hire date within the year, when two thousand eighty hours is considered a full work year."
+     SECTION 3.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon approval; provided that this Act shall be repealed on December 31, 2019.
+ 
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Hiring Incentive Tax Credit
+ 
+Description:
+Provides for a job creation income tax credit to businesses for hiring recently laid off employees.  The credit is equal to a fraction of the Federal Insurance Contributions Act taxes that businesses will pay on the newly-hired employees.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

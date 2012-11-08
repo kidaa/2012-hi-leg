@@ -1,0 +1,60 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2424
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO AGRICULTURAL BUILDING PERMITS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that existing building codes and permitting processes are overly burdensome to the State’s commercial agriculture and aquaculture industries and add substantial time and costs to establishing or expanding farming and ranching enterprises in the State.  The building codes and permitting processes are also contrary to the State’s goals of expanding local food and bioenergy production, increasing the State’s self-sufficiency in critical economic sectors, and improving the economic well-being of the State’s rural farming communities.
+     Historically, building codes are the result of national efforts in the early 1900's to prevent large urban fires and mitigate large-scale fire losses.  Because the largest and most devastating fires tended to occur in large urban areas, the move to adopt uniform building codes generally did not include rural structures, particularly since the loss of an agricultural building would seldom lead to the loss of human life.  Planners also found that rural buildings were generally isolated, so fires would not usually spread to a large number of other buildings, as frequently occurred in urban settings.  While the complexity and scope of building codes have expanded dramatically over the past century, the agricultural building exemptions present in statute or code in many prominent agricultural states have remained largely in place, exempting agricultural buildings, and in a number of states, agricultural dwellings, from the zoning and building codes and permit processes.
+     Hawaii does not currently have a statutory agricultural building exemption despite its long agricultural history, its current high dependency on agricultural food and fuel imports, and the inclusion of specific wording in article XI, section 3 of the state constitution that the State shall "promote diversified agriculture" and "increase agricultural self-sufficiency".
+     The purpose of this Act is to encourage and support diversified agriculture and agricultural self-sufficiency in the State by providing an agricultural building exemption for commercial farms and ranches located outside of the urban zone.
+     SECTION 2.  Chapter 46, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§46-     Agricultural buildings and structures; building permit not required.  (a)  Notwithstanding any law to the contrary, no county shall require a building permit for the construction, installation, or operation of low-risk nonresidential agricultural buildings or structures, or appurtenances thereto, located on commercial farms or ranches used for general agricultural or aquacultural operations or purposes incidental to the farming or ranching; provided that:
+     (1)  The low-risk nonresidential building or structure is constructed or installed on a lot that is two or more contiguous acres in area and primarily used for agricultural or aquacultural operations;
+     (2)  Upon completion of construction or installation, the owner or occupier provides written notice to the appropriate fire department and county building permitting agency of the size, type, and location of the low-risk nonresidential agricultural building or structure;
+     (3)  A building or structure constructed or installed pursuant to this section that will be serviced with electricity shall comply with the applicable electrical code;
+     (4)  Disposal of wastewater from any building or structure constructed pursuant to this section shall comply with applicable state wastewater rules adopted pursuant to chapter 342D; and
+     (5)  This section shall not apply to buildings or structures otherwise exempted from building permitting or building code requirements by applicable county ordinance.
+     (b)  This section shall not apply to the construction or installation of any building or structure on land that is classified or zoned as urban.
+     (c)  As used in this section:
+     "Agricultural operation" means the planting, cultivating, harvesting, processing, and storage of crops, including those planted, cultivated, harvested, and processed for food, ornamental, grazing, feed, or forestry purposes; and the feeding, breeding, management, and sale of animals, including livestock, poultry, honeybees, and their products.
+     "Agricultural or aquacultural building" means a building or structure located on a commercial farm or ranch designed, constructed, or installed to house farm or ranch implements, agricultural or aquacultural feed or supplies, livestock, poultry, or other agricultural or aquacultural products used in the operation of the farm or ranch and the processing and selling of the agricultural or aquacultural goods produced thereon.  The term shall not include a place of human habitation or occupancy.
+     "Aquacultural operation" means the propagation, cultivation, farming, harvesting, processing, and storage of aquatic plants and animals in controlled or selected environments for research, commercial, or stocking purposes, including aquaponics or any growing of plants or animals in or with aquaculture effluents.
+     "Low-risk" means a manufactured or pre-engineered building or structure, and appurtenances thereto; a recycled ocean shipping or cargo container; an agricultural shade cloth structure, cold frame, or greenhouse; an aquaculture or aquaponics structure; an aquaculture or aquaponics water storage or production tank or raceway; a livestock watering tank; a fence; a one-story masonry or wood-framed building or structure with structural spans of less than twenty-five feet, including but not limited to:  a farm building used as a barn; a greenhouse; a farm production building; a storage building for farm equipment, plant or animal supplies, or feed; a storage or processing building for crops; or a masonry or wood-framed building or structure with structural spans twenty-five feet or more designed or engineered according to the version of the International Building Code that has been adopted by the respective county, as published by the International Code Council, and appurtenances thereto, that:
+     (1)  Complies with applicable setback codes; and
+     (2)  Has been properly anchored.
+     "Nonresidential" means a building or structure that is used only for agricultural or aquacultural operations and is not used as, or intended for use as, a dwelling."
+     SECTION 3.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Counties; Agriculture; Building Permits
+ 
+Description:
+Exempts from county building permits buildings or structures located on commercial farms or ranches used for general agricultural or aquacultural operations.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

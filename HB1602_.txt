@@ -1,0 +1,107 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1602
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MEDICAL HARM DISCLOSURE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The Hawaii Revised Statutes is amended by adding a new chapter to be appropriately designated and to read as follows:
+"CHAPTER    
+MEDICAL HARM DISCLOSURE
+     §    -1  Short title.  This chapter shall be known and may be cited as the Medical Harm Disclosure Act.
+     §    -2  Definitions.  As used in this chapter, unless the context clearly indicates otherwise:
+     "Department" means the department of health.
+     "Director" means the director of the department of health.
+            "Hospital" includes:
+     (1)  An institution with an organized medical staff, regulated under section 321‑11(10), that admits patients for inpatient care, diagnosis, observation, and treatment; and
+     (2)  A health facility under chapter 323F.
+     "Medical harm event" means any harm done to a patient as a result of medical care or in a hospital setting, including the National Quality Forum’s list of serious reportable events, and the following events:
+(1)  Surgical and related anesthesia events including unexpected complications and deaths, surgery performed on a wrong body part, surgery performed on the wrong patient, the wrong surgical procedure performed on a patient, and retention of a foreign object in a patient after surgery or other procedure, excluding objects intentionally implanted as part of a planned intervention and objects present prior to surgery that are intentionally retained;
+(2)  Medication events related to professional practice, or health care products, procedures, and systems, including prescribing, prescription order communications, product labeling, packaging and nomenclature, compounding, dispensing, distribution, administration, education, monitoring, and use;
+(3)  Product or device events related to the use or function of a device in patient care in which the device is used or functions other than as intended, including catheters, infusion pumps, or ventilators;
+(4)  Care management events including stage three or four pressure ulcers acquired after admission to a health facility, failure to rescue, intravenous (IV) injuries, and maternal death or serious disability associated with labor or delivery, including events that occur within forty-two days post-delivery;
+(5)  Environmental deaths including unintended electric shock, delivery of the wrong gas or contaminated toxic substance, burns incurred from any source, patient falls, and harm associated with the use of restraints or bedrails; and
+(6)  Death of a previously healthy person while undergoing medical care.
+     §    -3  Hospital requirements.  (a)  A hospital shall report a medical harm event to the department not later than five days after the event has been detected, or, if that event is an ongoing urgent or emergent threat to the welfare, health, or safety of patients, personnel, or visitors, not later than twenty-four hours after the adverse event has been detected.  The reports shall be made on a form as prescribed by the department.
+     (b)  The report shall indicate the level of medical harm to the patient, such as whether it resulted in serious injury or death, using the format developed by the department.
+     (c)  On a quarterly basis, each hospital that has had no medical harm events to report during that quarter shall affirmatively declare this fact to the department, using a form developed by the department.
+     (d)  Each hospital shall be required to create facility-wide patient safety programs to routinely review patient records for medical harm, analyze these events to determine if they were preventable, and implement changes to prevent similar harmful events.  Each hospital shall provide an annual summary of its patient safety program to the department.
+     (e)  Each hospital shall inform the patient, or guardian in the case of a minor, or the next of kin in the case of death or serious bodily injury, of the medical harm event by the time the report required under subsection (a) is made to the department.
+     (f)  Each hospital shall interview patients, family members, or the guardian in the case of a minor, about medical harm events and document a detailed summary of that interview in the patient's medical record.
+     (g)  If the medical harm event contributed to the death of a patient, the hospital shall include that event as a contributing cause on the patient's death certificate.
+     (h)  If the hospital is a division or subsidiary of another entity that owns or operates multiple hospitals or related organizations, a report shall be made for the each specific
+division or subsidiary and not aggregately for multiple hospitals.
+     (i)  Nothing in this section shall be interpreted to change or otherwise affect hospital reporting requirements regarding reportable diseases or unusual occurrences, as provided under any other provision of law.
+     §    -4  Advisory committee.  (a)  There is established within the department an advisory committee that shall assist the department in the development of all aspects of the department's procedures for collecting, analyzing, and disclosing the information collected under this chapter, including collection methods, formatting, evaluation of methods used, and the methods and means for release and dissemination.
+     (b)  The director shall appoint the members of the advisory committee, which shall include representatives from public and private hospitals, direct care nursing staff, physicians, epidemiologists with expertise in patient safety, academic researchers, consumer organizations, health insurers, health maintenance organizations, organized labor, and
+purchasers of health insurance, such as employers.  A majority of the advisory committee members shall represent interests other than hospitals.
+     (c)  Meetings of the advisory committee shall be open to the public.
+     §    -5  Collecting, analyzing, and validating data.
+     (a)  The department shall, with the advice of the advisory committee created in section     -4, develop guidelines for hospitals in identifying medical harm events.
+     (b)  The department shall create standardized reporting formats for hospitals to use to comply with this chapter.
+     (c)  In developing the procedures for collecting the data on medical harm events, the department and advisory committee shall use the forms developed by the Agency for Healthcare Research and Quality as "common formats", or a similar standardized collection method.
+     (d)  In developing the procedures for analyzing the data, the department shall include a standardized method of categorizing the level of harm experienced by the patient, such as the National Coordinating Council for Medication Errors Reporting and Prevention Index for Categorizing Errors.
+     (e)  The department shall verify the accuracy of information reported by hospitals under this chapter at least quarterly by comparing the information with other available data such as patient safety indicators from hospital patient discharge data, complaints filed with the department or the department of commerce and consumer affairs, death certificates, inspection and survey reports, and medical malpractice information.  The department shall annually conduct random reviews of hospital medical records.
+     (f)  The data collection, analysis, and validation procedures shall be available to the public.
+     (g)  Every three years, the department shall have an independent audit conducted by an individual or agency not affiliated with any hospital required to report under this chapter.  The audit shall:
+(1)  Assess the accuracy of reporting by hospitals, especially seeking to identify underreporting;
+(2)  Be funded by the patient safety trust fund created in section      -9; and
+(3)  Be available to the public on the department’s website within one month of receiving the final report.
+     (h)  The department shall adopt rules pursuant to chapter 91 to carry out the purposes of this chapter.
+     §    -6  Public reports.  (a)  Each quarter, the department shall publish a report on the fines assessed to hospitals for
+failure to report medical harm events under section      -10 of this chapter, and shall issue a press release about that publication in a daily or weekly publication of general circulation in all counties.
+     (b)  The department shall annually submit a report to the legislature detailing medical harm events reported at each hospital that is required to report under this chapter, no later than twenty days prior to the convening of each regular session.  The report may include policy recommendations, as appropriate.  The report shall:
+(1)  Be published on the department’s website at the same time it is submitted to the legislature;
+(2)  Include hospital-specific information on the number and type of medical harm events reported, the level of harm to patients, fines assessed and enforcement actions taken, and the quarterly affirmation by hospitals in which no medical harm events have occurred;
+(3)  Provide information in a manner that stratifies the data based on characteristics of the hospitals, such as the number of patient admissions and patient days in each hospital; and
+(4)  Contain text written in plain language that includes the findings, conclusions, and trends concerning the overall patient safety in the State, including a comparison to prior years, and the methods the department used to check for the accuracy of hospital reports.
+     (c)  Each quarter, the department shall make information regarding outcomes of inspections and investigations conducted pursuant to its regulatory duties, readily accessible to the public on the department website.
+     (d)  No hospital report or department public disclosure may contain information identifying a patient, employee, or licensed health care professional in connection with a specific medical harm event.
+     (e)  The first report to the legislature required under subsection (b) shall be submitted and published no later than twenty days prior to the start of the regular session of 2012.  Following the initial report, the department shall submit and publish these reports annually.
+     §    -7  Privacy.  Nothing in this chapter shall be interpreted to affect a patient's right of confidentiality.  Patient social security numbers or any other information that could be used to identify an individual patient shall not be released, notwithstanding any other provision of law.
+     §    -8  Protection for taking action.  No hospital shall discharge, refuse to hire, refuse to serve, retaliate in any manner, or take any adverse action against any employee, applicant for employment, or health care provider because the employee, applicant for employment, or health care provider takes or has taken any action in furtherance of the enforcement of the provisions of this chapter.
+          §    -9  Funding; patient safety trust fund, established.  (a)  There is established, outside of the state treasury, a special fund, to be known as the patient safety trust fund into which shall be deposited the following:
+     (1)  Moneys collected from an annual patient safety surcharge on licensing fees which the department shall impose upon health facilities required to report under this chapter;
+     (2)  All penalties assessed under section    -10; and
+     (3)  All interest accrued on moneys deposited in the fund.
+     (c)  Moneys from the fund shall be used for regulatory oversight and public accountability for safe health care, including the independent audit specified under section   -5(g).
+     §    -10  Department actions and penalties.  (a)  In any case in which the department receives a report from a hospital pursuant to section     -3, that indicates an ongoing threat or imminent danger of death or serious bodily harm, the department shall make an onsite inspection or investigation within forty-eight hours or two-business days, whichever is greater, of the receipt of the report and shall complete that investigation within forty-five days.
+     (b)  If a hospital fails to report a medical harm event pursuant to section     -3, the department may assess the licensee a civil penalty in an amount not to exceed $100 for each day that the medical harm event is not reported following the initial five-day period or twenty-four-hour period, as applicable.  If the licensee disputes a determination by the department regarding an alleged failure to report a medical harm event, the licensee may, within ten days, request a hearing in writing.  Penalties shall be paid when appeals of the penalty assessment have been exhausted.
+     (c)  The department shall be responsible for ensuring compliance with this chapter as a condition of licensure under section 321-14.5 and shall enforce such compliance of this chapter.
+     §    -11  Public awareness.  The department shall promote public awareness regarding where and how consumers may
+file complaints about hospitals, including a requirement that information about complaints be made accessible for viewing by the public to the extent allowed under applicable confidentiality and privacy laws."
+     SECTION 2.  If any provision of this Act, or the application thereof to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of the Act, which can be given effect without the invalid provision or application, and to this end the provisions of this Act are severable.
+     SECTION 3.  In codifying the new sections added by section 1 of this Act, the revisor of statutes shall substitute appropriate section numbers for the numbers used in designating the new sections in this Act.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Medical Error Disclosure; Department of Health
+ 
+Description:
+Requires hospitals to report medical harm events.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+ 

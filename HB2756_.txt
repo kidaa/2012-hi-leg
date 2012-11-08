@@ -1,0 +1,87 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2756
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PLANNED DEVELOPMENT.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 46, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows:
+"PART    .  TRANSIT-RELATED DEVELOPMENT PROGRAM
+     §46-A  Short title.  This part shall be known and may be cited as the Transit-related Development Act.
+     §46-B  Findings and purpose.  The legislature finds that successful planning for growth requires increasing the density of existing and new communities.  Well-designed and well-integrated higher-density development can significantly reduce dependency on cars, but those benefits are even greater when jobs and retail are incorporated with housing.  Mixed-use neighborhoods make it easier for people to park their cars in one place and accomplish several tasks, which not only reduce the number of car trips required but also reduce overall parking needs for the community and our carbon imprint.  The purpose of this part is to facilitate commercial and residential development on land adjacent to public transportation facilities.
+     §46-C  Definitions.  As used in this part, unless the context requires otherwise:
+     "Action" or "action taken" means approval, approval with modification, or disapproval.
+     "Application" means the preliminary plans and specifications for a development project and includes materials such as plans, information, or specifications, submitted to a planning agency at the request of, and within the time provided by, the agency, for the purpose of supplementing an existing application.  A planning agency may adopt rules pursuant to chapter 91 to further specify materials that shall be deemed part of an application for purposes of this part.
+     "Development project" means the planning, financing, and acquisition of real and personal property; demolition of existing structures and clearance of real property; construction, reconstruction, alteration, or repair of approaches, streets, sidewalks, utilities, and services, or other site improvements; construction, reconstruction, repair, remodeling, extension, equipment, or furnishing of buildings or other structures; any combination of the foregoing with respect to any residential or commercial project located wholly within a transit-related development zone; and any and all undertakings necessary for any of the foregoing.  "Development project" shall not include any of the foregoing activities with respect to any residential or commercial project not located wholly within a transit-related development zone.
+     "Legislative body" means the legislative body of the county to which a qualified developer submits an application or final plans and specifications for a development project.
+     "Planning agency" or "agency" means the planning agency of a county to which a qualified developer submits an application for a development project.
+     "Program" refers to the transit-related development program set forth in this part, as made applicable to a county through adoption by the county.
+     "Qualified developer" means a person, corporation, organization, partnership, association, or other legal entity that is:
+     (1)  Licensed to do business in the State; and
+(2)  Bonded in an amount to be determined by the respective legislative body of each county.
+"Transit-related development zone" means:
+     (1)  Areas within a one-half-mile radius from a rail transit station;
+     (2)  Areas within a one-quarter-mile radius from a bus transit center; and
+     (3)  The area between the two rail transit stations located nearest to the Honolulu International Airport.
+     §46-D  Applicability.  (a)  Notwithstanding any law to the contrary, each county shall adopt the transit-related development program set forth in this part.  Each county shall accord to qualified developers fair and equal treatment with respect to the availability of the procedures under the program.
+     (b)  This part shall apply only to development projects located wholly within a transit-related development zone.
+     §46-E  Application by developer; review by county.  (a)  A qualified developer may submit to the planning agency an application for approval of a commercial or residential development project.  Upon receipt of the application, the planning agency shall review the application and secure any additional information that the agency deems necessary for the purpose of taking action.  The planning agency shall take action within forty-five days of receipt of the application; provided that the time to take action may be extended for good cause.  Within ten days, the planning agency shall notify the developer of the action taken.
+     (b)  The legislative body shall have forty-five days from the date the qualified developer submits the application to the legislative body to disapprove an application by a resolution.  If on the forty-sixth day the application is not disapproved by a resolution, it shall be deemed approved by the legislative body; provided that no application shall be deemed approved if the development project:
+     (1)  Is not to be performed by contractors or subcontractors licensed pursuant to chapter 444; or
+     (2)  Contravenes any safety standards, tariffs, or rates and fees approved by the public utilities commission for public utilities or of any board of water supply authorized under chapter 54.
+The developer shall have fifteen days from the date the
+notice of the disapproval is issued to appeal to the legislative
+body. 
+     (c)  If an application is approved or approved with modifications, the planning agency or the legislative body, whichever takes the action, shall make a written finding that the development project, with modifications if approved as such, is consistent with the purpose and intent of the long-range, comprehensive general plan prepared pursuant to section 46-4(a) and meets minimum requirements of health and safety.
+     §46-F  Approval of final plans and project specifications.  (a)  No work on a development project shall commence unless the developer submits final plans and project specifications to the legislative body.  The legislative body shall have fifteen days from the date the qualified developer submits final plans and project specifications to the legislative body to disapprove the final plans and project specifications by a resolution.  If on the sixteenth day the final plans and project specifications are not disapproved by a resolution, they shall be deemed approved by the legislative body.
+     (b)  For purposes of sections 501-85 and 502-17, the qualified developer or a responsible county official may certify maps and plans of lands connected with the development project as having complied with applicable laws and ordinances relating to consolidation and subdivision of lands, and the maps and plans shall be accepted for registration or recordation by the land court and registrar.
+     §46-G  Final plans and specifications to constitute zoning, building, construction, and subdivision standards for the development project.  The final plans and specifications for a development project, as approved or modified by the legislative body, shall constitute the zoning, building, construction, and subdivision standards for that project.
+     §46-H  Exemption from statutes, ordinances, charter provisions, and rules.  Development projects shall be exempt from all statutes, ordinances, charter provisions, and rules of any state or county government agency relating to planning, zoning, construction standards for subdivisions, development and improvement of land, and the construction of dwelling units; provided that the final plans and specifications for a development project, as approved or modified by the legislative body, shall constitute the zoning, building, construction, and subdivision standards for that project; and provided further that, upon the adoption by any county of a form-based zoning code, the exemptions previously available under this section shall no longer apply, and the provisions of the form-based zoning code shall apply.
+     §46-I  Indemnity.  No action shall be prosecuted or maintained against any county or its officials or employees on account of actions taken by them in reviewing, approving, modifying, or disapproving the application or plans and specifications of a development project.
+     §46-J  Use of unlicensed contractor or subcontractor; penalty.  (a)  No unlicensed contractor or subcontractor shall work on any development project authorized under this part.  A developer shall be fined not more than $10,000 for each separate offense under this section.  Each date of violation shall constitute a separate offense.  The attorney general and the director of labor and industrial relations may bring an action pursuant to this section.
+     (b)  The penalties provided in this section shall be cumulative to the remedies or penalties available under all laws of this State.
+     §46-K  Adoption of rules.  A planning agency may adopt rules pursuant to chapter 91 that are necessary to effectuate the purposes of this part."
+     SECTION 2.  Section 343-6, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  After consultation with the affected agencies, the council shall adopt, amend, or repeal [necessary] rules for the purposes of this chapter in accordance with chapter 91 including, but not limited to, rules that shall:
+     (1)  Prescribe the procedures whereby a group of proposed actions may be treated by a single environmental assessment or statement;
+     (2)  Establish procedures whereby specific types of actions, because they will probably have minimal or no significant effects on the environment, are declared exempt from the preparation of an environmental assessment;
+     (3)  Prescribe procedures for the preparation of an environmental assessment;
+     (4)  Prescribe the contents of an environmental assessment[;], including a ridership impact analysis report for development projects approved pursuant to part    , chapter 46;
+     (5)  Prescribe procedures for informing the public of determinations that a statement is either required or not required, for informing the public of the availability of draft environmental impact statements for review and comments, and for informing the public of the acceptance or nonacceptance of the final environmental statement;
+     (6)  Prescribe the contents of an environmental impact statement[;], including a ridership impact analysis report for development projects approved pursuant to part    , chapter 46;
+     (7)  Prescribe procedures for the submission, distribution, review, acceptance or nonacceptance, and withdrawal of an environmental impact statement;
+     (8)  Establish criteria to determine whether an environmental impact statement is acceptable or not; and
+     (9)  Prescribe procedures to appeal the nonacceptance of an environmental impact statement to the environmental council."
+     SECTION 3.  In codifying the new sections added by section 1 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.      SECTION 5.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Planned Development; Urban Planning; Transit-related Development
+ 
+Description:
+Authorizes counties to adopt a program to facilitate residential and commercial development in specified areas in relation to mass transit and to expedite approval of development projects within those areas.  Exempts certain development projects from all state and county laws relating to planning, zoning, construction standards for subdivisions, development and improvement of land, and the construction of dwelling units.  Requires the environmental council to adopt rules relating to transit ridership impact analysis for environmental assessments or impact statements relating to certain development projects.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

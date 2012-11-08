@@ -1,0 +1,45 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2336
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MOTOR VEHICLE INSURANCE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 431, Hawaii Revised Statutes, is amended by adding a new section to article 10C to be appropriately designated and to read as follows:
+     "§431:10C-     Mandatory electronic reporting of liability insurance status.  (a)  Before July 1, 2013, each insurer that issues motor vehicle insurance policies shall advise the commissioner of the electronic method to be used for reporting liability insurance information under subsections (b), (c), and (d).  The commissioner shall establish an electronic conversion schedule.
+     (b)  Before January 1, 2014, each insurer shall report all existing motor vehicle liability insurance policies for vehicles registered in this State, to the commissioner in a manner that preserves existing reporting relationships and that allows for smaller insurers and those with unusual circumstances to be accommodated, consistent with the intent of this section.  Accommodation methods that may be made under this subsection include but are not limited to an extension of the mandatory electronic reporting deadline set forth in this section to no later than July 1, 2014.
+     (c)  After December 31, 2013, each insurer shall electronically report to the commissioner all issued motor vehicle liability policies within thirty days of the effective date of the coverage.
+     (d)  After December 31, 2013, each insurer shall electronically report to the commissioner the cancellation or nonrenewal of a reported policy or any change of information previously reported under subsection (b) or (c), as specified by the commissioner, within forty-five days of the date of cancellation, nonrenewal, or change.  This report shall include the effective date of the cancellation or amendment, or the last date of coverage in the case of a nonrenewal, and any other information that does not exceed that required under subsection (c).
+     (e)  The commissioner, pursuant to chapter 91, may adopt rules for reporting insurance information, including, but not limited to, establishing acceptable timeframes and approved methods for reporting information."
+     SECTION 2.  New statutory material is underscored.
+     SECTION 3.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Motor Vehicle Insurance; Cancellation; Nonrenewal; Reporting
+ 
+Description:
+Effective 1/1/14, requires motor vehicle insurers to electronically report to the insurance commissioner all existing policies within 45 days.  Requires each insurer to report cancelled, nonrenewed, altered, and new policies.
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

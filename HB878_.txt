@@ -1,0 +1,140 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+878
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO NONPROFIT CORPORATIONS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that the use of voting by ballot and voting through electronic means will be an efficient way to permit members of nonprofit corporations to vote or take action.  This Act is intended to clarify that members of Hawaii nonprofit corporations may take action by ballots that may be transmitted electronically, as contemplated by the model nonprofit corporation act, third edition.
+     The legislature also finds that allowing membership meetings to be held using electronic technology in appropriate circumstances will allow for greater participation by members in nonprofit membership corporations and reduce the costs associated with annual elections and matters involving membership voting.  This Act is also intended to clarify that membership meetings of Hawaii nonprofit corporations may utilize appropriate electronic communication methods as contemplated by the model nonprofit corporation act, third edition.
+     Finally, this Act expressly permits nonprofit corporations to utilize electronic transmission to provide notice to directors in the manner currently permitted for notice to members.  In each case, however, electronic transmission may only be used if the member or director has consented to receive notice by that method.
+     SECTION 2.  Chapter 414D, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§414D-     Action by ballot.  (a)  Except as otherwise restricted by the articles of incorporation or bylaws, any action that may be taken at any annual, regular, or special meeting of members may be taken without a meeting if the membership corporation delivers a ballot to every member entitled to vote on the matter.  The membership corporation may deliver ballots by electronic transmission.
+     (b)  A ballot shall:
+     (1)  Be either in written form or in the form of an electronic transmission;
+     (2)  Set forth each proposed action;
+     (3)  Provide an opportunity to vote for, or withhold a vote for, each candidate for election as a director or, if applicable, officer; and
+     (4)  Provide an opportunity to vote for, or against, each other proposed action.
+     (c)  Approval by ballot pursuant to this section shall be valid only if the number of votes cast by ballot equals or exceeds the quorum required to be present at a meeting authorizing the action, and the number of approvals equals or exceeds the number of votes that would be required to approve the action at a meeting at which the total number of votes cast was the same as the number of votes cast by ballot.
+     (d)  All solicitations for votes by ballot shall:
+     (1)  Indicate the number of responses needed to meet the quorum requirements;
+     (2)  State the percentage of approvals necessary to approve each action; and
+     (3)  Specify the time by which a ballot shall be received by the membership corporation in order to be counted.
+     (e)  Except as otherwise provided in the articles of incorporation or bylaws, a ballot may not be revoked."
+     SECTION 3.  Section 414D-14, Hawaii Revised Statutes, is amended by amending the definitions of "approved by (or approval by) the members" and "vote" to read as follows:
+     ""Approved by (or approval by) the members" means approved or ratified by the affirmative vote of a majority of the votes represented and voting at a duly held meeting at which a quorum is present (which affirmative votes also constitute a majority of the required quorum) or by a [written] ballot or written consent in conformity with this chapter or by the affirmative vote, [written] ballot, or written consent of such greater proportion, including the votes of all the members of any class, unit, or grouping as may be provided in the articles, bylaws, or this chapter for any specified member action.
+     "Vote" includes authorization by [written] ballot and written consent."
+     SECTION 4.  Section 414D-15, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending subsections (a) and (b) to read:
+     "(a)  Notice may be oral, in the form of an electronic transmission as described in subsections (i) and (j), or written.
+     (b)  Notice may be communicated in person; by telephone, telegraph, teletype, or other form of wire or wireless communication; [or] by mail or private carrier[.]; or by electronic transmission as described in subsections (i) and (j).  If these forms of personal notice are impracticable, notice may be communicated by newspaper of general circulation in the area where published; or by radio, television, or other form of public broadcast communication."
+     2.  By amending subsections (i) and (j) to read:
+     "(i)  Without limiting the manner by which notice otherwise may be given to members[,] or directors, notice to members or directors given by the corporation under this chapter, the articles of incorporation, or the bylaws shall be effective if provided by electronic transmission consented to by the member or director to whom the notice is given.  Any consent shall be revocable by the member or director by written notice or notice by electronic transmission to the corporation.  Any consent shall be deemed revoked if:
+     (1)  The corporation is unable to deliver by electronic transmission two consecutive notices given by the corporation in accordance with such consent; and
+     (2)  The inability to deliver becomes known to the secretary or an assistant secretary of the corporation, to the transfer agent, or other person responsible for giving notice; provided that the inadvertent failure to treat such inability as a revocation shall not invalidate any meeting or other action.
+     (j)  Notice given pursuant to subsection (i) shall be deemed given:
+     (1)  If by facsimile telecommunication, when directed to a number at which the member or director has consented to receive notice;
+     (2)  If by electronic mail, when directed to an electronic mail address at which the member or director has consented to receive notice;
+     (3)  If by posting on an electronic network together with separate notice to the member or director of [such] the specific posting, upon the later of the posting and the giving of [such] the separate notice; and
+     (4)  If by any other form of electronic transmission, when directed to the member[.] or director.
+An affidavit of the secretary, assistant secretary, transfer agent, or other agent of the corporation that the notice has been given by a form of electronic transmission, in the absence of fraud, shall be prima facie evidence of the facts stated therein."
+     SECTION 5.  Section 414D-17, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  If for any reason it is impractical or impossible for any corporation to call or conduct a meeting of its members, delegates, or directors, or otherwise obtain their consent, in the manner prescribed by its articles, bylaws, or this chapter, then upon petition of a director, officer, delegate, or member, the court may order that such a meeting be called or that a [written] ballot or other form of obtaining the vote of members, delegates, or directors be authorized, in such a manner as the court finds fair and equitable under the circumstances."
+     SECTION 6.  Section 414D-101, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§414D-101[]]  Annual and regular meetings.  (a)  A corporation with members shall hold a membership meeting annually at a time stated in or fixed in accordance with the bylaws.
+     (b)  A corporation with members may hold regular membership meetings at the times stated in or fixed in accordance with the bylaws.
+     (c)  Annual and regular membership meetings may be held in or out of this State at the place stated in or fixed in accordance with the bylaws.  If no place is stated in or fixed in accordance with the bylaws, annual and regular meetings shall be held at the corporation's principal office.
+     (d)  At the annual meeting:
+     (1)  The president and chief financial officer shall report on the activities and financial condition of the corporation; and
+     (2)  The members shall consider and act upon [such] other matters as may be raised consistent with the notice requirements of sections 414D‑105 and 414D‑111.
+     (e)  At regular meetings the members shall consider and act upon [such] matters as may be raised consistent with the notice requirements of sections 414D‑105 and 414D‑111.
+     (f)  The failure to hold an annual or regular meeting at a time stated in or fixed in accordance with a corporation's bylaws shall not affect the validity of any corporate action.
+     (g)  If authorized by the board of directors in its sole discretion, members or proxies of members may participate at an annual or regular meeting of members by means of the internet, teleconference, or other electronic transmission technology in a fashion pursuant to which the members have the opportunity to:
+     (1)  Read or hear the proceedings substantially concurrently with their occurrence;
+     (2)  Vote on matters submitted to the members;
+     (3)  Pose questions; and
+     (4)  Make comments.
+     A member or proxy of a member participating in a meeting by those means shall be deemed to be present in person at the meeting.  The corporation shall implement reasonable measures to verify that each person deemed present and permitted to vote at the meeting by means of the internet, teleconference, or other electronic transmission technology, is a member or proxy of a member."
+     SECTION 7.  Section 414D-102, Hawaii Revised Statutes, is amended to read as follows:
+     "§414D-102  Special meetings.  (a)  A corporation with members shall hold a special meeting of members:
+     (1)  On call of its board, or the person or persons authorized to do so by the articles or bylaws; or
+     (2)  Unless the articles or bylaws provide otherwise, if the holders of at least five per cent of the voting power of any corporation sign, date, and deliver to any corporate officer one or more written demands for the meeting describing the purpose or purposes for which it is to be held.
+     (b)  The close of business on the thirtieth day before delivery of the demand or demands for a special meeting to any corporate officer shall be the record date for the purpose of determining whether the five per cent requirement of subsection (a) has been met.
+     (c)  If a notice for a special meeting demanded under subsection (a)(2) is not given pursuant to section 414D-105 within thirty days after the date the written demand or demands are delivered to a corporate officer, regardless of the requirements of subsection (d), a person signing the demand or demands may set the time and place of the meeting and give notice pursuant to section 414D-105.
+     (d)  Special meetings of members may be held in or out of this State at the place stated in or fixed in accordance with the bylaws.  If no place is stated or fixed in accordance with the bylaws, special meetings shall be held at the corporation's principal office.
+     (e)  Only those matters that are within the purpose or purposes described in the meeting notice required by section 414D-105 may be conducted at a special meeting of members.
+     (f)  If authorized by the board of directors in its sole discretion, members or proxies of members may participate at a special meeting of members by means of the internet, teleconference, or other electronic transmission technology in a fashion pursuant to which the members have the opportunity to:
+     (1)  Read or hear the proceedings substantially concurrently with their occurrence;
+     (2)  Vote on matters submitted to the members;
+     (3)  Pose questions; and
+     (4)  Make comments.
+     A member or proxy of a member participating in a meeting by those means shall be deemed to be present in person at the meeting.  The corporation shall implement reasonable measures to verify that each person deemed present and permitted to vote at the meeting by means of the internet, teleconference, or other electronic transmission technology, is a member or proxy of a member."
+     SECTION 8.  Section 414D-114, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  A director elected by cumulative voting may be removed by the members without cause if the requirements of section 414D-138 are met unless the votes cast against removal, or not consenting in writing to the removal, would be sufficient to elect the director if voted cumulatively at an election at which the same total number of votes were cast (or, if the action is taken by [written] ballot, all memberships entitled to vote were voted) and the entire number of directors authorized at the time of the director's most recent election were then being elected."
+     SECTION 9.  Section 414D-115, Hawaii Revised Statutes, is amended to read as follows:
+     "§414D-115  Other methods of electing directors.  [(a)]  A corporation may provide in its articles or bylaws for the election of directors by members or delegates:
+     (1)  On the basis of chapter or other organizational unit;
+     (2)  By region or other geographic unit;
+     (3)  By preferential voting; or
+     (4)  By any other reasonable method.
+     [(b)  Where directors or officers are to be elected by members, the bylaws or board of directors may allow the election to be conducted by mail if no less than two thousand five hundred members are eligible to vote on the record date determined pursuant to section 414D-107, and the primary purpose of the corporation is the management of a planned community as defined in section 421J-2.  Except for the corporations described in this subsection, the election of directors may be conducted by mail only if so provided in a corporation's bylaws or articles of incorporation.]"
+     SECTION 10.  Section 414D-116, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§414D-116[]]  Corporation's acceptance of votes.  (a)  If the name signed on a vote, ballot, consent, waiver, or proxy appointment corresponds to the name of a member, the corporation, acting in good faith, is entitled to accept the vote, ballot, consent, waiver, or proxy appointment and to give it effect as the act of the member.
+     (b)  If the name signed on a vote, ballot, consent, waiver, or proxy appointment does not correspond to the record name of a member, the corporation if acting in good faith is nevertheless entitled to accept the vote, ballot, consent, waiver, or proxy appointment and give it effect as the act of the member if:
+     (1)  The member is an entity and the name signed purports to be that of an officer or agent of the entity;
+     (2)  The name signed purports to be that of an attorney-in-fact of the member and if the corporation requests, evidence acceptable to the corporation of the signatory's authority to sign for the member has been presented with respect to the vote, ballot, consent, waiver, or proxy appointment;
+     (3)  Two or more persons hold the membership as co-tenants or fiduciaries and the name signed purports to be the name of at least one of the co-holders and the person signing appears to be acting on behalf of all the co-holders;
+     (4)  The name signed purports to be that of an administrator, executor, guardian, or conservator representing the member and, if the corporation requests, evidence of fiduciary status acceptable to the corporation has been presented with respect to the vote, ballot, consent, waiver, or proxy appointment; and
+     (5)  The name signed purports to be that of a receiver or trustee in bankruptcy of the member, and, if the corporation requests, evidence of this status acceptable to the corporation has been presented with respect to the vote, ballot, consent, waiver, or proxy appointment.
+     (c)  The corporation is entitled to reject a vote, ballot, consent, waiver, or proxy appointment if the secretary or other officer or agent authorized to tabulate votes, acting in good faith, has reasonable basis for doubt about the validity of the signature on it or the signatory's authority to sign for the member.
+     (d)  The corporation and its officer or agent who accepts or rejects a vote, ballot, consent, waiver, or proxy appointment in good faith and in accordance with the standards of this section are not liable in damages to the member for the consequences of the acceptance or rejection.
+     (e)  Corporate action based on the acceptance or rejection of a vote, ballot, consent, waiver, or proxy appointment under this section is valid unless a court of competent jurisdiction determines otherwise.
+     (f)  A ballot may be signed by means of an electronic signature in accordance with chapter 489E."
+     SECTION 11.  Section 414D-145, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  In corporations without members, any board action to remove a director or to approve a matter that would require approval by the members if the corporation had members, shall not be valid unless each director is given at least seven days' [written] notice that the matter will be voted upon at a directors' meeting or unless notice is waived pursuant to section 414D‑146."
+     SECTION 12.  Section 414D-182, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  Amendments to the articles of incorporation shall be made in the following manner:
+     (1)  If any members are entitled to vote on an amendment, the board of directors shall adopt a resolution setting forth the proposed amendment and directing that it be submitted to a vote at an annual or special meeting of the members.  [Written notice] Notice setting forth the proposed amendment or a summary of the changes to be effected thereby shall be given to each member entitled to vote at the meeting within the time and in the manner provided in this chapter for the giving of notice of meetings to members.  The proposed amendment shall be adopted upon receiving at least two-thirds of the votes [which] that members present at the meeting or represented by proxy are entitled to cast; and
+     (2)  If there are no members or no members entitled to vote thereon, an amendment shall be adopted at a meeting of the board of directors upon its receiving the vote of a majority of the directors in office."
+     SECTION 13.  Section 414D-184, Hawaii Revised Statutes, is amended by amending subsections (c) and (d) to read as follows:
+     "(c)  If the board seeks to have the restatement approved by the members at a membership meeting, the corporation shall notify each of its members of the proposed membership meeting [in writing] in accordance with section 414D‑105.  The notice [must] shall also state that the purpose, or one of the purposes, of the meeting is to consider the proposed restatement and contain or be accompanied by a copy or summary of the restatement.
+     (d)  If the board seeks to have the restatement approved by the members by [written] ballot or written consent, the material soliciting the approval shall contain or be accompanied by a copy or summary of the restatement."
+     SECTION 14.  Section 414D-202, Hawaii Revised Statutes, is amended by amending subsection (e) to read as follows:
+     "(e)  If the board seeks to have the plan approved by the members by written consent or [written] ballot, the material soliciting the approval shall contain or be accompanied by a copy or summary of the plan.  The copy or summary of the plan for members of the surviving corporation shall include any provision that, if contained in a proposed amendment to the articles of incorporation or bylaws, would entitle members to vote on the provision.  The copy or summary of the plan for members of the disappearing corporation shall include a copy or summary of the articles and bylaws that will be in effect immediately after the merger takes effect."
+     SECTION 15.  Section 414D-222, Hawaii Revised Statutes, is amended by amending subsection (f) to read as follows:
+     "(f)  If the board needs to have the transaction approved by the members by written consent or [written] ballot, the material soliciting the approval shall contain or be accompanied by a copy or summary of a description of the transaction."
+     SECTION 16.  Section 414D-242, Hawaii Revised Statutes, is amended by amending subsection (e) to read as follows:
+     "(e)  If the board seeks to have dissolution approved by the members by written consent or [written] ballot, the material soliciting the approval shall contain or be accompanied by a copy or summary of the plan of dissolution."
+     SECTION 17.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 18.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Nonprofit Corporations
+ 
+Description:
+Amends the Hawaii nonprofit corporations act to permit member actions by ballot and electronic voting, use of electronic notice, and conduct of meeting by teleconference.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

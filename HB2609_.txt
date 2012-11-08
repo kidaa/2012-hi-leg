@@ -1,0 +1,67 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2609
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO COMMERCIAL DRIVER'S LICENSE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 291, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§291-     Using an electronic device for text messaging while operating a commercial motor vehicle.  (a)  No person shall use an electronic device for texting, as defined under section 286-231, while operating a commercial motor vehicle, as defined under section 286-2.
+     (b)  Any person who is convicted of violating subsection (a) shall be fined not more than $2,750 in addition to the driving disqualification of section 286-240(e)."
+     SECTION 2.  Section 286-231, Hawaii Revised Statutes, is amended by adding two new definitions to be appropriately inserted and to read as follows:
+     ""Electronic device" includes, but is not limited to, a cellular telephone, personal digital assistant, pager, computer, or any other device used to input, write, send, receive, or read text.
+     "Texting" means manually entering alphanumeric text into, or reading text from, an electronic device.
+     (1)  This action includes, but is not limited to, short message service, emailing, instant messaging, a command or request to access a World Wide Web page, or engaging in any other form of electronic text retrieval or entry, for present or future communication.
+     (2)  Texting does not include:
+         (A)  Reading, selecting, or entering a telephone number, an extension number, or voicemail retrieval codes and commands into an electronic device for the purpose of initiating or receiving a phone call or using voice commands to initiate or receive a telephone call;
+         (B)  Inputting, selecting, or reading information on a global positioning system or navigation system; or
+         (C)  Using a device capable of performing multiple functions (e.g., fleet management systems, dispatching devices, smart phones, citizens band radios, music players, etc.) for a purpose that is not otherwise prohibited in this part."
+     SECTION 3.  Section 286-231, Hawaii Revised Statutes, is amended by amending the definition of "serious traffic violation" to read as follows:
+     ""Serious traffic violation" means conviction of any of the following offenses when operating a commercial motor vehicle, except for weight, defect, and parking violations:
+     (1)  Excessive speeding, involving any single offense for any speed of fifteen miles per hour or more above the posted speed limit;
+     (2)  Reckless driving, or driving a commercial motor vehicle in disregard of the safety of persons or property, including but not limited to offenses of driving a commercial motor vehicle in wilful or wanton disregard for the safety of persons or property;
+     (3)  Improper or erratic traffic lane changes;
+     (4)  Following a vehicle ahead too closely;
+     (5)  A violation of any state or local law relating to motor vehicle traffic control, other than a parking violation, arising in connection with a fatal traffic accident;
+     (6)  Driving a commercial motor vehicle without obtaining a commercial driver's license;
+     (7)  Driving a commercial motor vehicle without a commercial driver's license in the driver's possession; provided that this paragraph shall not apply to a citation issued under, or an offense disposed of pursuant to, section 286-116(a) or a substantially similar provision of law in another state; [or]
+     (8)  Driving a commercial motor vehicle without the proper class or endorsements of commercial driver's license for the specific vehicle group being operated or for the passengers or type of cargo being transported[.]; or
+     (9)  A violation of state or local law or ordinance on motor vehicle traffic control prohibiting texting while driving."
+     SECTION 4.  Section 286-235, Hawaii Revised Statutes, is amended to read as follows:
+     "§286-235  Commercial driver's license required.  (a)  No person shall drive a commercial motor vehicle unless the person holds a valid commercial driver's license and valid applicable endorsements for the vehicle the person is driving, except when driving under a commercial driver's instruction permit and accompanied by the holder of a valid commercial driver's license for the vehicle being driven.
+     (b)  No person shall operate a commercial motor vehicle without a commercial driver's license in such person's possession.
+     [(b)] (c)  No person shall drive a commercial motor vehicle while the person's driver's license or permit is suspended, revoked, or canceled, or while subject to a disqualification.
+     [(c)] (d)  No person shall drive a commercial motor vehicle in violation of an out-of-service order."
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Commercial Driver's License; Electronic Devices; Texting
+ 
+Description:
+Prohibits driving a commercial motor vehicle without a commercial driver's license in the driver's possession; and prohibits texting while operating a commercial motor vehicle.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

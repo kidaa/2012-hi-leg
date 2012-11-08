@@ -1,0 +1,137 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+792
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE ENVIRONMENT.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 343, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§343‑    Supplemental statements.  (a)  An environmental assessment or environmental impact statement that is accepted with respect to a particular action shall satisfy the requirements of this chapter, and no other environmental assessment or environmental impact statement for the proposed action shall be required; provided that if an agency action or an applicant action has changed substantially in size, scope, intensity, use, or location, and these changes are anticipated to have a significant effect, then a supplemental environmental assessment or supplemental environmental impact statement may be required for the proposed use.
+     (b)  For projects that are phased or developed over a period of time, an accepted environmental assessment or environmental impact statement shall be valid as long as the discretionary consent for which the environmental assessment or environmental impact statement was prepared is still in force, and a supplemental environmental assessment or supplemental environmental impact statement is not required pursuant to subsection (a).
+     (c)  For applicant actions, the government agency that is acting upon the application for the discretionary consent shall be responsible for determining whether a supplemental environmental assessment or supplemental environmental impact statement is required. This determination shall be submitted to the office for publication in the periodic bulletin.
+     (d)  For applicant actions, the government agency that is acting upon application for discretionary consent may, in its sole discretion, waive the requirement of a supplemental environmental assessment or supplemental environmental impact statement if the government agency determines that existing studies and reports provide sufficient information to enable the government agency to make an informed decision.
+     (e)  The content of the supplemental environmental assessment or supplemental environmental impact statement shall be limited to substantial changes to the proposed action and their anticipated significant effects.
+     (f)  The initial supplemental environmental assessment or supplemental environmental impact statement filed for public review shall be a draft supplemental environmental assessment or draft supplemental environmental impact statement and shall be made available for public review and comment through the office for a period of thirty days.  The final supplemental environmental assessment or supplemental environmental impact statement shall incorporate comments received during this period.  Final supplemental environmental assessment or supplemental environmental impact statements shall be deemed to be accepted if the agency fails to reject the final supplemental environmental assessment or supplemental environmental impact statements within thirty days after receipt.
+     (g)  The requirement of a supplemental environmental assessment or supplemental environmental impact statement shall not invalidate any existing discretionary or ministerial consents that were previously issued for the applicant's action.  Discretionary and ministerial consents previously received shall remain valid if a supplemental environmental assessment or supplemental environmental impact statement is required for a new discretionary approval related to the project."
+     SECTION 2.  Section 343-1, Hawaii Revised Statutes, is amended to read as follows:
+     "§343-1  Findings and purpose.  The legislature finds that the quality of humanity's environment is critical to humanity's well being, that humanity's activities have broad and profound effects upon the interrelations of all components of the environment, and that an environmental review process will integrate the review of environmental concerns with existing planning processes of the State and counties and alert decision makers to significant environmental effects which may result from the implementation of certain actions.  The legislature further finds that the process of reviewing environmental effects is desirable because environmental consciousness is enhanced, cooperation and coordination are encouraged, and public participation during the review process benefits all parties involved and society as a whole.
+     It is the purpose of this chapter to establish a public disclosure system of environmental review which will ensure that environmental concerns are given appropriate consideration in decision making along with economic and technical considerations.  The environmental review process is separate and distinct from the discretionary approval process.  While the environmental review process identifies potential impacts and mitigation measures, it is during the discretionary approval process that mitigation measures and economic and technical considerations are given appropriate consideration."
+     SECTION 3.  Section 343-2, Hawaii Revised Statutes, is amended to read as follows:
+     "§343-2  Definitions.  As used in this chapter unless the context otherwise requires:
+     "Acceptance" means a formal determination that the document required to be filed pursuant to section 343-5 fulfills the definition of an environmental impact statement[,] as a public disclosure document, adequately describes identifiable environmental impacts, and satisfactorily responds to comments received during the review of the statement.
+     "Action" means any program or project to be initiated by any agency or applicant.
+     "Agency" means any department, office, board, or commission of the state or county government which is a part of the executive branch of that government.
+     "Agency action" means a program or project to be initiated by any department, office, board, or commission of the state or county government which is a part of the executive branch of that government.
+     "Applicant" means any person who, pursuant to statute, ordinance, or rule, officially requests approval for a proposed action.
+     "Applicant action" means any program or project initiated by a person who, pursuant to statute, ordinance, or rule, officially requests discretionary approval for a proposed action.
+     "Approval" means a discretionary consent required from an agency prior to actual implementation of an action.
+     "Council" means the environmental council.
+     "Director" means the director of the office of environmental quality control.
+     "Discretionary consent" means a consent, sanction, or recommendation from an agency for which judgment, deliberation, and free will may be exercised by the issuing agency, as distinguished from a ministerial consent.
+     "Environmental assessment" means a written evaluation to determine whether an action may have a significant effect.
+     "Environmental impact statement" or "statement" means an informational document prepared in compliance with the rules adopted under section 343-6 and which discloses the environmental effects of a proposed action, effects of a proposed action on the economic welfare, social welfare, and cultural practices of the community and State, effects of the economic activities arising out of the proposed action, measures proposed to minimize adverse effects, and alternatives to the action and their environmental effects.
+     The initial statement filed for public review shall be referred to as the draft statement and shall be distinguished from the final statement which is the document that has incorporated the public's comments and the responses to those comments.  The final statement is the document that shall be evaluated for acceptability by the respective accepting authority.
+     "Exempt" means specific types of actions that do not require the preparation of an environmental assessment because they will have minimal or no significant effects on the environment.
+     "Finding of no significant impact" means a determination based on an environmental assessment that the subject action will not have a significant effect and, therefore, will not require the preparation of an environmental impact statement.
+     "Helicopter facility" means any area of land or water which is used, or intended for use for the landing or takeoff of helicopters; and any appurtenant areas which are used, or intended for use for helicopter related activities or rights-of-way.
+     "Ministerial consent" means a consent, sanction, or recommendation from an agency based upon a given set of facts, as prescribed by law or rule, without the use of extensive judgment or discretion.
+     "Office" means the office of environmental quality control.
+     "Person" includes any individual, partnership, firm, association, trust, estate, private corporation, or other legal entity other than an agency.
+     "Power-generating facility" means:
+     (1)  A new, fossil-fueled, electricity-generating facility, where the electrical output rating of the new equipment exceeds 5.0 megawatts; or
+     (2)  An expansion in generating capacity of an existing, fossil-fueled, electricity-generating facility, where the incremental electrical output rating of the new equipment exceeds 5.0 megawatts.
+     "Renewable energy facility" has the same meaning as defined in section 201N-1.
+     "Significant effect" means the [sum of effects] adverse impacts of the action on the quality of the environment[,] that are extensive and meaningful in terms of context and intensity, including actions that irrevocably commit a natural resource, curtail the range of beneficial uses of the environment, are contrary to the State's environmental policies or long-term environmental goals as established by law, or adversely affect the economic welfare, social welfare, or cultural practices of the community and State.
+     "Supplemental statement" means an additional statement prepared pursuant to section 343-   that addresses substantial changes to a proposed action that are anticipated to have significant effects on the environment.
+     "Wastewater treatment unit" means any plant or facility used in the treatment of wastewater."
+     SECTION 4.  Section 343-3, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  The office shall inform the public of notices filed by agencies of the availability of environmental assessments for review and comments, of determinations that statements and supplemental statements are required or not required, of the availability of statements and supplemental statements for review and comments, and of the acceptance or nonacceptance of statements[.] and supplemental statements."
+     SECTION 5.  Section 343-5, Hawaii Revised Statutes, is amended to read as follows:
+     "§343-5  Applicability and requirements.  (a)  Except as otherwise provided, an environmental assessment shall be required for actions that:
+     (1)  Propose the use of state or county lands or the use of state or county funds, other than funds to be used for feasibility or planning studies for possible future programs or projects that the agency has not approved, adopted, or funded, or funds to be used for the acquisition of unimproved real property; provided that [the]:
+         (A)  The use of government owned rights-of-way solely for utility and access connections shall not require an environmental assessment or an environmental impact statement;
+         (B)  The agency shall consider environmental factors and available alternatives in its feasibility or planning studies; [provided further that an] and
+         (C)  An environmental assessment for proposed uses under section 205-2(d)(11) or 205-4.5(a)(13) shall only be required pursuant to section 205‑5(b);
+     (2)  Propose any use within any land classified as a conservation district by the state land use commission under chapter 205;
+     (3)  Propose any use within a shoreline area as defined in section 205A-41;
+     (4)  Propose any use within any historic site as designated in the National Register or Hawaii Register, as provided for in the Historic Preservation Act of 1966, Public Law 89-665, or chapter 6E;
+     (5)  Propose any use within the Waikiki area of Oahu, the boundaries of which are delineated in the land use ordinance as amended, establishing the "Waikiki Special District";
+     (6)  Propose any amendments to existing county general plans where the amendment would result in designations other than agriculture, conservation, or preservation, except actions proposing any new county general plan or amendments to any existing county general plan initiated by a county;
+     (7)  Propose any reclassification of any land classified as a conservation district by the state land use commission under chapter 205;
+     (8)  Propose the construction of new or the expansion or modification of existing helicopter facilities within the State, that by way of their activities, may affect:
+         (A)  Any land classified as a conservation district by the state land use commission under chapter 205;
+         (B)  A shoreline area as defined in section 205A-41; or
+         (C)  Any historic site as designated in the National Register or Hawaii Register, as provided for in the Historic Preservation Act of 1966, Public Law 89-665, or chapter 6E; or until the statewide historic places inventory is completed, any historic site that is found by a field reconnaissance of the area affected by the helicopter facility and is under consideration for placement on the National Register or the Hawaii Register of Historic Places; and
+     (9)  Propose any:
+         (A)  Wastewater treatment unit, except an individual wastewater system or a wastewater treatment unit serving fewer than fifty single-family dwellings or the equivalent;
+         (B)  Waste-to-energy facility;
+         (C)  Landfill;
+         (D)  Oil refinery; or
+         (E)  Power-generating facility.
+     (b)  Whenever an agency proposes an agency action [in] pursuant to subsection (a), other than feasibility or planning studies for possible future programs or projects that the agency has not approved, adopted, or funded, or other than the use of state or county funds for the acquisition of unimproved real property that is not a specific type of action declared exempt under section 343-6, the agency shall prepare an environmental assessment for [such] the proposed agency action at the earliest practicable time to determine whether an environmental impact statement shall be required.
+     (1)  For environmental assessments for which a finding of no significant impact is anticipated:
+         (A)  A draft environmental assessment shall be made available for public review and comment for a period of thirty days;
+         (B)  The office shall inform the public of the availability of the draft environmental assessment for public review and comment pursuant to section 343-3;
+         (C)  The agency shall respond in writing to comments received during the review and prepare a final environmental assessment to determine whether an environmental impact statement shall be required;
+         (D)  A statement shall be required if the agency finds that the proposed action may have a significant effect on the environment; and
+         (E)  The agency shall file notice of such determination with the office.  When a conflict of interest may exist because the proposing agency and the agency making the determination are the same, the office may review the agency's determination, consult the agency, and advise the agency of potential conflicts, to comply with this section.  The office shall publish the final determination for the public's information pursuant to section 343-3.
+     The draft and final statements, if required, shall be prepared by the agency and submitted to the office.  The draft statement shall be made available for public review and comment through the office for a period of forty-five days.  The office shall inform the public of the availability of the draft statement for public review and comment pursuant to section 343‑3.  The agency shall respond in writing to comments received during the review and prepare a final statement.
+     The office, when requested by the agency, may make a recommendation as to the acceptability of the final statement.
+     (2)  The final authority to accept a final statement shall rest with:
+         (A)  The governor, or the governor's authorized representative, whenever an action proposes the use of state lands or the use of state funds, or whenever a state agency proposes an action within the categories in subsection (a); or
+         (B)  The mayor, or the mayor's authorized representative, of the respective county whenever an action proposes only the use of county lands or county funds.
+     Acceptance of a required final statement shall be a condition precedent to implementation of the proposed action. Upon acceptance or nonacceptance of the final statement, the governor or mayor, or the governor's or mayor's authorized representative, shall file notice of such determination with the office.  The office, in turn, shall publish the determination of acceptance or nonacceptance pursuant to section 343-3.
+     (c)  Whenever an applicant proposes an applicant action [specified by] pursuant to subsection (a) that requires [approval] discretionary consent of an agency and that is not a specific type of action declared exempt under section 343-6, the agency initially receiving and agreeing to process the request for approval shall [prepare] have an environmental assessment of the proposed action prepared at the earliest practicable time to determine whether an environmental impact statement shall be required; provided that, for an applicant action that proposes the establishment of a renewable energy facility, a draft environmental impact statement shall be prepared at the earliest practicable time.  The final approving agency for the request for approval is not required to be the accepting authority.
+     For environmental assessments for which a finding of no significant impact is anticipated:
+     (1)  A draft environmental assessment shall be made available for public review and comment for a period of thirty days;
+     (2)  The office shall inform the public of the availability of the draft environmental assessment for public review and comment pursuant to section 343-3; and
+     (3)  The applicant shall respond in writing to comments received during the review, and [the agency shall] prepare a final environmental assessment to determine whether an environmental impact statement shall be required.  A statement shall be required if the agency finds that the proposed action may have a significant effect on the environment.  The agency shall file notice of the agency's determination with the office, which, in turn, shall publish the agency's determination for the public's information pursuant to section 343-3.
+     The draft and final statements, if required, shall be prepared by the applicant, who shall file these statements with the office.
+     The draft statement shall be made available for public review and comment through the office for a period of forty-five days.  The office shall inform the public of the availability of the draft statement for public review and comment pursuant to section 343-3.
+     The applicant shall respond in writing to comments received during the review and prepare a final statement.  The office, when requested by the applicant or agency, may make a recommendation as to the acceptability of the final statement.
+     The authority to accept a final statement shall rest with the agency initially receiving and agreeing to process the request for approval.  The final decision-making body or approving agency for the request for approval is not required to be the accepting authority.  The planning department for the county in which the proposed action will occur shall be a permissible accepting authority for the final statement.
+     Acceptance of a required final statement shall be a condition precedent to approval of the request and commencement of the proposed action.  Upon acceptance or nonacceptance of the final statement, the agency shall file notice of such determination with the office.  The office, in turn, shall publish the determination of acceptance or nonacceptance of the final statement pursuant to section 343-3.
+     The agency receiving the request, within thirty days of receipt of the final statement, shall notify the applicant and the office of the acceptance or nonacceptance of the final statement.  The final statement shall be deemed to be accepted if the agency fails to accept or not accept the final statement within thirty days after receipt of the final statement; provided that the thirty-day period may be extended at the request of the applicant for a period not to exceed fifteen days.
+     In any acceptance or nonacceptance, the agency shall provide the applicant with the specific findings and reasons for its determination.  An applicant, within sixty days after nonacceptance of a final statement by an agency, may appeal the nonacceptance to the environmental council, which, within thirty days of receipt of the appeal, shall notify the applicant of the council's determination.  In any affirmation or reversal of an appealed nonacceptance, the council shall provide the applicant and agency with specific findings and reasons for its determination.  The agency shall abide by the council's decision.
+     (d)  Whenever an applicant requests approval for a proposed action and there is a question as to which of two or more state or county agencies with jurisdiction has the responsibility of preparing the environmental assessment, the office, after consultation with and assistance from the affected state or county agencies, shall determine which agency shall prepare the assessment.
+     (e)  In preparing an environmental assessment, an agency may consider and, where applicable and appropriate, incorporate by reference, in whole or in part, previous determinations of whether a statement is required and previously accepted statements.  The council, by rule, shall establish criteria and procedures for the use of previous determinations and statements.
+     (f)  Whenever an action is subject to both the National Environmental Policy Act of 1969 (Public Law 91-190) and the requirements of this chapter, the office and agencies shall cooperate with federal agencies to the fullest extent possible to reduce duplication between federal and state requirements.  Such cooperation, to the fullest extent possible, shall include joint environmental impact statements with concurrent public review and processing at both levels of government.  Where federal law has environmental impact statement requirements in addition to but not in conflict with this chapter, the office and agencies shall cooperate in fulfilling these requirements so that one document shall comply with all applicable laws.
+     (g)  [A] An environmental assessment or environmental impact statement that is accepted with respect to a particular action shall satisfy the requirements of this chapter, and no other environmental assessment or environmental impact statement for the proposed action shall be required[.], except as provided in section 343‑  .
+     (h)  Whenever an action is determined to be significant by an agency or applicant prior to the preparation of an environmental assessment, the agency or applicant may proceed directly to the environmental impact statement preparation process.
+     (i)  An agency action or applicant action shall not be subject to this chapter solely because a ministerial consent is required.
+     (j)  Substantive comments received on the draft environmental assessment or draft environmental impact statement shall be appended to the final environmental assessment or final environmental impact statement.  If comments are repetitive or voluminous, comments shall be summarized and the summary shall be appended to the final environmental assessment or final environmental impact statement."
+     SECTION 6.  Section 343-7, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  Any judicial proceeding, the subject of which is the determination that a statement is required for a proposed action, shall be initiated within sixty days after the public has been informed of such determination pursuant to section 343‑3.  Any judicial proceeding, the subject of which is the determination that a statement or supplemental statement is not required for a proposed action, shall be initiated within thirty days after the public has been informed of such determination pursuant to section 343-3.  The council or the applicant shall be adjudged an aggrieved party for the purposes of bringing judicial action under this subsection.  [Others, by court action, may be adjudged aggrieved.]  Affected agencies and persons who provided written comment to the environmental assessment during the designated review period shall be judged aggrieved parties for the purpose of bringing judicial action under this subsection.  Contestable issues shall be limited to issues identified and discussed in the written comment."
+     SECTION 7.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 8.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Environment; Environmental Assessment; Environmental Impact Statement
+ 
+Description:
+Requires a supplemental environmental assessment or supplemental environmental impact statement to be provided if an action by an agency or applicant is anticipated to have a significant effect on the environment.  Establishes public disclosure system of environmental review.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

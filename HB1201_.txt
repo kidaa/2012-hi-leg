@@ -1,0 +1,87 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1201
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE HAWAII HEALTH BENEFIT EXCHANGE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The federal Patient Protection and Affordable Care Act of 2010 provides for the establishment of health insurance exchanges by 2014 that will facilitate the purchase and sale of, and provide a connection between buyers and sellers of, federally qualified health insurance plans.  The intent of these health insurance exchanges is to reduce the number of uninsured, provide a transparent marketplace and consumer education, and assist individuals with access to programs, premium assistance tax credits, and cost-sharing reductions.
+     The legislature finds that, under Hawaii's current prepaid health care act, the State already enjoys an overall healthier population, uninsured rates lower than those on the mainland, and generally lower premium costs.  The prepaid health care act has been successful and, it is imperative that the prepaid health care act work in tandem with health insurance exchanges.
+     The State is already in receipt of a federal grant to plan for the design and implementation of a Hawaii-based health insurance exchange and a task force has also been convened for this purpose.  This Act requires the Hawaii-based nonprofit health insurance exchange to work collaboratively with the task force to propose legislation for consideration during the regular session of 2012 to implement a framework that ensures the State's compliance with federal law.  This will enable the legislature to provide policy direction and operational guidance as the State continues working towards the 2014 health insurance exchange implementation deadline.
+     Because the federal grant will soon become available and the United States Secretary of Health and Human Services will need to determine whether Hawaii is on track to implement a health insurance exchange, the legislature finds it is prudent to move forward during the regular session of 2011 with an enabling statute.  This framework will allow the legislature to make the most appropriate policy decisions for the implementation of the health insurance exchange during the regular session of 2012.
+     The legislature finds that the people of Hawaii will be best served by a health insurance exchange that is operated in Hawaii.  Accordingly, the purpose of this Act is to create a private, nonprofit health exchange.
+     SECTION 2.  Chapter 431, Hawaii Revised Statutes, is amended by adding a new article to be appropriately designated and to read as follows:
+"ARTICLE
+HAWAII HEALTH BENEFIT EXCHANGE
+     §431:   ‑101  Title.  This article shall be known and may be cited as the Hawaii Health Benefit Exchange Act.
+     §431:   ‑102  Definitions.  As used in this article:
+     "Board" means the board of directors of the Hawaii health benefit exchange.
+     "Commissioner" means the insurance commissioner.
+     "Council" means the Hawaii health benefit exchange council established under section 431:   ‑108.
+     "Exchange" means the Hawaii health benefit exchange.
+     "Federal act" means the Patient Protection and Affordable Care Act (Public Law 111-148), as amended by the Health Care and Education Reconciliation Act of 2010 (Public Law 111-152), and any amendments and related regulations or guidance.
+     "Health carrier" means an entity subject to the insurance laws and rules of this State or the jurisdiction of the commissioner that contracts or offers to contract to provide, deliver, arrange for, pay for, or reimburse any of the costs of health care services, including a sickness and accident insurance company under chapter 431, article 10A, a health maintenance organization under chapter 432D, a mutual benefit society or a nonprofit hospital and health service corporation under chapter 432, or any other entity providing a plan of health insurance, health benefits, or health services.
+     "Qualified health plan" means a health benefit plan offered by a health carrier that has in effect a certification that the plan meets the criteria for certification described in section 1311(c) of the Federal Act.
+     "Secretary" means the United States Secretary of Health and Human Services.
+     §431:   ‑103  Hawaii health benefit exchange; established; purpose.  (a)  There is established as a nonprofit body corporate, the Hawaii health benefit exchange.
+     (b)  The purpose of the Hawaii health benefit exchange shall include, but not be limited to:
+     (1)  Facilitating the purchase and sale of qualified health plans in compliance with the federal act; and
+     (2)  Those purposes set forth by the legislature.
+     §431:   ‑104  Board of directors; composition; operation.  (a)  The Hawaii health benefit exchange shall be governed by a board of directors, which shall be comprised of seven members as follows:
+     (1)  One member, by and with the advice and consent of the senate, shall be appointed by the governor for four years;
+     (2)  Three members, by and with the advice and consent of the senate, shall be appointed by the governor from a list of nominations submitted by the president of the senate and shall serve for four years; provided that of the initial appointees, one shall be appointed for a two-year term; and
+     (3)  Three members, by and with the advice and consent of the senate, shall be appointed by the governor from a list of nominations submitted by the speaker of the house of representatives and shall serve for four years; provided that of the initial appointees, one shall be appointed for a two-year term.
+     A vacancy shall be filled in accordance with article V, section 6, of the Hawaii Constitution.
+     The governor shall select a chairperson and vice-chairperson from among the members.
+     (b)  Members shall receive no compensation for services, but shall be entitled to reimbursement for necessary expenses, including travel expenses, incurred in the performance of their duties.
+     (c)  The board shall implement the exchange in accordance with this article and shall be authorized to establish procedures for the operation of the exchange.
+     (d)  The board shall meet no less than quarterly on a schedule established by the chairperson.  Four members of the board shall constitute a quorum and the affirmative vote of four members shall be necessary for any action of the board.
+     (e)  The board shall adopt rules in accordance with chapter 91 regarding conflict of interest and recusal procedures.  The rules shall include a requirement for the recusal of a member regarding action on any official matter if the member has any financial involvement or interest in that matter.  All recusals shall be in advance of any board action and shall specify in writing the reason and date of the recusal.
+     (f)  The chairperson shall submit any and all information and data requested by the council and shall submit annual reports to the council.
+     §431:   ‑105  Officers and employees of the exchange.  The board shall appoint, without regard to chapters 76 and 89, an executive director who shall serve at the pleasure of the board and who shall be responsible for the day-to-day operations and management of the exchange.  The board may also appoint any other officers and employees, without regard to chapters 76 and 89, that may be necessary in administering the affairs of the exchange.  The board, at its discretion, shall prescribe employees' duties, responsibilities, salaries, holidays, vacations, leaves, hours of work, and working conditions.  The board may grant any other benefits to its employees that it deems necessary.
+     §431:   ‑106  Powers.  The exchange, under the direction of the board, shall have the powers and authorities of a private, nonprofit entity.
+     §431:   ‑107  Funding.  As required by section 1311(d)(5)(A) of the Federal Act, the exchange shall be self-sustaining by January 1, 2015.
+     §431:   ‑108  Establishment of the Hawaii health benefit exchange oversight council.  (a)  There is established the Hawaii health benefit exchange oversight council to be attached to the department of commerce and consumer affairs for administrative purposes.  The council shall meet at least once annually and oversee the activities of the exchange to ensure that the exchange fulfills its purpose as set forth in this article.
+     (b)  The council shall consist of five members who shall include:
+     (1)  One member of the senate appointed by the president of the senate;
+     (2)  One member of the house of representatives appointed by the speaker of the house of representatives;
+     (3)  The director of human services;
+     (4)  The director of labor and industrial relations; and
+     (5)  The commissioner, who shall serve as chairperson.
+     (c)  The council shall review the exchange's compliance with this article and the Federal act and shall submit annual reports to the governor and the legislature regarding its findings.
+     §431:   ‑109.  Effect on the Prepaid Health Care Act.  Nothing in this article shall diminish or alter in any manner the provisions of chapter 393.
+     §431:   ‑110.  Rules.  The commissioner shall adopt rules in accordance with chapter 91 to implement this article; provided that the rules shall not conflict with or prevent the application of regulations promulgated by the Secretary under the Federal act."
+     SECTION 3.  (a)  The Hawaii health benefit exchange shall work with the state health insurance exchange task force established in the department of commerce and consumer affairs to comply with Federal Domestic Assistance grant number 93:525 to develop policies and necessary proposed legislation to implement the duties and responsibilities of the Hawaii health benefit exchange in compliance with the Patient Protection and Affordable Care act, taking into consideration chapter 393.
+     (b)  Twenty days prior to the convening of the regular session of 2012, the board shall submit proposed legislation amending the new article established under this Act to provide for the implementation of a health insurance exchange in Hawaii that complies with the Patient Protection and Affordable Care Act and any federal authorization granted to the State pursuant to that act.
+SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Hawaii Health Benefit Exchange
+ 
+Description:
+Establishes the Hawaii heath benefit exchange in compliance with federal law.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,50 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2385
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE ENHANCED 911 BOARD.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 138-2, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  There is created within the department of accounting and general services, for administrative purposes, an enhanced 911 board consisting of thirteen voting members; provided that the membership shall consist of:
+     (1)  The comptroller or the comptroller's designee;
+     (2)  [Three] Two representatives from wireless communications service providers, who shall be appointed by the governor as provided in section 26-34;
+     (3)  One representative each from the public safety answering points for Oahu, Hawaii, Kauai, Maui, and Molokai and one representative, chosen by the mayor of the city and county of Honolulu, who shall be appointed by the governor as provided in section 26-34;
+     (4)  The consumer advocate or the consumer advocate's designee;
+     (5)  One representative from a communications service company that offers Interconnected Voice over Internet Protocol services, who shall be appointed by the governor as provided in section 26-34; [and]
+     (6)  One representative of the public utility providing telecommunications services and land line enhanced 911 services through section 269-16.95[.]; and
+     (7)  The state chief information officer or the state chief information officer's designee."
+     SECTION 2.  Notwithstanding the appointment, advise and consent, and terms of office provisions of section 26-34, Hawaii Revised Statutes, as those provisions apply to section 138-2(a)(2), Hawaii Revised Statutes, the governor, at the governor's discretion, shall remove one member of the enhanced 911 board who is serving pursuant to section 138-2(a)(2), Hawaii Revised Statutes, upon the appointment of the state chief information officer or the state chief information officer's designee to the enhanced 911 board.
+     SECTION 3.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Enhanced 911 Board; Membership
+ 
+Description:
+Adds the state CIO to the enhanced 911 board.  Reduces the wireless communication service provider members on the board from 3 to 2.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

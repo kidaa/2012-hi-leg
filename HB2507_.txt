@@ -1,0 +1,129 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2507
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO INSURANCE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 431, Hawaii Revised Statutes, is amended by adding to part I of article 14 a new section to be appropriately designated and to read as follows:
+     "§431:14-     Publication of homeowners insurance premium rates.  (a)  The commissioner shall publish annually, in a newspaper of general circulation in the State, notice of availability of a list of all homeowners insurers with representative annual premiums for homeowners insurance.
+     (b)  Upon the request of the insurance commissioner, all homeowners insurers shall provide homeowners insurance premium information to the insurance commissioner within thirty days of the request.  The commissioner shall make this information available to the public upon request.
+     (c)  As used in this section:
+     "Homeowners insurance" means an insurance policy for any residential property in the State that combines:
+     (1)  Indemnity from destruction or damage by various perils of the insured's property; and
+     (2)  Indemnity for legal liability of the insured for death, injury, or disability of any human being or for damage to property.
+     "Homeowners insurer" means an insurer holding a valid certificate of authority to engage in the business of making contracts of homeowners insurance in this State."
+     SECTION 2.  Section 431:14-104, Hawaii Revised Statutes, is amended as follows:
+     (1)  By amending subsections (f) and (g) to read as follows:
+     "(f)  Specific inland marine rates on risks specially rated, made by a rating organization[,] or advisory organization, shall be filed with the commissioner.
+     (g)  An insurer may satisfy its obligation to make the filings by becoming a member of, or a subscriber to, a licensed rating organization [which] or advisory organization that makes the filings except for those lines of insurance for which the commissioner determines individual insurer rate filings shall be made.  Nothing contained in this article shall be construed as requiring any insurer to become a member of or a subscriber to any rating organization[.] or advisory organization."
+     (2)  By amending subsections (j), (k), and (l) to read as follows:
+     "(j)  Except as provided herein and in subsections (k) and (l) and section 431:14-120, each filing shall be on file for a waiting period of thirty days before the filing becomes effective.  The period may be extended by the commissioner for an additional period not to exceed fifteen days if the commissioner gives written notice within the waiting period to the insurer, rating organization, or advisory organization that made the filing that the commissioner needs the additional time for the consideration of the filing.  Upon the written application by the insurer, rating organization, or advisory organization, the commissioner may authorize a filing [which] that the commissioner has reviewed to become effective before the expiration of the waiting period or any extension thereof.  A filing shall be deemed to meet the requirements of this article unless disapproved by the commissioner, as provided in section 431:14-106, within the waiting period or any extension thereof.
+     (k)  The following rates shall become effective when filed:
+     (1)  Specific inland marine rates on risks specially rated by a rating organization[;] or advisory organization;
+     (2)  Any special filing with respect to a surety or guaranty bond required by law or by court or executive order or by order or rule of a public body, not covered by a previous filing; and
+     (3)  Any special filing with respect to any class of insurance, subdivision, or combination thereof which is subject to individual risk premium modification and has been agreed to by an insured under a formal or informal bid process.
+     The rates shall be deemed to meet the requirements of this article until the time the commissioner reviews the filing and so long as the filing remains in effect.
+     (l)  The commissioner, by written order, may suspend or modify the requirement of filing as to any class of insurance, subdivision, or combination thereof, or as to classes of risks, the rates for which cannot practicably be filed before they are used.  The orders shall be made known to the affected insurers [and], rating organizations[.], and advisory organizations.  The commissioner may make examinations as the commissioner may deem advisable to ascertain whether any rates affected by the order meet the standards set forth in section 431:14-103(a)(1)."
+     SECTION 3.  Section 431:14-106, Hawaii Revised Statutes, is amended to read as follows:
+     "§431:14-106  Disapproval of filings.  (a)  If, within the waiting period or any extension of the waiting period as provided in section 431:14-104(j), the commissioner finds that a filing does not meet the requirements of this article, the commissioner shall send to the insurer, rating organization, or advisory organization [which] that made the filing, written notice of disapproval of the filing specifying in what respects the filing fails to meet the requirements of this article, specifying the actuarial, statutory, and regulatory basis for the disapproval, including an explanation of the application thereof that resulted in disapproval, and stating that the filing shall not become effective.
+     (b)  If within thirty days:
+     (1)  After a specific inland marine rate on a risk specially rated by a rating organization or advisory organization subject to section 431:14-104(k) has become effective; or
+     (2)  After a special surety or guaranty filing subject to section 431:14-104(k) has become effective;
+the commissioner finds that such filing does not meet the requirements of this article, the commissioner shall send to the insurer, rating organization, or advisory organization that made the filing, written notice of disapproval of the filing specifying in what respects the filing fails to meet the requirements of this article and stating when, within a reasonable period thereafter, the filing shall be deemed no longer effective.  The disapproval shall not affect any contract made or issued prior to the expiration of the period set forth in the notice.
+     (c)  If any time subsequent to the applicable review period provided for in subsections (a) or (b), the commissioner finds that a filing does not comply with the requirements of this article, the commissioner shall order a hearing upon the filing.  The hearing shall be held upon not less than ten days' written notice to every insurer and rating organization or advisory organization [who] that made such a filing.  The notice shall specify the matters to be considered at the hearing[.] and specify the factual and legal bases for the commissioner's finding of noncompliance.  If, after a hearing the commissioner finds that a filing does not meet the requirements of this article, the commissioner, within thirty days of the hearing, shall issue an order specifying in what respects the filing fails to meet such requirements, and stating when, within a reasonable period thereafter, the filing shall be deemed no longer effective.  Copies of the order shall be sent to every such insurer and rating organization[.] or advisory organization, whose filing is affected by the order.  The order shall not affect any contract or policy made or issued prior to the expiration of the period set forth in the order.
+     (d)  Whenever the commissioner issues a written notice of disapproval of a filing to an insurer, rating organization, or advisory organization, the commissioner may establish, within ten days thereof, interim rates sufficient to protect the interests of the insurer and its policyholders and ensure the solvency of the insurer.  When a new rate becomes legally effective and the new rate is higher than the interim rate, the commissioner shall allow the insurer to retroactively adjust the premiums to the time when the interim rate was first imposed.  If the new rate is lower than the interim rate, the commissioner may order that the difference be applied to stabilize future rates or be refunded to current policyholders.
+     (e)  If a filing is disapproved, in whole or in part, a petition and demand for a contested case hearing may be filed in accordance with chapter 91.  The insurer shall bear the burden of proving that the filing meets the requirements of this article.
+     [(d)(1)] (f)  Any person or organization aggrieved with respect to any filing [which] that is in effect may make written demand to the commissioner for a hearing thereon; provided[, however, that the] that:
+     (1)  The insurer [or], rating organization [which], or advisory organization that made the filing shall not be authorized to proceed under this subsection[.];
+     (2)  The demand shall specify the grounds to be relied upon by the aggrieved person or organization and such demand [must] shall show that such person or organization has a specific economic interest affected by the filing[.];
+     (3)  If the commissioner finds that the demand is made in good faith, that the applicant would be so aggrieved if the person's or organization's grounds are established, and that the grounds otherwise justify [such] a hearing, the commissioner shall, within thirty days after receipt of the demand, hold a hearing.  The hearing shall be held upon not less than ten days' written notice to the aggrieved party and to every insurer and rating organization [which] or advisory organization that made such filing.  The aggrieved party shall bear the burden of proving that the filing fails to meet the standards set forth in section 431:14-103(a)(1); and
+     (4)  If, after the hearing, the commissioner finds that the filing does not meet the requirements of this article, the commissioner shall issue an order specifying in what respects the filing fails to meet the requirements of this article, and stating when, within a reasonable period, the filing shall be deemed no longer effective.  Copies of the order shall be sent to the applicant and to every such insurer and rating organization[.] or advisory organization.  The order shall not affect any contract or policy made or issued prior to the expiration of the period set forth in the order.
+     [(e)] (g)  No manual of classifications, rules, rating plan, or any modification of any of the foregoing [which] that establishes standards for measuring variations in hazards or expense provisions, or both, and [which] that has been filed pursuant to the requirements of section 431:14-104 shall be disapproved if the rates thereby produced meet the requirements of this article.
+     [(f)] (h)  The notices, hearings, orders, and appeals referred to in this section are in all applicable respects subject to chapter 91, unless expressly provided otherwise."
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Insurance; Rate Filings; Disapproval
+ 
+Description:
+Requires the Insurance Commissioner to publish listing of homeowners insurers and homeowners insurance premium rates in a newspaper of general circulation in the State annually; and allows the Insurance Commissioner to specify interim rates upon disapproval of insurance rate filings for property and casualty insurance.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+>
+     (1)  Indemnity from destruction or damage by various perils of the insured's property; and
+     (2)  Indemnity for legal liability of the insured for death, injury, or disability of any human being or for damage to property.
+     "Homeowners insurer" means an insurer holding a valid certificate of authority to engage in the business of making contracts of homeowners insurance in this State."
+     SECTION 2.  Section 431:14-104, Hawaii Revised Statutes, is amended as follows:
+     (1)  By amending subsections (f) and (g) to read as follows:
+     "(f)  Specific inland marine rates on risks specially rated, made by a rating organization[,] or advisory organization, shall be filed with the commissioner.
+     (g)  An insurer may satisfy its obligation to make the filings by becoming a member of, or a subscriber to, a licensed rating organization [which] or advisory organization that makes the filings except for those lines of insurance for which the commissioner determines individual insurer rate filings shall be made.  Nothing contained in this article shall be construed as requiring any insurer to become a member of or a subscriber to any rating organization[.] or advisory organization."
+     (2)  By amending subsections (j), (k), and (l) to read as follows:
+     "(j)  Except as provided herein and in subsections (k) and (l) and section 431:14-120, each filing shall be on file for a waiting period of thirty days before the filing becomes effective.  The period may be extended by the commissioner for an additional period not to exceed fifteen days if the commissioner gives written notice within the waiting period to the insurer, rating organization, or advisory organization that made the filing that the commissioner needs the additional time for the consideration of the filing.  Upon the written application by the insurer, rating organization, or advisory organization, the commissioner may authorize a filing [which] that the commissioner has reviewed to become effective before the expiration of the waiting period or any extension thereof.  A filing shall be deemed to meet the requirements of this article unless disapproved by the commissioner, as provided in section 431:14-106, within the waiting period or any extension thereof.
+     (k)  The following rates shall become effective when filed:
+     (1)  Specific inland marine rates on risks specially rated by a rating organization[;] or advisory organization;
+     (2)  Any special filing with respect to a surety or guaranty bond required by law or by court or executive order or by order or rule of a public body, not covered by a previous filing; and
+     (3)  Any special filing with respect to any class of insurance, subdivision, or combination thereof which is subject to individual risk premium modification and has been agreed to by an insured under a formal or informal bid process.
+     The rates shall be deemed to meet the requirements of this article until the time the commissioner reviews the filing and so long as the filing remains in effect.
+     (l)  The commissioner, by written order, may suspend or modify the requirement of filing as to any class of insurance, subdivision, or combination thereof, or as to classes of risks, the rates for which cannot practicably be filed before they are used.  The orders shall be made known to the affected insurers [and], rating organizations[.], and advisory organizations.  The commissioner may make examinations as the commissioner may deem advisable to ascertain whether any rates affected by the order meet the standards set forth in section 431:14-103(a)(1)."
+     SECTION 3.  Section 431:14-106, Hawaii Revised Statutes, is amended to read as follows:
+     "§431:14-106  Disapproval of filings.  (a)  If, within the waiting period or any extension of the waiting period as provided in section 431:14-104(j), the commissioner finds that a filing does not meet the requirements of this article, the commissioner shall send to the insurer, rating organization, or advisory organization [which] that made the filing, written notice of disapproval of the filing specifying in what respects the filing fails to meet the requirements of this article, specifying the actuarial, statutory, and regulatory basis for the disapproval, including an explanation of the application thereof that resulted in disapproval, and stating that the filing shall not become effective.
+     (b)  If within thirty days:
+     (1)  After a specific inland marine rate on a risk specially rated by a rating organization or advisory organization subject to section 431:14-104(k) has become effective; or
+     (2)  After a special surety or guaranty filing subject to section 431:14-104(k) has become effective;
+the commissioner finds that such filing does not meet the requirements of this article, the commissioner shall send to the insurer, rating organization, or advisory organization that made the filing, written notice of disapproval of the filing specifying in what respects the filing fails to meet the requirements of this article and stating when, within a reasonable period thereafter, the filing shall be deemed no longer effective.  The disapproval shall not affect any contract made or issued prior to the expiration of the period set forth in the notice.
+     (c)  If any time subsequent to the applicable review period provided for in subsections (a) or (b), the commissioner finds that a filing does not comply with the requirements of this article, the commissioner shall order a hearing upon the filing.  The hearing shall be held upon not less than ten days' written notice to every insurer and rating organization or advisory organization [who] that made such a filing.  The notice shall specify the matters to be considered at the hearing[.] and specify the factual and legal bases for the commissioner's finding of noncompliance.  If, after a hearing the commissioner finds that a filing does not meet the requirements of this article, the commissioner, within thirty days of the hearing, shall issue an order specifying in what respects the filing fails to meet such requirements, and stating when, within a reasonable period thereafter, the filing shall be deemed no longer effective.  Copies of the order shall be sent to every such insurer and rating organization[.] or advisory organization, whose filing is affected by the order.  The order shall not affect any contract or policy made or issued prior to the expiration of the period set forth in the order.
+     (d)  Whenever the commissioner issues a written notice of disapproval of a filing to an insurer, rating organization, or advisory organization, the commissioner may establish, within ten days thereof, interim rates sufficient to protect the interests of the insurer and its policyholders and ensure the solvency of the insurer.  When a new rate becomes legally effective and the new rate is higher than the interim rate, the commissioner shall allow the insurer to retroactively adjust the premiums to the time when the interim rate was first imposed.  If the new rate is lower than the interim rate, the commissioner may order that the difference be applied to stabilize future rates or be refunded to current policyholders.
+     (e)  If a filing is disapproved, in whole or in part, a petition and demand for a contested case hearing may be filed in accordance with chapter 91.  The insurer shall bear the burden of proving that the filing meets the requirements of this article.
+     [(d)(1)] (f)  Any person or organization aggrieved with respect to any filing [which] that is in effect may make written demand to the commissioner for a hearing thereon; provided[, however, that the] that:
+     (1)  The insurer [or], rating organization [which], or advisory organization that made the filing shall not be authorized to proceed under this subsection[.];
+     (2)  The demand shall specify the grounds to be relied upon by the aggrieved person or organization and such demand [must] shall show that such person or organization has a specific economic interest affected by the filing[.];
+     (3)  If the commissioner finds that the demand is made in good faith, that the applicant would be so aggrieved if the person's or organization's grounds are established, and that the grounds otherwise justify [such] a hearing, the commissioner shall, within thirty days after receipt of the demand, hold a hearing.  The hearing shall be held upon not less than ten days' written notice to the aggrieved party and to every insurer and rating organization [which] or advisory organization that made such filing.  The aggrieved party shall bear the burden of proving that the filing fails to meet the standards set forth in section 431:14-103(a)(1); and
+     (4)  If, after the hearing, the commissioner finds that the filing does not meet the requirements of this article, the commissioner shall issue an order specifying in what respects the filing fails to meet the requirements of this article, and stating when, within a reasonable period, the filing shall be deemed no longer effective.  Copies of the order shall be sent to the applicant and to every such insurer and rating organization[.] or advisory organization.  The order shall not affect any contract or policy made or issued prior to the expiration of the period set forth in the order.
+     [(e)] (g)  No manual of classifications, rules, rating plan, or any modification of any of the foregoing [which] that establishes standards for measuring variations in hazards or expense provisions, or both, and [which] that has been filed pursuant to the requirements of section 431:14-104 shall be disapproved if the rates thereby produced meet the requirements of this article.
+     [(f)] (h)  The notices, hearings, orders, and appeals referred to in this section are in all applicable respects subject to chapter 91, unless expressly provided otherwise."
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Insurance; Rate Filings; Disapproval
+ 
+Description:
+Requires the Insurance Commissioner to publish listing of homeowners insurers and homeowners insurance premium rates in a newspaper of general circulation in the State annually; and allows the Insurance Commissioner to specify interim rates upon disapproval of insurance rate filings for property and casualty insurance.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

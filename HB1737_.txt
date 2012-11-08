@@ -1,0 +1,80 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1737
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MENTAL HEALTH.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that the department of health has recently implemented administrative rules that narrow the scope of people who are eligible to receive continuing services from the adult mental health division.  The legislature further finds that these restrictive rules leave many people with mental health needs without access to mental health services.
+     The purpose of this Act is to:
+     (1)  Require the adult mental health division of the department of health to provide services to people with a qualifying diagnosis;
+     (2)  Allow the department of health to bill an insurer for treatment services rendered by the State pursuant to chapter 334, Hawaii Revised Statutes; and
+     (3)  Make the department of health eligible to receive reimbursement from an insurer in exchange for treatment services rendered by the State pursuant to chapter 334, Hawaii Revised Statutes.
+     SECTION 2.  Section 334-1, Hawaii Revised Statutes, is amended by adding two new definitions to be appropriately inserted and to read as follows:
+     ""Qualifying diagnosis" means one of the following diagnoses:
+     (1)  Schizophrenia and other psychotic disorders;
+     (2)  Mood disorders, including recurrent major depressive disorder and bipolar disorders;
+     (3)  Anxiety disorders, including panic disorder with agoraphobia, obsessive-compulsive disorder, and post‑traumatic stress disorder;
+     (4)  Borderline personality disorder;
+     (5)  Substance-related disorders that do not resolve in thirty days, including alcohol-induced psychotic disorder, amphetamine-induced psychotic disorder, cannabis-induced psychotic disorder, cocaine-induced psychotic disorder, hallucinogen-induced psychotic disorder, inhalant-induced psychotic disorder, opioid‑induced psychotic disorder, phencyclidine‑induced psychotic disorder, sedative-, hypnotic-, or anxiolytic-induced psychotic disorder, and other or unknown substance-induced psychotic disorders; and
+     (6)  Co-occurring disorders, including persons with severe and persistent mental illness and a substance abuse disorder, and persons with severe and persistent mental illness and diagnosis of mild mental retardation.
+     "Severe and persistent mental illness" means a qualified diagnosis, as defined in this section, that results in emotional, cognitive, or behavioral functioning that is so impaired as to substantially interfere with a person's capacity to remain in the community without treatment, and that results in a long-term limitation in a person's functional capacities for the primary activities of daily living."
+     SECTION 3.  Section 334-3, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  The department shall specifically:
+     (1)  Perform statewide assessments of the need for prevention, treatment, and rehabilitation services in the areas of mental or emotional disorders and substance abuse;
+     (2)  Adopt rules pursuant to chapter 91 for establishing the number and boundaries of the geographical service areas for the delivery of services in the areas of mental or emotional disorders and substance abuse.  The department shall periodically review the effectiveness of the geographical service areas in promoting accessibility and continuity of appropriate care to all residents of that geographical area;
+     (3)  Appoint a service area administrator in each county who shall be responsible for the development, delivery, and coordination of services in that area;
+     (4)  Ensure statewide and community-based planning for the ongoing development and coordination of the service delivery system as guided by needs assessment data and performance related information;
+     (5)  Establish standards and rules for psychiatric facilities and their licensing, where applicable;
+     (6)  Establish standards and rules for services in the areas of mental health and substance abuse treatment, including assurances of the provision of minimum levels of accessible service to persons of all ages, ethnic groups, and geographical areas in the State;
+     (7)  Ensure community involvement in determining the service delivery arrangements appropriate to each community of the State;
+     (8)  Cooperate with public and private health, education, and human service groups, agencies, and institutions in establishing a coordinated system to meet the needs of persons with mental or emotional disorders and substance abuse difficulties;
+     (9)  Evaluate and monitor all services in the fields of mental health and substance abuse where such services are supported fully or in part by state resources;
+    (10)  Promote and conduct research, demonstration projects, and studies concerned with the nature, prevention, intervention, and consequences of mental or emotional disorders and substance abuse;
+    (11)  Keep records, statistical data, and other information as may be necessary in carrying out the functions of the mental health system and this chapter;
+    (12)  Advocate patients' rights in all psychiatric facilities in the State and investigate any grievances submitted to the department by any patient in a psychiatric facility, except as provided in section 334E-2(d).  The department shall establish rules and procedures for the purpose of this paragraph within one year after January 1, 1985, and post the rules in a conspicuous manner and accessible place;
+    (13)  Promote and conduct a systematic program of accountability for all services provided, funds expended, and activities carried out under its direction or support in accordance with sound business, management, and scientific principles;
+    (14)  Coordinate mental health resources in each county of the State by the development and presentation of a comprehensive integrated service area plan developed by the service area administrator in conjunction with the service area board.  The service area administrator and the service area board, in collaboration with private and public agencies serving their population, shall submit recommendations for the statewide comprehensive integrated service plan, including needs assessment, program planning, resource development, priorities for funding, monitoring, and accountability activities;
+    (15)  Oversee and coordinate service area programs and provide necessary administrative and technical assistance to assist service area programs in meeting their program objectives; [and]
+    (16)  Provide staffing to the state council and service area boards to assist in the performance of their functions[.]; and
+    (17)  Notwithstanding any rules to the contrary adopted by the department, any person with a "qualifying diagnosis", as defined in section 334-1, shall be eligible for services provided by the department of health's adult mental health division."
+     SECTION 4.  Section 334-6, Hawaii Revised Statutes, is amended to read as follows:
+     "§334-6  Fees; payment of expenses for treatment services.  (a)  Pursuant to chapter 91, the director shall establish reasonable charges for treatment services and may make collections on such charges.  In making the collections on such charges the director shall take into consideration the financial circumstances of the patient and the patient’s family including a reciprocal beneficiary, and no collections shall be made where in the judgment of the director, such collections would tend to make the patient or the patient’s family including a reciprocal beneficiary, a public charge or deprive the patient and the patient’s family including a reciprocal beneficiary, of necessary support.
+     (b)  Every person hospitalized at a psychiatric facility or receiving treatment services through a community mental health center under the jurisdiction of the State or a county, or at a psychiatric facility or through a community mental health center which derives more than fifty per cent of its revenues from the general fund of the State, or pursuant to contract with the director under section 334-2.5, shall be liable for the expenses attending their reception, maintenance, and treatment and any property not exempt from execution belonging to the person shall be subject to sequestration for the payment of the expenses.  Every parent or legal guardian of a patient who is a minor and every spouse or reciprocal beneficiary of a patient shall be liable for the expenses attending the reception, maintenance, and treatment of that minor child or spouse or reciprocal beneficiary who is hospitalized at a psychiatric facility or receiving treatment through a community mental health center under the jurisdiction of the State or a county, or at a psychiatric facility or through a community mental health center which derives more than fifty per cent of its revenues from the general fund of the State, or pursuant to contract with the director under section 334-2.5.
+     (c)  The department:
+     (1)  May bill an insurer for treatment services rendered by the State pursuant to this chapter; and
+     (2)  Shall be eligible to receive reimbursement from an insurer billed in accordance with this section."
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Mental Health; Adult Mental Health Division; Department of Health
+ 
+Description:
+Requires the adult mental health division of the department of health to provide services to people with a qualifying diagnosis.  Allows the department of health to bill and receive reimbursement from an insurer for treatment services rendered by the State pursuant to chapter 334, HRS.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+ 

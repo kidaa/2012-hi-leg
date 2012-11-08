@@ -1,0 +1,69 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1183
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE GENERAL EXCISE TAX.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that few online retailers domiciled out-of-state collect the general excise tax on sales made to Hawaii residents.  This results in a substantial loss of tax revenues for the State and provides an unfair advantage to out-of-state retailers at the expense of local businesses.
+     The purpose of this Act is to:
+     (1)  Create a nexus standard for taxing out-of-state businesses on their business activities in Hawaii;
+     (2)  Amend the definition of "engaging in business" with regard to the general excise tax to include persons who enter into an agreement with residents of the State, where the person pays a commission for referral of potential customers; and
+     (3)  Allow out-of-state businesses to file information regarding sales to residents of the State, instead of collecting and remitting general excise taxes to the department of taxation.
+     SECTION 2.  Chapter 231, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§231-     Businesses domiciled out-of-state; nexus presumptions.  (a)  Notwithstanding any law to the contrary, a person or entity conducting business in this State that has its commercial domicile in another state is presumed to be systematically and regularly engaging in business in this State and taxable under title 14 if, during any year:
+     (1)  The person or entity engages in or solicits business with persons within this State; and
+     (2)  The person or entity earns income, gross proceeds, gross rental, or gross rental proceeds attributable to sources in this State.
+     (b)  Notwithstanding any requirement under title 14 that a person or entity assess and remit tax on a monthly basis, if a person is taxable in this State by reason of this section, the person or entity may petition the director of taxation to allow the assessment and remitting of tax on a basis other than monthly for good cause.  For purposes of this section, good cause includes compliance with the United States Constitution and the state constitution."
+     SECTION 3.  Chapter 237, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§237-     Businesses domiciled out-of-state; annual statement.  (a)  Any person or entity conducting business in this State that:
+     (1)  Has its commercial domicile in another state;
+     (2)  Is presumed to be systematically and regularly engaging in business in this State under section 231-   ; and
+     (3)  Does not collect the tax imposed by this chapter for sales of tangible personal property to residents of this State;
+shall file an annual statement with the department of taxation, as provided in this section.
+     (b)  The annual statement required by this section shall be filed on forms provided or approved by the department on or before the fourth month following the close of the taxable year.  The annual statement shall include the following information:
+     (1)  Names of residents of this State to whom the out-of-state business sold tangible personal property during the taxable year;
+     (2)  Dates of each sale;
+     (3)  Zip code of the shipping address of each sale; and
+     (4)  Dollar amount of each sale.
+Except for the dollar amount required under paragraph (4), no information describing the tangible personal property sold shall be provided in the annual statement.
+     (c)  Any person or entity that files an annual report with the department pursuant to this section shall be relieved of any duty to collect the tax imposed by this chapter for sales of tangible personal property to residents of this State for the taxable year for which the annual statement is filed."
+     SECTION 4.  Section 237-2, Hawaii Revised Statutes, is amended to read as follows:
+     "§237-2  "Business", "engaging" in business, defined.  "Business" as used in this chapter, includes all activities (personal, professional, or corporate), engaged in or caused to be engaged in with the object of gain or economic benefit either direct or indirect, but does not include casual sales.
+     The term "engaging" as used in this chapter with reference to engaging or continuing in business also includes [the]:
+     (1)  The exercise of corporate or franchise powers[.]; or
+     (2)  The sale of tangible personal property by a person soliciting business through an independent contractor or other representative if the person enters into an agreement with a resident of this State under which the resident, for a commission or other consideration, directly or indirectly refers potential customers, whether by a link on an internet website or otherwise, to the person.
+          This presumption may be rebutted by proof that the resident with whom the person has an agreement did not engage in any solicitation in the State on behalf of the person that would satisfy the nexus requirement of the United States Constitution during the taxable year in question.  Nothing in this section shall be construed to narrow the scope of the terms "person", "purchasing agent", or "representative" as defined in section 237-1."
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act, upon its approval, shall apply to taxable years beginning after December 31, 2010.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+GET; Out-of-State Business; Nexus Standard
+ 
+Description:
+Creates a nexus standard for taxing out-of-state businesses on their business activities in Hawaii.  Amends the definition of engaging in business to include local affiliate agreements.  Allows out-of-state businesses to file information regarding sales to residents of the State instead of collecting GET.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

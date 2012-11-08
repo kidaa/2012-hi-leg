@@ -1,0 +1,58 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1754
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO ELECTIONS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  In 2011 the Hawaii state reapportionment commission and the redistricting commissions for the county of Hawaii and the city and county of Honolulu convened to develop new boundaries based on the last decennial census.  While attempts were made, to the extent possible, to have boundaries line up with each other to avoid areas being unnecessarily divided on the basis of county council, state representative, state senator, and congressional lines, there are small population pockets that will each need to have their own unique ballot type developed.  A ballot type contains the specific contests, questions, or issues that voters who reside in a specific area are entitled to vote on.  Historically, each ballot type is associated with its own election day polling place.  However, given the small amount of voters in each of these population pockets and the financial resources and personnel required to establish and operate a polling place, the purpose of this Act is to permit the mailing of absentee ballots to all registered voters in these impacted areas, in lieu of the operation of polling places.
+     SECTION 2.  Section 15-4, Hawaii Revised Statutes, is amended to read as follows:
+     "§15-4  Request for absentee ballot.  (a)  Any person registered to vote may request an absentee ballot or permanent absentee ballot in person or in writing from the clerk at any time but not later than 4:30 p.m. on the seventh day prior to the election.  Any mailed requests for an absentee ballot or permanent absentee ballot shall be mailed by the person directly to the clerk.  The clerk may waive any or all of the foregoing requirements in special cases as provided in the rules adopted by the chief election officer.
+     The request shall include information such as the person's social security number, date of birth, and the address under which the person is registered to vote.  The request shall also include the address to which the person wishes the requested ballot forwarded.  The request, when made for any primary or special primary election, may include an additional request for an absentee ballot to be voted at any election immediately following the primary or special primary; provided the person so indicates in the person's request.
+     Subsequent to the closing of registration for each election, the clerk may mail a request form for an absentee ballot and permanent absentee ballot to each voter in a remote area who has not already made such a request.  The request form shall be accompanied by:
+     (1)  A stamped, self-addressed envelope; and
+     (2)  Instructions regarding the manner of completing and returning the request form.
+     (b)  Notwithstanding subsection (a), the clerk shall mail an absentee ballot for each primary, special primary, special, general, and special general election to each registered voter who resides in the county of Kalawao.  The chief election officer may adopt rules to carry out this subsection.
+     (c)  Notwithstanding any law to the contrary, in the event there are less than five hundred registered voters, as of the preceding general election, in an area covered by a specific ballot type, the clerk shall mail an absentee ballot to each registered voter who resides in such an area, if the chief election officer, or the clerk in a county only election, determines that an election day polling place will not be established for such voters.  Ballot type for purposes of this section means the unique ballot containing the contests, questions, or issues that will be utilized by the voters of a specific area.  
+     [(c)] (d)  When a registered voter requests an absentee ballot, the voter also may include an additional request to receive absentee ballots permanently.  After receiving a request for permanent absentee voter status, the clerk shall mail to the voter who requested permanent absentee voter status an absentee ballot for all subsequent elections conducted in that precinct.
+     [(d)] (e)  The chief election officer shall inform voters of the option of applying for permanent absentee voter status and shall provide any necessary form to request the permanent absentee ballot option to any registered voter requesting an absentee ballot and any person applying to register to vote.
+     [(e)] (f)  A permanent absentee voter shall be responsible for informing the clerk of any changes to personal information, including changes to the voter's forwarding address.
+     [(f)] (g)  A voter's permanent absentee voter status shall be terminated if any of the following conditions apply:
+     (1)  The voter requests in writing that such status be terminated;
+     (2)  The voter dies, loses voting rights, registers to vote in another jurisdiction, or is otherwise disqualified from voting;
+     (3)  The voter's absentee ballot, voter notification postcard, or any other election mail is returned to the clerk as undeliverable for any reason; or
+     (4)  The voter does not return a voter ballot by 6:00 p.m. election day in both the primary and general election of an election year.
+     [(g)] (h)  If a voter's permanent absentee voter status has been terminated due to one or more of the conditions specified in subsection [(f)] (g), the voter shall be responsible for again requesting permanent absentee status as specified in subsection [(c)] (d)."
+     SECTION 3.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Elections; Absentee Ballots; Unique Ballots; Office of Elections Package
+ 
+Description:
+Due to the recent drawing of district lines for federal, state, and county offices, there are small populations of voters who reside in areas that would require the creation of a ballot containing the contests, question, and issues specific to those areas, and the establishment of polling places for those voters.  Given the small amount of voters involved and the resources required to establish and operate a polling place, this bill permits the mailing of absentee ballots to all registered voters in these areas, in lieu of the operation of polling places.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

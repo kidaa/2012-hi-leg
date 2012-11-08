@@ -1,0 +1,145 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1168
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE HAWAII EMPLOYER-UNION HEALTH BENEFITS TRUST FUND.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 87A, Hawaii Revised Statutes, is amended by adding three new sections to be appropriately designated and to read as follows:
+     "§87A-A  Selection of benefit plan carriers, third-party administrators, consultants, actuaries, auditors, or administrator.  Procurement of the services of a carrier, third-party administrator for any benefits plan, consultant, actuary, auditor, or administrator shall be exempt from chapter 103D.
+     §87A-B  Fiduciary duties; prohibited transactions.  (a)  A fiduciary of the trust shall comply, with respect to a plan, with all fiduciary duties imposed on fiduciaries under Title 29 United States Code Sections 1001-1191, as amended, and related regulations.
+     (b)  All fiduciaries of the trust shall discharge their duties with respect to a plan solely in the interest of the participants and beneficiaries and:
+     (1)  For the exclusive purpose of:
+         (A)  Providing benefits to participants and their beneficiaries;
+         (B)  Defraying reasonable expenses of administering the plan; and
+     (2)  With the care, skill, prudence, and diligence under the circumstances then prevailing that a prudent person acting in a similar capacity and familiar with those matters would use in the conduct of an enterprise of a similar character and with similar aims;
+     (3)  By diversifying the investments of the plan so as to minimize the risk of large losses unless, under the circumstances, it is clearly prudent not to do so; and
+     (4)  In accordance with the documents and instruments governing the plan insofar as those documents and instruments are consistent with this chapter.
+     (c)  In addition to any liability that a fiduciary may have under this chapter, a fiduciary with respect to a plan shall be liable for a breach of fiduciary responsibility of another fiduciary with respect to the same plan in the following circumstances:
+     (1)  If the fiduciary participates knowingly in, or knowingly undertakes to conceal, an act or omission of the other fiduciary, knowing that act or omission is a breach;
+     (2)  If, by the fiduciary's failure to comply with subsection (a) or (b), the fiduciary has enabled the other fiduciary to commit a breach; or
+     (3)  If the fiduciary has knowledge of the breach by the other fiduciary, unless the fiduciary makes reasonable efforts under the circumstances to remedy the breach.
+     If the assets of the plan are held by two or more trustees, each shall use reasonable care to prevent a co-trustee from committing a breach, and each trustee shall be responsible for jointly managing and controlling the assets of the plan.
+     (d)  A fiduciary shall not cause a plan to engage in a transaction, if the fiduciary knows or should know that the transaction constitutes a direct or indirect:
+     (1)  Sale, exchange, or lease of any property between the plan and a party in interest;
+     (2)  Lending of money or other extension of credit between the plan and a party in interest;
+     (3)  Furnishing of goods, services, or facilities between the plan and a party in interest; or
+     (4)  Transfer to, or use by or for the benefit of, a party in interest of any assets of the plan.
+     (e)  A fiduciary shall not:
+     (1)  Deal with the assets of the plan in the fiduciary's own interest or for the fiduciary's own account;
+     (2)  In the fiduciary's individual capacity or in any other capacity, act or represent a party in any transaction involving the plan on behalf of a party whose interests are adverse to the interests of the plan or the interests of its participants or beneficiaries; or
+     (3)  Receive any consideration for the fiduciary's own personal account from any party dealing with the plan in connection with a transaction involving the assets of the plan.
+     §87A-C  Liability for breach of fiduciary duty.  (a)  Any person who is a fiduciary with respect to a plan and who breaches any of the responsibilities, obligations, or duties imposed on fiduciaries by this chapter shall be:
+     (1)  Personally liable to make good to the plan any losses to the plan, resulting from each breach, and to restore to the plan any profits of the fiduciary made through the use of assets of the plan by the fiduciary; and
+     (2)  Subject to any other equitable and remedial relief as the court may deem appropriate, including removal of the fiduciary.
+     (b)  Any provision in any agreement or instrument that purports to relieve a fiduciary of responsibility or liability for any responsibility, obligation, or duty under this chapter shall be void as against public policy.  However, nothing in this section shall preclude:
+     (1)  A plan from purchasing insurance for its fiduciaries or for itself to cover liability or losses occurring by reason of the act or omission of a fiduciary in the case of a breach of a fiduciary obligation by the fiduciary, if the insurance permits recourse by the insurer against the fiduciary in the case of a breach of fiduciary obligation by the fiduciary;
+     (2)  A fiduciary from purchasing insurance to cover liability under this chapter from and for the fiduciary's own account; or
+     (3)  An employee organization from purchasing insurance to cover potential liability of one or more persons who serve in a fiduciary capacity with regard to an employee welfare benefit plan."
+     SECTION 2.  Section 28-8.3, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  No department of the State other than the attorney general may employ or retain any attorney, by contract or otherwise, for the purpose of representing the State or the department in any litigation, rendering legal counsel to the department, or drafting legal documents for the department; provided that the foregoing provision shall not apply to the employment or retention of attorneys:
+     (1)  By the public utilities commission, the labor and industrial relations appeals board, and the Hawaii labor relations board;
+     (2)  By any court or judicial or legislative office of the State; provided that if the attorney general is requested to provide representation to a court or judicial office by the chief justice or the chief justice's designee, or to a legislative office by the speaker of the house of representatives and the president of the senate jointly, and the attorney general declines to provide such representation on the grounds of conflict of interest, the attorney general shall retain an attorney for the court, judicial, or legislative office, subject to approval by the court, judicial, or legislative office;
+     (3)  By the legislative reference bureau;
+     (4)  By any compilation commission that may be constituted from time to time;
+     (5)  By the real estate commission for any action involving the real estate recovery fund;
+     (6)  By the contractors license board for any action involving the contractors recovery fund;
+     (7)  By the trustees for any action involving the travel agency recovery fund;
+     (8)  By the office of Hawaiian affairs;
+     (9)  By the department of commerce and consumer affairs for the enforcement of violations of chapters 480 and 485A;
+    (10)  As grand jury counsel;
+    (11)  By the Hawaiian home lands trust individual claims review panel;
+    (12)  By the Hawaii health systems corporation, or its regional system boards, or any of their facilities;
+    (13)  By the auditor;
+    (14)  By the office of ombudsman;
+    (15)  By the insurance division;
+    (16)  By the University of Hawaii;
+    (17)  By the Kahoolawe island reserve commission;
+    (18)  By the division of consumer advocacy;
+    (19)  By the office of elections;
+    (20)  By the campaign spending commission;
+    (21)  By the Hawaii tourism authority, as provided in section 201B-2.5;
+    (22)  By the division of financial institutions for any action involving the mortgage loan recovery fund; [or]
+    (23)  By the Hawaii employer-union health benefits trust fund, as provided in section 87A-9; or
+   [(23)] (24)  By a department, in the event the attorney general, for reasons deemed by the attorney general to be good and sufficient, declines to employ or retain an attorney for a department; provided that the governor thereupon waives the provision of this section."
+     SECTION 3.  Section 87A-5, Hawaii Revised Statutes, is amended to read as follows:
+     "§87A-5  Composition of board.  (a)  The board of trustees of the employer-union health benefits trust fund shall consist of [ten] trustees appointed [by the governor] in accordance with the following procedure:
+     (1)  [Five] Six trustees[, one of whom shall represent retirees,] to represent employee-beneficiaries and to be selected as follows:
+        [(A)  Three trustees shall be appointed from a list of two nominees per trustee selected by each of the three exclusive representative organizations that have the largest number of employee-beneficiaries;
+         (B)  One trustee shall be appointed from a list of two nominees selected by mutual agreement of the remaining exclusive employee representative organizations; and
+         (C)  One trustee representing retirees shall be appointed from a list of two nominees selected by mutual agreement of all eligible exclusive representatives; and
+     (2)  Five trustees to represent public employers.]
+         (A)  One trustee to be appointed by the exclusive bargaining representative for bargaining units 2, 3, 4, 6, 8, 9, and 13;
+(B)  One trustee to be appointed by the exclusive bargaining representative for bargaining unit 5;
+         (C)  One trustee to be appointed by the exclusive bargaining representative for bargaining unit 7;
+         (D)  One trustee to be appointed by the exclusive bargaining representative for bargaining units 1 and 10;
+         (E)  One trustee to be appointed by the exclusive bargaining representative for bargaining unit 11; and
+         (F)  One trustee to be appointed by the exclusive bargaining representative for bargaining unit 12.
+          All trustees shall serve at the pleasure of the appointing exclusive bargaining representative.
+     (2)  Six trustees, five to represent public employers and one to represent retiree beneficiaries, as follows:
+         (A)  One trustee to be appointed by the governor to represent the State of Hawaii administration;
+         (B)  One trustee to be appointed by the governor from nominees submitted by the University of Hawaii board of regents;
+         (C)  One trustee to be appointed by the governor from nominees submitted by the board of education;
+         (D)  One trustee to be appointed by the mayor of the city and county of Honolulu;
+         (E)  One trustee to be appointed by at least two county mayors from the county of Hawaii, Maui, or Kauai.  The mayor of the remaining county shall appoint an alternate trustee to sit in the absence of a county or city and county regular trustee; and
+         (F)  One trustee to be appointed by the governor to represent retiree beneficiaries.
+          All trustees shall serve at the pleasure of the appointing authority.
+     (b)  If an exclusive bargaining representative negotiates a specific contribution to apply to only that bargaining unit, that unit shall have a sub-board of trustees to administer that exclusive bargaining unit's contributions and benefits.  The benefits for the bargaining unit, including the type and level, shall be determined by the sub-board of trustees or established pursuant to the collective bargaining agreement.  There shall be two trustees appointed by the employer and two trustees appointed by the exclusive bargaining representative to the sub-board.
+     (c)  Section 26-34 shall not apply to board member selection and terms.  Notwithstanding any other provision of this section, no exclusive representative of a bargaining unit that sponsors or participates in a voluntary employee beneficiary association shall be eligible to select nominees or to be represented by a trustee on the board.
+     (d)  As used in this section, the term "exclusive representative" shall have the same meaning as in section 89-2."
+     SECTION 4.  Section 87A-6, Hawaii Revised Statutes, is amended to read as follows:
+     "§87A-6  Term of a trustee; vacancy.  [The term of office of each trustee shall be four years; provided that a trustee may be reappointed for one additional consecutive four-year term.
+     A vacancy on the board shall be filled in the same manner as the trustee who vacated that position was nominated or appointed; provided that the criteria used for nominating or appointing the successor shall be the same criteria used for nominating or appointing the person's predecessor; provided further that vacancies on the board for each trustee position representing retirees and employee-beneficiaries appointed under section 87A-5(1)(A) and (B) shall be filled by appointment of the governor as follows:
+     (1)  If a vacancy occurs in one of the trustee positions described in section 87A-5(1)(A), then the vacancy shall be appointed from a list of two nominees submitted by the exclusive employee representative from among the three largest exclusive employee representatives that does not have a trustee among the three trustee positions;
+     (2)  If a vacancy occurs in a trustee position described in section 87A-5(1)(B), then the vacancy shall be appointed from a list of two nominees submitted by mutual agreement of the exclusive employee representatives described in section 87A-5(1)(B); and
+     (3)  If a vacancy occurs in the retiree position described in section 87A-5(1)(C), then the vacancy shall be appointed from a list of two nominees submitted by mutual agreement of all eligible exclusive employee representatives.
+     If by the end of a trustee's term the trustee is not reappointed or the trustee's successor is not appointed, the trustee shall serve until the trustee's successor is appointed.]  The term of office of each trustee shall be at the pleasure of the nominating or appointing authority.  If the appointing authority fails to appoint an employer trustee to fill a vacant position, the chief justice of the supreme court shall make the appointment upon petition by two or more employee beneficiary trustees.  If the appointing authority fails to appoint an employee beneficiary trustee to fill a vacant position, the chief justice of the supreme court shall make the appointment upon petition by two or more employer trustees."
+     SECTION 5.  Section 87A-9, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§87A-9[]]  Legal adviser.  The [attorney general shall] board may appoint or retain by contract an attorney who is independent of the attorney general to serve as legal adviser to the board and shall provide legal representation for the Hawaii employer-union health benefits trust fund.  The legal adviser shall have Employee Retirement and Income Security Act employee benefits experience, either from the private or public sector."
+     SECTION 6.  Section 87A-11, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§87A-11[]]  Quorum; board actions; voting.  (a)  [Six] Eight trustees, [three] four of whom represent the public employer and [three] four of whom represent employee-beneficiaries, shall constitute a quorum for the transaction of business.
+     (b)  Trustees representing the public employers shall collectively have one vote.  Trustees representing the employee-beneficiaries shall collectively have one vote.
+     For any vote of the trustees representing the public employers to be valid, [three] four of these trustees must concur to cast such a vote.  In the absence of such concurrence, the trustees representing the public employers shall be deemed to have abstained from voting.
+     For any vote of the trustees representing the employee-beneficiaries to be valid, [three] four of these trustees must concur to cast such a vote.  In the absence of such concurrence, the trustees representing the employee-beneficiaries shall be deemed to have abstained from voting.
+     An abstention shall not be counted as either a vote in favor or against a matter before the board.
+     (c)  Any action taken by the board shall be by the concurrence of at least two votes.  In the event of a tie vote on any motion, the motion shall fail.  Upon the concurrence of [six] eight trustees, the board shall participate in dispute resolution."
+     SECTION 7.  Section 87A-15, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§87A-15[]]  Administration of the fund.  The board shall administer and carry out the purpose of the fund.  Health and other benefit plans shall be provided [at a cost affordable to both the public employers and the public employees.] as follows:
+     (1)  For collective bargaining units based on the collectively bargained contributions from both the employers and the employees;
+     (2)  For retirees within the appropriation adopted by the legislature and the respective counties; and
+     (3)  For all other eligible beneficiaries based on the contribution from both the employer and employees."
+     SECTION 8.  Section 87A-30, Hawaii Revised Statutes, is amended to read as follows:
+     "§87A-30  Hawaii employer-union health benefits trust fund; establishment.  There is established outside the state treasury, a trust fund to be known as the "Hawaii Employer-Union Health Benefits Trust Fund".  The fund shall consist of contributions, interest, income, dividends, refunds, rate credits, and other returns.  It is hereby declared that any and all sums contributed or paid from any source to the fund created by this part, and all assets of the fund including any and all interest and earnings on the same, are and shall be held in trust by the board for the exclusive use and benefit of the employee-beneficiaries and dependent-beneficiaries and shall not be subject to appropriation for any other purpose whatsoever.  The fund shall be under the control of the board of trustees and placed under the department of [budget and finance] human resources development for administrative purposes."
+     SECTION 9.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+SECTION 10.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Hawaii Employer-Union Health Benefits Trust Fund; Administration
+ 
+Description:
+Provides for fiduciary responsibilities.  Allows EUTF to hire attorneys.  Alters composition of EUTF board and appointments to vacancies.  Alters requirements for quorum.  Places EUTF within DHRD rather than BUF for administrative purposes.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

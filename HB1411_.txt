@@ -1,0 +1,150 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1411
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MORTGAGE FORECLOSURES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 667, part II, Hawaii Revised Statutes, is amended by adding four new sections to be appropriately designated and to read as follows:
+     "§667-A  Duty of foreclosing mortgagee to maintain mortgaged property.  From the deadline date in the notice of default until the recordation of the affidavit and conveyance document, for any period of time in which the mortgaged property is not occupied by the mortgagor, the foreclosing mortgagee shall:
+     (1)  Ensure that the mortgaged property complies with all applicable building and housing laws materially affecting health and safety;
+     (2)  Keep the mortgaged property in a clean and safe condition;
+     (3)  Make all repairs and arrangements necessary to put and keep the mortgaged property in a habitable condition; and
+     (4)  Maintain all electrical, plumbing, and other facilities and appliances in good working order and condition; and
+     (5)  Make regular payments for any association fees and real property taxes owing on the mortgaged property.
+     §667-B   Prohibited conduct.  (a)  It shall be a prohibited practice for any foreclosing mortgagee to engage in any of the following practices:
+     (1)  Holding a public sale on a date, at a time, or at a place other than that described in the public notice of the public sale;
+     (2)  Specifying a fictitious place in the public notice of the public sale;
+     (3)  Conducting a postponed public sale on a date other than the date described in the new public notice of the public sale;
+     (4)  Delaying the conveyance of the conveyance document deed to a bona fide purchaser who purchases in good faith for more than six months after the completion of the public sale while retaining more than half the amount of the deposits in escrow;
+     (5)  Attempting to repossess residential real property in which the foreclosing mortgagee or electronic trustee entity has no ownership interest and no proper court order;
+     (6)  Listing real property for public sale on realtor listing services unless the foreclosing mortgagee or electronic trustee entity holds an ownership interest in the real property;
+     (7)  Executing purchase contracts on real property or causing damage to bona fide purchasers in good faith of real property in which the foreclosing mortgagee has no ownership interest;
+     (8)  Completing non-judicial foreclosure proceedings during "short sale" escrows for bid prices that are less than a purchaser's offer to purchase; or
+     (9)  Completing non-judicial foreclosure proceedings during loan modification negotiations with the mortgagor.
+     §667-C  Criminal penalties.  Any person who violates section 667-A or 667-B shall be guilty of a misdemeanor.
+     §667-D  Civil penalty; action.  (a)  Any person who violates any provision of this part shall be fined not more than $25,000 for each offense, and each day's violation or failure to comply shall be deemed a separate offense.  Fines shall be deposited with the director of commerce and consumer affairs to the credit of the compliance resolution fund pursuant to section 26-9(o).  Unless otherwise expressly provided, the remedies or penalties provided by this part are cumulative to each other and to the remedies or penalties available under all other laws of this State."
+     SECTION 2.  Section 454M-2, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  [A] No person [is] shall be engaged in the business of mortgage servicing [if the person provides those services] in this State [even if] unless the person providing services has [no] a physical presence in the State."
+     SECTION 3.  Chapter 667, Hawaii Revised Statutes, is amended by amending the title of part I to read as follows:
+     "PART I.  FORECLOSURE BY ACTION [OR
+FORECLOSURE BY POWER OF SALE]"
+     SECTION 4.  Section 667-21, Hawaii Revised Statutes, is amended by amending the definition of "foreclosing mortgagee" to read as follows:
+     "Foreclosing mortgagee" means the mortgagee that intends to conduct a power of sale foreclosure; provided that the mortgagee [is]:
+     (1)  Is a federally insured bank, a federally insured savings and loan association, a federally insured savings bank, a depository financial services loan company, a nondepository financial services loan company, a credit union insured by the National Credit Union Administration, a bank holding company, a foreign lender as defined in section 207-11, or an institutional investor as defined in section 454-1[.]; and
+     (2)  Is not an electronic trustee entity that is a privately or publicly held company that operates an electronic registry designed to track servicing rights and ownership of mortgage loans."
+     SECTION 5.  Section 667-22, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending the title of the section and subsection (a) to read:
+     "§667-22  [Notice] Mediation; notice of default; contents; distribution.  (a)  When the mortgagor or the borrower has breached the mortgage agreement, when the foreclosing mortgagee has actively attempted to resolve the breach through mediation and has exhausted every avenue of mediation, and when the foreclosing mortgagee intends to conduct a power of sale foreclosure under this part, the foreclosing mortgagee shall prepare a written notice of default addressed to the mortgagor, the borrower, and any guarantor.  The notice of default shall state:
+     (1)  The name and address of the current mortgagee;
+     (2)  The name and last known address of the mortgagor, the borrower, and any guarantor;
+     (3)  The address or a description of the location of the mortgaged property, and the tax map key number of the mortgaged property;
+     (4)  The description of the default, and if the default is a monetary default, an itemization of the delinquent amount shall be given;
+     (5)  The action that must be taken to cure the default, including the amount to cure the default, together with the estimated amount of the foreclosing mortgagee's attorney's fees and costs, and all other fees and costs estimated to be incurred by the foreclosing mortgagee related to the default by the deadline date;
+     (6)  The date by which the default must be cured, which deadline date shall be at least sixty days after the date of the notice of default;
+     (7)  That if the default is not cured by the deadline date stated in the notice of default, the entire unpaid balance of the moneys owed to the mortgagee under the mortgage agreement will be due, that the mortgagee intends to conduct a power of sale foreclosure to sell the mortgaged property at a public sale without any court action and without going to court, and that the mortgagee or any other person may acquire the mortgaged property at the public sale; and
+     (8)  The name, address, including electronic address, and telephone number of the attorney who is representing the foreclosing mortgagee; provided that the attorney shall be licensed to practice law in the State and physically located in the State."
+      2.  By amending subsection (c) to read:
+     "(c)  The foreclosing mortgagee shall have the notice of default served on:
+     (1)  The mortgagor and the borrower[;] expressly in the same manner as service of a civil complaint under the Hawaii rules of civil procedure;
+     (2)  Any prior or junior creditors having a recorded lien on the mortgaged property before the recordation of the notice of default under section 667-23;
+     (3)  The state director of taxation;
+     (4)  The director of finance of the county where the mortgaged property is located; and
+     (5)  Any other person entitled to receive notice under section 667-5.5."
+     SECTION 6.  Section 667-25, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  The public sale of the mortgaged property shall be held only in the county where the mortgaged property is located[.  However, if the borrower, the mortgagor, and the foreclosing mortgagee all agree in writing, the public sale may be held in a different county in the State.]; provided that no public sale shall be held on grounds or at facilities under the administration of the judiciary.  The public sale shall be held during business hours on a business day."
+     SECTION 7.  Section 667-27, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending subsection (a) to read:
+     "(a)  The foreclosing mortgagee shall prepare the public notice of the public sale.  The public notice shall state:
+     (1)  The date, time, and place of the public sale;
+     (2)  The dates and times of the two open houses of the mortgaged property, or if there will not be any open houses, the public notice shall so state;
+     (3)  The unpaid balance of the moneys owed to the mortgagee under the mortgage agreement;
+     (4)  A description of the mortgaged property, including the address or description of the location of the mortgaged property, and the tax map key number of the mortgaged property;
+     (5)  The name of the mortgagor and the borrower;
+     (6)  The name of the foreclosing mortgagee;
+     (7)  The name of any prior or junior creditors having a recorded lien on the mortgaged property before the recordation of the notice of default under section 667-23;
+     (8)  The name, the address in the State, and the telephone number in the State of the person in the State conducting the public sale; [and]
+     (9)  The terms and conditions of the public sale[.]; and
+    (10)  An estimate of the opening bid."
+     2.  By amending subsection (d) to read:
+     "(d)  The foreclosing mortgagee shall have the public notice of the public sale published in the classified section of a daily newspaper of general circulation expressly in the county where the mortgaged property is located.  The public notice shall be published once each week for three consecutive weeks (three publications).  The public sale shall take place no sooner than fourteen days after the date of the publication of the third public notice advertisement."
+     SECTION 8.  Section 667-28, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  If there is a postponement of the public sale of the mortgaged property, a new public notice of the public sale shall be published once in the format described in section 667-27.  The new public notice shall state that it is a notice of a postponed sale.  The public sale shall take place no sooner than fourteen days after the date of the publication of the new public notice.  No sooner than fourteen days before the date of the public sale, a copy of the new public notice shall be posted on the mortgaged property or on such other real property of which the mortgaged property is a part, and it shall be mailed or delivered to the mortgagor, to the borrower, and to any other person entitled to receive notice under section 667-27.  Notwithstanding the foregoing, upon the fourth postponement of every series of four consecutive postponements, the foreclosing mortgagee shall follow all the public notice of public sale requirements of section 667-27, including the requirements of mailing and posting under section 667-27(c) and of publication under section 667-27(d)."
+     SECTION 9.  Section 667-31, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  After the purchaser completes the purchase by paying the full purchase price and the costs for the purchase, the mortgaged property shall be conveyed to the purchaser by a conveyance document.  The conveyance document shall be in a recordable form and shall be signed by the foreclosing mortgagee in the foreclosing mortgagee's name.  The mortgagor or borrower shall not be required to sign the conveyance document [on his or her own behalf]."
+     SECTION 10.  Section 667-37, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§667-37[]]  Judicial action of foreclosure before public sale.  This part shall not prohibit a primary owner-occupant, the borrower, the foreclosing mortgagee, or any other creditor having a recorded lien on the mortgaged property before the recordation of the notice of default under section 667-23, from filing an action for the judicial foreclosure of the mortgaged property in the circuit court of the circuit where the mortgaged property is located; provided that the action is filed before the public sale is held.  While that circuit court foreclosure action is pending, the power of sale foreclosure process shall be stayed."
+     SECTION 11.  Section 667-38, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§667-38[]]  Recordation; full satisfaction of debt by borrower. The recordation of both the conveyance document and the affidavit shall operate as full satisfaction of the debt owed by the borrower to the foreclosing mortgagee even if the foreclosing mortgagee receives nothing from the sale proceeds[, unless the debt is secured by other collateral, or except as otherwise provided by law].  The debts of other lien creditors are unaffected except as provided in this part."
+     SECTION 12.  Section 667-39, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§667-39[]]  Right to enforce this part.  (a)  The foreclosing mortgagee, any other creditor having a recorded lien on the mortgaged property before the recordation of the notice of default under section 667-23, the borrower, and the mortgagor, may enforce this part by bringing an action in the circuit court of the circuit where the mortgaged property is located.
+     (b)  The borrower or the mortgagor may also bring an action in the circuit court where the mortgaged property is located against any electronic trustee entity who attempts to act as a foreclosing mortgagee under this part.  Upon prevailing, the borrower or the mortgagor shall entitled to damages and attorney's fees from the electronic trustee entity.
+     (c)  For the purposes of this section, "electronic trustee entity" means a privately or publicly held company that:
+     (1)  Operates an electronic registry designed to track servicing rights and ownership of mortgage loans; and
+     (2)  Asserts to be the owner, or the owner's designee, of the security interest indicated by the mortgages transferred by lenders, investors, and loan servicers in real property records."
+     SECTION 13.  Section 667-52, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  In connection with a judicial foreclosure or foreclosure by power of sale of residential property improved by four or fewer dwelling units, no foreclosing mortgagee or mortgagee who acquires the property through a foreclosure proceeding shall require, directly or indirectly, as a condition of selling the property, that the buyer purchase an owner's title insurance policy covering the property or escrow service in connection with the sale of the property from a particular title insurer or escrow depository[.]; provided that no foreclosing mortgagee or mortgagee shall require that the escrow service be handled by an escrow company that does not have its principal place of business in the State.  This section shall not prohibit a buyer from agreeing to accept the services of a title insurer or an escrow depository recommended by the foreclosing mortgagee or mortgagee who acquires the property through the foreclosure proceeding if written notice of the right to make an independent selection of those services is first provided to the buyer by the foreclosing mortgagee or mortgagee who acquires the property through the foreclosure proceeding."
+     SECTION 14.  Section 667-5, Hawaii Revised Statutes, is repealed.
+     ["§667-5  Foreclosure under power of sale; notice; affidavit after sale.  (a)  When a power of sale is contained in a mortgage, and where the mortgagee, the mortgagee's successor in interest, or any person authorized by the power to act in the premises, desires to foreclose under power of sale upon breach of a condition of the mortgage, the mortgagee, successor, or person shall be represented by an attorney who is licensed to practice law in the State and is physically located in the State.  The attorney shall:
+     (1)  Give notice of the mortgagee's, successor's, or person's intention to foreclose the mortgage and of the sale of the mortgaged property, by publication of the notice once in each of three successive weeks (three publications), the last publication to be not less than fourteen days before the day of sale, in a newspaper having a general circulation in the county in which the mortgaged property lies; and
+     (2)  Give any notices and do all acts as are authorized or required by the power contained in the mortgage.
+     (b)  Copies of the notice required under subsection (a) shall be:
+     (1)  Filed with the state director of taxation; and
+     (2)  Posted on the premises not less than twenty-one days before the day of sale.
+     (c)  Upon the request of any person entitled to notice pursuant to this section and sections 667-5.5 and 667-6, the attorney, the mortgagee, successor, or person represented by the attorney shall disclose to the requestor the following information:
+     (1)  The amount to cure the default, together with the estimated amount of the foreclosing mortgagee's attorneys' fees and costs, and all other fees and costs estimated to be incurred by the foreclosing mortgagee related to the default prior to the auction within five business days of the request; and
+     (2)  The sale price of the mortgaged property once auctioned.
+     (d)  Any sale, of which notice has been given as aforesaid, may be postponed from time to time by public announcement made by the mortgagee or by some person acting on the mortgagee's behalf.  Upon request made by any person who is entitled to notice pursuant to section 667-5.5 or 667-6, or this section, the mortgagee or person acting on the mortgagee's behalf shall provide the date and time of a postponed auction, or if the auction is canceled, information that the auction was canceled.  The mortgagee within thirty days after selling the property in pursuance of the power, shall file a copy of the notice of sale and the mortgagee's affidavit, setting forth the mortgagee's acts in the premises fully and particularly, in the bureau of conveyances.
+     (e)  The affidavit and copy of the notice shall be recorded and indexed by the registrar, in the manner provided in chapter 501 or 502, as the case may be.
+     (f)  This section is inapplicable if the mortgagee is foreclosing as to personal property only."]
+     SECTION 15.  Section 667-5.5, Hawaii Revised Statutes, is repealed.
+     ["§667-5.5  Foreclosure notice.  Notwithstanding any law or agreement to the contrary, any person who forecloses on a property within a planned community, a condominium apartment or unit, or an apartment in a cooperative housing project shall notify, by way of registered or certified mail, the board of directors of the planned community association, the association of owners of the condominium project, or the cooperative housing project in which the property to be foreclosed is located, of the foreclosure at the time foreclosure proceedings are begun.  The notice, at a minimum, shall identify the property, condominium apartment or unit, or cooperative apartment which is the subject of the foreclosure and identify the name or names of the person or persons bringing foreclosure proceedings.  This section shall not apply when the planned community association, condominium association of owners, or cooperative housing corporation is a party in a foreclosure action.  This section shall not affect civil proceedings against parties other than the planned community association, association of owners, or cooperative housing corporation."]
+     SECTION 16.  Section 667-6, Hawaii Revised Statutes, is repealed.
+     ["§667-6  Notice to mortgage creditors.  Whenever a mortgage creditor having a mortgage lien on certain premises desires notice that another mortgage creditor having a mortgage lien on the same premises intends to foreclose the mortgage and sell the mortgaged property pursuant to a power of sale under section 667-5, the mortgage creditor may submit a written request to the mortgagee foreclosing or who may foreclose the mortgage by power of sale, to receive notice of the mortgagee's intention to foreclose the mortgage under power of sale.  This request for notice may be submitted any time after the recordation or filing of the subject mortgage at the bureau of conveyances or the land court, but must be submitted prior to the completion of the publication of the mortgagee's notice of intention to foreclose the mortgage and of the sale of the mortgaged property.  This request shall be signed by the mortgage creditor, or its authorized representative, desiring to receive notice, specifying the name and address of the person to whom the notice is to be mailed.  The mortgagee receiving the request shall thereafter give notice to all mortgage creditors who have timely submitted their request.  The notice shall be sent by mail or otherwise communicated to the mortgage creditors, not less than seven calendar days prior to the date of sale.
+     No request for copy of any notice pursuant to this section nor any statement or allegation in any such request nor any record thereof shall affect the title to real property or be deemed notice to any person that any party requesting copy of the notice has or claims any right, title, or interest in, or lien or charge upon the property described in the mortgage referred to therein."]
+     SECTION 17.  Section 667-7, Hawaii Revised Statutes, is repealed.
+     ["§667-7  Notice, contents; affidavit.  (a)  The notice of intention of foreclosure shall contain:
+     (1)  A description of the mortgaged property; and
+     (2)  A statement of the time and place proposed for the sale thereof at any time after the expiration of four weeks from the date when first advertised.
+     (b)  The affidavit described under section 667-5 may lawfully be made by any person duly authorized to act for the mortgagee, and in such capacity conducting the foreclosure."]
+     SECTION 18.  Section 667-8, Hawaii Revised Statutes, is repealed.
+     ["§667-8  Affidavit as evidence, when.  If it appears by the affidavit that the affiant has in all respects complied with the requirements of the power of sale and the statute, in relation to all things to be done by the affiant before selling the property, and has sold the same in the manner required by the power, the affidavit, or a duly certified copy of the record thereof, shall be admitted as evidence that the power of sale was duly executed."]
+     SECTION 19.  Section 667-9, Hawaii Revised Statutes, is repealed.
+     ["§667-9  Dower barred, when.  If the mortgage was executed by a man having at the time no lawful wife, or if the mortgagor being married, his wife joined in the deed in token of her release of dower, the sale of the property in the mode aforesaid shall be effectual to bar all claim and possibility of dower in the property."]
+     SECTION 20.  Section 667-10, Hawaii Revised Statutes, is repealed.
+     ["§667-10  Power unaffected by transfer; surplus after sale.  No sale or transfer by the mortgagor shall impair or annul any right or power of attorney given in the mortgage to the mortgagee to sell or transfer the mortgaged property, as attorney or agent of the mortgagor, except as otherwise provided by chapters 501 and 502.  When public sale is made of the mortgaged property under this chapter, the remainder of the proceeds, if any, shall be paid over to the owner of the mortgaged property, after deducting the amount of claim and all expenses attending the same."]
+     SECTION 21.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 22.  In codifying the new sections added by section 1 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 23.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 24.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Mortgage Foreclosures
+ 
+Description:
+Repeals the old non-judicial foreclosure process.  Clarifies the new non-judicial foreclosure process.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

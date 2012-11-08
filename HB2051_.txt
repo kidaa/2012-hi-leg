@@ -1,0 +1,57 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2051
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO DOMESTIC VIOLENCE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 571, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§571-    Database of offenders.  (a)  The family court shall maintain a computerized database accessible via an internet website containing information regarding covered offenders.  For purposes of this section, "covered offender" means a person who has at least three convictions for abuse of a family or household member under section 709-906.  A conviction shall not be included for purposes of determining whether a person is a covered offender, if the records of that conviction have been expunged. 
+     (b)  The family court shall make the following database information accessible to the public via the internet website:
+     (1)  The covered offender's full name, each alias used by the covered offender, and the covered offender's date of birth;
+     (2)  The covered offender's last known address;
+     (3)  A physical description and recent photograph of the covered offender;
+     (4)  A list of offenses for which the covered offender was convicted of abuse of a family or household member, the date of conviction for each offense, and the sentence prescribed for each offense; and
+     (5)  Information on whether the covered offender was discharged, placed on probation, or released on parole following the conviction for each offense.
+     (c)  The following information shall not be made available to the public:
+     (1)  The covered offender's social security number, driver's license number, or telephone number; and
+     (2)  Information that would identify a victim of the offense for which the covered offender was convicted under section 709-906.
+     (d)  The family court shall permit a covered offender whose name is included in the database established under this section to petition the family court for removal of the covered offender's name from the database, and the family court shall remove the covered offender's name from the database in response to the petition if:
+     (1)  The covered offender has less than three convictions under section 709-906, due to an expungement of records; or
+     (2)  During the seven-year period preceding the date of the petition, the covered offender has not been convicted of an offense under section 709-906.
+     (e)  The family court shall include on the internet website information regarding the:
+     (1)  Manner in which a covered offender may petition the family court for removal of the covered offender's name from the database; and
+     (2)  Circumstances under which the family court will grant the petition."
+     SECTION 2.  The database mandated under section 571-    , Hawaii Revised Statutes shall be designed and implemented no later than January 1, 2013.
+     SECTION 3.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.      SECTION 4.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+ 
+Report Title:
+Database of Offenders; Abuse of a Family or Household Member
+ 
+Description:
+Requires the family court to maintain a computerized database containing information regarding covered offenders who have at least three convictions of abuse of a family or household member.  Specifies information the database must contain.  Allows a covered offender whose name is included in the database to petition for removal of the covered offender's name under certain circumstances.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

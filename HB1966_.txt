@@ -1,0 +1,100 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1966
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO VACCINATIONS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that Act 125, Session Laws of Hawaii 2010, was adopted to form a task force convened by the Hawaii state board of pharmacy to research, assess, plan, and evaluate, among other things:
+     (1)  The potential benefits and drawbacks of reducing the age restrictions that prevent children from receiving vaccines from pharmacists;
+     (2)  The most effective means to reduce such age restrictions;
+     (3)  Whether additional education or certification requirements would be necessary or recommended to allow pharmacists to administer vaccines to children;
+     (4)  Schemas of vaccination age restrictions of other states that allow vaccination of minors by pharmacists in all or limited circumstances; and
+     (5)  The feasibility of implementing recommended changes.
+The task force developed the recommendation that with a physician's prescription, and provided that certain educational requirements are met, pharmacists be allowed to administer the influenza vaccine to a person between fourteen and seventeen years of age.
+     The purpose of this Act is to enact a recommendation made by the immunizations task force pursuant to Act 125, Session Laws of Hawaii 2010, to allow pharmacists to administer the influenza vaccine to persons between fourteen and seventeen years of age, under certain conditions.
+     SECTION 2.  Chapter 461, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§461‑    Influenza vaccinations; children.  (a)  A pharmacist may administer the influenza vaccine to persons between fourteen and seventeen years of age pursuant to a valid prescription.  The pharmacist shall verify that the prescriber or the prescriber's authorized agent is the patient's medical home.
+     (b)  After the vaccination is administered, the pharmacist shall provide immediately to the patient a vaccination record including but not limited to the following information:
+     (1)  The patient's name and date of birth;
+     (2)  The type of vaccine administered; and
+     (3)  The date and location on which the vaccine was administered.
+     (c)  The pharmacist shall provide within seventy-two hours to the medical home and within five business days to the department of health immunization registry the same information provided to the patient pursuant to subsection (b) as well as the following:
+     (1)  The name of the vaccine product that was administered, including the manufacturer, lot number, and expiration date;
+     (2)  The method of administration; and
+     (3)  The anatomical site of administration.
+     (d)  All pharmacists who administer the influenza vaccine to persons between the ages of fourteen and seventeen years shall complete a training program for which a certificate of completion is issued; provided that the program is approved by the board, The Hawaii Pharmacists Association, and the American Academy of Pediatrics, Hawaii Chapter, Inc.  The pharmacist shall submit the completion certificate for the training program to the board.
+     (e)  For the purposes of this section, "medical home" means the primary care physician who, working in collaboration with the family, oversees the acute, chronic, and preventive health needs of the patient in a comprehensive, coordinated, and continuous fashion."
+     SECTION 3.  Section 461-1, Hawaii Revised Statutes, is amended by amending the definition of "practice of pharmacy" to read as follows:
+     ""Practice of pharmacy" means:
+     (1)  The interpretation and evaluation of prescription orders; the compounding, dispensing, and labeling of drugs and devices (except labeling by a manufacturer, packer, or distributor of nonprescription drugs and commercially legend drugs and devices); the participation in drug selection and drug utilization reviews; the proper and safe storage of drugs and devices and the maintenance of proper records therefore; the responsibility for advising when necessary or where regulated, of therapeutic values, content, hazards, and use of drugs and devices;
+     (2)  Performing the following procedures or functions as part of the care provided by and in concurrence with a "health care facility" and "health care service" as defined in section 323D-2, or a "pharmacy" or a licensed physician, or a "managed care plan" as defined in section 432E-1, in accordance with policies, procedures, or protocols developed collaboratively by health professionals, including physicians and surgeons, pharmacists, and registered nurses, and for which a pharmacist has received appropriate training required by these policies, procedures, or protocols:
+         (A)  Ordering or performing routine drug therapy related patient assessment procedures;
+         (B)  Ordering drug therapy related laboratory tests;
+         (C)  Initiating emergency contraception oral drug therapy in accordance with a written collaborative agreement approved by the board, between a licensed physician and a pharmacist who has received appropriate training that includes programs approved by the American Council of Pharmaceutical Education (ACPE), curriculum-based programs from an ACPE-accredited college of pharmacy, state or local health department programs, or programs recognized by the board of pharmacy;
+         (D)  Administering drugs orally, topically, by intranasal delivery, or by injection, pursuant to the patient's licensed physician's order, by a pharmacist having appropriate training that includes programs approved by the ACPE, curriculum-based programs from an ACPE-accredited college of pharmacy, state or local health department programs, or programs recognized by the board of pharmacy;
+         (E)  Administering [immunizations]:
+              (i)  Immunizations orally, by injection, or by intranasal delivery, to persons eighteen years of age or older[,] by a pharmacist having appropriate training that includes programs approved by the ACPE, curriculum-based programs from an ACPE-accredited college of pharmacy, state or local health department programs, or programs recognized by the board of pharmacy; and
+             (ii)  The influenza vaccine to persons between fourteen and seventeen years of age pursuant to section 461-   .
+         (F)  As authorized by a licensed physician's written instructions, initiating or adjusting the drug regimen of a patient pursuant to an order or authorization made by the patient's licensed physician and related to the condition for which the patient has been seen by the licensed physician; provided that the pharmacist shall issue written notification to the patient's licensed physician or enter the appropriate information in an electronic patient record system shared by the licensed physician, within twenty-four hours;
+         (G)  Transmitting a valid prescription to another pharmacist for the purpose of filling or dispensing; or
+         (H)  Providing consultation, information, or education to patients and health care professionals based on the pharmacist's training and for which no other licensure is required; and
+     (3)  The offering or performing of those acts, services, operations, or transactions necessary in the conduct, operation, management, and control of pharmacy."
+     SECTION 4.  Section 461-8, Hawaii Revised Statutes, is amended to read as follows:
+     "§461-8  Renewal of licenses; continuing education requirement.  (a)  All licenses issued by the board, except temporary licenses issued under section 461-7, shall be renewed biennially on or before December 31 of each odd-numbered year.  Failure to pay the biennial fee and, beginning with the renewal for the licensing biennium commencing on January 1, 2008, to satisfy the continuing education requirement on or before December 31 of each odd-numbered year, shall constitute a forfeiture of the license as of the date of expiration.
+     (b)  Any license forfeited pursuant to subsection (a) may be restored within three years upon payment of any penalty fee, the current biennial fees, and the renewal fee for the next biennium, if applicable, upon submission of proof of compliance with the continuing education requirement for the prior biennium, and upon meeting any other requirements specified in rules adopted pursuant to chapter 91.
+     (c)  In the event that the pharmacist has not engaged in the practice of pharmacy in this State or in another state or territory of the United States within the past five years, the board may require the pharmacist to satisfy additional requirements, as specified in rules adopted pursuant to chapter 91, to demonstrate that the pharmacist is competent to practice in this State.
+     (d)  Beginning with the renewal for the licensing biennium commencing on January 1, 2008, and every biennial renewal thereafter, each licensee shall have completed thirty credit hours in continuing education courses within the two-year period preceding the renewal date, regardless of the licensee's initial date of licensure; provided that a licensee who has graduated from an accredited pharmacy school within one year of the licensee's first license renewal period shall not be subject to the continuing education requirement for the first license renewal.  The board may extend the deadline for compliance with the continuing education requirement based on any of the following:
+     (1)  Illness, as certified by a physician or osteopathic physician licensed under chapter 453 or licensed in the jurisdiction in which the licensee was treated;
+     (2)  Military service under extended active duty with the armed forces of the United States;
+     (3)  Lack of access to continuing education courses due to the practice of pharmacy in geographically isolated areas; and
+     (4)  Inability to undertake continuing education due to incapacity, undue hardship, or other extenuating circumstances.
+     (e)  A pharmacist who administers the influenza vaccine to persons between the ages of fourteen and seventeen years shall complete a course described in section 461-   (d) within each of the biennial renewal periods and submit proof of successful completion of the course to the board.
+     [(e)] (f)  Each licensee shall maintain the licensee's continuing education records.  At the time of renewal, each licensee shall certify under oath that the licensee has complied with the continuing education requirement of this section.  The board may require a licensee to submit, in addition to the certification, evidence satisfactory to the board that demonstrates compliance with the continuing education requirement of this section.
+     [(f)] (g)  The board may conduct random audits to determine compliance with the continuing education requirement.  The board shall provide written notice of an audit to a licensee randomly selected for audit.  Within sixty days of notification, the licensee shall provide the board with documentation verifying compliance with the continuing education requirement."
+     SECTION 5.  Section 461-21, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  In addition to any other actions authorized by law, the board shall have the power to deny, revoke, or suspend any license or permit applied for or issued by the board in accordance with this chapter, and to fine or otherwise discipline a licensee or permit holder for any cause authorized by law, including but not limited to the following:
+     (1)  Procuring a license through fraud, misrepresentation, or deceit;
+     (2)  Professional misconduct, gross carelessness, or manifest incapacity;
+     (3)  Permitting an unlicensed person to perform activities which require a license under this chapter;
+     (4)  Violation of any of the provisions of this chapter or the rules adopted pursuant thereto;
+     (5)  Violation of any state or federal drug, controlled substance, or poison law;
+     (6)  False, fraudulent, or deceptive advertising;
+     (7)  Any other conduct constituting fraudulent or dishonest dealings;
+     (8)  Failure to comply with a board order;
+     (9)  Making a false statement on any document submitted or required to be filed by this chapter, including a false certification of compliance with the continuing education requirement; [or]
+    (10)  Habitual intemperance or addiction to the use of habit- forming drugs[.]; or
+    (11)  Administering the influenza vaccine to a person between fourteen and seventeen years of age without complying with the appropriate training requirement in section 461-   (d), reporting requirements in section 461-   (c), or both."
+     SECTION 6.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 7.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Vaccinations; Children
+ 
+Description:
+Allows pharmacists, per a physician's prescription, to administer the influenza vaccine to persons aged fourteen to seventeen provided that the pharmacist has fulfilled certain requirements.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

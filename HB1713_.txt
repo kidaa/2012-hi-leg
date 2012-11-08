@@ -1,0 +1,53 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1713
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MEDICAID.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 346, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§346-     Electronic medicaid records.  (a)  No later than January 1, 2014, the department shall accept for any medicaid program administered by the department, applications in written form and applications submitted as an electronic record through an integrated electronic system developed and maintained by the department.
+     (b)  If a signature is required on any form submitted electronically pursuant to this section, that requirement shall be satisfied by the inclusion of an electronic signature.  Chapter 489E shall apply to all electronic records submitted pursuant to this section.
+     (c)  The department shall convert any written document submitted to the department after December 31, 2013, relating to the application for any medicaid program administered by the department, including documents containing supporting information or documents assisting in determining whether an applicant meets the requirements for emergency processing of the application, to electronic records and incorporate the electronic records into the integrated electronic system.
+     (d)  In integrating medicaid systems statewide into an integrated electronic system the department shall:
+(1)  Collaborate with other state agencies and medicaid providers to ensure compliance with all applicable patient privacy laws, administrative rules, and procedures, including the development of risk management policies and procedures;
+(2)  Implement control processes and procedures as appropriate to ensure adequate preservation, disposition, integrity, security, confidentiality, and auditability of electronic records; and
+(3)  Adopt standards to ensure that:
+(A)  In converting written documents to electrocnic format, the electronic records are identical replications of the written documents in every way;
+(B)  The integrated electronic system is designed to avoid duplication of payments, reporting, and other requirements; and
+(C)  The integrated electronic system is accessible through user-friendly web-based interfaces, stable under high-use conditions, and available twenty-four hours a day to users statewide.
+     (e)  The department shall seek federal matching funds, grants, and private funds to comply with the requirements of this section.
+     (f)  The department shall adopt or amend rules pursuant to chapter 91 to effectuate the purposes of this section.
+     (g)  For the purposes of this section, "electronic record" and "electronic signature" shall have the same meaning as defined in section 489E-2."
+     SECTION 2.  New statutory material is underscored.
+     SECTION 3.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+ 
+Report Title:
+Electronic Medicaid Records; Department of Human Services
+ 
+Description:
+Requires the Department of Human Services to accept applications for any medicaid program in written form and applications submitted as an electronic record through an integrated electronic system developed and maintained by the Department of Human Services no later than January 1, 2014.  Requires the Department of Human Services to convert any written document submitted after December 31, 2013, relating to the medicaid application to electronic records and incorporate the electronic records into the integrated electronic system. 
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

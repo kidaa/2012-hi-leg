@@ -1,0 +1,164 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2089
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO HEALTH.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+SECTION 1.  The legislature finds that:
+     (1)  Most workers in the State, at some time during the year, need temporary time off from work to take care of personal health needs or the health needs of members of their families;
+     (2)  Nationally, nearly forty per cent of private sector workers are without any paid sick leave.  In addition, many workers who do have paid sick time either are disciplined for using it or cannot use the time to care for sick children.  In the State, an estimated forty-three per cent of private sector workers lack paid sick leave;
+     (3)  Low income workers are significantly less likely to have paid sick leave than other members of the workforce.  Only one in five low income workers has access to paid sick leave;
+     (4)  Providing workers time off to attend to their personal health care needs and the health care needs of family members would ensure a healthier and more productive workforce in the State;
+     (5)  Nearly two hundred fifty thousand people in the State serve as unpaid family caregivers for family members, work that has an aggregate value of $1,900,000 per year.  Working family caregivers cannot adequately care for their relatives without access to paid sick leave;
+     (6)  Paid sick leave would have a positive effect on the public health of residents of the State by allowing sick workers the option of staying home when the worker is ill, thus lessening recovery time and reducing the likelihood of spreading illness to other members of the workforce and to the public;
+     (7)  Paid sick leave will reduce health care expenditures by promoting access to primary and preventive care.  Nationally, providing all workers with paid sick time would result in $1,100,000,000 in annual savings in hospital emergency room costs, including more than $500,000,000 in savings to publicly funded health insurance programs such as medicare, medicaid, and the state children's health insurance program.  Access to paid sick leave can also help decrease the likelihood that a worker will put off needed care and increase the rates of preventive care among workers and their children;
+     (8)  Paid sick leave will allow parents to provide personal care for their sick children.  Parental care makes children's recovery faster and can prevent future health problems.  Parents who do not have paid sick time are more than twice as likely as parents with paid sick days to send a sick child to school or daycare and are five times as likely to report taking their child or a family member to a hospital emergency room because they were unable to take time off work during their regular work hours;
+     (9)  Paid sick leave will reduce contagion.  Workers in jobs with high levels of public contact, such as restaurant workers and child care workers, are very unlikely to have paid sick time.  As a result, these workers may have no choice but to go to work when they are ill, thereby increasing the risk of passing illnesses on to co-workers and customers while jeopardizing their own health.  Overall, people without paid sick leave are 1.5 times more likely than people with paid sick leave to go to work with a contagious illness like the flu;
+    (10)  Employees frequently lose their jobs or are disciplined for taking sick leave to care for sick family members or even to recover from their own illness.  One in six workers report that they or a family member has been fired, suspended, punished, or threatened by an employer because they needed to take sick leave for themselves or a family member;
+    (11)  Workers in jobs with high public contact, such as service workers and restaurant workers, are generally unlikely to have paid sick leave.  Because of the lack of paid sick leave, these workers have no choice but to come to work when they are ill, which increases the risk of passing illnesses to co-workers and customers;
+    (12)  If an outbreak that presents a threat to public health occurs, for example, the H1N1 outbreak of 2009, government officials request that sick workers stay home and keep sick children home from school or child care to prevent the spread of the virus and to safeguard workplace productivity.  However, to protect their paychecks and their jobs, many workers who lack paid sick leave are unable to comply with these requests;
+         (13)  During the height of the H1N1 pandemic, workers with lower rates of access to paid sick leave were more likely than those with higher rates of access to paid sick leave to go to work sick.  As a result, the pandemic lasted longer in their workplaces as the virus spread from co-worker to co-worker.  A new study estimates that lack of paid sick leave was responsible for five million cases of influenza-like illness during the pandemic;
+    (14)  Providing a minimal amount of paid sick leave is affordable for employers.  Paid sick leave results in reduced worker turnover, which leads to reduced costs incurred from advertising, interviewing, and training new hires.  Firing and replacing workers can cost anywhere from twenty-five to two hundred per cent of an employee's annual compensation;
+    (15)  Paid sick leave will reduce the risk of "presenteeism", or workers coming to work with illnesses and health conditions that reduce their productivity, a problem that costs the national economy $160,000,000,000 annually;
+    (16)  Paid sick leave will reduce the competitive disadvantage that many employers face when they choose to provide sick time to their workers;
+    (17)  Nearly one in four American women report physical or sexual abuse by a husband or boyfriend at some point in their lives.  Each year, women experience about 4,800,000 intimate partner related physical assaults and rapes.  Men are the victims of about 2,900,000 intimate partner related physical assaults.  Many workers need time off to care for their health after these incidents or to find solutions, such as a restraining order or new housing, to avoid or prevent physical or sexual abuse;
+    (18)  Survivors of domestic and sexual violence are forced to lose days of paid employment because of the violence they face.  The mean number of days of paid work lost by survivors of rape is 8.1 days, by survivors of physical assault 7.2 days, and by survivors of stalking 10.1 days; and
+    (19)  Without paid sick and safe leave, survivors are in grave danger of losing their jobs.  Loss of employment can be particularly devastating for survivors of domestic violence who often need economic security to ensure their and their children's safety.
+     The purpose of this Act is to:
+     (1)  Ensure that all workers in the State can address their own health and safety needs and the health and safety needs of their families by requiring employers to provide a minimum level of paid sick and safe leave, including time for family care;
+     (2)  Diminish public and private health care costs in the State by enabling workers to seek early and routine medical care for themselves and their family members;
+     (3)  Protect public health in the State by reducing the risk of contagion;
+     (4)  Promote economic security and stability of workers and their families in the State;
+     (5)  Protect employees in the State from losing their jobs while they use sick and safe leave to care for themselves or their families;
+     (6)  Assist victims of domestic violence and their family members by providing them with job protected time away from work to allow them to receive treatment and to take the necessary steps to ensure their safety and protection;
+     (7)  Safeguard the public welfare, health, safety, and prosperity of the people of the State; and
+     (8)  Accomplish the purpose of this Act in a manner that is feasible for employers.
+     SECTION 2.  Chapter 398, Hawaii Revised Statutes, is amended by amending the title of part I to read as follows:
+"PART I.  [GENERAL PROVISIONS] FAMILY MEDICAL LEAVE"
+     SECTION 3.  Chapter 398, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows:
+"PART   .  PAID SICK AND SAFE LEAVE
+     §398-     Definitions.  As used in this part, unless the context clearly requires otherwise:
+     "Domestic violence" has the same meaning as defined in section 321-471.
+     "Employee" has the same meaning as defined in the federal Fair Labor Standards Act, Title 29 United States Code section 203(e), and includes recipients of public benefits who are engaged in work activity as a condition of receiving public assistance.
+     "Employer" has the same meaning as defined in the federal Fair Labor Standards Act, Title 29 United States Code section 203(d).
+     "Family member" means:
+     (1)  A biological, adopted, or foster child, stepchild or legal ward, a child of a civil union partner or reciprocal beneficiary, or a child to whom the employee stands in loco parentis;
+     (2)  A biological, foster, stepparent, or adoptive parent or legal guardian of an employee or an employee's spouse, civil union partner, or reciprocal beneficiary, or a person who stood in loco parentis when the employee was a minor child;
+     (3)  A spouse, civil union partner, or reciprocal beneficiary;
+     (4)  A grandparent, spouse, civil union partner, or reciprocal beneficiary of a grandparent;
+     (5)  A grandchild;
+     (6)  A biological, foster, or adopted sibling, spouse, civil union partner, or reciprocal beneficiary of a biological, foster, or adopted sibling; and
+     (7)  Any other individual related by blood or affinity whose close association with the employee is the equivalent of a family relationship.
+     "Health care professional" has the same meaning as defined in section 432E-1.
+     "Paid sick leave" and "paid sick and safe leave" means time that is compensated at the same hourly rate and with the same benefits, including health care benefits, as the employee normally earns during hours worked and is provided by an employer to an employee.
+     "Retaliatory personnel action" means the discharge, suspension, or demotion by an employer of an employee or any other adverse action taken by an employer against an employee, and also includes any sanctions against a recipient of public benefits or interference with or punishment for participating in an investigation, proceeding, or hearing under this part.
+     "Sexual assault" means any conduct proscribed by chapter 707, part V.
+     "Small business" means any corporation, partnership, sole proprietorship, firm, institution, association, or private individual for which fewer than ten persons work for compensation during a given week.  In determining the number of persons performing work for compensation during a given week, all persons performing work for compensation on a full-time, part-time, or temporary basis shall be counted, including persons made available to work through the services of a temporary services, staffing agency, or similar entity.  If the number of persons who work for compensation per week fluctuates above and below ten or more per week over the course of a year, an employer is not considered a small business if the employer maintained ten or more employees on the payroll during twenty or more calendar workweeks in either the current or the preceding calendar year.  If an employer has more than one business location, the employer's size shall be determined by aggregating the number of employees on the employer's payroll at each location in the State.
+     "Stalking" has the same meaning as defined as in section 378-71.
+     §398-     Accrual of paid sick and safe leave.  (a)  All employees who work in the State for more than eighty hours in a year have the right to paid sick and safe leave as provided in this part.
+     (b)  All employees shall accrue a minimum of one hour of paid sick and safe leave for every thirty hours worked.  Employees shall not accrue more than seventy-two hours of paid sick and safe leave in a calendar year, unless the employer provides a higher limit.
+     (c)  Employees of small businesses shall not accrue more than forty hours of paid sick and safe leave in a calendar year, unless the employer provides a higher limit.
+     (d)  Employees who are exempt from overtime requirements under the Federal Fair Labor Standards Act, Title 29 United States Code section 213(a)(1), shall be assumed to work forty hours in each work week for purposes of paid sick and safe leave accrual unless their normal work week is less than forty hours, in which case paid sick and safe leave accrues based upon that normal work week.
+     (e)  Paid sick and safe leave as provided in this part shall begin to accrue at the commencement of employment.
+     (f)  Employees shall be entitled to use accrued paid sick and safe leave beginning on the ninetieth calendar day following commencement of their employment.  After the ninetieth calendar day of employment, employees may use paid sick and safe leave as it is accrued.
+     (g)  Paid sick and safe leave shall be carried over to the following calendar year; provided that an employee's use of paid sick and safe leave provided under this part in each calendar year shall not exceed forty hours for employees of small businesses and seventy-two hours for employees of all other businesses.
+     (h)  An employer shall not be required to provide additional paid sick and safe leave if the employer has a paid leave policy that makes available an amount of paid leave sufficient to meet the accrual requirements of this part and that may be used for the same purposes and under the same conditions as paid sick and safe leave under this part.
+     (i)  Nothing in this section shall be construed as requiring financial or other reimbursement to an employee from an employer upon the employee's termination, resignation, retirement, or other separation from employment for accrued paid sick and safe leave that has not been used.
+     (j)  If an employee is transferred to a separate division, entity, or location, but remains employed by the same employer, the employee shall be entitled to all paid sick and safe leave accrued at the prior division, entity, or location and shall be entitled to use all paid sick and safe leave as provided in this part.  When there is a separation from employment and the employee is rehired within six months of separation by the same employer, previously accrued paid sick and safe leave that had not been used shall be reinstated.  In addition, the employee shall be entitled to use accrued paid sick and safe leave and accrue additional sick and safe leave at the re-commencement of employment.
+     (k)  The employer may advance sick and safe leave to the employee prior to the accrual by the employee.
+     §398-     Use of paid sick and safe leave.  (a)  Paid sick and safe leave shall be provided to an employee by an employer for:
+     (1)  An employee's mental or physical illness, injury, or health condition; an employee's need for medical diagnosis, care, or treatment of a mental or physical illness, injury, or health condition; or an employee's need for preventive medical care;
+     (2)  Care of a family member with a mental or physical illness, injury, or health condition; care of a family member who needs medical diagnosis, care, or treatment of a mental or physical illness, injury, or health condition; care of a family member who needs preventive medical care;
+     (3)  Closure of the employee's place of business by order of a public official due to a public health emergency, or an employee's need to care for a child whose school or place of care has been closed by order of a public official due to a public health emergency, or care for a family member when it has been determined by the health authorities having jurisdiction or by a health care provider that the family member's presence in the community would jeopardize the health of others because of the family member's exposure to a communicable disease, regardless of whether the family member has actually contracted the communicable disease; and
+     (4)  Absence necessary due to domestic violence, sexual assault, or stalking; provided that the leave is to:
+         (A)  Seek medical attention for the employee or a family member of the employee to recover from physical or psychological injury or disability caused by domestic or sexual violence;
+         (B)  Obtain services from a victim services organization;
+         (C)  Obtain psychological or other counseling;
+         (D)  Seek relocation due to the domestic violence, sexual assault, or stalking; or
+         (E)  Take legal action, including preparing for or participating in any civil or criminal legal proceeding related to the domestic violence, sexual assault, or stalking.
+     (b)  Paid sick and safe leave shall be provided upon the oral request of an employee.  When possible, the request shall include the expected duration of the absence.
+     (c)  When the use of paid sick and safe leave is foreseeable, the employee shall make a good faith effort to provide notice of the need for the time to the employer in advance of the use of the sick and safe leave and shall make a reasonable effort to schedule the use of sick and safe leave in a manner that does not unduly disrupt the operations of the employer.
+     (d)  Accrued sick and safe leave may be used in the smaller of hourly increments or the smallest increment that the employer's payroll system uses to account for absences or use of other time.
+     (e)  For sick and safe leave of more than three consecutive days, an employer may require reasonable documentation that the sick and safe leave is covered by subsection (a).  The following shall be considered reasonable documentation:
+     (1)  A written, signed statement by a health care professional indicating that sick and safe leave is necessary;
+     (2)  A police report indicating that the employee was a victim of domestic violence, stalking, or sexual assault;
+     (3)  A court order; or
+     (4)  A signed statement from a victim and witness advocate affirming that the employee is involved in legal action related to domestic violence, stalking, or sexual assault.
+An employer may not require that the documentation explain the nature of the illness or the details of the violence.  If an employer chooses to require documentation for sick and safe leave and the employee does not have health insurance, the employer shall be responsible for paying all out of pocket expenses the employee incurs in obtaining the documentation.  If the employee has health insurance, the employer shall be responsible for paying any costs charged to the employee by the health care provider for providing the specific documentation required by the employer.
+     (f)  An employer shall not require, as a condition of providing paid sick and safe leave, that the employee search for or find a replacement worker to cover the hours during which the employee is on paid sick and safe leave.
+     §398-     Exercise of rights protected; retaliation prohibited.  (a)  It shall be unlawful for an employer or any other person to interfere with, restrain, or deny the exercise of, or the attempt to exercise, any right protected under this part.
+     (b)  An employer shall not take retaliatory personnel action or discriminate against an employee because the employee has exercised rights protected under this part.  These rights include the right to:
+     (1)  Use paid sick and safe leave pursuant to this part;
+     (2)  File a complaint or inform any person about any employer's alleged violation of this part;
+     (3)  Cooperate with the director in any investigation of alleged violations of this part; and
+     (4)  Inform any person of the person's potential rights under this part.
+     (c)  It shall be unlawful for an employer to count paid sick and safe leave taken under this part as an absence that may lead to or result in discipline, discharge, demotion, suspension, or any other adverse action.
+     (d)  Protections of this section shall apply to any person who mistakenly but in good faith alleges violations of this part.
+     (e)  There shall be a rebuttable presumption of unlawful retaliation under this section whenever an employer takes adverse action against an employee within ninety days of the time that the employee:
+     (1)  Files a complaint with the director or a court alleging a violation of any provision of this part;
+     (2)  Informs any person about an employer's alleged violation of this part;
+     (3)  Cooperates with the director or other person in the investigation or prosecution of any alleged violation of this part;
+     (4)  Opposes any policy, practice, or act that is unlawful under this part; or
+     (5)  Informs any person of the person's rights under this part.
+     §398-     Notice and posting.  (a)  An employer shall give employees notice of the following:
+     (1)  Employees are entitled to paid sick and safe leave;
+     (2)  The amount of paid sick and safe leave;
+     (3)  The terms of sick and safe leave use as guaranteed under this part;
+     (4)  That retaliation against employees who request or use paid sick and safe leave is prohibited; and
+     (5)  That each employee has the right to file a complaint or bring a civil action if sick and safe leave, as required by this part, is denied by the employer, or if the employee is retaliated against for requesting or taking paid sick and safe leave.
+     (b)  An employer shall comply with this section by providing the information required in subsection (a) by:
+     (1)  Individualized notice; or
+     (2)  Displaying a poster in a conspicuous and accessible place in each establishment where the employees are employed.
+The notice and poster shall be in English and in any language that is the first language spoken by at least five per cent of the employer's workforce.
+     (d)  The director shall create and make posters available to employers, in all languages spoken by more than five per cent of the State's workforce, that contain the information required under subsection (a) for the employer's use in complying with this section.
+     (e)  An employer who willfully violates the notice and posting requirements of this section shall be subject to a civil fine in an amount not to exceed $100 for each separate offense.
+     §398-     Employer records.  An employer shall retain records documenting hours worked by employees and paid sick and safe leave taken by employees for a period of five years and shall allow the director access to the records, with appropriate notice and at a mutually agreeable time, to monitor compliance with the requirements of this part.  When an issue arises as to an employee's entitlement to paid sick and safe leave under this part, it shall be presumed that the employer has violated this part, absent clear and convincing evidence otherwise, if the employer does not maintain or retain adequate records documenting hours worked by the employee and paid sick and safe leave taken by the employee or does not allow the director reasonable access to the records.
+     §398-     Enforcement.  (a)  An employee or other person may report to the director any suspected violation of this part.  The director shall encourage reporting pursuant to this subsection by keeping confidential, to the maximum extent permitted by applicable laws, the name and other identifying information of the employee or person reporting the violation; provided that with the authorization of the person, the director may disclose the person's name and identifying information as necessary to enforce this part or for other appropriate purposes.
+     (b)  The director, attorney general, any person aggrieved by a violation of this part, or any entity a member of which is aggrieved by a violation of this part, may bring a civil action in a court of competent jurisdiction against an employer violating this part.  The action may be brought without first filing an administrative complaint.
+     (c)  Any person aggrieved by a violation of this part, or any entity a member of which is aggrieved by a violation of this part, may file a complaint with the attorney general.  The filing of a complaint with the attorney general shall not preclude the filing of a civil action.
+     (d)  Upon prevailing in an action brought pursuant to this section, aggrieved persons shall recover:
+     (1)  The full amount of any unpaid sick and safe leave;
+     (2)  Actual damages suffered as the result of the employer's violation of this part; and
+     (3)  Reasonable attorney's fees.
+Aggrieved persons shall also be entitled to equitable relief, as may be appropriate, to remedy the violation, including, reinstatement, back pay, and injunctive relief.
+     (e)  The statute of limitations for a civil action brought pursuant to this part shall be for a period of two years from the date the alleged violation occurred.
+     (f)  Actions brought pursuant to this part may be brought as a class action.
+     §398-     Confidentiality and nondisclosure.  An employer shall not require disclosure of details relating to domestic violence, sexual assault, stalking, or the details of an employee's medical condition as a condition of providing paid sick and safe leave under this part.  If an employer possesses health information or information pertaining to domestic violence, sexual assault, or stalking about an employee or employee's family member, the information shall be treated as confidential and shall not be disclosed except to the affected employee or with the permission of the affected employee.
+     §398-     Encouragement of more generous sick and safe leave policies; no effect on more generous policies.  (a)  Nothing in this part shall be construed to discourage or prohibit an employer from the adoption or retention of a paid sick and safe leave policy more generous than the one required by this part.
+     (b)  Nothing in this part shall be construed as diminishing the obligation of an employer to comply with any contract, collective bargaining agreement, employment benefit plan, or other agreement providing more generous sick and safe leave to an employee than required herein.
+     (c)  Nothing in this part shall be construed as diminishing the rights of public employees regarding paid sick and safe leave or use of sick and safe leave as provided by law.
+     (d)  This part shall provide the minimum requirements of paid sick and safe leave and shall not be construed to preempt, limit, or otherwise affect the applicability of any other law, rule, requirement, policy, or standard that provides for greater accrual or use by employees of sick and safe leave, whether paid or unpaid, or that extends other protections to employees."
+     SECTION 4.  If any provision of this Act, or the application thereof to any person or circumstance, is held invalid, the invalidity does not affect other provisions or applications of the Act that can be given effect without the invalid provision or application, and to this end the provisions of this Act are severable.
+     SECTION 5.  This Act shall take effect on July 1, 2012; provided that in the case of employees covered by a collective bargaining agreement in effect on July 1, 2012, this Act shall take effect on the date of the termination, renewal, or amendment of the collective bargaining agreement then in effect.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Paid Sick and Safe Leave
+ 
+Description:
+Requires employers to provide a minimum amount of paid sick and safe leave to employees to be used to care for themselves or a family member who is ill, needs medical care, or is a victim of domestic violence, sexual assault, or stalking.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

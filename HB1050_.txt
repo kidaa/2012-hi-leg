@@ -1,0 +1,212 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1050
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CONSUMER PROTECTION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 488, Hawaii Revised Statutes, is amended by adding two new sections to be appropriately designated and to read as follows:
+     "§488-   Access to records.  (a)  Every plan and its owners, operators, officers, employees, and representatives shall be subject to investigation or examination by the commissioner, shall produce and make freely accessible to the commissioner the accounts, records, documents, and files in the person's possession or control relating to the subject of the investigation or examination, and shall otherwise facilitate the investigation or examination. 
+     (b)  If the commissioner finds the accounts or records to be inadequate, improperly kept, or improperly posted, the commissioner may employ experts to rewrite, post, or balance the accounts at the expense of the plan being examined, if the plan has failed to correct the accounting records after the commissioner has given the plan written notice and a reasonable opportunity to do so. 
+     (c)  A plan administrator shall provide a written response within seven days to any written inquiry made by the commissioner.  The response shall be more than an acknowledgement that the commissioner's communication was received, and shall adequately address the concerns stated in the communication.
+     §488-   Records and reports.  (a)  The commissioner shall preserve in permanent form records and reports of the commissioner's proceedings, hearings, investigations, and examinations, and shall file the records in the commissioner's office.
+     (b)  The records of the commissioner and filings in the commissioner's office shall be open to public inspection, except as otherwise provided in this chapter.
+     (c)  The following records and reports on file with the commissioner shall be confidential by law and privileged, shall not be made public, shall not be subject to subpoena or discovery, and shall not be admissible as evidence in any private civil action; provided that:
+     (1)  This section shall not be construed to limit the commissioner's authority to use the documents, materials, or other information in furtherance of any regulatory or legal action brought as part of the commissioner's official duties;
+     (2)  Neither the commissioner nor any person who received documents, materials, or other information while acting under the authority of the commissioner shall be permitted or required to testify in any private civil action concerning any confidential documents, materials, or information subject to this subsection; and
+     (3)  Any documents or information received from the National Association of Insurance Commissioners, the federal government, insurance regulatory agencies of foreign countries, or insurance departments of other states, territories, and commonwealths that are confidential in other jurisdictions.  The commissioner may share information, including otherwise confidential information, with the National Association of Insurance Commissioners, the federal government, insurance regulatory agencies of foreign countries, or insurance departments of other states, territories, and commonwealths so long as the statutes or regulations of the other jurisdictions permit them to maintain the same level of confidentiality as required under Hawaii law.
+     (d)   The commissioner shall not disclose any information that is exempt from disclosure by federal or Hawaii statutes."
+     SECTION 2.  Chapter 488, Hawaii Revised Statutes, is amended by amending the title to read as follows:
+"[[]CHAPTER 488[]]
+[PREPAID] LEGAL [SERVICES] SERVICE PLANS"
+     SECTION 3.  Section 488-1, Hawaii Revised Statutes, is amended by:
+     1.   Adding a new definition of "legal service plan" to read as follows:
+     ""Legal service plan" or "plan" means any arrangement by which a person as defined in section 431:1-212, or entity, not otherwise authorized to engage in the practice of law, offers to provide or arranges the provision of legal services in exchange for any valuable consideration that is paid to the plan."
+     2.   Repealing the definitions of "department", "group legal service plan", and "prepaid legal service plan":
+     [""Department" means the department of commerce and consumer affairs.
+     "Group legal service plan" is a plan by which legal services are rendered to individual members of a group identifiable in terms of some common interest."
+     "Prepaid legal service plan" or "plan" means a group legal service plan in which the cost of the services are prepaid by the group member or by some other person or organization in the member's behalf."]
+     SECTION 4.  Section 488-2, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  This chapter shall apply to all plans in the State other than:
+     (1)  Plans in which any party to the plan is the federal government or any agency thereof; or
+     (2)  Any employer-employee plan that is subject to the federal Employee Retirement Income Security Act of 1974, Public Law 93-406.
+Plans that are owned and operated by an insurer subject to chapter 431 shall be exempt from the requirements of this chapter, provided that the insurer complies with the provisions of chapter 431 and files a statement certifying compliance with chapter 431."
+     SECTION 5.  Section 488-3, Hawaii Revised Statutes, is amended to read as follows:
+     "§488-3  [Filing and other requirements.  (a)  Sixty days prior to implementation of any plan and the accumulation or payment of money thereunder, all plan documents shall be submitted in writing for approval by the commissioner.] Application for authority; authority issued or denied.  (a)  Before conducting business in this State, a plan shall submit for approval with the commissioner an application for a certificate of authority, shall file documentation with the commissioner, and shall pay to the commissioner a fee as provided under section 431:7-101. 
+     (b)  The documentation required by subsection (a) shall contain in writing the following: 
+     (1)  A brief statement of the plan's financial structure, including a statement of the amount of prepayment, other charges or dues to be paid by plan members, and the manner in which the amounts are to be paid;
+     (2)  A statement of the amount of benefits, legal services, or reimbursement for legal services to be furnished each member of a plan, and the period during which [it] they will be furnished; and, if there are exceptions, reductions, exclusions, limitations, or restrictions of benefits, legal services, or reimbursements, a detailed statement of the exceptions, reductions, exclusions, limitations, or restrictions;
+     (3)  A statement of the terms and conditions upon which the plan may be canceled or otherwise terminated by the group, the plan administrator, the persons furnishing legal services, or the member; provided that for any cancellation or termination, other than by a member, there shall be provision made for the disposition of funds accumulated under the plan;
+     (4)  A statement describing the applicability or nonapplicability of the benefits of the plan to the family dependents of the member;
+     (5)  A statement of the period of grace which will be allowed the member or the member's group for making any payment due under the plan;
+     (6)  A statement describing a procedure for settling disputes between or among the group, the plan administrator, the persons furnishing legal services, and the member; [and]
+     (7)  A statement that the plan includes the endorsements thereon and attached papers, if any, and contains the entire contract or contracts to be used among all parties to a plan[.], including the executed written agreement between the plan and any person providing legal services to the plan; and
+     (8) A listing of the owners, operators, officers, and plan administrator of the plan, including the current business address, home address, mailing address, business phone number, business fax number, business electronic mail address, business website address, and home phone number.
+Any amendments or changes to the documents filed under paragraphs (1) to [(7)] (8) shall be filed with the commissioner for approval at least sixty days before they take effect.  All documents filed under this section shall be public documents.
+     (c)  If the commissioner finds that a plan has met the requirements for and is fully entitled thereto under this section, the commissioner shall issue to it a proper certificate of authority.
+     (d)  If the commissioner does not so find, the commissioner shall deny the plan certificate of authority within a reasonable length of time following filing of the application by the plan."
+     SECTION 6.  Section 488-4, Hawaii Revised Statutes, is amended to read as follows:
+     "§488-4  Accumulated funds, protection, violation.  [(a)  Any plan which accumulates funds from payments of premiums prior to paying those funds to persons providing legal services shall meet the requirements of this section.
+     (b)] (a)  The plan administrator shall have the responsibilities of a trustee for all funds received, accumulated, or collected under this chapter.
+     [(c)] (b)  The plan administrator, upon receipt of [premium] funds intended for payment to a person providing legal services pursuant to this chapter, shall maintain the funds at all times in a federally insured account with a bank, savings and loan association, or financial services loan company located in Hawaii, separate from the plan's own funds or funds held by the plan administrator in any other capacity, in an amount at least equal to the funds collected and unpaid to the persons providing legal services, unless otherwise approved by the commissioner.  Only additional funds as may be reasonably necessary to pay bank, savings and loan association, or financial services loan company charges may be commingled with the [premium] funds.  If the bank, savings and loan association, or financial services loan company account is an interest earning account, the plan may not retain the interest earned on such funds for the plan or plan administrator's own use or benefit without the prior written consent of the person entitled to the funds.  A plan trustee account shall be designated on the records of the bank, savings and loan association, or financial services loan company as a "trustee account established pursuant to section 488-4, Hawaii Revised Statutes", or words of similar import.
+     [(d)] (c)  The plan administrator shall obtain a $100,000  bond [in an amount and form approved by the commissioner] which shall be executed by the plan administrator and a surety company authorized to do business in the state as a surety.  [The bond shall be to the benefit of the members of the plan and shall be filed with the commissioner.]  The bond shall run to the state for the benefit of any claimants against the plan to secure the faithful performance of the obligations of the plan.  The aggregate liability of the surety shall not exceed the principal sum of the bond.  The plan administrator shall provide the commissioner with proof of the bond at the time of the initial request for approval and at any time thereafter as requested by the commissioner.  The plan shall not release the bond without the commissioner's approval.  In lieu of the bond required by this section, the commissioner may accept letters of credit, certificates of deposits, or other [evidences] evidence of security in form and amounts deemed appropriate by the commissioner.
+     [(e)] (d)  Any person, including a plan administrator, owner, operator, officer, employee, or representative who, not being lawfully entitled to [such funds,] do so, diverts or appropriates funds or any portion thereof [to the plan or plan administrator's] for the person's own use, shall be subject to penalties as provided by law."
+     SECTION 7.  Section 488-7, Hawaii Revised Statutes, is amended to read as follows:
+     "§488-7  Failure to comply; penalty.  (a)  Any plan that neglects or refuses to comply with this chapter shall be notified in writing by the commissioner of the neglect or refusal, and of the need to take corrective action within seven days.  If the neglect or refusal continues for seven days after notification, the plan[, group,] or plan administrator may be fined not more than $1,000[.  Every day's neglect or refusal after the expiration of seven days shall be a separate offense.] per day for each day of noncompliance. 
+     (b)  [The] In addition to penalties provided in subsection (a), the commissioner may deny, suspend, revoke, or refuse to approve the certificate of authority of any plan or any plan amendments [and may levy civil penalties as allowed by chapters 431, 432, 480, 481A, 481B, 481C, and any applicable law for any violation of this chapter].
+     (c)  If the commissioner takes any action pursuant to subsection (b), the commissioner shall notify the applicant or licensee in writing of the reason for that action.  The applicant or licensee may make written demand upon the commissioner, within ten days of the date of receipt of the notice, for a hearing before the commissioner to determine the reasonableness of the commissioner's action.  The hearing shall be held within thirty days of receipt of the written demand, unless postponed by mutual consent, and shall be held pursuant to chapter 91.
+     (d)  If the commissioner has cause to believe that any plan is violating or is about to violate any provision of this chapter or any order of the commissioner, the commissioner may issue a cease and desist order to enforce compliance with this chapter or any order of the commissioner, or bring an action in any court of competent jurisdiction to enjoin the plan from continuing the violation or doing any act in furtherance thereof.  The commissioner shall have the discretion to include in a cease and desist order, or to request in an action brought in any court, restitution on behalf of persons aggrieved by a violation of this chapter and an assessment of a monetary penalty against any plan, plan administrator, or owner, operator, or officer of the plan that violates this chapter or who has violated an order of the commissioner."
+     SECTION 8.  Act 59, Session Laws of Hawaii 2010, is amended by amending sections 4 and 5 to read as follows:
+     "SECTION 4.  Section 431:7-101, Hawaii Revised Statutes, is amended by amending subsections (a) and (b) to read as follows:
+     (a)  The commissioner shall collect in advance the following fees:
+     (1)  Certificate of authority:  Issuance.........$900
+     (2)  Organization of domestic insurers and affiliated corporations:
+         (A)  Application and all other papers required for issuance of solicitation permit, filing.............................. $1,500
+         (B)  Issuance of solicitation permit........$150
+     (3)  Producer's license:
+          (A)  Issuance, regular license...............$50
+         (B)  Issuance, temporary license.............$50
+     (4)  Nonresident producer's license:  Issuance.....................................$75
+     (5)  Independent adjuster's license:  Issuance....$75
+     (6)  Public adjuster's license:  Issuance.........$75
+     (7)  [Workers' compensation claim] Claims adjuster's limited license:  Issuance...................$75    
+     (8)  Independent bill reviewer's license: 
+          Issuance.....................................$80
+     (9)  Limited producer's license:  Issuance........$60
+    (10)  Managing general agent's license:  Issuance..$75
+    (11)  Reinsurance intermediary's license:
+          Issuance.....................................$75
+    (12)  Surplus lines broker's license:  Issuance...$150
+    (13)  Service contract provider's registration:
+          Issuance.....................................$75
+    (14)  Approved course provider certificate:
+          Issuance....................................$100
+    (15)  Approved continuing education course certificate:  Issuance.....................................$30
+    (16)  Vehicle protection product warrantor's registration: Issuance.....................................$75
+    (17)  Criminal history record check; fingerprinting:  For each criminal history record check and fingerprinting check, a fee to be established by the commissioner.
+    (18)  Limited line motor vehicle rental company producer's license:  Issuance........................$1,000
+    (19)  Life settlement contract provider's license:
+          Issuance....................................$75
+    (20)  Life settlement contract broker's license:
+          Issuance....................................$75]
+    (19)  Legal service plan certificate of authority:
+          Issuance....................................$500
+    (21)] (20)  Examination for license:  For each examination, a fee to be established by the commissioner.
+     (b)  The fees for services of the department of commerce and consumer affairs subsequent to the issuance of a certificate of authority, license, or other certificate are as follows:
+     (1)  $600 per year for all services (including extension of the certificate of authority) for an authorized insurer;
+     (2)  $50 per year for all services (including extension of the license) for a regularly licensed producer;
+     (3)  $75 per year for all services (including extension of the license) for a regularly licensed nonresident producer;
+     (4)  $45 per year for all services (including extension of the license) for a regularly licensed independent adjuster;
+     (5)  $45 per year for all services (including extension of the license) for a regularly licensed public adjuster;
+     (6)  $45 per year for all services (including extension of the license) for a [workers' compensation] claims adjuster's limited license;
+     (7)  $60 per year for all services (including extension of the license) for a regularly licensed independent bill reviewer;
+     (8)  $45 per year for all services (including extension of the license) for a producer's limited license;
+     (9)  $75 per year for all services (including extension of the license) for a regularly licensed managing general agent;
+    (10)  $75 per year for all services (including extension of the license) for a regularly licensed reinsurance intermediary;
+    (11)  $45 per year for all services (including extension of the license) for a licensed surplus lines broker;
+    (12)  $75 per year for all services (including renewal of registration) for a service contract provider;
+    (13)  $65 per year for all services (including extension of the certificate) for an approved course provider;
+    (14)  $20 per year for all services (including extension of the certificate) for an approved continuing education course;
+    (15)  $75 per year for all services (including renewal of registration) for a vehicle protection product warrantor;
+    (16)  $20 for a criminal history record check; fingerprinting:  For each criminal history record check and fingerprinting check, a fee to be established by the commissioner.
+    (17)  $600 per year for all services (including extension of the license) for a regularly licensed limited line motor vehicle rental company producer; and
+   [(18)  $75 per year for all services (including extension of the license) for a regularly licensed life settlement contract provider; and
+    (19)  $75 per year for all services (including extension of the license) for a regularly licensed life settlement contract broker.]
+    (18)  $500 per year for all services (including extension of the certificate) for an authorized legal service plan.
+     The services referred to in paragraphs (1) to [(19)] (18) shall not include services in connection with examinations, investigations, hearings, appeals, and deposits with a depository other than the department of commerce and consumer affairs.
+     SECTION 5.  Section 431:7-101, Hawaii Revised Statutes, is amended to read as follows:
+     1.  By amending subsections (a) and (b) to read:
+     (a)  The commissioner shall collect in advance the following fees:
+     (1)  Certificate of authority:  Issuance...........$1,800
+     (2)  Organization of domestic insurers and affiliated corporations:
+         (A)  Application and all other papers required for issuance of solicitation permit, filing....................................$3,000
+          (B)  Issuance of solicitation permit.............$300
+     (3)  Producer's license:
+          (A)  Issuance, regular license..................$100
+          (B)  Issuance, temporary license................$100
+     (4)  Nonresident producer's license:  Issuance........................................$150
+     (5)  Independent adjuster's license:  Issuance.......$150
+     (6)  Public adjuster's license: Issuance.............$150
+     (7)  [Workers' compensation claim] Claim adjuster's limited license:  Issuance......................$150
+     (8)  Independent bill reviewer's license: 
+          Issuance........................................$160
+     (9)  Limited producer's license:  Issuance...........$120
+    (10)  Managing general agent's license:  Issuance.....$150
+    (11)  Reinsurance intermediary's license:
+          Issuance.......................................$150
+    (12)  Surplus lines broker's license:  Issuance......$300
+    (13)  Service contract provider's registration:
+          Issuance.......................................$150
+    (14)  Approved course provider certificate:  
+          Issuance.......................................$200
+    (15)  Approved continuing education course certificate:  Issuance........................................$60
+    (16)  Vehicle protection product warrantor's registration: Issuance.......................................$150
+    (17)  Criminal history record check; fingerprinting:  For each criminal history record check and fingerprinting check, a fee to be established by the commissioner.
+    (18)  Limited line motor vehicle rental company producer's license:  Issuance...........................$2,000
+   [(19)  Life settlement contract provider's license:
+          Issuance.......................................$150
+    (20)  Life settlement contract broker's license:
+          Issuance.......................................$150]
+    (19)  Legal service plan certificate of authority:
+          Issuance.....................................$1,000
+    (21)] (20)  Examination for license:  For each examination, a fee to be established by the commissioner.
+     (b)  The fees for services of the department of commerce and consumer affairs subsequent to the issuance of a certificate of authority, license, or other certificate are as follows:
+     (1)  $1,200 per year for all services (including extension of the certificate of authority) for an authorized insurer;
+     (2)  $100 per year for all services (including extension of the license) for a regularly licensed producer;
+     (3)  $150 per year for all services (including extension of the license) for a regularly licensed nonresident producer;
+     (4)  $90 per year for all services (including extension of the license) for a regularly licensed independent adjuster;
+     (5)  $90 per year for all services (including extension of the license) for a regularly licensed public adjuster;
+     (6)  $90 per year for all services (including extension of the license) for a [workers' compensation] claims adjuster's limited license;
+     (7)  $120 per year for all services (including extension of the license) for a regularly licensed independent bill reviewer;
+     (8)  $90 per year for all services (including extension of the license) for a producer's limited license;
+     (9)  $150 per year for all services (including extension of the license) for a regularly licensed managing general agent;
+    (10)  $150 per year for all services (including extension of the license) for a regularly licensed reinsurance intermediary;
+    (11)  $90 per year for all services (including extension of the license) for a licensed surplus lines broker;
+    (12)  $150 per year for all services (including renewal of registration) for a service contract provider;
+    (13)  $130 per year for all services (including extension of the certificate) for an approved course provider;
+    (14)  $40 per year for all services (including extension of the certificate) for an approved continuing education course;
+    (15)  $150 per year for all services (including renewal of registration) for a vehicle protection product warrantor;
+    (16)  $40 for a criminal history record check; and
+    (17)  $1,200 per year for all services (including extension of the license) for a regularly licensed limited line motor vehicle rental company producer; and
+   [(18)  $150 per year for all services (including extension of the license) for a regularly licensed life settlement contract provider; and
+    (19)  $150 per year for all services (including extension of the license) for a regularly licensed life settlement contract broker.]
+    (18)  $1,000 per year for all services (including extension of the certificate) for an authorized legal service plan.
+     The services referred to in paragraphs (1) to [(19)] (18) shall not include services in connection with examinations, investigations, hearings, appeals, and deposits with a depository other than the department of commerce and consumer affairs.
+     2.  By amending subsection (e) to read as follows:
+     (e)  All fees and penalties shall be deposited to the credit of the compliance resolution fund; provided that beginning July 1, 2010, the statutory fees collected pursuant to subsections (a) and (b), not including administratively set fees and assessments as may be authorized under this section, shall be deposited as follows:
+     (1)  Fifty per cent shall be deposited into the compliance resolution fund; and
+     (2)  Fifty per cent shall constitute an insurance license and service tax, which shall be deposited into the general fund."
+     SECTION 9.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 10.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Legal Service Plans
+ 
+Description:
+Updates regulation of legal service plans.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

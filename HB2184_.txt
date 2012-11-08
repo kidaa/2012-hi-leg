@@ -1,0 +1,66 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2184
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MANAGEMENT OF STATE FUNDS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 36-2.5, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending subsection (b) to read:
+     "(b)  Not later than January 1, [2009,] 2013, the department of budget and finance, in accordance with this section, shall establish, implement, and maintain a single searchable website, accessible by the public at no cost, that includes for each state award:
+     (1)  The name of the entity receiving the award;
+     (2)  The amount of the award;
+     (3)  Information on the award, including transaction type, funding agency, program source, and an award title descriptive of the purpose of each funding action;
+     (4)  The full address of the entity receiving the award and the primary location of performance under the award;
+     (5)  A unique identifier of the entity receiving the award and of the parent entity of the recipient, if the entity is owned by another entity; and
+     (6)  Any other relevant information specified by the department of budget and finance.
+     The website shall include data for fiscal year [2008] 2012 and each fiscal year thereafter.
+     The director of finance is authorized to designate one or more state agencies to participate in the development, establishment, maintenance, and support of the website; provided that the department of accounting and general services, in collaboration with the department of budget and finance, is responsible for collecting and posting on the website, the information that is required by this subsection.  In the initial designation, or in subsequent instructions and guidance, the director may specify the scope of the responsibilities of each agency.
+     State agencies shall comply with the instructions and guidance issued by the director of finance and shall provide appropriate assistance to the director upon request, so as to assist the director in ensuring the existence and operation of the website."
+     2.  By amending subsections (d) and (e) to read:
+     "(d)  Not later than [July 1, 2008,] January 1, 2013, the director of finance shall establish and implement a pilot program to:
+     (1)  Test the collection and accession of data about subgrants and subcontracts; and
+     (2)  Determine how to implement a subaward reporting program across the State, including:
+         (A)  A reporting system under which the entity issuing a subgrant or subcontract is responsible for fulfilling the subaward reporting requirement; and
+         (B)  A mechanism for collecting and incorporating agency and public feedback on the design and utility of the website.
+     The pilot program shall terminate not later than [January 1, 2010.] July 1, 2014.
+     (e)  Based on the pilot program, not later than [January 1, 2010,] July 1, 2014, the director of finance:
+     (1)  Shall ensure that data regarding subawards are disclosed in the same manner as data regarding other state awards; and
+     (2)  Shall ensure that the method for collecting and distributing data about subawards:
+         (A)  Minimizes burdens imposed on state award recipients and subaward recipients;
+         (B)  Allows state award recipients and subaward recipients to allocate reasonable costs for the collection and reporting of subaward data as indirect costs; and
+         (C)  Establishes cost-effective requirements for collecting subaward data under block grants, formula grants, and other types of assistance to local governments.
+     For subaward recipients that receive state funds through county governments, the director of finance may extend the deadline for ensuring that data regarding such subawards are disclosed in the same manner as data regarding other state awards for a period not to exceed eighteen months, if the director determines that compliance would impose an undue burden on the subaward recipient."
+     SECTION 2.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 3.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+State Funds; State Awards; Subawards Reporting
+ 
+Description:
+Updates deadlines for the director of finance to establish accessible searchable websites and implement pilot program on data collection and subawards reporting.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

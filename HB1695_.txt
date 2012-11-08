@@ -1,0 +1,73 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1695
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO TAXATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 231-36.4, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§231-36.4[]]  Wilful failure to collect and pay over tax.  (a)  Any person required to collect, account for, and pay over any tax imposed by title 14, who wilfully fails to collect or truthfully account for and pay over such tax shall be guilty of a class C felony, in addition to other penalties provided by law and, upon conviction, shall be subject to one or any combination of the following:
+     (1)  A fine of not more than $100,000;
+     (2)  Imprisonment of not more than five years; or
+     (3)  Probation;
+provided that a corporation shall be fined not more than $500,000.
+     (b)  This section shall not apply to any portion of an underpayment on which a penalty is imposed under section 231-36, 231-36.6, or 231-36.8."
+     SECTION 2.  Section 231-36.6, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§231-36.6[]]  Substantial understatements or misstatements of amounts; penalty.  (a)  There shall be added to the tax an amount equal to twenty per cent of the portion of any underpayment that is attributable to any substantial understatement of any tax in a taxable year.  The penalty under this section shall be in addition to any other penalty assessable by law.
+     (b)  Except as provided under subsection (c), there is a substantial understatement of tax for any taxable year if the amount of the understatement for the taxable year exceeds the greater of:
+     (1)  Ten per cent of the tax required to be shown on the return for the taxable year; or
+     (2)  $1,500.
+     (c)  In the case of a corporation other than a corporation taxable under subchapter S of the Internal Revenue Code, there is a substantial understatement of tax for any taxable year if the amount of the understatement for the taxable year exceeds the greater of:
+     (1)  Ten per cent of the tax required to be shown on the return for the taxable year; or
+     (2)  $30,000.
+     (d)  The amount of any understatement shall be reduced by that portion of the understatement that is attributable to:
+     (1)  The tax treatment of any item by the taxpayer if there is or was substantial authority for such treatment; or
+     (2)  Any item if the relevant facts affecting the item's tax treatment are adequately disclosed in the return or in a statement attached to the return and there is a reasonable basis, as defined under section 231‑36.8, for the tax treatment by the taxpayer.
+The reduction in this subsection shall not apply to any item attributable to a tax shelter as described in section 231‑36.7.
+     (e)  This section shall be construed in accordance with regulations and judicial interpretations given to section 6662 of the Internal Revenue Code.
+     (f)  For purposes of this section, "understatement" means the excess of:
+     (1)  The amount of tax required to be shown on the return for the taxable year; over
+     (2)  The amount of tax imposed that is shown on the return, reduced by any rebate as that term is defined by section 6211(b)(2) of the Internal Revenue Code.
+     (g)  This section shall not apply to any portion of an underpayment on which a penalty is imposed under section 231-36, 231-36.4, or 231-36.8."
+     SECTION 3.  Section 231-36.8, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§231-36.8[]]  Erroneous claim for refund or credit.  (a)  If a claim for refund or credit with respect to tax is made for an excessive amount, the person making the claim shall be liable for a penalty in an amount equal to twenty per cent of the excessive amount; provided that there shall be no penalty assessed where the penalty calculation under this section results in an amount of less than $400.
+     (b)  It shall be a defense to the penalty under this section that the claim for refund or credit had a reasonable basis.  A person claiming the reasonable basis defense shall have the burden of proof to demonstrate the reasonableness of the claim.
+     (c)  This section shall be construed in accordance with regulations and judicial interpretations given to section 6676 of the Internal Revenue Code.
+     (d)  For purposes of this section:
+     "Excessive amount" means the amount by which the amount of the claim for refund or credit for any taxable year exceeds the amount of the claim allowable for such taxable year.
+     "Reasonable basis" means a standard of care used in tax reporting that is significantly higher than not frivolous or not patently improper.  A reasonable basis position will be more than arguable and based on at least one or more authorities of either state or federal tax administration.  A position is considered to have a reasonable basis if a reasonable and well-informed analysis by a person knowledgeable in tax law would lead that person to conclude that the position has approximately a one-in-four, or greater, likelihood of being sustained on the merits.  A reasonable basis includes innocent mistakes where the excessive amount is the result of inadvertence, mathematical error, or where otherwise defined as innocent by the director pursuant to a formal pronouncement issued without regard to chapter 91.
+     (e)  This section shall not apply to any portion of an underpayment on which a penalty is imposed under section 231-36, 231-36.4, or 231-36.6."
+     SECTION 4.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act, upon its approval, shall apply to taxable years beginning after December 31, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Tax Penalties
+ 
+Description:
+Prohibits penalties for substantial understatements or misstatements and for erroneous claims for refund or credit from being added to tax underpayments on which certain other penalties are already imposed.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,112 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1521
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO ELECTRONIC WASTE RECYCLING.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 339D, Hawaii Revised Statutes, is amended by adding four new sections to be appropriately designated and to read as follows:
+     "§339D-A  Annual reporting; determination of market share.  (a)  Each electronic device manufacturer shall report annually to the department its sales, by weight, of the manufacturer's covered electronic devices in the State, categorized by type, to the extent known.  If the electronic device manufacturer is unable to provide accurate sales data, it shall explain why the data cannot be provided and estimate its sales data using a method established by the department by rule.
+     (b)  The department shall determine annually an electronic device manufacturer's market share.  An electronic device manufacturer's market share shall be the percentage of the weight of all covered electronic devices sold in the State comprised of covered electronic devices sold by the electronic device manufacturer.
+     (c)  The department shall use the best available information to establish the weight of all electronic devices sold in the State, including but not limited to the reports submitted pursuant to subsection (a), state and national sales data, and other reliable commercially available, supplemental sources of information.
+     (d)  Beginning March 15, 2012, and each year thereafter, the department shall notify each electronic device manufacturer of its recycling responsibility under section 339D-4, based on the department's determination of its market share.
+     §339D-B  Liability for stored information.  An electronic device manufacturer shall not be liable for any loss or misuse of electronic data or other information that a consumer may have stored on a covered electronic device that is recovered or recycled by the electronic device manufacturer.
+     §339D-C  Environmental management.  (a)  All covered electronic devices shall be recycled pursuant to this chapter, in a manner that complies with applicable federal, state, and county laws and requirements.
+     (b)  The department shall adopt rules, pursuant to chapter 91, that include the Institute of Scrap Recycling Industries, Inc.'s Electronics Recycling Operating Practices as requirements for recycling covered electronic devices.
+     §339D-D  State procurement.  Any state or county agency that purchases or leases any covered electronic device shall require each prospective offeror to certify compliance with this chapter.  Failure to provide certification shall disqualify the prospective offeror."
+     SECTION 2.  Section 339D-1, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending the definitions of "brand", "covered electronic device", "covered television", "household", "recycling", and "retailer" to read:
+     ""Brand" means a symbol, word, or mark that identifies a covered electronic device [or a covered television], rather than any of its components.
+     "Covered electronic device":
+     (1)  Means a computer, computer printer, computer monitor, [or] portable computer, or television with a screen size greater than four inches measured diagonally; and
+     (2)  Shall not include:
+         (A)  A covered electronic device that is a part of a motor vehicle or any component part of a motor vehicle assembled by or for a motor vehicle manufacturer or franchised dealer, including replacement parts for use in a motor vehicle;
+         (B)  A covered electronic device that is functionally or physically required as a part of a larger piece of equipment designed and intended for use in an industrial, commercial, or medical setting, including diagnostic, monitoring, or control equipment;
+         (C)  A covered electronic device that is contained within a clothes washer, clothes dryer, refrigerator, refrigerator and freezer, microwave oven, conventional oven or range, dishwasher, room air conditioner, dehumidifier, or air purifier; or
+         (D)  A telephone of any type."
+     ["Covered television"] "Television":
+     (1)  Means any device that is capable of receiving broadcast, cable, or satellite signals and displaying television or video programming, including without limitation any direct view or projection television with a viewable screen of nine inches or larger with display technology based on cathode ray tube, plasma, liquid crystal, digital light processing, liquid crystal on silicon, silicon crystal reflective display, light emitting diode, or similar technology marketed and intended for use by a household;
+     (2)  Shall not include:
+        [(A)  A computer, computer printer, computer monitor, or portable computer;
+         (B)]  (A)  A television that is a part of a motor vehicle or any component part of a motor vehicle assembled by or for a vehicle manufacturer or franchised dealer, including replacement parts for use in a motor vehicle;
+       [(C)]  (B)  A television that is functionally or physically required as a part of a larger piece of equipment designed and intended for use in an industrial, commercial, or medical setting, including diagnostic, monitoring, or control equipment;
+        [(D)  A telephone of any type, including a mobile telephone;] or
+        [(E)]  (C)  A global positioning system.
+     "Household" means any occupant of a single detached dwelling unit or of a single unit of a multiple dwelling unit who has used a covered electronic device [or covered television] at a dwelling unit primarily for personal or home business use.
+     "Recycling" means processing (including disassembling, dismantling, or shredding) covered electronic devices [or covered televisions] or their components to recover a useable product; provided that "recycling" does not include any process defined as incineration under applicable laws and rules."
+     "Retailer" means any person who offers covered electronic devices [or covered televisions] for sale, other than for resale by the purchaser, through any means, including sales outlets, catalogs, or the Internet."
+     2.  By deleting the definitions of "market share" and "television manufacturer".
+     [""Market share":
+     (1)  Means the calculation of a television manufacturer's prior year's sales of televisions divided by all manufacturers' prior year's sales for all televisions, as determined by the department;
+     (2)  May be expressed as a percentage, a fraction, or a decimal fraction.
+     "Television manufacturer" means a person who:
+     (1)  Manufactures for sale in the State a covered television under a brand that it licenses or owns;
+     (2)  Manufactures for sale in the State covered televisions without affixing a brand;
+     (3)  Resells into the State a covered television manufactured by others under a brand that the seller owns or is licensed to use;
+     (4)  Imports into the United States or exports from the United States a covered television for sale in the State;
+     (5)  Sells at retail a covered television acquired from an importer described in paragraph (4), and elects to register as the manufacturer for those products;
+     (6)  Manufactures covered televisions and supplies them to any person or persons within a distribution network that includes wholesalers or retailers in this State; or
+     (7)  Assumes the responsibilities and obligations of a television manufacturer under this chapter.
+     In the event the television manufacturer is one who manufactures, sells, or resells covered televisions under a brand for which it has obtained the license, then the licensor or brand owner of the brand shall not be included in the definition of television manufacturer under paragraph (1) or (3)."]
+     SECTION 3.  Section 339D-4, Hawaii Revised Statutes, is amended by amending subsections (c) and (d) to read as follows:
+     "(c)  By June 1, 2009, and annually thereafter, each electronic device manufacturer shall submit a plan to the department to establish, conduct, and manage a program for the collection, transportation, and recycling of its covered electronic devices sold in the State, which shall be subject to the following conditions:
+     (1)  The plan shall not permit the charging of a fee at the point of recycling if the covered electronic device is brought by the covered electronic device owner to a central location for recycling; provided that the plan may include a reasonable transportation fee if the electronic device manufacturer or electronic device manufacturer's agent removes the covered electronic device from the owner's premises at the owner's request and if the removal is not in conjunction with delivery of a new electronic device to the owner; [and]
+     (2)  Each electronic device manufacturer may develop its own recycling program or may collaborate with other electronic device manufacturers, so long as the program is implemented and fully operational no later than January 1, 2010[.]; and
+     (3)  Each electronic device manufacturer's plan shall provide for recycling covered electronic devices of an amount equal in weight to its market share of covered electronic devices sold in the State each year.
+     (d)  By March 31, 2011, and annually thereafter, each electronic device manufacturer shall submit a report to the department of the total weight of all covered electronic devices recycled in the previous year, which may include both an electronic device manufacturer's own covered electronic devices and those of other manufacturers."
+     SECTION 4.  Section 339D-6, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§339D-6[]]  Department responsibility.  (a)  Beginning January 1, 2010, the department shall maintain and update a website and a toll-free number with current information on where covered entities can return covered electronic devices for recycling.
+     (b)  The department, in consultation with electronic device manufacturers, shall develop an electronic device recycling education program for consumers."
+     SECTION 5.  Section 339D-7.5, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§339D-7.5[]]  Manufacturer and agent responsibilities; regulatory compliance.  Each electronic device manufacturer [and television manufacturer] shall be responsible for ensuring that the manufacturer and its agents follow all federal, state, and local regulations when collecting, transporting, and recycling covered electronic devices [or covered televisions], and adopt environmentally sound recycling practices for the covered electronic devices or covered televisions."
+     SECTION 6.  Section 339D-8, Hawaii Revised Statutes, is amended to read as follows:
+     "§339D-8  Enforcement.  (a)  The department may conduct audits and inspections to determine compliance under this chapter.  Except as provided in subsection (c), the department and the attorney general shall be empowered to enforce this chapter and take necessary action against any electronic device [or television manufacturer] or retailer for failure to comply with this chapter or rules adopted thereunder.
+     (b)  The attorney general may file suit in the name of the State to enjoin an activity related to the sale of covered electronic devices [or covered televisions] in violation of this chapter.
+     (c)  The department shall issue a warning notice to a person for the person's first violation of this chapter.  The person shall comply with this chapter within sixty days of the date the warning notice was issued or be subject to the penalties provided by law or rule, including, but not limited to, penalties set forth in subsections (d) through (g).  A retailer that receives a warning notice from the department for a violation of section 339D-3(a) [or 339D-24(a)] shall submit proof to the department, within sixty days from the date the warning notice was issued, that its inventory of covered electronic devices [or covered televisions] offered for sale is in compliance with this chapter. 
+     (d)  Any retailer who sells or offers for sale an unlabeled electronic device [or unlabeled covered television] in violation of section 339D-3 [or 339D-24, respectively,] or any electronic device [or television] manufacturer that fails to comply with any provision of section 339D-4 [or 339D-23, respectively,] may be assessed a penalty of up to $10,000 for the first violation and up to $25,000 for the second and each subsequent violation, in addition to any additional penalties required or imposed pursuant to this chapter.
+     (e)  Except as provided in subsection (d), any person who violates any requirement of this chapter may be assessed a penalty of up to $1,000 for the first violation and up to $2,000 for the second and each subsequent violation, in addition to any additional penalties required or imposed pursuant to this chapter.
+     (f)  The department shall determine additional penalties based on adverse impact to the environment, unfair competitive advantage, and other considerations that the department deems appropriate.
+     (g)  If [a covered television] an electronic device manufacturer fails to recycle its market share allocation, the department shall impose a penalty of [50 cents] $       per pound for each pound not recycled."
+     SECTION 7.  Section 339D-9, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  Notwithstanding subsection (a), the department shall not have the authority to assess any fees, including an advanced recycling fee, registration fee, or other fee, on consumers[, television manufacturers, or retailers for recovery of covered televisions except those noted in sections [339D-4] and 339D-22]."
+     SECTION 8.  Section 339D-11, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  The department shall compile the information submitted by [covered television] electronic device manufacturers and issue a report to the legislature no later than April 1, 2012, and annually each year thereafter."
+     SECTION 9.  Section 339D-12, Hawaii Revised Statutes, is amended to read as follows:
+     "§339D-12  Federal preemption.  [(a)  Part II of this] This chapter shall be deemed repealed if a federal law or a combination of federal laws takes effect that establishes a national program for the collection and recycling of covered electronic devices that substantially meets the intent of [part II of] this chapter, including the creation of a financing mechanism for collection, transportation, and recycling of all covered electronic devices from covered entities in the United States.
+     [(b)  [Part IV] of this chapter shall be deemed repealed if a federal law or a combination of federal laws takes effect that establishes a national program for the recycling of covered televisions that substantially meets the intent of [part IV] of this chapter.]"
+     SECTION 10.  Chapter 339D, part IV, Hawaii Revised Statutes, is repealed.
+     SECTION 11.  No later than December 31, 2011, the department of health shall adopt rules, pursuant to chatper 91, that authorize the recovery and recycling of cathode ray tubes in Hawaii in order to safely further the objectives of chapter 339D, Hawaii Revised Statutes.
+     SECTION 12.  In codifying the new sections added by section 1 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 13.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 14.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Electronic Waste Recycling; Market Share; Covered Televisions
+ 
+Description:
+Combines the electronic waste and television recycling programs.  Requires recycling based on market share by weight.  Changes the fee per pound for failing to recycle to an unspecified amount.  Directs DOH to adopt rules to allow recycling of cathode ray tubes in Hawaii.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

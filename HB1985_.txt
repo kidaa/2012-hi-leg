@@ -1,0 +1,119 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1985
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO INNOCENCE REDRESS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+SECTION 1.  The legislature finds that innocent persons who have been wrongly convicted of crimes and subsequently imprisoned have been uniquely victimized, have distinct problems re-entering society, have difficulty achieving legal redress due to a variety of substantive and technical obstacles in the law, and should have an avenue of redress over and above the existing tort remedies to seek compensation for damages.  In light of the injustice of being imprisoned for a crime one did not commit, twenty-seven states, the District of Columbia, and the federal government have adopted compensation statutes for wrongly imprisoned individuals. 
+The purpose of this Act, which is based largely on the Innocence Project's 2011 Model State Compensation Statute, is to ensure that those persons who can demonstrate that they were wrongfully convicted can, under appropriate circumstances, receive compensation and immediate services upon release.
+     SECTION 2.  The Hawaii Revised Statutes is amended by adding a new chapter to title 38 to be appropriately designated and to read as follows:
+"CHAPTER
+INNOCENCE REDRESS
+     §   -1  Statement of claim for compensation.  (a)  In order to present an actionable claim for wrongful conviction and imprisonment, the claimant shall establish by documentary evidence that:
+     (1)  The claimant has been convicted of one or more crimes and subsequently sentenced to a term of imprisonment, and has served all or any part of the sentence;
+     (2)  On grounds not inconsistent with innocence:
+         (A)  The claimant was pardoned for the crime or crimes for which the claimant was sentenced and that are the grounds for the claim;
+         (B)  The statute, or application thereof, on which the accusatory instrument was based, violated the United States Constitution or the Hawaii constitution;
+         (C)  The judgment of conviction was vacated or reversed, and:
+              (i)  The accusatory instrument was dismissed; or
+             (ii)  If a new trial was held, the claimant was found not guilty; and
+     (3)  The claim is not time-barred by section   -5.
+     (b)  The claim shall be verified by the claimant.
+     (c)  If the court finds after reading the claim that the claimant has not alleged sufficient facts to succeed at trial, it shall dismiss the claim, either on its own motion or on the State's motion.
+     §   -2  Presentation of claim.  All claims of wrongful conviction and imprisonment shall be presented to and heard by the circuit courts of the State.
+     §   -3  Judgment and award.  (a)  In order to obtain a judgment in the claimant's favor, the claimant shall prove by a preponderance of the evidence that:
+     (1)  The claimant was convicted of one or more crimes and subsequently sentenced to a term of imprisonment, and has served all or any part of the sentence, and that:
+          (A)  The claimant has been pardoned for the crime or crimes for which the claimant was sentenced and that are the grounds for the claim; or
+         (B)  The claimant's judgment of conviction was reversed or vacated, and:
+               (i)  The accusatory instrument was dismissed; or
+              (ii)  If a new trial was ordered, either the claimant was found not guilty at the new trial or the claimant was not retried and the accusatory instrument was dismissed; provided that the judgment of conviction was reversed or vacated, or the accusatory instrument was dismissed, on grounds not inconsistent with innocence; or the statute, or application thereof, on which the accusatory instrument was based violated the United States constitution or the Hawaii constitution; and
+     (2)  The claimant did not commit any of the crimes charged in the accusatory instrument, or the acts or omissions charged in the accusatory instrument did not constitute a crime; and
+     (3)  The claimant did not commit or suborn perjury, or fabricate evidence to cause or bring about the claimant's conviction; provided that neither a confession or admission later found to be false, nor a guilty plea to a crime the claimant did not commit, shall constitute bringing about the claimant's own conviction under this chapter.
+     (b)  If the court pursuant to subsection (a) finds that the claimant was wrongfully convicted and incarcerated, the court shall award:
+     (1)  Damages for the physical injury of wrongful conviction and incarceration that shall be:
+         (A)  Not less than $50,000 for each year of incarceration.  This amount shall reflect:
+             (i)   Inflation from the date of enactment of this chapter as adjusted by the state auditor, and partial years the claimant served; and
+             (ii)  Consideration of economic damages including but not limited to lost wages, costs associated with the claimant's criminal defense and efforts to prove innocence, and medical and dental expenses incurred or expected to be incurred after release; and consideration of non-economic damages for personal physical injuries or physical sickness and for any non-physical injuries or sickness arising out of same, incurred during or as a result of incarceration; and
+         (B)  Not less than $25,000 for each year served either on parole, probation, or as a registered sex offender, to be pro-rated for partial years served;
+     (2)  Physical and mental health care for the life of the claimant through the Hawaii employer-union health benefits trust fund under chapter 87A, to be offset by any amount provided through the claimant's employers during that time period;
+     (3)  Reimbursement for any tuition and fees paid for the education of the claimant and any biological children of the claimant that were conceived prior to the claimant's incarceration for the wrongful conviction at any community college or other unit of the University of Hawaii under chapter 304A, including any necessary assistance to meet the criteria required therefor, or a mutually agreed upon vocational program; and employment skills development training;
+     (4)  Compensation for child support payments owed by the claimant that became due, and interest on child support arrearages that accrued during the claimant's time served in prison but were not paid;
+     (5)  Compensation for any reasonable costs incurred by the claimant for immediate services secured upon exoneration and release, including housing, transportation and subsistence, re-integrative services, and mental and physical health care costs incurred by the claimant for the time period between the claimant's release from wrongful incarceration and the date of the claimant's award; and
+     (6)  Reasonable attorneys' fees for bringing a claim under this chapter calculated at ten per cent of the damage award plus expenses, provided that:
+         (A)  The fees, exclusive of expenses, shall not exceed $75,000, as adjusted by the state auditor to account for inflation from the date of enactment of this chapter; and
+         (B)  The fees shall not be deducted from the compensation due to the claimant; nor shall counsel be entitled to receive additional fees from the client.
+     (c)  The damage award shall not be subject to:
+     (1)  Any cap applicable to private parties in civil lawsuits;
+     (2)  Any taxes, except for the portions of the judgment awarded as attorneys' fees for bringing a claim under this chapter; or
+     (3)  Treatment as gross income to a claimant under chapter 235.
+     (d)  The acceptance by a claimant of any award, compromise, or settlement under this section shall:
+     (1)  Be reduced to writing; and
+     (2)  Except when procured by fraud, be final and conclusive on the claimant.
+     (e)  Any future damages awarded to the claimant resulting from an action by the claimant against any unit of government within this State by reason of the same subject shall be offset by the damage award received under this chapter.
+     (f)  The damage award shall not be offset by any expenses incurred by the State or any political subdivision of the State, including, but not limited to:
+     (1)  Expenses incurred:
+          (A)  To secure the claimant's custody; or
+          (B)  To feed, clothe, or provide medical services for the claimant; or
+     (2)  The value of any services or reduction in fees for service, or the value thereof to be provided to the claimant that may be awarded to the claimant pursuant to this chapter.
+     (g)  If the court finds that the claimant was subjected to a lien pursuant to defense services rendered by the State to defend the claimant in connection with the criminal case that resulted in claimant's wrongful conviction, the court shall extinguish the lien.
+     §   -4  Notice.  (a)  A court granting judicial relief consistent with the criteria set forth in section    ‑1(a)(2)(A) on or after the effective date of this chapter shall provide a copy of this chapter to the individual granted such relief at the time the criteria of section    -1(a)(2)(A) are satisfied.
+     (b)  The individual shall be required to acknowledge the individual's receipt of a copy of this chapter in writing on a form established by the chief justice.
+     (c)  The court shall enter the acknowledgement under subsection (b) on the docket and the acknowledgement shall be admissible in any proceeding filed by a claimant under this chapter.
+     (d)  The paroling authority, upon the issuance of a full pardon on or after the effective date of this chapter, shall provide a copy of this chapter at the time the pardon is issued to the individual pardoned.  The individual shall be required to acknowledge the individual's receipt of a copy of this chapter in writing on a form established by the paroling authority, which shall be retained on file by the paroling authority as part of its official records and shall be admissible in any proceeding filed by a claimant under this chapter.
+     (e)  In the event a claimant granted judicial relief or a full pardon on or after the effective date of this chapter shows the claimant did not properly receive a copy of the information required by this section, the claimant shall receive a one-year extension on the three-year time limit provided in section    ‑5.
+     (f)  The chief justice shall make reasonable attempts to notify all persons pardoned or granted judicial relief consistent with the criteria set forth in section    -1(a) before enactment of this chapter of their rights under this chapter.
+     §   -5  Time limitations.  (a)  An action for compensation brought by a wrongfully convicted person under this chapter shall be commenced within three years after either the grant of a pardon or the grant of judicial relief and satisfaction of other conditions described in section    ‑1(a); provided that any action by the State challenging or appealing the grant of that judicial relief shall toll the three-year period.  Persons convicted, incarcerated, and released from custody prior to the effective date of this chapter shall commence an action under this chapter within three years of the effective date.
+     (b)  Notwithstanding any other provision of law, failure to file any applicable notice of claim shall not bar filing of a claim under this chapter.
+     §   -6  Right of appeal.  Any party is entitled to the rights of appeal afforded parties in a civil action as set forth in chapter 641.
+     §   -7  Eligibility for immediate services.  (a)  Any person convicted and subsequently imprisoned for one or more crimes for which either the person is pardoned on grounds not inconsistent with innocence, or the conviction was reversed or vacated on the basis of newly discovered evidence, and either the charges are dismissed or the individual is subsequently re-tried and acquitted, shall receive up to three years of immediate services needed upon release and for successful return to society, including but not limited to:
+     (1)  Housing, which may include authorizing the prioritization of the wrongfully convicted as a category in Hawaii's section 8 housing voucher program;
+     (2)  Secondary or higher education;
+     (3)  Vocational training;
+     (4)  Transportation;
+     (5)  Subsistence monetary assistance;
+     (6)  Re-integrative services; and
+     (7)  Mental, physical, and dental health care.
+The need for these services shall be determined through a review by the department of human services, and provided by the appropriate state entities, or contractors thereof.
+     (b)  Where a conviction is vacated on legal grounds, a judge may order that services similar to those in subsection (a) be provided."
+     SECTION 3.  Section 831-3.2, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  The attorney general, or the attorney general's duly authorized representative within the department of the attorney general, upon written application from a person arrested for, or charged with but not convicted of a crime, or found eligible for redress under chapter       shall issue an expungement order annulling, canceling, and rescinding the record of arrest; provided that an expungement order shall not be issued:
+     (1)  In the case of an arrest for a felony or misdemeanor where conviction has not been obtained because of bail forfeiture;
+     (2)  For a period of five years after arrest or citation in the case of a petty misdemeanor or violation where conviction has not been obtained because of a bail forfeiture;
+     (3)  In the case of an arrest of any person for any offense where conviction has not been obtained because the person has rendered prosecution impossible by absenting oneself from the jurisdiction;
+     (4)  In the case of a person acquitted by reason of a mental or physical defect under chapter 704; and
+     (5)  For a period of one year upon discharge of the defendant and dismissal of the charge against the defendant in the case of a deferred acceptance of guilty plea or nolo contendere plea, in accordance with chapter 853.
+     Any person entitled to an expungement order hereunder may by written application also request return of all fingerprints or photographs taken in connection with the person's arrest.  The attorney general or the attorney general's duly authorized representative within the department of the attorney general, within 120 days after receipt of the written application, shall, when so requested, deliver, or cause to be delivered, all fingerprints or photographs of the person, unless the person has a record of conviction or is a fugitive from justice, in which case the photographs or fingerprints may be retained by the agencies holding such records."
+     SECTION 4.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+          BY REQUEST
+ 
+
+ 
+Report Title:
+Crime; Wrongful Conviction and Imprisonment; Innocence Redress; Office of Hawaiian Affairs Package
+ 
+Description:
+Provides compensation and services to persons who can demonstrate they were wrongfully convicted of a crime and imprisoned.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

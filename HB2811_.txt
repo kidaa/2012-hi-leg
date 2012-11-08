@@ -1,0 +1,152 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2811
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO RECYCLING.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 342G, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows:
+"PART   .  DEPOSIT BATTERY RECYCLING PROGRAM
+     §342G-A  Definitions.  As used in this part, unless the context requires otherwise:
+     "Auditor" means the office of the auditor.
+     "Battery" or "deposit battery" means a small, nonvehicular, alkaline, zinc-carbon, nickel-cadmium, nickel metal hydride, or lithium ion battery intended for household use.
+     "Battery package" means the individual, separate, sealed plastic, cardboard, or plastic and cardboard container used for containing, at the time of sale to the consumer, deposit batteries intended for use in this State.
+     "Consumer" means a person who buys a battery and pays the deposit.
+     "Dealer" means a person who engages in the sale of batteries to a consumer in the State.
+     "Department" means the department of health.
+     "Deposit battery distributor" means a person who is a manufacturer of batteries in this State, or who imports and engages in the sale of batteries to a dealer or consumer.  The term includes federal agencies and military distributors, but does not include shipping companies that merely transport batteries.
+     "Import" means to buy, bring, or accept delivery of batteries from an address, supplier, or any entity outside of the State.
+     "Importer" means any person who buys, brings, or accepts delivery of batteries from outside the State for distribution, sale, or use within the State.
+     "Person" means individual, partnership, firm, association, public or private corporation, federal agency, the State or any of its political subdivisions, trust, estate, or any other legal entity.
+     "Recycling facility" means all contiguous land and structures and other appurtenances, and improvements on the land used for the collection, separation, recovery, and sale or reuse of secondary resources that would otherwise be disposed of as municipal solid waste, and is an integral part of a manufacturing process aimed at producing a marketable product made of postconsumer material.
+     "Redeemer" means a person, other than a dealer or distributor, who demands the refund value in exchange for a used battery.
+     "Redemption center" means an operation that accepts from consumers and provides the refund value for batteries intended to be recycled and ensures that the batteries are properly recycled.
+     "Redemption rate" means the percentage of batteries redeemed over a reporting period.  The percentage is calculated by dividing the number of batteries redeemed by the number of batteries sold and multiplying that number by one hundred.
+     "Reverse vending machine" means a mechanical device that accepts one or more types of batteries and issues a redeemable credit slip with a value not less than the battery's refund value.  The refund value payments shall be aggregated and then paid if more than one battery is redeemed in a single transaction.
+     §342G-B  Battery package fee.  (a)  Beginning on October 1, 2013, every deposit battery distributor shall pay to the department a battery package fee on each battery package manufactured in or imported into the State.  The fee shall be imposed only once on the same battery package.  The fee shall be 5 cents per battery package.
+     (b)  No county shall impose or collect any assessment or fee on a battery package for the same or similar purpose that is the subject of this chapter.
+     (c)  Beginning January 1, 2013, and every August 1 thereafter, the department shall notify deposit battery distributors in writing of the amount of the battery package fee.  The effective date of changes to the fee amount shall be September 1.  The fee shall be based on the redemption rate calculated annually based on the redemption rate information submitted to the department for the previous period of July 1 through June 30.  The fee amount shall be as follows:
+     (1)  If the redemption rate is seventy per cent or less:  5 cents per battery package; and
+     (2)  If the redemption rate is greater than seventy per cent:  5.5 cents per battery package.
+     (e)  The director may temporarily suspend an automatic increase of the battery package fee if, after consultation with the auditor, it is determined that the deposit battery special fund contains sufficient funds for the purposes of section 342G-D(b).
+     §342G-C  Deposit battery distributors; registration, recordkeeping requirements.  (a)  By September 1, 2012, all deposit battery distributors operating within the State shall register with the department, using forms prescribed by the department, and shall notify the department of any change in address or other information previously submitted.  After September 1, 2012, any person who desires to conduct business in the State as a deposit battery distributor shall register with the department no later than one month prior to the commencement of the business.
+     (b)  All deposit battery distributors shall maintain records reflecting the manufacture of their batteries in battery packages as well as the importation and exportation of battery packages.  The records shall be made available, upon request, for inspection by the department; provided that any proprietary information obtained by the department shall be kept confidential and shall not be disclosed to any other person, except:
+     (1)  As may be reasonably required in an administrative or judicial proceeding to enforce any provision of this chapter or any rule adopted pursuant to this chapter; or
+     (2)  Under an order issued by a court or administrative agency hearings officer.
+     §342G-D  Deposit into deposit battery special fund; use of funds.  (a)  There is established in the state treasury the deposit battery special fund, into which shall be deposited:
+     (1)  All revenues generated from the battery package fee as described under sections 342G-B and 342G-E;
+     (2)  All revenues generated from the deposit battery deposit as described under sections 342G-E and 342G-I; and
+     (3)  All accrued interest from the fund.
+     (b)  Moneys in the deposit battery special fund shall be used to reimburse refund values and pay handling fees to redemption centers.  The department may also use the money to:
+     (1)  Fund administrative, audit, and compliance activities associated with collection and payment of the battery package fees and handling fees of the deposit battery program;
+     (2)  Conduct recycling education and demonstration projects;
+     (3)  Promote recyclable market development activities;
+     (4)  Support the handling and transportation of the deposit battery to end-markets;
+     (5)  Hire personnel to oversee the implementation of the deposit battery program, including permitting and enforcement activities; and
+     (6)  Fund associated office expenses.
+     (c)  Any funds that accumulate in the deposit battery special fund shall be retained in the fund unless determined by the legislature to be in excess.
+     §342G-E  Battery package fee and deposit inventory report and payment.  (a)  Payment of the battery package fee and deposits as described in section 342G-I shall be made monthly based on inventory reports of the deposit battery distributors.  All deposit battery distributors shall submit to the department documentation in sufficient detail that identifies the net number of battery packages sold, donated, or transferred, by battery package size.
+     (b)  The amount due from deposit battery distributors shall be the net number of battery packages sold, donated, or transferred multiplied by the sum of the prevailing battery package fee and the refund value of 10 cents per battery.  Payment shall be made by check or money order payable to the "Department of Health, State of Hawaii".  All inventory reports and payments shall be made no later than the fifteenth day of the month following the end of the payment period of the previous month.
+     §342G-F  Contract for administrative services.  The department may contract the services of a third party to administer the deposit battery program under this part.
+     §342G-G  Management and financial audit.  The auditor shall conduct a management and financial audit of the deposit battery program for fiscal years 2014-2015 and 2015-2016, and for each fiscal year thereafter ending in an even-numbered year.  After conducting a management and financial audit, the auditor shall submit the audit report, including the amount of unredeemed refund value and recommendations, to the legislature and the department no later than twenty days prior to the convening of the next regular session.  The costs incurred by the auditor for the audit shall be reimbursed by the deposit battery program special fund.  The auditor may contract the audit services of a third party to conduct the audit.
+     §342G-H  Rules; commencement.  The department may adopt rules pursuant to chapter 91 as may be necessary for the purposes of this part.  Full implementation of the deposit battery program shall commence no later than January 1, 2015.
+     §342G-I  Battery deposit established; payment and application of deposits.  (a)  Commencing January 1, 2015, any deposit battery sold in this State shall include a deposit of 10 cents per deposit battery sold as part of the transaction.  Each deposit battery shall have the refund value clearly indicated on its package as provided in section 342G-K.
+     (b)  The refund value shall be the amount of the deposit required.  After a refund value has been applied to a deposit battery, the deposit on that battery may not be changed and shall be paid to the State.
+     (c)  The deposit on each deposit battery shall be paid by the deposit battery distributor who manufactures or imports batteries.  Payment and reporting of the deposits shall be in accordance with section 342G-E.  The deposits shall be deposited into the deposit battery special fund as described in section 342G-D.
+     (d)  Deposit battery distributors that are required under subsection (c) to pay a deposit shall also pay a battery package fee as provided by section 342G-B and register with the State.
+     §342G-J  Sales of batteries in battery packages; distributor report; fee and deposit payment.  (a)  Commencing January 1, 2015, every deposit battery distributor who pays a deposit to the department shall charge the dealer or consumer a deposit equal to the refund value for each deposit battery sold in Hawaii.  The deposit charge may appear as a separate line item on the invoice.
+     (b)  Each dealer shall charge the consumer the deposit battery deposit at the point of sale of the battery.  The deposit charge may appear as a separate line item on the invoice.
+     (c)  Each deposit battery distributor shall generate and submit to the department a monthly report on the net number of deposit batteries sold, donated, or transferred by type.  All information contained in the reports, including confidential commercial and financial information, shall be treated as confidential and protected to the extent allowed by state law.
+     (d)  Payment of the battery package fee and deposits as described in section 342G-I shall be made monthly based on reports of the deposit battery distributors under subsection (c).
+     (e)  Commencing January 1, 2015, a deposit battery distributor who annually imports or manufactures              or fewer deposit batteries may submit reports and payments required under subsections (c) and (d) on a semi-annual basis; provided that the semi-annual report and payment period shall end on June 30 and December 31 of each year.
+     (f)  The amount due from a deposit battery distributor shall be the net number of battery packages sold multiplied by the sum of the prevailing battery package fee and the deposit value of 10 cents per battery sold.  Payment shall be made by check or money order payable to the "Department of Health, State of Hawaii".  All reports and payments shall be made no later than the fifteenth day of the month following the end of the previous payment period.
+     (g)  Notwithstanding the January 1, 2015 commencement date established pursuant to this part, the department may allow dealers to charge customers the refund value beginning November 1, 2014; provided that the battery packages are clearly marked with the refund value and the deposit battery distributor has paid the refund value on each battery to the department.  The dealer shall inform customers that the deposits paid prior to January 1, 2015, shall not be redeemable until January 1, 2015.
+     §342G‑K  Battery package requirements.  Every battery package, or individual deposit battery if the deposit battery is sold individually, that is sold in the State shall clearly indicate the refund value of each battery and the word "Hawaii" or the letters "HI".  The names or letters representing the names of other states with comparable deposit legislation may also be included in the indication of refund value.  The refund value on every battery package shall be clearly, prominently, and indelibly marked by painting, printing, scratch embossing, raised letter embossing, or securely affixed stickers and shall be affixed on the top or side of the package in letters at least one-eighth inch in size.
+     §342G-L  Redemption of deposit batteries.  (a)  Except as provided in subsection (b), a dealer shall:
+     (1)  Operate a redemption center by January 1, 2015, and shall accept all types of deposit batteries with a Hawaii refund value;
+     (2)  Pay to the redeemer the full refund value for all deposit batteries; and
+     (3)  Ensure that each deposit battery collected is recycled, and forward documentation necessary to support claims for payment as stated in section 342G-Q or rules adopted under this part.
+     (b)  Subsection (a) shall not apply to any dealer:
+     (1)  Who is located in a high density population area as defined by the director in rules, and within two miles of a certified redemption center that is operated independently of a dealer;
+     (2)  Who is located in a rural area as defined by rule;
+     (3)  Who subcontracts with a certified redemption center to be operated on the dealer's premises;
+     (4)  Whose sales of battery packages are only via vending machines;
+     (5)  Whose place of business is less than five thousand square feet of interior space;
+     (6)  Who can demonstrate physical or financial hardship, or both, based on specific criteria established by rule; or
+     (7)  Who meets other criteria established by the director.
+Notwithstanding paragraphs (1) and (2), the director may allow the placement of redemption centers at greater than prescribed distances to accommodate geographical features while ensuring adequate consumer convenience.
+     (c)  Regardless of the square footage of a dealer's place of business, dealers who are not redemption centers shall post a clear and conspicuous sign at the primary public entrance of the dealer's place of business that specifies the name, address, and hours of operation of the closest redemption center locations.
+     (d)  If there is no redemption center within the two-mile radius of a dealer due to the criteria described in subsection (b), then the respective county and the State shall determine the need for a redemption center in that area.  If a redemption center is deemed necessary, the State, with assistance from the county, shall establish the redemption center with funding from the deposit battery special fund.
+     §342G‑M  Redemption centers.  (a)  Prior to operation, redemption centers shall be certified by the department.
+     (b)  Applications for certification as a redemption center shall be filed with the department on forms prescribed by the department.
+     (c)  The department, at any time, may review the certification of a redemption center.  After the department provides written notice to the person responsible for the establishment and operation of the redemption center and to the dealers served by the redemption center, the department, after it has afforded the redemption center operator a hearing in accordance with chapter 91, may withdraw the certification of the center if it finds that there has not been compliance with applicable laws, rules, permit conditions, or certification requirements.
+     (d)  Redemption centers shall:
+     (1)  Accept all types of deposit batteries for which a deposit has been paid;
+     (2)  Verify that all batteries to be redeemed meet the definition of battery or deposit battery under section 342G-A;
+     (3)  Pay to the redeemer the full refund value in either cash or a redeemable voucher for all deposit batteries, except as provided in section 342G-O;
+     (4)  Ensure that each deposit battery collected is recycled through a contractual agreement with an out-of-state recycler or an in-state recycling facility permitted by the department; provided that this paragraph shall not apply if the redemption center is operated by a recycler permitted by the department;
+     (5)  Remain open at least thirty hours per week in high density population areas, of which at least five hours shall be on Saturday or Sunday; and
+     (6)  Forward the documentation necessary to support claims for payment as stated in section 342G-Q.
+     (e)  Redemption centers' redemption areas shall be maintained in full compliance with applicable laws and with the orders and rules of the department, including permitting requirements, if deemed necessary, under chapter 342H.
+     (f)  The department shall develop procedures to facilitate the exchange of information between deposit battery manufacturers, distributors, and retailers and certified redemption centers, including but not limited to universal product code information for reverse vending machine purposes.  The procedures developed by the department shall allow for a reasonable time period between the introduction of a new deposit battery product and the deadline for submitting universal product code information to certified redemption centers operating reverse vending machines.
+     §342G-N  Reverse vending machine requirements.  Reverse vending machines may be used by redemption centers to satisfy the requirements of section 342G-L.  Reverse vending machines shall accept any type of deposit battery and pay out the full refund value in either cash or a redeemable voucher for those batteries that bear a valid Hawaii refund value.  If the reverse vending machine is unable to identify the battery then the reverse vending machine shall reject the battery.  The reverse vending machine shall be routinely serviced to ensure proper operation and continuous acceptance of deposit batteries and payment of the refund value.
+     §342G‑O  Refusal of refund value payment for a deposit battery.  Redemption centers shall refuse to pay the refund value on any broken, corroded, or dismembered deposit battery, or any deposit battery that exhibits characteristics of having been previously processed for recycling.
+     §342G-P  Handling fees and refund values for certified redemption centers.  (a)  The department shall pay to each certified redemption center a handling fee of not less than the prevailing deposit battery fee for each deposit battery redeemed by a consumer that is:
+     (1)  Transported out-of-state;
+     (2)  Received by an approved in-state company for an approved end use for recycling; or
+     (3)  Received by a department-permitted recycling facility;
+provided that the deposit battery is physically received by the redemption center.
+     (b)  The department shall evaluate the handling fee at least once per year.  If the department changes the amount of the handling fee, the department shall publish notice of the change within thirty days of its determination.
+     (c)  The handling fee shall be paid in addition to the refund value of each deposit battery.  Payments for handling fees shall be based on redemption center reports submitted to the department; provided that there is no discrepancy in the reports.  The department may choose to pay the handling fee and refund value on the basis of the total weight of the batteries received by material type and the average weight of each battery type; provided that the deposit battery is physically received by the redemption center.
+     (d)  A handling fee and refund value may only be paid once for each battery redeemed by a consumer and claimed by a redemption center in accordance with section 342G-Q.
+     §342G-Q  Redemption center reporting.  The department shall pay certified redemption centers handling fees and refund values as described in section 342G-P, based on collection reports submitted by the redemption centers.  All redemption centers shall submit to the department the following information on forms prescribed by the department, which information shall include at a minimum:
+     (1)  The number or weight of deposit batteries of each material type accepted at the redemption center for the reporting period;
+     (2)  The amount of refunds paid out by material type;
+     (3)  The number or weight of deposit batteries of each material type transported out-of-state or to a permitted recycling facility; and
+     (4)  Copies of out-of-state transport and weight receipts or acceptance receipts from permitted recycling facilities.  If the redemption center and the recycling facility are the same entity, copies of out-of-state transport and weight receipts, or documentation of end use accepted by the department, shall also be included.
+The requests for payment shall be no less than two times per month.
+     §342G-R  Recycling facility reporting.  Recycling facilities, in addition to any requirements under chapter 342H, shall prepare or maintain the documents involving batteries, as required by the department.
+     §342G-S  Audit authority.  The records of the deposit battery distributor, dealer, redemption center, and recycling facility shall be made available, upon request, for inspection by the department, a duly authorized agent of the department, or the auditor.  Any proprietary information shall be kept confidential and shall not be disclosed to any other person, except:
+     (1)  As may be reasonably required in an administrative or judicial proceeding to enforce any provision of this chapter or any rule adopted pursuant to this chapter; or
+     (2)  Under an order issued by a court or administrative agency hearings officer.
+     §342G-T  Advisory committee.  The department shall convene an advisory committee to assist in developing any rules needed to implement this chapter.  The department shall select members of the committee so as to obtain input on the state level as well as assess the impact on each individual county, consumers, recyclers, and the battery industry.  Members of the committee shall be appointed by the director and shall serve at the director's pleasure.  A simple majority of the committee members shall constitute a quorum for the purposes of recommending rules and providing input to the director."
+     SECTION 2.  Section 226-15, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  To achieve solid and liquid waste objectives, it shall be the policy of this State to:
+     (1)  Encourage the adequate development of sewerage facilities that complement planned growth.
+     (2)  Promote re-use and recycling to reduce solid and liquid wastes and employ a conservation ethic.
+     (3)  Ensure the proper disposal of electrical, chemical, and other environmentally hazardous contaminants.
+     (4)  Promote research to develop more efficient and economical treatment and disposal of solid and liquid wastes."
+     SECTION 3.  In codifying the new sections added by section 1 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 4.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Household Battery Recycling Program; Established
+ 
+Description:
+Establishes a household battery recycling program.  Establishes a 5¢ fee per package of batteries and a 10¢ refundable deposit fee per battery.  Establishes requirements for redemption centers.  Amends State planning act to include the proper disposal of electrical and chemical contaminants.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

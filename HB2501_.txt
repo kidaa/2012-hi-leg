@@ -1,0 +1,160 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2501
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MORTGAGE LOAN ORIGINATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 454F, Hawaii Revised Statutes, is amended by adding two new sections to be appropriately designated and to read as follows:
+     "§454F-    Mortgage servicer companies; loan originators.  Employees who perform mortgage loan originator activities for a mortgage servicer company are exempt from registration and licensure as a mortgage loan originator provided that:
+     (1)  The employee's actions are part of the employee's duties as an employee of the mortgage servicer company; and
+     (2)  The employee only provides mortgage loan originator services with respect to a residential mortgage loan modification.
+     §454F-     Nonprofit organizations; loan originators.  (a)  Employees who perform mortgage loan originator activities for a nonprofit organization are exempt from registration and licensure as a mortgage loan originator provided:
+     (1)  The employee's actions are part of the employee's duties as an employee of the nonprofit organization;
+     (2)  The employee only provides mortgage loan originator services with respect to residential mortgage loans with terms favorable to the borrower; and
+     (3)  The nonprofit organization registers with the Nationwide Mortgage Licensing System.
+     (b)  The commissioner shall periodically examine the books and activities of nonprofit organizations and shall revoke an organization's registration as a nonprofit organization with the Nationwide Mortgage Licensing System if the nonprofit organization fails to meet the requirements to be a nonprofit organization.
+     (c)  In determining whether a residential mortgage loan has terms favorable to the borrower, the commissioner shall examine:
+     (1)  The interest rate that the home loan would carry;
+     (2)  The charges that are imposed on the borrower for origination, application, closing, and other costs;
+     (3)  Whether the mortgage includes any predatory characteristics;
+     (4)  The borrower's ability to repay the loan; and
+     (5)  The term of the mortgage."
+     SECTION 2.  Section 454F-1, Hawaii Revised Statutes, is amended as follows:
+     1.  By adding four new definitions to be appropriately inserted and to read as follows:
+     ""Housing finance agency" means any authority:
+     (1)  That helps meet the affordable housing needs of the residents of the State;
+     (2)  That is supervised directly or indirectly by the State and includes nonprofit organizations;
+     (3)  That is subject to audit and review by the State; and
+     (4)  Whose activities make it eligible to be a member of the National Council of State Housing Agencies.
+     "Mortgage servicer company" means a mortgage service company licensed under chapter 454M.
+     "Nonprofit organization" means an organization that:
+     (1)  Has the status of a tax-exempt organization under Section 501(c)(3) of the Internal Revenue Code of 1986, as amended;
+     (2)  Promotes affordable housing or provides homeownership education or similar services;
+     (3)  Conducts its activities in a manner that serves public or charitable purposes, rather than commercial purposes;
+     (4)  Receives funding and revenue and charges fees in a manner that does not incentivize it or its employees to act other than in the best interests of its clients;
+     (5)  Compensates its employees in a manner that does not incentivize employees to act other than in the best interests of its clients; and
+     (6)  Provides, or identifies for the borrower, residential mortgage loans with terms favorable to the borrower and comparable to mortgage loans and housing assistance provided under government housing assistance programs.
+     "Residential mortgage loan modification" means:
+     (1)  Modification of existing residential mortgage loans which generally includes a change in interest, principal, or term of loan; or
+     (2)  The processing of the approval of loan assumptions.
+"Residential mortgage loan modification" does not include origination of mortgage loans."
+     2.  By amending the definition of "sponsor" to read as follows:
+     ""Sponsor" means to [create]:
+     (1)  Create a relationship through the Nationwide Mortgage Licensing System [for the purpose of appropriately supervising a mortgage loan originator's activities.]; and
+     (2)  Appropriately supervise a mortgage loan originator's activities."
+     SECTION 3.  Section 454F-1.5, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  All mortgage loan originators, mortgage loan originator companies, exempt sponsoring mortgage loan originator companies, nonprofit organizations, mortgage servicer companies, and [any] every other person in this State that originates a residential mortgage loan, unless exempt under section 454F-2, shall register with the Nationwide Mortgage Licensing System."
+     SECTION 4.  Section 454F-1.6, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§454F-1.6[]]  Presumption of control.  An individual is presumed to control a mortgage loan originator company if that individual is a director, general partner, managing [director,] member, or executive officer of that mortgage loan originator company."
+     SECTION 5.  Section 454F-1.7, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§454F-1.7[]]  Duties of qualified individual and branch manager.  (a)  A qualified individual shall have the duty to manage and supervise the mortgage loan origination activities of a licensed mortgage loan originator company's principal office and the licensed mortgage loan originators located at or working out of [that location.] the principal office and all company branch offices.  A qualified individual shall hold a license as a mortgage loan originator issued pursuant to this chapter.
+     (b)  A branch manager shall have the duty to directly manage and supervise a licensed mortgage loan originator company's branch office and the licensed mortgage loan originators located at or working out of that location.  A branch manager shall be physically present in the branch office and shall hold a license as a mortgage loan originator issued pursuant to this chapter.
+     (c)  A qualified individual for a mortgage loan originator company [and a branch manager for a branch office] shall be responsible for:
+     (1)  Supervising the maintenance and accounting of client trust accounts and disbursements from those accounts;
+     (2)  Supervising the maintenance of all records, contracts, and documents of the mortgage loan originator company;
+     (3)  Supervising all mortgage loan originator agreements and mortgage loan documents and the handling of these documents by the licensed mortgage loan originators who are employed by or are independent contractors of the mortgage loan originator company;
+     (4)  Supervising all licensed mortgage loan originators who are employed by or are independent contractors of the mortgage loan originator company;
+     (5)  Developing and enforcing policies and procedures relating to the handling of residential mortgage loan transactions and the professional conduct of the licensed mortgage loan originators and other staff;
+     (6)  Developing and monitoring compliance with a policy on continuing education requirements for all licensed mortgage loan originators who are employed by or are independent contractors of the mortgage loan originator company pursuant to the requirements of this chapter and the rules of the commissioner;
+     (7)  Ensuring that the licenses of all mortgage loan originators who are employed by or are independent contractors of the mortgage loan originator company, and the license of the mortgage loan originator company are current and active, and that all required fees are timely paid to the mortgage loan recovery fund;
+     (8)  Establishing and conducting a training program for all licensed mortgage loan originators who are employed by or are independent contractors of the mortgage loan originator company;
+     (9)  Ensuring that all licensed mortgage loan originators who are employed by or are independent contractors of the mortgage loan originator company are provided adequate information and training on the latest amendments to licensing laws and rules and any other applicable laws and rules;
+    (10)  Notifying the commissioner of the termination of the employment or independent contractor relationship of licensed mortgage loan originators who were employed by or were independent contractors of the mortgage loan originator company upon the termination of employment or the independent contractor relationship; and
+    (11)  Ensuring that the records, loan documents, and agreements including mortgage loan originator agreements are retained for seven years on paper or in electronic format by the mortgage loan originator company.
+     (d)  A branch manager for a branch office shall be responsible for supervising:
+     (1)  The maintenance of all records, contracts, and documents of the mortgage loan originator company branch office;
+     (2)  All mortgage loan originator agreements and mortgage loan documents and the handling of these documents by the licensed mortgage loan originators or independent contractors located at or working out of the mortgage loan originator company branch office; and
+     (3)  All licensed mortgage loan originators who are employed by, or are independent contractors of, the mortgage loan originator company and who are located at or working out of the mortgage loan originator company branch office."
+     SECTION 6.  Section 454F-1.8, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§454F-1.8[]]  Sponsorship by mortgage loan origination company [or], exempt sponsoring mortgage loan originator company[.], or nonprofit organizations.  All mortgage loan originators shall be sponsored by a mortgage loan originator company [or], by an exempt sponsoring mortgage loan originator company[.], or a nonprofit organization.  At no time shall a mortgage loan originator be sponsored by more than one Hawaii licensed mortgage loan originator company, exempt sponsoring mortgage loan originator company, or nonprofit organization."
+     SECTION 7.  Section 454F-2, Hawaii Revised Statutes, is amended to read as follows:
+     "§454F-2  Exemptions.  This chapter shall not apply to the following:
+     (1)  An exempt registered mortgage loan originator[,] when acting for an insured depository institution[, a subsidiary of an insured depository institution regulated by a federal banking agency,] or an institution regulated by the Farm Credit Administration;
+     (2)  Any individual who offers or negotiates terms of a residential mortgage loan with, or on behalf of, an immediate family member of the individual;
+     (3)  Any individual who offers or negotiates terms of a residential mortgage loan secured by a dwelling that served as the individual's residence;
+     (4)  A licensed attorney who negotiates the terms of a residential mortgage loan on behalf of a client as an ancillary matter to the attorney's representation of the client unless the attorney is compensated by a lender, a mortgage loan originator company, or other mortgage loan originator or by an agent of a lender, mortgage loan originator company, or other mortgage loan originator;
+     (5)  A person or entity that only performs real estate brokerage activities and is licensed or registered by the State unless the person or entity is compensated by a lender, a mortgage loan originator company, or other mortgage loan originator or by an agent of the lender, mortgage loan originator company, or other mortgage loan originator;
+     (6)  A person or entity solely involved in extensions of credit relating to timeshare plans, as the term is defined in Section 101(53D) of Title 11, United States Code;
+     (7)  An exempt sponsoring mortgage loan originator company as defined by this chapter except as otherwise provided by this chapter; [or]
+     (8)  An insured depository institution[.];
+     (9)  An institution regulated by the Farm Credit Administration; or
+    (10)  Individuals who act as loan originators as employees of government agencies or of housing finance agencies."
+     SECTION 8.  Section 454F-4.9, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  An application for licensure pursuant to this chapter shall be considered abandoned if an applicant fails to provide evidence of continued efforts to complete the licensing application process for [six consecutive months.] thirty days.  The thirty-day period shall begin on the last day of contact with the division by the applicant.  The commissioner may extend this period for good cause.  No refund of filing fees shall be provided to an applicant for an abandoned application.  The commissioner shall not be required to act on any abandoned application and is not required to retain abandoned applications or supporting documents.  The commissioner may withdraw abandoned applications from the Nationwide Mortgage Licensing System."
+     SECTION 9.  Section 454F-8, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  The minimum standards for license renewal for mortgage loan originator companies shall include the following:
+     (1)  The mortgage loan originator company continues to meet the minimum standards for licensure established pursuant to section 454F-5;
+     (2)  The mortgage loan originator company's [branch manager and] qualified individual and every branch manager have satisfied the minimum standards for license renewal; and
+     (3)  The mortgage loan originator company has paid all required fees for renewal of the license."
+     SECTION 10.  Section 454F-22, Hawaii Revised Statutes, is amended to read as follows:
+     "§454F-22  Mortgage loan originator, mortgage loan originator company, and exempt sponsoring mortgage loan originator company fees.  (a)  A mortgage loan originator shall pay the following fees to obtain and maintain a valid mortgage loan originator license:
+     (1)  Initial application fee of [$500;] $550;
+     (2)  Annual license renewal fee of [$300;] $400;
+     (3)  Reinstatement fee of $100;
+     (4)  Late fee of $25 per day; and
+     (5)  Criminal background check fee of $35, or of an amount determined by the commissioner by rule pursuant to chapter 91.
+     (b)  A mortgage loan originator company shall pay the following fees to maintain a valid mortgage loan originator company license or branch license:
+     (1)  Fees payable for a principal office of a mortgage loan originator company:
+         (A)  Initial application fee of $900;
+         (B)  Annual license renewal fee of $600;
+         (C)  Reinstatement fee of $100;
+         (D)  Late fee of $25 per day; and
+         (E)  Criminal background check fee of $35, or of an amount determined by the commissioner by rule pursuant to chapter 91, for each control person, executive officer, director, general partner, and manager; and
+     (2)  Fees payable for each branch office of a mortgage loan originator company:
+         (A)  Initial application fee of $250;
+         (B)  Annual license renewal fee of $100;
+         (C)  Reinstatement fee of $100; and
+         (D)  Late fee of $25 per day.
+     (c)  An exempt sponsoring mortgage loan originator company shall pay the following [fess] fees to maintain a valid registration in the Nationwide Mortgage Licensing System:
+     (1)  Initial registration fee of $200;
+     (2)  Annual registration renewal fee of $150; and
+     (3)  Late fee of $25 per day.
+     (d)  A nonprofit organization shall pay the following fees to maintain a valid registration as a nonprofit organization in the Nationwide Mortgage Licensing System:
+     (1)  Initial registration fee of $200;
+     (2)  Annual registration renewal fee of $150; and
+     (3)  Late fee of $25 per day.
+     [(d)] (e)  In addition to fees charged by the Nationwide Mortgage Licensing System, a licensee shall pay to the commissioner a fee of [$50] $100 for each of the following amendments to information provided to the Nationwide Mortgage Licensing System that require the review of the commissioner:
+     (1)  Change of physical [location, including address change] or mailing address for branch office or principal place of business;
+     (2)  Addition or deletion of a "d/b/a" assignment;
+     (3)  Change of mortgage loan originator's sponsor;
+     (4)  Change of qualified individual;
+    [(3)] (5)  Change of branch manager; [or] and
+    [(4)] (6)  Change of mortgage loan originator company's legal name.
+The commissioner, upon a showing of good cause, may waive any fee set forth in this subsection.
+     [(e)] (f)  The fees established by this section are nonrefundable and are in addition to any fees established and charged by the Nationwide Mortgage Licensing System, an approved educational course provider, an approved educational testing provider, a law enforcement agency for fingerprints and background checks, or a credit reporting agency used by the Nationwide Mortgage Licensing System.
+     [(f)] (g)  The commissioner may establish, by rule pursuant to chapter 91, any other fees or charges necessary for the administration of this chapter."
+     SECTION 11.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 12.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Mortgage Loan Originators; Mortgage Loan Originator Companies; Fees
+ 
+Description:
+Amends the Secure and Fair Enforcement for Mortgage Licensing Act to reflect recent federal changes and adjust fees in consideration of the new regulatory requirements.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,48 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+326
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO HEALTH.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The purpose of this Act is to improve access to the full range of health care services to medicaid and QUEST members accessing services through a mobile medical van, by ensuring that medicaid and QUEST health plans have the flexibility to provide appropriate health services via technological means such as telehealth.  This is especially important with a new mobile medical van to begin providing services to the more remote areas on the island of Hawaii.  Allowing QUEST and medicaid members to access services through the mobile medical van will assist in improving the health of those with chronic conditions as well as improving the overall health of area residents.
+     SECTION 2.  Chapter 346, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§346-     Telehealth services; medicaid and QUEST.  The department shall not require:
+     (1)  The department's approval for a health plan under the department's medicaid or QUEST program to deliver services using a telehealth service;
+     (2)  In-person visits to qualify any telehealth service for coverage under the department's medicaid or QUEST program; or
+     (3)  The mobile medical van program operating in a county with a population of less than two hundred and fifty thousand persons and operated by Kona community hospital shall be funded through a partnership with a non-profit mutual benefit society operating in the State that provides health care coverage to at least six hundred thousand members.
+     For the purposes of this section, "telehealth" means the use of telecommunications services, as defined in section 269-1, including real-time video conferencing-based communication, secure interactive and non-interactive web-based communication, and secure asynchronous information exchange, to transmit patient medical information, including diagnostic-quality digital images and laboratory results for medical interpretation and diagnosis, for the purpose of delivering enhanced health care services and information to parties separated by distance.  A standard telephone contact, facsimile transmission, or an email text, in combination or by itself, does not constitute a telehealth service for the purposes of this section.  This section shall only apply to a mobile medical van program operating in a county with a population of less than two hundred fifty thousand."
+     SECTION 3.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 4.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect upon its approval, and shall be repealed on June 30, 2013.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+QUEST Telehealth Services
+ 
+Description:
+Provides for telehealth services coverage for medicaid and QUEST patients using Kona hospital's medical van program.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

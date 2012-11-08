@@ -1,0 +1,93 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2192
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE ELDERLY.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+PART I
+     SECTION 1.  Chapter 708, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§708‑    Financial and economic exploitation of a dependent elder.  (1)  A caregiver commits the offense of financial and economic exploitation of a dependent elder if the caregiver intentionally, or with wanton disregard for the well-being of the dependent elder, takes, withholds, misappropriates, or uses a dependent elder's money, real property, or personal property, including:
+    (a)   Breaches of fiduciary duty, such as the misuse of a power of attorney or the misuse of guardianship privileges, resulting in the unauthorized appropriation, sale, or transfer of property;
+    (b)   The unauthorized taking of personal assets;
+    (c)   The misappropriation or misuse or unauthorized transfer of moneys belonging to the dependent elder's from a personal or joint account; or
+    (d)   The failure to effectively use a dependent elder's income and assets for the necessities required for the dependent elder's support and maintenance.
+The exploitations may involve coercion, manipulation, threats, intimidation, misrepresentation, or exertion of undue influence.
+     (2)  Financial exploitation of a dependent elder is punishable as a:
+     (a)  Misdemeanor if the value of the assets, money, or  property is not greater than $500;
+     (b)  A class C felony if the value of the assets, money, or property is $500 or more but less than $5,000;
+     (c)  A class B felony if the value of the assets, money, or property is $5,000 or more but less than $10,000; and
+     (d)  A class A felony if the value of the assets, money, or property is $10,000 or more.
+     (3)  As used in this section:
+     "Caregiver" means any person who has undertaken the care, custody, or physical control of, or who has a legal or contractual duty, to care for the health, safety, and welfare of a dependent elder, including owners, operators, employees, or staff of:
+    (a)   Hospitals;
+    (b)   Hospices;
+    (c)   Adult residential care homes;
+    (d)   Developmentally disabled domiciliary homes;
+    (e)   Developmentally disabled adult foster homes;
+    (f)   Intermediate care facilities;
+    (g)   Skilled nursing facilities;
+    (h)   Special treatment facilities;
+    (i)   Assisted living facilities;
+    (j)   Adult foster family homes;
+    (k)   Adult day health care centers and adult day care programs;
+    (l)   Independent living centers;
+    (m)   Long-term care facilities;
+    (n)   Community care facilities for the elderly;
+    (o)   Respite care facilities;
+    (p)   Foster homes; and
+    (q)   Private residences used for commercial purposes to care for dependent elders.
+     "Dependent elder" means any person sixty-two years of age or older who, because of mental or physical impairment, is dependent upon another person, a care organization, or a care facility for personal health, safety, or welfare."
+     SECTION 2.  Section 706-660.2, Hawaii Revised Statutes, is amended to read as follows:
+     "§706-660.2  Sentence of imprisonment for offenses against children, elder persons, or handicapped persons.  Notwithstanding section 706-669, a person who, in the course of committing or attempting to commit a felony, causes the death or inflicts serious or substantial bodily injury upon a person, or is convicted of financial and economic exploitation of a dependent elder under section 708‑   , who is:
+     (1)  Sixty years of age or older;
+     (2)  Blind, a paraplegic, or a quadriplegic; or
+     (3)  Eight years of age or younger;
+and such disability is known or reasonably should be known to the defendant, shall, if not subjected to an extended term of imprisonment pursuant to section 706-662, be sentenced to a mandatory minimum term of imprisonment without possibility of parole as follows:
+     (1)  For murder in the second degree--fifteen years;
+     (2)  For a class A felony--six years, eight months;
+     (3)  For a class B felony--three years, four months; or
+     (4)  For a class C felony--one year, eight months."
+     SECTION 3.  This part does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+PART II
+     SECTION 4.  Section 327E-3, Hawaii Revised Statutes, is amended by amending subsections (b) to read as follows:
+     "(b)  An adult or emancipated minor may execute a power of attorney for health care, which may authorize the agent to make any health-care decision the principal could have made while having capacity.  The power remains in effect notwithstanding the principal's later incapacity and may include individual instructions.  Unless related to the principal by blood, marriage, civil union, or adoption, an agent may not be an owner, operator, or employee of the health-care institution at which the principal is receiving care.  The power shall be in writing, contain the date of its execution, be signed by the principal, and be witnessed by one of the following methods:
+     (1)  Signed by at least two individuals[,] unrelated by blood, marriage, civil union, or adoption, each of whom witnessed either the signing of the instrument by the principal or the principal's acknowledgment of the signature of the instrument; or
+     (2)  Acknowledged before a notary public at any place within this State."
+     SECTION 5.  Section 412:3-114.5, Hawaii Revised Statutes, is amended by amending subsections (b) and (c) to read as follows:
+     "(b)  Suspected financial abuse shall be reported immediately to the adult protective services of the department and the proper local law enforcement agency initially by telephone and by electronic mail and then by written report sent by electronic mail within five business days[.] after the initial report, to the department and the local law enforcement agency.
+     (c)  Upon notification by a financial institution of suspected financial abuse, the department, in a timely manner, shall determine whether the department has jurisdiction over the elder involved; and if not, shall notify the financial institution[, which shall then notify the proper local law enforcement agency] and the local law enforcement agency immediately by telephone [and forward the written report to the agency within three business days.  A financial institution shall not be liable for failing to report suspected financial abuse to a local law enforcement agency in cases in which the department fails to notify the institution of the department's lack of jurisdiction.] and by electronic mail."
+PART III
+     SECTION 6.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 7.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Financial Exploitation of Dependent Elder
+ 
+Description:
+Creates the crime of financial exploitation of dependent elder and provides enhanced penalties.  Requires financial institutions to report suspected financial abuse to the adult protective services and the county police.  Requires two signatures of unrelated persons as witnesses to the execution of a power of attorney for health care.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,71 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+810
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO EMPLOYMENT.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The purpose of this Act is to establish a temporary tax credit for an employer who hires employees and increases the wages paid them during the 2010 to 2011 period.
+     The legislature is intentionally applying the tax credit to employers who were already in business in 2010, to recognize the difficulty of operating during the present severe economic downturn.  The legislature finds that only these employers should be given the opportunity to benefit from this tax credit.
+     SECTION 2.  Chapter 235, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§235-     Employment increase tax credit.  (a)  There shall be allowed to each taxpayer subject to the taxes imposed by this chapter, an employment increase tax credit in the taxable year beginning after December 31, 2010, or December 31, 2011.  A taxpayer shall be eligible for the tax credit in either or both of those taxable years if the taxpayer increased the:
+     (1)  Number of employees employed in the taxpayer's business in calendar year 2011 or 2012, as applicable, by at least ten per cent more than the number of employees employed in the taxpayer's business in the immediately preceding calendar year; and
+     (2)  Total wages paid by the taxpayer in calendar year 2011 or 2012, as applicable, by at least ten per cent more than the total wages paid in the immediately preceding calendar year.
+The "number of employees" and "total wages" paid shall be computed in accordance with the definitions under subsection (j).
+     A taxpayer who did not employ any person or pay any wages in calendar year 2010 shall not be eligible for the tax credit.
+     (b)  The amount of the credit shall be ten per cent of the amount of the increase in total wages paid in calendar year 2011 or 2012, as applicable, over the total wages paid in the immediately preceding calendar year.
+     The tax credit for increases of employees and total wages paid in calendar year 2011 shall be deductible from the taxpayer's net income tax liability for the taxable year beginning after December 31, 2010.
+     The tax credit for increases of employees and total wages paid in calendar year 2012 shall be deductible from the taxpayer's net income tax liability for the taxable year beginning after December 31, 2011.
+     (c)  To determine the amount of the tax credit for a taxpayer who acquires the business of or succeeds an employer who had previously employed employees and paid wages in calendar year 2010, 2011, or 2012, the following paragraph shall apply.
+     If the taxpayer acquires the business of or succeeds an employer who employed employees and paid total wages in calendar year 2010, 2011, or 2012, the employees employed and total wages paid by the previous employer shall be deemed to have been paid by the taxpayer in calendar year 2010, 2011, or 2012, as applicable.  The total wages shall be added to the total wages actually paid by the taxpayer in calendar year 2010, 2011, or 2012, as applicable, for comparison with the total wages paid by the taxpayer in the immediately following calendar year.
+     (d)  Subject to the limit in subsection (f), the tax credit allowed under this section shall be claimed against the net income tax liability of the taxpayer for the taxable year beginning after December 31, 2010 or December 31, 2011, as applicable.
+     (e)  If the tax credit claimed by a taxpayer under this section exceeds the taxpayer's income tax liability for the taxable year beginning after December 31, 2010, or December 31, 2011, as applicable, the excess of tax credit over liability may be carried forward by the taxpayer and, subject to the limit in subsection (f), claimed against the taxpayer's income tax liability in future taxable years until exhausted.
+     (f)  A taxpayer shall not claim a tax credit allowed under this section of more than $50,000 in any taxable year.
+     (g)  All claims for a tax credit under this section shall be filed on or before the end of the twelfth month following the close of the taxable year beginning after December 31, 2010, or December 31, 2011, as applicable.  If a portion of the tax credit is unused in that taxable year and carried forward, the carried forward credit shall be claimed on or before the twelfth month following the close of each succeeding taxable year until exhausted.
+     The failure to comply with the foregoing provisions shall constitute a waiver of the right to claim the credit.
+     (h)  The director of taxation shall use form HW-3 to determine the number of employees of and total wages paid by a taxpayer and the amount of the tax credit to which the taxpayer is entitled.  If, before December 31, 2013, the director discontinues or revises form HW-3, the director shall ensure that the successor form enables a taxpayer to furnish the information necessary to claim a tax credit under this section.
+     The director of taxation also may:
+     (1)  Prepare other forms necessary to claim a tax credit under this section;
+     (2)  Require the taxpayer to furnish information, additional to form HW-3 or a successor form, to ascertain the validity of the claim for the tax credit under this section; and
+     (3)  Adopt rules necessary to effectuate the purposes of this section pursuant to chapter 91.
+     (i)  To qualify for the tax credit, the taxpayer shall be in compliance with all applicable federal, state, and county statutes, rules, and regulations.
+     (j)  As used in this section:
+     "Employee" has the same meaning as under section 235-61.
+     "Form HW-3" means the department of taxation form entitled "employer's annual return and reconciliation of Hawaii income tax withheld from wages", which is issued under authority of section 235-61 and section 18-235-61-08(d), Hawaii Administrative Rules.
+     "Net income tax liability" means income tax liability reduced by all other credits allowed under this chapter.
+     "Number of employees" means the number of employees of a taxpayer during a calendar year as reported in form HW-3 of the department of taxation.  For this purpose, the "number of employees" shall be deemed equivalent to the "number of HW-2 forms, copy A, or federal form W-2, copy 1" as indicated under item 1 of form HW-3.
+     "Total wages" means the total wages paid by a taxpayer during a calendar year as reported in form HW-3.  For this purpose, "total wages" shall be deemed equivalent to the "total wages shown on these forms (include COLA, 3rd party sick leave, and other benefits)" as indicated under item 2 of form HW-3.
+     "Wages" means the same as defined under section 235-61."
+     SECTION 3.  New statutory material is underscored.
+     SECTION 4.  This Act, upon its approval, shall apply to the taxable year beginning after December 31, 2010, and shall be repealed on December 31, 2013; provided that the repeal of this Act shall not prohibit a taxpayer from claiming any carryover tax credit after December 31, 2013, in accordance with section 235-   , Hawaii Revised Statutes, in the form in which that section read on the day before the repeal of this Act.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Tax Credit; Employment Increase
+ 
+Description:
+Provides a tax credit for increases in the total number of persons employed and total wages paid by a taxpayer between 2010 and 2012.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

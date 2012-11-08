@@ -1,0 +1,213 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2662
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO STATUTORY REVISION:  AMENDING VARIOUS PROVISIONS OF THE HAWAII REVISED STATUTES AND THE SESSION LAWS OF HAWAII FOR THE PURPOSE OF CORRECTING ERRORS AND REFERENCES AND CLARIFYING LANGUAGE.
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+PART I
+     SECTION 1.  Section 11-156, Hawaii Revised Statutes, is amended to read as follows:
+     "§11-156  Certificate of election and certificate of results, form.  The chief election officer or county clerk shall deliver certificates of election to the persons elected as determined under section 11-155.  The chief election officer or county clerk in county elections shall issue certificates of results where a question has been voted upon.  Certificates of election shall be delivered only after the filing of expense statements by the person elected in accordance with part [XII] XIII and after the expiration of time for bringing an election contest.  The certificate of election shall be substantially in the following form:
+ 
+CERTIFICATE OF ELECTION
+ 
+     I,...................., chief election officer (county clerk) of Hawaii (county), do hereby certify that .................... was on the ..... day of .......... [19]20....., duly elected a ........... (name of office) for the .................... district for a term expiring on the ..... day of ...................., A.D. [19]20.....
+     Witness my hand this ..... day of ...................., A.D. [19]20.....
+                        .....................................
+                        Chief Election Officer (County Clerk)
+ 
+     The certificate of results shall be substantially in the following form:
+ 
+CERTIFICATE OF RESULTS
+ 
+     I, ........................., chief election officer (county clerk) of Hawaii (county), do hereby certify that .................. (question) was on the ..... day of ............... [19]20...., duly adopted (rejected) by a majority of the votes cast.
+                        .....................................
+                        Chief Election Officer (County Clerk)
+ 
+     If there is an election contest these certificates shall be delivered only after a final determination in the contest has been made and the time for an appeal has expired."
+     SECTION 2.  Section 11-157, Hawaii Revised Statutes, is amended to read as follows:
+     "§11-157  In case of tie.  In case of the failure of an election by reason of the equality of vote between two or more candidates, the tie shall be decided by the chief election officer or county clerk in the case of county elections in accordance with the following procedure:
+     (1)  In the case of an election involving a seat for the senate, house of representatives, or county council where only voters within a specified district are allowed to cast a vote, the winner shall be declared as follows:
+         (A)  For each precinct in the affected district, an election rate point shall be calculated by dividing the total voter turnout in that precinct by the total voter turnout in the district.  For the purpose of this subparagraph, the absentee votes cast for the affected district shall be treated as a precinct.  The election rate point shall be calculated by dividing the total absentee votes cast for the affected district by the total voter turnout in that district.  All election rate points shall be expressed as decimal fractions rounded to the nearest hundred thousandth;
+         (B)  The candidate with the highest number of votes in a precinct shall be allocated the election rate point calculated under subparagraph (A) for that precinct.  In the event that two or more persons are tied in receiving the highest number of votes for that precinct, the election rate point shall be equally apportioned among those candidates involved in that precinct tie;
+         (C)  After the election rate points calculated under subparagraph (A) for all the precincts have been allocated as provided under subparagraph (B), the election rate points allocated to each candidate shall be tallied and the candidate with the highest election rate point total shall be declared the winner; and
+         (D)  If there is a tie between two or more candidates in the election rate point total, the candidate who is allocated the highest election rate points from the precinct with the largest voter turnout shall be declared the winner;
+     (2)  In the case of an election involving a federal office or an elective office where the voters in the entire State or in an entire county are allowed to cast a vote, the winner shall be declared as follows:
+         (A)  For each representative district in the State or county, as the case may be, an election rate point shall be calculated by dividing the total voter turnout in that representative district by the total voter turnout in the state, county, or federal office district, as the case may be; provided that for purposes of this subparagraph:
+              (i)  The absentee votes cast for a statewide, countywide, or federal office shall be treated as a separate representative district and the election rate point shall be calculated by dividing the total absentee votes cast for the statewide, countywide, or federal office by the total voter turnout in the state, county, or federal office district, as the case may be; and
+             (ii)  The overseas votes cast for any election in the State for a federal office shall be treated as a separate representative district and the election rate point shall be calculated by dividing the total number of overseas votes cast for the affected federal office by the total voter turnout in the affected federal office district.  The term "overseas votes" means those votes cast by absentee ballots for a presidential election as provided in section 15-3.
+              All election rate points shall be expressed as decimal fractions rounded to the nearest hundred thousandth;
+         (B)  The candidate with the highest number of votes in a representative district shall be allocated the election rate point calculated under subparagraph (A) for that district.  In the event that two or more persons are tied in receiving the highest number of votes for that district, the election rate point shall be equally apportioned among those candidates involved in that district tie;
+         (C)  After the election rate points calculated under subparagraph (A) for all the precincts have been allocated as prescribed under subparagraph (B), the election rate points allocated to each candidate shall be tallied and the candidate with the highest election rate point total shall be declared the winner; and
+         (D)  If there is a tie between two or more candidates in the election rate point total, the candidate who is allocated the highest election rate points from the representative district with the largest voter turnout shall be declared the winner."
+     SECTION 3.  Section 12-8, Hawaii Revised Statutes, is amended by amending subsection (f) to read as follows:
+     "(f)  If a political party objects to the nomination paper filed by a candidate because the candidate is not a member of the party pursuant to the party's rules filed in conformance with section 11-63, an officer of the party whose name appears on file with the chief election officer shall file a complaint in the circuit court for a prompt determination of the objection; provided that the complaint shall be filed with the clerk of the circuit court not later than 4:30 p.m. on the sixtieth [working] day or the next earliest working day prior to that election day."
+     SECTION 4.  Section 121-15, Hawaii Revised Statutes, is amended to read as follows:
+     "§121-15  Commissioned and warrant officers; transfer to inactive list, retirement, separation.  Officers may be transferred to the inactive or retired lists, or separated from the service as follows:
+     (1)  An officer may be honorably discharged by reason of resignation, removal of residence from the State, failure to meet or maintain the requirements for federal recognition, or acceptance of an incompatible office.
+     (2)  An officer who is eligible to be placed on the retired list under federal law, or who has completed the years of service required for retirement under chapter [67] 1223 of Title 10, United States Code, may at the officer's request be discharged, or with the approval of the governor be placed on the retired list.
+     (3)  Any commissioned officer who has served in the same grade in the military service of the State for a continuous period of not less than ten years, upon the commissioned officer's own request, may be honorably discharged or placed on the retired list.
+     (4)  Any officer who is rendered surplus by the disbandment of the officer's unit, or who changes the officer's residence within the State and is unable to serve with the unit to which the officer was assigned, shall be absorbed in another unit of the army or air national guard, or if there be no such other available unit the officer shall be transferred to an inactive status as authorized by the secretary of the army or of the air force, and may be ordered to perform appropriate duties.
+     (5)  At any time the moral character, capacity, and general fitness for the service of any officer may be investigated and determined by an efficiency board of three commissioned or warrant officers, senior in rank to the officer if possible, to be appointed by the governor.  The investigation shall be thorough and impartial, and may include misconduct in civil life for which the officer is not amenable to trial by court-martial.  If the findings are unfavorable to the officer and are approved by the governor, the officer shall be discharged.
+     (6)  At any time the physical fitness for the service of any officer, upon order of the governor, may be investigated and determined by a board of not less than three commissioned officers, not less than two of whom shall be medical officers.  If the board reports the officer to be physically unable to perform the duties of the officer's office, and the report is approved by the governor, the officer may be discharged or placed on the retired list.
+     (7)  Any officer who is under sentence of imprisonment by a civil court for any offense involving moral turpitude, whether suspended or not, or who has been absent without leave for three months, or who refuses or neglects to report before the board provided in paragraph (5) or (6) within a period of three months from the time the officer is ordered to report before the board may be discharged with the approval of the governor.
+     (8)  Upon the approval by the governor of a sentence of dismissal rendered by a court-martial, the officer shall be dismissed."
+     SECTION 5.  Section 128D-1, Hawaii Revised Statutes, is amended by amending the definition of "national contingency plan" to read as follows:
+     ""National contingency plan" means the national contingency plan published under section [311(c)] 311(d) of the Clean Water Act or revised pursuant to section 105 of CERCLA."
+     SECTION 6.  Section 142-61, Hawaii Revised Statutes, is amended by amending subsection (d) to read as follows:
+     "(d)  Whenever fences are built on any boundary, or within the exterior boundaries of any privately owned land or lot, or within the exterior boundaries of any leased public land or lot, to keep animals confined to certain areas or to keep farms protected against the trespass of animals, except on the boundary of any government road, it shall be lawful to have fence wire electrically charged, provided such wire is fastened to insulators supported on posts, and provided also that the charge supplied shall be through an approved electric fence controller which shall be labeled or listed as conforming to the standards of either the [National Bureau of Standards,] National Institute of Standards and Technology, the Underwriters Laboratories, Inc., or any other similar institutions of recognized standing, and provided that an electric fence controller intended for use in the State shall bear a recognized commercial trade name and the name of the selling agency of same."
+     SECTION 7.  Section 144-4, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  Any commercial feed, other than custom-mixed or toll-milled feed, distributed in this State or imported shall be accompanied by a legible label bearing the following information:
+     (1)  The net weight.
+     (2)  The product name or brand name under which the commercial feed is distributed.
+     (3)  The guaranteed analysis stated in such terms as the department by rule determines is required to advise the user of the composition of the commercial feed or to support claims made in the labeling.  In all cases the substances or elements must be determinable by laboratory methods published by the [Association of Official Analytical Chemists.] AOAC International.
+     (4)  The common or official name of each ingredient used in the manufacture of the commercial feed, except as the department may, by rule, permit the use of a collective term for a group of ingredients all of which perform the same function.
+     (5)  The name and principal address of the person responsible for distributing the commercial feed.
+     (6)  Adequate directions for use for all commercial feeds containing drugs and for such other commercial feeds as the department may require by rule as necessary for their safe and effective use.
+     (7)  Such precautionary statements as the department by rule determines are necessary for the safe and effective use of the commercial feed."
+     SECTION 8.  Section 144-9, Hawaii Revised Statutes, is amended by amending subsection (e) to read as follows:
+     "(e)  Sampling and analysis shall be conducted in accordance with methods published by the [Association of Official Analytical Chemists] AOAC International or in accordance with other generally recognized methods."
+     SECTION 9.  Section 235-2.4, Hawaii Revised Statutes, is amended by amending subsection (i) to read as follows:
+     "(i)  Section 164 (with respect to taxes) of the Internal Revenue Code shall be operative for the purposes of this chapter, except that:
+     (1)  Sections 164(a)(6)[, 164(b)(5),] and 164(b)(6) shall not be operative for the purposes of this chapter; and
+     (2)  The deductions under sections 164(a)(3) and 164(b)(5) shall not be operative for corporate taxpayers and shall be operative only for the following individual taxpayers:
+         (A)  A taxpayer filing a single return or a married person filing separately with a federal adjusted gross income of less than $100,000;
+         (B)  A taxpayer filing as a head of household with a federal adjusted gross income of less than $150,000; and
+         (C)  A taxpayer filing a joint return or as a surviving spouse with a federal adjusted gross income of less than $200,000."
+     SECTION 10.  Chapter 431, Hawaii Revised Statutes, is amended by amending the title of part VIII of article 10D to read as follows:
+"[[]Part VIII.[]]  Use of Senior-Specific
+[[]Certifications[]] and Professional Designations"
+     SECTION 11.  Section 432E-5, Hawaii Revised Statutes, is amended by amending subsection (d) to read as follows:
+     "(d)  A health carrier shall send notice of its final internal determination within sixty days of the submission of the complaint to the enrollee, the enrollee's appointed representative, if applicable, the enrollee's treating provider, and the commissioner.  The notice shall include the following information regarding the enrollee's rights and procedures:
+     (1)  The enrollee's right to request an external review;
+     (2)  The one hundred thirty day deadline for requesting an external review;
+     (3)  Instructions on how to request an external review; and
+     (4)  Where to submit the request for an external review.
+     In addition to these general requirements, the notice shall conform to the requirements of [section 432E-35.] sections 432E-35 and 432E-36."
+     SECTION 12.  Section 432E-35, Hawaii Revised Statutes, is amended by amending subsections (d) and (e) to read as follows:
+     "(d)  If the commissioner determines that an enrollee is eligible for expedited external review even though the enrollee has not exhausted the health carrier's internal review process, the health carrier shall not be required to proceed with its internal review process.  The health carrier may elect to proceed with its internal review process even though the request is determined by the commissioner to be eligible for expedited external review; provided that the internal review process shall not delay or terminate an expedited external review unless the health carrier decides to reverse its adverse determination and provide coverage or payment for the health care service that is the subject of the adverse determination.  Immediately after making a decision to reverse its adverse determination, the health carrier shall notify the enrollee, the enrollee's authorized representative, the independent review organization assigned pursuant to subsection [(c),] (e), and the commissioner [[]in writing[]] of its decision.  The assigned independent review organization shall terminate the expedited external review upon receipt of notice from the health carrier pursuant to this subsection.
+     (e)  Upon receipt of the notice pursuant to subsection [(a)] (b) or a determination of the commissioner pursuant to subsection [(c)] (d) that the enrollee meets the eligibility requirements for expedited external review, the commissioner shall immediately randomly assign an independent review organization to conduct the expedited external review from the list of approved independent review organizations qualified to conduct the external review, based on the nature of the health care service that is the subject of the adverse action and other factors determined by the commissioner including conflicts of interest pursuant to section 432E-43, compiled and maintained by the commissioner to conduct the external review and immediately notify the health carrier of the name of the assigned independent review organization."
+     SECTION 13.  Section 514A-121.5, Hawaii Revised Statutes, is amended to read as follows:
+     "§514A-121.5  [[]Mediation[]].  If an apartment owner or the board of directors requests mediation of a dispute involving the interpretation or enforcement of the association of apartment owners' declaration, bylaws, or house rules, the other party in the dispute shall be required to participate in mediation.  Each party shall be wholly responsible for its own costs of participating in mediation, unless at the end of the mediation process, both parties agree that one party shall pay all or a specified portion of the mediation costs.  If an apartment owner or the board of directors refuses to participate in the mediation of a particular dispute, a court may take this refusal into consideration when awarding expenses, costs, and attorney's fees."
+     SECTION 14.  Section 514B-161, Hawaii Revised Statutes, is amended to read as follows:
+     "§514B-161  Mediation.  (a)  If an apartment owner or the board of directors requests mediation of a dispute involving the interpretation or enforcement of the association of apartment owners' declaration, bylaws, or house rules, the other party in the dispute shall be required to participate in mediation.  Each party shall be wholly responsible for its own costs of participating in mediation, unless both parties agree that one party shall pay all or a specified portion of the mediation costs.  If a party refuses to participate in the mediation of a particular dispute, a court may take this refusal into consideration when awarding expenses, costs, and attorneys' fees.
+     (b)  Nothing in subsection (a) shall be interpreted to mandate the mediation of any dispute involving:
+     (1)  Actions seeking equitable relief involving threatened property damage or the health or safety of association members or any other person;
+     (2)  Actions to collect assessments;
+     (3)  Personal injury claims; or
+     (4)  Actions against an association, a board, or one or more directors, officers, agents, employees, or other persons for amounts in excess of $2,500 if insurance coverage under a policy of insurance procured by the association or its board would be unavailable for defense or judgment because mediation was pursued.
+     (c)  If any mediation under this section is not completed within two months from commencement, no further mediation shall be required unless agreed to by the parties."
+     SECTION 15.  Section 712-1240, Hawaii Revised Statutes, is amended by amending the definitions of "dangerous drugs" and "harmful drug" to read as follows:
+     ""Dangerous drugs" means any substance or immediate precursor defined or specified as a "Schedule I substance" or a "Schedule II substance" by chapter 329, or a substance specified in section [329-18(c)(13),] 329-18(c)(14), except marijuana or marijuana concentrate.
+     "Harmful drug" means any substance or immediate precursor defined or specified as a "Schedule III substance" or a "Schedule IV substance" by chapter 329, or any marijuana concentrate except marijuana and a substance specified in section [329-18(c)(13).] 329-18(c)(14)."
+     SECTION 16.  Act 151, Session Laws of Hawaii 2009, is amended by amending section 28 to read as follows:
+     "SECTION 28.   This Act shall take effect upon approval[.]; provided that the amendments made to section 346-352, Hawaii Revised Statutes, by this Act shall not be repealed when section 346-352, Hawaii Revised Statutes, is reenacted on July 1, 2013, pursuant to section 5 of Act 92, Session Laws of Hawaii 2007."   
+PART II
+     SECTION 17.  Section 235-1, Hawaii Revised Statutes, is amended by amending the definition of "prepaid legal service plan" to read as follows:
+     ""[Prepaid legal] Legal service plan" ("Plan") means a [group legal service] plan in which the cost of the services are [prepaid] paid by [the group member] a member or by some other person or organization in the member's behalf.  A [group] legal service plan is a plan by which legal services are rendered to [individual members of a group] members identifiable in terms of some common interest.  A plan shall provide:
+    (A)   That individual members shall be afforded freedom of choice in the selection of their own attorney or attorneys to provide legal services under such plan.
+    (B)   For the payment of equal amounts for the cost of services rendered without regard to the identity of the attorney or attorneys selected by the plan member or members.  No plan shall otherwise discriminate on the basis of such selection."
+     SECTION 18.  Section 235-2.4, Hawaii Revised Statutes, is amended by amending subsection (z) to read as follows:
+     "(z)  Sections 512 to 514 (with respect to taxation of business income of certain exempt organizations) of the Internal Revenue Code shall be operative for the purposes of this chapter as provided in this subsection.
+     "Unrelated business taxable income" means the same as in the Internal Revenue Code, except that in the computation thereof sections 235-3 to 235-5, and 235-7 (except subsection (c)), shall apply, and in the determination of the net operating loss deduction there shall not be taken into account any amount of income or deduction that is excluded in computing the unrelated business taxable income.  Unrelated business taxable income shall not include any income from a [prepaid] legal service plan.
+     For a person described in section 401 or 501 of the Internal Revenue Code, as modified by section 235-2.3, the tax imposed by section 235-51 or 235-71 shall be imposed upon the person's unrelated business taxable income."
+     SECTION 19.  Section 235-7, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  There shall be excluded from gross income, adjusted gross income, and taxable income:
+     (1)  Income not subject to taxation by the State under the Constitution and laws of the United States;
+     (2)  Rights, benefits, and other income exempted from taxation by section 88-91, having to do with the state retirement system, and the rights, benefits, and other income, comparable to the rights, benefits, and other income exempted by section 88-91, under any other public retirement system;
+     (3)  Any compensation received in the form of a pension for past services;
+     (4)  Compensation paid to a patient affected with Hansen's disease employed by the State or the United States in any hospital, settlement, or place for the treatment of Hansen's disease;
+     (5)  Except as otherwise expressly provided, payments made by the United States or this State, under an act of Congress or a law of this State, which by express provision or administrative regulation or interpretation are exempt from both the normal and surtaxes of the United States, even though not so exempted by the Internal Revenue Code itself;
+     (6)  Any income expressly exempted or excluded from the measure of the tax imposed by this chapter by any other law of the State, it being the intent of this chapter not to repeal or supersede any express exemption or exclusion;
+     (7)  Income received by each member of the reserve components of the Army, Navy, Air Force, Marine Corps, or Coast Guard of the United States of America, and the Hawaii national guard as compensation for performance of duty, equivalent to pay received for forty-eight drills (equivalent of twelve weekends) and fifteen days of annual duty, at an:
+         (A)  E-1 pay grade after eight years of service; provided that this subparagraph shall apply to taxable years beginning after December 31, 2004;
+         (B)  E-2 pay grade after eight years of service; provided that this subparagraph shall apply to taxable years beginning after December 31, 2005;
+         (C)  E-3 pay grade after eight years of service; provided that this subparagraph shall apply to taxable years beginning after December 31, 2006;
+         (D)  E-4 pay grade after eight years of service; provided that this subparagraph shall apply to taxable years beginning after December 31, 2007; and
+         (E)  E-5 pay grade after eight years of service; provided that this subparagraph shall apply to taxable years beginning after December 31, 2008;
+     (8)  Income derived from the operation of ships or aircraft if the income is exempt under the Internal Revenue Code pursuant to the provisions of an income tax treaty or agreement entered into by and between the United States and a foreign country; provided that the tax laws of the local governments of that country reciprocally exempt from the application of all of their net income taxes, the income derived from the operation of ships or aircraft that are documented or registered under the laws of the United States;
+     (9)  The value of legal services provided by a [prepaid] legal service plan to a taxpayer, the taxpayer's spouse, and the taxpayer's dependents;
+    (10)  Amounts paid, directly or indirectly, by a [prepaid] legal service plan to a taxpayer as payment or reimbursement for the provision of legal services to the taxpayer, the taxpayer's spouse, and the taxpayer's dependents;
+    (11)  Contributions by an employer to a [prepaid] legal service plan for compensation (through insurance or otherwise) to the employer's employees for the costs of legal services incurred by the employer's employees, their spouses, and their dependents;
+    (12)  Amounts received in the form of a monthly surcharge by a utility acting on behalf of an affected utility under section 269-16.3 shall not be gross income, adjusted gross income, or taxable income for the acting utility under this chapter.  Any amounts retained by the acting utility for collection or other costs shall not be included in this exemption; and
+    (13)  One hundred per cent of the gain realized by a fee simple owner from the sale of a leased fee interest in units within a condominium project, cooperative project, or planned unit development to the association of owners under chapter 514A or 514B, or the residential cooperative corporation of the leasehold units.
+          For purposes of this paragraph:
+               "Fee simple owner" shall have the same meaning as provided under section 516-1; provided that it shall include legal and equitable owners;
+              "Legal and equitable owner", and "leased fee interest" shall have the same meanings as provided under section 516-1; and
+              "Condominium project" and "cooperative project" shall have the same meanings as provided under section 514C-1."
+     SECTION 20.  Section 237-1, Hawaii Revised Statutes, is amended by amending the definition of "prepaid legal service plan" to read as follows:
+     ""[Prepaid legal] Legal service plan" ("Plan") means a [group legal service] plan in which the cost of the services are [prepaid] paid by [the group member] a member or by some other person or organization in the member's behalf.  A [group] legal service plan is a plan by which legal services are rendered to [individual members of a group] members identifiable in terms of some common interest.  A plan shall provide:
+    (A)   That individual members shall be afforded freedom of choice in the selection of their own attorney or attorneys to provide legal services under such plan.
+    (B)   For the payment of equal amounts for the cost of services rendered without regard to the identity of the attorney or attorneys selected by the plan member or members.  No plan shall otherwise discriminate on the basis of such selection."
+     SECTION 21.  Section 237-23, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  This chapter shall not apply to the following persons:
+     (1)  Public service companies as that term is defined in section 239-2, with respect to the gross income, either actual gross income or gross income estimated and adjusted, that is included in the measure of the tax imposed by chapter 239;
+     (2)  Public utilities owned and operated by the State or any county, or other political subdivision thereof;
+     (3)  Fraternal benefit societies, orders, or associations, operating under the lodge system, or for the exclusive benefit of the members of the fraternity itself, operating under the lodge system, and providing for the payment of death, sick, accident, [prepaid legal services,] a legal service plan, or other benefits to the members of the societies, orders, or associations, and to their dependents;
+     (4)  Corporations, associations, trusts, or societies organized and operated exclusively for religious, charitable, scientific, or educational purposes, as well as that of operating senior citizens housing facilities qualifying for a loan under the laws of the United States as authorized by section 202 of the Housing Act of 1959, as amended, as well as that of operating a [prepaid legal services] legal service plan, as well as that of operating or managing a homeless facility, or any other program for the homeless authorized under part XVII of chapter 346;
+     (5)  Business leagues, chambers of commerce, boards of trade, civic leagues, agricultural and horticultural organizations, and organizations operated exclusively for the benefit of the community and for the promotion of social welfare that shall include the operation of a [prepaid] legal service plan, and from which no profit inures to the benefit of any private stockholder or individual;
+     (6)  Hospitals, infirmaries, and sanitaria;
+     (7)  Cooperative associations incorporated under chapter 421 or Code section 521 cooperatives which fully meet the requirements of section 421-23, except Code section 521 cooperatives need not be organized in Hawaii; provided that:
+         (A)  The exemption shall apply only to the gross income derived from activities that are pursuant to purposes and powers authorized by chapter 421, except those provisions pertaining to or requiring corporate organization in Hawaii do not apply to Code section 521 cooperatives;
+         (B)  The exemption shall not relieve any person who receives any proceeds of sale from the association of the duty of returning and paying the tax on the total gross proceeds of the sales on account of which the payment was made, in the same amount and at the same rate as would apply thereto had the sales been made directly by the person, and all those persons shall be so taxable; and
+         (C)  As used in this paragraph, "section 521 cooperatives" mean associations that qualify as a cooperative under section 521 (with respect to exemption of farmers' cooperatives from tax) of the Internal Revenue Code of 1986, as amended;
+     (8)  Persons affected with Hansen's disease and kokuas, with respect to business within the county of Kalawao;
+     (9)  Corporations, companies, associations, or trusts organized for the establishment and conduct of cemeteries no part of the net earnings of which inures to the financial benefit of any private stockholder or individual; provided that the exemption shall apply only to the activities of those persons in the conduct of cemeteries and shall not apply to any activity the primary purpose of which is to produce income, even though the income is to be used for or in the furtherance of the exempt activities of those persons; and
+    (10)  Nonprofit shippers associations operating under part 296 of the Civil Aeronautics Board Economic Regulations."
+     SECTION 22.  Section 431:1-201, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  The following contracts are not considered to be insurance for the purposes of this code:
+     (1)  A bond with respect to which no premium is charged or paid;
+     (2)  A bond or contract or undertaking in the performance of which the surety has an interest other than that of surety;
+     (3)  A plan or agreement between an employer and any employee or the employee's representative, individually or collectively, by the terms of which the employer or the parties to the plan or agreement agree to contribute to the cost of nonoccupational disability benefits, medical attention, treatment or hospitalization for the employee or members of the employee's family unless such plan is underwritten by an insurer as defined in this article;
+     (4)  A [prepaid] legal service plan as defined in chapter 488 other than plans in which either the [group] person or entity offering the plan or the person administering the plan is otherwise subject to this code;
+     (5)  Any unincorporated interindemnity or reciprocal or interinsurance contract, which qualifies under chapter 435E between members of a cooperative corporation, whose members consist only of physicians and surgeons licensed in Hawaii, which contracts indemnify solely in respect to medical malpractice claims against such members, and which do not collect in advance of loss any moneys other than contributions by each member to a collective reserve trust fund or for necessary expenses of administration."
+     SECTION 23.  Section 432:1-104, Hawaii Revised Statutes, is amended to read as follows:
+     "§432:1-104  Definitions.  For the purposes of this article:
+     (1)  Commissioner means the insurance commissioner of the State of Hawaii.
+     (2)  Mutual benefit society is any corporation, unincorporated association, society, or entity:
+         (A)  Organized and carried on for the primary benefit of its members and their beneficiaries and not for profit, and:
+              (i)  Making provision for the payment of benefits in case of sickness, disability, or death of its members, or disability, or death of its members' spouses or reciprocal beneficiaries or children, or
+             (ii)  Making provision for the payment of any other benefits to or for its members,
+              whether or not the amount of the benefits is fixed or rests in the discretion of the society, its officers, or any other person or persons; and the fund from which the payment of the benefits shall be defrayed is derived from assessments or dues collected from its members, and the payment of death benefits is made to the families including reciprocal beneficiaries, heirs, blood relatives, or persons named by its members as their beneficiaries; or
+         (B)  Organized and carried on for any purpose, which:
+              (i)  Regularly requires money to be paid to it by its members, whether the money be in the form of dues, subscriptions, receipts, contributions, assessments or otherwise, and
+             (ii)  Provides for the payment of any benefit or benefits or the payment of any money or the delivery of anything of value to its members or their relatives including reciprocal beneficiaries, or to any person or persons named by its members as their beneficiaries, or to any class of persons which includes or may include its members,
+              whether or not the amount or value of the benefit, benefits, money, or thing of value is fixed, or rests in the discretion of the society, its officers, or any other person or persons; or
+         (C)  Organized and carried on for any purpose, whose requirements and provisions although not identical with, are determined by the commissioner to be substantially similar to, those enumerated in subparagraphs (A) and (B).
+          Participating in a [prepaid] legal service plan subject to chapter 488 shall not in itself make a corporation, unincorporated association, society, or entity a mutual benefit society and subject to this article."
+     SECTION 24.  Section 432:2-101, Hawaii Revised Statutes, is amended to read as follows:
+     "§432:2-101  Scope of article.  This article relates only to fraternal benefit societies, as defined herein, which desire to be authorized to pay benefits in accordance with this article after July 10, 1961.  This article shall not apply to [prepaid] legal service plans subject to chapter 488 even though the plan may be offered by a fraternal benefit society."
+PART III
+     SECTION 25.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 26.  This Act shall take effect upon its approval; provided that section 9, amending section 235-2.4, Hawaii Revised Statutes, shall take effect retroactive to January 1, 2011; and provided further that the amendments made to section 235-7(a), Hawaii Revised Statutes, by section 19, shall not be repealed when section 235-7(a), Hawaii Revised Statutes, is reenacted on January 1, 2013, pursuant to Act 166, Session Laws of Hawaii 2007.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Revision Bill
+ 
+Description:
+Amends various provisions of the Hawaii Revised Statutes and the Session Laws of Hawaii for the purpose of correcting errors and references and clarifying language.
+ 
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

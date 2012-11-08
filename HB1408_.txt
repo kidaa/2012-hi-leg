@@ -1,0 +1,80 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1408
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO A CONTROLLING INTEREST TRANSFER TAX.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The Hawaii Revised Statutes is amended by adding a new chapter to be appropriately designated and to read as follows:
+"CHAPTER
+CONTROLLING INTEREST TRANSFER TAX
+     §   -1  Definitions.  As used in this chapter:
+     "Controlling interest" means more than fifty per cent interest in or assets of a limited liability company organized under chapter 428 or any other state.
+     "Department" means the department of taxation.
+     "Director" means the director of taxation.
+     "Entity" means a natural person or any other legal business organization used in the State pursuant to law, including a corporation, partnership, and sole proprietor.
+     "True and actual value" means the fair market value as of the time of the transfer of a controlling interest, not including the amount of any mortgage, lien, or other encumbrance.
+     §   -2  Administration by director; rules.  (a)  This chapter shall be administered by the director.  All forms necessary to enforce this chapter shall be prescribed, printed, and furnished by the director.  The director may adopt and shall enforce rules pursuant to chapter 91 to administer and enforce this chapter.
+     (b)  In addition to any other rules necessary to administer and enforce this chapter, the director shall adopt rules:
+     (1)  Establishing a system to notify the department of changes in the controlling interest of any entity subject to this chapter;
+     (2)  Establishing requirements as to the responsibility for filing returns if there is no single person who conveys the controlling interest in any entity subject to this chapter; and
+     (3)  Providing for the filing of any liens necessary to enforce the payment of taxes, and any penalties or interest required by this chapter.
+     §   -3  Tax on transfer of controlling interest; possessing real property; rate of tax applied to the value of the real property.  (a)  There is imposed a tax on the sale or transfer for consideration of a controlling interest in any limited liability company which possesses, directly or indirectly, an interest in real property in this State when the present true and actual value of the interest in real property equals or exceeds $2,000, and when:
+     (1)  The transfer of a controlling interest is made by a seller or transferor or by a group of sellers or transferors acting in concert; provided that sellers or transferors who are related to each other by blood or marriage are presumed, unless shown to the contrary, to be acting in concert; and
+     (2)  The controlling interest transfers real property to a transferee or to a group of transferees acting in concert; provided that:
+          (A)  Where transferees are related and one influences or controls the actions of another (such as parent and subsidiary corporations, parents and children, and husbands and wives), the transferees shall be presumed to be acting in concert; and
+          (B)  Where transferees have negotiated and will consummate their purchase of the controlling interest (such as transfers that are closely related in time, transferees that are few in number, or purchase contracts that contain mutual terms, and agreements among transferees binding them to a course of action with respect to the transfers), the transferees shall be presumed to be acting in concert.
+The tax imposed on the present true and actual value of the interest in real property transferred shall be at the following rates:
+     (1)  Except as provided in paragraph (2):
+         (A)  Ten cents per $100 for properties with a value of less than $600,000;
+         (B)  Twenty cents per $100 for properties with a value of at least $600,000, but less than $1,000,000;
+         (C)  Thirty cents per $100 for properties with a value of at least $1,000,000, but less than $2,000,000;
+         (D)  Fifty cents per $100 for properties with a value of at least $2,000,000, but less than $4,000,000;
+         (E)  Seventy cents per $100 for properties with a value of at least $4,000,000, but less than $6,000,000;
+         (F)  Ninety cents per $100 for properties with a value of at least $6,000,000, but less than $10,000,000; and
+         (G)  One dollar per $100 for properties with a value of $10,000,000 or greater;
+         and
+     (2)  For the sale of a condominium or single family residence for which the purchaser is ineligible for a county homeowner's exemption on property tax:
+         (A)  Fifteen cents per $100 for properties with a value of less than $600,000;
+         (B)  Twenty-five cents per $100 for properties with a value of at least $600,000, but less than $1,000,000;
+         (C)  Forty cents per $100 for properties with a value of at least $1,000,000, but less than $2,000,000;
+         (D)  Sixty cents per $100 for properties with a value of at least $2,000,000, but less than $4,000,000;
+         (E)  Eighty-five cents per $100 for properties with a value of at least $4,000,000, but less than $6,000,000;
+         (F)  One dollar and ten cents per $100 for properties with a value of at least $6,000,000, but less than $10,000,000; and
+         (G)  One dollar and twenty-five cents per $100 for properties with a value of $10,000,000 or greater.
+The tax shall be payable by the limited liability company selling or transferring the controlling interest, or as designated by the director pursuant to rule.  If the entity owns less than a one hundred per cent interest in the real estate, the tax shall be based on the actual percentage of ownership, with no further discounts on account of minority ownership.
+     (b)  A taxable sale or transfer of a controlling interest may occur in one transaction or in a series of transactions.  Transactions that occur within six months of each other are presumed, unless shown to the contrary, to be a series of transactions.
+     (c)  In addition to the exemptions under section 247-3, the tax imposed by subsection (a) shall not apply to:
+     (1)  Any sale or transfer of a controlling interest to the extent that the limited liability company possesses, directly or indirectly, an interest in real property located in an area of any county designated as an enterprise zone in accordance with section 209E-4, but shall apply to the extent the limited liability company possesses, directly or indirectly, an interest in real property in this State located outside the area designated as an enterprise zone; and
+     (2)  Any sale or transfer of real property, however effected, if it consists of a mere change in identity or form of ownership of a limited liability company where there is no change in the beneficial ownership, including transfers to a corporation or partnership that is wholly owned by the transferor.
+     §   -4  Filing return and payment of tax.  On or before the last day of the month following the month in which the sale or transfer of a controlling interest in a limited liability company that is subject to the tax imposed by section    -3 occurs, a return shall be filed with the director by the entity or entities conveying the controlling interest, as designated by and in a form as the director may prescribe pursuant to rules adopted under chapter 91.
+     §   -5  Penalties.  Any person in violation of this chapter shall be subject to penalties provided under title 14 and shall be guilty of a misdemeanor.
+     §   -6  Records maintenance.  Any limited liability company with respect to which there is a sale or transfer of a controlling interest in the entity, which sale or transfer is subject to the tax imposed by section    -3, shall maintain a record of the seller or transferor, and report every transfer of a controlling interest in its profits, assets, or beneficial interests, and other information as the director may require.  The report shall be filed at least annually or more frequently as may be required at a location pursuant to rules adopted by the director."
+     SECTION 2.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 3.  This Act shall take effect upon its approval and shall apply to taxable years beginning after December 31, 2010.
+INTRODUCED BY:
+_____________________________
+
+Report Title:
+Taxation; Controlling Interest Transfer Tax
+ 
+Description:
+Establishes a controlling interest transfer tax imposed at the rate set under the conveyance tax, to be administered by the Director of Taxation on any transfer of interest of more than 50 percent in an entity holding real property in the state.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

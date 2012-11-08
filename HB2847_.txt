@@ -1,0 +1,63 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2847
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CRIMINAL INVESTIGATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 803-44, Hawaii Revised Statutes, is amended to read as follows:
+     "§803-44  Application for court order to intercept wire, oral, or electronic communications.  The attorney general of this State, or a designated deputy attorney general in the attorney general's absence or incapacity, or the prosecuting attorney of each county, or a designated deputy prosecuting attorney in the prosecuting attorney's absence or incapacity, may make application to a designated judge or any other circuit court judge or district court judge, if a circuit court judge has not been designated by the chief justice of the Hawaii supreme court, or is otherwise unavailable, in the county where the interception is to take place, for an order authorizing or approving the interception of wire, oral, or electronic communications, and such court may grant in conformity with section 803-46 an order authorizing or approving the interception of wire, oral, or electronic communications by investigative or law enforcement officers having responsibility for the investigation of the offense as to which the application is made, if the interception might provide or has provided evidence of:
+     (1)  Murder;
+     (2)  Kidnapping;
+     (3)  Labor trafficking in the first degree;
+     (4)  Labor trafficking in the second degree;
+     (5)  Felony criminal property damage involving the danger of bodily injury as defined in section 707-700;
+     (6)  Distribution of dangerous, harmful, or detrimental drugs; [or]
+     (7)  Domestic abuse;
+     (8)  Child abuse or neglect; or
+    [(7)]  (9) Conspiracy to commit one or more of the above; or
+    [(8)] (10) Involvement of organized crime and any of the following felony offenses:
+          (A)  Extortion;
+          (B)  Bribery of a juror, witness, or police officer;
+          (C)  Receiving stolen property;
+          (D)  Gambling; and
+          (E)  Money laundering.
+     For the purposes of this section:
+     "Child abuse or neglect" shall have the same meaning as in section 350-1.
+     "Domestic abuse" means:
+     (1)  Physical harm, bodily injury, assault, or the threat of imminent physical harm, bodily injury, or assault, extreme psychological abuse or malicious property damage between family or household members; or
+     (2)  Any act which would constitute an offense under section 709-906, or under part V or VI of chapter 707 betweem family or household members.
+     "Family or household member" shall have the same meaning as in section 586-1."
+     SECTION 2.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 3.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Child Abuse; Domestic Abuse; Electronic Eavesdropping; Warrant
+ 
+Description:
+Adds domestic and child abuse to the types of crimes for which investigative or law enforcement officers may obtain a court order authorizing or approving the interception of wire, oral, or electronic communications.  Defines "child abuse", "domestic abuse", and "family or household members".
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

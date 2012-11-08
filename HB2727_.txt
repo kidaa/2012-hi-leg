@@ -1,0 +1,86 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2727
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATED TO VEHICLE IMMOBILIZATION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 291E, part III, Hawaii Revised Statutes, is amended by adding four new sections to be appropriately designated and to read as follows:
+     "§291E-A  Vehicle immobilization devices; certification.  (a)  The director of transportation shall establish and administer a statewide program relating to certification and monitoring of vehicle immobilization devices installed pursuant to this chapter and shall select a single vendor to install and maintain the devices.
+     (b)  The program shall include standards and procedures for the certification of vehicle immobilization devices installed pursuant to this chapter.
+     (c)  The program shall include standards and procedures for the certification of the vendor selected to install and maintain vehicle immobilization devices pursuant to this chapter.  At a minimum, the standards shall require that the vendor:
+     (1)  Install only a vehicle immobilization device that is certified pursuant to this section; and
+     (2)  Offer or contract for vehicle immobilization device installation and maintenance statewide.
+     (d)  The vendor selected for installation and maintenance of vehicle immobilization devices pursuant to this chapter shall be audited annually by the director of transportation pursuant to this section and the rules adopted hereunder.  The director of transportation may require the vendor to pay for all or part of the costs incurred in conducting the audit.
+     (e)  The director of transportation shall adopt rules pursuant to chapter 91 necessary for the purposes of this section.
+     §291E-B  Vehicle immobilization devices; procedure upon arrest; appeal.  (a)  Any law enforcement officer, upon making an arrest pursuant to section 291E-62 and determining that the vehicle has not been reported as stolen, shall provide the operator with the option to have the vehicle immobilized in lieu of being towed pursuant to county ordinance.
+     (b)  If the operator chooses to have the vehicle immobilized pursuant to subsection (a), the law enforcement officer shall notify the approved vehicle immobilization vendor of the arrest after transporting the driver to the police station.  The vendor shall transport the vehicle to private property of the operator's choice and attach a vehicle immobilization device.  The operator shall be responsible for all costs associated with transportation and storage of the vehicle.
+     (c)  If the operator chooses to have the vehicle towed, the law enforcement officer shall notify the approved vehicle immobilization vendor of the location of the vehicle to be towed.  The operator shall be prohibited from operating the vehicle absent a valid license, including driving it away from the tow facility.  The vendor shall transport the vehicle to private property of the operator's choice and attach a vehicle immobilization device.  The operator shall be responsible for all costs associated with transportation and storage of the vehicle.
+     (d)  Not more than two days after attaching the vehicle immobilization device, the immobilization vendor shall mail a notice of immobilization to the operator, the local law enforcement agency, and the director.  The notice of immobilization shall include the name and telephone number of the immobilization vendor, the location of the immobilized vehicle, the make and model of the vehicle, and the license plate number.
+     (e)  If the operator is not the owner of the vehicle, the immobilization vendor, not more than two days after attaching the immobilization device, shall send notice by certified mail, return receipt requested, to the owner of the vehicle and to each person of record claiming a lien against the vehicle.
+     (f)  The operator of the vehicle shall assume liability for all claims of loss or damage to the vehicle against the vehicle immobilization vendor except for the vendor's gross negligence or wanton acts or omissions.  The operator shall pay all costs and fees for the immobilization, including the costs of notification, installation, and maintenance.  The costs and fees for the immobilization shall be paid directly to the immobilization vendor.
+     (g)  Anytime after the notice of immobilization is mailed pursuant to subsections (d) or (e), the owner of the vehicle or a household member of the operator may submit a sworn statement and supporting documents to the director requesting removal of the vehicle immobilization device.  The director may grant the request and may order all costs and fees for immobilization assessed to the operator upon determining that one of the following conditions are met:
+     (1)  The vehicle was stolen at the time of arrest;
+     (2)  The vehicle was sold or transferred after the arrest; provided that the sale or transfer was not made to allow the operator continued access to the vehicle;
+     (3)  The applicant is a household member of the operator and completely dependent on the motor vehicle for the necessities of life and the applicant will take reasonable precautions to ensure that the operator will not operate the vehicle; or
+     (4)  The owner of the vehicle was not aware that the operator's license and privilege to operate a vehicle had been revoked, suspended, or otherwise restricted at the time of arrest.
+The director shall decide whether to grant the request and mail notice of the decision within five days after receiving the request.
+     (h)  If the director denies a request made pursuant to subsection (g), the owner of the vehicle or household member may file a petition for judicial review within thirty days after the director's decision is mailed.  The petition shall be filed with the clerk of the district court in the district in which the arrest occurred, the current location of the vehicle, or where the petitioner resides and shall be accompanied by the required filing fee for civil actions.  The petition shall be appropriately captioned.  The petition shall state with specificity the grounds upon which the petitioner seeks reversal of the director's decision.
+     (i)  For purposes of this section, "owner of the vehicle" means the same as "owner" as the term is defined in section 431:10C-103.
+     §291E-C  Duration of vehicle immobilization.  Duration of vehicle immobilization shall be as follows:
+     (1)  Six months for the first immobilization;
+     (2)  Nine months for the second immobilization; and
+     (3)  One year for the third and subsequent immobilizations.
+     §291E-D  Circumvention of or tampering with a vehicle immobilization device; penalties.  (a)  No person who has a vehicle immobilized pursuant to section 291E-B shall knowingly:
+     (1)  Tamper with a vehicle immobilization device with the intent to render it inoperable; or
+     (2)  Request, solicit, direct, authorize, or cause another person to tamper with a vehicle immobilization device with the intent to render it inoperable.
+     (b)  Any person who violates subsection (a) shall be sentenced without possibility of probation or suspension of sentence as follows:
+     (1)  For a first offense, or any offense not preceded within a five-year period by conviction under this section:
+         (A)  A term of imprisonment of not less than three consecutive days but not more than thirty days;
+         (B)  A fine of not less than $250 but not more than $1,000; and
+         (C)  Impoundment, or impoundment and sale, of the motor vehicle for the costs of storage and other charges incident to seizure of the vehicle;
+     (2)  For an offense that occurs within five years of a prior conviction for an offense under this section:
+         (A)  Thirty days imprisonment;
+         (B)  A $1,000 fine; and
+         (C)  Impoundment, or impoundment and sale, of the motor vehicle for the costs of storage and other charges incident to seizure of the vehicle; and
+     (3)  For an offense that occurs within five years of two or more prior convictions for offenses under this section, or any combination thereof:
+         (A)  One year imprisonment;
+         (B)  A $2,000 fine; and
+         (C)  Impoundment, or impoundment and sale, of the motor vehicle for the costs of storage and other charges incident to seizure of the vehicle."
+     SECTION 2.  Section 291E-1, Hawaii Revised Statutes, is amended by adding a new definition to be appropriately inserted and to read:
+     ""Vehicle immobilization device" means a device certified pursuant to section 291E-A and rules adopted hereunder that, when attached to a wheel, steering wheel, parking brake, pedal, transmission, gear shift, or other appropriate location of a motor vehicle, prevents the vehicle from being operated, but shall not include an ignition interlock device."
+     SECTION 3.  Section 291E-5, Hawaii Revised Statutes, is amended to read as follows:
+     "§291E-5  Ignition interlock and vehicle immobilization device user affordability.  The director of transportation shall contract with the selected ignition interlock [vendor] and vehicle immobilization vendors to provide partial financial relief for [the] installation and [the] periodic [calibration] charges to offenders who apply for such assistance and who are recipients, at the time of license revocation or suspension, of either food stamps under the Supplemental Nutrition Assistance Program, or free services under the Older Americans Act or Developmentally Disabled Assistance and Bill of Rights Act."  
+     SECTION 4.  In codifying the new sections added by section 1 of this Act, the revisor of statutes shall substitute the appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect on July 1, 2013.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+ 
+Report Title:
+Drunk Driving, Penalties, Vehicle Immobilization, Suspended License
+ 
+Description:
+Requires the immobilization of vehicles operated by a person whose license has been suspended or revoked for OVUII.  Establishes process for owner of the vehicle, if other than the operator, to request removal of the device.  Effective 7/1/13.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,62 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2082
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO BUSINESS ENTITIES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 428-101, Hawaii Revised Statutes, is amended by adding a new definition to be appropriately inserted and to read as follows:
+     ""Low-profit limited liability company" means a person organized under this chapter that is organized for a business purpose that satisfies and is at all times operated to satisfy each of the following requirements:
+     (1)  The company:
+         (A)  Significantly furthers the accomplishment of one or more charitable or educational purposes within the meaning of section 170(c)(2)(B) of the Internal Revenue Code of 1986, as amended; and
+         (B)  Would not have been formed but for the company's relationship to the accomplishment of charitable or educational purposes;
+     (2)  No significant purpose of the company shall be the production of income or the appreciation of property; provided, however, that the fact that a person produces significant income or capital appreciation shall not, in the absence of other factors, be conclusive evidence of a significant purpose involving the production of income or the appreciation of property;
+     (3)  No purpose of the company shall be to accomplish one or more political or legislative purposes within the meaning of section 170(c)(2)(D) of the Internal Revenue Code of 1986, as amended; and
+     (4)  If a company that met the requirements of this definition at its formation at any time ceases to satisfy any one of the requirements, the company shall immediately cease to be a low-profit limited liability company; provided that, if the company continues to meet all the other requirements of this chapter, the company shall continue to exist as a limited liability company.  The name of the company shall be changed to be in conformance with section 428-105."
+     SECTION 2.  Section 428-105, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  [The] Except for a low-profit limited liability company, the name of a limited liability company [must] shall contain "limited liability company" or the abbreviation "L.L.C." or "LLC".  "Limited" may be abbreviated as "Ltd.", and "company" may be abbreviated as "Co.".  The letters in the name of a limited liability company [must] shall be letters of the English alphabet.
+     The name of a low-profit limited liability company as defined in section 428-101 shall contain the abbreviation "L3C" or "l3c"."
+     SECTION 3.  Section 428-203, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  Articles of organization of a limited liability company shall set forth:
+     (1)  The name of the company;
+     (2)  The mailing address of the company's initial principal office and the information required by section 425R-4(a);
+     (3)  The name and address of each organizer;
+     (4)  Whether the duration of the company is for a specified term and, if so, the period specified;
+     (5)  Whether the company is a low-profit limited liability company;
+    [(5)] (6)  Whether the company is to be manager-managed, and:
+         (A)  If so, the name and address of each initial manager, and the number of initial members; or
+         (B)  If not, the name and address of each initial member; and
+    [(6)] (7)  Whether the members of the company are to be liable for its debts and obligations under section 428-303(c)."
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Low-Profit Limited Liability Companies
+ 
+Description:
+Authorizes the organization of low-profit limited liability companies.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

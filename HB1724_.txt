@@ -1,0 +1,61 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1724
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO HEALTH AND HUMAN SERVICES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that it is in the State's best interest to ensure that patients who are waitlisted for long-term care or other types of care receive appropriate medical care in a timely manner by authorizing the department of human services to apply medicaid presumptive eligibility to qualified waitlisted patients.  Action based on presumptive eligibility means that the department of human services will make a preliminary, presumptive determination to authorize medical assistance in the interval between an individual's application for assistance and the final medicaid eligibility determination, based on likelihood that the applicant will be determined to be eligible.
+     At any given time, there are about one hundred fifty patients in acute care hospital settings across the State who are waitlisted for long-term care.  Waitlisted patients are those who are deemed medically ready for discharge and are no longer in need of acute care services, but who cannot be discharged due to various barriers, such as delays in medicaid eligibility determinations, and therefore must remain in a higher-cost hospital setting.  Discharge timeframes for waitlisted patients range from a few days to over one year.  This situation lessens the quality of life for patients, presenting an often insurmountable dilemma for providers and patients and causing a serious drain on the financial resources of acute care hospitals, with ripple effects felt throughout other healthcare service sectors.
+     Regulatory and government mandates create barriers in transferring waitlisted patients.  One barrier is the delay in completing medicaid eligibility determinations for waitlisted patients.  Senate Concurrent Resolution No. 198, adopted in 2007, requested the Healthcare Association of Hawaii to conduct a study of patients in acute care hospitals who are waitlisted for long-term care and to propose solutions to the problem.  The study's final report to the legislature addressed the critical problem of waitlisted patients and the regulatory barrier of medicaid eligibility determinations, which included several concerns, among them:
+(1)  The amount of time it takes to complete the medicaid eligibility and re-eligibility processes;
+(2)  The amount of time staff within hospitals and nursing facilities spend assisting families with medicaid applications, following up with families to ensure their compliance in submitting the required documentation to support their applications, hand carrying applications to the medicaid eligibility office, and following up with eligibility workers on the status of applications; and
+(3)  Delays in processing applications in a timely manner, resulting in delays in access to care for medicaid beneficiaries.
+     The purpose of this Act is to improve the efficiencies and management of medicaid eligibility determinations by requiring the department of human services to:
+(1)  Provide medicaid presumptive eligibility to patients who have been waitlisted for long-term care;
+(2)  Conduct a study of a computerized medicaid applications system to address inefficiencies and other problems associated with processing medicaid applications; and
+(3)  Conduct a series of studies on costs and other issues related to medicaid presumptive eligibility.
+     This Act also makes an appropriation to reimburse certain providers and plans.
+     SECTION 2.  Chapter 346, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§346-    Presumptive eligibility for medicaid; waitlisted patients.  (a)  The department shall presume that a waitlisted patient applying for medicaid is eligible for coverage; provided that the applicant is able to show proof of:
+  (1)  An annual income at or below the maximum level allowed under federal law or under a waiver approved for Hawaii under 42 United States Code section 1396n, as applicable;
+     (2)  Verification of assets;
+     (3)  Confirmation of waitlisted status as certified by a healthcare provider licensed in Hawaii; and
+(4)  Meeting the level of care requirement for institutional or home- and community-based long-term care as determined by a physician licensed in Hawaii.
+     (b)  The department shall notify the applicant and the facility of the presumptive eligibility on the date of receipt of the application.  Within ten business days after the applicant's receipt of notification of presumptive eligibility from the department, the applicant shall submit all remaining documents necessary to the department to qualify for medicaid coverage.  The department shall notify the applicant of eligibility within five business days of receipt of the completed application for medicaid coverage.
+     (c)  Waitlisted patients who are presumptively covered by medicaid shall be eligible for services and shall be processed for coverage under the State's qualifying medicaid program.  If the waitlisted patient is later determined to be ineligible for medicaid after receiving services during the period of presumptive eligibility, the department shall disenroll the patient and notify the provider and the plan, if applicable, of disenrollment by facsimile transmission or electronic mail.  The department shall provide reimbursement to the provider or the plan for the time during which the waitlisted patient was enrolled."
+     SECTION 3.  The department of human services shall conduct a study of a computerized medicaid applications system to address inefficiencies and other problems associated with processing medicaid applications.  The department shall submit its findings and recommendations to the legislature no later than twenty days prior to the convening of the regular session of 2013.
+     SECTION 4.  The department of human services shall also submit annual reports of its findings and recommendations to the legislature no later than twenty days prior to the convening of the regular sessions of 2013, 2014, 2015, 2016, and 2017, regarding costs and other issues related to medicaid presumptive eligibility.
+     SECTION 5.  There is appropriated out of the general revenues of the State of Hawaii the sum of $200,000 or so much thereof as may be necessary for fiscal year 2012-2013 to cover the costs of any reimbursements made to providers or plans for services provided during the time waitlisted patients are enrolled but are eventually determined to be ineligible.
+     The sum appropriated shall be expended by the department of human services for the purposes of this Act.
+     SECTION 6.  New statutory material is underscored.
+     SECTION 7.  This Act shall take effect on July 1, 2012, and shall be repealed on June 31, 2017.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+
+ 
+Report Title:
+Medicaid Presumptive Eligibility
+ 
+Description:
+Requires the department of human services to:  (1) Provide medicaid presumptive eligibility to patients who have been waitlisted for long-term care; (2) Conduct a study of a computerized medicaid applications system to address inefficiencies and other problems associated with processing medicaid applications; and (3) Submit findings and recommendations to the legislature regarding costs and other issues related to medicaid presumptive eligibility.  Appropriates funds to cover the costs of any reimbursements made to providers or plans for services that are provided during the time waitlisted patients are enrolled but are eventually determined to be ineligible.  Effective July 1, 2012, and repealed on June 31, 2017.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

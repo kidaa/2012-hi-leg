@@ -1,0 +1,110 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2359
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PORTABLE ELECTRONICS INSURANCE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 431, Hawaii Revised Statutes, is amended by adding a new article to be appropriately designated and to read as follows:
+"ARTICLE
+PORTABLE ELECTRONICS INSURANCE
+     §431:  -101  Definitions.  For purposes of this article:
+     "Customer" means a person who purchases portable electronics or services.
+     "Enrolled customer" means a customer who elects coverage under a portable electronics insurance policy issued to a vendor of portable electronics.
+     "Location" means any physical location in the State or any website, call center site, or similar location directed to residents of the State.
+     "Portable electronics" means electronic devices that are portable in nature, and the accessories and services related to the use of the device.
+     "Portable electronics insurance" means insurance providing coverage for the repair or replacement of portable electronics, which may provide coverage for portable electronics against any one or more of the following:  loss, theft, inoperability due to mechanical failure, malfunction, damage, or other similar causes.  The term does not include:
+     (1)  A service contract, as defined by section 481X-2;
+     (2)  A policy of insurance covering a seller's or manufacturer's obligations under a warranty; or
+     (3)  A homeowner's, renter's, private passenger automobile, commercial multi-peril, or similar insurance policy.
+     "Portable electronics transaction" means:
+     (1)  The sale or lease of portable electronics by a vendor to a customer; or
+     (2)  The sale of a service related to the use of portable electronics by a vendor to a customer.
+     "Supervising entity" means a business entity that is a licensed insurer or insurance producer that is appointed or authorized by an insurer to supervise the administration of a portable electronics insurance program.
+     "Vendor" means a person in the business of engaging in portable electronics transactions directly or indirectly.
+     §431:  -102  Licensure of vendors.  (a)  A vendor shall hold a limited lines license to sell or offer coverage under a policy of portable electronics insurance.
+     (b)  A limited lines license issued under this section shall authorize any employee or authorized representative of the vendor to sell or offer coverage under a policy of portable electronics insurance to a customer at each location at which the vendor engages in portable electronics transactions.
+     (c)  The supervising entity shall maintain a registry of vendor locations that are authorized to sell or solicit portable electronics insurance coverage in the State.  Upon request by the director and with ten days notice to the supervising entity, the registry shall be open to inspection and examination by the director during regular business hours of the supervising entity.
+     (d)  Notwithstanding any other provision of law to the contrary, a license issued pursuant to this section shall authorize the licensee and its employees or authorized representatives to engage in the activities that are permitted in this section.
+     §431:  -103  Requirements for sale of portable electronics insurance.  (a)  At every location where portable electronics insurance is offered to customers, brochures or other written materials shall be made available to prospective customers.  The brochures or other written materials shall:
+     (1)  Disclose that portable electronics insurance may provide a duplication of coverage already provided by a customer's homeowner's insurance policy, renter's insurance policy, or other source of coverage;
+     (2)  State that enrollment by the customer in a portable electronics insurance program is not required in order to purchase or lease portable electronics or services;
+     (3)  Summarize the material terms of the insurance coverage, including:
+         (A)  The identity of the insurer;
+         (B)  The identity of the supervising entity;
+         (C)  The amount of any applicable deductible and how it is to be paid;
+         (D)  The benefits of the coverage; and
+         (E)  The key terms and conditions of coverage, such as whether portable electronics may be repaired or replaced with a similar make and model reconditioned, or non-original manufacturer parts or equipment;
+     (4)  Summarize the process for filing a claim, including a description of how to return portable electronics and the maximum fee applicable if the customer fails to comply with any equipment return requirements; and
+     (5)  State that an enrolled customer may cancel enrollment for coverage under a portable electronics insurance policy at any time and the person paying the premium shall receive a refund of any applicable unearned premium.
+     (b)  Portable electronics insurance may be offered on a month-to-month or other periodic basis as a group or master commercial inland marine policy issued to a vendor of portable electronics for its enrolled customers.
+     (c)  Eligibility and underwriting standards for customers electing to enroll in coverage shall be established for each portable electronics insurance program.
+     §431:  -104  Authority of vendors of portable electronics.  (a)  The employees and authorized representatives of vendors may sell or offer portable electronics insurance to customers and shall not be subject to licensure as an insurance producer under this chapter, provided that:
+     (1)  The vendor obtains a limited lines license to authorize its employees or authorized representatives to sell or offer portable electronics insurance pursuant to this section;
+     (2)  The insurer issuing the portable electronics insurance either directly supervises or appoints a supervising entity to supervise the administration of the program, including development of a training program for employees and authorized representatives of the vendors.  The training shall comply with the following:
+         (A)  The training shall be delivered to employees and authorized representatives of a vendor who are directly engaged in the activity of selling or offering portable electronics insurance;
+         (B)  The training may be provided in electronic form; provided that, if the training is conducted in an electronic form, the supervising entity shall implement a supplemental education program regarding the portable electronics insurance product that is conducted and overseen by a licensed employee of the supervising entity; and
+         (C)  Each employee and authorized representative shall receive basic instruction about the portable electronics insurance offered to customers and the disclosures required under section 431:  -103; and
+     (3)  No employee or authorized representative of a vendor of portable electronics shall advertise, represent, or otherwise portray the employee or representative as a non-limited lines licensed insurance producer.
+     (b)  The charges for portable electronics insurance coverage may be billed and collected by the vendor of portable electronics.  Any charge to the enrolled customer for coverage that is not included in the cost associated with the purchase or lease of portable electronics or related services shall be separately itemized on the enrolled customer's bill.  If the portable electronics insurance coverage is included with the purchase or lease of portable electronics or related services, the vendor shall clearly and conspicuously disclose to the enrolled customer that the portable electronics insurance coverage is included with the portable electronics or related services.  Vendors billing and collecting the charges shall not be required to maintain the funds in a segregated account; provided that the vendor is authorized by the insurer to hold the funds in an alternative manner and remits the amounts to the supervising entity within sixty days of receipt.  All funds received by a vendor from an enrolled customer for the sale of portable electronics insurance shall be considered funds held in trust by the vendor in a fiduciary capacity for the benefit of the insurer.  Vendors may receive compensation for billing and collection services.
+     §431:  -105  Suspension or revocation of license.  If a vendor of portable electronics or its employee or authorized representative violates any provision of this article, the commissioner, after notice and hearing, may impose:
+     (1)  A fine of not more than $500 per violation or $5,000 in the aggregate for the violation; and
+     (2)  Other penalties that the commissioner deems necessary and reasonable to carry out the purposes of this article, including:
+         (A)  Suspending the privilege of transacting portable electronics insurance pursuant to this section at specific business locations where violations have occurred; and
+          (B)  Suspending or revoking the ability of individual employees or authorized representatives to act under the license.
+     §431:  -106  Termination of portable electronics insurance.  (a)  An insurer may terminate or otherwise change the terms and conditions of a policy of portable electronics insurance only upon providing the policyholder and enrolled customers with at least thirty days notice.
+     (b)  If the insurer changes the terms and conditions of a policy, the insurer shall provide the vendor policyholder with a revised policy or endorsement and each enrolled customer with a revised certificate, endorsement, updated brochure, or other evidence indicating that a change in the terms and conditions has occurred, and a summary of material changes.
+     (c)  Notwithstanding subsection (a), an insurer may terminate an enrolled customer's enrollment under a portable electronics insurance policy upon fifteen days notice for discovery of fraud or material misrepresentation in obtaining coverage or in the presentation of a claim thereunder.
+     (d)  Notwithstanding subsection (a), an insurer may immediately terminate an enrolled customer's enrollment under a portable electronics insurance policy:
+     (1)  For nonpayment of a premium;
+     (2)  If the enrolled customer ceases to have an active service with the vendor of portable electronics; or
+     (3)  If an enrolled customer exhausts the aggregate limit of liability, if any, under the terms of the portable electronics insurance policy and the insurer sends notice of termination to the enrolled customer within thirty calendar days after exhaustion of the limit; provided that, if notice is not timely sent, enrollment shall continue notwithstanding the aggregate limit of liability until the insurer sends notice of termination to the enrolled customer.
+     (e)  If a portable electronics insurance policy is terminated by a policyholder, the policyholder shall mail or deliver written notice to each enrolled customer advising the enrolled customer of the termination of the policy and the effective date of termination.  The written notice shall be mailed or delivered to the enrolled customer at least thirty days prior to the termination.
+     (f)  Whenever notice or correspondence with respect to a policy of portable electronics insurance is required pursuant to this section, or is otherwise required by law, the notice or correspondence shall be in writing and sent within the notice period, if any, specified within the law requiring the notice or correspondence.  Notwithstanding any other provision of law to the contrary, notice and correspondence may be sent either by mail or by electronic means as set forth in this subsection.  If the notice or correspondence is mailed, it shall be sent to the vendor of portable electronics at the vendor's mailing address specified for such purpose and to its affected enrolled customers' last known mailing addresses on file with the insurer.  The insurer or vendor of portable electronics, as the case may be, shall maintain proof of mailing in a form authorized or accepted by the United States Postal Service or other commercial mail delivery service.  If the notice or correspondence is sent by electronic means, it shall be sent to the vendor of portable electronics at the vendor's electronic mail address specified for such purpose and to its affected enrolled customer's last known electronic mail address as provided by each enrolled customer to the insurer or vendor of portable electronics, as the case may be.  For purposes of this subsection, an enrolled customer's provision of an electronic mail address to the insurer or vendor of portable electronics, as the case may be, shall be deemed consent to receive notices and correspondence by electronic means.  The insurer or vendor of portable electronics, as the case may be, shall maintain proof that the notice or correspondence was sent.
+     (g)  Notice or correspondence required by this section or otherwise required by law may be sent on behalf of an insurer or vendor, as the case may be, by the supervising entity appointed by the insurer.
+     §431:  -107  Application for license and fees.  (a)  A sworn application for a license under this article shall be filed with the commissioner on forms prescribed and furnished by the commissioner.
+     (b)  The application for a license shall provide the:
+     (1)  Name, residence address, and other information required by the commissioner for an employee or officer of the vendor that is designated by the applicant as the person responsible for the vendor's compliance with the requirements of this article; provided that, if the vendor derives more than fifty per cent of its revenue from the sale of portable electronics insurance, the information in this paragraph shall be provided for all officers, directors, and shareholder of record having beneficial ownership of ten per cent or more of any class of securities registered under the federal securities law; and
+     (2)  Location of the applicant's home office.
+     (c)  Any vendor engaging in portable electronics insurance transactions on or before the effective date of this Act shall apply for licensure within ninety days of the application being made available by the commissioner.  Any applicant commencing operations after the effective date of this Act shall obtain a license prior to offering portable electronics insurance.
+     (d)  Initial licenses issued pursuant to this article shall be valid for a period of twenty-four months.
+     (e)  Each vendor of portable electronics licensed under this article shall pay to the commissioner a fee as prescribed by the commissioner; provided that the fee shall not exceed $1,000 for an initial portable electronics limited lines license and $500 for each renewal thereof; provided further that, for a vendor that is engaged in portable electronics transactions at ten or fewer locations in the State, the fee shall not exceed $100 for an initial license and for each renewal thereof.
+     §431:  -108  Portable electronics insurance claims.  No licensed independent adjuster or licensed agent shall supervise more than twenty-five employees; provided that a licensed agent who supervises employees or adjusts claims shall not be required to be licensed as an adjuster.
+     For purposes of this section:
+     "Automated claims adjudication system" means a preprogrammed computer system designed for the collection, data entry, calculation, and final resolution of portable electronics insurance claims, which:
+     (1)  Shall be utilized only by a licensed independent adjuster, a licensed agent, or supervised employees; and
+     (2)  Shall comply with all claims payment requirements of the insurance code.
+     "Employee" means an individual who collects claim information for portable electronics insurance claims from, or furnishes claim information to, insureds or claimants, and who conducts data entry, including entering data into an automated claims adjudication system."
+     SECTION 2.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 3.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Portable Electronics Insurance; Vendors; License
+ 
+Description:
+Establishes provisions for the sale of portable electronics insurance.  Requires vendors to hold a limited lines license to sell or offer coverage under a policy.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

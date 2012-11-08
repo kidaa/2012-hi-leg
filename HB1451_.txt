@@ -1,0 +1,281 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1451
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO HEALTH CARE PRIVACY.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The Hawaii Revised Statutes is amended by adding a new chapter to be appropriately designated and to read as follows:
+"CHAPTER
+PRIVACY OF HEALTH CARE INFORMATION
+PART I.  GENERAL PROVISIONS
+     §   -1  Definitions.  As used in this chapter, except as otherwise specifically provided:
+     "Accrediting body" means a committee, organization, or institution that has been authorized by law or is recognized by a health care regulating authority as an accrediting entity or any other entity that has been similarly authorized or recognized by law to perform specific accreditation, licensing, or credentialing activities.
+     "Agent" means a person who represents and acts for another under a contract or relationship of agency, or whose function is to bring about, modify, affect, accept performance of, or terminate contractual obligations between the principal and a third person, including a contractor.
+     "Commissioner" means the insurance commissioner.
+     "Disclose" means to release, transfer, provide access to, share, or otherwise divulge protected health information to any person other than the individual who is the subject of the information.  The term includes the initial disclosure and any subsequent redisclosures of protected health information.
+     "Educational institution" means an institution or place for instruction or education including any public or private elementary school, secondary school, vocational school, correspondence school, business school, junior college, teachers college, college, normal school, professional school, university, or scientific or technical institution, or other institution furnishing education for children and adults.
+     "Employer" means any individual or type of organization, including any partnership, association, trust, estate, joint stock company, insurance company, or corporation, whether domestic or foreign, a debtor in possession or receiver or trustee in bankruptcy, or a legal representative of a deceased person, who has one or more regular individuals in his or her employment.
+     "Employment" means services performed for wages under any contract of hire, written or oral, expressed or implied, with an employer.
+     "Entity" means a health care provider, health care data organization, health plan, health oversight agency, public health authority, employer, insurer, health researcher, law enforcement official, or educational institution, except as otherwise defined for purposes of a particular section only.
+     "Health care" means:
+     (1)  Preventive, diagnostic, therapeutic, rehabilitative, palliative, or maintenance services:
+         (A)  With respect to the physical or mental condition of an individual; or
+         (B)  Affecting the structure or function of the human body or any part of the human body, including the banking of blood, sperm, organs, or any other tissue;
+          or
+     (2)  Any sale or dispensing of a drug, device, equipment, or other health care-related item to an individual, or for the use of an individual pursuant to a prescription or order by a health care provider.
+     "Health care data organization" means an entity that engages primarily in the business of collecting, analyzing, and disseminating identifiable and nonidentifiable patient information.  A health care data organization is not a health care provider, an insurer, a health researcher, or a health oversight agency.
+     "Health care provider" means a person who, with respect to any protected health information, receives, creates, uses, maintains, or discloses the protected health information while acting in whole or in part in the capacity of:
+     (1)  A person who is licensed, certified, registered, or otherwise authorized by federal or state law to provide an item or service that constitutes health care in the ordinary course of business, or practice of a profession;
+     (2)  A federal, state, or employer-sponsored program that directly provides items or services that constitute health care to beneficiaries; or
+     (3)  An officer, employee, or agent of a person described in paragraph (1) or (2).
+     "Health oversight agency" means a person who, with respect to any protected health information, receives, creates, uses, maintains, or discloses the information while acting in whole or in part in the capacity of:
+     (1)  A person who performs or oversees the performance of an assessment, evaluation, determination, or investigation, relating to the licensing, accreditation, or credentialing of health care providers; or
+     (2)  A person who:
+          (A)  Performs or oversees the performance of an audit, assessment, evaluation, determination, or investigation relating to the effectiveness of, compliance with, or applicability of, legal, fiscal, medical, or scientific standards or aspects of performance related to the delivery of, or payment for, health care; and
+          (B)  Is a public agency, acting on behalf of a public agency, acting pursuant to a requirement of a public agency, or carrying out activities under a federal or state law governing the assessment, evaluation, determination, investigation, or prosecution for violations of paragraph (1).
+     "Health plan" means any health insurance plan, including any hospital or medical service plan, dental or other health service plan or health maintenance organization plan, provider-sponsored organization, or other program providing or arranging for the provision of health benefits, whether or not funded through the purchase of insurance.
+     "Health researcher" means a person, or an officer, employee or independent contractor of a person, who receives protected health information as part of a systematic investigation, testing, or evaluation designed to develop or contribute to generalized scientific and clinical knowledge.
+     "Individual's designated representative" means a person who is authorized by law (based on grounds other than the minority of an individual), or by an instrument recognized under law, to act as an agent, attorney, guardian, proxy, or other legal representative of a protected individual.  The term includes a health care power of attorney.
+     "Institutional review board" means a research committee established and operating in accord with Title 45 Code of Federal Regulations 46 Sections 107, 108, 109, and 115.
+     "Insurer" means any person regulated under chapter 432D, article 1 of chapter 432, any group that has purchased a group insurance policy issued by a person regulated under chapter 432D, and any person regulated under article 10A of chapter 431, other than a life insurer, disability income insurer, or long-term care insurer.
+     "Law enforcement inquiry" means a lawful investigation conducted by an appropriate government agency or official inquiring into a violation of, or failure to comply with, any civil or administrative statute or any regulation, rule, or order issued pursuant to such a statute.  It does not include a lawful criminal investigation or prosecution conducted by the county prosecutors or the department of the attorney general.
+     "Nonidentifiable health information" means any information that meets all of the following criteria: would otherwise be protected health information except that the information in and of itself does not reveal the identity of the individual whose health or health care is the subject of the information and will not be used in any way that would identify the subjects of the information or would create protected health information.
+     "Office of information practices" shall be as defined by chapter 92F.
+     "Person" means a government, governmental subdivision, agency or authority, corporation, company, association, firm, partnership, insurer, estate, trust, joint venture, individual, individual representative, and any other legal entity.
+     "Protected health information" means any information, identifiable to an individual, including demographic information, whether or not recorded in any form or medium that relates directly or indirectly to the past, present, or future:
+     (1)  Physical or mental health or condition of a person, including tissue and genetic information;
+     (2)  Provision of health care to an individual; or
+     (3)  Payment for the provision of health care to an individual.
+     "Public health authority" means the department of health.
+     "Qualified health care operations" means:
+     (1)  Only those activities conducted by or on behalf of a health plan or health care provider for the purpose of carrying out the management functions of a health care provider or health plan, or implementing the terms of a contract for health plan benefits as follows:
+         (A)  Payment, which means the activities undertaken by a health plan or provider which are reasonably necessary to determine responsibility for coverage, services, and the actual payment for services, if any;
+          (B)  Conducting quality assurance activities or outcomes assessments;
+         (C)  Reviewing the competence or qualifications of health care professionals;
+         (D)  Performing accreditation, licensing, or credentialing activities;
+         (E)  Analyzing health plan claims or health care records data;
+         (F)  Evaluating provider clinical performance;
+         (G)  Carrying out utilization management; or
+         (H)  Conducting or arranging for auditing services in accordance with statute, rule, or accreditation requirements;
+     (2)  A qualified health care operation shall:
+         (A)  Be an operation which cannot be carried on with reasonable effectiveness and efficiency without identifiable patient information;
+         (B)  Be limited to only that protected health information collected under the terms of the contract for health plan benefits and without which the operation cannot be carried on with reasonable effectiveness and efficiency;
+         (C)  Be limited to the minimum amount of protected health information, including the minimum number of records and the minimum number of documents within each patient's record, necessary to carry on the operation with reasonable effectiveness and efficiency; and
+         (D)  Limit the handling and examination of protected health information to those persons who are reasonably well qualified, by training, credentials, or experience, to conduct the phase of the operation in which they are involved.
+     "Surrogate" means a person, other than an individual's designated representative or relative, who is authorized to make a health-care decision for the individual.
+     "Treatment" means the provision of health care by, or the coordination of health care among, health care providers, or the referral of a patient from one provider to another, or coordination of health care or other services among health care providers and third parties authorized by the health plan or the plan member.
+     "Unique patient identifier" means a number or alpha-numeric string assigned to an individual, which can be or is used to identify an individual's protected health information.
+     "Writing" means a written form that is either paper- or computer-based, and includes electronic signatures.
+PART II.  INDIVIDUAL'S RIGHTS
+     §   ‑11  Inspection and copying of protected health information.  (a)  For the purposes of this section only, "entity" means a health care provider, health plan, employer, health care data organization, insurer, or educational institution.
+     (b)  At the request in writing of an individual and except as provided in subsection (c), an entity shall permit an individual who is the subject of protected health information or the individual's designee, to inspect and copy protected health information concerning the individual, including records created under section    ‑12, that the entity maintains.  The entity shall adopt appropriate procedures to be followed for the inspection or copying and may require an individual to pay reasonable costs associated with the inspection or copying.
+     (c)  Unless ordered by a court of competent jurisdiction, an entity is not required to permit the inspection or copying of protected health information if any of the following conditions are met:
+     (1)  The entity determines that the disclosure of the information could reasonably be expected to endanger the life or physical safety of, or cause substantial mental harm to, the individual who is the subject of the record;
+     (2)  The information identifies, or could reasonably lead to the identification of, a person who provided information under a promise of confidentiality concerning the individual who is the subject of the information unless the confidential source can be protected by redaction or other similar means;
+     (3)  The information is protected from discovery as provided in section 624-25.5; or
+     (4)  The information was collected for or during a clinical trial monitored by an institutional review board, the trial is not complete, and the researcher reasonably believes that access would harm the conduct of the trial.
+     (d)  If an entity denies a request for inspection or copying pursuant to subsection (c), the entity shall inform the individual in writing of:
+     (1)  The reasons for the denial of the request for inspection or copying;
+     (2)  Any procedures for further review of the denial; and
+     (3)  The individual's right to file with the entity a concise statement setting forth the request for inspection or copying.
+     (e)  If an individual has filed a statement under subsection (d)(3), the entity in any subsequent disclosure of the portion of the information requested under subsection (b) shall include:
+     (1)  A copy of the individual's statement; and
+     (2)  A concise statement of the reasons for denying the request for inspection or copying.
+     (f)  An entity shall permit the inspection and copying under subsection (b) of any reasonably segregable portion of a record after deletion of any portion that is exempt under subsection (c).
+     (g)  An entity shall comply with or deny, in accordance with subsection (d), a request for inspection or copying of protected health information under this section not later than thirty days after the date on which the entity or agent receives the request.
+     (h)  An agent of an entity shall not be required to provide for the inspection and copying of protected health information, except where:
+     (1)  The protected health information is retained by the agent; and
+     (2)  The agent has received in writing a request from the entity involved to fulfill the requirements of this section, at which time this information shall be provided to the individual.  The agent shall comply with subsection (g) with respect to any such information.
+     (i)  The entity shall afford at least one level of appeal by parties not involved in the original decision.
+     (j)  This section shall not be construed to require that an entity described in subsection (a) conduct a formal, informal, or other hearing or proceeding concerning a request for inspection or copying of protected health information.
+     (k)  If an entity denies an individual's request for copying pursuant to subsection (c), or if an individual so requests, the entity shall permit the inspection or copying of the requested protected health information by the individual's designated representative, upon presentation of a proper authorization signed by the individual, unless it is patently clear that doing so would defeat the purpose for which the entity originally denied the individual's request for inspection and copying.
+     §   -12  Additions to protected health information.  A health care provider is the owner of the medical records in the health care provider's possession that were created by the health care provider in treating a patient.  An individual or the individual's authorized representative may request in writing that a health care provider that generated certain health care information append additional information to the record in order to improve the accuracy or completeness of the information; provided that appending this information does not erase or obliterate any of the original information.  A health care provider shall do one of the following:
+     (1)  Append the information as requested; or
+     (2)  Notify the individual that the request has been denied, the reason for the denial, and that the individual may file a statement of reasonable length explaining the correctness or relevance of existing information or as to the addition of new information.  The statement or copies shall be appended to the medical record and at all times accompany that part of the information in contention.
+     §   -13  Notice of confidentiality practices; forms of notices.  (a)  For the purposes of this section only, "entity" means health care provider, health care data organization, health plan, health oversight agency, public health authority, employer, insurer, health researcher, or educational institution.
+     (b)  An entity shall prominently post or provide the current notice of the entity's confidentiality practices.  The notice shall be printed in clear type and composed in plain language.  This notice shall be given pursuant to the requirements of section   -22.  For the purpose of informing each individual of the importance of the notice and educating the individual about the individual's rights under this chapter, the notice shall contain the following language, placed prominently at the beginning:
+        IMPORTANT:  THIS NOTICE DEALS WITH THE SHARING OF INFORMATION FROM YOUR MEDICAL RECORDS.  PLEASE READ IT CAREFULLY.  This notice describes your confidentiality rights as they relate to information from your medical records and explains the circumstances under which information from your medical records may be shared with others.  The information in this notice also applies to others covered under your health plan, such as your spouse or children.  If you do not understand the terms of this notice, please ask for further explanation.
+In addition, as shall be appropriate to the size and nature of the entity, the notice shall include information about:
+     (1)  A description of an individual's rights with respect to protected health information which shall contain at a minimum, the following:
+         (A)  An individual's right to inspect and copy their record;
+         (B)  An individual's right to request that a health care provider append information to their medical record; and
+         (C)  An individual's right to receive this notice by each health plan upon enrollment, annually, and when confidentiality practices are substantially amended.
+     (2)  The uses and disclosures of protected health information authorized under this chapter including information about:
+         (A)  Payment;
+         (B)  Conducting quality assurance activities or outcomes assessments;
+         (C)  Reviewing the competence or qualifications of health care professionals;
+         (D)  Performing accreditation, licensing, or credentialing activities;
+         (E)  Analyzing health plan claims or health care records data;
+         (F)  Evaluating provider clinical performance;
+         (G)  Carrying out utilization management; or
+         (H)  Conducting or arranged for auditing services in accordance with statute, rule or accreditation requirements;
+     (3)  The right of the individual to limit disclosure of protected health information by deciding not to use any health insurance or other third party payment as payment for the service, as set forth in section    ‑21(c);
+     (4)  The procedures for giving consent to disclosures of protected health information and for revoking the consent to disclose;
+     (5)  The description of procedures established by the entity for the exercise of the individual's rights required under this chapter; and
+     (6)  The right to obtain a copy of the notice of confidentiality practices required under this chapter.
+     (b)  The actual procedures established by the entities for the exercise of individual rights under this part shall be available in writing upon request.
+     §   -14  Establishment of safeguards.  (a)  An entity shall establish and maintain administrative, technical, and physical safeguards that are appropriate to the size and nature of the entity establishing the safeguards, and that are appropriate to protect the confidentiality, security, accuracy, and integrity of protected health information created, received, obtained, maintained, used, transmitted, or disposed of by the entity.
+     (b)  The office of information practices shall adopt rules pursuant to chapter 91 to implement subsection (a).
+PART III.  RESTRICTIONS ON USE AND DISCLOSURE
+     §   -21  General rules regarding use and disclosure.  (a)  An entity shall not use or disclose protected health information except as authorized under this part and under part IV.  Disclosure of health information in the form of nonidentifiable health information shall not be construed as a disclosure of protected health information.
+     (b)  For the purpose of treatment or qualified health care operations, an entity may only use or disclose protected health information if the use or disclosure is properly noticed pursuant to sections    ‑13 and    ‑22.  For all other uses and disclosures, an entity may only use or disclose protected health information, if the use or disclosure is properly consented to pursuant to section    ‑23.  Disclosure to agents of an entity shall be considered as a disclosure within an entity.
+     (c)  If an individual does not want protected health information released pursuant to section (b), the individual shall advise the provider prior to the delivery of services that the relevant protected health information shall not be disclosed pursuant to subsection (b), and the individual shall pay the health care provider directly for health care services.  A health plan may decline to cover particular health care services if an individual has refused to allow the release of protected health care information pertaining to those particular health care services.  Protected health information related to health care services paid for directly by the individual shall not be disclosed without a consent.
+     (d)  An agent who receives protected health information from an entity shall be subject to all rules of disclosure and safeguard requirements under this part.
+     (e)  Every use and disclosure of protected health information shall be limited to the purpose for which it was collected.  Any other use without a valid consent to disclose shall be an unauthorized disclosure.
+     (f)  Nothing in this part permitting the disclosure of protected health information shall be construed to require disclosure.
+     (g)  An entity may disclose protected health information to an employee or agent of the entity not otherwise authorized to receive such information for purposes of creating nonidentifiable information, if the entity prohibits the employee or agent of the entity from using or disclosing the protected health information for purposes other than the sole purpose of creating nonidentifiable information, as specified by the entity.
+     (h)  Any individual or entity who manipulates or uses nonidentifiable health information to identify an individual, shall be deemed to have disclosed protected health information.  The disclosure or transmission of a unique patient identifier shall be deemed to be a disclosure of protected health information.
+     §   -22  Giving notice regarding disclosure of protected health information for treatment or qualified health care operations.  (a)  The notice required by section    ‑13 shall be:
+     (1)  Given by each health plan upon enrollment, annually, and when confidentiality practices are substantially amended, to each individual who is eligible to receive care under the health plan, or to the individual's parent or guardian if the individual is a minor or incompetent; and
+     (2)  Posted in a conspicuous place or provided by an entity other than a health plan.
+     (b)  For each new enrollment or re-enrollment by an individual in a health plan, on or after the effective date of this Act, a health plan shall make reasonable efforts to obtain the individual's signature on the notice of confidentiality practices.  The notice to be signed shall state that the individual is signing on behalf of the individual and all others covered by the individual's health plan.  If the plan is unable to obtain the aforementioned signature, the plan shall note the reason for the failure to obtain said signature.  The lack of a signed notice of confidentiality practices shall not justify a denial of coverage of a claim, nor shall it limit a health plan's access to information necessary for treatment and qualified health care operations; provided that the individual may elect to keep the records from being disclosed by paying for the subject health care services, as provided under section     -21(c).
+     (c)  Except as provided in this chapter, the notice required by this section and section     -13 shall not be construed as a waiver of any rights that the individual has under other federal or state laws, rules of evidence, or common law.
+     (d)  For the purposes of this subsection, "reasonable efforts" may include requiring the employer to present the notice to the individual and to request a signature, or mailing the notice to the individual with instructions to sign and return the notice within a specified period of time.
+     §   -23  Authorization to disclose protected health information other than for treatment, payment, or qualified health care operations.  (a)  An entity may disclose protected health information for purposes other than those noticed under section    ‑22, pursuant to a separate written authorization to disclose executed by the individual who is the subject of the information.  The authorization must meet the requirements of subsection (b).
+     (b)  To be valid, an authorization shall be separate from any other notice or authorization required by this part, shall be either in writing, dated, and signed by the individual, or in electronic form, dated, and authenticated by the individual using a unique identifier, shall not have been revoked, and shall do the following:
+     (1)  Identify the person or entity authorized to disclose protected health information;
+     (2)  Identify the individual who is the subject of the protected health information;
+     (3)  Describe the nature of and the time span of the protected health information to be disclosed;
+     (4)  Identify the person to whom the information is to be disclosed;
+     (5)  Describe the purpose of the disclosure;
+     (6)  State that it is subject to revocation by the individual and indicate that the consent to disclose is valid until revocation by the individual; and
+     (7)  Include the date at which the consent to disclose ends.
+     (c)  An individual may revoke in writing an authorization under this section at any time.  An authorization obtained by a health plan under this section is deemed to be revoked at the time of the cancellation or nonrenewal of enrollment in the health plan.  An entity that discloses protected health information pursuant to an authorization that has been revoked under this subsection shall not be subject to any liability or penalty under this part for the disclosure if that entity acted in good faith and had no actual or constructive notice of the revocation.
+     (d)  Sections    ‑31 to    ‑39 provide for exceptions to the requirement for the authorization.
+     (e)  A recipient of protected health information pursuant to an authorization under this section may use the information solely to carry out the purpose for which the information was authorized for release.
+     (f)  Each entity collecting or storing protected health information shall maintain for seven years, as part of an individual's protected health information, a record of each authorization by the individual and any revocation of authorization by the individual.
+PART IV.  EXCEPTED USES AND DISCLOSURES
+     §   -31  Coroner or medical examiner.  When a coroner or medical examiner or one of their duly appointed deputies seek protected health information for the purpose of inquiry into and determination of the cause, manner, and circumstances of a death, any person shall provide the requested protected health information to the coroner or medical examiner or to the duly appointed deputies without undue delay.  If a coroner or medical examiner or their duly appointed deputies receives protected health information, this protected health information shall remain protected health information unless it is attached to or otherwise made a part of a coroner's or medical examiner's official report.  Health information attached to or otherwise made a part of a coroner's or medical examiner's official report shall be exempt from this chapter.
+     §   -32  Individual's designated representative, relative, or surrogate, and directory information.  (a)  A health care provider, or a person who receives protected health information under subsection (b), may disclose protected health information regarding an individual to an individual's designated representative, relative, or surrogate if:
+     (1)  The individual who is the subject of the information:
+         (A)  Has been notified of the individual's right to object to the disclosure and the individual has  not objected to the disclosure; or
+         (B)  Is in a physical or mental condition such that  the individual is not capable of objecting, and  there are no prior indications that the  individual would object; and
+     (2)  The information disclosed is for the purpose of providing health care to that individual; or
+     (3)  The disclosure of the protected health information is consistent with good medical or professional practice.
+     (b)  Except as provided in subsection (d), a health care provider may disclose the information described in subsection (c) to any other person if the individual who is the subject of the information:
+     (1)  Has been notified of the individual's right to object and the individual has not objected to the disclosure; or
+     (2)  Is in a physical or mental condition such that the individual is not capable of objecting; and
+         (A)  The individual's designated representative, relative, or surrogate has not objected; and
+         (B)  There are no prior indications that the individual would object.
+     (c)  Information that may be disclosed in subsection (b) is only that information that consists of any of the following items:
+     (1)  The name of the individual who is the subject of the information;
+     (2)  The general health status of the individual, described as critical, poor, fair, stable, or satisfactory or in terms denoting similar conditions; or
+     (3)  The location of the individual on premises controlled by a provider.  This disclosure shall not be made if the information would reveal specific information about the physical or mental condition of the individual, unless the individual expressly authorizes the disclosure.
+     (d)  A disclosure shall not be made under this section if the health care provider involved has reason to believe that the disclosure of this information could lead to physical or mental harm to the individual, unless the individual expressly authorizes the disclosure.
+     §   -33  Identification of deceased individuals.  A health care provider may disclose protected health information if the disclosure is necessary to assist in the identification or safe handling of a deceased individual.
+     §   -34  Emergency circumstances.  Any person who creates or receives protected health information under this chapter may use or disclose protected health information in emergency circumstances when the use or disclosure is necessary to protect the health or safety of the individual who is the subject of the information from serious, imminent harm.  A disclosure made in the good faith belief that the use or disclosure was necessary to protect the health or safety of an individual from serious, imminent harm shall not be a violation of this chapter.
+     §   -35  Disclosures for health oversight.  (a)  Any person may disclose protected health information to a health oversight agency for purposes of an oversight function authorized by law.
+     (b)  For purposes of this section, the individual with authority to authorize the health oversight function involved shall provide to the person described in subsection (a) a statement that the protected health information is being sought for a legally authorized oversight function.
+     (c)  Protected health information about an individual that was obtained under this section may not be used in, or disclosed to any person for use in, an administrative, civil, or criminal action or investigation directed against the individual unless the action or investigation arises out of and is directly related to:
+     (1)  The receipt of health care or payment for health care;
+     (2)  An action involving a fraudulent claim related to health; or
+     (3)  An action involving oversight of a public health authority or a health researcher.
+     (d)  Protected health information disclosed for purposes of this section remains protected health information and shall not be further disclosed by the receiving health oversight agency, except as permitted under this section.
+     §   -36  Public health.  (a)  Any person or entity may disclose protected health information to a public health authority or other person authorized by law, for use in a legally authorized:
+     (1)  Disease or injury report;
+     (2)  Public health surveillance;
+     (3)  Public health investigation or intervention; or
+     (4)  Health or disease registry.
+     (b)  The disclosure of protected health information, pursuant this section, to a public health authority or other person authorized by law shall not be a violation of this part.
+     (c)  Protected health information disclosed for purposes of this section remains protected health information and shall not be further disclosed by the receiving authority or person, except as permitted under this section.
+     §   -37  Health research.  (a)  A health care provider, health plan, public health authority, employer, insurer, or educational institution may disclose protected health information to a health researcher if the following requirements are met:
+     (1)  The research shall have been approved by an institutional review board.  In evaluating a research proposal, an institutional review board shall require that the proposal demonstrate a clear purpose, scientific integrity, and a realistic plan for maintaining the confidentiality of protected health information.  Research not otherwise subjected by federal regulation to institutional review board review shall be subject only to the review requirements of this paragraph;
+     (2)  The health care provider, health plan, public health authority, employer, insurer, or educational institution shall only disclose protected health information which it has previously created or collected; and
+     (3)  The holder of protected health information shall keep a record of all health researchers to whom protected health information has been made available.
+     (b)  A health researcher who receives protected health information shall remove and destroy, at the earliest opportunity consistent with the purposes of the project involved, any information that would enable an individual to be identified.
+     (c)  A health researcher who receives protected health information shall not disclose or use the protected health information or unique patient identifiers for any purposes not reviewed by an institutional review board under this part or for any purposes other than the health research project for which the information was obtained, except that the health researcher may disclose the information pursuant to section   -35(a).
+     §   -38  Disclosure in civil, judicial, and administrative procedures.  (a)  Protected health information may be disclosed pursuant to a discovery request or subpoena in a civil action brought in a state court or a request or subpoena related to a state administrative proceeding, only if the disclosure is made pursuant to a court order as provided for in subsection (b) or to a written authorization under section    ‑23.
+     (b)  A court order issued under this section shall:
+     (1)  Provide that the protected health information involved is subject to court protection;
+     (2)  Specify to whom the information may be disclosed;
+     (3)  Specify that the information may not otherwise be disclosed or used; and
+     (4)  Meet any other requirements that the court determines are needed to protect the confidentiality of the information.
+     (c)  This section shall not apply in a case in which the protected health information sought under the discovery request or subpoena is:
+     (1)  Nonidentifiable health information; or
+     (2)  Related to a party to the litigation whose medical condition is at issue.
+     (d)  The release of any protected health information under this section shall not violate this part.
+     §   -39  Disclosure for civil or administrative law enforcement purposes.  (a)  For the purposes of this subsection only, "entity" means a health care provider, health plan, health oversight agency, employer, insurer, and educational institution.
+     (b)  Except as to disclosures to a health oversight agency, which are governed by section    ‑35, an entity or person who receives protected health information pursuant to sections    ‑23 and    ‑31 through    ‑37, may disclose protected health information under this section, if the disclosure is pursuant to:
+     (1)  An administrative subpoena or summons or judicial subpoena;
+     (2)  Consent in accordance with section   -23; or
+     (3)  A court order.
+     (c)  A subpoena or summons for a disclosure under subsection (b)(1) shall only be issued if the civil or administrative law enforcement agency involved shows that there is probable cause to believe that the information is relevant to a legitimate law enforcement inquiry.
+     (d)  When the matter or need for which protected health information was disclosed to a civil or administrative law enforcement agency under subsection (b) has concluded, including any derivative matters arising from the matter or need, the civil or administrative law enforcement agency shall either destroy the protected health information, or return all of the protected health information to the person from whom it was obtained.
+     (e)  To the extent practicable, and consistent with the requirements of due process, a civil or administrative law enforcement agency shall redact personally identifying information from protected health information prior to the public disclosure of the protected information in a judicial or administrative proceeding.
+     (f)  Protected health information obtained by a civil or administrative law enforcement agency pursuant to this section may only be used for purposes of a legitimate law enforcement activity.
+     (g)  If protected health information is obtained without meeting the requirements of subsection (b)(1), (2), or (3), any information that is unlawfully obtained shall be excluded from court proceedings unless the defendant requests otherwise.
+     §   -40  Payment card and electronic payment transaction.  (a)  If an individual pays for health care by presenting a debit, credit, or other payment card or account number, or by any other electronic payment means, the entity receiving payment may disclose to a person described in subsection (b) only such protected health information about the individual as is necessary for the processing of the payment transaction or the billing or collection of amounts charged to, debited from, or otherwise paid by, the individual using the card, number, or other electronic means.
+     (b)  A person who is a debit, credit, or other payment card issuer, or is otherwise directly involved in the processing of payment transactions involving such cards or other electronic payment transactions, or is otherwise directly involved in the billing or collection of amounts paid through these means, may use or disclose protected health information about an individual that has been disclosed in accordance with subsection (a) only when necessary for:
+     (1)  The settlement, billing, or collection of amounts charged to, debited from, or otherwise paid by the individual using a debit, credit, or other payment card or account number, or by other electronic payment means;
+     (2)  The transfer of receivables, accounts, or interest therein;
+     (3)  The internal audit of the debit, credit, or other payment card account information;
+     (4)  Compliance with federal, state, or county law; or
+     (5)  Compliance with a properly authorized civil, criminal, or regulatory investigation by federal, state, or county authorities as governed by the requirements of this section.
+     §   -41  Standards for electronic disclosures.  The office of information practices shall adopt rules to establish standards for disclosing, authorizing, and authenticating, protected health information in electronic form consistent with this part.
+     §   -42  Rights of minors.  (a)  In the case of an individual who is eighteen years of age or older, all rights of an individual under this chapter shall be exercised by the individual.
+     (b)  In the case of an individual of any age who, acting alone, can obtain a type of health care without violating any applicable federal or state law, and who has sought this care, the individual shall exercise all rights of an individual under this chapter with respect to health care.
+     (c)  Except as provided in subsection (b), in the case of an individual who is:
+     (1)  Under fourteen years of age, all of the individual's rights under this chapter shall be exercised only through the parent or legal guardian; or
+     (2)  At least fourteen but under eighteen years of age, the rights of inspection and amendment, and the right to authorize use and disclosure of protected health information of the individual may be exercised by the individual, or by the parent or legal guardian of the individual.  If the individual and the parent or legal guardian do not agree as to whether to authorize the use or disclosure of protected health information of the individual, the individual's authorization or revocation of authorization shall control.
+     §   -43  Deceased individuals.  This chapter shall continue to apply to protected health information concerning a deceased individual following the death of that individual.  A person who is authorized by law or by an instrument recognized under law, to act as a personal representative of the estate of a deceased individual, or otherwise to exercise the rights of the deceased individual, to the extent so authorized, may exercise and discharge the rights of the deceased individual under this chapter.
+PART V.  SANCTIONS
+     §   -51  Wrongful disclosure of protected health information.  (a)  A person who knowingly or intentionally obtains protected health information relating to an individual or discloses protected health information to another person in violation of this chapter shall be guilty of a class C felony.
+     (b)  A person who knowingly or intentionally sells, transfers, or uses protected health information for commercial advantage, personal gain, or malicious harm, in violation of this chapter shall be guilty of a class B felony.
+     §   -52  Civil actions by individuals.     (a)  Any individual whose rights under this chapter have been violated may bring a civil action against the person or entity responsible for the violation.
+     (b)  In any civil action brought under this section, if the court finds a violation of an individual's rights under this chapter, the court may award:
+     (1)  Injunctive relief, including enjoining a person or entity from engaging in a practice that violates this chapter;
+     (2)  Equitable relief;
+     (3)  Compensatory damages for injuries suffered by the individual.  Injuries compensable under this section may include, but are not limited to, personal injury including emotional distress, reputational injury, injury to property, and consequential damages;
+     (4)  Punitive damages, as appropriate;
+     (5)  Costs of the action;
+     (6)  Attorneys' fees, as appropriate; and
+     (7)  Any other relief the court finds appropriate.
+     (c)  No action may be commenced under this section after the time period stated in section 657-7.
+     §   -53  Cease and desist orders; civil penalty.  (a)  A court shall issue and cause to be served upon a person, who has violated any provision of this chapter, a copy of the court's findings and an order requiring the person to cease and desist from violating this chapter, or to otherwise comply with the requirements of this chapter.  The court may also order any one or more of the following:
+     (1)  For any violation of this chapter, payment of a civil penalty of not more than $500 for each and every act or violation but not to exceed $5,000 in the aggregate for multiple violations;
+     (2)  For a knowing violation of this chapter, payment of a civil penalty of not more than $25,000 for each and every act or violation but not to exceed $100,000 in the aggregate for multiple violations; and
+     (3)  For violations of this chapter that have occurred with such frequency as to constitute a general business practice, a civil penalty of $100,000.
+     (b)  Any person who violates a cease and desist order or injunction issued under this section may be subject to a civil penalty of not more than $10,000 for each and every act in violation of the cease and desist order.
+     (c)  No order or injunction issued under this section shall in any way relieve or absolve any person affected by the order from any other liability, penalty, or forfeiture required by law.
+     (d)  Any civil penalties collected under this section shall be deposited into the general fund.
+     §   -54  Prevention and deterrence.  To promote the prevention and deterrence of acts or omissions that violate laws designed to safeguard the protected health information in a manner consistent with this chapter, the director of the office of information practices, with any other appropriate individual, organization, or agency, may provide advice, training, technical assistance, and guidance regarding ways to prevent improper disclosure of protected health information.
+     §   -55  Relationship to other laws.  (a)  Nothing in this chapter shall be construed to preempt or modify any provisions of state law concerning a privilege of a witness or person in a court of the State.  Receipt of notice pursuant to section   -22 or consent to disclose pursuant to section    -23 shall not be construed as a waiver of these privileges.
+     (b)  Nothing in this chapter shall be construed to preempt, supersede, or modify the operation of any state law that:
+     (1)  Provides for the reporting of vital statistics such as birth or death information;
+     (2)  Requires the reporting of abuse or neglect information about any individual;
+     (3)  Relates to public or mental health and that prevents or otherwise restricts disclosure of information otherwise permissible under this chapter, except that if this chapter is more protective of information, it shall prevail;
+     (4)  Governs a minor's right to access protected health information or health care services; or
+     (5)  Meets any other requirements that the court determines are needed to protect the confidentiality of the information."
+     SECTION 2.  If any provision of this Act, or the application thereof to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of the Act, which can be given effect without the invalid provision or application, and to this end the provisions of this Act are severable.
+     SECTION 3.  This Act shall take effect on July 1, 2011.
+               
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+Report Title:
+Health Care Information Privacy
+ 
+Description:
+Stipulates conditions under which health care information can be disclosed.  Provides penalties.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

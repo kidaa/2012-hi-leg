@@ -1,0 +1,77 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1671
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PROCUREMENT.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 103D, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§103D-     Procurement statistics.  The state procurement office shall keep statistics on solicitations and awards protested under section 103D-701 for the purpose of improving procurement procedures.  The statistics shall include information on protests involving inadvertent errors and amounts forfeited from procurement protests."
+     SECTION 2.  Section 103D-709, Hawaii Revised Statutes, is amended to read as follows:
+     "§103D-709  Administrative proceedings for review.  (a)  The several hearings officers appointed by the director of the department of commerce and consumer affairs pursuant to section 26-9(f) shall have jurisdiction to review and determine de novo, any request from any bidder, offeror, contractor, or person aggrieved under section 103D-106, or governmental body aggrieved by a determination of the chief procurement officer, head of a purchasing agency, or a designee of either officer under section 103D-310, 103D-701, or 103D-702.
+     (b)  Hearings to review and determine any request made pursuant to subsection (a) shall commence within twenty-one calendar days of receipt of the request.  The hearings officers shall have power to issue subpoenas, administer oaths, hear testimony, find facts, make conclusions of law, and issue a written decision not later than forty-five days from the receipt of the request under subsection (a), which shall be final and conclusive unless a person or governmental body adversely affected by the decision commences an appeal in the circuit court of the circuit where the case or controversy arises under section 103D-710.
+     (c)  Only parties to the protest made and decided pursuant to sections 103D-701, 103D-709(a), 103D-310(b), and [[]103D-702(g)[]] may initiate a proceeding under this section.  The party initiating the proceeding shall have the burden of proof, including the burden of producing evidence as well as the burden of persuasion.  The degree or quantum of proof shall be a preponderance of the evidence.  All parties to the proceeding shall be afforded an opportunity to present oral or documentary evidence, conduct cross-examination as may be required, and argument on all issues involved.  [The rules of evidence shall apply.] Fact finding under section 91-10 shall apply.
+     (d)  Any bidder, offeror, contractor, or person that is a party to a protest of a solicitation or award of a contract under section 103D-302 or 103D-303 that is decided pursuant to section 103D-701 may initiate a proceeding under this section; provided that:
+     (1)  For contracts with an estimated value of less than $1,000,000, the protest concerns a matter that is greater than $10,000; or
+     (2)  For contracts with an estimated value of $1,000,000 or more, the protest concerns a matter that is equal to no less than ten per cent of the estimated value of the contract.
+     (e)  The party initiating a proceeding falling within subsection (d) shall pay to the department of commerce and consumer affairs a cash or protest bond in the amount of:
+     (1)  $1,000 for a contract with an estimated value of less than $500,000;
+     (2)  $2,000 for a contract with an estimated value of at least $500,000, but less than $1,000,000; or
+     (3)  One-half per cent of the estimated value of the contract if the estimated value of the contract is $1,000,000 or more; provided that the required amount of the cash or protest bond shall not be more than $10,000.
+     If the initiating party prevails in the administrative proceeding, the cash or protest bond shall be returned to that party.  If the initiating party does not prevail in the administrative proceeding, the cash or protest bond shall be deposited into the general fund.
+     [(d)] (f)  The hearings officers shall ensure that a record of each proceeding which includes the following is compiled:
+     (1)  All pleadings, motions, intermediate rulings;
+     (2)  Evidence received or considered, including oral testimony, exhibits, and a statement of matters officially noticed;
+     (3)  Offers of proof and rulings thereon;
+     (4)  Proposed findings of fact;
+     (5)  A recording of the proceeding which may be transcribed if judicial review of the written decision is sought under section 103D-710.
+     [(e)] (g)  No action shall be taken on a solicitation or an award of a contract while a proceeding is pending, if the procurement was previously stayed under section 103D-701(f).
+     [(f)] (h)  The hearings officer shall decide whether the determinations of the chief procurement officer or the chief procurement officer's designee were in accordance with the Constitution, statutes, rules, and the terms and conditions of the solicitation or contract, and shall order such relief as may be appropriate in accordance with this chapter.
+     [(g)] (i)  The policy board shall adopt such other rules as may be necessary to ensure that the proceedings conducted pursuant to this section afford all parties an opportunity to be heard.
+     (j)  As used in this section, "estimated value of the contract" or "estimated value", with respect to a contract, means either the amount of the lowest responsible and responsive bid under section 103D-302 or the bid amount of the responsible offeror whose proposal is determined in writing to be the most advantageous under section 103D-303, as applicable."
+     SECTION 3.  Section 103D-710, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending subsection (c) to read:
+     "(c)  Within [twenty] ten calendar days of the filing of an application for judicial review, the hearings officer shall transmit the record of the administrative proceedings to the circuit court of the circuit where the case or controversy arises."
+     2.  By amending subsection (e) to read:
+     "(e)  [Upon] No later than thirty days from the filing of the application for judicial review, based upon review of the record the circuit court may affirm the decision of the hearings officer issued pursuant to section 103D-709 or remand the case with instructions for further proceedings; or it may reverse or modify the decision and order if substantial rights may have been prejudiced because the administrative findings, conclusions, decisions, or orders are:
+     (1)  In violation of constitutional or statutory provisions;
+     (2)  In excess of the statutory authority or jurisdiction of the chief procurement officer or head of the purchasing agency;
+     (3)  Made upon unlawful procedure;
+     (4)  Affected by other error of law;
+     (5)  Clearly erroneous in view of the reliable, probative, and substantial evidence on the whole record; or
+     (6)  Arbitrary, or capricious, or characterized by abuse of discretion or clearly unwarranted exercise of discretion[.];
+provided that if an application for judicial review is not resolved by the thirtieth day from the filing of the application, the circuit court shall lose jurisdiction and the decision of the hearings officer shall not be disturbed.  All time limitations on actions, as provided for in section 103D‑712, shall remain in effect."
+     SECTION 4.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun, before its effective date.
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Procurement Code; Protest; Administrative Proceedings
+ 
+Description:
+Imposes time limits on rendering administrative and judicial review decisions; limits protests to those that are a minimum percentage of the contract value; requires posting of a protest bond, to be forfeited if the protesting party does not prevail.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,103 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1403
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PLANNING.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that given Hawaii's limited natural resources, the implementation of smart growth principles, including the preservation of open space, is crucial to the sustainability of the islands.  There are ten principles of smart growth:
+     (1)  Creating a range of housing opportunities and choices;
+     (2)  Creating walkable neighborhoods;        
+     (3)  Encouraging community and stakeholder collaboration;
+     (4)  Fostering distinctive, attractive communities with a strong sense of place;
+     (5)  Making development decisions predictable, fair, and cost-effective;
+     (6)  Mixing land uses;
+     (7)  Preserving open space, farmland, natural beauty, and critical environmental areas;
+     (8)  Providing a variety of transportation choices;
+     (9)  Strengthening and directing development toward existing communities; and
+    (10)  Taking advantage of compact building design.
+     Smart growth principles are most successful when the State makes systemic changes that are consistent with these principles in community planning and development, as well as land preservation.  Several other states have implemented similar programs successfully.  For example, Maryland has implemented a series of legislation promoting smart growth, and Florida has implemented a greenways and trails program to provide more recreational opportunities and venues.
+     The purpose of this Act is to promote smart growth and sustainability in the State by requiring the office of planning to develop and promote the use of smart growth principles in new and existing communities.
+     SECTION 2.  Chapter 225M, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§225M-    Smart growth coordination.  (a)  The office of planning shall coordinate efforts to incorporate the principles of smart growth in new and existing communities in the State, including:
+     (1)  Gathering and disseminating information to the counties and the public, including nonprofit organizations and developers, on how to develop projects in a manner that is consistent with the principles of smart growth;
+     (2)  Providing a single point of access for individuals or organizations that need assistance or guidance in navigating the processes and regulations of state agencies on projects that are consistent with the principles of smart growth; and
+     (3)  Coordinating the efforts of the governor and executive branch to provide input to the legislature on legislation relating to smart growth and neighborhood conservation.
+     (b)  The principles of smart growth are:
+     (1)  Creating a range of housing opportunities and choices;
+     (2)  Creating walkable neighborhoods;
+     (3)  Encouraging community and stakeholder collaboration;
+     (4)  Fostering distinctive, attractive communities with a strong sense of place;
+     (5)  Making development decisions predictable, fair, and cost-effective;
+     (6)  Mixing land uses;
+     (7)  Preserving open space, farmland, natural beauty, and critical environmental areas;
+     (8)  Providing a variety of transportation choices;
+     (9)  Strengthening and directing development toward existing communities; and
+    (10)  Taking advantage of compact building design.
+     (c)  The office of planning shall submit an annual report, including the activities of the office relating to smart growth and the implementation of smart growth projects, to the legislature no later than twenty days prior to the convening of each regular session."
+     SECTION 3.  Section 225M-1, Hawaii Revised Statutes, is amended to read as follows:
+     "§225M-1  Purpose.  The purpose of this chapter is to establish an office of planning to assist the governor and the director of business, economic development, and tourism in maintaining an overall framework to guide the development of the State through a continuous process of comprehensive, long-range, and strategic planning to meet the physical, economic, and social needs of Hawaii's people, and provide for the wise use of Hawaii's resources in a coordinated, efficient, and economical manner, including the conservation of those natural, environmental, recreational, scenic, historic, and other limited and irreplaceable resources [which are required for future generations].
+     The establishment of an office of planning in the department of business, economic development, and tourism, for administrative purposes, is intended to:
+     (1)  Fix responsibility and accountability to successfully carry out statewide planning programs, policies, and priorities;
+     (2)  Improve the efficiency and effectiveness of the operations of the executive branch;
+     (3)  Ensure comprehensive planning and coordination to enhance the quality of life of the people of Hawaii[.]; and
+     (4)  Develop and promote the use of smart growth principles in new and existing communities."
+     SECTION 4.  Section 225M-2, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  The office of planning shall gather, analyze, and provide information to the governor to assist in the overall analysis and formulation of state policies and strategies to provide central direction and cohesion in the allocation of resources, [and effectuation of] implement state activities and programs, and effectively address current or emerging issues and opportunities.  More specifically, the office shall engage in the following activities:
+     (1)  State comprehensive planning and program coordination.  Formulating and articulating comprehensive statewide goals, objectives, policies, and priorities, and coordinating their implementation through the statewide planning system established in part II of chapter 226;
+     (2)  Strategic planning.  Identifying and analyzing significant issues, problems, and opportunities confronting the State, and formulating strategies and alternative courses of action in response to identified problems and opportunities by:
+         (A)  Providing in-depth policy research, analysis, and recommendations on existing or potential areas of critical state concern;
+         (B)  Examining and evaluating the effectiveness of state programs in implementing state policies and priorities;
+         (C)  Monitoring through surveys, environmental scanning, and other techniques[--] the current social, economic, and physical conditions and trends; and
+         (D)  Developing, in collaboration with affected public or private agencies and organizations, implementation plans and schedules and, where appropriate, assisting in the mobilization of resources to meet identified needs;
+     (3)  Planning coordination and cooperation.  Facilitating coordinated and cooperative planning and policy development and implementation activities among state agencies and between the state, county, and federal governments, by:
+         (A)  Reviewing, assessing, and coordinating, as necessary, major plans, programs, projects, and regulatory activities existing or proposed by state and county agencies;
+         (B)  Formulating mechanisms to simplify, streamline, or coordinate interagency development and regulatory processes; and
+         (C)  Recognizing the presence of federal defense and security forces and agencies in the State as important state concerns;
+     (4)  Statewide planning and geographic information system.  Collecting, integrating, analyzing, maintaining, and disseminating various forms of data and information, including geospatial data and information, to further effective state planning, policy analysis and development, and delivery of government services by:
+         (A)  Collecting, assembling, organizing, evaluating, and classifying existing geospatial and non-geospatial data and performing necessary basic research, conversions, and integration to provide a common database for governmental planning and geospatial analyses by state agencies;
+         (B)  Planning, coordinating, and maintaining a comprehensive, shared statewide planning and geographic information system and associated geospatial database.  The office shall be the lead agency responsible for coordinating the maintenance of the multi-agency, statewide planning and geographic information system and coordinating, collecting, integrating, and disseminating geospatial data sets that are used to support a variety of state agency applications and other spatial data analyses to enhance decision-making.  The office shall promote and encourage free and open data sharing among and between all government agencies.  To ensure the maintenance of a comprehensive, accurate, up-to-date geospatial data resource that can be drawn upon for decision making related to essential public policy issues such as land use planning, resource management, homeland security, and the overall health, safety, and well-being of Hawaii's citizens, and to avoid redundant data development efforts, state agencies shall provide to the shared system either their respective geospatial databases or, at a minimum, especially in cases of secure or confidential data sets that cannot be shared or must be restricted, metadata describing existing geospatial data.  In cases where agencies provide restricted data, the office of planning shall ensure the security of that data; and
+         (C)  Maintaining a centralized depository of state and national planning references;
+     (5)  Land use planning.  Developing and presenting the position of the State in all boundary change petitions and proceedings before the land use commission, assisting state agencies in the development and submittal of petitions for land use district boundary amendments, and conducting periodic reviews of the classification and districting of all lands in the State, as specified in chapter 205;
+     (6)  Coastal and ocean policy management.  Carrying out the lead agency responsibilities for the Hawaii coastal zone management program, as specified in chapter 205A.  Also, developing and maintaining an ocean and coastal resources information, planning, and management system further developing and coordinating implementation of the ocean resources management plan, and formulating ocean policies with respect to the exclusive economic zone, coral reefs, and national marine sanctuaries;
+     (7)  Regional planning and studies.  Conducting plans and studies to determine:
+         (A)  The capability of various regions within the State to support projected increases in both resident populations and visitors;
+         (B)  The potential physical, social, economic, and environmental impact on these regions resulting from increases in both resident populations and visitors;
+         (C)  The maximum annual visitor carrying capacity for the State by region, county, and island; and
+         (D)  The appropriate guidance and management of selected regions and areas of statewide critical concern.
+          The studies in subparagraphs (A) to (C) shall be conducted at appropriate intervals, but not less than once every five years; [and]
+     (8)  Smart growth.  Developing, planning, and coordinating the implementation of smart growth principles, including infill development; and
+    [(8)] (9)  Regional, national, and international planning.  Participating in and ensuring that state plans, policies, and objectives are consistent, to the extent practicable, with regional, national, and international planning efforts."
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+Report Title:
+Development; Smart Growth; Sustainability
+ 
+ 
+Description:
+Requires the Office of Planning to coordinate smart growth planning. 
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

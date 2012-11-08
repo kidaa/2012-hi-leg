@@ -1,0 +1,87 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2514
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PUBLIC SAFETY.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  In June 2011, the Governor, Chief Justice, Senate President, House Speaker and Department of Public Safety Director joined together to begin developing a data-driven justice reinvestment strategy to bring out-of-state prisoners back to Hawaii, reduce spending on corrections, and reinvest savings generated in strategies that would reduce recidivism and crime, and increase public safety.  To this end, they sought assistance from the Bureau of Justice Assistance, a division of the U.S. Department of Justice, and the Pew Center on the States.  The state leaders established a bipartisan, inter-branch Justice Reinvestment Working Group comprising leading state and local officials to receive intensive technical assistance from the Council of State Governments (CSG) Justice Center.  The CSG Justice Center assisted the working group in analyzing data from every aspect of Hawaii's criminal justice and corrections systems.
+     Overall, the analysis found that crime and victimization rates have declined, as have arrests and felony convictions for violent and property crime.
+     While crime rates have declined, the population under probation supervision and incarcerated has not declined, and in some cases has increased.  From FY 2000 to FY 2011, the state's prison and jail population grew 18 percent, from 5,118 to 6,043.  During the same period, expenditures for the Corrections Division of the Department of Public Safety increased 70 percent, from $112 million in FY 2000 to $190 million in FY 2011.  Approximately one-third of Hawaii's prison population is housed in out-of-state facilities on the mainland.  The cost of housing these offenders out-of-state was $45 million in FY 2011.
+     Analysis of the data from Hawaii's criminal justice and corrections systems identified three areas for improvement:  pre-trial process, parole, and payment of restitution.
+PART I
+     SECTION 2.  The pre-trial population has increased due to longer lengths of stay.  The purpose of this part of the bill is to provide the court with a more timely assessment of a person's risk to reoffend or likelihood of not appearing for court. Section 353-10 is amended to require that an objective assessment is conducted within the first three working days of a person's commitment to a community correctional center in order to allow the courts to more quickly determine who is appropriate for release on their own recognizance, to supervision, or to bail.
+     SECTION 3.  Section 353.10, Hawaii Revised Statutes, is amended to read as follows:
+     "§353-10  Reentry intake service centers.  There shall be within the department of public safety, a reentry intake service center for adults in each of the counties, to screen, evaluate, and classify the admission of persons to community correctional centers and to provide for the successful reentry of persons back into the community.  Each center shall be directed and managed by a manager and shall be staffed by a team of psychiatrists, social workers, technicians, and other personnel as may be necessary.  The director of public safety may appoint full-time or part-time professional and clerical staff or contract for professional services to carry out the duties of the centers as identified in this section.
+     The centers shall:
+     (1)  Provide orientation, guidance, and technical services;
+     (2)  Provide social-medical-psychiatric-psychological diagnostic evaluation;
+     (3)  Provide pretrial risk assessments on adult offenders for the courts [and assist in the conduct of presentence assessments on adult offenders and the preparation of presentence reports when requested by the courts;] within three working days of admission to a community correctional center.  "Pretrial risk assessment" means an objective, research based, validated assessment tool that measures a defendant's risk of flight and risk of anticipated criminal conduct while on pretrial release pending adjudication.  Offenders excluded from this section include persons with local, state or federal detainers or holds, persons detained without bail, persons detained for probation violation, persons facing revocation of bail or supervised release, and persons who have had a pretrial risk assessment completed prior to admission to a community correctional center;
+     (4)  Assist in the conduct of presentence assessments on adult offenders and the preparation of presentence reports when requested by the courts;
+    [(4)] (5)  Provide correctional prescription program planning and security classification;
+    [(5)] (6)  Provide such other personal and correctional services as needed for both detained and committed persons;
+    [(6)] (7)  Monitor and record the progress of persons assigned to correctional facilities who undergo further treatment or who participate in prescribed correctional programs;
+    [(7)] (8)  Ensure that the present and future reentry needs of persons committed to correctional facilities are being evaluated and met in an effective and appropriate manner;
+    [(8)] (9)  Provide additional reentry services to include working closely and collaborating with the furlough programs in each county that are currently managed by the department's institutions division;
+    [(9)] (10)  Work closely and collaborate with the Hawaii paroling authority; and
+   [(10)] (11)  Work closely and collaborate with the corrections program services division."
+PART II
+     SECTION 4.  The number of prisoners denied parole has increased.  The purpose of this part of the bill is to increase the number of parole board members, require the parole board to use an objective risk assessment to determine which programs to require offenders to complete prior to release, in order to focus resources on the offenders most likely to benefit from programming and supervision, and to reduce recidivism by using swift and certain, yet less costly and severe responses to parole condition violations.
+     SECTION 5.  Section 353-61, Hawaii Revised Statutes, is amended to read as follows:
+     "§353-61  Hawaii paroling authority; appointment; tenure; qualifications.  Members of the paroling authority shall be nominated by a panel composed of the chief justice of the Hawaii supreme court, the director, the president of the bar association of Hawaii, a representative designated by the head of the Interfaith Alliance Hawaii, a member from the general public to be appointed by the governor, and the president of the Hawaii chapter of the National Association of Social Workers.  The panel shall submit to the governor the names of not less than three persons, designated as the nominees, for chairperson or as a member, for each vacancy.  The requirement for nomination by the panel established under this section shall only apply to a nominee's nomination by the governor to an initial term on the paroling authority and not to any subsequent consecutive term of a sitting paroling authority member or chairperson whose initial appointment to office was made pursuant to a nomination by the panel.  The governor shall appoint, in the manner prescribed by section 26-34, a paroling authority to be known as the Hawaii paroling authority, to consist of [three] four members one of whom shall be designated chairperson.  Appointments shall be made for terms of four years, commencing from the date of expiration of the last preceding term.  Any vacancy in an unexpired term shall be filled by appointment for the remainder of the unexpired term.  Nominees to the authority shall be selected on the basis of their qualifications to make decisions that will be compatible with the welfare of the community and of individual offenders, including their background and ability for appraisal of offenders and the circumstances under which offenses were committed."
+     SECTION 6.  Section 353-63, Hawaii Revised Statutes, is amended to read as follows:
+     "§353-63  Service of Hawaii paroling authority members; compensation; expenses.  The chairperson of the Hawaii paroling authority shall serve on a full-time basis.  The other [two] three members shall serve on a part-time basis.  Effective July 1, 2005, the chairperson of the Hawaii paroling authority shall be paid a salary set at eighty-seven per cent of the salary of the director of public safety.  The compensation of each of the part-time members shall be eighty per cent of the hourly wage paid the chairperson.  For each hour engaged in the official duties of the authority, each part-time member of the authority shall be paid an hourly wage at the percentage rate specified in this section based on the hourly wage paid the chairperson; provided that compensation shall not exceed eighty per cent of the total regular working hours in a month; provided further that part-time members shall not be entitled to any vacation, sick leave, or other benefits except as provided in this section.  All paroling authority members shall receive their necessary expenses for travel and incidentals which shall be paid from appropriations provided the authority for such purposes, on vouchers approved by the director of public safety."
+     SECTION 7.  Section 706-670, Hawaii Revised Statutes, is amended by amending subsection (1) to read as follows:
+     "(1)  Parole hearing.  A person sentenced to an indeterminate term of imprisonment shall receive an initial parole hearing at least one month before the expiration of the minimum term of imprisonment determined by the Hawaii paroling authority pursuant to section 706-669.  If the person has been sentenced to multiple terms of imprisonment, the parole hearing shall not be required until at least one month before the expiration of the minimum term which expires last in time.  A validated risk assessment shall be used to determine the person's risk of re-offense and suitability for community supervision.  "Validated risk assessment" means an actuarial tool scientifically proven to determine a person's likelihood of committing future criminal behavior.  The department of public safety shall select a research based risk assessment tool and shall validate the accuracy of the risk assessment tool at least every three years.  A person who is assessed as low risk for re-offending shall be granted parole upon completing their minimum sentence, unless the inmate:
+    (a)   Is found to have committed a misconduct while in prison that is equivalent to a misdemeanor or felony crime within two years of the expiration of the minimum term of imprisonment;
+    (b)   Has any pending felony charges;
+    (c)   Is incarcerated for a sex offense as defined in Part V. or child abuse as defined in Part VI., Chapter 707 HRS and has not completed Sex Offender Treatment Program successfully; or
+    (d)   Has local, state or federal detainers or holds. 
+If parole is not granted at that time, additional hearings shall be held at twelve-month intervals or less until parole is granted or the maximum period of imprisonment expires.  The State shall have the right to be represented at the initial parole hearing and all subsequent parole hearings by the prosecuting attorney, who may present written testimony and make oral comments, and the authority shall consider the testimony and comments in reaching its decision.  The authority shall notify the appropriate prosecuting attorney of the hearing at the time the prisoner is given notice of the hearing."
+     SECTION 8.  Section 353-66, Hawaii Revised Statutes, is amended by amending subsection (e) to read as follows:
+     "(e)  Any paroled prisoner retaken and reimprisoned as provided in this chapter shall be confined according to the paroled prisoner's sentence for that portion of the paroled prisoner's term remaining unserved at time of parole, but successive paroles may, in the discretion of the paroling authority, be granted to the prisoner during the life and in respect of the sentence.  If the paroled prisoner is retaken and reimprisoned for violating a condition of parole but has not been charged with a new felony offense, absconded or left the state without permission from the paroling authority, violated conditions applicable to sex offenders such as registering as a sex offender or conditions related to proximity to specified locations or persons, or been previously reimprisoned for violating the conditions of parole on the current offense, the paroled prisoner shall be confined for no more than six months or for that portion of the paroled prisoner's term remaining unserved at time of parole, whichever is shorter.  The six month period of confinement shall not start until the paroling authority has revoked the parole of the prisoner.  The prisoner shall be given credit for time served in custody pending a hearing on revocation of parole."
+PART III
+     SECTION 9.  The purpose of this part of the bill is to ensure accountability for victims and offenders by improving how restitution is collected by the department of public safety and ensuring all felony offenders are supervised for at least some minimum period of time after their release from incarceration.
+     SECTION 10.  Section 353-22.6, Hawaii Revised Statutes, is amended to read as follows:
+     "§353-22.6  Victim restitution.  The director of public safety shall enforce victim restitution orders against all moneys earned, deposited or credited to an inmate's individual account by the prisoner while incarcerated.  The amount deducted shall be [ten per cent] twenty-five percent of the [prisoner's annual earnings.] total of all moneys earned, new deposits and credits to the inmate's individual account.  The moneys shall be deducted monthly and paid to the victim once the amount reaches twenty-five dollars, or annually, whichever is sooner.  This section shall not apply to moneys earned on work furlough pursuant to section 353-17."
+     SECTION 11.  Section 353-69, Hawaii Revised Statutes, is amended to read as follows:
+     "§353-69  Parole when.  Except as provided for in section 706-670, no parole shall be granted unless it appears to the Hawaii paroling authority that there is a reasonable probability that the prisoner concerned will live and remain at liberty without violating the law and that the prisoner's release is not incompatible with the welfare and safety of society."
+     SECTION 12.  Section 706-670, Hawaii Revised Statutes, is amended by amending subsection (5) to read as follows:
+     "(5)  [Release upon expiration of maximum term.  If the authority fixes no earlier release date, a prisoner's release shall become mandatory at the expiration of the prisoner's maximum term of imprisonment.]  Supervised parole release prior to the expiration of the maximum term.  Notwithstanding section 706-605 (1)(c), if the authority fixes no earlier release date or has not released a prisoner upon completion of a set minimum term, a prisoner shall be released to parole based on the longest term of imprisonment as follows:
+    (a)   Class A felony, eighteen months prior to the expiration of the maximum term;
+    (b)   Class B felony, twelve months prior to the expiration of the maximum term; and
+    (c)   Class C felony, six months prior to the expiration of the maximum term.
+No prisoner shall be incarcerated beyond the expiration of the prisoner's maximum term of imprisonment."
+     SECTION 13.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 14.  This Act shall take effect upon July 1, 2012 except for the following sections.  Section 3 shall take effect January 1, 2013.  Sections 7 and 12 shall take effect upon July 1, 2012, for those individuals committing an offense on or after that date.  Sections 8 shall take effect on July 1, 2012 for any individual on parole supervision on or after July 1, 2012.  Section 10 shall take effect January 1, 2013.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Relating to Public Safety.
+ 
+Description:
+Based on analysis and policy options developed as part of the justice reinvestment initiative. Amends statutes to require a pre-trial risk assessment to be conducted within three working; expand the parole board and require the use of validated risk assessments to guide parole decisions; limit length of incarceration for first-time parole violators; increase victim restitution payments by inmates; require a period of parole supervision prior to the maximum sentence date.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

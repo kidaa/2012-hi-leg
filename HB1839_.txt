@@ -1,0 +1,68 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1839
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO WATER SERVICE CONSUMPTION DATA.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that the need for government transparency must be balanced with the duty to protect the privacy of individuals.
+     Section 92F-12, Hawaii Revised Statutes, ensures that certain government records are available to the public.  The law further specifies that water service consumption data maintained by the boards of water supply of the respective counties be made available for public inspection and duplication during regular business hours. 
+     The legislature intended for this law to ensure that water consumption data be available and accessible to consumers (i.e., a water consumer is able to learn how much water the consumer has used).  However, because the statute does not specify whether this information should be made available to non-consumers as well, the county boards of water supply have made this information available to anyone who has requested it.
+     One such non-consumer used this particular statute to access the residence address of a person who had obtained a domestic violence temporary restraining order against the non-consumer, thereby jeopardizing the health, welfare, and safety of that individual.
+     The legislature asserts that this law was never intended to allow others access to personal information except for water consumption data relevant to the consumer’s own service consumption of water. 
+     Accordingly, the purpose of this Act is to clarify the accessibility of water service consumption data by the public.
+     SECTION 2.  Section 92F-12, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  Any other provision in this chapter to the contrary notwithstanding, each agency shall make available for public inspection and duplication during regular business hours:
+(1)  Rules of procedure, substantive rules of general applicability, statements of general policy, and interpretations of general applicability adopted by the agency;
+(2)  Final opinions, including concurring and dissenting    opinions, as well as orders made in the adjudication of cases, except to the extent protected by section 92F-13(1);
+(3)  Government purchasing information, including all bid results, except to the extent prohibited by section 92F-13;
+(4)  Pardons and commutations, as well as directory information concerning an individual's presence at any correctional facility;
+(5)  Land ownership, transfer, and lien records, including real property tax information and leases of state land;
+(6)  Results of environmental tests;
+(7)  Minutes of all agency meetings required by law to be public;
+(8)  Name, address, and occupation of any person borrowing funds from a state or county loan program, and the amount, purpose, and current status of the loan;
+(9)  Certified payroll records on public works contracts except social security numbers and home addresses;
+(10) Regarding contract hires and consultants employed by agencies:
+(A)  The contract itself, the amount of compensation;
+(B)  The duration of the contract; and
+(C)  The objectives of the contract,
+except social security numbers and home addresses;
+(11) Building permit information within the control of the agency;
+(12) Water service consumption data maintained by the boards of water supply; provided that for purposes of this paragraph, "water service consumption data" shall not include the service holder's mailing address, amounts paid by or owed to the service holder for water or sewer services, or an individual's service location;
+(13) Rosters of persons holding licenses or permits granted by an agency that may include name, business address, type of license held, and status of the license;
+(14) The name, compensation (but only the salary range for employees covered by or included in chapter 76, and sections 302A-602 to 302A-640, and 302A-701, or bargaining unit (8)), job title, business address, business telephone number, job description, education and training background, previous work experience, dates of first and last employment, position number, type of appointment, service computation date, occupational group or class code, bargaining unit code, employing agency name and code, department, division, branch, office, section, unit, and island of employment, of present or former officers or employees of the agency; provided that this paragraph shall not require the creation of a roster of employees; and provided further that this paragraph shall not apply to information regarding present or former employees involved in an undercover capacity in a law enforcement agency;
+(15) Information collected and maintained for the purpose of making information available to the general public; and
+(16) Information contained in or compiled from a transcript, minutes, report, or summary of a proceeding open to the public."
+     SECTION 2.  New statutory material is underscored.
+     SECTION 3.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Public Access; Water Service Consumption Data
+ 
+Description:
+Clarifies that a water service holder’s mailing address, amounts paid by or owed to the service holder for water or sewer services, and an individual’s service location shall not be made available for public inspection or duplication.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

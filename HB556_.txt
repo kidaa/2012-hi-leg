@@ -1,0 +1,99 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+556
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO STATUTES OF LIMITATIONS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that recent advancements in DNA technology have improved law enforcement's ability to use DNA to solve cold cases.  These advancements in DNA technology have substantially increased the successful DNA analysis of aged, degraded, or limited samples of biological evidence.
+     These advancements are especially relevant to solving cases of sexual assault and sexual abuse of children.  In such cases DNA evidence, which may assist in solving cases and provide justice to victims, may surface after the statute of limitations has expired.  The legislature finds that, in light of advancements in DNA technology, crimes involving sexual assault and abuse of children should not be subject to the statute of limitations.
+     The purpose of this Act is to repeal the statute of limitations for felonies found in parts V and VI of chapter 707, Hawaii Revised Statutes.
+     SECTION 2.  Section 701-108, Hawaii Revised Statutes, is amended by amending subsection (6) to read as follows:
+     "(6)  The period of limitation does not run:
+     (a)  During any time when the accused is continuously absent from the State or has no reasonably ascertainable place of abode or work within the State, but in no case shall this provision extend the period of limitation by more than four years from the expiration of the period of limitation prescribed in subsection (2);
+     (b)  During any time when a prosecution against the accused for the same conduct is pending in this State; or
+     (c)  For any felony offense under chapter 707, part V or VI[, during any time when the victim is alive and under eighteen years of age]."
+     SECTION 3.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun, before its effective date.
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.
+     SECTION 5.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+ 
+Report Title:
+Statutes of Limitations; Sexual Assault; Child Abuse
+ 
+Description:
+Removes the statute of limitations for any felony offense under chapter 707, part V relating to sexual offenses and part VI relating to child abuse.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+font-family:"Courier New";} p.ExtraSig, li.ExtraSig, div.ExtraSig {mso-style-name:"Extra Sig"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:243.0pt; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.Misc, li.Misc, div.Misc {mso-style-name:"Misc\."; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Effective, li.Effective, div.Effective {mso-style-name:Effective; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Ramseyer, li.Ramseyer, div.Ramseyer {mso-style-name:Ramseyer; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Amend, li.Amend, div.Amend {mso-style-name:Amend; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.1ParagraphChar {mso-style-name:"\(1\)Paragraph Char"; mso-style-link:"\(1\)Paragraph"; font-family:"Courier New";} span.BalloonTextChar {mso-style-name:"Balloon Text Char"; mso-style-link:"Balloon Text"; font-family:"Tahoma","sans-serif";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+556
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO STATUTES OF LIMITATIONS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that recent advancements in DNA technology have improved law enforcement's ability to use DNA to solve cold cases.  These advancements in DNA technology have substantially increased the successful DNA analysis of aged, degraded, or limited samples of biological evidence.
+     These advancements are especially relevant to solving cases of sexual assault and sexual abuse of children.  In such cases DNA evidence, which may assist in solving cases and provide justice to victims, may surface after the statute of limitations has expired.  The legislature finds that, in light of advancements in DNA technology, crimes involving sexual assault and abuse of children should not be subject to the statute of limitations.
+     The purpose of this Act is to repeal the statute of limitations for felonies found in parts V and VI of chapter 707, Hawaii Revised Statutes.
+     SECTION 2.  Section 701-108, Hawaii Revised Statutes, is amended by amending subsection (6) to read as follows:
+     "(6)  The period of limitation does not run:
+     (a)  During any time when the accused is continuously absent from the State or has no reasonably ascertainable place of abode or work within the State, but in no case shall this provision extend the period of limitation by more than four years from the expiration of the period of limitation prescribed in subsection (2);
+     (b)  During any time when a prosecution against the accused for the same conduct is pending in this State; or
+     (c)  For any felony offense under chapter 707, part V or VI[, during any time when the victim is alive and under eighteen years of age]."
+     SECTION 3.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun, before its effective date.
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.
+     SECTION 5.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+ 
+Report Title:
+Statutes of Limitations; Sexual Assault; Child Abuse
+ 
+Description:
+Removes the statute of limitations for any felony offense under chapter 707, part V relating to sexual offenses and part VI relating to child abuse.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

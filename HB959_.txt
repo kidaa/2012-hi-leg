@@ -1,0 +1,66 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+959
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO DNA COLLECTION FOR ARRESTEES OF VIOLENT CRIMES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that although every state requires DNA collection for felony convictions, there is a growing trend towards collecting DNA for felony arrests.  Twelve states, including California, Alaska, Arizona, and New Mexico, have already enacted laws that require DNA collections from those arrested on felony charges, and over half of the states have begun the process of considering such legislation.
+     The supporting rationale for the enactment of chapter 844D, Hawaii Revised Statutes, is the same for the enactment of legislation calling for collection of DNA upon arrest for felony violent crimes – the ability to solve cold cases, saving lives by providing early identification of serial offenders, absolving the innocent, and reducing cases of wrongful incarceration and racial bias.
+     Specifically, in the case of rape, expanding DNA database requirements helps prevent crimes.  An offender that is not apprehended in a timely manner remains free to commit more crimes.  For example, according to the United States Department of Justice, the average rapist commits eight to twelve sexual assaults.  If law enforcement were able to apprehend the rapist after the first sexual assault, an average of seven rapes could be prevented per offender.
+     Many courts, including the United States Court of Appeals for the second, third, and ninth circuits, the Virginia supreme court, and other federal courts in Maryland, New Jersey, and Oregon, have upheld the collection of DNA samples at arrest as an acceptable and constitutional practice.
+     The purpose of this Act is to require DNA collection for arrests involving certain violent crimes.
+     SECTION 2.  Section 844D-31, Hawaii Revised Statutes, is amended to read as follows:
+     "§844D-31  Offenders subject to collection.  (a)  Any person, except for any juvenile, who is convicted of, or pleads guilty or no contest to, any felony offense, even if the plea is deferred, or is found not guilty by reason of insanity of any felony offense, shall provide buccal swab samples and print impressions of each hand, and, if required by the collecting agency's rules or internal regulations, blood specimens, required for law enforcement identification analysis.
+     (b)  Any person, except for any juvenile, arrested for a violent crime listed in this subsection shall provide buccal swab samples and print impressions and, if required by the collecting agency's rules or internal regulations, blood specimens, immediately at intake or as soon as administratively practicable at the appropriate custodial or receiving institution or program.  The violent crimes for which an arrestee shall be compelled to provide a buccal swab sample shall be:
+     (1)  Offenses under sections 707-701, 707-701.5, and 707-702;
+     (2)  Any offense listed under part III of chapter 707; and
+     (3)  Any offense listed under part V of chapter 707, with the exception of 707-734.
+     [(b)] (c)  Testing pursuant to this section shall begin immediately for all persons who have been convicted of murder in any degree or any felony offense defined in chapter 846E and all persons convicted of any felony offense who are confined in a correctional facility or other detention facility, including private correctional facilities, but shall not begin for other persons until thirty days after statewide publication of notice by the attorney general pursuant to section 1-28.5.
+     [(c)] (d)  The attorney general's notice, pursuant to subsection [(b),] (c), may be provided in stages, beginning with notice of the beginning of testing of all persons not already mandated to be tested by subsection [(b)] (c) who have been convicted of a class A felony, then notice of the beginning of testing of all persons not already mandated to be tested by subsection [(b)] (c) who have been convicted of a class B felony, and finally notice of the beginning of testing of all persons not already mandated to be tested by subsection [(b)] (c) who have been convicted of a class C felony.
+     [(d)] (e)  Nothing in this section shall be construed as prohibiting collection and analysis of specimens, samples, or print impressions as a condition of a plea for a non-qualifying offense."
+     SECTION 3.  Section 844D-34, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§844D-34[]]  Collection from persons arrested for violent crimes, confined, or in custody after conviction or adjudication.  A person, except for any juvenile, shall provide buccal swab samples and print impressions and, if required by the collecting agency's rules or internal regulations, blood specimens, immediately at intake, or during the prison reception center process, or as soon as administratively practicable at the appropriate custodial or receiving institution or program if:
+     (1)  The person is imprisoned or confined or placed in a state correctional facility, a county correctional facility, the department of public safety, a residential treatment program, or any state, county, private, or other facility after a conviction of any felony offense[;] or any arrest for a violent crime listed under section 844D-31(b);
+     (2)  The person has a record of any past or present conviction of a qualifying offense described in section 844D-31 or has a record of any past or present conviction or adjudication in any other court, including any state, federal, or military court, of any offense, that, if committed or attempted in this State, would have been punishable as an offense described in section 844D-31; and
+     (3)  The person's blood specimens or buccal swab samples, and print impressions authorized by this chapter are not in the possession of the department or have not been recorded as part of the state DNA database and data bank identification program."
+     SECTION 4.  Section 844D-71, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  A person whose DNA profile has been included in the state DNA database and data bank identification program pursuant to this chapter shall have the person's DNA specimen and sample destroyed and searchable database profile expunged from the program pursuant to section 844D-72 if:
+     (1)  The person has no past or present offense which qualifies that person for inclusion within the state DNA database and data bank identification program; provided that no DNA specimens or samples collected as a result of an arrest for a violent crime pursuant to section 844D-31 or 844D-34 shall be expunged; and
+     (2)  There otherwise is no legal basis for retaining the specimen or sample or searchable profile."
+     SECTION 5.  There is appropriated out of the general revenues of the State of Hawaii the sum of $           or so much thereof as may be necessary for fiscal year 2011-2012 to be deposited into the DNA registry special fund.
+     SECTION 6.  There is appropriated out of the DNA registry special fund the sum of $           or so much thereof as may be necessary for fiscal year 2011-2012 for reimbursements to county police departments for expenses related to collection and processing of DNA buccal swab samples and specimens made pursuant to this Act.
+     The sum appropriated shall be expended by the department of the attorney general for the purposes of this Act.
+     SECTION 7.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 8.  This Act shall take effect upon its approval; provided that sections 5 and 6 of this Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Violent Crimes; DNA Collection; Arrests
+ 
+Description:
+Requires DNA collection from those arrested for certain violent crimes.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

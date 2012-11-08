@@ -1,0 +1,72 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1666
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE PENAL CODE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 706, Hawaii Revised Statutes, is amended by adding a new section to part IV to be appropriately designated and to read as follows:
+     "§706-     Sentence of fines and imprisonment for negligent homicide or negligent injury of a vulnerable user.  A person who commits negligent homicide or negligent injury against a vulnerable user as established under sections 707-703, 707-704, and 707-706 shall receive a mandatory sentence as follows:
+     (1)  For a class B felony: a minimum of three years imprisonment and a fine of $10,000; and
+     (2)  For a class C felony: a minimum of one year imprisonment and a fine of $5,000."
+     SECTION 2.  Section 707-700, Hawaii Revised Statutes, is amended by adding three new definitions to be appropriately inserted and to read as follows:
+     ""Public highway" shall have the same meaning as in section 264-1.
+     "Street" shall have the same meaning as in section 291C-1.
+     "Vulnerable user" means:
+(1)  A pedestrian legally within a street or public highway;
+(2)  A roadway worker actually engaged in work upon a street or public highway, or in work upon utility facilities along a street or public highway, or engaged in the provision of emergency services within a street or public highway, including but not limited to:
+(A)  Construction and maintenance workers; and
+(B)  Police, fire, and other emergency responders; or
+(3)  A  person legally operating any of the following within the street or public highway:
+(A)  A bicycle;
+(B)  An electric assist bicycle;
+(C)  A moped;
+(D)  An electric personal assistive mobility device; or
+(E)  A wheelchair conveyance or other personal mobility device."
+     SECTION 3.  Section 706-600.5, Hawaii Revised Statutes, is amended to read as follows:
+     "§706-600.5  Definitions of terms in this chapter.  In this chapter, unless a different meaning plainly is required:
+     "Day" means a twenty-four-hour period of time.
+     "Month" means a thirty-day period of time.
+     "Secure drug treatment facility" means a facility employing security protocols modeled after a minimum-security detention center, including continuous direct supervision.
+     "Vulnerable user" shall have the same meaning as in section 707-700.
+     "Year" means a three hundred sixty-five-day period of time."
+     SECTION 4.  Section 707-703, Hawaii Revised Statutes, is amended by amending subsection (2) to read as follows:
+     "(2)  Negligent homicide in the second degree is a class C felony[.]; provided that if the person whose death is caused by the operation of a vehicle in a negligent manner is a vulnerable user, negligent homicide in the second degree is a class B felony."
+     SECTION 5.  Section 707-704, Hawaii Revised Statutes, is amended by amending subsection (3) to read as follows:
+     "(3)  Negligent homicide in the third degree is a misdemeanor[.]; provided that if the person whose death is caused by the operation of a vehicle in a manner which is simple negligence is a vulnerable user, negligent homicide in the third degree is a class C felony."
+     SECTION 6.  Section 707-706, Hawaii Revised Statutes, is amended by amending subsection (2) to read as follows:
+     "(2)  Negligent injury in the second degree is a misdemeanor[.]; provided that if the person whose substantial injury is caused by the operation of a motor vehicle in a negligent manner is a vulnerable user, negligent injury in the second degree is a class C felony."
+     SECTION 7.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 8.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 9.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Highway Safety; Negligent Homicide; Negligent Injury
+ 
+Description:
+Establishes mandatory minimum sentencing for negligent homicide or negligent injury involving the operation of a motor vehicle when a vulnerable highway user is involved.  Amends penalties for negligent homicide in the second degree, negligent homicide in the third degree, and negligent injury in the second degree when the incident involves a vulnerable highway user.  Adds definitions.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

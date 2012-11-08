@@ -1,0 +1,64 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1132
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE MEDICAL CLAIM CONCILIATION PANEL.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 671, Hawaii Revised Statutes, is amended by adding two new sections to part II to be appropriately designated and to read as follows:
+     "§671-A  Time for filing claim.  Claims shall be filed within the statute of limitations set forth in section 657-7.3.  No claim brought after the expiration of the statute of limitations shall be received for filing by the medical claim conciliation panel.
+     §671-B  Dismissal of claims.  (a)  The panel shall review all claims prior to the hearing described in section 671-13.  Any claim that is frivolous or without merit shall be dismissed.  In reviewing the claim, the panel shall consider all pre-hearing documents filed with the panel."
+     SECTION 2.  Section 671-12, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  Within five business days [thereafter] after submittal of a claim, the panel shall give notice of the claim and a copy of the statement of the claim[,] and the certificate of consultation described in section 671-12.5, by certified mail, to all health care providers and others who are or may be parties to the claim and shall furnish copies of written claims to [such] those persons.  [Such] The notice shall set forth a date, not more than twenty days after mailing the notice, within which any health care provider against whom a claim is made shall file a written response to the claim, and a date and time, not less than five days following the last date for filing a response, for a hearing of the panel.  [Such] The notice shall describe the nature and purpose of the panel's proceedings and shall designate the place of the meeting.  The times originally set forth in the notice may be enlarged by the chairperson, on due notice to all parties, for good cause."
+     SECTION 3.  Section 671-13, Hawaii Revised Statutes, is amended to read as follows:
+     "§671-13  Medical claim conciliation panel hearing; fact-finding; evidence; voluntary settlement.  Every claim of a medical tort shall be heard by the medical claim conciliation panel within thirty days after the last date for filing a response[.]; provided that the panel may exercise its authority to dismiss claims in accordance with section 671-B.  No persons other than the panel, witnesses, and consultants called by the panel, and the persons listed in section 671-14 shall be present except with the permission of the chairperson.  The panel [may], in its discretion, may conduct an inquiry of a party, witness, or consultant without the presence of any or all parties.
+     The hearing shall be informal.  Chapters 91 and 92 shall not apply.  The panel may require a stenographic record of all or part of its proceedings for the use of the panel, but [such] that record shall not be made available to the parties.  The panel may receive any oral or documentary evidence.  Questioning of parties, witnesses, and consultants may be conducted by the panel, and the panel [may], in its discretion, may permit any party, or any counsel for a party to question other parties, witnesses, or consultants.  The panel may designate who, among the parties, shall have the burden of going forward with the evidence with respect to such issues as it may consider, and unless otherwise designated by the panel, when medical and hospital records have been provided to the claimant for the claimant's proper review, [such] the burden shall initially rest with the claimant at the commencement of the hearing.
+     The panel shall have the power to require by subpoena the appearance and testimony of witnesses and the production of documentary evidence.  When [such] the subpoena power is utilized, notice shall be given to all parties.  The testimony of witnesses may be taken either orally before the panel or by deposition.  In cases of refusal to obey a subpoena issued by the panel, the panel may invoke the aid of any circuit court in the State, which may issue an order requiring compliance with the subpoena.  Failure to obey [such] an order may be punished by the court as a contempt thereof.  Any member of the panel, the director of the department, or any person designated by the director of the department may sign subpoenas.  Any member of the panel may administer oaths and affirmations, examine witnesses, and receive evidence.  Notwithstanding [such] these powers, the panel shall attempt to secure the voluntary appearance, testimony, and cooperation of parties, witnesses, and consultants without coercion.
+     At the hearing of the panel and in arriving at its opinion, the panel shall consider, but not be limited to, statements or testimony of witnesses, hospital and medical records, nurses' notes, x-rays, and other records kept in the usual course of the practice of the health care provider without the necessity for other identification or authentication, statement of fact, or opinion on a subject contained in a published treatise, periodical, book, or pamphlet, or statements of experts without the necessity of the experts appearing at the hearing.  The panel [may], upon the application of any party or upon its own decision may appoint, as a consultant, an impartial and qualified physician, surgeon, physician and surgeon, or other professional person or expert to testify before the panel or to conduct any necessary professional or expert examination of the claimant or relevant evidentiary matter and to report to or testify as a witness thereto.  [Such a] A consultant shall not be compensated or reimbursed except for travel and living expenses, to be paid as provided in section 671-11.  Except for the production of hospital and medical records, nurses' notes, x-rays, and other records kept in the usual course of the practice of the health care provider, discovery by the parties shall not be allowed.
+     During the hearing and at any time prior to the rendition of an advisory decision pursuant to section 671-15, the panel may encourage the parties to settle or otherwise dispose of the case voluntarily."
+     SECTION 4.  Section 671-19, Hawaii Revised Statutes, is amended to read as follows:
+     "§671-19  Duty to cooperate; assessment of costs and fees.  (a)  It shall be the duty of every person who files a claim with the medical claim conciliation panel, every health care provider against whom the claim is made, and every insurance carrier or other person providing medical tort liability insurance for the health care provider, to cooperate with the medical claim conciliation panel and fulfill all pre-hearing requirements imposed by law or rule for the purpose of achieving a prompt, fair, and just disposition or settlement of the claim, provided that cooperation shall not prejudice the substantive rights of those persons.
+     Any party may apply to the panel to have the costs of the action assessed against any party for failure to cooperate with the panel[.] or fulfill all pre-hearing requirements imposed by law or rule.   The panel may award costs, or a portion thereof, including attorney's fees, witness fees, including those of expert witnesses, filing fees, and costs of the medical claim conciliation panel hearing to the party applying therefor.
+     (b)  In determining whether any person has failed to cooperate in good faith, the panel shall consider, but is not limited to, the following:
+     (1)  The attendance of the persons at the hearing of the medical claim conciliation panel;
+     (2)  The extent to which representatives of parties and counsel representing parties came to panel hearings with knowledge of the claims and defenses and authority to negotiate a settlement or other disposition of the claim;
+     (3)  The testimony of members of the panel as to the facts of the person's participation in the panel hearing;
+     (4)  The extent of the person's cooperation in providing the panel with documents and testimony called for by the panel;
+     (5)  The reasons advanced by the person so charged for not fully cooperating or negotiating; and
+     (6)  The failure of the person to submit any required fees to the department of commerce and consumer affairs, as required by this chapter.
+     The party against whom costs are awarded may appeal the award to the circuit court.  The court may affirm or remand the case with instructions for further proceedings; or it may reverse or modify the award if the substantial rights of the petitioners may have been prejudiced because the award is characterized as abuse of discretion."
+     SECTION 5.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun, before its effective date.
+     SECTION 6.  In codifying the new sections added by section 1 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 7.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 8.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Medical Claim Conciliation Panel
+ 
+Description:
+Prohibits the medical claim conciliation panel from receiving claims filed after statute of limitations expires.  Requires the panel to dismiss frivolous or non-meritorious claims.  Requires the panel to provide a copy of the certificate of consultation to health care providers and other parties to the claim.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

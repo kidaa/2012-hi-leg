@@ -1,0 +1,202 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1817
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE HAWAII EMPLOYER-UNION HEALTH BENEFITS TRUST FUND.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The purpose of this Act is to make the composition and certain powers and duties of the board of trustees of the Hawaii employer-union health benefits trust fund similar to those of the employees' retirement system board of trustees.  The legislature finds that, in the past, the latter board has operated with more effectiveness, efficiency, and foresight than the former board.
+     This Act also clarifies the fiduciary duties of the trust fund board of trustees.
+     SECTION 2.  Chapter 87A, Hawaii Revised Statutes, is amended by adding four new sections to part II to be appropriately designated and to read as follows:
+     "§87A-A  Composition of board.  (a)  The board shall consist of eight members as follows:
+     (1)  The director of finance, ex officio;
+     (2)  Four employees who are enrolled in health benefits plans of the fund.  Two of the four shall be general employees, meaning employees in active service with the State or counties, including police officers and firefighters, but not public school teachers.  One of the four shall be a public school teacher, and one shall be a retired employee.  The four employees shall be elected by employees under rules adopted by the board to terms of six years commencing on the January 1 immediately following the expiration of their predecessors' terms; provided that, if after the close of filing of petitions for candidacy, an employee is unopposed for election to a trustee position, the employee shall be declared to be duly and legally elected to the office of trustee without an election.  If a trustee who is an employee ceases to be enrolled in a health benefits plan of the fund, the trustee shall be disqualified from continuing in office, and the vacancy shall be filled in accordance with section 87A-B; and
+     (3)  Three residents of the State who are not employees.  One of the three shall be an officer of a financial institution, public accounting firm, or insurance company authorized to do business in the State or a resident of similar experience.  The three residents shall be appointed by the governor, with the advice and consent of the senate, to serve for a term of six years commencing on the January 1 immediately following the expiration of their predecessors' terms.
+     (b)  Each trustee shall serve until the trustee's successor is elected or appointed, as the case may be, and qualified.
+     §87A-B  Vacancy.  If a vacancy occurs in the office of a trustee, the vacancy shall be filled for the unexpired term in the same manner as the office was previously filled, except that in the case of a trustee elected by the employees, the vacancy shall be filled for the unexpired term by the appointment of an employee by the remaining trustees.
+     §87A-C  Voting.  Each trustee shall be entitled to one vote on the board.  Five concurring votes shall be necessary for a decision by the trustees at any meeting of the board, except that a higher number of votes shall be necessary when required by other law.
+     §87A-D  Prohibited interest of trustees and staff members.  Except as provided in this section, no trustee or staff member of the fund shall have any direct interest in the gains or profits of any investment made by the board.  No trustee or staff member shall use, directly or indirectly, for oneself or as an agent in any manner, the moneys of the fund, except to make current and necessary payments authorized by the board.  No trustee or staff member shall be an endorser or surety or be in any manner an obligor for moneys loaned by the board."
+     SECTION 3.  Section 87A-1, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending the definition of "board" to read:
+     ""Board" means the board of trustees of the Hawaii employer-union health benefits trust fund described in section [87A-5.] 87A-A."
+     2.  By amending the definition of "trustee" to read:
+     ""Trustee" means a trustee of the board of trustees of the Hawaii employer-union health benefits trust fund[, as described in section 87A-5]."
+     SECTION 4.  Section 87A-15, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§87A-15[]  Administration] Duties of the board; administration of the fund.  (a)  The board shall have the fiduciary duty to administer and carry out the purpose of the fund.  [Health and other benefit plans shall be provided at a cost]
+     (b)  The board shall provide health benefits plans to employee-beneficiaries and dependent-beneficiaries that are affordable to both the public employers and the public employees.
+     (c)  The board shall implement and recommend policies, in accordance with law, to amortize the unfunded actuarial accrued liability within thirty years from January 1, 2013.
+     (d)  The board shall expend the employers' and employees' contributions received for the costs of the health benefits plans in compliance with appropriations acts and other applicable law."
+     SECTION 5.  Section 87A-24, Hawaii Revised Statutes, is amended to read as follows:
+     "§87A-24  Other powers.  In addition to the power to administer the fund, the board may:
+     (1)  Collect, receive, deposit, and withdraw money on behalf of the fund;
+     (2)  Invest moneys and other assets of the fund in the same manner specified in section 88-119(1)(A), (1)(B), (1)(C), (1)(F), (2), (3), (4), (5), (6), [and] (7)[;], (8), (9), (10), and (11), section 88-120, section 88-121, and section 88-121.5.  In performing this duty, the board shall have the same authority as the board of trustees of the employees' retirement system;
+    [(3)  Hold, purchase, sell, assign, transfer, or dispose of any securities or other investments of the fund, as well as the proceeds of those investments and any money belonging to the fund;
+     (4)] (3)  Appoint, and at pleasure dismiss, an administrator and other fund staff[.], including a chief investment officer.  The administrator and staff shall be exempt from chapter 76 and shall serve under and at the pleasure of the board;
+    [(5)] (4)  Make payments of periodic charges and pay for reasonable expenses incurred in carrying out the purposes of the fund;
+    [(6)] (5)  Contract for the performance of financial audits of the fund and claims audits of its insurance carriers;
+    [(7)] (6)  Retain auditors, actuaries, [investment firms and managers,] benefit plan consultants, or other professional advisors to [carry out the purposes] assist in the administration of this chapter;
+     (7)  Retain investment firms and managers to provide advice and services on investment of the assets of the fund and pay for them out of the investment earnings;
+     (8)  Establish health benefits plan and long-term care benefits plan rates that include administrative [and other] expenses necessary to effectuate the purposes of the fund; and
+     (9)  Require any department, agency, or employee of the State or counties to furnish information to the board to carry out the purposes of this chapter."
+     SECTION 6.  Section 87A-31.5, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§87A-31.5[]]  Employer contributions irrevocable.  Notwithstanding any law to the contrary, all of the monthly contributions that the State and counties make to the fund under sections 87A-32, 87A-33, 87A-33.5, 87A-34, 87A-35, 87A-36, and 87A-37, and all other contributions that the State and counties may make to the fund, shall be irrevocable; provided that this shall not preclude the fund from returning contributions or payments made by the State or any county under a mistake of fact within one year after the payment of the contributions or payments."
+     SECTION 7.  Section 87A-5, Hawaii Revised Statutes, is repealed.
+     ["§87A-5  Composition of board.  The board of trustees of the employer-union health benefits trust fund shall consist of ten trustees appointed by the governor in accordance with the following procedure:
+     (1)  Five trustees, one of whom shall represent retirees, to represent employee-beneficiaries and to be selected as follows:
+         (A)  Three trustees shall be appointed from a list of two nominees per trustee selected by each of the three exclusive representative organizations that have the largest number of employee-beneficiaries;
+         (B)  One trustee shall be appointed from a list of two nominees selected by mutual agreement of the remaining exclusive employee representative organizations; and
+         (C)  One trustee representing retirees shall be appointed from a list of two nominees selected by mutual agreement of all eligible exclusive representatives; and
+     (2)  Five trustees to represent public employers.
+     Section 26-34 shall not apply to board member selection and terms.  Notwithstanding any other provision of this section, no exclusive representative of a bargaining unit that sponsors or participates in a voluntary employee beneficiary association shall be eligible to select nominees or to be represented by a trustee on the board.
+     As used in this section, the term "exclusive representative" shall have the same meaning as in section 89-2."]
+     SECTION 8.  Section 87A-6, Hawaii Revised Statutes, is repealed.
+     ["§87A-6  Term of a trustee; vacancy.  The term of office of each trustee shall be four years; provided that a trustee may be reappointed for one additional consecutive four-year term.
+     A vacancy on the board shall be filled in the same manner as the trustee who vacated that position was nominated or appointed; provided that the criteria used for nominating or appointing the successor shall be the same criteria used for nominating or appointing the person's predecessor; provided further that vacancies on the board for each trustee position representing retirees and employee-beneficiaries appointed under section 87A-5(1)(A) and (B) shall be filled by appointment of the governor as follows:
+     (1)  If a vacancy occurs in one of the trustee positions described in section 87A-5(1)(A), then the vacancy shall be appointed from a list of two nominees submitted by the exclusive employee representative from among the three largest exclusive employee representatives that does not have a trustee among the three trustee positions;
+     (2)  If a vacancy occurs in a trustee position described in section 87A-5(1)(B), then the vacancy shall be appointed from a list of two nominees submitted by mutual agreement of the exclusive employee representatives described in section 87A-5(1)(B); and
+     (3)  If a vacancy occurs in the retiree position described in section 87A-5(1)(C), then the vacancy shall be appointed from a list of two nominees submitted by mutual agreement of all eligible exclusive employee representatives.
+     If by the end of a trustee's term the trustee is not reappointed or the trustee's successor is not appointed, the trustee shall serve until the trustee's successor is appointed."]
+     SECTION 9.  Section 87A-11, Hawaii Revised Statutes, is repealed.
+     ["[§87A-11]  Quorum; board actions; voting.  (a)  Six trustees, three of whom represent the public employer and three of whom represent employee-beneficiaries, shall constitute a quorum for the transaction of business.
+     (b)  Trustees representing the public employers shall collectively have one vote.  Trustees representing the employee-beneficiaries shall collectively have one vote.
+     For any vote of the trustees representing the public employers to be valid, three of these trustees must concur to cast such a vote.  In the absence of such concurrence, the trustees representing the public employers shall be deemed to have abstained from voting.
+     For any vote of the trustees representing the employee-beneficiaries to be valid, three of these trustees must concur to cast such a vote.  In the absence of such concurrence, the trustees representing the employee-beneficiaries shall be deemed to have abstained from voting.
+     An abstention shall not be counted as either a vote in favor or against a matter before the board.
+     (c)  Any action taken by the board shall be by the concurrence of at least two votes.  In the event of a tie vote on any motion, the motion shall fail.  Upon the concurrence of six trustees, the board shall participate in dispute resolution."]
+     SECTION 10.  (a)  For the purpose of this section, the terms "board", "employee", and "trustee" shall have the same meanings as defined in section 87A-1, Hawaii Revised Statutes.
+     (b)  Notwithstanding any law to the contrary, the term of office of trustees serving on the board on December 31, 2012, shall terminate at the end of that day.
+     (c)  No later than September 1, 2012, the director of finance shall conduct an election among employees to elect four employees to the board in accordance with section 87A-A, Hawaii Revised Statutes.  The director of finance shall conduct the election in approximately the same manner as the election of trustees of the employees' retirement system; provided that the director shall have exclusive discretion in establishing the procedures for the election and shall not be required to adopt rules to establish the procedures.  The director of finance shall conclude the voting and counting of ballots in sufficient time to certify the results of the election by November 1, 2012.
+     Notwithstanding section 87A-A, Hawaii Revised Statutes, the employees initially elected as trustees shall serve for terms commencing on January 1, 2013, but the expiration of their terms shall be as follows:
+     (1)  The general employee with the second-highest number of votes among general employee-candidates shall serve for a term expiring on December 31, 2013;
+     (2)  The retired employee shall serve for a term expiring on December 31, 2015;
+     (3)  The public school teacher shall serve for a term expiring on December 31, 2017; and
+     (4)  The general employee with the highest number of votes among general employee-candidates shall serve for a term expiring on December 31, 2019.
+     (d)  The governor shall appoint three residents to serve as initial trustees of the board as provided under section 87A-A, Hawaii Revised Statutes.
+     Notwithstanding section 87A-A, Hawaii Revised Statutes, the residents initially appointed as trustees by the governor shall serve for terms commencing January 1, 2013, without having first been confirmed by the senate.  The governor shall designate one of the three to serve for a term expiring on December 31, 2014, another to serve for a term expiring on December 31, 2016, and the last to serve for a term expiring on December 31, 2018.
+     If a resident initially appointed by the governor as a trustee is not confirmed by the senate during the regular session of 2013, that trustee shall be deemed to have vacated the office on the date of the senate's failure to advise and consent to the trustee's nomination or, if no senate vote to advise and consent to the nomination is taken, on the adjournment sine die of the regular session of 2013.  A successor shall be appointed by the governor to fill the unexpired term in accordance with section 26-34, Hawaii Revised Statutes.
+     (e)  The successors of the initial trustees shall be elected or appointed in accordance with section 87A-A or 87A-B, Hawaii Revised Statutes, as appropriate.
+     SECTION 11.  There is appropriated out of the general revenues of the State of Hawaii the sum of $           or so much thereof as may be necessary for fiscal year 2012-2013 for the election of employees to the Hawaii employer-union health trust fund in accordance with section 10.
+     The sum appropriated shall be expended by the department of budget and finance for the purposes of this Act.
+     SECTION 12.  In codifying the new sections added by section 2 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 13.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 14.  This Act shall take effect on January 1, 2013; except that sections 10 and 11 shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Hawaii Employer-Union Health Benefits Trust Fund Board of Trustees
+ 
+Description:
+Amends composition and certain powers and duties of the Hawaii employer-union health benefits trust fund board of trustees.  Makes appropriation.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+finance, ex officio;
+
+     (2)  Four employees who are enrolled in health benefits plans of the fund.  Two of the four shall be general employees, meaning employees in active service with the State or counties, including police officers and firefighters, but not public school teachers.  One of the four shall be a public school teacher, and one shall be a retired employee.  The four employees shall be elected by employees under rules adopted by the board to terms of six years commencing on the January 1 immediately following the expiration of their predecessors' terms; provided that, if after the close of filing of petitions for candidacy, an employee is unopposed for election to a trustee position, the employee shall be declared to be duly and legally elected to the office of trustee without an election.  If a trustee who is an employee ceases to be enrolled in a health benefits plan of the fund, the trustee shall be disqualified from continuing in office, and the vacancy shall be filled in accordance with section 87A-B; and
+     (3)  Three residents of the State who are not employees.  One of the three shall be an officer of a financial institution, public accounting firm, or insurance company authorized to do business in the State or a resident of similar experience.  The three residents shall be appointed by the governor, with the advice and consent of the senate, to serve for a term of six years commencing on the January 1 immediately following the expiration of their predecessors' terms.
+     (b)  Each trustee shall serve until the trustee's successor is elected or appointed, as the case may be, and qualified.
+     §87A-B  Vacancy.  If a vacancy occurs in the office of a trustee, the vacancy shall be filled for the unexpired term in the same manner as the office was previously filled, except that in the case of a trustee elected by the employees, the vacancy shall be filled for the unexpired term by the appointment of an employee by the remaining trustees.
+     §87A-C  Voting.  Each trustee shall be entitled to one vote on the board.  Five concurring votes shall be necessary for a decision by the trustees at any meeting of the board, except that a higher number of votes shall be necessary when required by other law.
+     §87A-D  Prohibited interest of trustees and staff members.  Except as provided in this section, no trustee or staff member of the fund shall have any direct interest in the gains or profits of any investment made by the board.  No trustee or staff member shall use, directly or indirectly, for oneself or as an agent in any manner, the moneys of the fund, except to make current and necessary payments authorized by the board.  No trustee or staff member shall be an endorser or surety or be in any manner an obligor for moneys loaned by the board."
+     SECTION 3.  Section 87A-1, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending the definition of "board" to read:
+     ""Board" means the board of trustees of the Hawaii employer-union health benefits trust fund described in section [87A-5.] 87A-A."
+     2.  By amending the definition of "trustee" to read:
+     ""Trustee" means a trustee of the board of trustees of the Hawaii employer-union health benefits trust fund[, as described in section 87A-5]."
+     SECTION 4.  Section 87A-15, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§87A-15[]  Administration] Duties of the board; administration of the fund.  (a)  The board shall have the fiduciary duty to administer and carry out the purpose of the fund.  [Health and other benefit plans shall be provided at a cost]
+     (b)  The board shall provide health benefits plans to employee-beneficiaries and dependent-beneficiaries that are affordable to both the public employers and the public employees.
+     (c)  The board shall implement and recommend policies, in accordance with law, to amortize the unfunded actuarial accrued liability within thirty years from January 1, 2013.
+     (d)  The board shall expend the employers' and employees' contributions received for the costs of the health benefits plans in compliance with appropriations acts and other applicable law."
+     SECTION 5.  Section 87A-24, Hawaii Revised Statutes, is amended to read as follows:
+     "§87A-24  Other powers.  In addition to the power to administer the fund, the board may:
+     (1)  Collect, receive, deposit, and withdraw money on behalf of the fund;
+     (2)  Invest moneys and other assets of the fund in the same manner specified in section 88-119(1)(A), (1)(B), (1)(C), (1)(F), (2), (3), (4), (5), (6), [and] (7)[;], (8), (9), (10), and (11), section 88-120, section 88-121, and section 88-121.5.  In performing this duty, the board shall have the same authority as the board of trustees of the employees' retirement system;
+    [(3)  Hold, purchase, sell, assign, transfer, or dispose of any securities or other investments of the fund, as well as the proceeds of those investments and any money belonging to the fund;
+     (4)] (3)  Appoint, and at pleasure dismiss, an administrator and other fund staff[.], including a chief investment officer.  The administrator and staff shall be exempt from chapter 76 and shall serve under and at the pleasure of the board;
+    [(5)] (4)  Make payments of periodic charges and pay for reasonable expenses incurred in carrying out the purposes of the fund;
+    [(6)] (5)  Contract for the performance of financial audits of the fund and claims audits of its insurance carriers;
+    [(7)] (6)  Retain auditors, actuaries, [investment firms and managers,] benefit plan consultants, or other professional advisors to [carry out the purposes] assist in the administration of this chapter;
+     (7)  Retain investment firms and managers to provide advice and services on investment of the assets of the fund and pay for them out of the investment earnings;
+     (8)  Establish health benefits plan and long-term care benefits plan rates that include administrative [and other] expenses necessary to effectuate the purposes of the fund; and
+     (9)  Require any department, agency, or employee of the State or counties to furnish information to the board to carry out the purposes of this chapter."
+     SECTION 6.  Section 87A-31.5, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§87A-31.5[]]  Employer contributions irrevocable.  Notwithstanding any law to the contrary, all of the monthly contributions that the State and counties make to the fund under sections 87A-32, 87A-33, 87A-33.5, 87A-34, 87A-35, 87A-36, and 87A-37, and all other contributions that the State and counties may make to the fund, shall be irrevocable; provided that this shall not preclude the fund from returning contributions or payments made by the State or any county under a mistake of fact within one year after the payment of the contributions or payments."
+     SECTION 7.  Section 87A-5, Hawaii Revised Statutes, is repealed.
+     ["§87A-5  Composition of board.  The board of trustees of the employer-union health benefits trust fund shall consist of ten trustees appointed by the governor in accordance with the following procedure:
+     (1)  Five trustees, one of whom shall represent retirees, to represent employee-beneficiaries and to be selected as follows:
+         (A)  Three trustees shall be appointed from a list of two nominees per trustee selected by each of the three exclusive representative organizations that have the largest number of employee-beneficiaries;
+         (B)  One trustee shall be appointed from a list of two nominees selected by mutual agreement of the remaining exclusive employee representative organizations; and
+         (C)  One trustee representing retirees shall be appointed from a list of two nominees selected by mutual agreement of all eligible exclusive representatives; and
+     (2)  Five trustees to represent public employers.
+     Section 26-34 shall not apply to board member selection and terms.  Notwithstanding any other provision of this section, no exclusive representative of a bargaining unit that sponsors or participates in a voluntary employee beneficiary association shall be eligible to select nominees or to be represented by a trustee on the board.
+     As used in this section, the term "exclusive representative" shall have the same meaning as in section 89-2."]
+     SECTION 8.  Section 87A-6, Hawaii Revised Statutes, is repealed.
+     ["§87A-6  Term of a trustee; vacancy.  The term of office of each trustee shall be four years; provided that a trustee may be reappointed for one additional consecutive four-year term.
+     A vacancy on the board shall be filled in the same manner as the trustee who vacated that position was nominated or appointed; provided that the criteria used for nominating or appointing the successor shall be the same criteria used for nominating or appointing the person's predecessor; provided further that vacancies on the board for each trustee position representing retirees and employee-beneficiaries appointed under section 87A-5(1)(A) and (B) shall be filled by appointment of the governor as follows:
+     (1)  If a vacancy occurs in one of the trustee positions described in section 87A-5(1)(A), then the vacancy shall be appointed from a list of two nominees submitted by the exclusive employee representative from among the three largest exclusive employee representatives that does not have a trustee among the three trustee positions;
+     (2)  If a vacancy occurs in a trustee position described in section 87A-5(1)(B), then the vacancy shall be appointed from a list of two nominees submitted by mutual agreement of the exclusive employee representatives described in section 87A-5(1)(B); and
+     (3)  If a vacancy occurs in the retiree position described in section 87A-5(1)(C), then the vacancy shall be appointed from a list of two nominees submitted by mutual agreement of all eligible exclusive employee representatives.
+     If by the end of a trustee's term the trustee is not reappointed or the trustee's successor is not appointed, the trustee shall serve until the trustee's successor is appointed."]
+     SECTION 9.  Section 87A-11, Hawaii Revised Statutes, is repealed.
+     ["[§87A-11]  Quorum; board actions; voting.  (a)  Six trustees, three of whom represent the public employer and three of whom represent employee-beneficiaries, shall constitute a quorum for the transaction of business.
+     (b)  Trustees representing the public employers shall collectively have one vote.  Trustees representing the employee-beneficiaries shall collectively have one vote.
+     For any vote of the trustees representing the public employers to be valid, three of these trustees must concur to cast such a vote.  In the absence of such concurrence, the trustees representing the public employers shall be deemed to have abstained from voting.
+     For any vote of the trustees representing the employee-beneficiaries to be valid, three of these trustees must concur to cast such a vote.  In the absence of such concurrence, the trustees representing the employee-beneficiaries shall be deemed to have abstained from voting.
+     An abstention shall not be counted as either a vote in favor or against a matter before the board.
+     (c)  Any action taken by the board shall be by the concurrence of at least two votes.  In the event of a tie vote on any motion, the motion shall fail.  Upon the concurrence of six trustees, the board shall participate in dispute resolution."]
+     SECTION 10.  (a)  For the purpose of this section, the terms "board", "employee", and "trustee" shall have the same meanings as defined in section 87A-1, Hawaii Revised Statutes.
+     (b)  Notwithstanding any law to the contrary, the term of office of trustees serving on the board on December 31, 2012, shall terminate at the end of that day.
+     (c)  No later than September 1, 2012, the director of finance shall conduct an election among employees to elect four employees to the board in accordance with section 87A-A, Hawaii Revised Statutes.  The director of finance shall conduct the election in approximately the same manner as the election of trustees of the employees' retirement system; provided that the director shall have exclusive discretion in establishing the procedures for the election and shall not be required to adopt rules to establish the procedures.  The director of finance shall conclude the voting and counting of ballots in sufficient time to certify the results of the election by November 1, 2012.
+     Notwithstanding section 87A-A, Hawaii Revised Statutes, the employees initially elected as trustees shall serve for terms commencing on January 1, 2013, but the expiration of their terms shall be as follows:
+     (1)  The general employee with the second-highest number of votes among general employee-candidates shall serve for a term expiring on December 31, 2013;
+     (2)  The retired employee shall serve for a term expiring on December 31, 2015;
+     (3)  The public school teacher shall serve for a term expiring on December 31, 2017; and
+     (4)  The general employee with the highest number of votes among general employee-candidates shall serve for a term expiring on December 31, 2019.
+     (d)  The governor shall appoint three residents to serve as initial trustees of the board as provided under section 87A-A, Hawaii Revised Statutes.
+     Notwithstanding section 87A-A, Hawaii Revised Statutes, the residents initially appointed as trustees by the governor shall serve for terms commencing January 1, 2013, without having first been confirmed by the senate.  The governor shall designate one of the three to serve for a term expiring on December 31, 2014, another to serve for a term expiring on December 31, 2016, and the last to serve for a term expiring on December 31, 2018.
+     If a resident initially appointed by the governor as a trustee is not confirmed by the senate during the regular session of 2013, that trustee shall be deemed to have vacated the office on the date of the senate's failure to advise and consent to the trustee's nomination or, if no senate vote to advise and consent to the nomination is taken, on the adjournment sine die of the regular session of 2013.  A successor shall be appointed by the governor to fill the unexpired term in accordance with section 26-34, Hawaii Revised Statutes.
+     (e)  The successors of the initial trustees shall be elected or appointed in accordance with section 87A-A or 87A-B, Hawaii Revised Statutes, as appropriate.
+     SECTION 11.  There is appropriated out of the general revenues of the State of Hawaii the sum of $           or so much thereof as may be necessary for fiscal year 2012-2013 for the election of employees to the Hawaii employer-union health trust fund in accordance with section 10.
+     The sum appropriated shall be expended by the department of budget and finance for the purposes of this Act.
+     SECTION 12.  In codifying the new sections added by section 2 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 13.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 14.  This Act shall take effect on January 1, 2013; except that sections 10 and 11 shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Hawaii Employer-Union Health Benefits Trust Fund Board of Trustees
+ 
+Description:
+Amends composition and certain powers and duties of the Hawaii employer-union health benefits trust fund board of trustees.  Makes appropriation.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,49 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2288
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO RECORDKEEPING.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 481X, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows:
+"PART   .  INTERNET SERVICE PROVIDERS
+     §481X-     Definitions.  As used in this part:
+     "Internet service provider" means a company that provides access to the Internet.
+     "Internet protocol address" means is a numerical label assigned to each device participating in a computer network that uses the Internet Protocol for communication and provides host or network interface identification and location addressing.
+     §481X-     Recordkeeping requirements for internet service providers.  Any internet service provider that provides internet service to a consumer in the State shall retain consumer records for no less than two years.  The required data for the consumer records shall include each subscriber's information and internet destination history information.  Destination information shall include any of the following:
+     (1)  Internet protocol address;
+     (2)  Domain name; or
+     (3)  Host name."
+     SECTION 2.  Chapter 481X, Hawaii Revised Statutes, is amended by designating sections 481X-1 to 481X-12 as part I, entitled "General Provisions".
+     SECTION 3.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Computer Crime; Recordkeeping; Internet Service Providers
+ 
+Description:
+Requires internet service providers to keep consumer records for no less than 2 years.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

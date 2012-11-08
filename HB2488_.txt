@@ -1,0 +1,96 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2488
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE EMPLOYEES' RETIREMENT SYSTEM.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 88, Hawaii Revised Statutes, is amended by adding a new section to part II to be appropriately designated and to read as follows:
+     "§88-    Payment by employers of costs associated with spiking.  (a)  The contribution payable in each year to the pension accumulation fund by the State and each county shall also include the actuarial present value, as determined by the system, of the excess maximum retirement allowance, payable over the employee's or former employee's actuarial life expectancy, resulting from spiking for each employee or former employee who became a member of the system prior to July 1, 2012 and retired in the previous year.
+     (b)  The last employer of the employee or former employee shall pay the contribution required by subsection (a).
+     (c)  An excess maximum retirement allowance resulting from spiking occurs when:
+     (1)  The employee's or former employee's average non-base pay, divided by the employee's or former employee's average base pay, is greater than ten per cent; and
+     (2)  The employee's or former employee's average final compensation non-base pay ratio divided by the comparison period non-base pay ratio is greater than or equal to one-hundred twenty per cent.
+     (d)  The amount of the "excess maximum retirement allowance resulting from spiking" is the amount by which an employee or former employee's maximum retirement allowance exceeds what the employee or former employee's maximum retirement allowance would be if the employee or former employee's average final compensation were equal to the employee's or former employee's average base pay multiplied by the sum of one and the employee's or former employee's comparison period non-base pay ratio."
+     SECTION 2.  Section 88-21, Hawaii Revised Statutes, is amended by adding new definitions to be appropriately inserted and to read as follows:
+     "Average base pay" means the total base pay included in a member's average final compensation, divided by the number of years used to determine average final compensation.
+     "Average final compensation non-base pay ratio" means the average non-base pay divided by the average base pay.
+     "Average non-base pay" means the total non-base pay included in a member's average final compensation divided by the number of years used to determine the member's average final compensation.
+     "Comparison period" means those years in the ten years of credited service prior to termination of service that are not included in the period for determining a member's average final compensation or, if the member has less than ten years of credited service prior to termination of service, the years of the member's credited service that are not included in the determination of the member's average final compensation.
+     "Comparison period average base pay" means the total base pay for the comparison period divided by the number of years in the comparison period."
+     "Comparison period average non-base pay" means the total non-base pay for the comparison period divided by the number of years in the comparison period."
+     "Comparison period non-base pay ratio" means the comparison period average non-base pay divided by the comparison period average base pay."
+     SECTION 3.  Section 88-21.5, Hawaii Revised Statutes, is amended to read as follows:
+     "§88-21.5  Compensation.  (a)  Unless a different meaning is plainly required by context, as used in this part, "compensation" means normal periodic payments of money for service the right to which accrues on a regular basis in proportion to the service performed; overtime[,] and differentials[, and supplementary payments]; bonuses and lump sum salary supplements; and elective salary reduction contributions under sections 125, 403(b), and 457(b) of the Internal Revenue Code of 1986, as amended.  Bonuses and lump sum salary supplements shall be deemed earned when payable; provided that bonuses or lump sum salary supplements in excess of one-twelfth of compensation for the twelve months prior to the month in which the bonus or lump sum salary supplement is payable, exclusive of overtime, bonuses, and lump sum salary supplements, shall be deemed earned:
+     (1)  During the period agreed-upon by the employer and employee, but in any event over a period of not less than twelve months; or
+     (2)  In the absence of an agreement between the employer and the employee, over the twelve months prior to the date on which the bonus or lump sum salary supplement is payable.
+     (b)  Unless a different meaning is plainly required by context, as used in this part:
+     (1)  "Base pay" means normal periodic payments of money for service the right to which accrues on a regular basis in proportion to the service performed; recurring differentials; and elective salary reduction contributions under sections 125, 403(b), and 457(b) of the Internal Revenue Code of 1986, as amended.
+     (2)  "Non-base pay" means all compensation that is not "base pay."  "Non-base pay" includes overtime, non-recurring differentials, bonuses, and lump-sum salary supplements."
+     SECTION 4.  Section 88-81, Hawaii Revised Statutes, is amended to read as follows:
+     "§88-81  Average final compensation.  (a)  Average final compensation is the average annual compensation, pay, or salary upon which a member has made contributions as required by parts II, VII, and VIII of this chapter.
+     (b)  The average final compensation of members shall be calculated as follows:
+     (1)  For employees who become members before January 1, 1971:
+         (A)  During the member's five highest paid years of credited service, including vacation pay, or the three highest paid years of credited service excluding vacation pay, whichever is greater; or
+         (B)  If the member has fewer than three years of credited service, during the member's actual years of credited service;
+     (2)  For employees who become members after December 31, 1970, but before July 1, 2012:
+         (A)  During the member's three highest paid years of credited service, excluding vacation pay; or
+         (B)  If the member has fewer than three years of credited service, during the member's actual years of credited service; and
+     (3)  For employees who become members after June 30, 2012:
+         (A)  During the member's five highest paid years of credited service, excluding vacation pay; or
+         (B)  If the member has fewer than five years of credited service, during the member's actual years of credited service.
+     (c)  In computing the compensation of a judge, the compensation paid to the judge by the United States as well as by the Territory shall be included.
+     (d)  For service rendered as a member of the legislature from and after November 5, 1968, the actual annual salary of a member shall be the only amount used for determining the member's average final compensation.  For service rendered as a member of the legislature prior to November 5, 1968, and after admission of this State into the Union, the annual compensation of a member shall be computed, for the purpose of determining the member's average final compensation, as follows:
+     (1)  During a year in which a general session was held, it shall be deemed to have been an amount equal to four times the salary of a member of the legislature for a general session; and
+     (2)  During a year in which a budget session was held, it shall be deemed to have been an amount equal to six times the salary of a member of the legislature for a budget session.
+     For service rendered as a member of the legislature prior to the admission of this State into the Union, the annual compensation of a member shall be deemed to have been four times the salary of a member of the legislature for a regular session for each year during the member's term of office.
+     (e)  If a member, who became a member before July 1, 2012, has credited service rendered as an elective officer or as a legislative officer, the member's average final compensation shall be computed separately for each category of service as follows:
+     (1)  For the three highest paid years of credited service as an elective officer, or if the member has fewer than three years of credited service in that capacity, then the member's actual years of credited service;
+     (2)  For the three highest paid years of credited service as a legislative officer, or if the member has fewer than three years of credited service in that capacity, then the member's actual years of credited service;
+     (3)  For the three highest paid years of credited service as a judge, or if the member has fewer than three years of credited service in that capacity, then the member's actual years of credited service; and
+     (4)  For the three highest paid years of credited service not included in paragraph (1), (2), or (3), or if the member has fewer than three years of credited service in that capacity, then the member's actual years of credited service.
+     (f)  If a member, who becomes a member after June 30, 2012, has credited service rendered as an elective officer or as a legislative officer, the member's average final compensation shall be computed separately for each category of service as follows:
+     (1)  For the five highest paid years of credited service as an elective officer, or if the member has fewer than five years of credited service in that capacity, then the member's actual years of credited service;
+     (2)  For the five highest paid years of credited service as a legislative officer, or if the member has fewer than five years of credited service in that capacity, then the member's actual years of credited service;
+     (3)  For the five highest paid years of credited service as a judge, or if the member has fewer than three years of credited service in that capacity, then the member's actual years of credited service; and
+     (4)  For the five highest paid years of credited service not included in paragraph (1), (2), or (3), or if the member has fewer than five years of credited service in that capacity, then the member's actual years of credited service.
+     (g)  If:
+     (1)  A member's average non-base pay, divided by the member's average base pay, is greater than ten per cent; and
+     (2)  The member's average final compensation non-base pay ratio divided by the comparison period non-base pay ratio is greater than or equal to one-hundred twenty per cent,
+the amount by which the member's total compensation, pay or salary during the period used to calculate average final compensation, divided by the number of years used to determine average compensation, exceeds the member's average base pay, multiplied by the sum of one and the member's comparison period non-base pay ratio, shall be excluded from the calculation of the member's average final compensation.  This subsection shall apply to members who become members of the system after June 30, 2012.
+     (h)  Subsection (g) shall apply, commencing July 1, 2015, to members who became members of the system before July 1, 2012; provided that:
+     (1)  A member's average final compensation shall not be less than what the member's average final compensation would have been if the member had retired on June 30, 2015; and
+     (2)  Compensation, pay or salary earned during the period used to calculate average compensation shall not be subject to the exclusion required by subsection (g), if the compensation, pay or salary was earned before July 1, 2015."
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Employees' Retirement System
+ 
+Description:
+To prevent unexpected increases in pension benefits and in the unfunded actuarial accrued liability of the Employees' Retirement System by limiting the amount of compensation included in "average final compensation" and requiring employers to pay the additional costs resulting from spiking.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

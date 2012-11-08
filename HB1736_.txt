@@ -1,0 +1,79 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1736
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE HAWAII HEALTH INSURANCE EXCHANGE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 435H, Hawaii Revised Statutes, is amended by adding two new sections to be appropriately designated and to read as follows:
+     "§435H-     Separate programs for individual market and small group market; participation by insurers.  (a)  The connector shall establish and administer a separate program and risk pool to serve each the individual market and the small group market, which shall operate in a manner consistent with the provisions of this chapter and the Federal Act.
+     (b)  Any insurer that offers a qualified plan or qualified dental plan to the small group market of the connector shall also offer qualified plans or qualified dental plans, respectively, to the individual market of the connector; provided that the insurance commissioner may grant a waiver to this requirement to an insurer that demonstrates that compliance with this subsection will likely result in insolvency or other extreme economic hardship for that insurer.
+     (c)  Any insurer that participates in the connector shall offer qualified plans that are available to all properly qualified residents of this State.
+     §435H-     Navigator program.  (a)  The board shall establish a navigator program that is consistent with section 1311(i) of the Federal Act.
+     (b)  The connector may award grants to entities that are selected by the board to serve as navigators; provided that recipients of navigator grants shall:
+     (1)  Be nonprofit entities organized under chapter 414D;
+     (2)  Meet requirements for navigators specified in section 1311(i) of the Federal Act; and
+     (3)  Meet any additional requirements established by the board;
+provided further that an insurance producer or insurance broker shall not serve as a navigator.
+     (c)  Federal funds received by the State to establish the connector shall not be used to fund grants to navigators."     SECTION 2.  Section 435H-1, Hawaii Revised Statutes, is amended by adding five new definitions to be appropriately inserted and to read:
+     ""Health benefit plan" means a policy, contract, certificate, or agreement offered, delivered, issued for delivery, renewed, amended, or continued in the State by an insurer to provide, deliver, arrange, pay for, or reimburse any of the costs of health care services.  "Health benefit plan" shall not include:
+     (1)  Coverage for only accident or disability income insurance, or any combination thereof;
+     (2)  Coverage issued as a supplement to liability insurance;
+     (3)  Liability insurance, including general liability insurance and motor vehicle liability insurance;
+     (4)  Workers' compensation or similar insurance;
+     (5)  Motor vehicle personal injury protection insurance;
+     (6)  Credit-only insurance;
+     (7)  Coverage for on-site medical clinics; and
+     (8)  Other insurance coverage under which benefits for health care services are secondary or incidental to other insurance benefits;
+     (9)  The following benefits if the benefits are provided under a separate policy, certificate, or contract of insurance or are otherwise not an integral part of the plan:
+         (A)  Limited scope dental or vision benefits; and
+         (B)  Benefits for long-term care, nursing home care, home health care, community-based care, or any combination thereof;
+    (10)  The following benefits if the benefits are provided under a separate policy, certificate, or contract of insurance, there is no coordination between the provision of the benefits and any exclusion of benefits under any group health plan maintained by the same plan sponsor, and the benefits are paid with respect to an event without regard to whether benefits are provided with respect to the event under any group health plan maintained by the same insurer:
+         (A)  Coverage only for a specified disease or illness; and
+         (B)  Hospital indemnity or other fixed indemnity insurance; and
+    (11)  The following if offered as a separate policy, certificate, or contract of insurance:
+         (A)  Medicare supplemental health insurance as defined under section 1882(g)(1) of the Social Security Act;
+         (B)  Coverage supplemental to the coverage provided under Chapter 55 of Title 10, United States Code, as amended; and
+         (C)  Similar coverage provided to supplement coverage under a group health plan.
+     "Individual market" means the market for health insurance coverage offered to individuals other than in connection with a group health plan.
+     "Qualified employer" means a small employer that elects to make, at a minimum, all of its full-time employees eligible for one or more qualified plans in the small group market offered through the connector.
+     "Small employer" means an employer who employed an average of at least one and not more than fifty employees on business days during the preceding calendar year and who employs at least one employee on the first day of the plan year.  Beginning January 1, 2016, "small employer" means an employer who employed an average of at least one and not more than one hundred employees on business days during the preceding calendar year and who employs at least one employee on the first day of the plan year.
+     "Small group market" means the health insurance market under which individuals obtain health insurance coverage on behalf of themselves and their dependents through a group health plan maintained by a small employer."
+     SECTION 3.  Section 435H-4, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  Board members shall serve staggered terms [and the interim board shall recommend an appropriate schedule for staggered terms; provided that this] and shall be appointed to terms of four years; provided that of the initial appointees, five shall be appointed to a two-year term, and five shall be appointed to a three-year term.  Each member shall hold office until the member's successor is appointed and qualified.  This subsection shall not apply to ex-officio members, who shall serve during their entire term of office."
+     SECTION 4.  Section 435H-7, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§435H-7[]]  Eligibility determination for applicants in medicaid adult and children's health insurance program.  The department of human services shall be the agency to determine qualifications and eligibility of individuals to participate in medicaid [adult] or children's health insurance programs.  [The agency's determination of eligibility shall enable qualified individuals and authorized adults on behalf of qualified children to purchase qualified plans and qualified dental plans from the connector.  The department of human services shall verify for the connector individuals and children able to participate in subsidized plans purchased through the connector.] The agency shall make a determination of eligibility for each individual who applies through the connector unless the applicant declines an eligibility determination."
+     SECTION 5.  If any provision of this Act, or the application thereof to any person or circumstance, is held invalid, the invalidity does not affect other provisions or applications of the Act that can be given effect without the invalid provision or application, and to this end the provisions of this Act are severable.
+     SECTION 6.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 7.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Hawaii Health Insurance Exchange
+ 
+Description:
+Specifies that the Hawaii health connector shall establish separate risk pools for the individual market and the small group market.  Establishes staggered terms for board members.  Clarifies qualifications of and restrictions on navigators.  Clarifies role of DHS in determining medicaid eligibility. Effective 7/1/12.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

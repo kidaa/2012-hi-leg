@@ -1,0 +1,54 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2653
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO TELECOMMUNICATIONS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Act 199, Session Laws of Hawaii 2010, established a broadband work group that recommended streamlining various permitting requirements to develop broadband services and broadband technology infrastructure.  Based upon the broadband work group recommendations, the legislature passed Act 151, Session Laws of Hawaii 2011, which streamlined permitting requirements applicable to broadband infrastructure along existing poles and conduits.
+     In 2011, the State launched the Hawaii broadband initiative with the goal of, among other things, increasing the use of high-speed broadband services and developing a modern regulatory and permitting environment that supports and advances investment in broadband infrastructure and services for the public.  Among other goals, the initiative is focused on promoting advanced wireless services throughout Hawaii and working with wireless providers regarding the barriers and obstacles to investment and progress in providing high-speed wireless broadband services.
+     The legislature finds that, consistent with Act 199, Session Laws of Hawaii 2010, Act 151, Session Laws of Hawaii 2011, and the State’s goals of promoting the development of broadband infrastructure, the State should:
+     (1)  Provide an exemption that streamlines various permitting requirements for the improvement or upgrade of existing wireless telecommunications towers and structures and network equipment; and
+     (2)  Expedite the timeline for the installation of new wireless telecommunications towers and structures and network equipment.
+     The purpose of this Act is to facilitate the deployment of high-speed wireless broadband infrastructure in Hawaii by exempting the installation, improvement, construction, or development of infrastructure relating to wireless broadband service or broadband technology from state and county permitting requirements, under certain conditions. 
+     SECTION 2.  (a)  From July 1, 2012, to January 1, 2017, actions relating to the installation, improvement, construction, upgrading, or development of existing wireless broadband facilities shall be exempt from county permitting requirements and state permitting and approval requirements including but not limited to the requirements of chapters 171, 205A, and 343, Hawaii Revised Statutes, except to the extent that the permitting or approval is required by federal law or is necessary to protect eligibility for federal funding, services, or other assistance.
+     (b)  An entity taking any action under subsection (a) shall provide at least thirty days notice to the director of commerce and consumer affairs by electronically posting the proposed action on a website designated by the director; provided that notice need not be given by a public utility or government entity for an action relating to the installation, improvement, construction, or development of wireless broadband facilities where the action taken is to provide access as the owner of the existing rights-of-way, utility easements, or infrastructure.
+     (c)  Any final decision regarding state or county approval requirements relating to the siting of new wireless broadband facilities shall be issued within one-hundred twenty days of submission of a complete application and full payment of any applicable fee.  If after one hundred twenty days a final decision is not issued, the application shall be deemed approved.
+     (d)  Upon approval of a proposed new tower or antenna support structure, all state and county building permits shall be approved, approved with modifications, or disapproved within forty-five days of submission of a complete application and full payment of any applicable fee.  If after forty-five days an application is not approved, approved with modification, or disapproved, the application shall be deemed approved.  
+     (e)  The time periods established by subsections (c) and (d) shall be extended in the event of a natural disaster, state emergency, or union strike, that prevents the applicant, agency, or a department from fulfilling application review requirements.
+     (f)  For purposes of this section, "wireless broadband facilities" means infrastructure relating to wireless broadband services or wireless broadband technology, including the interconnection of telecommunications cables, towers, antenna support structures, utility poles, and conduits.
+     SECTION 3.  The director of commerce and consumer affairs shall submit a report to the legislature no less than twenty days prior to the convening of the regular session of 2016 that includes:
+     (1)  Information on the number of permitting exemptions granted pursuant to this Act; and
+     (2)  Recommendations whether to extend or modify the exemptions provided by this Act, including any proposed legislation.
+     SECTION 4.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Broadband; Telecommunications; Permits
+ 
+Description:
+Exempts the upgrading of existing wireless broadband facilities from state and county permitting processes.  Requires State and counties to give final approval for new wireless infrastructure within 120 days and approve permits for new wireless infrastructure within 45 days.  Effective 7/1/12 to 1/1/17.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

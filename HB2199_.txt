@@ -1,0 +1,224 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2199
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO HEALTH CARE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that the growth rate of the elderly population in the State, those sixty-five years and older, is expected to accelerate.  The United States Bureau of the Census reports that the proportion of Hawaii's population classified as elderly is expected to increase from 12.6 per cent in 1995 to 15.9 per cent in 2025.  The increasing proportion of the elderly requires that the State take action to anticipate and prepare for the future health care needs of Hawaii's population.
+     The United States Congress has already recognized the need for health care reform and enacted the Affordable Care Act in 2010.  The Affordable Care Act is intended to improve health care in America by, among other things, establishing a competitive health insurance market, ending discrimination against pre-existing health conditions, expanding medicaid coverage, enhancing the quality of health care, and reducing health care fraud and waste.  The legislature finds that Hawaii should take similar actions to improve health care in the State.  One organizational change that could improve government efficiency and health care is to consolidate certain health care services that are currently managed by the department of health and the department of human services.
+     The legislature finds that the department of health has already established an office of health care assurance that manages state licensing and federal certification of medical and health care facilities, agencies, and services provided throughout the State to ensure compliance with established standards of care.  Given the office's existing functions, the legislature finds that health care services currently provided by the department of human services and the department of health should be consolidated under the jurisdiction of the office of health care assurance to improve the efficiency, capacity, and quality of state health care services.
+     The purpose of this Act is to consolidate the authority, duties, responsibilities, and jurisdiction of the department of human services and the department of health, as they relate to various health care services, by transferring to the department of health office of health care assurance on July 1, 2014, the programs of the department of human services relating to:
+     (1)  Home and community-based case management;
+     (2)  Community care foster family homes; and
+     (3)  Adult day care.
+     SECTION 2.  Chapter 321, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows:
+"PART   .  HOME AND COMMUNITY-BASED CASE MANAGEMENT
+AGENCIES AND COMMUNITY CARE FOSTER FAMILY HOMES
+     §321-A  Definitions.  As used in this part:
+     "Assisted living facility" means an assisted living facility as defined in section 321-15.1.
+     "Certificate of approval" means the certificate issued by the department or its designee that authorizes a person, agency, or organization to operate a community care foster family home.
+     "Client" means any person who receives home and community-based case management services to reside in a community care foster family home, expanded adult residential care home, or assisted living facility.
+     "Community care foster family home" or "home" means a home that, for the purposes of this part:
+     (1)  Is regulated by the department in accordance with rules that are equitable in relation to rules that govern expanded adult residential care homes;
+     (2)  Is issued a certificate of approval by the department or its designee to provide, for a fee, twenty-four-hour living accommodations, including personal care and homemaker services, for not more than two adults at any one time, at least one of whom shall be a medicaid recipient, who are at the nursing facility level of care, who are unrelated to the foster family, and who are receiving the services of a licensed home and community-based case management agency; provided that the department, in its discretion, may certify a home for a third adult who is at the nursing level of care and a medicaid recipient; provided that the:
+         (A)  Home has been certified and in operation for not less than one year;
+         (B)  Primary caregiver is a certified nurse aide, as defined in section 457A‑1.5, who has completed a state-approved training program and other training as required by the department; and
+         (C)  Substitute caregiver is a nurse aide, as defined in section 457A-1.5, who has completed a state-approved training program and other training as required by the department; and
+     (3)  Does not include expanded adult residential care homes or assisted living facilities.
+     "Department" means the department of health.
+     "Designee" means a person, institution, organization, or agency authorized by the department to issue certificates of approval to community care foster family homes and to monitor these homes for certificate compliance and quality assurance.  The department's designee shall perform these functions for the department and shall not at the same time function as a home and community-based case management agency or a community care foster family home as defined in this section.
+     "Expanded adult residential care home" means any facility providing twenty-four-hour living accommodations, for a fee, to adults unrelated to the family, who require at least minimal assistance in the activities of daily living, personal care services, protection, and health care services, and who may need the professional health services provided in an intermediate or skilled nursing facility.
+     "Home and community-based case management agency" means any person, agency, or organization licensed by the department to provide, coordinate, and monitor comprehensive services to meet the needs of clients whom the agency serves in a community care foster family home or any medicaid clients in an expanded adult residential care home, or an assisted living facility.
+     "License" means an approval issued by the department or its authorized agents for a person, agency, or organization to operate as a home and community-based case management agency.    §321-B  Applicability.  Community care foster family homes shall be required to reserve at least one bed for medicaid patients.
+     §321-C  Home and community-based case management agency, authority over and evaluation of.  (a)  Any person, agency, or organization engaged in providing, coordinating, or monitoring comprehensive services to clients in community care foster family homes, or medicaid clients in expanded adult residential care homes, and assisted living facilities, shall meet the standards of conditions, management, and competence set by the department and hold a license in good standing issued for this purpose by the department.
+     (b)  The department shall adopt rules pursuant to chapter 91 relating to:
+     (1)  Standards for the organization and administration of home and community-based case management agencies;
+     (2)  Standards of conditions, management, and competence of home and community-based case management agencies;
+     (3)  Procedures for obtaining and renewing a license from the department; and
+     (4)  Minimum grievance procedures for clients of case management services.
+     (c)  As a condition for obtaining a license, a person, agency, or organization shall comply with rules adopted under subsection (b)(1), (2), and (3), and satisfy the background check requirements under section 321-E.  The department may deny a license if:
+     (1)  An operator, employee, or new employee of the home and community-based case management agency has been convicted of a crime other than a minor traffic violation involving a fine of $50 or less;
+     (2)  The department finds that the criminal history record of an operator, employee, or new employee poses a risk to the health, safety, or well-being of adults receiving care in community care foster family homes, expanded adult residential care homes, or assisted living facilities;
+     (3)  An operator, employee, or new employee of the home and community-based case management agency is a perpetrator of abuse as defined in section 346-222; or
+     (4)  The holder of or an applicant for a home and community-based case management agency license, or one of its employees, has a certificate of approval to operate a community care foster family home, or a license from the department of health to operate an adult residential care home, expanded adult residential care home, or assisted living facility.
+     (d)  Upon approval of any home and community-based case management agency, the department or its authorized agents shall issue a license, which shall continue in force for one year, or for two years if a home and community-based case management agency has been licensed for at least one year and is in good standing pursuant to standards adopted by the department, unless sooner revoked for cause.  The department or its authorized agents shall renew the license only if, after an annual or biennial evaluation, the agency continues to meet the standards established by the department.
+     (e)  The department shall evaluate the home and community-based case management agency to determine compliance with the requirements established under this section:
+     (1)  Annually or biennially; or
+     (2)  Upon receipt of a complaint that the home and community-based case management agency is in violation of the requirements established under this section.
+     (f)  The department may suspend or revoke a license if the department deems that the agency is unwilling or unable to comply with the rules adopted under this section; provided that:
+     (1)  Upon suspension or revocation of a license, the home and community-based case management agency shall no longer be licensed and shall immediately notify the agency's clients and community care foster family homes, expanded adult residential care homes, and assisted living facilities in which the agency is providing services to clients;
+     (2)  A home and community-based case management agency whose license has been suspended or revoked may appeal the suspension or revocation to the department through its established process, but the appeal shall not stay the suspension or revocation;
+     (3)  A suspended or revoked license may be reinstated if the department deems that the agency is willing and able to comply with the rules adopted under this section; and
+     (4)  A revoked license shall be restored only after a new application is made and reviewed under this part.
+     (g)  Any home and community-based case management agency shall be subject to investigation by the department at any time and in the manner, place, and form as provided in the department's rules.
+     (h)  The department shall adopt standard forms of contract that the home and community-based case management agency shall use with each of its clients, community care foster family homes, expanded adult residential care homes, and assisted living facilities.
+     (i)  The department shall establish a review board consisting of three operators of community care foster family homes and three operators of expanded adult residential care homes.  The review board shall monitor referrals and placements of clients by each home and community-based case management agency on a monthly basis.  Each home and community-based case management agency shall be required to provide monthly reports to the review board.
+     (j)  The home and community-based case management agency shall have a fiduciary duty to each client it serves.
+     (k)  A home and community-based case management agency shall not enter into an agreement that requires a community care foster family home to accept that agency's clients exclusively.  §321-D  Community care foster family home, authority over and evaluation of.  (a)  Any person in any household who wants to take in, for a fee, any adult who is at the nursing facility level of care and who is unrelated to anyone in the household, for twenty-four-hour living accommodations, including personal care and homemaker services, may do so only after the household meets the required standards established for certification and obtains a certificate of approval from the department or its designee.
+     (b)  The department shall adopt rules pursuant to chapter 91 relating to:
+     (1)  Standards of conditions and competence for the operation of community care foster family homes;
+     (2)  Procedures for obtaining and renewing a certificate of approval from the department;
+     (3)  Minimum grievance procedures for clients of community care foster family home services; and
+     (4)  Requirements for primary and substitute caregivers caring for three clients in community care foster family homes including:
+         (A)  Mandating that primary and substitute caregivers be twenty-one years of age or older;
+         (B)  Mandating that primary and substitute caregivers complete a minimum of twelve hours of continuing education every twelve months or at least twenty-four hours of continuing education every twenty-four months;
+         (C)  Allowing the primary caregiver to be absent from the community care foster family home for no more than twenty-eight hours in a calendar week, not to exceed five hours per day; provided that the substitute caregiver is present in the community care foster family home during the primary caregiver's absence;
+         (D)  Where the primary caregiver is absent from the community care foster family home in excess of the hours as prescribed in subparagraph (C), mandating that the substitute caregiver be a certified nurse aide; and
+         (E)  Mandating that the substitute caregiver have, at a minimum, one year prior work experience as a caregiver in a community residential setting or in a medical facility.
+     (c)  As a condition for obtaining a certificate of approval, community care foster family homes shall comply with rules adopted under subsection (b) and satisfy the background check requirements under section 321-E.  The department or its designee may deny a certificate of approval if:
+     (1)  An operator or other adult residing in the community care foster family home, except for adults receiving care, has been convicted of a crime other than a minor traffic violation involving a fine of $50 or less;
+     (2)  The department or its designee finds that the criminal history record of an operator or other adult residing in the home, except for adults receiving care, poses a risk to the health, safety, or well-being of adults in care; or
+     (3)  An operator or other adult residing in the community care foster family home, except for adults receiving care, is a perpetrator of abuse as defined in section 346-222.
+     (d)  Upon approval of a community care foster family home, the department or its designee shall issue a certificate of approval that shall continue in force for one year, or for two years if a community care foster family home has been certified for at least one year and is in good standing pursuant to standards adopted by the department, unless sooner suspended or revoked for cause.  The department or its designee shall renew the certificate of approval only if, after an annual or biennial evaluation, the home continues to meet the standards required for certification.
+     (e)  Any community care foster family home shall be subject to investigation by the department or its designee at any time and in the manner, place, and form as provided in procedures to be established by the department.
+     (f)  The department or its designee may suspend or revoke a certificate of approval if the department or its designee deems that a community care foster family home is unwilling or unable to comply with the rules adopted under subsection (b); provided that:
+     (1)  The suspension or revocation shall be immediate when conditions exist that constitute an imminent danger to life, health, or safety of adults receiving care;
+     (2)  A community care foster family home whose certificate of approval has been suspended or revoked shall immediately notify its clients and their case managers;
+     (3)  A community care foster family home whose certificate of approval has been suspended or revoked may appeal to the department through its established process, but the appeal shall not stay the suspension or revocation;
+     (4)  A suspended or revoked certificate of approval may be reinstated if the department or its designee deems that the home is willing and able to comply with the rules adopted under subsection (b); and
+     (5)  A revoked certificate of approval shall be restored only after a new application for a certificate of approval is submitted to the department or its designee and approved.
+     (g)  Any community care foster family home shall be subject to monitoring and evaluation by the department or its designee for certification compliance and quality assurance on an annual or biennial basis.
+     §321-E  Background checks.  (a)  The department shall develop standards to ensure the reputable and responsible character of operators, employees, volunteers, and other adults regularly present, except for adults in care, of the programs identified in this part.
+     (b)  An applicant for the programs identified in this part shall:
+     (1)  Be subject to criminal history record checks in accordance with section 846-2.7;
+     (2)  Be subject to adult abuse perpetrator checks, if the individual has direct contact with a client.  For the purposes of this section, "adult abuse perpetrator check" means a search to determine whether an individual is known to the department as a perpetrator of abuse as defined in section 346-222, by means of a search of the individual's name and birth date in the department's adult protective service file; and
+     (3)  Provide consent to the department or its designee to conduct an adult abuse perpetrator check and to obtain other criminal history record information for verification.
+     (c)  New employees of the programs identified in this part shall be fingerprinted within five working days of employment, for the purpose of complying with the criminal history record check requirement.
+     (d)  The department or its designee shall obtain criminal history record information through the Hawaii criminal justice data center in accordance with section 846-2.7 on applicants for programs identified in this part.  The Hawaii criminal justice data center may assess the applicants and operators, employees, and new employees a reasonable fee for each criminal history record check conducted.  The information obtained shall be used exclusively for the stated purposes for which it was obtained and shall be subject to federal laws and regulations as may be now or hereafter adopted.
+     (e)  The department or its designee shall make a name inquiry into the criminal history records and the adult protective service file for the first two years a home and community-based case management agency is licensed and annually or biennially thereafter depending on the licensure status of the home and community-based case management agency.
+     (f)  An applicant for a certificate of approval as a community care foster family home and operators and other adults residing in a community care foster family home shall:
+     (1)  Be subject to criminal history record checks in accordance with section 846-2.7;
+     (2)  Be subject to adult abuse perpetrator checks, if the individual has direct contact with a client.  For the purposes of this section, "adult abuse perpetrator check" means a search to determine whether an individual is known to the department as a perpetrator of abuse as defined in section 346-222, by means of a search of the individual's name and birth date in the department's adult protective service file; and
+     (3)  Provide consent to the department to conduct an adult abuse perpetrator check and to obtain other criminal history record information for verification.
+     (g)  The department or its designee shall obtain criminal history record information through the Hawaii criminal justice data center on applicants for certificates of approval as community care foster family homes and operators and other adults residing in community care foster family homes, except for adults receiving care.  The Hawaii criminal justice data center may assess the applicants and operators and other adults a reasonable fee for each criminal history record check conducted.  The information obtained shall be used exclusively for the stated purpose for which it was obtained and shall be subject to federal laws and regulations as may be now or hereafter adopted.
+     (h)  The department or its designee shall make a name inquiry into the criminal history records and the adult protective service file for the first two years a community care foster family home is certified and annually or biennially thereafter depending on the certification status of the community care foster family home.
+     §321-F  Penalty.  Any person violating this part or any rule made pursuant to this part shall be fined not more than $500."
+     SECTION 3.  Section 346-10, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  The department and its agents shall keep records that may be necessary or proper in accordance with this chapter.  All applications and records concerning any applicant or recipient shall be confidential.  The use or disclosure of information concerning applicants and recipients shall be limited to:
+     (1)  Persons duly authorized by the State or the United States in connection with their official duties, when the official duties are directly connected with the administration of any form of public assistance, medical assistance, food stamps, or social services;
+     (2)  Purposes directly connected with any investigation, prosecution, or criminal or civil proceeding conducted in connection with the administration of any form of public assistance, food stamps, medical assistance, or social services, including disclosure by the department, of information and documents to police departments, prosecutors' offices, the attorney general's office, or any other state, county, or federal agency engaged in the detection, investigation, or prosecution of violations of applicable state, county, and federal laws or regulations regarding any aspect of theft, fraud, deception, or overpayment in connection with any aspect of public assistance, food stamps, medical assistance, or social services; provided that disclosure by recipient agencies and personnel shall be permitted under this section to the extent reasonably necessary to carry out the functions for which the information was provided;
+     (3)  Disclosure to the extent necessary to provide services for applicants and recipients, to determine eligibility, or to determine the amount of public assistance, including verification of information provided by the recipient of public assistance, medical assistance, or food stamps, or to determine the type, kind, frequency, and amount of social services, including health and mental health related services needed;
+     (4)  Disclosure to banks, financial institutions, or any other payor of a public assistance warrant or check of any information indicating that a public assistance warrant or check honored by the bank, institution, or payor has been forged or otherwise wrongfully presented for payment;
+     (5)  Federal agencies responsible for the administration of federally assisted programs, that provide assistance in cash or in kind for services directly to individuals on the basis of need; and certification of receipt of assistance to needy families with minor dependents to an employer for purposes of claiming tax credit under Public Law 94-12, the Tax Reduction Act of 1975, shall be permitted;
+     (6)  Employees acting within the scope and course of their employment of recognized social welfare organizations as may be approved by the department;
+    [(7)  Purposes directly connected with any investigation, prosecution, or criminal proceeding conducted in connection with the licensure or operation of an adult day care center, including disclosure by the department, of information and documents to police departments, prosecutors' offices, the attorney general's office, or any other state, county, or federal agency engaged in the detection, investigation, or prosecution of violations of applicable state, county, and federal laws or regulations;
+     (8)] (7)  Disclosure to the child support enforcement agency for obtaining or enforcing a child support order under chapter 576D;
+    [(9)] (8)  Purposes directly connected to and necessary for the career planning, job training, education, job placement, or employment of participants in the workfare program under part IX;
+   [(10)] (9)  Disclosure of a recipient's residence and business address to law enforcement officers who request information if the information is needed for an official administrative, civil, or criminal law enforcement purpose to identify a recipient as a fugitive felon or parole violator, and in cases where the information is needed for an official purpose and where the department has informed the recipient of the circumstances in which the recipient's address may be released under section 92F-19(a)(1), (3), or (4); and
+   [(11)] (10)  Disclosure of reports and records relating to child abuse or neglect to the extent allowed by rules adopted under section 350-1.4."
+     SECTION 4.  Section 346-53, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  The director, pursuant to chapter 91, shall determine the rate of payment for domiciliary care, including care provided in licensed developmental disabilities domiciliary homes, community care foster family homes, and certified adult foster homes, to be provided to recipients who are eligible for Federal Supplementary Security Income or public assistance, or both.  The director shall provide for level of care payment as follows:
+     (1)  Beginning on July 1, 2008, for adult residential care homes classified as facility type I, licensed developmental disabilities domiciliary homes as defined under section 321-15.9, community care foster family homes as defined under section [346-331,] 321-A, and certified adult foster homes as defined under section 321-11.2, the state supplemental payment shall not exceed $651.90; and
+     (2)  Beginning on July 1, 2008, for adult residential care homes classified as facility type II, the state supplemental payment shall not exceed $759.90.
+     If the operator does not provide the quality of care consistent with the needs of the individual to the satisfaction of the department, the department may remove the recipient to another facility.
+     The department shall handle abusive practices under this section in accordance with chapter 91.
+     Nothing in this subsection shall allow the director to remove a recipient from an adult residential care home or other similar institution if the recipient does not desire to be removed and the operator is agreeable to the recipient remaining, except where the recipient requires a higher level of care than provided or where the recipient no longer requires any domiciliary care."
+     SECTION 5.  Section 346-97, Hawaii Revised Statutes, is amended as follows:
+     1.  By amending subsection (b) to read:
+"(b)  The department shall adopt rules pursuant to chapter 91 establishing standards regarding the reputable and responsible character of service providers who have direct contact with individuals receiving services under this part, including[:
+     (1)  Licensed adult day care center operators, employees, new employees, subcontracted service providers and their employees, and adult volunteers;
+     (2)  Purchase of service contracted and subcontracted service providers and their employees serving clients of the adult and community care services branch;
+     (3)  Foster] the foster grandparent program, retired and senior volunteer program, senior companion program, and respite companion program participants[; and
+     (4)  Contracted and subcontracted service providers and their employees and new employees who provide home and community-based services under section 1915(c) of the Social Security Act (42 U.S.C. §1396n(c)), or under any other applicable section or sections of the Social Security Act for the purposes of providing home and community-based services]."
+      2.  By amending subsection (e) to read:
+     "(e)  The department may take appropriate action if it finds that the criminal history of the individual identified under subsection [[](b)[]] may pose a risk to the health, welfare, and safety of service recipients.  Such action may include[:
+     (1)  Denying a certificate of approval to operate an adult day care center; or
+     (2)  Refusing] refusing to use an individual as a service provider."
+     SECTION 6.  Section 346D-4.5, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  There may be established a monthly needs allowance for individuals living in:
+     (1)  Adult residential care home type I and type II facilities;
+     (2)  Licensed developmental disabilities domiciliary homes as defined in section 321-15.9;
+     (3)  Community care foster family homes as defined in section [346-331;] 321-A;
+     (4)  Certified adult foster homes as defined in section 321‑11.2;
+     (5)  Domiciliary care as defined in section 346-1;
+     (6)  A nursing facility as defined in section 346E-1; or
+     (7)  A community-based residence as part of the residential alternatives community care program."
+     SECTION 7.  Section 846-2.7, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  Criminal history record checks may be conducted by:
+     (1)  The department of health on operators of adult foster homes or developmental disabilities domiciliary homes and their employees, as provided by section 333F-22;
+     (2)  The department of health on prospective employees, persons seeking to serve as providers, or subcontractors in positions that place them in direct contact with clients when providing non-witnessed direct mental health services as provided by section 321-171.5;
+     (3)  The department of health on all applicants for licensure for, operators for, prospective employees, and volunteers at one or more of the following:  skilled nursing facility, intermediate care facility, adult residential care home, expanded adult residential care home, assisted living facility, home health agency, hospice, adult day health center, special treatment facility, therapeutic living program, intermediate care facility for individuals with intellectual disabilities, hospital, rural health center and rehabilitation agency, and, in the case of any of the above facilities operating in a private residence, on any adult living in the facility other than the client as provided by section 321-15.2;
+     (4)  The department of education on employees, prospective employees, and teacher trainees in any public school in positions that necessitate close proximity to children as provided by section 302A-601.5;
+     (5)  The counties on employees and prospective employees who may be in positions that place them in close proximity to children in recreation or child care programs and services;
+     (6)  The county liquor commissions on applicants for liquor licenses as provided by section 281-53.5;
+     (7)  The department of human services on operators and employees of child caring institutions, child placing organizations, and foster boarding homes as provided by section 346-17;
+     (8)  The department of human services on prospective adoptive parents as established under section 346-19.7;
+     (9)  The department of human services on applicants to operate child care facilities, prospective employees of the applicant, and new employees of the provider after registration or licensure as provided by section 346-154;
+    (10)  The department of human services on persons exempt pursuant to section 346-152 to be eligible to provide child care and receive child care subsidies as provided by section 346-152.5;
+    (11)  The department of [human services] health on operators and employees of home and community-based case management agencies and operators and other adults, except for adults in care, residing in foster family homes as provided by section [346-335;] 321-E;
+    (12)  The department of human services on staff members of the Hawaii youth correctional facility as provided by section 352-5.5;
+    (13)  The department of human services on employees, prospective employees, and volunteers of contracted providers and subcontractors in positions that place them in close proximity to youth when providing services on behalf of the office or the Hawaii youth correctional facility as provided by section 352D-4.3;
+    (14)  The judiciary on employees and applicants at detention and shelter facilities as provided by section 571-34;
+    (15)  The department of public safety on employees and prospective employees who are directly involved with the treatment and care of persons committed to a correctional facility or who possess police powers including the power of arrest as provided by section 353C-5;
+    (16)  The department of commerce and consumer affairs on applicants for private detective or private guard licensure as provided by section 463-9;
+    (17)  Private schools and designated organizations on employees and prospective employees who may be in positions that necessitate close proximity to children; provided that private schools and designated organizations receive only indications of the states from which the national criminal history record information was provided pursuant to section 302C-1;
+    (18)  The public library system on employees and prospective employees whose positions place them in close proximity to children as provided by section 302A-601.5;
+    (19)  The State or any of its branches, political subdivisions, or agencies on applicants and employees holding a position that has the same type of contact with children, vulnerable adults, or persons committed to a correctional facility as other public employees who hold positions that are authorized by law to require criminal history record checks as a condition of employment as provided by section 78-2.7;
+    (20)  The department of [human services] health on licensed adult day care center operators, employees, new employees, subcontracted service providers and their employees, and adult volunteers as provided by section [346-97;] 321-171.5;
+    (21)  The department of [human services] health on purchase of service contracted and subcontracted service providers and their employees serving clients of the adult and community care services branch, as provided by section [346-97;] 321-171.5;
+    (22)  The department of human services on foster grandparent program, retired and senior volunteer program, senior companion program, and respite companion program participants as provided by section 346-97;
+    (23)  The department of [human services] health on contracted and subcontracted service providers and their current and prospective employees that provide home and community-based services under Section 1915(c) of the Social Security Act, Title 42 United States Code Section 1396n(c), or under any other applicable section or sections of the Social Security Act for the purposes of providing home and community-based services, as provided by section [346-97;] 321-171.5;
+    (24)  The department of commerce and consumer affairs on proposed directors and executive officers of a bank, savings bank, savings and loan association, trust company, and depository financial services loan company as provided by section 412:3-201;
+    (25)  The department of commerce and consumer affairs on proposed directors and executive officers of a nondepository financial services loan company as provided by section 412:3-301;
+    (26)  The department of commerce and consumer affairs on the original chartering applicants and proposed executive officers of a credit union as provided by section 412:10-103;
+    (27)  The department of commerce and consumer affairs on:
+         (A)  Each principal of every non-corporate applicant for a money transmitter license; and
+         (B)  The executive officers, key shareholders, and managers in charge of a money transmitter's activities of every corporate applicant for a money transmitter license,
+          as provided by section 489D-9;
+    (28)  The department of commerce and consumer affairs on applicants for licensure and persons licensed under title 24;
+    (29)  The Hawaii health systems corporation on:
+         (A)  Employees;
+         (B)  Applicants seeking employment;
+         (C)  Current or prospective members of the corporation board or regional system board; or
+         (D)  Current or prospective volunteers, providers, or contractors,
+          in any of the corporation's health facilities as provided by section 323F-5.5;
+    (30)  The department of commerce and consumer affairs on:
+         (A)  An applicant for a mortgage loan originator license; and
+         (B)  Each control person, executive officer, director, general partner, and manager of an applicant for a mortgage loan originator company license,
+          as provided by chapter 454F; and
+    (31)  Any other organization, entity, or the State, its branches, political subdivisions, or agencies as may be authorized by state law."
+     SECTION 8.  Chapter 346, part XIV, Hawaii Revised Statutes, is repealed.
+     SECTION 9.  All officers and employees whose functions are transferred by this Act shall be transferred with their functions and shall continue to perform their regular duties upon their transfer, subject to the state personnel laws and this Act.
+     No officer or employee of the State having tenure shall suffer any loss of salary, seniority, prior service credit, vacation, sick leave, or other employee benefit or privilege as a consequence of this Act, and such officer or employee may be transferred or appointed to a civil service position without the necessity of examination; provided that the officer or employee possesses the minimum qualifications for the position to which transferred or appointed; and provided that subsequent changes in status may be made pursuant to applicable civil service and compensation laws.
+     An officer or employee of the State who does not have tenure and who may be transferred or appointed to a civil service position as a consequence of this Act shall become a civil service employee without the loss of salary, seniority, prior service credit, vacation, sick leave, or other employee benefits or privileges and without the necessity of examination; provided that such officer or employee possesses the minimum qualifications for the position to which transferred or appointed.
+     If an office or position held by an officer or employee having tenure is abolished, the officer or employee shall not thereby be separated from public employment, but shall remain in the employment of the State with the same pay and classification and shall be transferred to some other office or position for which the officer or employee is eligible under the personnel laws of the State as determined by the head of the department or the governor.
+     SECTION 10.  All appropriations, records, equipment, machines, files, supplies, contracts, books, papers, documents, maps, and other personal property heretofore made, used, acquired, or held by the department of human services relating to the functions transferred to the office of health care assurance in the department of health shall be transferred with the functions to which they relate.
+     SECTION 11.  All unencumbered moneys deposited in any revolving or special fund controlled by the department of human services relating to the functions transferred to the department of health shall lapse to the credit of the general fund.
+     SECTION 12.  All rules, policies, procedures, guidelines, and other material adopted or developed by the department of human services to implement provisions of the Hawaii Revised Statutes and which are reenacted or made applicable to the office of health care assurance in the department of health by this Act shall remain in full force and effect until amended or repealed by the director of health pursuant to chapter 91, Hawaii Revised Statutes.  In the interim, every reference to the department of human services or the director of human services in those rules, policies, procedures, guidelines, and other material is amended to refer to the department of health, office of health care assurance, or the director of health, as appropriate.
+     SECTION 13.  All deeds, leases, contracts, loans, agreements, permits, or other documents executed or entered into by or on behalf of the department of human services pursuant to the provisions of the Hawaii Revised Statutes that are reenacted or made applicable to the office of health care assurance in the department of health by this Act, shall remain in full force and effect.  From July 1, 2014, every reference to the department of human services or the director of human services therein shall be construed as a reference to the department of health or the director of health, as appropriate.
+     SECTION 14.  If any part of this Act is found to be in conflict with federal requirements that are a prescribed condition for the allocation of federal funds to the State, the conflicting part of this Act is inoperative solely to the extent of the conflict and with respect to the agencies directly affected, and this finding does not affect the operation of the remainder of this Act in its application to the agencies concerned.  The rules in effect as a result of this Act shall meet federal requirements that are a necessary condition to the receipt of federal funds by the State.
+     SECTION 15.  The department of health and the department of human services shall collaborate to implement the transfers and transitions required under this Act with as little disruption as is possible to the ongoing duties, responsibilities, and public services each respective department currently provides.
+     SECTION 16.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 17.  This Act shall take effect on July 1, 2014; provided that section 15 shall take effect upon approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Health Care Services; Consolidation; Department of Human Services; Department of Health
+ 
+Description:
+Consolidates the authority, duties, responsibilities, and jurisdiction of the department of human services and the department of health, as they relate to various health care services; transfers the programs of the department of human services relating to home and community-based case management, community care foster family homes, and adult day care to the department of health on July 1, 2014.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

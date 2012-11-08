@@ -1,0 +1,61 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2047
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO INFORMATION PROTECTION.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 487J, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§487J-    Identity theft prevention policy and procedure; requirements; penalty.  (a)  By January 1, 2014, every business that maintains personal information shall implement a comprehensive, written policy and procedure to prevent identity theft.  The policy and procedure shall include administrative, technical, and physical safeguards for the protection of personal information.  In addition, the policy and procedure shall be designed to:
+     (1)  Ensure the security and confidentiality of personal information and medical, educational, and financial records;
+     (2)  Protect against any anticipated threats or hazards to the security or integrity of personal information and medical, educational, and financial records; and
+     (3)  Prevent the occurrence of any security breach.
+     (b)  Every business covered by this section shall train all employees in the implementation of the policy and procedure to prevent identity theft.  Employees shall be required to sign a form acknowledging receipt of training, and the business shall deposit each employee's acknowledgment in the employee's file.
+     (c)  Notwithstanding section 487J-3 to the contrary, any business that violates this section shall be fined not more than $100 for each violation.  The penalty provided in this section shall be cumulative to the remedies or penalties available under all other laws of this State."
+     SECTION 2.  Chapter 487J, Hawaii Revised Statutes, is amended by amending the title to read as follows:
+"CHAPTER 487J
+[SOCIAL SECURITY NUMBER] PROTECTION OF PERSONAL INFORMATION"
+     SECTION 3.  Section 487J-1, Hawaii Revised Statutes, is amended by adding two new definitions to be appropriately inserted and to read as follows:
+     ""Identity theft" has the same meaning as in section 489P-2.
+     "Security breach" has the same meaning as in section 487N-1."
+     SECTION 4.  Section 487J-5, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§487J-5[]]  Policy and oversight responsibility.  (a)  By September 1, 2009, each government agency and by January 1, 2014, each business shall designate an agency [employee] or business employee, as appropriate, to have policy and oversight responsibilities for the protection of personal information.
+     (b)  The designated agency or business employee shall:
+     (1)  Ensure and coordinate agency compliance with this chapter, chapter 487N, and chapter 487R;
+     (2)  Assist individuals who have identity theft and other privacy-related concerns;
+     (3)  Provide education and information to agency staff on privacy and security issues;
+     (4)  Coordinate with state, county, and federal law enforcement agencies on identity theft investigations; and
+     (5)  Recommend policies and practices to protect individual privacy rights relating to the individual's personal information."
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Identity Theft; Personal Information
+ 
+Description:
+By January 1, 2014, requires businesses to implement a comprehensive, written policy and procedure to prevent identity theft, and to designate an employee to be responsible for protecting personal information.  Requires businesses to train all employees in the implementation of the policy and procedure.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,52 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2389
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO NET ENERGY METERING.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that Hawaii has supported its growing solar energy market with incentives including tax credits, net metering, and feed-in tariffs.  Numerous policies have been introduced in recent years to encourage the use of renewable energy and work toward the goals of the Hawaii Clean Energy Initiative.  The legislature further finds that although incentives have encouraged many residential users to invest in solar technology for their homes, only twenty-two to twenty-seven per cent of residential buildings in the State are suitable for hosting on-site photovoltaic energy systems due to structural features, shading, or ownership issues.  The legislature further finds that solar energy programs need to provide options for residents or tenants in multi-unit buildings, residences or other buildings with rooftops that do not allow for photovoltaic system placement, or persons who otherwise cannot install a photovoltaic system on-site.  The legislature finds that group net metering is an approach that has been used in other states and municipalities to make photovoltaic energy generation more accessible to households and consumers and broaden investment in solar energy.
+     The legislature finds that participation in a group net metering program can help consumers lower their up-front purchase costs for solar energy systems.  Group net metering may also help the State reach its solar energy goals faster by accelerating solar purchases.  The legislature also finds that group net metering projects create an opportunity for many people to invest in solar energy who are otherwise unable to install a photovoltaic energy system on their own rooftop.  Virtual net metering, a type of group net metering that is available to entire communities, enables participants to receive utility bill credits or another agreed-upon form of compensation for the electricity produced by their share of a jointly-owned photovoltaic system.
+     The purpose of this Act is to encourage further investment in photovoltaic energy in Hawaii by directing public electric utilities to permit group net metering and directing the public utilities commission to adopt rules for group net metering.
+     SECTION 2.  Chapter 269, Hawaii Revised Statutes, is amended by adding a new section to part VI to be appropriately designated and to read as follows:
+     "§269-     Group net metering.  (a)  Beginning July 1, 2013, an electric utility shall provide group net metering at the request of an eligible customer-generator.
+     (b)  No later than July 1, 2013, the public utilities commission shall adopt rules, pursuant to chapter 91, relating to group net metering that prescribe, at a minimum, the following:
+     (1)  The number of customer-generators that may participate in a group net metering system;
+     (2)  The allowable geographic distribution of customers that may participate in a group net metering system;
+     (3)  The total number of kilowatts that may be aggregated among all customers participating in a group net metering system;
+     (4)  The distribution of excess electricity credits among meters or customers within a group net metering system; and
+     (5)  A standard contract or tariff providing for group net metering; provided that rate classes for customers shall not change due to participation in group net metering."
+     SECTION 3.  Section 269-101, Hawaii Revised Statutes, is amended by adding a new definition to be appropriately inserted and to read as follows:
+     ""Group net metering" means a group of customers, or a single customer with multiple meters, of an electric utility located within the same electric utility service area who have elected to combine meters as a single billing entity for the purposes of net energy metering."
+     SECTION 4.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Net Energy Metering; Group Net Metering; Public Utilities Commission
+ 
+Description:
+Authorizes group net metering among electric utility customers beginning 7/1/2013.  Directs the PUC to adopt rules for group net metering.
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

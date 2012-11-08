@@ -1,0 +1,91 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2172
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO HEALTH.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that freestanding surgical outpatient facilities (also known as ambulatory surgical centers) have the potential to be the point source from which serious infections may spread absent proper regulation.  State survey agencies are responsible for inspecting and assessing ambulatory surgical centers' compliance with medicare health and safety standards.
+     In 2007, one of the largest outbreaks of hepatitis C in the country occurred in Nevada.  Investigators found nine linked cases and one hundred six possibly-linked cases of hepatitis C infection arising from two ambulatory surgical centers under the same ownership.  Records indicated that at least one of the centers had not undergone a full inspection by state surveyors for seven years.  The Southern Nevada Health District found that approximately 63,000 patients were possibly exposed and recommended that those patients receive testing.  Costs for the investigation, response, testing, counseling, and long-term treatment were estimated at $16,000,000 to $21,000,000.  Jury verdicts in favor of the infected plaintiffs reached hundreds of millions of dollars.
+     Following the outbreak, the code of federal regulations addressing ambulatory surgical centers (42 C.F.R. pt. 416) was revised and health and safety standards for ambulatory surgical centers that accept medicaid and medicare were updated by the Centers for Medicare and Medicaid Services.  In 2009, American Recovery and Reinvestment Act funds were allocated to inspecting ambulatory surgical centers nationwide using a new control system developed by the Centers for Disease Control and Prevention and the Centers for Medicare and Medicaid Services.  Hawaii received $17,262 of those funds to be used for ambulatory surgical center surveys.  However, Title 11, chapter 95, Hawaii Administrative Rules for freestanding surgical outpatient facilities, has not been amended in over fifteen years and may not reflect current federal requirements.
+     The purpose of this Act is to require all freestanding surgical outpatient facilities to follow the revised federal health and safety standards relating to ambulatory surgical centers, or freestanding outpatient surgical facilities.
+     SECTION 2.  No later than July 1, 2014, the department of health shall adopt rules pursuant to chapter 91, Hawaii Revised Statutes, for all freestanding surgical outpatient facilities in Hawaii based upon federal regulations and guidelines from the Centers for Medicare and Medicaid Services applicable to ambulatory surgical centers, also known as freestanding surgical facilities.
+     The rules shall provide for appropriate and adequate monitoring to ensure infection control and minimize communicable disease, including the requirement that physicians and employees report all instances of infection.  The rules shall require that reports of infections and any other information deemed relevant by the department of health be submitted annually to the Centers for Disease Control and Prevention.
+     SECTION 3.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Freestanding Surgical Outpatient Facilities; Outpatient; Ambulatory Surgical Centers; Regulation
+ 
+Description:
+Mandates department of health to adopt federal guidelines for the regulation of all freestanding surgical outpatient facilities.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+g, li.ExtraSig, div.ExtraSig {mso-style-name:"Extra Sig"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:243.0pt; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.ResolutionBody, li.ResolutionBody, div.ResolutionBody {mso-style-name:"Resolution Body"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} span.BillSectionNumber {mso-style-name:"Bill Section Number"; font-family:Courier;} p.XNotesHeading, li.XNotesHeading, div.XNotesHeading {mso-style-name:XNotesHeading; margin:0in; margin-bottom:.0001pt; text-align:center; font-size:12.0pt; font-family:"Courier New"; font-weight:bold;} p.XNotes, li.XNotes, div.XNotes {mso-style-name:XNotes; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Amend, li.Amend, div.Amend {mso-style-name:Amend; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.PCa, li.PCa, div.PCa {mso-style-name:"PC\(a\)"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Misc, li.Misc, div.Misc {mso-style-name:"Misc\."; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Effective, li.Effective, div.Effective {mso-style-name:Effective; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.BalloonTextChar {mso-style-name:"Balloon Text Char"; mso-style-link:"Balloon Text"; font-family:"Tahoma","sans-serif";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2172
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO HEALTH.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that freestanding surgical outpatient facilities (also known as ambulatory surgical centers) have the potential to be the point source from which serious infections may spread absent proper regulation.  State survey agencies are responsible for inspecting and assessing ambulatory surgical centers' compliance with medicare health and safety standards.
+     In 2007, one of the largest outbreaks of hepatitis C in the country occurred in Nevada.  Investigators found nine linked cases and one hundred six possibly-linked cases of hepatitis C infection arising from two ambulatory surgical centers under the same ownership.  Records indicated that at least one of the centers had not undergone a full inspection by state surveyors for seven years.  The Southern Nevada Health District found that approximately 63,000 patients were possibly exposed and recommended that those patients receive testing.  Costs for the investigation, response, testing, counseling, and long-term treatment were estimated at $16,000,000 to $21,000,000.  Jury verdicts in favor of the infected plaintiffs reached hundreds of millions of dollars.
+     Following the outbreak, the code of federal regulations addressing ambulatory surgical centers (42 C.F.R. pt. 416) was revised and health and safety standards for ambulatory surgical centers that accept medicaid and medicare were updated by the Centers for Medicare and Medicaid Services.  In 2009, American Recovery and Reinvestment Act funds were allocated to inspecting ambulatory surgical centers nationwide using a new control system developed by the Centers for Disease Control and Prevention and the Centers for Medicare and Medicaid Services.  Hawaii received $17,262 of those funds to be used for ambulatory surgical center surveys.  However, Title 11, chapter 95, Hawaii Administrative Rules for freestanding surgical outpatient facilities, has not been amended in over fifteen years and may not reflect current federal requirements.
+     The purpose of this Act is to require all freestanding surgical outpatient facilities to follow the revised federal health and safety standards relating to ambulatory surgical centers, or freestanding outpatient surgical facilities.
+     SECTION 2.  No later than July 1, 2014, the department of health shall adopt rules pursuant to chapter 91, Hawaii Revised Statutes, for all freestanding surgical outpatient facilities in Hawaii based upon federal regulations and guidelines from the Centers for Medicare and Medicaid Services applicable to ambulatory surgical centers, also known as freestanding surgical facilities.
+     The rules shall provide for appropriate and adequate monitoring to ensure infection control and minimize communicable disease, including the requirement that physicians and employees report all instances of infection.  The rules shall require that reports of infections and any other information deemed relevant by the department of health be submitted annually to the Centers for Disease Control and Prevention.
+     SECTION 3.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Freestanding Surgical Outpatient Facilities; Outpatient; Ambulatory Surgical Centers; Regulation
+ 
+Description:
+Mandates department of health to adopt federal guidelines for the regulation of all freestanding surgical outpatient facilities.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

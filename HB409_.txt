@@ -1,0 +1,129 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+409
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO TAX CREDITS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  United States healthcare spending in 2009 consumed 17.3 per cent of the gross domestic product which surpassed the rise in the general rate of inflation.  Much of the cost of health care is used to treat obesity, diabetes, and heart disease, which are often caused or exacerbated by poor lifestyle choices.
+     These preventable conditions are increasing.  For example, obesity in Hawaii has risen from twelve per cent in 1996 to almost double that amount, twenty-three per cent, in 2009.  Poor lifestyle choices, such as high fat diets and lack of exercise, contribute to loss of lifetime expectancy from five to seven years.  In addition, poor lifestyle leads to an eighty-two per cent increase in heart disease and a ninety-one per cent increase in diabetes.
+     Employers can help their employees make better lifestyle choices by establishing wellness programs that seek to maintain and promote good health rather than correct poor health.  From the perspective of employers, wellness programs can reduce health care costs, reduce absenteeism, and improve employee retention.
+     Successful wellness programs provide resources that are convenient to employees, offer them attractive incentives, and focus on helping them feel better rather than just looking better.  Wellness programs provide consistent education about healthy lifestyles and often use social forces present in natural groups at the workplace to encourage them.
+     Wellness programs at some businesses have resulted in walking clubs at lunchtime.  Educational and skills training activities can be promoted in short videos that play during break or lunch times at the work-site locations.  Vending machine changes that include healthier choices can be led by an employee workgroup that can involve participation from other associates in choosing items to replace candy and high fat snacks.
+     The purpose of this Act is to encourage businesses to create wellness programs for their employees by creating a tax credit.  This tax credit will supplement discounts for health care insurance that will be offered under federal health care reform to businesses with wellness programs.
+     SECTION 2.  Chapter 235, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§235‑    Wellness program tax credit.  (a)  There shall be allowed to any corporate, partnership, or limited liability company taxpayer a qualified wellness program tax credit that shall be deductible from the taxpayer's net income tax liability imposed by this chapter for the taxable year in which the tax credit is properly claimed.
+     (b)  For the purposes of this section:
+     "Qualified costs" means the expenses incurred in establishing and developing a qualified wellness program.  "Qualified wellness program" means a program offered by an employer to all employees that includes the following components:
+     (1)  Health awareness, such as health education, preventive screenings, and health risk assessment;
+     (2)  Employee engagement mechanisms that encourage employee participation;
+     (3)  Behavioral change elements that have been proven to help improve unhealthy lifestyles, such as counseling, seminars, on-line programs, and self-help materials; and
+     (4)  A supportive environment, such as creating on-site policies that encourage healthy lifestyles, healthy eating, physical activity, and mental health.
+In addition, each employer shall provide evidence that employees have participated in the qualified wellness program.
+     (c)  To qualify for the tax credit, the taxpayer shall be in compliance with all applicable federal, state, and county statutes, rules, and regulations.
+     (d)  The tax credit shall be equal to ten per cent of the qualified costs related to providing qualified wellness programs to employees.
+     (e)  If the tax credit under this section exceeds the taxpayer's net income tax liability, the amount of the excess tax credit over payments due shall be refunded to the eligible taxpayer.
+     (f)  Every claim, including amended claims, for the tax credit under this section shall be filed on or before the end of the twelfth month following the close of the taxable year for which the tax credit may be claimed.  Failure to meet the filing requirements of this subsection shall constitute a waiver of the right to claim the tax credit.
+     (g)  No taxpayer shall claim a credit under this chapter for the qualified costs used to properly claim a tax credit under this section for the taxable year.
+     (h)  The director of taxation:
+     (1)  Shall prepare forms as may be necessary to claim the tax credit under this section;
+     (2)  May require the taxpayer to furnish information to ascertain the validity of the claim for the tax credit; and
+     (3)  May adopt rules pursuant to chapter 91 to effectuate the purposes of this section."
+     SECTION 3.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval; provided that this Act shall apply to taxable years beginning after December 31, 2010.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Health; Tax Credits
+ 
+Description:
+Creates a tax credit for certain employers who offer their employees a qualified wellness program.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+agraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.New, li.New, div.New {mso-style-name:New; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+409
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO TAX CREDITS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  United States healthcare spending in 2009 consumed 17.3 per cent of the gross domestic product which surpassed the rise in the general rate of inflation.  Much of the cost of health care is used to treat obesity, diabetes, and heart disease, which are often caused or exacerbated by poor lifestyle choices.
+     These preventable conditions are increasing.  For example, obesity in Hawaii has risen from twelve per cent in 1996 to almost double that amount, twenty-three per cent, in 2009.  Poor lifestyle choices, such as high fat diets and lack of exercise, contribute to loss of lifetime expectancy from five to seven years.  In addition, poor lifestyle leads to an eighty-two per cent increase in heart disease and a ninety-one per cent increase in diabetes.
+     Employers can help their employees make better lifestyle choices by establishing wellness programs that seek to maintain and promote good health rather than correct poor health.  From the perspective of employers, wellness programs can reduce health care costs, reduce absenteeism, and improve employee retention.
+     Successful wellness programs provide resources that are convenient to employees, offer them attractive incentives, and focus on helping them feel better rather than just looking better.  Wellness programs provide consistent education about healthy lifestyles and often use social forces present in natural groups at the workplace to encourage them.
+     Wellness programs at some businesses have resulted in walking clubs at lunchtime.  Educational and skills training activities can be promoted in short videos that play during break or lunch times at the work-site locations.  Vending machine changes that include healthier choices can be led by an employee workgroup that can involve participation from other associates in choosing items to replace candy and high fat snacks.
+     The purpose of this Act is to encourage businesses to create wellness programs for their employees by creating a tax credit.  This tax credit will supplement discounts for health care insurance that will be offered under federal health care reform to businesses with wellness programs.
+     SECTION 2.  Chapter 235, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§235‑    Wellness program tax credit.  (a)  There shall be allowed to any corporate, partnership, or limited liability company taxpayer a qualified wellness program tax credit that shall be deductible from the taxpayer's net income tax liability imposed by this chapter for the taxable year in which the tax credit is properly claimed.
+     (b)  For the purposes of this section:
+     "Qualified costs" means the expenses incurred in establishing and developing a qualified wellness program.  "Qualified wellness program" means a program offered by an employer to all employees that includes the following components:
+     (1)  Health awareness, such as health education, preventive screenings, and health risk assessment;
+     (2)  Employee engagement mechanisms that encourage employee participation;
+     (3)  Behavioral change elements that have been proven to help improve unhealthy lifestyles, such as counseling, seminars, on-line programs, and self-help materials; and
+     (4)  A supportive environment, such as creating on-site policies that encourage healthy lifestyles, healthy eating, physical activity, and mental health.
+In addition, each employer shall provide evidence that employees have participated in the qualified wellness program.
+     (c)  To qualify for the tax credit, the taxpayer shall be in compliance with all applicable federal, state, and county statutes, rules, and regulations.
+     (d)  The tax credit shall be equal to ten per cent of the qualified costs related to providing qualified wellness programs to employees.
+     (e)  If the tax credit under this section exceeds the taxpayer's net income tax liability, the amount of the excess tax credit over payments due shall be refunded to the eligible taxpayer.
+     (f)  Every claim, including amended claims, for the tax credit under this section shall be filed on or before the end of the twelfth month following the close of the taxable year for which the tax credit may be claimed.  Failure to meet the filing requirements of this subsection shall constitute a waiver of the right to claim the tax credit.
+     (g)  No taxpayer shall claim a credit under this chapter for the qualified costs used to properly claim a tax credit under this section for the taxable year.
+     (h)  The director of taxation:
+     (1)  Shall prepare forms as may be necessary to claim the tax credit under this section;
+     (2)  May require the taxpayer to furnish information to ascertain the validity of the claim for the tax credit; and
+     (3)  May adopt rules pursuant to chapter 91 to effectuate the purposes of this section."
+     SECTION 3.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval; provided that this Act shall apply to taxable years beginning after December 31, 2010.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Health; Tax Credits
+ 
+Description:
+Creates a tax credit for certain employers who offer their employees a qualified wellness program.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

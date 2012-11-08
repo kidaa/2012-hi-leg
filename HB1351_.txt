@@ -1,0 +1,76 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1351
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MOTOR VEHICLE INSURANCE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The purpose of this Act is to:
+     (1)  Significantly reduce traffic on Hawaii's congested roadways;
+     (2)  Remove irresponsible drivers from our roads and thereby increase motorist and pedestrian safety while reducing medical and first-responder costs;
+     (3)  Cut insurance costs to all Hawaii drivers via the mechanism of the market while encouraging the obtaining of insured motorist insurance;
+     (4)  Redress the injustice the current no-fault insurance system inflicts upon responsible Hawaii drivers who buy insurance but end up paying for injuries caused by uninsured drivers; and
+     (5)  Administratively accomplish this in a manner that is more economical and efficient than current administrative efforts while being less burdensome on the police to enforce.
+     The practical positive effects of establishing this no-fault insurance reporting system are significant, considerable, and immediate.  According to the insurance commissioner in a January 2, 2011 Hawaii Tribune Herald article, seventeen per cent of the drivers on Hawaii's road are uninsured.  Using the latest numbers available from the 2009 State Data Book, there are 718,253 registered cars on Honolulu's roads.  Since seventeen per cent are uninsured, this amounts to 122,301 uninsured vehicles that should not be on the roads, which are adding to Oahu's traffic.  Contrast this immediate removal of 122,301 cars from Oahu's roads with the forty thousand cars estimated to be removed by the Honolulu rail project by the year 2030 as stated in a June 14, 2010 news release by the mayor of Honolulu.  If just one half of those 122,301 uninsured cars ceased to be driven as a result of establishing this no-fault insurance reporting system, this reporting system would achieve a far greater and immediate effect in reducing Oahu's rush hour traffic than could be achieved in nineteen years by the current rail transit proposal.  The safety of the public is also a key consideration.  Many uninsured drivers have problems with driving under the influence, speeding, and prior accidents, as noted by insurance industry observers.
+     Not only is this no-fault insurance reporting system inexpensive to establish and administer, it would also further expand Hawaii's insurance industry and thereby provide additional tax revenues for the State without raising taxes for insurers or taxpayers.  If only fifty per cent of these 122,301 uninsured cars obtained insurance, this would constitute approximately 61,051 insurance prospects in Honolulu alone for Hawaii's auto insurance industry.  Assuming an $800 per vehicle annually premium cost, this constitutes a brand new market amounting to over $48,000,000 with regard to Honolulu alone for Hawaii's insurers.  Furthermore, state wide, the market is even larger at over ­$76,000,000 (based on the State Data Book number of 1,117,790 total registered drivers state-wide, extracting the seventeen per cent uninsured motorist figure of 95,012 and 15/100 cars, and assuming just one-half of these uninsured motorist obtain insurance).
+     SECTION 2.  Chapter 46, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§46-     Motor vehicle insurance data system.  (a)  Each county shall establish and maintain a data system to identify motorists who are currently insured.  The data system shall:
+     (1)  Allow insurers to electronically transmit insurance information to the counties;
+     (2)  Be accessible to the police department, department of motor vehicle licensing and registration agency, and department of the prosecuting attorney of any county to the extent necessary to allow each agency to implement and enforce motor vehicle insurance and related laws under the jurisdiction of the respective agency;
+     (3)  Protect the privacy interests of persons whose information is included in the data system; and
+     (4)  Include the following information:
+         (A)  Name, make, and model of the insured motor vehicle;
+         (B)  Vehicle identification number as defined under section 286-2;
+         (C)  Vehicle license plate number;
+         (D)  Name of the primary insured;
+         (E)  Name of the insurer;
+         (F)  Effective dates of coverages; and
+         (G)  Insurance policy number.
+     (b)  Each county shall establish procedures for the transmission of insurance information by insurers required under section 431:10C-   .  The counties shall coordinate and standardize under a single schedule, the monthly transmission of information required under subsection (a).
+     (c)  Each county shall match its motor vehicle insurance data system with its vehicle registration data system and shall send to the owners of uninsured but registered vehicles a letter of notice requiring them to either obtain motor insurance or turn in to the county the license plates of the vehicle within thirty days.
+     (d)  Each county shall issue a sticker for the insured motorist to display on the rear vehicle bumper similar to stickers issued for vehicle registration and safety checks.
+     (e)  Police officers in each county shall be authorized to issue a citation for failure to display the insured motorist sticker.
+     (f)  Police officers in each county shall also be authorized to remove the license plates of uninsured but registered vehicles whose owners have received letters of notice requiring them to either obtain motor vehicle insurance or turn in the license plates of their vehicles within thirty days, and the thirty days has lapsed without the vehicle owners having done as required.
+     (g)  Upon receiving proof that an uninsured but registered vehicle is covered by insurance, the appropriate authority of each county shall note this fact in its motor vehicle insurance data system, cause the issuance of an insured motorist sticker for the owner of this vehicle, and in the event of removed vehicle license plates by reason of lack of vehicle insurance, the county shall immediately return the removed vehicle license plates to the registered owner of the vehicle; provided that in the event these license plates cannot be immediately returned to the owner, a paper certificate readily readable when displayed in the rear window of the vehicle shall be issued and shall be so displayed until the license plates of the vehicle can be returned."
+     SECTION 3.  Chapter 431, Hawaii Revised Statutes, is amended by adding a new section to article 10C to be appropriately designated and to read as follows:
+     "§431:10C-     Motor vehicle insurance data system; county information requirements.  (a)  Every motor vehicle insurer shall provide each county with the information listed under section 46-   (a) and shall notify each county of the cancellation of a motor vehicle insurance policy; provided that this information shall only be provided to a county for those motor vehicles registered by the county.  The information shall be transmitted on a monthly basis according to a schedule set by the counties.  Every insurer shall take all necessary precautions to protect the privacy interests of persons whose information is transmitted to each county.
+     (b)  No motor vehicle insurer shall be subject to civil liability for errors or omissions in recording, maintaining, or reporting of information required under this section, except for damages that result from the motor vehicle insurer's gross negligence or wanton acts or omissions."
+     SECTION 4.  There is appropriated out of the general revenues of the State of Hawaii the sum of $           or so much thereof as may be necessary for fiscal year 2011-2012 and the same sum or so much thereof as may be necessary for fiscal year 2012-2013 for the purpose of establishing and maintaining a data system to identify insured motorists, to be allocated as follows:
+          $             to the city and county of Honolulu;
+          $             to the county of Maui;
+          $             to the county of Hawaii; and
+          $             to the county of Kauai.
+     The sums appropriated shall be expended by the respective counties for the purposes of this Act, and shall constitute the State's share of the cost under article VIII, Section 5 of the State Constitution, of the new program mandated to the counties by this Act.
+     SECTION 5.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+No-fault Insurance Reporting System; Appropriation
+ 
+Description:
+Requires counties to establish a no-fault insurance database accessible by the police and departments of motor vehicles and the prosecuting attorney.  Requires insurance companies to transmit insurance information to the counties to be included in the database.  Appropriates funds.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

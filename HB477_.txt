@@ -1,0 +1,149 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+477
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO FOSSIL FUELS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.    The legislature finds that the state's dependency on foreign fossil fuel results in the annual outflow of billions of dollars from the state economy.  In 2005, the State imported over fifty-one million barrels of petroleum and eight hundred five thousand short tons of coal.  In the summer of 2008, the price per barrel of oil exceeded $140.  As a result, billions of dollars are directly exported from the state each year.  Efforts to dramatically reduce fossil fuel consumed in the state will benefit both the economy and the environment.
+     However, the legislature finds that the State can play a pivotal role in helping to stabilize Hawaii's economy by transitioning away from fossil fuel sources to generate electricity, by encouraging the construction of facilities that can use multiple types of feedstocks to eventually transition into primarily renewable feedstocks as they become available.
+     Therefore, the purpose of this Act is to align the State's energy policy by prohibiting the construction or operation of a new facility that produces electrical energy solely from the combustion of any type of fossil fuel, to allow for the transition into locally available renewable feedstocks to advance the goals and objectives of the Hawaii clean energy initiative.
+     SECTION 2.  Chapter 196, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§196-    New fossil fuel-powered electrical generation facilities; prohibition.  (a)  No state or county agency shall issue a permit to any applicant for the construction or operation of a new facility that produces electrical energy solely from the combustion of any type of fossil fuel; provided that under extraordinary circumstances, as determined by the public utilities commission, a permit may be issued; provided further that this section shall not apply when the electric generation unit is primarily used to serve the facility's own internal operation and has a rated capacity of less than two megawatts.
+     (b)  For the purposes of this section, "extraordinary circumstances" may include circumstances:
+     (1)  That may have detrimental and adverse effects on the ratepayer or the viability of the public utility; or
+     (2)  In which there is a certainty that renewable fuels are unavailable to carry out the effect of the prohibition."
+     SECTION 3.  Chapter 269, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§269-    New fossil fuel-powered electrical generation facilities; prohibition.  (a)  The commission shall not approve the construction or operation of a new facility whose new electrical generation unit produces electricity solely from the combustion of any type of fossil fuel; provided that under extraordinary circumstances, as determined by the commission, an approval may be granted; provided further that this section shall not apply to electric generation units that have a primary purpose to serve the internal operations of a facility and have a rated capacity of less than two megawatts.
+     (b)  For the purposes of this section, "extraordinary circumstances" may include circumstances:
+     (1)  That may have detrimental and adverse effects on the ratepayer or the viability of the public utility; or
+     (2)  In which there is a certainty that renewable fuels are unavailable to carry out the effect of the prohibition."
+     SECTION 4.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect on January 1, 2012.
+ 
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+
+
+ 
+Report Title:
+Fossil Fuel-Powered Electrical Generation Facilities; Prohibition
+ 
+Description:
+Prohibits the construction or operation of any new electricity generating facility using fossil fuel, except under extraordinary circumstances, as determined by the PUC, or when the electric generation unit has rated capacity of less than 2 megawatts and is used primarily to serve a facility's own internal operation.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+ttom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.aSubsection, li.aSubsection, div.aSubsection {mso-style-name:"\(a\)Subsection"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.ASubparagraph, li.ASubparagraph, div.ASubparagraph {mso-style-name:"\(A\)Subparagraph"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.iClause, li.iClause, div.iClause {mso-style-name:"\(i\)Clause"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:2.0in; margin-bottom:.0001pt; text-indent:-2.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.ASubparagraphContd, li.ASubparagraphContd, div.ASubparagraphContd {mso-style-name:"\(A\)SubparagraphContd"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.1ParagraphContd, li.1ParagraphContd, div.1ParagraphContd {mso-style-name:"\(1\)ParagraphContd"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.ExtraSig, li.ExtraSig, div.ExtraSig {mso-style-name:"Extra Sig"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:243.0pt; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.BillSectionNumber {mso-style-name:"Bill Section Number"; font-family:Courier;} span.HRSSectionNumber {mso-style-name:"HRS Section Number"; font-family:Courier;} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} span.HRSReference {mso-style-name:"HRS Reference"; font-family:Courier;} span.EffectiveDate {mso-style-name:"Effective Date"; font-family:Courier;} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Clause, li.Clause, div.Clause {mso-style-name:Clause; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:2.0in; margin-bottom:.0001pt; text-indent:-2.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+477
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO FOSSIL FUELS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.    The legislature finds that the state's dependency on foreign fossil fuel results in the annual outflow of billions of dollars from the state economy.  In 2005, the State imported over fifty-one million barrels of petroleum and eight hundred five thousand short tons of coal.  In the summer of 2008, the price per barrel of oil exceeded $140.  As a result, billions of dollars are directly exported from the state each year.  Efforts to dramatically reduce fossil fuel consumed in the state will benefit both the economy and the environment.
+     However, the legislature finds that the State can play a pivotal role in helping to stabilize Hawaii's economy by transitioning away from fossil fuel sources to generate electricity, by encouraging the construction of facilities that can use multiple types of feedstocks to eventually transition into primarily renewable feedstocks as they become available.
+     Therefore, the purpose of this Act is to align the State's energy policy by prohibiting the construction or operation of a new facility that produces electrical energy solely from the combustion of any type of fossil fuel, to allow for the transition into locally available renewable feedstocks to advance the goals and objectives of the Hawaii clean energy initiative.
+     SECTION 2.  Chapter 196, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§196-    New fossil fuel-powered electrical generation facilities; prohibition.  (a)  No state or county agency shall issue a permit to any applicant for the construction or operation of a new facility that produces electrical energy solely from the combustion of any type of fossil fuel; provided that under extraordinary circumstances, as determined by the public utilities commission, a permit may be issued; provided further that this section shall not apply when the electric generation unit is primarily used to serve the facility's own internal operation and has a rated capacity of less than two megawatts.
+     (b)  For the purposes of this section, "extraordinary circumstances" may include circumstances:
+     (1)  That may have detrimental and adverse effects on the ratepayer or the viability of the public utility; or
+     (2)  In which there is a certainty that renewable fuels are unavailable to carry out the effect of the prohibition."
+     SECTION 3.  Chapter 269, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§269-    New fossil fuel-powered electrical generation facilities; prohibition.  (a)  The commission shall not approve the construction or operation of a new facility whose new electrical generation unit produces electricity solely from the combustion of any type of fossil fuel; provided that under extraordinary circumstances, as determined by the commission, an approval may be granted; provided further that this section shall not apply to electric generation units that have a primary purpose to serve the internal operations of a facility and have a rated capacity of less than two megawatts.
+     (b)  For the purposes of this section, "extraordinary circumstances" may include circumstances:
+     (1)  That may have detrimental and adverse effects on the ratepayer or the viability of the public utility; or
+     (2)  In which there is a certainty that renewable fuels are unavailable to carry out the effect of the prohibition."
+     SECTION 4.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect on January 1, 2012.
+ 
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+ 
+_____________________________
+ 
+
+
+ 
+Report Title:
+Fossil Fuel-Powered Electrical Generation Facilities; Prohibition
+ 
+Description:
+Prohibits the construction or operation of any new electricity generating facility using fossil fuel, except under extraordinary circumstances, as determined by the PUC, or when the electric generation unit has rated capacity of less than 2 megawatts and is used primarily to serve a facility's own internal operation.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

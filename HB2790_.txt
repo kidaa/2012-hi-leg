@@ -1,0 +1,154 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2790
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO HIGHWAY SAFETY.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+PART I
+     SECTION 1.  The legislature finds that the prevalence of drivers violating Hawaii's traffic laws, especially on the island of Oahu, has become intolerable, particularly drivers who run red lights.  These violations endanger the lives of motorists and pedestrians and compound the already hazardous conditions on Hawaii's roads and highways.  It has become increasingly common to hear reports of hit-and-run drivers who have run over children or the elderly.  Disregarding traffic signals has also been the common denominator in many recent, highly-publicized motor vehicle crashes that have claimed a number of lives.
+     The legislature further finds that in other jurisdictions in the United States, Canada, Europe, and other countries throughout the world, photo red light imaging detector systems have been proven reliable, efficient, and effective in identifying and deterring those who run red lights.
+     Photo red light imaging detector systems are safe, quick, cost-effective, and efficient.  No traffic stop is involved, and a police officer is not at risk from passing traffic or armed violators.  With photo red light imaging detector systems, a camera is positioned at intersections where red light violations are a major cause of collisions and serves as a twenty-four-hour deterrent to running a red light.  Sensors are buried under a crosswalk and lead to a self-contained camera system mounted on a nearby structure.  When a vehicle enters the intersection against a red light, the camera takes a telephoto color picture of the rear of the car, capturing the license plate.  A second wide-angle photograph takes in the entire intersection, including other traffic.
+     These systems provide numerous benefits.  Not only are streets safer, but police officers are also freed from the time-consuming duties of traffic enforcement and have more time to respond to priority calls.  A violator is less likely to go to court because the color photograph of the violation, imprinted with the time, date, and location of the violation, and the number of seconds the light had been red before the violator entered the intersection, can be used as evidence in court.  Few cases are contested in other jurisdictions using this system, and officers make fewer court appearances, saving court costs.
+     The system may also result in lower insurance costs for safe drivers through an overall reduction in crashes and injuries and by placing system costs on the violators who have created the need for the program, not on law-abiding taxpayers.  Traffic laws are impartially enforced, and safety and efficiency are increased by reducing the number of chases and personnel required for traffic accident clean-up, investigation, and court testimony.
+     The legislature finds that the photo speed imaging detector system created by Act 234, Session Laws of Hawaii 1998, and implemented in January 2002, generated intense public opposition.  As a result of this opposition, the legislature repealed Act 234 in its entirety.  However, the majority of the opposition to this program resulted from the method by which it was implemented.  The public perceived that the program was operated more to maximize revenue for the vendor running the program than to improve traffic safety.  In particular, vans in which the cameras were mounted were often placed at locations that did not necessarily have a history of speed-related accidents and instead were used to monitor locations with heavy traffic flow at lower speeds.  This permitted the vendor to issue the maximum number of citations in the shortest period of time and at the least cost, thereby maximizing the potential return to the vendor without improving traffic safety.
+     The purpose of this Act is to:
+     (1)  Establish a photo red light imaging detector systems program to improve enforcement of the traffic signal laws;
+     (2)  Allow counties to implement the photo red light imaging detector systems program;
+     (3)  Authorize fines collected under county programs to be deposited into a general fund account; and
+     (4)  Authorize funds from this general fund account to be expended in the county in which the fine was collected for the establishment, operation, management, and maintenance of the photo red light imaging detector systems program.
+PART II
+     SECTION 2.  Definitions.  As used in this Act, unless the context otherwise requires:
+     "County" means the counties of Hawaii, Kauai, and Maui, and the city and county of Honolulu.
+     "County highway" has the same meaning as used in section 264-1, Hawaii Revised Statutes.
+     "Department" means the department of transportation.
+     "Motor vehicle" has the same meaning as defined in section 291C‑1, Hawaii Revised Statutes.
+     "Photo red light imaging detector" means a device used for traffic enforcement that includes a vehicle sensor that works in conjunction with a traffic-control signal and a camera or similar device to automatically produce a photographic, digital, or other visual image of a vehicle that has disregarded a steady red traffic-control signal in violation of section 291C‑32, Hawaii Revised Statutes, and a photographic, digital, or other visual image of the driver of the motor vehicle.
+     "State highway" has the same meaning as used in section 264-1, Hawaii Revised Statutes.
+     "Traffic-control signal" has the same meaning as defined in section 291C-1, Hawaii Revised Statutes.
+     SECTION 3.  Photo red light imaging detector systems program; established.  There is established the photo red light imaging detector systems program, which may be implemented by any county on state or county highways within the respective county, to enforce the traffic-control signal laws of the State.
+     SECTION 4.  County powers and duties.  Each county may establish and implement, in accordance with this Act, a photo red light imaging detector system imposing monetary liability on the operator of a motor vehicle for failure to comply with traffic-control signal laws.  Each county may provide for the procurement, location, installation, operation, maintenance, and repair of the photo red light imaging detector system.  Where the photo red light imaging detector system affects state property, the department shall cooperate with and assist the county as needed to install, maintain, and repair the photo red light imaging detector system established pursuant to this Act.
+     SECTION 5.  Photo red light imaging detector system requirements.  (a)  Photo red light imaging detector equipment shall be operated from a fixed pole, post, or other fixed structure on a state or county highway.
+     (b)  Signs and other official traffic-control devices indicating that traffic signal laws are enforced by a photo red light imaging detector system shall be posted on all major routes entering the area in question to provide, as far as practicable, notice to drivers of the existence and operation of the system.
+     (c)  Proof of a traffic-control signal violation shall be as evidenced by information obtained from the photo red light imaging detector system authorized pursuant to this Act.  A certificate, sworn to or affirmed by the county's agent or employee, or a facsimile thereof, based upon inspection of photographs, microphotographs, videotape, or other recorded images produced by the system, shall be prima facie evidence of the facts contained therein.  Any photographs, microphotographs, videotape, or other recorded images evidencing a violation shall be available for inspection in any proceeding to adjudicate the liability for that violation.
+     (d)  No summons or citation pursuant to the photo red light imaging detector systems program shall be issued unless it contains a clear and unobstructed photographic, digital, or other visual image of the driver of the motor vehicle.
+     (e)  The conditions specified in this section shall not apply when the information gathered is used for highway safety research or to issue warning citations not involving a fine, court appearance, or a person's driving record.
+     SECTION 6.  Summons or citations.  (a)  Notwithstanding any law to the contrary, whenever any motor vehicle is determined, by means of a photo red light imaging detector system, to have disregarded a steady red signal in violation of section 291C‑32(a)(3), Hawaii Revised Statutes, the county shall cause a summons or citation, as described in this section, to be sent by certified or registered mail with a return receipt, which is postmarked within seventy-two hours of the time of the incident, to the registered owner of the vehicle at the address on record at the vehicle licensing division.  If the end of the seventy-two-hour period falls on a Saturday, Sunday, or state holiday, then the ending period shall run until the end of the next day that is not a Saturday, Sunday, or state holiday.
+     (b)  The form and content of the summons or citation shall be as adopted or prescribed by the administrative judge of the district courts and shall be printed on a form commensurate with the form of other summonses or citations used in modern methods of arrest, so designed to include all necessary information to make the summons or citation valid within the laws of the State; provided that any summons or citation pursuant to the photo red light imaging detector systems program shall contain a clear and unobstructed photographic, digital, or other visual image of the driver of the motor vehicle that is to be used as evidence of the violation.
+     (c)  Every citation shall be consecutively numbered and each copy thereof shall bear the number of its respective original.
+     (d)  Upon receipt of the summons or citation, the registered owner shall respond as provided for in chapter 291D, Hawaii Revised Statutes.  A mail receipt signed by the registered owner is prima facie evidence of notification.  The registered owner shall be determined by the identification of the vehicle's registration plates.
+     (e)  The county, or the county's agent or employee, shall be available to testify as to the authenticity of the information provided pursuant to this section.
+     SECTION 7.  Registered owner's responsibility for a summons or citation.  In any proceeding for a violation of this Act, the information contained in the summons or citation mailed in accordance with section 6 shall be deemed evidence that the registered vehicle violated section 291C‑32(a)(3), Hawaii Revised Statutes.
+     SECTION 8.  Prima facie evidence.  (a)  Whenever the photo red light imaging detector system determines a motor vehicle to be in violation of section 291C-32(a)(3), Hawaii Revised Statutes, evidence that the motor vehicle described in the citations or summons issued pursuant to this Act was operated in violation of that section, together with proof that the person to whom the summons or citation was sent was the registered owner of the motor vehicle at the time of the violation, shall constitute prima facie evidence that the registered owner of the motor vehicle was the person who committed the violation.
+     (b)  The registered owner of the vehicle may rebut the evidence in subsection (a) by any one of the following, including:
+     (1)  Submitting a written statement as provided in section 291D-6(b)(2), Hawaii Revised Statutes;
+     (2)  Testifying in open court under oath that the person was not the operator of the vehicle at the time of the alleged violation;
+     (3)  Calling witnesses to testify in open court under oath that the person was not the operator of the vehicle at the time of the alleged violation;
+     (4)  Extrinsic evidence that the person was not the operator of the vehicle at the time of the alleged violation;
+     (5)  Presenting, prior to the return date established on the citation or summons issued pursuant to this Act, a letter of verification of loss from the police department indicating that the vehicle had been reported stolen, to the court adjudicating the alleged violation; or
+     (6)  Identifying the driver of the vehicle at the time of the offense.
+     SECTION 9.  Failure to comply with summons or citation.  If the registered owner of the vehicle does not return an answer in response to a summons or citation within a period of twenty-one days upon receipt of the summons or citation, the district court shall issue, pursuant to section 291D-7(e), Hawaii Revised Statutes, a notice of entry of judgment of default to the registered owner of the vehicle.
+     SECTION 10.  Liability for rental or U‑drive vehicle.  Notwithstanding any law to the contrary, if the registered owner of record is the lessor of a rental or U‑drive motor vehicle, as defined in section 286‑2, Hawaii Revised Statutes, pursuant to a written lease agreement, the lessee at the time of the violation shall be responsible for the summons or citation; provided that:
+     (1)  The lessor shall be responsible for the summons or citation if the lessor does not provide the court having jurisdiction over the summons or citation with the name and address of the lessee within thirty days after a notice containing the date, time, and location of the violation and the license number of the vehicle is sent to the lessor; and
+     (2)  The administrative judge of the court having jurisdiction over the summons or citation may waive the requirement of providing the name and address of the lessee and impose on the lessor an administrative fee of $   per citation.
+     SECTION 11.  Penalty.  The penalties for all consequences of a violation for disregarding a steady red signal initiated by the use of a photo red light imaging detector system shall be as provided in section 291C-161, Hawaii Revised Statutes.
+     SECTION 12.  Fines for unauthorized disclosure.  All personal and confidential information made available by any government agency to an agent of any county for the photo red light imaging detector system program shall be kept confidential and shall be used only for the purposes for which the information was furnished.  Any officer, employee, or agent of a county who intentionally discloses or provides a copy of personal and confidential information obtained from a photo red light imaging detector system to any person or agency without authorization shall be fined not more than $         ; provided that the fine shall not preclude the application of penalties or fines otherwise provided for by law.
+     SECTION 13.  Photo red light imaging detector systems program account established.  (a)  There is established, as a special account within the general fund, a photo red light imaging detector systems program account, into which shall be paid revenues collected pursuant to this Act.
+     (b)  All fines collected under this Act shall be deposited into the photo red light imaging detector program account.  Moneys in the account shall be expended in the county in which the fine was imposed, for purposes that include the establishment, operation, management, and maintenance of a photo red light imaging detector system.
+     SECTION 14.  Rules.  The department shall adopt rules pursuant to chapter 91, Hawaii Revised Statutes, as may be necessary to implement this Act.
+PART III
+     SECTION 15.  Section 291C-161, Hawaii Revised Statutes, is amended to read as follows:
+     "§291C-161  Penalties[.]; photo red light imaging detector system fines.  (a)  It is a violation for any person to violate any of the provisions of this chapter, except as otherwise specified in subsections (c) and (d) and unless the violation is by other law of this State declared to be a felony, misdemeanor, or petty misdemeanor.
+     (b)  Except as provided in subsections (c) and (d), every person who is determined to have violated any provision of this chapter for which another penalty is not provided shall be fined:
+     (1)  Not more than $200 for a first violation thereof;
+     (2)  Not more than $300 for a second violation committed within one year after the date of the first violation; and
+     (3)  Not more than $500 for a third or subsequent violation committed within one year after the date of the first violation.
+     (c)  Every person convicted under or found in violation of section 291C-12, 291C-12.5, 291C-12.6, 291C-13, 291C-14, 291C-15, 291C-16, 291C-72, 291C-73, 291C-95, 291C-102, 291C-103, 291C-104, or 291C-105 shall be sentenced or fined in accordance with those sections.
+     (d)  Every person who violates section 291C-13 or 291C-18 shall:
+     (1)  Be fined not more than $200 or imprisoned not more than ten days for a first conviction thereof;
+     (2)  Be fined not more than $300 or imprisoned not more than twenty days or both for conviction of a second offense committed within one year after the date of the first offense; and
+     (3)  Be fined not more than $500 or imprisoned not more than six months or both for conviction of a third or subsequent offense committed within one year after the date of the first offense.
+     (e)  The court may assess a sum not to exceed $50 for the cost of issuing a penal summons upon any person who fails to appear at the place within the time specified in the citation issued to the person for any traffic violation.
+     (f)  Fines collected for a violation of section 291C-32 pursuant to the photo red light imaging detector system established pursuant to Act    , Session Laws of Hawaii 2012, shall be deposited into the photo red light imaging detector systems program account and shall be expended in the county in which the fine was imposed, for purposes that include the establishment, operation, management, and maintenance of a photo red light imaging detector system.
+     [(f)] (g)  The court may require a person who violates any of the provisions of this chapter to attend a course of instruction in driver retraining as deemed appropriate by the court, in addition to any other penalties imposed."
+     SECTION 16.  Section 291C-163, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  This chapter shall not be deemed to prevent counties with respect to streets and highways under their jurisdiction from:
+     (1)  Regulating or prohibiting stopping, standing, or parking except as pro­vided in section 291C-111;
+     (2)  Regulating traffic by means of police officers or official traffic-control devices;
+     (3)  Regulating or prohibiting processions or assemblages on the highways;
+     (4)  Designating particular highways or roadways for use by traffic moving in one direction;
+     (5)  Establishing speed limits for vehicles in public parks;
+     (6)  Designating any highway as a through highway or designating any intersection as a stop or yield intersection;
+     (7)  Restricting the use of highways;
+     (8)  Regulating the operation and equipment of and requiring the registration and inspection of bicycles, including the requirement of a registration fee;
+     (9)  Regulating or prohibiting the turning of vehicles or specified types of vehicles;
+    (10)  Altering or establishing speed limits;
+    (11)  Requiring written accident reports;
+    (12)  Designating no-passing zones;
+    (13)  Prohibiting or regulating the use of controlled-access roadways by any class or kind of traffic;
+    (14)  Prohibiting or regulating the use of heavily traveled streets by any class or kind of traffic found to be incompatible with the normal and safe move­ment of traffic;
+    (15)  Establishing minimum speed limits;
+    (16)  Designating hazardous railroad grade crossing;
+    (17)  Designating and regulating traffic on play streets;
+    (18)  Prohibiting pedestrians from crossing a roadway in a business district or any designated highway except in a crosswalk;
+    (19)  Restricting pedestrian crossing at unmarked crosswalks;
+    (20)  Regulating persons propelling push carts;
+    (21)  Regulating persons upon skates, coasters, sleds, and other toy vehicles;
+    (22)  Adopting and enforcing such temporary or experimental regulations as may be necessary to cover emergencies or special conditions;
+    (23)  Adopting maximum and minimum speed limits on streets and highways within their respective jurisdictions;
+    (24)  Adopting requirements on stopping, standing, and parking on streets and highways within their respective jurisdictions except as provided in section 291C-111;
+    (25)  Prohibiting or regulating electric personal assistive mobility devices on sidewalks and bicycle paths; [and]
+    (26)  Implementing a photo red light imaging detector system pursuant to Act    , Session Laws of Hawaii 2012; and
+   [(26)] (27)  Adopting such other traffic regulations as are specifically authorized by this chapter."
+     SECTION 17.  Section 291C-165, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  In every case when a citation is issued, the original of the citation shall be given to the violator; provided that:
+     (1)  In the case of an unattended vehicle, the original of the citation shall be affixed to the vehicle as provided for in section 291C-167; [or]
+     (2)  In the case of:
+         (A)  A vehicle utilizing the high occupancy vehicle lane illegally; or
+         (B)  A vehicle illegally utilizing a parking space reserved for persons with disabilities, where the violator refuses the citation; or
+     (3)  In the case of a motor vehicle determined by means of a photo red light imaging detector system established pursuant to Act    , Session Laws of Hawaii 2012, to have disregarded a steady red signal in violation of section 291C-32(a)(3),
+the original of the citation shall be sent by certified or registered mail, with a return receipt that is postmarked within forty-eight hours of the time of the incident, as provided in section 291C-223 for vehicles illegally utilizing the high occupancy vehicle lane, or within seventy-two hours of the time of the incident for vehicles illegally utilizing a parking space reserved for persons with disabilities, or for vehicles disregarding a steady red signal in violation of section 291C-32(a)(3), as determined by means of a photo red light imaging detector system, to the registered owner of the vehicle at the address on record at the vehicle licensing division.  If the end of the applicable forty-eight or seventy-two hour period falls on a Saturday, Sunday, or state holiday, then the ending period shall run until the end of the next day which is not a Saturday, Sunday, or state holiday; provided that the administrative judge of the district courts may allow a carbon copy of the citation to be given to the violator or affixed to the vehicle and provide for the disposition of the original and any other copies of the citation."
+PART IV
+     SECTION 18.  There is appropriated out of the general revenues of the State of Hawaii the sum of $       or so much thereof as may be necessary for fiscal year 2012-2013 for the purposes of establishing the photo red light imaging detector system program to be allocated as follows:
+     $             to the city and county of Honolulu;
+     $             to the county of Maui;
+     $             to the county of Hawaii; and
+     $             to the county of Kauai.
+     The sum appropriated shall be expended by the counties for the purposes of this Act.
+     SECTION 19.  It is the intent of this Act not to jeopardize the receipt of any federal aid nor to impair the obligation of the State or any agency thereof to the holders of any bond issued by the State or by any such agency, and to the extent, and only to the extent, necessary to effectuate this intent, the governor may modify the strict provisions of this Act, but shall promptly report any such modification with reasons therefor to the legislature at its next session thereafter for review by the legislature.
+     SECTION 20.  If any provision of this Act, or the application thereof to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of the Act which can be given effect without the invalid provision or application, and to this end the provisions of this Act are severable.
+     SECTION 21.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun, before its effective date.
+     SECTION 22.  Upon enactment, the revisor of statutes shall insert the number of this Act into sections 291C-161, 291C-163, and 291C-165, Hawaii Revised Statutes, where indicated in sections 15, 16, and 17 of this Act, respectively.
+     SECTION 23.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 24.  This Act shall take effect on July 1, 2013; provided that section 18 shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Highway Safety; Photo Red Light Imaging; Appropriation
+ 
+Description:
+Establishes the photo red light imaging detector systems program.  Authorizes counties to administer the program.  Requires proceeds of fines to be expended in the county from which they were collected for operation of the program.  Makes an appropriation.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

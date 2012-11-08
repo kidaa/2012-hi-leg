@@ -1,0 +1,65 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+1896
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO INSURANCE.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that rising health insurance premium costs are detrimental to businesses in the State during this period of slow economic recovery.  Restricting health insurance premium cost increases would assist businesses in expanding or, at least, maintaining operation.
+     The purpose of this Act is to promote economic revitalization through the temporary reform of the health insurance medical loss ratio and rate regulation provisions of the State's insurance code.
+     SECTION 2.  Chapter 431, Hawaii Revised Statutes, is amended by adding a new section to article 14G to be appropriately designated and to read as follows:
+     "§431:14G-A  Medical loss ratio for January 1, 2013, to December 31, 2014.  (a)  For the purpose of this section:
+     "Health care quality improvement cost" means expenditure for activities to improve health care quality that is subject to section 2718(a)(2) of the Public Health Service Act.
+     "Medical cost" means expenditure on reimbursement for clinical services that is subject to section 2718(a)(1) of the Public Health Service Act.
+     "Medical loss ratio" means the ratio of premium revenue expended on medical and health care quality improvement cost to total premium revenue (after certain exclusions such as taxes), as calculated in accordance with section 2718(b)(1)(A) of the Public Health Service Act.
+     "Public Health Service Act" means the federal Public Health Service Act, as amended.
+     (b)  As authorized under section 2718(b)(1)(A)(i) and (ii) of the Public Health Service Act, the State shall establish a higher medical loss ratio for certain health insurance plans.
+     (c)  This section shall apply to a managed care plan that is:
+     (1)  Offered by a mutual benefit society or health maintenance organization not taxed under article 7, part II; and
+     (2)  Effective during a plan year, any part of which may fall within the period from January 1, 2013, to December 31, 2014.
+     The medical loss ratio for a managed care plan subject to this section, whether offering group or individual coverage, shall be ninety per cent.
+     (d)  For a managed care plan not subject to subsection (c), the medical loss ratio shall be that established under section 2718(b)(1)(A) of the Public Health Service Act."
+     SECTION 3.  Section 431:14G-103, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  Rates shall not be excessive, inadequate, or unfairly discriminatory [and shall be reasonable in relation to the costs of the benefits]; provided[.] that, when reviewing proposed rates, the filing for which is pending on January 1, 2013, or submitted to the commissioner between January 1, 2013, and December 31, 2014, the commissioner shall consider the medical loss ratio applicable to the filer under section 431:14G-A."
+     SECTION 4.  Section 431:14G-105, Hawaii Revised Statutes, is amended by amending subsection (e) to read as follows:
+     "(e)  Rates shall be established in accordance with this article and actuarial principles, based on reasonable assumptions, and supported by adequate supporting and supplementary rating information.  After reviewing a managed care plan's filing, the commissioner may require that the managed care plan's rates be based upon the managed care plan's own loss and expense information."
+     SECTION 5.  After the repeal of this Act on December 31, 2014, the rates of a health insurer, to which the criteria of section 431:14G-103(a), Hawaii Revised Statutes, were applied, shall continue in effect until revised in accordance with chapter 431, article 14G, Hawaii Revised Statutes.
+     SECTION 6.  The insurance commissioner shall submit a report to the governor and legislature no later than twenty days prior to the convening of the 2014 regular session.  The report shall include information on the impacts of this Act and a recommendation on whether any provision of this Act should be made permanent, with or without modification.
+     SECTION 7.  There is appropriated out of the compliance resolution fund of the State of Hawaii the sum of $          , or so much thereof as may be necessary for fiscal year 2012-2013 for the implementation of this Act by the insurance commissioner.
+     The sum appropriated shall be expended by the department of commerce and consumer affairs for the purposes of this Act.
+     SECTION 8.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 9.  This Act shall take effect on January 1, 2013, and shall be repealed on December 31, 2014; provided that:
+     (1)  Section 7 shall take effect on July 1, 2012;
+     (2)  Section 5 shall not be repealed on December 31, 2014; and
+     (3)  Sections 431:14G-103(a) and 431:14G-105(e), Hawaii Revised Statutes, shall be reenacted in the form in which they read on December 31, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Health Insurance; Medical Loss Ratio; Rate Regulation
+ 
+Description:
+Temporarily establishes a higher medical loss ratio for a tax-exempt mutual benefit society's or health maintenance organization's health insurance plan than the ratio set under the federal Public Health Service Act.  Requires, when reviewing rate filings, the insurance commissioner to consider the medical loss ratio of the filer.  Requires the insurance commissioner to submit a report to the governor and legislature before the convening of the regular session of 2014 with information on the impacts of the Act and a recommendation on whether any provision should be made permanent.  Repealed on 12/31/14.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

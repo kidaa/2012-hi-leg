@@ -1,0 +1,159 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2169
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PUBLIC ACCOUNTANCY.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 466, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows:
+"PART    .  PEER REVIEW PROCESS
+     §466-A  Definitions.  As used in this part, unless the context clearly indicates otherwise:
+     "Rating" means the type of report issued following a peer review.  Rating shall be "pass", "pass with deficiency", or "fail".
+     "Sponsoring organization" means a third-party entity that meets the standards specified by this part for administering a peer review.
+     §466-B  Establishment of peer review process; confidentiality.  (a)  There is established a peer review process to review the attest work of firms.  The peer review process shall be for educational or remedial, and not punitive purposes.
+     (b)  The peer review process shall keep confidential the identity of any person or firm for whom attest work has been performed by the firm under review.
+     (c)  Neither the proceedings nor the records of any peer review process shall be subject to discovery.  No person involved in the peer review process shall be required to testify on that process; provided that statements made by any person in connection with the peer review process who is a party to an action or proceeding, the subject matter of which was reviewed in that process, shall be subject to discovery.
+     (d)  This part shall not be construed to require any firm to become a member of any sponsoring organization.
+     §466-C  Standards for peer reviews and sponsoring organizations.  (a)  Except as otherwise provided by section 466-F, the board shall adopt the "Standards for Performing and Reporting on Peer Reviews" and any applicable ethical requirements thereunder promulgated by the American Institute of Certified Public Accountants and the public company accounting oversight board firm inspection standards for public company audit firms required under the Sarbanes-Oxley Act of 2002, as amended, as its minimum standards for peer reviews.
+     (b)  Subject to sections 466-J and 466-K, qualified sponsoring organizations shall be the American Institute of Certified Public Accountants peer review program, the Hawaii Society of Certified Public Accountants peer review program, state certified public accountant societies fully involved in the administration of the American Institute of Certified Public Accountants peer review program, the public company accounting oversight board, the board, and other entities that are approved by the board.
+     §466-D  Enrollment and participation.  (a)  Every firm, including the Hawaii offices and Hawaii engagements of foreign or multistate firms, that is required to obtain a firm permit to practice pursuant to section 466-7 shall undergo a peer review every three years on the firm's Hawaii attest work.
+     (b)  All firms subject to this part and performing Hawaii attest work as of December 31, 2014, shall enroll in the applicable program of an approved sponsoring organization by December 31, 2015, notify the board of enrollment in that program, and have a peer review performed by December 31, 2017.
+     (c)  Any firm that begins performing Hawaii attest work after December 31, 2014, shall:
+     (1)  Notify the board within thirty days of the beginning of the performance of attest work;
+     (2)  Enroll in the applicable programs of an approved sponsoring organization within one year from its initial licensing date or the performance of Hawaii attest work that requires a peer review;
+     (3)  Provide the board with enrollment information within one year of the date the Hawaii attest work was first performed;
+     (4)  Have a peer review performed within eighteen months of the date the Hawaii attest work was first performed;
+     (5)  Adopt the peer review due date assigned by the sponsoring organization and notify the board of the peer review due date within thirty days of its assignment; and
+     (6)  Schedule and begin an additional review within three years of the previous review's due date, or earlier if required by the sponsoring organization or the board; provided that the firm shall be responsible for anticipating its needs for peer review services in sufficient time to enable the reviewer to complete the review by the assigned review due date.
+     (d)  A firm that does not perform Hawaii attest work shall be exempt from the peer review process.
+     (e)  If a firm is merged, combined, dissolved, or separated, the sponsoring organization shall determine which resultant firm shall be considered the succeeding firm.  The succeeding firm shall retain its peer review status and the review due date.
+     (f)  The board shall accept extensions granted by the sponsoring organization to complete a peer review; provided that the board is notified by the firm within twenty days of the date that an extension is granted.  The board may also grant a firm an extension of time to comply with the peer review requirement of this part based on a showing of hardship, including reasons of health, military service, or other good cause as determined by the board.
+     (g)  A firm that has been rejected by a sponsoring organization for any reason shall make a request in writing to the board for authorization to enroll in a program of another sponsoring organization.
+     (h)  A firm that chooses to enroll in a program of another sponsoring organization pursuant to subsection (g) may do so; provided that the firm authorizes the previous sponsoring organization to communicate to the succeeding sponsoring organization any outstanding corrective actions related to the firm's most recent peer review.  Any outstanding corrective actions shall be cleared and outstanding fees paid prior to the transfer between sponsoring organizations.
+     (i)  An out-of-state firm performing Hawaii attest work shall comply with this part.
+     (j)  If a firm is subject to inspections pursuant to the Sarbanes-Oxley Act of 2002, as amended, and also performs Hawaii attest work not subject to those inspections, the firm shall enroll in a peer review program for review of its non-public company Hawaii attest work in addition to the firm inspection program required by the public company accounting oversight board.
+     §466-E  Peer review compliance reporting form.  (a)  Upon the completion of a peer review, each firm shall submit a peer review compliance reporting form to the board pursuant to section 466-H.  The peer review compliance reporting form shall include the following:
+     (1)  The name of the firm conducting the peer review;
+     (2)  The name of the approved sponsoring organization;
+     (3)  Except for public company accounting oversight board inspections, the name of the peer reviewer or reviewers, who shall be a person or persons who hold a permit to practice public accountancy under section 466-7 and who are not affiliated with the firm being reviewed;
+     (4)  The rating issued to the firm as a result of the review, which shall be clearly indicated in the final paragraph of the review report;
+     (5)  The date of completion of the firm review; and
+     (6)  A certificate from the firm conducting the review that the peer review report or the final report resulting from any inspection by the public company accounting oversight board firm inspection program includes a review of Hawaii offices and Hawaii attest engagements.
+     (b)  A firm shall include with the peer review compliance reporting form the contemporaneous supplemental Hawaii peer review report under section 466-F, if:
+     (1)  A peer review report from an approved sponsoring organization does not include a review of Hawaii offices and Hawaii attest engagements;
+     (2)  The peer reviewer does not hold permits to practice public accountancy under section 466-7; or
+     (3)  The peer reviewer is affiliated with the firm being reviewed; and
+     (4)  The final report resulting from any inspection by the public company accounting oversight board firm inspection program does not include a review of Hawaii offices and Hawaii attest engagements, and the firm is not required to enroll in another peer review program under section 466-D.
+     §466-F  Supplemental Hawaii peer review.  (a)  The board shall adopt the "Standards for Performing and Reporting on Peer Reviews" promulgated by the American Institute of Certified Public Accountants for supplemental Hawaii peer reviews required under section 466-E(b)(1), (2), or (3); provided that the standards shall not apply to:
+     (1)  Selection of engagements, which shall be limited to Hawaii attest work only;
+     (2)  Administration of peer reviews, which shall be limited to peer reviewers authorized under this part;
+     (3)  The reporting acceptance body, which shall be the board; and
+     (4)  Any other standards approved by the board on a case by case basis.
+     (b)  A peer reviewer shall address the supplemental Hawaii peer review report to the firm and to the board and may modify the report forms used by the American Institute of Certified Public Accountants peer review program to address the limitations imposed by subsection (a).
+     (c)  A firm shall receive a rating of "pass", "pass with deficiency", or "fail" from the peer reviewer; provided that if a rating cannot be given, the peer reviewer shall provide the board with an explanation of the reasons why a rating could not be given.  The acceptability of the explanation shall be subject to board approval.
+     §466-G  Retention of documents.  (a)  Each reviewer shall maintain all documentation necessary to establish that each review conforms to the review standards of the relevant review program, including the review working papers, copies of the review report, and any correspondence indicating the firm's concurrence and non-concurrence, along with any proposed remedial actions and any related implementation.
+     (b)  The documents described in subsection (a) shall be retained by the reviewer for a period of time corresponding to the retention period of the sponsoring organization, and upon request of the board, shall be made available to the board; provided that the document shall be retained for at least one hundred twenty days after the date of completion of the review by the sponsoring organization.
+     §466-H  Reporting to the board.  (a)  A firm shall submit to the board:
+     (1)  A copy of the peer review report and the final letter of acceptance from the sponsoring organization, if the report has a rating of "pass";
+     (2)  A copy of the peer review report, the firm's letter of response, the corrective action letter, and the final letter of acceptance if the report has a rating of "pass with deficiency" or "fail"; or
+     (3)  A copy of any final report resulting from any inspection by the public company accounting oversight board firm inspection program together with documentation of any significant deficiencies, findings, and the firm's response.
+     (b)  For peer reviews scheduled after December 31, 2014, any report or document required to be submitted under subsection (a) shall be filed with the board as follows:
+     (1)  Firms enrolled in the American Institute of Certified Public Accountants and Hawaii Society of Certified Public Accountants peer review programs and administered by the Hawaii Society of Certified Public Accountants, within ten days of receipt of the notice of completion from the Hawaii Society of Certified Public Accountants, shall complete the peer review compliance reporting form under section 466-E and submit the form to the board along with the required documents;
+     (2)  Firms otherwise enrolled in the American Institute of Certified Public Accountants peer review program, including those whose peer reviews are administered by the National Peer Review Committee, within ten days of receipt of the notice of completion from the sponsoring organization, shall complete the firm review compliance reporting form under section 466-E and submit the form to the board along with the required documents;
+     (3)  Firms enrolled in the public company accounting oversight board inspection program shall, within ten days of receipt of the notice of completion from the public company accounting oversight board, complete the firm review compliance reporting form required by section 466-E and submit the form to the board along with the required documents; and
+     (4)  Firms enrolled in any other firm review program approved by this part shall submit the report generated by that review process and all associated documentation to the board in a form acceptable to the board.
+     (c)  Any report or document submitted to the board under this section, including the board's peer review compliance reporting form, shall be confidential.
+     §466-I  Appeals.  (a)  A firm shall have ten days after the filing of the peer review compliance reporting form to appeal a "pass with deficiency" or a "fail" rating that may result in the denial, termination, or nonrenewal of a permit to practice.
+     (b)  A firm may also appeal the findings or conclusions of any peer review process under this part that results in the denial, termination, or nonrenewal of a permit to practice.
+     (c)  The appeal process under this section shall include the postponement of any adverse action during the pendency of the appeal.
+     §466-J  Procedures for sponsoring organization.  (a)  To qualify as a sponsoring organization, a third-party entity shall submit a peer review administration plan to the board for review and approval.  The peer review administration plan shall:
+     (1)  Establish a peer review report committee and any necessary subcommittees and provide professional staff as needed for the operation of the peer review program;
+     (2)  Establish a program to communicate to firms participating in the peer review program the latest developments in peer review standards and the most common findings in the peer reviews conducted by the sponsoring organization;
+     (3)  Establish procedures for resolving any disagreement that may arise out of the performance of a peer review;
+     (4)  Establish procedures to resolve matters that may lead to the dismissal of a firm from the peer review program and conduct hearings pursuant to those procedures;
+     (5)  Establish procedures to evaluate and document the performance of each peer reviewer and conduct evaluation proceedings that may lead to the disqualification of a reviewer who does not meet the American Institute of Certified Public Accountants standards;
+     (6)  Require the maintenance of records of peer reviews conducted under the program in accordance with the records retention rules of the American Institute of Certified Public Accountants and this part; and
+     (7)  Provide for periodic reports to the board on the results of the peer review program; provided that reports submitted to the board shall not contain information concerning specific firms or peer reviewers.
+     (b)  A sponsoring organization:
+     (1)  Shall be subject to review and oversight by the board;
+     (2)  Shall not require firms or the firms' owners or employees to become members of the sponsoring organization to participate in a peer review; and
+     (3)  Shall charge the same rate for peer review services to members and nonmembers.
+     (c)  The public company accounting oversight board shall be exempt from the requirements of this section.
+     §466-K  Oversight of sponsoring organizations.  (a)  The board shall retain oversight of sponsoring organizations by:
+     (1)  Monitoring sponsoring organizations to ensure that peer reviews are being conducted and reported in accordance with standards for performing and reporting on peer reviews promulgated by the American Institute of Certified Public Accountants Peer Review Board; and
+     (2)  Reviewing the policies and procedures of sponsoring organization applicants as to their conformity with the peer review standards of any applicable peer review organization and this part.
+     (b)  Information provided to the board concerning a specific sponsoring organization or peer reviewer shall be confidential and shall not be subject to discovery pursuant to section 466-B.
+     (c)  If the sponsoring organization is the American Institute of Certified Public Accountants peer review program, the Hawaii Society of Certified Public Accountants peer review program, state certified public accountant societies fully involved in the administration of the American Institute of Certified Public Accountants peer review program, or the public company accounting oversight board, the board shall review the published reports of those entities or their successors to determine whether there is an acceptable level of oversight.
+     (d)  The board shall periodically publish a list of sponsoring organizations that have been approved by the board.
+     §466-L  Oversight of peer reviewers.  (a)  A peer reviewer shall be a person who:
+     (1)  Holds a permit to practice public accountancy under section 466-7; and
+     (2)  Is not affiliated with the firm being reviewed.
+     (b)  The board shall retain oversight of peer reviewers by monitoring peer reviewers to ensure that peer reviewers are in compliance with subsection (a) and that reviews are conducted in accordance with the standards established under sections 466-C and 466-F.
+     (c)  Information concerning any peer reviewer that is obtained during the board's peer review oversight activities shall be confidential as required by section 466-B.
+     (d)  The board shall annually assess the qualifications of all peer reviewers based on a random selection of each reviewer's published peer review reports and shall determine whether the published reports meet the standards established by this part.
+     (e)  The public company accounting oversight board and its inspectors shall be exempt from this section.
+     §466-M  Peer review for firms performing Hawaii attest work.  For license of certified public accountants renewal periods beginning after December 31, 2017, unless granted an extension pursuant to section 466-D, all firms performing Hawaii attest work within a three-year period ending December 31 of the odd-numbered year prior to the renewal period shall:
+     (1)  Undergo a peer review; and
+     (2)  File a firm review compliance reporting form pursuant to section 466-E within the relevant three-year period."
+     SECTION 2.  Act 66, Session Laws of Hawaii 2010, is amended as follows:
+     1.  By amending section 3 to read:
+     "SECTION 3.  Section 466-7, Hawaii Revised Statutes, is amended by amending subsection (b) to read as follows:
+     "(b)  An applicant for the initial issuance or renewal of a permit shall have:
+     (1)  A valid license;
+     (2)  Completed continuing professional education hours, the content of which shall be specified by the board which may provide for special consideration by the board to applicants for permit renewal when, in the judgment of the board, full compliance with all requirements of continuing education cannot reasonably be met;
+     (3)  Completed an application;
+     (4)  Paid appropriate fees and assessments; and
+     (5)  [Undergone any applicable] In the case of a renewal, undergone and provided proof of having undergone the peer review process [approved by the board of accountancy pursuant to section 466-13.] pursuant to part      .""
+     2.  By amending section 9 to read:
+     "SECTION 9.  This Act shall take effect upon its approval[; provided that sections 2, 3, 4, and 5 shall take effect one year after the board of public accountancy reports the adoption of rules pursuant to section 7 of this Act]."
+     3.  By repealing section 7.
+     ["SECTION 7.  The board of public accountancy shall:
+(1)    Adopt rules pursuant to section 466-13(d), Hawaii Revised Statutes, in section 5 of this Act; and
+(2)    Report the adoption of the rules under paragraph (1) to the legislature immediately upon adoption of those rules by means of written notice to the speaker of the house of representatives and the president of the senate."]
+     SECTION 3.  Chapter 466, Hawaii Revised Statutes, is amended by designating sections 466-1 to 466-12 as follows:
+"PART I.  GENERAL PROVISIONS"
+     SECTION 4.  Section 466-13, Hawaii Revised Statutes, is repealed.
+     ["§466-13  Peer review.  (a)  Every firm, including the Hawaii offices and Hawaii engagements of foreign or multistate firms, required to obtain a firm permit to practice pursuant to section 466-7 shall undergo a peer review every three years on the firm's Hawaii attest work and submit evidence of such peer review at the time of the renewal of the firm's permit to practice under section 466-7.
+     (b)  The board shall establish a peer review process to review attest work of firms.  The identity of the person or firm for whom the professional work is done shall be preserved in confidence.  If the review discloses information that a firm has not met the appropriate professional standards, the board may require further investigation of the firm.  The peer review process required by this section shall be for educational or remedial and not punitive purposes.
+     (c)  The board may authorize a third party entity to administer the peer review required under subsection (a); provided that the entity shall not require firms or the firms' owners or employees to become members of the entity to participate in peer review and shall charge the same rate for peer review services to both members and nonmembers.  If the board chooses to authorize a third party entity to administer peer reviews, the third party shall be held to the highest standards of professionalism, quality, and ethics.
+     (d)  The board shall adopt rules pursuant to chapter 91 to establish requirements and procedures for the qualification of entities to conduct peer reviews and for the performance of peer reviews by these entities.  The rules shall include:
+     (1)  A process for the conduct of peer review to be followed by the board and by an authorized third party entity;
+     (2)  Definitions, standards, and requirements for an acceptable peer review;
+     (3)  Standards for certification and qualification of peer reviewers;
+     (4)  A process for a firm to appeal the findings or conclusions of any peer review process that results in the denial, termination, or nonrenewal of a firm permit pursuant to section 466-9; provided that the appeal process shall include the postponement of any adverse action during the pendency of the appeal; and
+     (5)  Provisions for the grant of an extension of time to a firm for compliance with the peer review requirement based on a showing of hardship including for reasons of health, military service, or other good cause as determined by the board.
+     (e)  Neither the proceedings nor the records of the peer review process shall be subject to discovery.  Except as hereinafter provided, no person involved in the peer review process shall be required to testify on that process; provided that statements made by any person in connection with the peer review process who is a party to an action or proceeding the subject matter of which was reviewed in that process, shall be subject to discovery."]
+     SECTION 5.  In codifying the new sections added by section 1 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 6.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 7.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Public Accountancy; Peer Review; Attest
+ 
+Description:
+Establishes a peer review process for public accounting firms that engage in attest work.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

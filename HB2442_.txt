@@ -1,0 +1,64 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2442
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO THE DEPARTMENT OF THE ATTORNEY GENERAL.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 28-16, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§28-16[]]  Litigation deposits trust fund.  (a)  There is created in the state treasury the litigation deposits trust fund.  [There] Notwithstanding any other law to the contrary, there shall be deposited into this fund all [moneys received through any civil action in which the State is a party where the settlement amount is $100,000 or higher, except for those actions involving departments able to procure their own legal services as provided for by section 28-8.3 and where no other state statute or court order specifically provides for the deposit of moneys received through the action.] proceeds from any civil action or settlement of a civil claim initiated or prosecuted by the attorney general or where such action was filed by the attorney general, except when the deposit is inconsistent with the court order or settlement agreement relating to the amount.
+     [(b)  The fund shall be administered by the department of the attorney general.  The department shall maintain accounting records of fund moneys, including subsidiary records of individual litigation deposits and disbursements thereof.  Moneys in the fund may be separated into subsidiary accounts; provided that one subsidiary account shall not be commingled with moneys from another account except for deposit or investment purposes under subsection (d).
+     (c)  Disbursements from each account maintained under subsection (b) may include attorney's fees and other necessary expenses that the department determines to be reasonable and directly related to prosecution of the civil action for which the account is maintained; provided that in the case of moneys deposited as a result of recoveries by an agency to which a non-general fund applies, the moneys shall be held and disbursed intact for deposit to the credit of the non-general fund.  Money deposited in the fund pursuant to an order of the court shall be disbursed in accordance with the order of the court.  Any residual funds remaining in an account shall be transferred to the respective non-general or general fund with which the civil action is associated no later than thirty days after the civil action for which the account is maintained is closed and all costs of that civil action have been paid, unless otherwise provided for by statute.]
+     (b)  This section shall not apply to recoveries for the:
+     (1)  Antitrust trust fund under section 28-13;
+     (2)  Tobacco enforcement special fund under section 28-15;
+     (3)  Medicaid investigations recovery fund under section 28-91.5;
+     (4)  Hawaii tobacco settlement special fund under section 328L-2; and
+     (5)  Criminal forfeiture fund under section 712A-16.
+     (c)  The fund shall be administered by the department of the attorney general.
+     (1)  Fifteen per cent of any recovery is to be retained by the fund to support the department's investigation and prosecution efforts, including, but not limited to, expenditures relating to attorney's fees, operating costs relating to this fund, investigation and litigation costs, participation in multi-state or federal-state actions, training, equipment purchases, and educational resources; and
+     (2)  Of the balance remaining after such allocation, for:
+         (A)  A recovery relating to a general fund action or claim, the remaining balance shall be retained by the fund unless otherwise provided for by statute; and
+         (B)  A recovery relating to a non-general fund action or claim, the attorney general shall remit to the non-general fund from this amount, a sum up to the amount of the loss incurred by the non-general fund relating to the action or claim, as determined by the attorney general; provided that the residual balance after the disbursement of such moneys shall be retained by the fund.
+     (d)  [Moneys in the fund may be invested by the department in securities as provided by section 36-21.] Investment earnings shall be [deposited in the general fund.] credited to the fund.
+     [(e)  The department shall submit a report to the legislature no later than twenty days prior to the convening of each regular session on:
+     (1)  The transactions, by subsidiary account, that take place in the fund for each fiscal year; and
+     (2)  A summary of the collections made in any amount on behalf of other departments and agencies specifying the appropriate number of transactions and amount collected for each department and agency.]
+     (e)  All unencumbered and unexpended moneys in excess of $1,000,000 remaining on balance in the fund at the close of June 30 of each year shall lapse to the credit of the general fund.
+     (f)  This section shall not apply if the application of this section would cause a violation of a federal law or a federal grant agreement.
+     (g)  The department of the attorney general shall submit a report to the legislature no later than twenty days prior to the convening of each regular session to provide an accounting of the receipts and expenditures of the fund."
+     SECTION 2.  Section 661-22, Hawaii Revised Statutes, is amended to read as follows:
+     "[[]§661-22[]]  Civil actions for false claims.  The attorney general shall investigate any violation under section 661-21.  If the attorney general finds that a person has violated or is violating section 661-21, the attorney general may bring a civil action under this section.  All recoveries by the State shall be deposited into the litigation deposits trust fund."
+     SECTION 3.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect on July 1, 2012.
+ 
+INTRODUCED BY:
+____________________________
+ 
+BY REQUEST
+ 
+
+ 
+Report Title:
+Department of the Attorney General; Litigation Deposits Trust Fund
+ 
+Description:
+Amend sections 28-16 and 661-22, Hawaii Revised Statutes, to enable the Attorney General to retain and deposit fifteen percent of any recovery from any civil action or settlement of a civil claim initiated or prosecuted by the Attorney General to be used for staffing, expenses, equipment, and training.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,48 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+2762
+TWENTY-SIXTH LEGISLATURE, 2012
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO WEB DESIGNERS AND DEVELOPERS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 481B, Hawaii Revised Statutes, is amended by adding a new section to read as follows:
+     "§481B-     Web designers and developers; prohibited acts.  (a)  It shall be unlawful for any person who provides web design or development services for compensation to:
+     (1)  Use in the web page or website design or programming any graphics or other material or software that the person is not authorized to use, including copyrighted material;
+     (2)  Design or program the web page or website to include material that is not approved by the customer;
+     (3)  Claim ownership of the web page or website after the person has completed the job; or
+     (4)  Use any material at any time obtained from the customer's computer, including e-mail and e-mail addresses, without authorization from the customer.
+     (b)  As used in this section, "web designer" or "web developer" means a person who designs or creates a web page or website, or programs a web page or website, or both."
+     SECTION 2.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 3.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Web Designers and Developers; Unfair and Deceptive Practices
+ 
+Description:
+Prohibits certain acts by web designers and developers, such as using unauthorized graphics or other material, subject to penalties under the unfair and deceptive practices law.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
