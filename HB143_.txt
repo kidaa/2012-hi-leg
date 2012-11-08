@@ -1,0 +1,86 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+143
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO RIGHTS OF THE ACCUSED.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The goal of a police investigation is to apprehend the person or persons responsible for committing a crime.  Recent studies have confirmed, however, that traditional eyewitness identification procedures may lead to faulty eyewitness identifications.  By contrast, studies also indicate that the criminal justice system can significantly decrease the rate of erroneous eyewitness identifications by implementing modern identification procedures that would also increase the ability of police and prosecutors to convict the guilty and protect our communities.  The National Institute of Justice recommends the adoption of new policies and procedures that are readily available and have proven effective in other jurisdictions.
+     The purpose of this Act is to prescribe new identification procedures that will help maximize fairness and justice, provide Hawaii's citizens with greater protections against faulty identifications, and assist police agencies with the capture of the perpetrators of crimes in our community.
+     SECTION 2.  The Hawaii Revised Statutes is amended by adding a new chapter to be appropriately designated and to read as follows:
+"CHAPTER
+EYEWITNESS IDENTIFICATION
+     §   -1  Definitions.  For the purposes of this chapter:
+     "Eyewitness" means a person who observes another person at or near the scene of an offense.
+     "Filler" means either a person or a photograph of a person who is not suspected of an offense and is included in an identification procedure.
+     "Identification procedure" means either a photo lineup or a live lineup.
+     "Investigator" means the person conducting the live or photo lineup.
+     "Live lineup" means a procedure in which a group of persons, including the person suspected as the perpetrator of an offense and other persons not suspected of the offense, is displayed to an eyewitness for the purpose of determining whether the eyewitness is able to identify the suspect as the perpetrator.
+     "Photo lineup" means a procedure in which an array of photographs, including a photograph of the person suspected as the perpetrator of an offense and additional photographs of other persons not suspected of the offense, is displayed to an eyewitness for the purpose of determining whether the eyewitness is able to identify the suspect as the perpetrator.
+     §   -2  Eyewitness identification procedures.  (a)  The conducting of photo lineups and live lineups shall comply with the following requirements:
+     (1)  When practicable, the investigator shall be a person who is not aware of which person in the lineup is suspected as the perpetrator of the offense.  When it is not practicable for the investigator to be a person who is unaware of which person in the lineup is suspected as the perpetrator of the offense:
+         (A)  The lineup shall be presented simultaneously, not sequentially; and
+         (B)  The investigator shall state in writing the reason that presentation of the lineup was not made by a person who was not aware of which person in the photo lineup or live lineup was suspected as the perpetrator of the offense;
+     (2)  The eyewitness shall be instructed prior to the identification procedure that the perpetrator may not be among the persons in the photo lineup or the live lineup and that the eyewitness should not feel compelled to make an identification;
+     (3)  If a live lineup or photo lineup is conducted in sequence rather than simultaneously:
+         (A)  Each photograph or person shall be viewed one at a time;
+         (B)  The photographs or persons shall be displayed in random order;
+         (C)  The eyewitness shall be given as much time as needed to make a decision about each photograph or person before moving to the next one; and
+         (D)  All photographs or persons shall be shown to the eyewitness, even if an identification is made before all have been viewed;
+     (4)  The photo lineup or live lineup shall be composed so that the fillers generally fit the description of the person suspected as the perpetrator and, in the case of a photo lineup, so that the photograph of the person suspected as the perpetrator resembles the perpetrator's appearance at the time of the offense and does not unduly stand out;
+     (5)  If the eyewitness has previously viewed a photo lineup or live lineup in connection with the identification of another person suspected of involvement in the offense, the fillers in the lineup in which the person suspected as the perpetrator participates shall be different from the fillers used in any prior lineups;
+     (6)  At least five fillers shall be included in the photo lineup and at least four fillers shall be included in the live lineup, in addition to the person suspected as the perpetrator;
+     (7)  In a photo lineup, no writings or information concerning any previous arrest of the person suspected as the perpetrator shall be visible to the eyewitness;
+     (8)  In a live lineup, any identification actions, such as speaking or making gestures or other movements, shall be performed by all lineup participants;
+     (9)  In a live lineup, all lineup participants shall be out of the view of the eyewitness at the beginning of the identification procedure;
+    (10)  The person suspected as the perpetrator shall be the only suspected perpetrator included in the identification procedure;
+    (11)  Nothing shall be said to the eyewitness regarding the position in the photo lineup or the live lineup of the person suspected as the perpetrator, except as otherwise provided in paragraph (2);
+    (12)  Nothing shall be said to the eyewitness that might influence the eyewitness's selection of the person suspected as the perpetrator;
+    (13)  If the eyewitness identifies a person as the perpetrator, the investigator shall seek, in the eyewitness's own words, the eyewitness's confidence level that any person identified in the lineup is the suspect;
+    (14)  If the eyewitness identifies a person as the perpetrator, the eyewitness shall not be provided any information concerning the person prior to obtaining the eyewitness's statement that the eyewitness is certain of the selection; and
+    (15)  A written record of the identification procedure shall be made that includes the following information:
+         (A)  All results indicating identification or the inability to identify a person as the perpetrator obtained during the identification procedure, signed by the eyewitness, including the eyewitness's own words regarding how certain the eyewitness is of the selection;
+         (B)  The names of all persons present at the identification procedure;
+         (C)  The date and time of the identification procedure;
+         (D)  In a live or photo lineup where the subjects were presented sequentially as opposed to simultaneously, the order in which the photographs or persons were displayed to the eyewitness;
+         (E)  In a photo lineup, the photographs themselves, and identification information and the sources of all photographs used; and
+         (F)  In a live lineup, a photo or other visual recording of the lineup that includes all persons who participated in the lineup.
+     (b)  Not later than January 1, 2012, each county police department and state agency with criminal investigation powers shall adopt procedures for conducting photo lineups and live lineups that comply with subsection (a).
+     §   -3  Noncompliance.  (a)  Evidence of a failure to comply with any of the provisions of this chapter shall be considered by a court in adjudicating motions to suppress eyewitness identification.
+     (b)  Evidence of a failure to comply with any of the provisions of this chapter shall be admissible at trial or other hearings in support of claims of eyewitness misidentification; provided that such evidence is otherwise admissible.
+     (c)  If evidence of a failure to comply with any of the provisions of this chapter has been presented at trial, the jury shall be instructed that it may consider credible evidence of noncompliance in determining the reliability of eyewitness identifications.
+     §   -4  Training program.  There is established a training program for law enforcement officers and recruits on the methods of proper eyewitness identification practices consistent with this chapter.  The department of the attorney general shall administer the program."
+     SECTION 3.  There is appropriated out of the general revenues of the State of Hawaii the sum of $          or so much thereof as may be necessary for fiscal year 2011-2012 and the same sum or so much thereof as may be necessary for fiscal year 2012-2013 to establish and operate a training program as provided in section    -4, Hawaii Revised Statutes, as enacted in section 2 of this Act.
+     The sums appropriated shall be expended by the department of the attorney general for the purposes of this Act.
+     SECTION 4.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Eyewitness Identification; Procedures; Appropriation
+ 
+Description:
+Specifies procedures for eyewitness identification via photographic and live lineups.  Mandates that state and county law enforcement adopt these procedures.  Establishes training program.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

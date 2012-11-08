@@ -1,0 +1,127 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+145
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CORRECTIONS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature believes that the State would benefit from a less-expensive alternative to incarceration, such as the electronic monitoring of non-violent committed persons who are permitted to live and work in the community.  The purpose of this Act is to establish and fund an electronic monitoring pilot program for eligible committed persons.
+     SECTION 2.  (a)  By not later than      , the department of public safety shall establish and administer an electronic monitoring pilot program on Oahu for eligible committed persons.  Program participants shall be permitted to live and work in the community and shall be electronically monitored by the department of public safety at all times.  To electronically monitor the participating committed persons, the department of public safety shall use global positioning satellite tracking devices designed to transmit and record the participant's location data.  The global positioning satellite tracking devices that are to be used in the pilot program shall be able to monitor and pinpoint an inmate's location whether they are located inside or outside any building
+     (b)  To be eligible to participate in the electronic monitoring pilot program, a committed person, at the time of admission to the program, shall:
+     (1)  Be considered non-violent, as determined by the department of public safety;
+     (2)  Have not more than thirty-six months remaining on the person's sentence;
+     (3)  Be a model or near-model inmate, as determined by the department of public safety;
+     (4)  Have served at least fifty per cent of the committed person's sentence;
+     (5)  Not otherwise be eligible for release through an existing program; and
+     (6)  Submit to electronic monitoring.
+     (c)  The department of public safety shall design and implement a pilot program that requires participants to:
+     (1)  Submit to drug testing once each week;
+     (2)  Maintain employment of no less than twenty hours per week within twelve weeks of beginning the program;
+     (3)  Secure housing prior to and during participation in the program;
+     (4)  Identify at least two persons, in addition to any pilot program or department of public safety employees or contractors, who shall provide assistance and guidance and other support as needed to the participant;
+     (5)  Enroll and successfully complete any rehabilitation, treatment, education, or other program as required by the department of public safety; and
+     (6)  Participate in at least one community service project each quarter, which shall be approved by the department of public safety in advance.
+     (d)  Notwithstanding any other law, persons convicted of violating the following provisions shall not be eligible to participate in the electronic monitoring pilot program:  sections 707-701, 707-701.5, 707-710, 707-711, 708-810, 708-820, 708-840, 708-841, 708-851, 709-906, and part V of chapter 707, Hawaii Revised Statutes.
+     (e)  The department of public safety shall select the program participants, subject to the approval of the prosecuting attorney of the county in which the committed person was convicted.  The program shall be limited to a maximum of thirty participants at any time.
+     (f)  A program participant who fails a drug test shall be required to undergo drug treatment and counseling.  A participant who fails two drug tests while participating in the program shall immediately become ineligible to participate in the program and shall be placed in a correctional facility.
+     (g)  An electronic monitoring program participant who is arrested for committing a crime shall immediately become ineligible to participate in the program and shall be placed in a correction facility pending disposition of the new charge through the law enforcement and the judicial systems, as necessary.
+     (h)  The department of public safety may adopt rules pursuant to chapter 91 to effectuate this Act.
+     SECTION 3.  The department of public safety shall submit a report to the legislature concerning the status of the electronic monitoring pilot program and make findings and recommendations, including whether to continue the pilot program, not later than twenty days prior to the convening of the regular session of 2013.
+     SECTION 4.  There is appropriated out of the general revenues of the State of Hawaii the sum of $           or so much thereof as may be necessary for fiscal year 2011-2012 and the same sum or so much thereof as may be necessary for fiscal year 2012-2013 to establish and implement the electronic monitoring pilot program for eligible committed persons.
+     The sums appropriated shall be expended by the department of public safety for the purposes of this Act.
+     SECTION 5.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+ 
+Report Title:
+Corrections; Electronic Monitoring; Pilot Program
+ 
+Description:
+Requires the department of public safety to establish a pilot program on Oahu that electronically monitors committed persons who are permitted to live and work in the community, in lieu of continued incarceration.  Appropriates funds.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+, li.ExtraSig, div.ExtraSig {mso-style-name:"Extra Sig"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:243.0pt; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.Appropriation, li.Appropriation, div.Appropriation {mso-style-name:Appropriation; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.aSubsection, li.aSubsection, div.aSubsection {mso-style-name:"\(a\)Subsection"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Effective, li.Effective, div.Effective {mso-style-name:Effective; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.BalloonTextChar {mso-style-name:"Balloon Text Char"; mso-style-link:"Balloon Text"; font-family:"Tahoma","sans-serif";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+145
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO CORRECTIONS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature believes that the State would benefit from a less-expensive alternative to incarceration, such as the electronic monitoring of non-violent committed persons who are permitted to live and work in the community.  The purpose of this Act is to establish and fund an electronic monitoring pilot program for eligible committed persons.
+     SECTION 2.  (a)  By not later than      , the department of public safety shall establish and administer an electronic monitoring pilot program on Oahu for eligible committed persons.  Program participants shall be permitted to live and work in the community and shall be electronically monitored by the department of public safety at all times.  To electronically monitor the participating committed persons, the department of public safety shall use global positioning satellite tracking devices designed to transmit and record the participant's location data.  The global positioning satellite tracking devices that are to be used in the pilot program shall be able to monitor and pinpoint an inmate's location whether they are located inside or outside any building
+     (b)  To be eligible to participate in the electronic monitoring pilot program, a committed person, at the time of admission to the program, shall:
+     (1)  Be considered non-violent, as determined by the department of public safety;
+     (2)  Have not more than thirty-six months remaining on the person's sentence;
+     (3)  Be a model or near-model inmate, as determined by the department of public safety;
+     (4)  Have served at least fifty per cent of the committed person's sentence;
+     (5)  Not otherwise be eligible for release through an existing program; and
+     (6)  Submit to electronic monitoring.
+     (c)  The department of public safety shall design and implement a pilot program that requires participants to:
+     (1)  Submit to drug testing once each week;
+     (2)  Maintain employment of no less than twenty hours per week within twelve weeks of beginning the program;
+     (3)  Secure housing prior to and during participation in the program;
+     (4)  Identify at least two persons, in addition to any pilot program or department of public safety employees or contractors, who shall provide assistance and guidance and other support as needed to the participant;
+     (5)  Enroll and successfully complete any rehabilitation, treatment, education, or other program as required by the department of public safety; and
+     (6)  Participate in at least one community service project each quarter, which shall be approved by the department of public safety in advance.
+     (d)  Notwithstanding any other law, persons convicted of violating the following provisions shall not be eligible to participate in the electronic monitoring pilot program:  sections 707-701, 707-701.5, 707-710, 707-711, 708-810, 708-820, 708-840, 708-841, 708-851, 709-906, and part V of chapter 707, Hawaii Revised Statutes.
+     (e)  The department of public safety shall select the program participants, subject to the approval of the prosecuting attorney of the county in which the committed person was convicted.  The program shall be limited to a maximum of thirty participants at any time.
+     (f)  A program participant who fails a drug test shall be required to undergo drug treatment and counseling.  A participant who fails two drug tests while participating in the program shall immediately become ineligible to participate in the program and shall be placed in a correctional facility.
+     (g)  An electronic monitoring program participant who is arrested for committing a crime shall immediately become ineligible to participate in the program and shall be placed in a correction facility pending disposition of the new charge through the law enforcement and the judicial systems, as necessary.
+     (h)  The department of public safety may adopt rules pursuant to chapter 91 to effectuate this Act.
+     SECTION 3.  The department of public safety shall submit a report to the legislature concerning the status of the electronic monitoring pilot program and make findings and recommendations, including whether to continue the pilot program, not later than twenty days prior to the convening of the regular session of 2013.
+     SECTION 4.  There is appropriated out of the general revenues of the State of Hawaii the sum of $           or so much thereof as may be necessary for fiscal year 2011-2012 and the same sum or so much thereof as may be necessary for fiscal year 2012-2013 to establish and implement the electronic monitoring pilot program for eligible committed persons.
+     The sums appropriated shall be expended by the department of public safety for the purposes of this Act.
+     SECTION 5.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+ 
+Report Title:
+Corrections; Electronic Monitoring; Pilot Program
+ 
+Description:
+Requires the department of public safety to establish a pilot program on Oahu that electronically monitors committed persons who are permitted to live and work in the community, in lieu of continued incarceration.  Appropriates funds.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,65 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+220
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO MORTGAGE FORECLOSURES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Section 667-22, Hawaii Revised Statutes, is amended to read as follows:
+     "§667-22  Notice of default; contents; distribution.  (a)  When the mortgagor or the borrower has breached the mortgage agreement, and when the foreclosing mortgagee intends to conduct a power of sale foreclosure under this part, the foreclosing mortgagee shall prepare a written notice of default addressed to the mortgagor, the borrower, and any guarantor.  The notice of default shall state:
+     (1)  The name and address of the current mortgagee;
+     (2)  The name and last known address of the mortgagor, the borrower, and any guarantor;
+     (3)  The address or a description of the location of the mortgaged property, and the tax map key number of the mortgaged property;
+     (4)  The description of the default, and if the default is a monetary default, an itemization of the delinquent amount shall be given;
+     (5)  The action that must be taken to cure the default, including the amount to cure the default, together with the estimated amount of the foreclosing mortgagee's attorney's fees and costs, and all other fees and costs estimated to be incurred by the foreclosing mortgagee related to the default by the deadline date;
+     (6)  The date by which the default must be cured, which deadline date shall be at least sixty days after the date of the notice of default;
+     (7)  That if the default is not cured by the deadline date stated in the notice of default, the entire unpaid balance of the moneys owed to the mortgagee under the mortgage agreement will be due, that the mortgagee intends to conduct a power of sale foreclosure to sell the mortgaged property at a public sale without any court action and without going to court, and that the mortgagee or any other person may acquire the mortgaged property at the public sale; and
+     (8)  The name, address, including electronic address, and telephone number of the attorney who is representing the foreclosing mortgagee; provided that the attorney shall be licensed to practice law in the State and physically located in the State.
+     (b)  The notice of default shall also contain wording substantially similar to the following in all capital letters:
+            "IF THE DEFAULT ON THE LOAN CONTINUES AFTER THE DEADLINE DATE IN THIS NOTICE, THE MORTGAGED PROPERTY MAY BE FORECLOSED AND SOLD WITHOUT ANY COURT ACTION AND WITHOUT GOING TO COURT.
+               YOU MAY HAVE CERTAIN LEGAL RIGHTS OR DEFENSES.  FOR ADVICE, YOU SHOULD CONSULT WITH AN ATTORNEY LICENSED IN THIS STATE.
+               AFTER THE DEADLINE DATE IN THIS NOTICE, TWO PUBLIC SHOWINGS (OPEN HOUSES) OF THE PROPERTY BY THE LENDER WILL BE HELD, BUT ONLY IF ALL MORTGAGORS (OWNERS) OF THE PROPERTY SO AGREE.  TO SHOW THAT ALL OWNERS AGREE TO ALLOW TWO OPEN HOUSES BY THE LENDER, ALL OWNERS MUST SIGN A LETTER SHOWING THEY AGREE.  ALL OWNERS MUST SEND THE SIGNED LETTER TO THIS OFFICE AT THE ADDRESS GIVEN IN THIS NOTICE.
+               THIS OFFICE MUST ACTUALLY RECEIVE THE SIGNED LETTER BY THE DEADLINE DATE IN THIS NOTICE.  THE SIGNED LETTER MUST BE SENT TO THIS OFFICE BY CERTIFIED MAIL, REGISTERED MAIL, OR EXPRESS MAIL, POSTAGE PREPAID AND RETURN RECEIPT REQUESTED.
+               IF THE SIGNED LETTER IS NOT RECEIVED BY THIS OFFICE BY THE DEADLINE DATE, THE PROPERTY WILL THEN BE SOLD WITHOUT ANY OPEN HOUSES BEING HELD.
+               EVEN IF THIS OFFICE RECEIVES THE SIGNED LETTER TO ALLOW THE LENDER TO HOLD TWO OPEN HOUSES OF THE PROPERTY, IF ALL OWNERS LATER DO NOT COOPERATE TO ALLOW THE OPEN HOUSES, THE PROPERTY WILL BE SOLD WITHOUT ANY OPEN HOUSES BEING HELD.
+               ALL FUTURE NOTICES AND CORRESPONDENCE WILL BE MAILED TO YOU AT THE ADDRESS AT WHICH YOU RECEIVED THIS NOTICE UNLESS YOU SEND WRITTEN INSTRUCTIONS TO THIS OFFICE INFORMING THIS OFFICE OF A DIFFERENT ADDRESS.  THE WRITTEN INSTRUCTIONS MUST BE SENT TO THIS OFFICE BY CERTIFIED MAIL, REGISTERED MAIL, OR EXPRESS MAIL, POSTAGE PREPAID AND RETURN RECEIPT REQUESTED."
+     (c)  The notice of default shall include a copy of the original mortgage agreement, signed by both the mortgagor and the mortgagee, and any subsequent mortgage agreements, notes, or documents that amended or altered the terms of the original mortgage agreement that were signed by the mortgagor and the mortgagee or any successors or assigns of the mortgagor or the mortgagee.
+     [(c)] (d)  The foreclosing mortgagee shall have the notice of default served on:
+     (1)  The mortgagor and the borrower;
+     (2)  Any prior or junior creditors having a recorded lien on the mortgaged property before the recordation of the notice of default under section 667-23;
+     (3)  The state director of taxation;
+     (4)  The director of finance of the county where the mortgaged property is located; and
+     (5)  Any other person entitled to receive notice under section 667-5.5."
+     SECTION 2.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 3.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+ 
+Report Title:
+Alternate Power of Sale; Foreclosure Procedure
+ 
+Description:
+Requires the mortgagee in an alternate power of sale foreclosure procedure to attach a copy of the original, signed mortgage agreement and any amendments thereto to the notice of default.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,97 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+5
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO VETERANS RIGHTS AND BENEFITS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 363, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§363-    Demonstrations at cemeteries; prohibited; penalties.  (a)  No person may carry out a demonstration at a state or county veterans cemetery except as approved under subsection (b) by the council of the county in which the cemetery is located.
+(b)  No council shall grant approval to carry out a demonstration during the period beginning sixty minutes before and ending sixty minutes after a funeral, memorial service, or ceremony is scheduled to be held, any part of which demonstration:
+     (1)  Takes place within one hundred and fifty feet of a road, pathway, or other route of ingress to or egress from the cemetery property, and includes, as part of the demonstration, any individual wilfully making or assisting in the making of any noise or diversion that disturbs or tends to disturb the peace or good order of the funeral, memorial service, or ceremony; or
+     (2)  Is within three hundred feet of the cemetery and impedes the access to or egress from the cemetery.
+(c)  For purposes of this section, "demonstration" means:
+     (1)  Any picketing or similar conduct;
+     (2)  Any oration, speech, use of sound amplification equipment or device, or similar conduct that is not part of a funeral, memorial service, or ceremony;
+     (3)  The display of any placard, banner, flag, or similar device, unless such a display is part of a funeral, memorial service, or ceremony; or
+     (4)  The distribution of any handbill, pamphlet, leaflet, or other written or printed matter other than a program distributed as part of a funeral, memorial service, or ceremony.
+     (d)  Any person who violates this section shall be guilty of a petty misdemeanor."
+     SECTION 2.  New statutory material is underscored.
+     SECTION 3.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+
+Report Title:
+Veterans' Funerals; Protests
+ 
+Description:
+Prohibits protests within 300 feet of the entrance of any state or county veterans cemetery from 60 minutes before to 60 minutes after the funeral.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+li.ExtraSig, div.ExtraSig {mso-style-name:"Extra Sig"; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:243.0pt; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.RegularParagraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.ResolutionBody, li.ResolutionBody, div.ResolutionBody {mso-style-name:"Resolution Body"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} span.BillSectionNumber {mso-style-name:"Bill Section Number"; font-family:Courier;} p.XNotesHeading, li.XNotesHeading, div.XNotesHeading {mso-style-name:XNotesHeading; margin:0in; margin-bottom:.0001pt; text-align:center; font-size:12.0pt; font-family:"Courier New"; font-weight:bold;} p.XNotes, li.XNotes, div.XNotes {mso-style-name:XNotes; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Amend, li.Amend, div.Amend {mso-style-name:Amend; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.New, li.New, div.New {mso-style-name:New; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Ramseyer, li.Ramseyer, div.Ramseyer {mso-style-name:Ramseyer; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.BalloonTextChar {mso-style-name:"Balloon Text Char"; mso-style-link:"Balloon Text"; font-family:"Tahoma","sans-serif";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+5
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO VETERANS RIGHTS AND BENEFITS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 363, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§363-    Demonstrations at cemeteries; prohibited; penalties.  (a)  No person may carry out a demonstration at a state or county veterans cemetery except as approved under subsection (b) by the council of the county in which the cemetery is located.
+(b)  No council shall grant approval to carry out a demonstration during the period beginning sixty minutes before and ending sixty minutes after a funeral, memorial service, or ceremony is scheduled to be held, any part of which demonstration:
+     (1)  Takes place within one hundred and fifty feet of a road, pathway, or other route of ingress to or egress from the cemetery property, and includes, as part of the demonstration, any individual wilfully making or assisting in the making of any noise or diversion that disturbs or tends to disturb the peace or good order of the funeral, memorial service, or ceremony; or
+     (2)  Is within three hundred feet of the cemetery and impedes the access to or egress from the cemetery.
+(c)  For purposes of this section, "demonstration" means:
+     (1)  Any picketing or similar conduct;
+     (2)  Any oration, speech, use of sound amplification equipment or device, or similar conduct that is not part of a funeral, memorial service, or ceremony;
+     (3)  The display of any placard, banner, flag, or similar device, unless such a display is part of a funeral, memorial service, or ceremony; or
+     (4)  The distribution of any handbill, pamphlet, leaflet, or other written or printed matter other than a program distributed as part of a funeral, memorial service, or ceremony.
+     (d)  Any person who violates this section shall be guilty of a petty misdemeanor."
+     SECTION 2.  New statutory material is underscored.
+     SECTION 3.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+
+Report Title:
+Veterans' Funerals; Protests
+ 
+Description:
+Prohibits protests within 300 feet of the entrance of any state or county veterans cemetery from 60 minutes before to 60 minutes after the funeral.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

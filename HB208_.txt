@@ -1,0 +1,113 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+208
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO TOXIC PRODUCTS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+SECTION 1.  The legislature finds that phthalates, a class of chemicals used in polyvinyl chloride plastic to improve product flexibility and in cosmetics to adhere a fragrance to a product, are also used in many products intended for use by infants and young children, including teethers, toys, and soft plastic books.  There is extensive scientific evidence reporting the hormone-disrupting effect of phthalates and the dangerous phthalate levels found in humans.  Studies show that virtually everyone carries some level of phthalates in their body due, in part, to oral ingestion of the chemicals.
+The purpose of this Act is to prohibit the manufacture, sale, or distribution of certain toys and child care articles containing bisphenol-A or specific types of phthalates in concentrations exceeding 0.1 per cent and to require manufacturers to use safer alternatives when replacing phthalates in their products.
+SECTION 2.  The Hawaii Revised Statutes is amended by adding a new chapter to be appropriately designated and to read as follows:
+"CHAPTER
+PHTHALATES
+§   -1  Definitions.  As used in this chapter:
+"Child care article" means any product designed or intended by the manufacturer to facilitate the sleep, relaxation, feeding, sucking, or teething of children under the age of three.
+"Phthalates" or "phthalate esters" means the group of chemical compounds that is used mainly to plasticize soft plastic polyvinyl chloride bath toys, teething rings, bath books, and other toys and child care articles for infants and young children.
+"Toy" means any product designed or intended by the manufacturer to be used by a child at play.
+§   -2  Prohibition of manufacture, sale, or distribution.  Beginning January 1, 2012, no person or entity shall manufacture, sell, or distribute in commerce any toy or child care article that:
+     (1)  Is intended for use by a child under three years of age and contains bisphenol-A;
+     (2)  Contains di-2-ethyl hexyl phthalate, dibutyl phthalate, or butyl benzyl phthalate in concentrations exceeding 0.1 per cent; or
+     (3)  Is intended for use by a child under three years of age if that product can be placed in the child's mouth and contains diisononyl phthalate, diisodecyl phthalate, or di-n-octyl phthalate in concentrations exceeding 0.1 per cent.
+§   -3  Alternatives to bisphenol-A and phthalates.  (a)  Except as provided in subsection (b), manufacturers shall use the least toxic alternative when replacing bisphenol-A or phthalates in accordance with this chapter.
+(b)  Manufacturers shall not replace bisphenol-A or phthalates with:
+     (1)  Any carcinogen rated by the United States Environmental Protection Agency as an A, B, or C carcinogen, or any substance listed as a known or likely carcinogen, known to be a human carcinogen, likely to be a human carcinogen, or suggestive of being a human carcinogen, as described in the United States Environmental Protection Agency's List of Chemicals Evaluated for Carcinogenic Potential; or
+     (2)  Any reproductive toxicant identified by the United States Environmental Protection Agency as a cause of birth defects, reproductive harm, or developmental harm."
+     SECTION 3.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+ 
+Report Title:
+Toxic products; Infant and Child Safety
+ 
+Description:
+Beginning 1/1/12, prohibits the manufacturing, sale, or distribution of toys and child care articles containing certain toxic chemicals and requires manufacturers to use the least toxic alternatives.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+agraphs, li.RegularParagraphs, div.RegularParagraphs {mso-style-name:"\#Regular Paragraphs"; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.MeasureTitle, li.MeasureTitle, div.MeasureTitle {mso-style-name:MeasureTitle; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:.5in; margin-bottom:.0001pt; text-indent:-.5in; page-break-after:avoid; font-size:12.0pt; font-family:"Courier New"; text-transform:uppercase;} p.ReportTitle, li.ReportTitle, div.ReportTitle {mso-style-name:ReportTitle; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Description, li.Description, div.Description {mso-style-name:Description; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.ConstQuestionParagraph, li.ConstQuestionParagraph, div.ConstQuestionParagraph {mso-style-name:"Const\. Question Paragraph"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.Paragraph, li.Paragraph, div.Paragraph {mso-style-name:Paragraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.0in; margin-bottom:.0001pt; text-indent:-1.0in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Subparagraph, li.Subparagraph, div.Subparagraph {mso-style-name:Subparagraph; margin-top:0in; margin-right:0in; margin-bottom:0in; margin-left:1.5in; margin-bottom:.0001pt; text-indent:-1.5in; line-height:200%; font-size:12.0pt; font-family:"Courier New";} span.HeaderChar {mso-style-name:"Header Char"; mso-style-link:Header; font-family:"Courier New";} p.ResolutionBody, li.ResolutionBody, div.ResolutionBody {mso-style-name:"Resolution Body"; margin:0in; margin-bottom:.0001pt; font-size:12.0pt; font-family:"Courier New";} p.regularparagraphs0, li.regularparagraphs0, div.regularparagraphs0 {mso-style-name:regularparagraphs; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} p.Effective, li.Effective, div.Effective {mso-style-name:Effective; margin:0in; margin-bottom:.0001pt; line-height:200%; font-size:12.0pt; font-family:"Courier New";} /* Page Definitions */ @page Section1 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section1 {page:Section1;} @page Section2 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section2 {page:Section2;} @page Section3 {size:8.5in 11.0in; margin:.8in 1.0in 1.0in 1.0in;} div.Section3 {page:Section3;} -->
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+208
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO TOXIC PRODUCTS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+SECTION 1.  The legislature finds that phthalates, a class of chemicals used in polyvinyl chloride plastic to improve product flexibility and in cosmetics to adhere a fragrance to a product, are also used in many products intended for use by infants and young children, including teethers, toys, and soft plastic books.  There is extensive scientific evidence reporting the hormone-disrupting effect of phthalates and the dangerous phthalate levels found in humans.  Studies show that virtually everyone carries some level of phthalates in their body due, in part, to oral ingestion of the chemicals.
+The purpose of this Act is to prohibit the manufacture, sale, or distribution of certain toys and child care articles containing bisphenol-A or specific types of phthalates in concentrations exceeding 0.1 per cent and to require manufacturers to use safer alternatives when replacing phthalates in their products.
+SECTION 2.  The Hawaii Revised Statutes is amended by adding a new chapter to be appropriately designated and to read as follows:
+"CHAPTER
+PHTHALATES
+§   -1  Definitions.  As used in this chapter:
+"Child care article" means any product designed or intended by the manufacturer to facilitate the sleep, relaxation, feeding, sucking, or teething of children under the age of three.
+"Phthalates" or "phthalate esters" means the group of chemical compounds that is used mainly to plasticize soft plastic polyvinyl chloride bath toys, teething rings, bath books, and other toys and child care articles for infants and young children.
+"Toy" means any product designed or intended by the manufacturer to be used by a child at play.
+§   -2  Prohibition of manufacture, sale, or distribution.  Beginning January 1, 2012, no person or entity shall manufacture, sell, or distribute in commerce any toy or child care article that:
+     (1)  Is intended for use by a child under three years of age and contains bisphenol-A;
+     (2)  Contains di-2-ethyl hexyl phthalate, dibutyl phthalate, or butyl benzyl phthalate in concentrations exceeding 0.1 per cent; or
+     (3)  Is intended for use by a child under three years of age if that product can be placed in the child's mouth and contains diisononyl phthalate, diisodecyl phthalate, or di-n-octyl phthalate in concentrations exceeding 0.1 per cent.
+§   -3  Alternatives to bisphenol-A and phthalates.  (a)  Except as provided in subsection (b), manufacturers shall use the least toxic alternative when replacing bisphenol-A or phthalates in accordance with this chapter.
+(b)  Manufacturers shall not replace bisphenol-A or phthalates with:
+     (1)  Any carcinogen rated by the United States Environmental Protection Agency as an A, B, or C carcinogen, or any substance listed as a known or likely carcinogen, known to be a human carcinogen, likely to be a human carcinogen, or suggestive of being a human carcinogen, as described in the United States Environmental Protection Agency's List of Chemicals Evaluated for Carcinogenic Potential; or
+     (2)  Any reproductive toxicant identified by the United States Environmental Protection Agency as a cause of birth defects, reproductive harm, or developmental harm."
+     SECTION 3.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+ 
+Report Title:
+Toxic products; Infant and Child Safety
+ 
+Description:
+Beginning 1/1/12, prohibits the manufacturing, sale, or distribution of toys and child care articles containing certain toxic chemicals and requires manufacturers to use the least toxic alternatives.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,80 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+54
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO PUBLIC UTILITIES.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that the undergrounding of electric utility lines can help to protect our electricity infrastructure by developing systems that are less prone to failure due to accidents, acts of terrorism, and natural disasters.
+     The legislature also finds that the high cost of converting to underground utility lines has prevented many communities from receiving these benefits.  Therefore, overhead electric utility lines have been continually maintained and even reconstructed while adjacent public improvements are built.  Underground conversion will take significant financial resources, however, it is a necessary undertaking to enhance the public's safety and welfare.
+     The purpose if this Act is to provide a financial incentive for undergrounding electric utility lines by creating a tax credit for the qualified costs of placing electric utility lines underground.
+     SECTION 2.  The legislature further finds and declares that the tax credit established under this Act is in the public interest and for the public health, safety, and general welfare of the people of Hawaii.
+     SECTION 3.  Chapter 235, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§235-     Underground electric utility facility tax credit.  (a)  There shall be allowed to each qualified taxpayer subject to the taxes imposed by this chapter or chapter 237, 237D, 238, 239, 241, or 431, a tax credit that may be claimed for taxable years beginning after December 31, 2013, for qualified costs in the planning, design, or construction of new electric utility facilities to be placed underground, or the planning, design, and construction necessary to convert existing electric utility facilities for placement underground.  The tax credit shall be deductible from the taxpayer's net income tax liability, if any, imposed by this chapter and, at the election of the taxpayer, from the tax liability imposed by chapters 237, 237D, 238, 239, 241, and 431.
+     (b)  The tax credit earned shall be equal to the qualified costs incurred from June 1, 2012, through May 31, 2017, up to a maximum of $75,000,000 of tax credits in the aggregate for all qualified taxpayers for all years; provided that notwithstanding the amount of tax credits earned in any year, a maximum of $15,000,000 of tax credits in the aggregate for all qualified taxpayers may be claimed in any one taxable year.  Any tax credit earned that is in excess of the $15,000,000 ceiling in any one taxable year may be claimed as provided in subsection (d).
+     (c)  To qualify for the tax credit, a taxpayer shall:
+     (1)  Have expended qualified costs on planning, design, or construction of new electric utility facilities to be placed underground;
+     (2)  Have expended qualified costs on planning, design, or construction related to converting existing electric utility facilities to be placed underground; or
+     (3)  Both.
+     (d)  If a tax credit is earned under this section but is not claimed in the taxable year in which the tax credit is earned because the $15,000,000 aggregate tax credit ceiling has been reached for all qualified taxpayers for the taxable year or exceeds the taxpayer's tax liability under this chapter or chapters 237, 237D, 238, 239, 241, and 431 for any year for which the credit is claimed, the tax credit in excess of $15,000,000 may be used as a credit against the taxpayer's tax liability for the taxes set forth in this section in subsequent years until exhausted; provided that the taxpayer may continue to claim the credit provided in this section if the qualified costs are incurred before June 1, 2017, subject to the monetary ceilings in subsection (b).
+     (e)  Every claim, including amended claims, for a tax credit under this section shall be filed on or before the end of the twelfth month following the close of the taxable year for which the credit may be claimed.  Failure to comply with the foregoing provision shall constitute a waiver of the right to claim the credit.
+     (f)  If, at any time during the five-year period in which tax credits are claimed under this section, the costs incurred no longer meet the definition of qualified costs, the tax credits claimed under this section shall be recaptured.  The recapture shall be equal to one hundred per cent of the total tax credits claimed under this section for the preceding taxable year; provided that the amount of the tax credits recaptured shall apply only to those costs that no longer meet the definition of qualified costs.  The amount of the recaptured tax credits determined under this subsection shall be added to the taxpayer's tax liability for the taxable year in which the recapture occurs under this subsection.
+     (g)  If any tax credit is claimed under this section, then no taxpayer shall claim a tax credit under any chapter identified in this section for the same qualified costs for which a tax credit is claimed under this section.
+     (h)  The director of taxation shall prepare any forms that may be necessary to claim a tax credit under this section.  The director may also require the taxpayer to furnish information to ascertain the validity of the claims for tax credits made under this section and may adopt rules necessary to effectuate the purposes of this section pursuant to chapter 91.
+     Every qualified taxpayer, no later than March 31 of each year in which qualified costs were expended in the previous taxable year, shall submit a written, certified statement to the public utilities commission, in the form specified by the chairperson of the public utilities commission, identifying:
+     (1)  Qualified costs, if any, expended in the previous taxable year;
+     (2)  The amount of tax credits claimed pursuant to this section, if any, in the previous taxable year; and
+     (3)  The tax liability under this chapter and chapters 237, 237D, 238, 239, 241, and 431 against which the tax credits are claimed.
+Any other law to the contrary notwithstanding, a statement submitted under this subsection shall be a public document.
+     (i)  The public utilities commission shall maintain records of the names of taxpayers eligible for the tax credits and the total amount of qualified costs incurred from June 1, 2012, through May 31, 2017.  The public utilities commission shall verify all qualified costs and, upon each determination, shall issue a certificate to the taxpayer certifying:
+     (1)  The amount of the qualified costs; and
+     (2)  The amount of tax credit that the taxpayer is allowed to claim for the taxable year.
+     The public utilities commission shall certify no more than $15,000,000 in tax credits in the aggregate for all taxpayers for each taxable year; provided that the commission may verify qualified costs of no more than $75,000,000 from June 1, 2012, through May 31, 2017.  The taxpayer shall file the certificate with the taxpayer's return to the department of taxation.
+     (j)  As used in this section:
+     "Electric utility facility" means any structure or equipment for the production, conveyance, transmission, delivery, or furnishing of light or power within the State.
+     "Qualified costs" means any costs for plans, design, and construction, costs for equipment that is permanently affixed to a building or structure, and acquisition of facilities as necessary, up to a total of $75,000,000 in the aggregate, incurred after May 31, 2012, and before June 1, 2017, for:
+     (1)  New electric utility facilities to be placed underground;
+     (2)  Conversion of existing electric utility facilities to be placed underground; or
+     (3)  Both;
+provided that "qualified costs" shall not include land acquisition costs.
+     "Qualified taxpayer" means a person or entity subject to the general supervision of the public utilities commission pursuant to chapter 269, and involved in the production, conveyance, transmission, delivery, or furnishing of light or power."
+     SECTION 4.  Section 235-2.45, Hawaii Revised Statutes, is amended by amending subsection (d) to read as follows:
+     "(d)  Section 704 of the Internal Revenue Code (with respect to a partner's distributive share) shall be operative for purposes of this chapter; except that section 704(b)(2) shall not apply to:
+     (1)  Allocations of the high technology business investment tax credit allowed by section 235-110.9 for investments made before May 1, 2009;
+     (2)  Allocations of net operating loss pursuant to section 235-111.5;
+     (3)  Allocations of the attractions and educational facilities tax credit allowed by section 235-110.46; [or]
+     (4)  Allocations of low-income housing tax credits among partners under section 235-110.8[.]; or
+     (5)  Allocations of underground electric utility facility tax credits allowed by section 235-   ."
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act, upon its approval, shall apply to qualified costs, as defined in section 3 of this Act, incurred after May 31, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Public Utilities; Tax Credits; Undergrounding
+ 
+Description:
+Creates a tax credit for electric utilities for undergrounding utility lines.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

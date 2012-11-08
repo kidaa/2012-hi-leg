@@ -1,0 +1,200 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+8
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO RENEWABLE ENERGY.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that Hawaii currently allows three types of cooperatives:  agricultural, consumer, and housing.  A cooperative is a group of people working together in a joint economic activity that is owned and operated by its members for their mutual benefit.
+     This Act authorizes the formation of cooperatives for the purpose of generating electricity from renewable energy resources to be sold to its membership.  Further, this Act authorizes the issuance of revenue bonds to finance costs related to constructing, upgrading, and acquiring transmission facilities.
+     SECTION 2.  Section 269-1, Hawaii Revised Statutes, is amended by adding a new definition to be appropriately inserted and to read as follows:
+     ""Public utilities commission" or "commission" means the public utilities commission established in section 269-2."
+     SECTION 3.  Chapter 421C, Hawaii Revised Statutes, is amended by adding a new part to be appropriately designated and to read as follows:
+"PART   .  RENEWABLE ENERGY COOPERATIVES
+     §421C-A  Definitions.  As used in this part, unless the context requires otherwise:
+     "Board" means the board of directors of the cooperative.
+     "Cooperative" means any corporation organized under this part for the mutual benefit of its members as a producer or buyer of electricity generated from renewable resources or technologies that confines its operations to purposes authorized by this part and restricts the return on the stock or membership capital to the limits placed thereon by this part.
+     "Member" includes the holder of a membership in a cooperative without capital stock or the holder of common stock in a cooperative organized with capital stock.
+     "Person" means any natural person, firm, association, corporation, limited liability company, business trust, partnership, or other entity.
+     "Renewable resources or technologies" means electrical energy produced by wind, solar energy, hydropower, landfill gas, waste-to-energy, ocean thermal energy conversion, wave energy, biomass including municipal solid waste, biofuels or fuels derived from organic sources, hydrogen fuels derived primarily from renewable energy, or fuel cells where the fuel is derived primarily from renewable resources.
+     §421C-B  Purposes.  Pursuant to this part, five or more persons may organize a cooperative, nonprofit, membership corporation for the purposes of generating electricity from renewable resources or technologies, and transmitting and selling the electricity to its membership; provided that a cooperative organized under this part shall derive no more than twenty-five per cent of the electricity produced by the cooperative from fossil fuels.
+     §421C-C  Powers of the cooperative.  (a)  A cooperative formed under this part or made applicable to its provisions pursuant to section 421C-T, may act in the manner as natural persons; provided that the cooperative may perform only those acts as are necessary or proper to accomplish the purposes as set forth in its articles of incorporation and that are not unlawful.
+     A cooperative shall be a not-for-profit corporation, inasmuch as the cooperative's primary object is not to pay dividends on invested capital but to render services and provide means and facilities by or through which the producers of electricity may receive a reasonable and fair return for their services.
+     (b)  Without limiting or enlarging the authority granted under subsection (a), every cooperative may:
+     (1)  Sue and be sued in its corporate name;
+     (2)  Have perpetual existence;
+     (3)  Adopt and alter a corporate seal;
+     (4)  Generate electricity from renewable resources or technologies and transmit and sell the electricity to its membership;
+     (5)  Purchase electricity from a renewable energy cooperative and transmit and sell the electricity to its membership;
+     (6)  Purchase electricity from a renewable energy company and transmit and sell the electricity to its membership;
+     (7)  Construct, purchase, lease, equip, maintain, operate, sell, assign, convey, mortgage, pledge, and encumber electric transmission lines or systems, electric generating plants, equipment, lands, buildings, structures, easements, rights-of-way, and any other real or personal property, tangible or intangible, necessary to accomplish the purposes of this part; provided that:
+         (A)  Overhead electric transmission lines or systems may be constructed or purchased only if an environmental assessment is filed and approved by the appropriate agency; and an underground line is not practical; and
+         (B)  Construction, maintenance, and operation of electric transmission lines along, upon, under, and across publicly owned lands and public thoroughfares, roads, highways, streets, alleys, bridges, and causeways shall be in conformity with the laws of the State;
+     (8)  Purchase, lease as lessee, or otherwise acquire, use, exercise, sell, assign, convey, mortgage, pledge, or otherwise dispose of or encumber franchises, rights, privileges, licenses, and easements;
+     (9)  Borrow money and otherwise contract indebtedness, and issue notes and other evidences of indebtedness, and secure the payment thereof by mortgage, pledge, or deed of trust of, or any other encumbrance upon, any or all of its then-owned or after-acquired real or personal property, assets, franchises, revenues, or income;
+    (10)  Become an incorporator, promoter, manager, member, stockholder, or owner of other corporations or cooperatives, and conduct its business and exercise its powers within this State and participate with other persons in any corporation, limited liability company, cooperative, partnership, limited partnership, joint venture, or other association of any kind or in any transaction, undertaking, or arrangement that a participating person would have power to conduct by itself, regardless of whether the participation involves sharing or delegation of control with or to others;
+    (11)  Adopt, amend, and repeal bylaws; and
+    (12)  Perform any other acts and exercise any other powers that may be necessary to accomplish the purpose for which the cooperative is organized.
+     §421C-D  Name.  Notwithstanding sections 421-5 and 421C-34, the name of every cooperative organized under this part shall include the words "renewable", "generation", "cooperative", and "incorporated" (or the abbreviation "Inc.").  The name shall be distinct from the name of any other cooperative or corporation organized under the laws of, or authorized to do business in, the State.  Only a cooperative doing business in this State pursuant to this part shall use all of the following words in its name:  "renewable", "generation", and "cooperative".
+     §421C-E  Articles of incorporation.  (a)  The cooperative's articles of incorporation shall recite that they are executed pursuant to this part and shall state:
+     (1)  The name of the cooperative;
+     (2)  The address of its principal office;
+     (3)  The names and addresses of its incorporators;
+     (4)  The names and addresses of its directors; and
+     (5)  The purposes for which it is organized.
+     (b)  The articles of incorporation may contain any provisions not inconsistent with this part that are deemed necessary or advisable for the conduct of the cooperative's business.
+     (c)  The articles of incorporation shall be signed by each incorporator and shall be filed in the office of the director of commerce and consumer affairs.
+     §421C-F  Bylaws.  The board of directors shall adopt the first bylaws of the cooperative following incorporation, merger, or consolidation.  Thereafter, the members shall adopt, amend, or repeal bylaws by an affirmative vote of a majority of those members voting thereon at a meeting of the members.  The bylaws shall set forth the rights and duties of members and directors and may contain other provisions for the regulation and management of the affairs of the cooperative not inconsistent with this part or with the cooperative's articles of incorporation.
+     §421C-G  Members.  Each incorporator of a cooperative shall be a member of the cooperative.  Membership in a cooperative shall not be transferable, except as provided in the bylaws.  The bylaws shall prescribe additional qualifications and limitations with respect to membership.
+     §421C-H  Meetings.  (a)  An annual meeting of the members of a cooperative shall be held at a time and place as shall be provided in the bylaws of the cooperative.
+     (b)  Special meetings of the members may be called by the president, the board, any three directors, or not less than ten per cent of the members.
+     (c)  Except as otherwise provided in this part, written or printed notice stating the time and place of each meeting of the members and, in the case of a special meeting, the purpose or purposes for which the meeting is called, shall be given to each member, either personally or by mail, not fewer than ten days nor more than thirty-five days before the date of the meeting.  If mailed, the notice shall be deemed to be given when deposited in the United States mail, with postage prepaid, addressed to the member at the member's address as it appears on the records of the cooperative.
+     (d)  Unless the bylaws prescribe the presence of a greater percentage or number of the members for a quorum, a quorum for the transaction of business at meetings shall be five per cent of all members, who shall be present in person.  If less than a quorum is present at any meeting, a majority of those present may adjourn the meeting without further notice.
+     (e)  Each member shall be entitled to one vote on each matter submitted to a vote at a meeting of the members.  Voting shall be in person; provided that, if the bylaws so provide, voting may also be by proxy, mail, or both.  If the bylaws provide for voting by proxy or mail, the bylaws shall also prescribe the conditions under which voting shall be permitted.  No person shall vote as proxy for more than three members at any meeting of the members.
+     (f)  Any member entitled to notice of a meeting may waive the notice in writing either before or after the meeting.  Any member's attendance at a meeting shall constitute a waiver of notice of the meeting, unless the member participates at the meeting solely to object to the transaction of any business at the meeting.
+     §421C-I  Directors.  (a)  The business of a cooperative shall be managed by a board of not fewer than five directors, each of whom shall be a member of the cooperative.  The bylaws shall prescribe the number of directors, their qualifications, other than those prescribed in this part, the manner of holding meetings of the board, and of electing successors to directors who resign, die, or are otherwise incapacitated.  The bylaws may also provide for the removal of directors from office and for the election of their successors.
+     Directors shall not receive any salary for their services as directors and, except in emergencies, shall not be employed by the cooperative in any capacity involving compensation without the approval of the members.  The bylaws may provide that a fixed fee and expenses of attendance may be allowed to each director for attendance at each meeting of the board and for other functions duly authorized for and on behalf of the cooperative.
+     (b)  The directors of a cooperative named in any articles of incorporation, consolidation, or merger shall hold office until the next annual meeting of the members and until their successors are elected and qualified.  At each annual meeting, or at a special meeting called for that purpose, the members shall elect directors to hold office until the next annual meeting of the members, except as otherwise provided in this part.  Each director shall hold office for the term for which the director is elected and until a successor is elected and qualifies.
+     (c)  The bylaws may provide for staggered terms of office for directors, with half of the directors, or a number as near thereto as possible, to be elected to serve until the next annual meeting of the members, and the remaining directors to be elected to serve until the second succeeding annual meeting.  Thereafter, as directors' terms expire, the members shall elect successor directors to serve for two-year terms.
+     (d)  The bylaws may also provide that the directors shall be elected at annual meetings to serve for terms of three years, except that the terms of the first directors elected pursuant to this subsection may be fixed in the bylaws for a number of years not exceeding three and, upon the expiration thereof, all members thereafter are to be elected for terms of three years.
+     (e)  A majority of the board shall constitute a quorum.
+     §421C-J  Officers.  The officers of a cooperative shall consist of a president, vice-president, secretary, and treasurer.  The officers shall be elected annually by and from the board of directors.  When a person holding any office ceases to be a director, the person shall cease to hold the office.  The office of secretary and the office of treasurer may be held by the same person.  The board may also elect or appoint other officers, agents, or employees as the board deems necessary or advisable and the board shall prescribe the powers and duties of those officers, agents, or employees.  Any officer may be removed from office and a successor elected in the manner prescribed in the bylaws.
+     §421C-K  Amendments of articles of incorporation.  (a)  A cooperative may amend its articles of incorporation in any manner not inconsistent with this part by complying with the following requirements:
+     (1)  The proposed amendment shall be presented to a meeting of the members, the notice of which shall set forth or have attached the proposed amendment; and
+     (2)  If the proposed amendment, with any changes, is approved by the affirmative vote of not less than two-thirds of those members voting at the meeting, articles of amendment shall be executed on behalf of the cooperative by its president or vice-president and attested to by its secretary.  The articles of amendment shall recite that they are executed pursuant to this part and shall state the name of the cooperative, the address of its principal office, and the amendment to its articles of incorporation.
+     (b)  The president or vice-president executing the articles of amendment shall make and annex thereto an affidavit stating that the amendment was submitted and adopted in compliance with this section and shall file the articles with the director of commerce and consumer affairs.
+     §421C-L  Principal office.  A cooperative, upon authorization of its board or its members, may change the location of its principal office to any place within the State by filing with the director of commerce and consumer affairs a certificate that recites the change of principal office, that is executed on behalf of the cooperative by its president or vice-president and attested to by its secretary.
+     §421C-M  Merger and consolidation.  (a)  Any two or more cooperatives organized under this part may merge into a single cooperative with any one of the constituent cooperatives as the surviving cooperative, or may consolidate into a new cooperative formed by the consolidation, by complying with the following requirements:
+     (1)  The proposal for the merger or consolidation of the cooperatives and the proposed articles of merger or consolidation shall be presented to a meeting of the members of each merging or consolidating cooperative, the notice of which shall have attached a copy of the proposed articles of merger or consolidation; and
+     (2)  If the proposed merger or consolidation and the proposed articles of merger or consolidation, with any amendments, are approved by the affirmative vote of not less than two-thirds of the members of each merging or consolidating cooperative voting at each of those meetings, the articles of merger or consolidation in the form approved shall be executed on behalf of each merging or consolidating cooperative by its president or vice-president and attested to by its secretary.
+     (b)  Voting on the proposed articles of merger or consolidation shall be in accordance with section 421C-H(e).
+     (c)  The articles of merger or consolidation shall recite that the articles are executed pursuant to this part and shall state:
+     (1)  The name of each merging or consolidating cooperative and the address of each principal office;
+     (2)  The name of the surviving or new cooperative and the address of its principal office;
+     (3)  A statement that each merging or consolidating cooperative agrees to the merger or consolidation;
+     (4)  The names and addresses of the directors of the surviving or new cooperative; and
+     (5)  The terms and conditions of and the mode of carrying into effect the merger or consolidation, including the manner in which the members of the merging or consolidating cooperative may or shall become members of the surviving or new cooperative.
+The articles of merger or consolidation may contain any provisions not inconsistent with this part that are deemed necessary or advisable for the conduct of the business of the surviving or new cooperative.
+     (d)  The president or vice-president of each merging or consolidating cooperative executing the articles of merger or consolidation shall make and annex thereto an affidavit stating that the articles were submitted and approved in compliance with this section.
+     (e)  In the case of a consolidation, the existence of the consolidating cooperatives shall cease and the articles of consolidation shall be the articles of incorporation of the new cooperative.  In the case of a merger, the separate existence of the non-surviving merging cooperatives shall cease and the articles of incorporation of the surviving cooperative shall be amended to the extent, if any, that changes therein are necessary under the articles of merger.
+     (f)  All rights, privileges, immunities, franchises, real and personal property, including applications for membership, and all debts of each consolidating or merging cooperative shall be transferred to and vested in the new or surviving cooperative without further act or deed.
+     (g)  The new or surviving cooperative shall be responsible and liable for all liabilities and obligations of each consolidating or merging cooperative, and any claim existing or action or proceeding pending by or against any of the consolidating or merging cooperatives may be prosecuted as if the consolidation or merger had not taken place, but the new or surviving cooperative may be substituted in its place.
+     (h)  Neither the rights of creditors nor any liens upon the property of any consolidating or merging cooperative shall be impaired by the consolidation or merger.
+     §421C-N  Dissolution.  (a)  A cooperative that has not commenced business may be dissolved by delivering to the director of commerce and consumer affairs articles of dissolution that shall be executed on behalf of the cooperative by a majority of the incorporators and state:
+     (1)  The name of the cooperative;
+     (2)  The address of its principal office;
+     (3)  That the cooperative has not commenced business;
+     (4)  That any sums received by the cooperative, less any amounts disbursed for expenses of the cooperative, have been returned or paid to those entitled to those sums;
+     (5)  That no debt of the cooperative remains unpaid; and
+     (6)  That a majority of the incorporators elect that the cooperative be dissolved.
+     (b)  A cooperative that has commenced business may be dissolved pursuant to this subsection and subsections (c) and (d).  The members at any meeting shall approve, by the affirmative vote of not less than two-thirds of those members voting on the proposal at the meeting, a proposal that the cooperative be dissolved.  Upon approval, a certificate of election to dissolve shall be executed on behalf of the cooperative by its president or vice-president and attested to by its secretary.  The certificate shall state:
+     (1)  The name of the cooperative;
+     (2)  The address of its principal office; and
+     (3)  That the members of the cooperative have duly voted that the cooperative be dissolved.
+The certificate shall be submitted to the director of commerce and consumer affairs for filing, together with an affidavit made by the cooperative's president or vice-president executing the certificate and stating that the statements in the certificate are true.
+     (c)  Upon the filing of the certificate and affidavit by the director of commerce and consumer affairs, the cooperative shall cease to carry on its business, except to the extent necessary for the winding up thereof, but its corporate existence shall continue until articles of dissolution have been filed by the director of commerce and consumer affairs.
+     The board shall immediately cause notice of the dissolution proceedings to be mailed to each known creditor of and claimant against the cooperative and to be published once a week for two successive weeks in a newspaper of general circulation in the county where the principal office of the cooperative is located.
+     The board shall wind up and settle the affairs of the cooperative, collect sums owing to it, liquidate its property and assets, pay and discharge its debts, obligations, and liabilities, and do all other things required to wind up its business.  After paying or discharging or adequately providing for the payment or discharge of all its debts, obligations, and liabilities, the board shall distribute any remaining sums among its members and former members in proportion to the patronage of the respective members or former members during the seven years next preceding the date of the filing of the certificate by the director of commerce and consumer affairs or, if the cooperative has not been in existence for that period, then during the period of its existence prior to the filing.  The board shall thereupon authorize the execution of articles of dissolution, which shall be executed on behalf of the cooperative by its president or vice-president, and attested to by its secretary.
+     (d)  The articles of dissolution shall recite that they are executed pursuant to this part and shall state:
+     (1)  The name of the cooperative;
+     (2)  The address of its principal office;
+     (3)  The date on which the certificate of election to dissolve was filed with the director of commerce and consumer affairs;
+     (4)  That there are no actions or suits pending against the cooperative;
+     (5)  That all debts, obligations, and liabilities of the cooperative have been paid and discharged or that adequate provision has been made therefor; and
+     (6)  That subsections (b) and (c) have been duly complied with.
+The president or vice-president executing the articles of dissolution shall make and annex thereto an affidavit stating that the statements made therein are true.
+     §421C-O  Filing.  Articles of incorporation, amendment, consolidation, merger, or dissolution, when executed and accompanied by affidavits required by this part, shall be presented to the director of commerce and consumer affairs for filing in the records of the director's office.  If the director finds that the articles presented conform to the requirements of this part, the director, upon the payment of any fees required by the director, shall file the articles in the records of the director's office.  Upon the filing, the incorporation, amendment, consolidation, merger, or dissolution shall be in effect.  This section shall also apply to certificates of election to dissolve and affidavits executed in connection with the certificates of election to dissolve pursuant to section 421C-N(b) and amendments thereto.
+     §421C-P  Revenues.  (a)  Except as otherwise determined by a vote of the members of the cooperative, revenues of a cooperative for any fiscal year in excess of the following items shall be distributed by the cooperative to its members in accordance with the cooperative's bylaws:
+     (1)  Amounts necessary to defray the expenses of operation and maintenance of facilities of the cooperative during the fiscal year;
+     (2)  Amounts necessary to pay interest and principal obligations of the cooperative coming due in the fiscal year;
+     (3)  Amounts necessary to finance, or to provide a reserve for the financing of, the construction or acquisition by the cooperative of additional facilities to the extent determined by the board; and
+     (4)  Amounts necessary to provide a reserve for the payment of indebtedness of the cooperative in an amount not less than the total of the interest and principal payments in respect thereof required to be made during the next following fiscal year.
+     (b)  Nothing in this section shall be construed to prohibit the payment by a cooperative of all or any part of its indebtedness prior to the date when the payment shall become due.
+     §421C-Q  Powers of the board of directors.  (a)  The board of a cooperative shall have full power and authority, without authorization by the members thereof, to authorize the execution and delivery of a mortgage or mortgages or a deed or deeds of trust of, or the pledge or encumbering of, any or all of the property, assets, rights, privileges, licenses, franchises, and permits of the cooperative, whether acquired or to be acquired, and wherever situated, as well as the revenues and income therefrom, all upon such terms and conditions as the board shall determine, to secure any indebtedness of the cooperative.
+     (b)  Except as provided in subsection (a), the board may not otherwise sell, mortgage, lease, or otherwise dispose of or encumber all or a substantial portion of its property unless the sale, mortgage, lease, or other disposition or encumbrance is authorized by the affirmative vote of not less than a majority of all the members of the cooperative.
+     §421C-R  Members.  (a)  No member of a cooperative shall be personally liable or responsible for any debts of the cooperative and the property of the members shall not be subject to execution therefor.
+     (b)  If a member of a cooperative is located within the certificated territory of a retail electric supplier, the supplier may charge the member of the cooperative a monthly fee that reflects the cost of providing standby electric service, distribution system repair and maintenance, and other reasonable costs of being the provider of last resort.
+     §421C-S  General corporation laws, when applicable.  Except where otherwise provided, chapter 414D shall apply to cooperatives organized under this part.
+     §421C-T  Application to existing association.  Except where otherwise expressly stated in this part, this part shall be applicable to any association formed under any law of this State in existence on the effective date of this part, that provides for the incorporation of a renewable energy cooperative for any purpose for which a cooperative may be formed under this part.
+     §421C-U  Annual reports.  (a)  Every cooperative subject to this part shall make an annual report in writing to the director of commerce and consumer affairs showing the financial condition of the cooperative at the close of business on the last day of its fiscal year.  If a cooperative's fiscal year is other than the calendar year, it shall give notice thereof to the director of commerce and consumer affairs prior to December 31 of the year it commences operation, whereupon the report shall be filed on or before the fifteenth day of the fourth month following the close of the fiscal year of the cooperative.  An extension for filing the annual report may be granted by the director of commerce and consumer affairs, provided that no extension may be granted for a period of more than ninety days.  The report shall be made on a form provided by the director of commerce and consumer affairs, and shall contain the following information:
+     (1)  The name of the cooperative;
+     (2)  The location of the principal office of the cooperative;
+     (3)  The names and addresses of the president, vice-president, secretary, treasurer, and directors of the cooperative;
+     (4)  The number of members of the cooperative;
+     (5)  A balance sheet showing the financial condition of the cooperative at the close of business on the last day of its fiscal year next preceding the date of filing; and
+     (6)  The change or changes, if any, in the information submitted since the last annual report.
+     (b)  The annual report shall be signed by the president, vice-president, or secretary of the cooperative, sworn to before an officer duly authorized to administer oaths, and forwarded to the director of commerce and consumer affairs.  At the time of filing the annual report, the cooperative shall pay an annual franchise fee of $20.
+     §421C-V  Agreements for interconnection.  (a)  Agreements for interconnection between a cooperative and a public utility shall be subject to review and approval by the public utilities commission.
+     (b)  The public utilities commission shall establish standard provisions, including applicable fees, for agreements providing for interconnection between the facilities of an electric public utility and a member of a cooperative.
+     §421C-W  Revenue bonds.  (a)  The director of finance may issue revenue bonds in amounts sufficient to pay the following described costs:
+     (1)  Construction of electric transmission lines and appurtenances to be used for the transfer of thirty-four kilovolts or more of electricity;
+     (2)  Acquisition of the right-of-way on which transmission lines and appurtenances to be used for the transfer of thirty-four kilovolts or more of electricity are to be constructed; and
+     (3)  Upgrading of electric transmission lines and appurtenances to be used for the transfer of thirty-four kilovolts or more of electricity.
+These costs shall also include any required interest on the bonds during the construction, acquisition, and upgrading, plus all amounts required for the costs of bond issuance and any required reserves on the bonds.  The bonds, and interest thereon, issued pursuant to this section shall be payable from revenues derived from use of the transmission lines.
+     (b)  Revenue bonds, including refunding revenue bonds, issued under this section shall not constitute an indebtedness of the State, nor shall the bonds constitute indebtedness within the meaning of any constitutional or statutory provision limiting the incurring of indebtedness.
+     (c)  Revenue bonds, including refunding revenue bonds, issued under this section and the income derived therefrom shall be exempt from all state, county, and municipal taxation, except estate taxes.
+     (d)  As used in this section:
+     "Appurtenances" means all substations, towers, poles, and other structures or equipment necessary for the bulk transfer of electricity.
+     "Electric transmission line" means any line that is used for the bulk transfer of electricity.
+     §421C-X  Taxation.  Cooperatives shall pay an annual franchise fee of $20, pursuant to section 421C-U(b), to the director of commerce and consumer affairs that shall be in lieu of all other corporation, franchise, license, and income taxes, and taxes and charges upon reserves held by the cooperative for distribution to members, including without limitation upon the generality of the foregoing any taxes imposed under chapter 235.  All fees collected under this section shall be deposited into the compliance resolution fund established in section 26-9(o).
+     §421C-Y  Penalty.  Every cooperative failing to comply with this part shall be fined $10 for every violation, neglect, or failure.  This penalty shall be in addition to any fee provided in this part.  A continuance of a failure to file the required report and to pay the required license fee shall be a separate offense for each thirty days of continuance.  The director of commerce and consumer affairs, for good cause shown, may reduce or waive the penalty imposed by this section.  Fines assessed pursuant to this section shall be deposited into the compliance resolution fund established in section 26-9(o)."
+     SECTION 4.  Section 269-1, Hawaii Revised Statutes, is amended by amending the definition of "public utility" to read as follows:
+     ""Public utility":
+     (1)  Includes every person who may own, control, operate, or manage as owner, lessee, trustee, receiver, or otherwise, whether under a franchise, charter, license, articles of association, or otherwise, any plant or equipment, or any part thereof, directly or indirectly for public use, for the transportation of passengers or freight, or the conveyance or transmission of telecommunications messages, or the furnishing of facilities for the transmission of intelligence by electricity by land or water or air within the State, or between points within the State, or for the production, conveyance, transmission, delivery, or furnishing of light, power, heat, cold, water, gas, or oil, or for the storage or warehousing of goods, or the disposal of sewage; provided that the term shall include:
+          (A)  Any person insofar as that person owns or operates a private sewer company or sewer facility; and
+          (B)  Any telecommunications carrier or telecommunications common carrier;
+     (2)  Shall not include:
+         (A)  Any person insofar as that person owns or operates an aerial transportation enterprise;
+          (B)  Persons owning or operating taxicabs, as defined in this section;
+          (C)  Common carriers transporting only freight on the public highways, unless operating within localities or along routes or between points that the [public utilities] commission finds to be inadequately serviced without regulation under this chapter;
+          (D)  Persons engaged in the business of warehousing or storage unless the commission finds that regulation thereof is necessary in the public interest;
+         (E)  The business of any carrier by water to the extent that the carrier enters into private contracts for towage, salvage, hauling, or carriage between points within the State and the carriage is not pursuant to either an established schedule or an undertaking to perform carriage services on behalf of the public generally;
+         (F)  The business of any carrier by water, substantially engaged in interstate or foreign commerce, transporting passengers on luxury cruises between points within the State or on luxury round-trip cruises returning to the point of departure;
+          (G)  Any person who:
+              (i)  Controls, operates, or manages plants or facilities for the production, transmission, or furnishing of power primarily or entirely from nonfossil fuel sources; and
+             (ii)  Provides, sells, or transmits all of that power, except such power as is used in its own internal operations, directly to a public utility for transmission to the public;
+          (H)  A telecommunications provider only to the extent determined by the commission pursuant to section 269-16.9;
+          (I)  Any person who controls, operates, or manages plants or facilities developed pursuant to chapter 167 for conveying, distributing, and transmitting water for irrigation and [such] other similar purposes that shall be held for public use and purpose;
+          (J)  Any person who owns, controls, operates, or manages plants or facilities for the reclamation of wastewater; provided that:
+              (i)  The services of the facility shall be provided pursuant to a service contract between the person and a state or county agency and at least ten per cent of the wastewater processed is used directly by the State or county which has entered into the service contract;
+             (ii)  The primary function of the facility shall be the processing of secondary treated wastewater that has been produced by a municipal wastewater treatment facility that is owned by a state or county agency;
+            (iii)  The facility shall not make sales of water to residential customers;
+             (iv)  The facility may distribute and sell recycled or reclaimed water to entities not covered by a state or county service contract; provided that, in the absence of regulatory oversight and direct competition, the distribution and sale of recycled or reclaimed water shall be voluntary and its pricing fair and reasonable.  For purposes of this subparagraph, "recycled water" and "reclaimed water" means treated wastewater that by design is intended or used for a beneficial purpose; and
+              (v)  The facility shall not be engaged, either directly or indirectly, in the processing of food wastes;
+         (K)  Any person who owns, controls, operates, or manages any seawater air conditioning district cooling project; provided that at least fifty per cent of the energy required for the seawater air conditioning district cooling system is provided by a renewable energy resource, such as cold, deep seawater; [and]
+         (L)  Any person who owns, controls, operates, or manages plants or facilities primarily used to charge or discharge a vehicle battery that provides power for vehicle propulsion[.]; and
+         (M)  Any renewable energy cooperative organized under part     of chapter 421C.
+     If the application of this chapter is ordered by the commission in any case provided in paragraphs (2)(C), (2)(D), (2)(H), and (2)(I), the business of any public utility that presents evidence of bona fide operation on the date of the commencement of the proceedings resulting in the order shall be presumed to be necessary to public convenience and necessity, but any certificate issued under this proviso shall nevertheless be subject to [such] any terms and conditions as the commission may prescribe, as provided in sections 269-16.9 and 269-20."
+     SECTION 5.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 6.  This Act shall take effect on July 1, 2011.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Consumer Cooperative Associations; Renewable Energy
+Generation Cooperatives.
+ 
+Description:
+Provides for the organization of renewable energy generation cooperatives to generate, transmit, and sell electricity to their memberships.  Authorizes issuance of revenue bonds to finance costs related to constructing, upgrading, and acquiring transmission facilities.  Exempts cooperatives from public utilities commission regulation, except for interconnection agreements.
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

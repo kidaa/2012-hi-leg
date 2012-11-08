@@ -1,0 +1,101 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+92
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+
+RELATING TO RENTAL PROPERTY MANAGERS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 521, Hawaii Revised Statutes, is amended by adding a new section to be appropriately designated and to read as follows:
+     "§521-    Rental property manager.  (a)  Every rental property manager who manages three or more dwelling units shall:
+     (1)  Be a:
+         (A)  Licensed real estate broker in compliance with chapter 467 and the rules of the real estate commission.  With respect to any requirement for a corporate rental property manager in any condominium declaration or bylaws recorded before July 1, 2006, any rental property manager organized as a limited liability company shall be deemed to be organized as a corporation for the purposes of this paragraph, unless the declaration or bylaws are expressly amended after July 1, 2006, to require that the rental property manager be organized as a corporation and not as a limited liability company; or
+         (B)  Corporation authorized to do business under article 8 of chapter 412;
+     (2)  Register with the real estate commission prior to conducting rental property manager activity through approval of a completed registration application, payment of fees, and submission of any other additional information set forth by the commission.  The registration shall be for a biennial period with termination on December 31 of an even-numbered year.  The real estate commission shall prescribe a deadline date prior to the termination date for the submission of a completed re-registration application, payment of fees, and any other additional information set forth by the commission.  Any rental property manager subject to this section who has not met the submission requirements by the deadline date shall be considered a new applicant for registration and subject to initial registration requirements.  The information required to be submitted with any application shall include the name, business address, phone number, and names of landlords managed;
+     (3)  Obtain and keep current a fidelity bond in an amount equal to $500 multiplied by the aggregate number of dwelling units of the landlord managed by the rental property manager; provided that the amount of the fidelity bond shall not be less than $20,000 nor greater than $500,000.  Upon request by the real estate commission, the rental property manager shall provide evidence of a current fidelity bond or a certification statement from an insurance company authorized by the insurance division of the department of commerce and consumer affairs certifying that the fidelity bond is in effect and meets the requirements of this section and the rules adopted by the commission.  The rental property manager shall permit only employees covered by the fidelity bond to handle or have custody or control of any landlord funds, except any principals of the rental property manager that cannot be covered by the fidelity bond.  The fidelity bond shall protect the rental property manager against the loss of any landlord's moneys, securities, or other properties caused by the fraudulent or dishonest acts of employees of the rental property manager.  Failure to obtain or maintain a fidelity bond in compliance with this chapter and the rules adopted pursuant thereto, including failure to provide evidence of the fidelity bond coverage in a timely manner to the commission, shall result in nonregistration or the automatic termination of the registration, unless an approved exemption or a bond alternative is presently maintained.  A rental property manager who is unable to obtain a fidelity bond may seek an exemption from the fidelity bond requirement from the commission;
+     (4)  Act promptly and diligently to recover from the fidelity bond, if the fraud or dishonesty of the rental property manager's employees causes a loss to a landlord, and apply the fidelity bond proceeds, if any, to reduce the landlord's loss.  If more than one landlord suffers a loss, the rental property manager shall divide the proceeds among the landlords in proportion to each landlord's loss.  A landlord may request a court order requiring the rental property manager to act promptly and diligently to recover from the fidelity bond.  If a landlord cannot recover its loss from the fidelity bond proceeds of the rental property manager, the landlord may recover by court order from the real estate recovery fund established under section 467-16, provided that:
+         (A)  The loss is caused by the fraud, misrepresentation, or deceit of the rental property manager or its employees;
+         (B)  The rental property manager is a licensed real estate broker; and
+         (C)  The landlord fulfills the requirements of sections 467-16 and 467-18 and any applicable rules of the real estate commission;
+     (5)  Pay a nonrefundable application fee and, upon approval, an initial registration fee, and subsequently pay a re-registration fee, as prescribed by rules adopted by the director of commerce and consumer affairs pursuant to chapter 91.  A compliance resolution fee shall also be paid pursuant to section 26‑9(o) and the rules adopted pursuant thereto; and
+     (6)  Report immediately in writing to the real estate commission any changes to the information contained on the registration application or any other documents provided for registration.  Failure to do so may result in termination of registration and subject the rental property manager to initial registration requirements.
+     (b)  The real estate commission may deny any registration or re-registration application or terminate a registration without hearing if the fidelity bond and supporting documents fail to meet the requirements of this chapter and the rules adopted pursuant thereto.
+     (c)  Every rental property manager shall be considered a fiduciary with respect to any dwelling unit managed by that rental property manager.
+     (d)  The registration requirements of this section shall not apply to active real estate brokers in compliance with and licensed under chapter 467.
+     (e)  If a rental property manager receives a request from the commission to distribute any commission-generated information, printed material, or documents to the landlord, the rental property manager shall make the distribution at the cost of the landlord within a reasonable period of time after receiving the request.  The requirements of this subsection apply to all rental property managers.
+     (f)  The real estate commission may adopt rules under chapter 91 to implement this section."
+     SECTION 2.  Section 521-8, Hawaii Revised Statutes, is amended by adding a new definition to be appropriately inserted and to read as follows:
+     ""Rental property manager" means any person who, for compensation or valuable consideration, acts as an agent for the management of more than three separate dwelling units owned by another person or entity and who is responsible for the collection of rental payments pursuant to a rental agreement from tenants residing in those dwelling units.  The term includes a person who acts as an agent on behalf of a landlord as defined in this section.  The term shall not include resident managers, whether residing on-site or off-site, who are not responsible for the collection of rental payments from tenants."
+     SECTION 3.  Section 467-1, Hawaii Revised Statutes, is amended by amending the definition of "custodian or caretaker" to read as follows:
+     ""Custodian or caretaker" means any individual, who for compensation or valuable consideration, is employed as an employee by a single owner and has the responsibility to manage or care for that real property left in the individual's trust; provided that the term "custodian" or "caretaker" shall not include any individual who [leases]:
+     (1)  Leases or offers to lease[, or rents] any real estate;
+     (2)  Rents or offers to rent[,] any real estate [for more than a single owner; provided further that a single owner shall not include an association of owners of a condominium, cooperative, or planned unit development.]; or
+     (3)  Manages real property and collects rental payments on behalf of a landlord or owner as a rental property manager as defined in section 521-8."
+     SECTION 4.  Section 467-2, Hawaii Revised Statutes, is amended to read as follows:
+     "§467-2  Exceptions.  The provisions requiring licensing as a real estate broker or salesperson shall not apply:
+     (1)  To any individual who, as owner of any real estate or acting under power of attorney from the owner, performs any of the acts enumerated in the definitions of real estate broker and real estate salesperson with reference to the real estate; provided that the term "owner" as used in this paragraph shall not include any individual engaged in the business of real estate development or brokerage or include an individual who acquires any interest in any real estate for the purpose or as a means of evading the licensing requirements of this chapter; and provided further that the term individual "acting under power of attorney" as used in this paragraph shall not include any individual engaged in the business of real estate development or brokerage or any individual who acts under a power of attorney for the purpose or as a means of evading the licensing requirements of this chapter;
+     (2)  To any person acting as a receiver, trustee in bankruptcy, personal representative, or trustee acting under any trust agreement, deed of trust, or will, or otherwise acting under any order of authorization of any court;
+     (3)  To any [individual who leases, offers to lease, rents, or offers to rent, any real estate or the improvements thereon of which the individual is the] custodian or caretaker; provided that a custodian or caretaker shall not include a rental property manager as defined in section 521-8;
+     (4)  To any person who manages, rents, or operates a hotel; or
+     (5)  To any provider agency owning, leasing, operating, or managing a homeless facility or any other program for the homeless authorized under part XVII of chapter 346."
+     SECTION 5.  Section 467-14, Hawaii Revised Statutes, is amended to read as follows:
+     "§467-14  Revocation, suspension, and fine.  In addition to any other actions authorized by law, the commission may revoke any license issued under this chapter, suspend the right of the licensee to use the license, fine any person holding a license, registration, or certificate issued under this chapter, or terminate any registration or certificate issued under this chapter, or chapter 521 in the case of rental property managers, for any cause authorized by law, including but not limited to the following:
+     (1)  Making any misrepresentation concerning any real estate transaction;
+     (2)  Making any false promises concerning any real estate transaction of a character likely to mislead another;
+     (3)  Pursuing a continued and flagrant course of misrepresentation, or making of false promises through advertising or otherwise;
+     (4)  Without first having obtained the written consent to do so of both parties involved in any real estate transaction, acting for both the parties in connection with the transaction, or collecting or attempting to collect commissions or other compensation for the licensee's services from both of the parties;
+     (5)  When the licensee, being a real estate salesperson, accepts any commission or other compensation for the performance of any of the acts enumerated in the definition set forth in section 467-1 of real estate salesperson from any person other than the real estate salesperson's employer or the real estate broker with whom the real estate salesperson associates or, being a real estate broker or salesperson, compensates one not licensed under this chapter to perform any such act;
+     (6)  When the licensee, being a real estate salesperson, acts or attempts to act as a real estate broker or represents, or attempts to represent, any real estate broker other than the real estate salesperson's employer or the real estate broker with whom the real estate salesperson is associated;
+     (7)  Failing, within a reasonable time, to account for any moneys belonging to others that may be in the possession or under the control of the licensee;
+     (8)  Any other conduct constituting fraudulent or dishonest dealings;
+     (9)  When the licensee, being a partnership, permits any member of the partnership who does not hold a real estate broker's license to actively participate in the real estate brokerage business thereof or permits any employee thereof who does not hold a real estate salesperson's license to act as a real estate salesperson therefor;
+    (10)  When the licensee, being a corporation, permits any officer or employee of the corporation who does not hold a real estate broker's license to have the direct management of the real estate brokerage business thereof or permits any officer or employee thereof who does not hold a real estate salesperson's license to act as a real estate salesperson therefor;
+    (11)  When the licensee, being a real estate salesperson, fails to file with the commission a written statement setting forth the name of the real estate broker by whom the licensee is employed or with whom the licensee is associated;
+    (12)  When the licensee fails to obtain on the contract between the parties to the real estate transaction confirmation of who the real estate broker represents;
+    (13)  Violating this chapter; chapter 484, 514A, 514B, 514E, or 515; chapter 521 when acting as a rental property manager on behalf of a landlord; section 516-71; or the rules adopted pursuant thereto;
+    (14)  Splitting fees with or otherwise compensating others not licensed hereunder for referring business; provided that notwithstanding paragraph (5), a real estate broker may pay a commission to:
+         (A)  A licensed real estate broker of another state, territory, or possession of the United States if that real estate broker does not conduct in this State any of the negotiations for which a commission is paid;
+         (B)  A real estate broker lawfully engaged in real estate brokerage activity under the laws of a foreign country if that real estate broker does not conduct in this State any of the negotiations for which a commission is paid; or
+         (C)  A travel agency that in the course of business as a travel agency or sales representative, arranges for compensation the rental of a transient vacation rental; provided that for purposes of this paragraph "travel agency" means any person that, for compensation or other consideration, acts or attempts to act as an intermediary between a person seeking to purchase travel services and any person seeking to sell travel services, including an air or ocean carrier;
+    (15)  Commingling the money or other property of the licensee's principal with the licensee's own;
+    (16)  Converting other people's moneys to the licensee's own use;
+    (17)  The licensee is adjudicated insane or incompetent;
+    (18)  Failing to ascertain and disclose all material facts concerning every property for which the licensee accepts the agency, so that the licensee may fulfill the licensee's obligation to avoid error, misrepresentation, or concealment of material facts; provided that for the purposes of this paragraph, the fact that an occupant has AIDS or AIDS Related Complex (ARC) or has been tested for HIV (human immunodeficiency virus) infection shall not be considered a material fact;
+    (19)  When the licensee obtains or causes to be obtained, directly or indirectly, any licensing examination or licensing examination question for the purpose of disseminating the information to future takers of the examination for the benefit or gain of the licensee;
+    (20)  Failure to maintain a reputation for or record of competency, honesty, truthfulness, financial integrity, and fair dealing; or
+    (21)  Acquiring an ownership interest, directly or indirectly, or by means of a subsidiary or affiliate, in any distressed property that is listed with the licensee or within three hundred sixty-five days after the licensee's listing agreement for the distressed property has expired or is terminated.
+As used in this section, "distressed property" has the same meaning as set forth in section 480E-2.
+     Disciplinary action may be taken by the commission whether the licensee is acting as a real estate broker, or real estate salesperson, or on the licensee's own behalf."
+     SECTION 6.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 7.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+ 
+
+ 
+Report Title:
+Rental Property; Rental Property Manager; Licensing
+ 
+Description:
+Defines the term "rental property manager" and requires rental property managers who manage more than three dwelling units to register with the real estate commission.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+ 

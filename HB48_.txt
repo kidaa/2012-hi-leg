@@ -1,0 +1,66 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+48
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO ELECTIONS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  Chapter 11, Hawaii Revised Statutes, is amended by adding a new section to part II to be appropriately designated and to read as follows:
+     "§11-A  Automatic registration.  (a)  Any person who properly completes an application for a new or renewed driver's license, provisional license, instructional permit, or state identification card, and who is eligible to vote under this part, shall be registered to vote as provided in subsection (c).
+     (b)  The examiner of drivers of each county and the attorney general shall use application forms for an original, duplicate, or change of address driver's license, provisional license, instructional permit, or state identification card that may also serve as voter registration applications.  The forms must contain spaces for all information collected by voter registration applications as required by section 11-15(a).  The examiner of drivers of each county and the attorney general shall transmit the information to the clerk of the county in which the applicant resides.
+     (c)  The clerk shall determine whether the applicant is currently registered in the general county register.  If the applicant is not currently registered, the clerk shall determine whether the applicant is eighteen years of age or older and a citizen of the United States.  If the applicant is less than eighteen years of age, the clerk shall wait until the applicant has turned eighteen years of age to determine whether the applicant is eligible to vote.  Upon determination that the applicant is eligible to vote, the clerk shall number the applicant's voter information and register the name of the voter in the general county register as provided in section 11-15."
+     SECTION 2.  Chapter 286, Hawaii Revised Statutes, is amended by adding a new section to part VI to be appropriately designated and to read as follows:
+     "§286-A  Voter registration.  (a)  A qualified applicant for a motor vehicle driver's license, provisional license, or instructional permit shall be registered to vote with the clerk of the appropriate county upon completion of an application for a driver's license, provisional license, or instructional permit as required in section 11-A.
+     (b)  Every qualified applicant identified in subsection (a) shall be required to authorize the examiner of drivers to collect and transmit the necessary personal information required for registering the qualified applicant with the county clerk.  The examiner of drivers shall notify all qualified applicants identified in subsection (a) that by submitting an application for a driver's license, provisional license, or instructional permit, the qualified applicant is consenting to registration to vote with the county clerk.
+     (c)  For the purposes of this section, "qualified applicant" means a person who qualifies to register as a voter pursuant to section 11-15."
+     SECTION 3.  Chapter 846, Hawaii Revised Statutes, is amended by adding a new section to part II to be appropriately designated and to read as follows:
+     "§846-A  Voter registration.  (a)  A qualified applicant for a certificate of identification shall be registered to vote with the clerk of the appropriate county upon completion of an application for a certificate of identification as required in section 11-A.
+     (b)  Every qualified applicant identified in subsection (a) shall be required to authorize the attorney general to collect and transmit the necessary personal information required for registering the qualified applicant with the county clerk.  The attorney general shall notify all qualified applicants identified in subsection (a) that by submitting an application for a certificate of identification, the qualified applicant is consenting to registration to vote with the county clerk.
+     (c)  For the purposes of this section, "qualified applicant" means a person who qualifies to register as a voter pursuant to section 11-15."
+     SECTION 4.  Section 286-108, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  Except as provided in section 286-107.5(a), the examiner of drivers shall examine every applicant for a driver's license, except as otherwise provided in this part.  The examination shall include a test of:
+     (1)  The applicant's eyesight and any further physical examination that the examiner of drivers finds necessary to determine the applicant's fitness to operate a motor vehicle safely upon the highways;
+     (2)  The applicant's ability to understand highway signs regulating, warning, and directing traffic;
+     (3)  The applicant's knowledge of the rules of the road based on the traffic laws of the State and the traffic ordinances of the county where the applicant resides or intends to operate a motor vehicle; provided that the examination shall specifically test the applicant's knowledge of the provisions of section 291C-121.5; and
+     (4)  The actual demonstration of ability to exercise ordinary and reasonable control in the operation of a motor vehicle.
+The examinations shall be appropriate to the operation of the category of motor vehicle for which the applicant seeks to be licensed and shall be conducted as required by the director.
+     The examiner of drivers shall require every applicant to comply with section 286-102.5.
+     The examiner of drivers may waive the actual demonstration of ability to operate a motorcycle or motor scooter for any person who furnishes evidence, to the satisfaction of the examiner of drivers, that the person has completed the motorcycle education course approved by the director in accordance with section 431:10G-104.
+     [At the time of examination, an application for voter registration by mail shall be made available to every applicant for a driver's license.]
+     For the purposes of this section, the term "applicant" does not include any person reactivating a license under section 286‑107.5(a)."
+     SECTION 5.  Section 846-35, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  [All] Except as provided in section 846-A, information and records acquired by the department of the attorney general under this part shall be confidential.  All information and records shall be maintained in an appropriate form and in an appropriate office in the custody and under the control of the department, which shall at all times be kept separate from any similar records relating to the identification of criminals.  The information shall be available only to authorized persons in the department, and such other persons or agencies as the attorney general shall authorize, under such restrictions as the attorney general shall prescribe.  The attorney general may dispose of any application or certificate of registration, or information or record relating to such application or certificate of registration, which does not include a social security number, without regard to the provisions of chapter 94, whenever, in the attorney general's discretion, retention of such information or record is no longer required or practicable."
+SECTION 6.  In codifying the new sections added by sections 1, 2, and 3 of this Act, the revisor of statutes shall substitute appropriate section numbers for the letters used in designating the new sections in this Act.
+     SECTION 7.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 8.  This Act shall take effect on January 1, 2012.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+ 
+Report Title:
+Automatic Voter Registration
+ 
+Description:
+Requires that all applicants for driver's licenses or state identification cards, if determined to be eligible, be automatically registered to vote.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.

@@ -1,0 +1,47 @@
+HOUSE OF REPRESENTATIVES
+H.B. NO.
+374
+TWENTY-SIXTH LEGISLATURE, 2011
+ 
+STATE OF HAWAII
+ 
+ 
+ 
+ 
+ 
+ 
+A BILL FOR AN ACT
+ 
+ 
+RELATING TO SMALL BUSINESS.
+ 
+ 
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+ 
+
+     SECTION 1.  The legislature finds that Hawaii compliance express is an electronic system that allows vendors doing business with state or county agencies to quickly and easily obtain proof that they are compliant with applicable laws.  Hawaii compliance express expedites a vendor's ability to furnish proof of compliance with the requirements of section 103D-310(c), Hawaii Revised Statutes, by providing an online "Certificate of Vendor Compliance" for the business entity.  This single certificate eliminates the need to obtain individual hard copies of certificates from the Internal Revenue Service and department of taxation, department of labor and industrial relations, and department of commerce and consumer affairs.  The service includes real time monitoring of the vendor's status of compliance with each agency and automatically notifies the vendor by email any time the compliance status is changed.
+     The Hawaii compliance express was launched in September 2005, and has grown from one hundred seventy-nine vendors the first year to forty-one hundred seventeen vendors through mid-December 2010.  The department of accounting and general services accounting division estimates that approximately seventy per cent of invoices processed for payment through their office use the Hawaii compliance express certificate, versus the three paper certificates.  The minimal cost to a vendor to use the Hawaii compliance express is $12 per year, a decrease from $15 when the system was launched in 2005.
+     Under current law, vendors must provide proof of compliance in order to receive a contract greater than $15,000 with state and county government entities in Hawaii.
+     In 2010, the senate committee on economic development and technology and the house committee on economic revitalization, business, and military affairs convened an informal small business discussion group to address the most critical issues facing the small business sectors within Hawaii's economy.  Representatives from the Chamber of Commerce of Hawaii, construction and trades industries, community nonprofits, the agricultural sector, food and restaurant industries, retailing, the science and technology sector, the commercial transportation industry, and interested stakeholders developed a package of bills that address the most pressing problems facing Hawaii's small business community.
+     The purpose of this Act is to support the findings of the small business working group and recommendations to extend the use of Hawaii compliance express for small business vendors, affording them the same savings of time and money in the contracting process.
+     SECTION 2.  Section 103D-310, Hawaii Revised Statutes, is amended by amending subsection (c) to read as follows:
+     "(c)  All offerors, upon award of contract, shall comply with all laws governing entities doing business in the State, including chapters 237, 383, 386, 392, and 393.  Offerors shall produce documents to the procuring officer to demonstrate compliance with this subsection.  Any offeror making a false affirmation or certification under this subsection shall be suspended from further offerings or awards pursuant to section 103D-702.  The procuring officer shall verify compliance with this subsection for all contracts awarded pursuant to sections 103D-302, 103D-303, 103D-304, 103D-305, and 103D-306; provided that the attorney general may waive the requirements of this subsection for contracts for legal services if the attorney general certifies in writing that comparable legal services are not available in this State."
+     SECTION 3.  New statutory material is underscored.
+     SECTION 4.  This Act shall take effect upon its approval.
+ 
+INTRODUCED BY:
+_____________________________
+ 
+ 
+
+
+ 
+Report Title:
+Procurement; Compliance; Small Business
+ 
+Description:
+Extends the use of Hawaii compliance express for small business vendors.
+ 
+ 
+ 
+The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
