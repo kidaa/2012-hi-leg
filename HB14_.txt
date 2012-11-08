@@ -2,7 +2,7 @@ HOUSE OF REPRESENTATIVES
 H.B. NO.
 14
 TWENTY-SIXTH LEGISLATURE, 2011
- 
+H.D. 1
 STATE OF HAWAII
  
  
@@ -24,17 +24,15 @@ BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
      (b)  The district court shall not disclose, other than to a law enforcement agency or the licensee, a disposition in which the licensee was found to have committed a traffic infraction if that disposition precedes the request for disclosure by more than     years; provided that:
      (1)  If at the time of the request for disclosure, there is present in the licensee's record an outstanding traffic infraction, the disclosure shall not exceed the three years preceding the date of the oldest outstanding infraction; and
      (2)  The limitation on disclosure shall not apply to the record of any:
-         (A)  Criminal conviction; or
-         (B)  Holder of a commercial driver's license.
+         (A)  Criminal conviction;
+         (B)  Holder of a commercial driver's license; or
+         (C)  Conviction of a driver who was operating a commercial motor vehicle without a commercial driver's license when such a license was required.
      (c)  The district court of each circuit shall [also] establish procedures for the accounting, control, and disposition of each traffic citation, notice, or summons used or issued, whether the use or issuance of the same is authorized by the court or by any other governmental agency under applicable laws or ordinances, which may include the keeping of an accurate citation, notice, or summons control ledger or form in a numerical, chronological, or other accountable manner."
-     SECTION 2.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
-     SECTION 3.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
-     SECTION 4.  This Act shall take effect on October 1, 2011.
- 
-INTRODUCED BY:
-_____________________________
- 
- 
+     SECTION 2.  Section 287-3, Hawaii Revised Statutes, is amended by amending subsection (a) to read as follows:
+     "(a)  The traffic violations bureaus of the district courts, upon request, shall furnish any person a certified abstract of the bureaus' record, if any, of any person relating to [all alleged] convictions or civil judgments for moving violations [and any convictions resulting therefrom], arising from the operation of a motor vehicle and any administrative license revocation pursuant to chapter 291E, part III and chapter 286, part XIV, as it was in effect on or before December 31, 2001.  The traffic violations bureaus may collect a fee, not to exceed $20, of which $18 shall be deposited into the general fund and $2 shall be deposited into the judiciary computer system special fund."
+     SECTION 3.  This Act does not affect rights and duties that matured, penalties that were incurred, and proceedings that were begun before its effective date.
+     SECTION 4.  Statutory material to be repealed is bracketed and stricken.  New statutory material is underscored.
+     SECTION 5.  This Act shall take effect on October 1, 2012.
  
 
  
@@ -42,8 +40,9 @@ Report Title:
 Traffic Abstract; Expungement; Limitation on Disclosure
  
 Description:
-Requires district court to delete from a driver's traffic abstract any violation that the driver is found not to have committed.  Prohibits disclosure of dispositions of infractions that precede the date of request by more than     years.
+Requires district court to delete from a driver's traffic abstract any violation that the driver is found not to have committed.  Prohibits disclosure of dispositions of infractions that precede the date of request by more than     years.  Specifies that only convictions or civil judgments for moving violations and administrative driver's license revocations be released on a certified traffic abstract.  Effective October 1, 2012.  (HB14 HD1)
  
  
  
 The summary description of legislation appearing on this page is for informational purposes only and is not legislation or evidence of legislative intent.
+ 
